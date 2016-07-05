@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<item>
+<title>[COLOR lavenderblush]SERIES RECENTES[/COLOR]           [COLOR orange](SPECTO)[/COLOR]</title>
+<link>http://Movies.me</link>
+<jsonrpc>plugin://plugin.video.specto/?action=tvWidget</jsonrpc>
+<thumbnail>http://orig01.deviantart.net/5da2/f/2015/035/d/e/t_v__series_folder_icon__colorflow__by_thajizzle-d8gpn4v.png</thumbnail>
+<fanart>http://alchimy.info/wp-content/uploads/2015/06/7_s%C3%A9ries_au_crible.jpg</fanart>
+</item>
+</Channel>
+
+
+
+<item>
+<title>[COLOR lavenderblush]SERIES POPULARES[/COLOR]           [COLOR orange](SPECTO)[/COLOR]</title>
+<link>http://Movies.me</link>
+<jsonrpc>plugin://plugin.video.specto/?action=tvshows&amp;url=popular</jsonrpc>
+<thumbnail>http://a1.mzstatic.com/us/r30/Purple3/v4/44/26/5b/44265b2f-e39e-21c0-f128-aebc886d5b06/icon128-2x.png</thumbnail>
+<fanart>http://1.bp.blogspot.com/-JJWTX1qGy08/TuD0c3ec4dI/AAAAAAAAAxo/0_fj2XSlL7E/s1600/the_secret_circle_wallpaper_by_nikola94-d4a6g2s.png</fanart>
+</item>
+</Channel>
+
+
+<item>	
+<title> [COLOR white] LISTA DE SERIES [/COLOR]           [COLOR orange]TVsupertuga[/COLOR]</title>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/34/49/16/34491659b7f01ff1038e1e195368db9a.jpg</thumbnail>
+<fanart>http://images2.fanpop.com/image/photos/11400000/New-Moon-Collage-twilight-series-11465752-2560-1440.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>http://tv-super-tuga-add-estrutura.comlu.com/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA/SERIES/SERIES%20FULL.m3u</externallink>
+</item>
+</Channel>
+
+
+<item>	
+<title> [COLOR white] LISTA DE SERIES [/COLOR]           [COLOR orange](Patrick Machado)[/COLOR]</title>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/34/49/16/34491659b7f01ff1038e1e195368db9a.jpg</thumbnail>
+<fanart>http://images2.fanpop.com/image/photos/11400000/New-Moon-Collage-twilight-series-11465752-2560-1440.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/pmachad0/OnSerieS/playlistv/onseries.m3u8</externallink>
+</item>
+</Channel>
+
+
+<item>		
+<title> [COLOR white] LISTA DE SERIES[/COLOR]           </title>
+<thumbnail>http://icons.iconarchive.com/icons/lajonard/movie-folder/256/Series-icon.png</thumbnail>
+<fanart>https://justanotherlight.files.wordpress.com/2013/11/sc3a9ries-tv.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>http://www.iptvonline.tk/movies/</externallink>
+</item>
+</Channel>
+
+https://raw.githubusercontent.com/pmachad0/OnSerieS/playlistv/onseries.m3u8

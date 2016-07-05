@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+
+<item>	
+<title> [COLOR white] PT SPORTS TVS [/COLOR]             [COLOR orange]TVsupertuga[/COLOR]</title>
+<thumbnail>http://www.vodafone.pt/NR/rdonlyres/6779103C-45BA-41B5-9B1F-416695A413D2/0/destaque_canal_sporttv_premium_449x196.jpg</thumbnail>
+<fanart>http://images2.fanpop.com/image/photos/11400000/New-Moon-Collage-twilight-series-11465752-2560-1440.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>http://tv-super-tuga-add-estrutura.comlu.com/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA/SPORTS/SPORTS-MENU1.xml</externallink>
+</item>
+</Channel>
+
+
+<item>	
+<title> [COLOR white] SPORTS TVS  [/COLOR]             [COLOR orange](plexus acestream)[/COLOR]</title>
+<thumbnail>https://i.ytimg.com/vi/98kXr_GxNqo/maxresdefault.jpg</thumbnail>
+<fanart>http://images2.fanpop.com/image/photos/11400000/New-Moon-Collage-twilight-series-11465752-2560-1440.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>http://tv-super-tuga-add-estrutura.comlu.com/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA/SPORTS/SPORTS-MENU2.xml</externallink>
+</item>
+</Channel>
+
+
+<item>		
+<title> [COLOR white]WORLD SPORTS TVS[/COLOR]            [COLOR orange]TVsupertuga[/COLOR] </title>
+<thumbnail>https://pbs.twimg.com/profile_images/378800000796252042/bcfc8a1fd95fb8cdeae9d5706b57d7c7_400x400.jpeg</thumbnail>
+<fanart>https://justanotherlight.files.wordpress.com/2013/11/sc3a9ries-tv.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>http://tv-super-tuga-add-estrutura.comlu.com/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA/SPORTS/SPORTS-MENU3.xml</externallink>
+</item>
+</Channel>
+
+<item>
+<title> [COLOR white]ARENAVISION AGENDA[/COLOR]                  [COLOR orange](p2psport)[/COLOR]</title>
+<link>http://Movies.me</link>
+<jsonrpc>plugin://plugin.video.p2psport/?mode=av_schedule</jsonrpc>
+<thumbnail>http://i.imgur.com/W23oElM.png</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
+</item>
+
+
+<item>
+<title> [COLOR white]FOOTBALL REPLAYS[/COLOR]                  [COLOR orange](football today)[/COLOR]</title>
+<link>http://Movies.me</link>
+<jsonrpc>plugin://plugin.video.football.today/?action=videos_games</jsonrpc>
+<thumbnail>http://3.bp.blogspot.com/-a3BcIcfxTTw/VO7-K7t9tgI/AAAAAAAAKdA/_yDy5iOo7sE/s1600/FOOTBALL%2BREPLAYS.PNG</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
+</item>
+
