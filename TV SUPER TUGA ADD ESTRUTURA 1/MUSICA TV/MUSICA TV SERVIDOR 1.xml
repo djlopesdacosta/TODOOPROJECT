@@ -1,0 +1,141 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="http://www.felfoldi.ro/_pu/2/79444749.jpg" group-title="MUSICA",[COLOR lavenderblush][I][B]VEVO 1 HD [/B][/I][/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://etvix.com/wp-content/uploads/2015/12/vevo2.png" group-title="MUSICA",[COLOR lavenderblush][I][B]VEVO 2 HD [/B][/I][/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://etvix.com/wp-content/uploads/2015/12/vevo3.png" group-title="MUSICA",[COLOR lavenderblush][I][B]VEVO 3 HD [/B][/I][/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/06/TV_One_logo_2010.png/revision/latest?cb=20130323130404" group-title="MUSICA",[COLOR lavenderblush][I][B]ONE 1 [/B][/I][/COLOR]
+http://rtmp.one.by:1300
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/06/TV_One_logo_2010.png/revision/latest?cb=20130323130404" group-title="MUSICA",[COLOR lavenderblush][I][B]ONE 2 [/B][/I][/COLOR]
+http://rtmp.one.by:1400
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/06/TV_One_logo_2010.png/revision/latest?cb=20130323130404" group-title="MUSICA",[COLOR lavenderblush][I][B]ONE 3 [/B][/I][/COLOR]
+http://rtmp.one.by:1499
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/06/TV_One_logo_2010.png/revision/latest?cb=20130323130404" group-title="MUSICA",[COLOR lavenderblush][I][B]ONE 4 [/B][/I][/COLOR]
+http://rtmp.one.by:2300
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409485657/logo.png" group-title="MUSICA",[COLOR lavenderblush][I][B]DJING [/B][/I][/COLOR] 
+http://cdn.djing.com/tv/05.m3u8
+
+#EXTINF:-1 tvg-logo="http://futuresound.tv/images/ibiza_tv.png" group-title="MUSICA",[COLOR lavenderblush][I][B]DJING IBIZA [/B][/I][/COLOR] 
+http://www.djing.com/tv/d-05.m3u8
+
+#EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1447183057.png" group-title="MUSICA",[COLOR lavenderblush][I][B]DJING ANIMATION [/B][/I][/COLOR] 
+http://www.djing.com/tv/a-05.m3u8
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/14/b2/7d/14b27d75885e59b273dd2f1b4d3d24dd.jpg" group-title="MUSICA",[COLOR lavenderblush][I][B]DJING DJS [/B][/I][/COLOR] 
+http://www.djing.com/tv/tmp/Hedonist_April_2015_DjingMedium/stream-5-2600000/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Classic.jpg" group-title="MUSICA",[COLOR lavenderblush][I][B]DJING CLASSIC [/B][/I][/COLOR] 
+http://www.djing.com/tv/i-05.m3u8
+
+#EXTINF:-1 tvg-logo="http://jamthehype.com/jth-content/uploads/2014/02/Juce-TV-article-.jpg" group-title="MUSICA",[COLOR lavenderblush][I][B]JUCE TV [/B][/I][/COLOR]
+http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://oilfieldministries.com/4ofmtv_radio/logos/vox_tv.png" group-title="MUSICA",[COLOR lavenderblush][I][B]VOX TV [/B][/I][/COLOR]
+rtmp://stream.smcloud.net/live2/vox/vox_720p
+
+#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/YQRsN9ehKEZDKexfeam0H5zBzgm6YRPOAz-jnDQCZDvbm6ceGHRcQXHm7tUiWFvAwQ=w300" group-title="MUSICA",[COLOR lavenderblush][I][B]RADIO MONTE CARLO TV [/B][/I][/COLOR] 
+rtmp://fms.105.net:1935/live/rmc1
+
+#EXTINF:-1 tvg-logo="http://dailycapital.pk/wp-content/uploads/2015/01/capital_tv_logo1-54ab2410v1_site_icon.png" group-title="MUSICA",[COLOR lavenderblush][I][B]CAPITAL TV [/B][/I][/COLOR]
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Heart_TV_logo.png" group-title="MUSICA",[COLOR lavenderblush][I][B]HEART TV [/B][/I][/COLOR]
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://www.iptv-news.com/wp-content/uploads/iptv-news/2014/11/virgin-tv.jpg" group-title="MUSICA",[COLOR lavenderblush][I][B]VIRGIN TV [/B][/I][/COLOR]
+rtmp://fms.105.net:1935/live/virgin2
+
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/1/1d/M6_Music_2012.png/revision/latest?cb=20130825115255" group-title="MUSICA",[COLOR lavenderblush][I][B]M6 MUSIC [/B][/I][/COLOR]
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+
+#EXTINF:-1 tvg-logo="1http://rusipr.com/wp-content/uploads/2015/09/1HD.jpg" group-title="MUSICA",[COLOR lavenderblush][I][B]1 HD [/B][/I][/COLOR]
+rtmp://109.239.142.62/live/livestream3
+
+#EXTINF:-1 tvg-logo="http://radiou.com/wp-content/uploads/2015/06/RadioUTVPoster960.jpg" group-title="MUSICA",[COLOR lavenderblush][I][B]RADIO U TV [/B][/I][/COLOR]
+rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/ playpath=mp4:radioutv1 swfUrl=http://radiou.com/jwplayer/jwplayer.flash.swf pageUrl=http://radiou.com/tv/
+
+#EXTINF:-1 tvg-logo="http://d34elvfuwuckt2.cloudfront.net/wp-content/uploads/sites/21/2014/03/MUSIC-AFRICA-LOGO.jpg" group-title="MUSICA",[COLOR lavenderblush][I][B]AFRICA MUSICA [/B][/I][/COLOR]
+http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/01_logo/pik_sat_cyprius.jpg" group-title="MUSICA",[COLOR lavenderblush][I][B]PIK [/B][/I][/COLOR] 
+http://87.245.214.43/streaming/pik_hd/126/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.clker.com/cliparts/k/J/b/A/C/T/hot-button-hi.png" group-title="MUSICA",[COLOR lavenderblush][I][B]HOT HOT HOT [/B][/I][/COLOR]
+http://www.djing.com/tv/hothothot.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Underground.svg/2000px-Underground.svg.png" group-title="MUSICA",[COLOR lavenderblush][I][B]UNDERGROUND [/B][/I][/COLOR]
+http://www.djing.com/tv/underground.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-tv.in/wp-content/uploads/2014/12/DJing-DANCEFLOOR-live-streaming.gif" group-title="MUSICA",[COLOR lavenderblush][I][B]DANCEFLOOR [/B][/I][/COLOR]
+http://www.djing.com/tv/dancefloor.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/i/XIjwFJAwO8PRPm6Z2yLF7w/mq1.jpg?v=b123a5" group-title="MUSICA",[COLOR lavenderblush][I][B]DREAM TV [/B][/I][/COLOR]
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/EskaTV_logo_2011.png" group-title="MUSICA",[COLOR lavenderblush][I][B]ESKA BEST MUSIC [/B][/I][/COLOR]
+rtmp://stream.smcloud.net/live2/best/best_720p
+
+#EXTINF:-1 tvg-logo="https://lipglossproductions.files.wordpress.com/2010/10/0_285_427_http___offlinehbpl_hbpl_co_uk_news_wmx_035bf243-c18e-7281-a99bd4455acf732a.jpg" group-title="MUSICA",[COLOR lavenderblush][I][B]CLUBLAND [/B][/I][/COLOR]
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sponge.co.uk/blog/wp-content/uploads/2014/08/Now-Music-Logo.jpeg" group-title="MUSICA",[COLOR lavenderblush][I][B]NOW MUSIC [/B][/I][/COLOR] 
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Radio_5_Logo.svg/2000px-Radio_5_Logo.svg.png" group-title="MUSICA",[COLOR lavenderblush][I][B]RADIO 5 TV [/B][/I][/COLOR]
+rtmp://fms.105.net/live/105Test1
+
+#EXTINF:-1 tvg-logo="http://ncplus.pl/~/media/N/NPL/Kanaly/logo%20na%20strony%20kanalow/POLO-TV-630.png?bc=White&w=575" group-title="MUSICA",[COLOR lavenderblush][I][B]POLO PARTY TV [/B][/I][/COLOR]
+rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p
+
+#EXTINF:-1 tvg-logo="http://portalmedialny.pl/media/images/original/md5/4/7/478f7fcfb220d664a22928dd526942ea/eskarock-tv.jpg" group-title="MUSICA",[COLOR lavenderblush][I][B]ESKA ROCK TV [/B][/I][/COLOR]
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+
+#EXTINF:-1 tvg-logo="http://www.livestream.com/filestore/logos/3b2fdfc1-ca40-52ca-d7b9-dde430b43d96-banner.jpg" group-title="MUSICA",[COLOR lavenderblush][I][B]KISS TV [/B][/I][/COLOR]
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
+
+#EXTINF:-1 tvg-logo="http://www.freeiptvlinks.com/wp-content/uploads/2015/05/download-1.jpg" group-title="MUSICA",[COLOR lavenderblush][I][B]ULTRA FIESTA [/B][/I][/COLOR]
+http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://redir.atmcdn.pl/https/mm/multimedia/live/amazing/aMazingCover500x200.png" group-title="MUSICA",[COLOR lavenderblush][I][B]AMAZING TV [/B][/I][/COLOR]
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Hip_hop_tv_it.png" group-title="MUSICA",[COLOR lavenderblush][I][B]REAL HIP HOP TV [/B][/I][/COLOR]
+http://rhn.tulix.tv/live/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",[COLOR lavenderblush][I][B]BIG POND MUSIC [/B][/I][/COLOR]
+mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-hBCY4jg5VWA/VTZvndrxWzI/AAAAAAAADos/qK0sUPPLVOY/s1600/3D.jpg" group-title="MUSICA",[COLOR lavenderblush][I][B]HDMEDIA 3D [/B][/I][/COLOR]
+http://hdmedia3d.vintera.tv:1935/hdmedia3d/hdmedia3d.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/MCM_Top_Logo.svg/663px-MCM_Top_Logo.svg.png" group-title="MUSICA",[COLOR lavenderblush][I][B]MCM TOP [/B][/I][/COLOR]
+http://fe-mos.svc.iptv.rt.ru/hls/CH_C02_MCMTOP/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vpxwty1438373956.png" group-title="MUSICA",[COLOR lavenderblush][I][B]MTV DANCE [/B][/I][/COLOR]
+http://fe-mos.svc.iptv.rt.ru/hls/CH_C06_MTVDANCE/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vpxwty1438373956.png" group-title="MUSICA",[COLOR lavenderblush][I][B]MTV DANCE [/B][/I][/COLOR]
+http://212.20.42.114:4022/udp/225.54.23.124:5000
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uwvssy1438373966.png" group-title="MUSICA",[COLOR lavenderblush][I][B]MTV HITS [/B][/I][/COLOR]
+http://fe-mos.svc.iptv.rt.ru/hls/CH_C02_MTVHITS/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uwvssy1438373966.png" group-title="MUSICA",[COLOR lavenderblush][I][B]MTV HITS [/B][/I][/COLOR]
+http://212.20.42.114:4022/udp/225.54.23.125:5000
+
+#EXTINF:-1 tvg-logo="http://www.1click3dprint.com/wp-content/uploads/2015/04/miami_tv_us.png" group-title="MUSICA",[COLOR lavenderblush][I][B]MIAMI MUSIC TV [/B][/I][/COLOR]
+http://74.208.152.93/music/stream3/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/07/sporttimetv.png" group-title="MUSICA",[COLOR lavenderblush][I][B]SPORTTIME 1 MUSIC [/B][/I][/COLOR]
+http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel1_800.mp4.m3u8

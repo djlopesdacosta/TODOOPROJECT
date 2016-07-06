@@ -1,0 +1,667 @@
+#EXTM3U 
+
+
+
+
+#EXTINF:0 RÁDIOS PORTUGUESAS 
+http://0.0.0.0:1111
+#EXTINF:0,RFM CLUBBING
+http://7719.live.streamtheworld.com:80/RFMCLUBBINGAAC_SC
+#EXTINF:0,Rádio RFM
+http://7719.live.streamtheworld.com/RFM_SC
+#EXTINF:0,RFM Oceano Pacifico
+http://7749.live.streamtheworld.com:3690/OCEANPACIFIC_SC
+#EXTINF:334903,RFM 80s
+http://7749.live.streamtheworld.com:3690/GR80SRFM_SC
+#EXTINF:342041,Radio M80
+http://7719.live.streamtheworld.com:80/GR80SRFMAAC_SC
+#EXTINF:0,Radio Top 80
+http://live.top80.fm:8086/;
+#EXTINF:0,NOVA ERA
+http://stream.radio.com.pt:9478/stream
+#EXTINF:0,94 FM
+http://195.8.58.150:35022/;stream.nsv
+#EXTINF:0,SUPER FM
+http://94.23.76.235:9956/
+#EXTINF:0,HIPER FM
+http://85.25.73.243:10460/
+#EXTINF:0,Radio Total Fm
+http://94.126.173.23:8000/;stream/1
+#EXTINF:0,Rádio Antena 1
+mms://195.245.168.21/antena1
+#EXTINF:0,Rádio Antena 2
+mms://195.245.168.21/antena2
+#EXTINF:0,Rádio Antena3
+mms://195.245.168.21/antena3
+#EXTINF:0,Rádio Comercial
+mmsh://195.23.102.196/comercialcbr96?referrer=http://radiocomercial.clix.pt/asx/dynamic_channel.aspigrekrndigual80706&MSWMExt=.asf
+#EXTINF:0,Rádio Orbital
+http://195.23.85.126:8401/1
+#EXTINF:0,Rádio Renascença
+http://7709.live.streamtheworld.com:3690/RADIO_RENASCENCA_SC?.wma
+#EXTINF:0,Rádio MegaFM
+http://7719.live.streamtheworld.com:3690/MEGA_HITS_SC?.wma
+#EXTINF:0,Rádio Viva 80
+http://streaming.radionomy.com/VIVA80
+#EXTINF:0,Rádio RLCB Dance
+http://rlcbdance.no-ip.org:8431/;
+#EXTINF:0,WHMSonic AutoDJ
+http://72.55.156.247:9734/;stream.nsv
+#EXTINF:0,105 cascais
+http://94.23.76.235:9896/;stream/1
+#EXTINF:0,Radio Amalia
+http://stream.radio.com.pt:9496/stream
+#EXTINF:0,Radio Despertar Estremoz
+http://stream.vgsoftware.com.pt:8000/radiodespertar.m3u
+#EXTINF:0,Radio Douro Nacional
+http://94.23.76.235:9996/;
+#EXTINF:-1 radio="true" tvg-id="golofm.pt" tvg-logo="GOLOFM.png",[COLOR green] GOLO FM [/COLOR]
+http://176.9.88.190:9992/; 
+#EXTINF:-1 radio="true" tvg-logo="ra.png",[COLOR green] Radio Atlântida [/COLOR] 
+http://94.23.76.235:9926 
+#EXTINF:-1 radio="true" tvg-logo="MyTopFm.png",[COLOR green] MyTopFm SM [/COLOR] 
+http://195.8.58.150:35006/ 
+#EXTINF:-1 radio="true" tvg-logo="MyTopFm.png",[COLOR green] MyTopFm Terceira [/COLOR] 
+http://195.8.58.150:35008/ 
+#EXTINF:-1 radio="true" tvg-logo="canalfm.jpg",[COLOR green] Canal FM [/COLOR] 
+http://centova.radio.com.pt:9466/ 
+#EXTINF:-1 radio="true" tvg-logo="c.png",[COLOR green] TREEHOUSE [/COLOR] 
+http://4.31.30.159:9091 
+#EXTINF:-1 radio="true" tvg-logo="itv.jpg",[COLOR green] YTV [/COLOR] 
+http://4.31.30.159:9001 
+#EXTINF:-1 radio="true"tvg-logo="Cidade FM.png" group-title="RADIOS",[COLOR green] CIDADE FM [/COLOR] 
+rtmp://195.23.102.208/cidadefmlc/ playpath=cidadefmlc.sdp swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 pageUrl=http://www.radioonline.com.pt/#radio-cidade-fm 
+#EXTINF:-1 radio="true"tvg-logo="radiomeomusicweb.png",[COLOR green] PORTUGAL SW [/COLOR] 
+http://centova.radios.pt:8495/; 
+#EXTINF:-1 radio="true"tvg-logo="vodafonefm.jpg",[COLOR green] VODAFONE FM [/COLOR] 
+rtmp://195.23.102.206/autometadata5/ playpath=vodafone.sdp swfUrl=http://www.vodafone.fm/flash/soundmanager2_flash9.swf?ts=1425470563156 live=1 pageUrl=http://www.vodafone.fm/ 
+#EXTINF:-1 radio="true"tvg-logo="rfmclubbing.png",[COLOR green] RFM CLUBBING [/COLOR] 
+http://7719.live.streamtheworld.com:80/RFMCLUBBINGAAC_SC 
+#EXTINF:-1 radio="true"tvg-logo="rfm.png",[COLOR green] RFM [/COLOR] 
+http://7719.live.streamtheworld.com/RFM_SC 
+#EXTINF:-1 radio="true"tvg-logo="rfm.png",[COLOR green] RFM Oceano Pacifico [/COLOR] 
+http://7749.live.streamtheworld.com:3690/OCEANPACIFIC_SC 
+#EXTINF:-1 radio="true"tvg-logo="rfm 80.png" group-title="RADIOS",[COLOR green] RFM 80s [/COLOR] 
+http://7749.live.streamtheworld.com:3690/GR80SRFM_SC 
+#EXTINF:-1 radio="true"tvg-logo="m80 Radio.png" group-title="RADIOS",[COLOR green] Radio M80 [/COLOR] 
+http://7719.live.streamtheworld.com:80/GR80SRFMAAC_SC 
+#EXTINF:-1 radio="true"tvg-logo="top80.png" group-title="RADIOS",[COLOR green] Radio TOP 80 [/COLOR] 
+http://live.top80.fm:8086/; 
+#EXTINF:-1 radio="true"tvg-logo="Radio_Comercial.png" group-title="RADIOS",[COLOR green] Radio COMERCIAL [/COLOR] 
+mmsh://195.23.102.196/comercialcbr96?referrer=http://radiocomercial.clix.pt/asx/dynamic_channel.aspigrekrndigual80706&MSWMExt=.asf
+#EXTINF:-1 radio="true"tvg-logo="Radio-Nova-Era.jpg" group-title="RADIOS",[COLOR green] NOVA ERA [/COLOR] 
+http://stream.radio.com.pt:9478/stream 
+#EXTINF:-1 radio="true"tvg-logo="94 FM.jpg" group-title="RADIOS",[COLOR green] R94 FM [/COLOR] 
+http://195.8.58.150:35022/;stream.nsv 
+#EXTINF:-1 radio="true"tvg-logo="super.png" group-title="RADIOS",[COLOR green] SUPER FM [/COLOR] 
+http://94.23.76.235:9956/ 
+#EXTINF:-1 radio="true"tvg-logo="hiper.png" group-title="RADIOS",[COLOR green] HIPER FM [/COLOR] 
+http://85.25.73.243:10460/ 
+#EXTINF:-1 radio="true"tvg-logo="logo Total.jpg" group-title="RADIOS",[COLOR green] Radio Total Fm [/COLOR] 
+http://94.126.173.23:8000/;stream/1 
+#EXTINF:-1 radio="true"tvg-logo="Antena 1.png" group-title="RADIOS",[COLOR green] Radio ANTENA 1 [/COLOR] 
+mms://195.245.168.21/antena1 
+#EXTINF:-1 radio="true"tvg-logo="Antena 2.png" group-title="RADIOS",[COLOR green] Radio ANTENA 2 [/COLOR] 
+mms://195.245.168.21/antena2 
+#EXTINF:-1 radio="true"tvg-logo="Antena 3.png" group-title="RADIOS",[COLOR green] Radio ANTENA 3 [/COLOR] 
+mms://195.245.168.21/antena3 
+#EXTINF:-1 radio="true"tvg-logo="orbital.jpg" group-title="RADIOS",[COLOR green] Radio ORBITAL [/COLOR] 
+http://195.23.85.126:8401/1 
+#EXTINF:-1 radio="true"tvg-logo="renascenca.png" group-title="RADIOS",[COLOR green] Radio RENASCENÇA [/COLOR] 
+http://7709.live.streamtheworld.com:3690/RADIO_RENASCENCA_SC?.wma 
+#EXTINF:-1 radio="true"tvg-logo="megafm.png" group-title="RADIOS",[COLOR green] MEGA FM [/COLOR] 
+http://7719.live.streamtheworld.com:3690/MEGA_HITS_SC?.wma 
+#EXTINF:-1 radio="true"tvg-logo="VIVA80.jpg" group-title="RADIOS",[COLOR green] Radio VIVA 80 [/COLOR] 
+http://streaming.radionomy.com/VIVA80 
+#EXTINF:-1 radio="true"tvg-logo="Radio Lusitania.png" group-title="RADIOS",[COLOR green] Rádio RLCB Dance [/COLOR] 
+http://rlcbdance.no-ip.org:8431/; 
+#EXTINF:-1 radio="true"tvg-logo="radio.jpg" group-title="RADIOS",[COLOR green] WHMSonic AutoDJ [/COLOR] 
+http://72.55.156.247:9734/;stream.nsv 
+#EXTINF:-1 radio="true"tvg-logo="cascais.jpg" group-title="RADIOS",[COLOR green] 105 CASCAIS [/COLOR] 
+http://94.23.76.235:9896/;stream/1 
+#EXTINF:-1 radio="true"tvg-logo="Radio-Amalia.jpg" group-title="RADIOS",[COLOR green] RADIO AMALIA [/COLOR] 
+http://stream.radio.com.pt:9496/stream 
+#EXTINF:-1 radio="true"tvg-logo="douro.jpg" group-title="RADIOS",[COLOR green] Radio Douro Nacional [/COLOR] 
+http://94.23.76.235:9996/; 
+#EXTINF:-1 radio="true"tvg-logo="radiomira.jpg" group-title="RADIOS",[COLOR green] Radio MIRA ONLINE [/COLOR] 
+http://185.32.188.17:8051/
+#EXTINF:-1 radio="true"tvg-logo="Radio_Comercial.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]COMERCIAL [/B][/I][/COLOR]
+rtmp://195.23.102.206/comerciallc playpath=comerciallc.sdp swfUrl=http://radiocomercial.iol.pt/player/scripts/player.swf pageUrl=http://radiocomercial.iol.pt/player/
+#EXTINF:-1 radio="true"tvg-logo="rfmclubbing.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RFM CLUBBING [/B][/I][/COLOR]
+http://7719.live.streamtheworld.com:80/RFMCLUBBINGAAC_SC
+#EXTINF:-1 radio="true"tvg-logo="m80.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]M80 [/B][/I][/COLOR]
+rtmp://195.23.102.206/m80lc playpath=m80lc.sdp swfUrl=m80.iol.pt/player/player.swf?v=1.0 live=1 pageUrl=http://m80.iol.pt/
+#EXTINF:-1 radio="true"tvg-logo="94fm.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]94FM [/B][/I][/COLOR]
+http://195.8.58.150:35022
+#EXTINF:-1 radio="true"tvg-logo="nostalgia.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]NOSTALGIA [/B][/I][/COLOR]
+http://centova.radios.pt:8435
+#EXTINF:-1 radio="true"tvg-logo="superfm.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]SUPER FM [/B][/I][/COLOR]
+http://94.23.76.235:9956/
+#EXTINF:-1 radio="true"tvg-logo="hiperfm.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]HIPER FM [/B][/I][/COLOR]
+http://85.25.73.243:10460/
+#EXTINF:-1 radio="true"tvg-logo="antena1.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]ANTENA 1 [/B][/I][/COLOR]
+mms://rdp.oninet.pt/antena1
+#EXTINF:-1 radio="true"tvg-logo="antena2.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]ANTENA 2 [/B][/I][/COLOR]
+rtmp://195.245.168.29:1935/liveradio/ playpath=antena280a swfUrl=http://cdn.radiosfm.org/swf/soundmanager2_flash9.swf live=1 timeout=15 pageUrl=http://www.radioonline.com.pt
+#EXTINF:-1 radio="true"tvg-logo="rdpafrica.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RDP AFRICA [/B][/I][/COLOR]
+rtmp://195.245.168.29:1935/liveradio/ playpath=rdpafrica80a swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 timeout=15 pageUrl=http://www.radioonline.com.pt
+#EXTINF:-1 radio="true"tvg-logo="antena3_pt.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]ANTENA 3 [/B][/I][/COLOR]
+mms://rdp.oninet.pt/antena3
+#EXTINF:-1 radio="true"tvg-logo="oceano_pacifico.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]OCEANO PACIFICO [/B][/I][/COLOR]
+http://7719.live.streamtheworld.com:3690/OCEANPACIFIC_SC
+#EXTINF:-1 radio="true"tvg-logo="megahits" group-title="RADIOS",[COLOR mediumslateblue][I][B]MEGA HITS [/B][/I][/COLOR]
+http://7719.live.streamtheworld.com:3690/MEGA_HITS_SC?.wma
+#EXTINF:-1 radio="true"tvg-logo="Tropical.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]TROPICAL FM [/B][/I][/COLOR]
+http://radio1.suaradionanet.net:10308/stream?type=.flv
+#EXTINF:-1 radio="true"tvg-logo="RR.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RENASCENÇA [/B][/I][/COLOR]
+http://7709.live.streamtheworld.com:3690/RADIO_RENASCENCA_SC?.wma
+#EXTINF:-1 radio="true"tvg-logo="RFM.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RFM [/B][/I][/COLOR]
+http://7719.live.streamtheworld.com/RFM_SC
+#EXTINF:-1 radio="true"tvg-logo="rfm_80s.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RFM 80 [/B][/I][/COLOR]
+http://11073.live.streamtheworld.com/GR80SRFMAAC?
+#EXTINF:-1 radio="true"tvg-logo="Orbital.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]ORBITAL [/B][/I][/COLOR]
+http://195.23.85.126:8401/1
+#EXTINF:-1 radio="true"tvg-logo="rlcb_dance.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RLCB DANCE[/B][/I][/COLOR]
+http://rlcbdance.no-ip.org:8431/
+#EXTINF:-1 radio="true"tvg-logo="total_fm.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]TOTAL FM[/B][/I][/COLOR]
+http://94.126.173.23:8000/;stream/1
+#EXTINF:-1 radio="true"tvg-logo="novaera.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]NOVA ERA[/B][/I][/COLOR]
+http://stream.radio.com.pt:9478/stream
+#EXTINF:-1 radio="true"tvg-logo="top80.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]TOP 80[/B][/I][/COLOR]
+http://live.top80.fm:8086/
+#EXTINF:-1 radio="true"tvg-logo="vdf.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]VODAFONE FM [/B][/I][/COLOR]
+rtmp://195.23.102.206/autometadata5/ playpath=vodafone.sdp swfUrl=http://www.vodafone.fm/flash/soundmanager2_flash9.swf?ts=1425470563156 live=1 pageUrl=http://www.vodafone.fm/
+#EXTINF:-1 radio="true"tvg-logo="radar.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RADAR [/B][/I][/COLOR]
+http://stream.radio.com.pt:8497/stream
+#EXTINF:-1 radio="true"tvg-logo="radioamalialogo.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]AMÁLIA [/B][/I][/COLOR]
+http://stream.radio.com.pt:9496/stream
+#EXTINF:-1 radio="true"tvg-logo="sim.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]SIM [/B][/I][/COLOR]
+http://62.48.143.117/RADIO_SIM_SC
+#EXTINF:-1 radio="true"tvg-logo="torres_novasfm.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]TORRES NOVAS FM [/B][/I][/COLOR]
+http://centova.radios.pt:8475
+#EXTINF:-1 radio="true"tvg-logo="smooth.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]SMOOTH FM [/B][/I][/COLOR]
+rtmp://195.23.102.206/smoothlc playpath=smoothlc.sdp
+#EXTINF:-1 radio="true"tvg-logo="cidadefm.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]CIDADE FM [/B][/I][/COLOR]
+rtmp://195.23.102.206:1935/cidadefmlc playpath=cidadefmlc.sdp
+#EXTINF:-1 radio="true"tvg-logo="rastamusic.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]REGAEE RADIO 808[/B][/I][/COLOR]
+http://66.225.205.5:80
+#EXTINF:-1 radio="true"tvg-logo="Radio_Top_40.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RADIO TOP 40[/B][/I][/COLOR]
+http://31.12.64.204:8000/A-RADIO-TOP-40
+#EXTINF:-1 radio="true"tvg-logo="ruc.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RUC[/B][/I][/COLOR]
+http://ruc2.cidadedecoimbra.com:8000
+#EXTINF:-1 radio="true"tvg-logo="lamego.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]CLUBE LAMEGO[/B][/I][/COLOR]
+rtmp://aacplus.stream10.net:1935/sfera playpath=7050 swfUrl=http://www.rclamego.pt/player/aacplayer.swf pageUrl=http://www.rclamego.pt/player/aacplayer.swf
+#EXTINF:-1 radio="true"tvg-logo="RDN.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]DOURO NACIONAL[/B][/I][/COLOR]
+http://94.23.76.235:9996/
+#EXTINF:-1 radio="true"tvg-logo="popular_fm.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]POPULAR FM[/B][/I][/COLOR]
+http://195.8.58.150:32281/
+#EXTINF:-1 radio="true"tvg-logo="oxigenio.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]OXIGENIO[/B][/I][/COLOR]
+http://centova.radios.pt:9498
+#EXTINF:-1 radio="true"tvg-logo="ultrafm.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]ULTRA FM[/B][/I][/COLOR]
+http://centova.radios.pt:9506
+#EXTINF:-1 radio="true"tvg-logo="antena_minho.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]ANTENA MINHO[/B][/I][/COLOR]
+http://centova.radios.pt:9464
+#EXTINF:-1 radio="true"tvg-logo="saturno.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RADIO SATURNO[/B][/I][/COLOR]
+http://radiosaturno.dyndns.org:8000
+#EXTINF:-1 radio="true"tvg-logo="marginal.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]MARGINAL[/B][/I][/COLOR]
+http://centova.radios.pt:8499
+#EXTINF:-1 radio="true"tvg-logo="kizomba.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]KIZOMBA[/B][/I][/COLOR]
+http://192.81.248.194:8548/
+#EXTINF:-1 radio="true"tvg-logo="maiskizomba.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]MAIS KIZOMBA[/B][/I][/COLOR]
+http://109.71.41.250:8123/
+#EXTINF:-1 radio="true"tvg-logo="ibiza_sonica.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]IBIZA SONICA [/B][/I][/COLOR]
+http://stream2.wft.es:1025/;stream.mp3
+
+
+
+
+
+
+#EXTINF:-1 radio="true",RÁDIO
+http://rsync.com.br:1935/rsync00025/rsync.sdp/live.m3u8
+#EXTINF:-1 radio="true",RÁDIO 104.9 FM
+http://srv6.zoeweb.tv:1935/z306-live/stream/livestream.m3u8
+#EXTINF:-1 radio="true",RÁDIO CACIQUE AM 760
+http://srv6.zoeweb.tv:1935/z631-live/stream/livestream.m3u8
+#EXTINF:-1 radio="true",RÁDIO CBN RJ
+http://media.sgr.globo.com:1935/VideoCBN/cbnrj1.sdp/live.m3u8
+#EXTINF:-1 radio="true",RÁDIO CBN SP
+http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/live.m3u8
+#EXTINF:-1 radio="true",RÁDIO GLOBO 1100 AM SP
+http://media.sgr.globo.com:1935/VideoRadioGlobo/gamsp1.sdp/live.m3u8
+#EXTINF:-1 radio="true",RÁDIO GLOBO 98.1 FM RJ
+http://media.sgr.globo.com:1935/VideoRadioGlobo/gamrj2.sdp/live.m3u8
+#EXTINF:-1 radio="true",RÁDIO RURAL DE GUARABIRA
+http://srv6.zoeweb.tv:1935/z376-live/stream/livestream.m3u8
+#EXTINF:-1 radio="true",RÁDIO SENTINELA DO VALE SC
+http://rtmp.cdn.upx.net.br:1935/0be3_live2/myStream.sdp/live.m3u8
+#EXTINF:-1 radio="true",RÁDIO VOX 90.3 FM – STUDIO
+http://rtmp.cdn.upx.net.br:1935/00093_1/myStream.sdp/live.m3u8
+
+
+#EXTM3U
+#EXTINF:0, Rock
+http://89.20.132.26:8000/m1_4
+
+#EXTINF:0, Pop Classical
+http://89.20.132.26:8000/m16_4
+
+#EXTINF:0, Modern Talking
+http://89.20.132.26:8000/c7_12
+
+#EXTINF:0, Metallica
+http://89.20.132.26:8000/c14_20
+
+#EXTINF:0, Robbie Williams
+http://89.20.132.26:8000/c16_19
+
+#EXTINF:0, Elvis Presley
+http://89.20.132.26:8000/c13_20
+
+#EXTINF:0, Scorpions
+http://89.20.132.26:8000/c13_22
+
+#EXTINF:0, The Rolling Stones
+http://89.20.132.26:8000/c13_24
+
+#EXTINF:0, Pink Floyd
+http://89.20.132.26:8000/c8_2
+
+#EXTINF:0, The Beatles
+http://89.20.132.26:8000/c10_3
+
+#EXTINF:0, Queen
+http://89.20.132.26:8000/c13_1
+
+#EXTINF:0, U2
+http://89.20.132.26:8000/m13_18
+
+#EXTINF:0, Russian Pop Ballads
+http://89.20.132.26:8000/m16_2
+
+#EXTINF:0, Romantika New York
+http://89.20.132.26:8000/m13_5
+
+#EXTINF:0, Romantika Office Lounge
+http://89.20.132.26:8000/m2_1
+
+#EXTINF:0, Romantika ***
+http://89.20.132.26:8000/m14_13
+
+#EXTINF:0, Romantika Smooth Jazz
+http://89.20.132.26:8000/m2_3
+
+#EXTINF:0, Romantika France
+http://89.20.132.26:8000/m16_17
+
+#EXTINF:0, Romantika Jazz
+http://89.20.132.26:8000/m10_5
+
+#EXTINF:0, Romantika Nature
+http://89.20.132.26:8000/m17_2
+
+#EXTINF:0, Romantika New Age
+http://89.20.132.26:8000/m7_14
+
+#EXTINF:0, Rock Guitar
+http://89.20.132.26:8000/m15_1
+
+#EXTINF:0, Rock n Roll
+http://89.20.132.26:8000/m5_4
+
+#EXTINF:0, Rock Remakes
+http://89.20.132.26:8000/m7_9
+
+#EXTINF:0, Rock Wheel Rock Koleso
+http://89.20.132.26:8000/m7_5
+
+#EXTINF:0, Reggae
+http://89.20.132.26:8000/m5_5
+
+#EXTINF:0, R’n’B
+http://89.20.132.26:8000/m4_3
+
+#EXTINF:0, Thrash Zone
+http://89.20.132.26:8000/m8_3
+
+#EXTINF:0, Classic
+http://89.20.132.26:8000/m7_1
+
+#EXTINF:0, Stars Factory
+http://89.20.132.26:8000/m14_2
+
+#EXTINF:0, Swing
+http://89.20.132.26:8000/m13_4
+
+#EXTINF:0, Russian Ethnique
+http://89.20.132.26:8000/m9_3
+
+#EXTINF:0, Love Songs
+http://89.20.132.26:8000:8000/m9_1
+4.3.2015
+
+
+#EXTINF:-1,Energy
+http://81.19.85.204:80/energy128.mp3
+#EXTINF:-1,Þìîð FM
+http://81.19.85.196/umor128.mp3
+#EXTINF:-1,ÐàäèîÇâåçäà
+http://81.19.85.200:80/zvezda128.mp3
+#EXTINF:-1,Ðåòðî ÔÌ
+http://retro256server.streamr.ru:8048/retro256
+#EXTINF:-1,Ìèëèöåéñêàÿ âîëíà
+http://81.19.85.196/mv128.mp3
+#EXTINF:-1,Þíîñòü
+http://81.19.85.196/unost128.mp3
+#EXTINF:-1,ÀâòîÐàäèî
+http://81.19.85.200/auto128.mp3
+#EXTINF:-1,Íàøå Ðàäèî
+http://81.19.85.204:80/nashe128.mp3
+#EXTINF:-1,Radio Karnaval
+http://81.19.85.200:80/karnaval128.mp3
+#EXTINF:-1,Ðîìàíòèêà
+http://81.19.85.197:80/romantic128.mp3
+#EXTINF:-1,Áèì Ðàäèî
+http://81.19.85.196/bim.mp3
+#EXTINF:-1,Ìåãàïîëèñ
+http://81.19.85.204:80/megapolis128.mp3
+#EXTINF:-1,Relax Fm
+http://81.19.85.200/relax128.mp3
+#EXTINF:-1,Europa Plus
+http://ep256.streamr.ru
+#EXTINF:-1,Europa Plus (128 kbps)
+http://ep128server.streamr.ru:8030/ep128
+#EXTINF:-1,Ultra
+http://81.19.85.204:80/ultra128.mp3
+#EXTINF:-1,Ðóññêîå Ðàäèî
+http://rr.fmtuner.ru/
+#EXTINF:-1,Dfm (Ìîñêâà)
+http://dfm.fmtuner.ru/
+#EXTINF:-1,Õèò ÔÌ
+http://hit.fmtuner.ru/
+#EXTINF:-1,Montecarlo
+http://mc.fmtuner.ru/
+#EXTINF:-1,Love Radio
+http://109.120.158.236:8080/stream/4015/?type=.flv
+#EXTINF:-1,Ðàäèî Maximum
+http://maximum.fmtuner.ru/
+#EXTINF:-1,Ðàäèî Øîêîëàä
+http://81.19.85.204:80/chocolad128.mp3
+#EXTINF:-1,Áðåæíåâ FM (Í.×åëíû)
+http://31.31.199.212:8000/brejnev.mp3
+#EXTINF:-1,Ìèëëåíèóì (Êàçàíü)
+http://95.211.15.193:9994/
+#EXTINF:-1,Comedy Radio (101.ru)
+http://nbn.101.ru:8000/v11_1?43&51
+#EXTINF:-1,Evolution 93.5 (Miami)
+http://188.93.22.164:8080/miami_vk_com_app2462?type=.flv
+#EXTINF:-1,The Mix 101.9 FM (Chicago)
+http://8333.live.streamtheworld.com/WTMXFMAAC?type=.flv
+#EXTINF:-1,Pulse 87.7 (New York)
+http://icy3.abacast.com/pulse87-pulse87aac-64?type=.flv
+#EXTINF:-1,BBC Radio 1 UK (London)
+http://188.138.1.7:10100/753bbc_1?type=.flv
+#EXTINF:-1,RTL 102.5 Rome (Italy)
+http://shoutcast.rtl.it:3010/stream/1/?r=1393797163926
+#EXTINF:-1,Voñal di.fm
+http://pub5.di.fm:80/di_vocaltrance
+#EXTINF:-1,Progressive (di.fm)
+http://pub6.di.fm:80/di_progressive?af0286255fb7be6cba8bbf75
+#EXTINF:-1,Trance (di.fm)
+http://pub6.di.fm:80/di_trance?af0286255fb7be6cba8bbf75
+#EXTINF:-1,House (di.fm)
+http://pub6.di.fm:80/di_house?af0286255fb7be6cba8bbf75
+#EXTINF:-1,RecordClub
+http://78.140.251.20:8102/club_320
+#EXTINF:-1,KissFM Ukraine
+http://stream.kissfm.ua:8000/kiss
+#EXTINF:-1,FG DJradio
+http://fg.impek.com:80
+#EXTINF:-1,Record
+http://78.140.251.20:8101//rr_320
+#EXTINF:-1,ChilloutDreams (di.fm)
+http://pub4.di.fm:80/di_chilloutdreams?af0286255fb7be6cba8bbf75
+#EXTINF:-1,Epic Trance (di.fm)
+http://pub6.di.fm:80/di_epictrance?af0286255fb7be6cba8bbf75
+#EXTINF:-1,DeepHouse (di.fm)
+http://pub8.di.fm:80/di_deephouse?af0286255fb7be6cba8bbf75
+#EXTINF:-1,ElectroHouse (di.fm)
+http://pub6.di.fm:80/di_electrohouse?af0286255fb7be6cba8bbf75
+#EXTINF:-1,DrumAndBass (di.fm)
+http://pub5.di.fm:80/di_drumandbass?af0286255fb7be6cba8bbf75
+#EXTINF:-1,RecordDanceCore (Record Station)
+http://78.140.251.20:8102/dc_320
+#EXTINF:-1,RecordDeep (Record Station)
+http://78.140.251.20:8102/deep_320
+#EXTINF:-1,ÃÎÏ FM (Record Station)
+http://78.140.251.20:8102/gop_320
+#EXTINF:-1,Ìåäëÿê FM (Record Station)
+http://78.140.251.20:8102/mdl_320
+#EXTINF:-1,ÑóïåðÄèñêîòåêà 90õ (Record Station)
+http://78.140.251.20:8102/sd90_320
+#EXTINF:-1,TranceMission Radio (Record Station)
+http://78.140.251.20:8102/tm_320
+#EXTINF:-1,YO FM (Record Station)
+http://78.140.251.20:8102/yo_320
+#EXTINF:-1,AfterHours.FM
+http://ua.ah.fm:8000/afterhours
+#EXTINF:-1,ADR.FM - Daybreak - Daybreak FM
+http://stream.adr.fm:8003/;stream
+#EXTINF:-1,Z100 (New York)
+http://85.25.43.52:10100/753z100?type=.flv
+#EXTINF:-1,KISS FM (New York)
+http://85.25.43.52:10100/753kiisfm102?type=.flv
+
+20.1.2015
+http://188.138.1.203:80/dream
+http://188.138.1.203:80/dreamturk
+http://188.138.1.203:80/efsane
+http://188.138.1.203:80/gazino
+http://188.138.1.203:80/hitplay
+http://188.138.1.203:80/kafa
+http://188.138.1.203:80/kampus
+http://188.138.1.203:80/klasik
+http://188.138.1.203:80/latintest
+http://188.138.1.203:80/loca
+http://188.138.1.203:80/mazi
+http://188.138.1.203:80/popcorn
+http://188.138.1.203:80/rockcafe
+http://188.138.1.203:80/radyocazz
+http://188.138.1.203:80/radyod
+http://188.138.1.203:80/slowturk
+http://188.138.1.203:80/sultan
+http://188.138.1.203:80/turkubar
+http://188.138.1.203:80/turkpop
+
+#EXTINF:-1,Holiday Gym
+http://prositel1.com:9001/holidaygym
+
+#EXTINF:-1,Fun Radio
+http://5.39.66.128:23500/;stream.nsv
+
+#EXTINF:-1,M80
+http://5293.live.streamtheworld.com/M80RADIOAAC
+
+#EXTINF:-1,Radio 5 Noticias
+http://195.10.10.213/rtve/radio5.mp3?GKID=1432ea68be5e11e388dd00163ea2c744&fspref=aHR0cDovL3N3Zi5ydHZlLmVzL3N3Zi80LjIuMTgvUlRWRVBsYXllckF1ZGlvLnN3Zg%3D%3D
+
+#EXTINF:-1,Europa FM
+rtmp://$OPT:rtmp-raw=rtmp://antena3fms35geobloqueolivefs.fplive.net:1935/antena3fms35geobloqueolive-live playpath=stream-europafm swfUrl=http://www.europafm.com/static/swf/swf/AUPlayerBlack.swf live=1 pageUrl=http://www.europafm.com/directo/
+
+#EXTINF:-1,Radio 3
+http://195.10.10.210/rtve/radio3.mp3?GKID=f594eea2c4a811e3b8d700163e914f69&fspref=aHR0cDovL3N3Zi5ydHZlLmVzL3N3Zi80LjIuMTgvUlRWRVBsYXllckF1ZGlvLnN3Zg%3D%3D
+
+#EXTINF:-1,Los 40 Principales
+http://4123.live.streamtheworld.com/LOS40AAC?uuid=bd473b06-fc04-4f7f-ac0d-8d46a5269a11
+
+#EXTINF:-1,Onda Cero
+http://stream.ondaceronoroeste.es/ondacero.mp3
+
+#EXTINF:-1,EsRadio
+http://livestreaming.esradio.fm/stream64.mp3
+
+#EXTINF:-1,Cadena 100
+rtmp://$OPT:rtmp-raw=rtmp://cp120148.live.edgefcs.net:1935/live?ovpfv=2.1.7-internal playpath=cadena100@48967 swfUrl=http://player.cadena100.es/mod_cope_player_audio.swf live=1 pageUrl=http://player.cadena100.es/
+
+#EXTINF:-1,Onda Madrid
+http://telemadridlive-f.akamaihd.net/ondamadrid_1_1@113768?videoId=2508076081001&lineUpId=&pubId=104403117001&playerId=1349104977001&affiliateId=&v=3.3.0&fp=WIN%2012,0,0,77&r=QDOOE&g=QCMXTFYNGQUF
+
+#EXTINF:-1,Rock FM
+rtmp://$OPT:rtmp-raw=rtmp://cp120147.live.edgefcs.net:1935/live?ovpfv=2.1.7-internal playpath=rockandgol@48966 swfUrl=http://player.rockfm.fm/mod_cope_player_audio.swf live=1 pageUrl=http://player.rockfm.fm/
+
+#EXTINF:-1,Kiss Fm
+rtmp://$OPT:rtmp-raw=rtmp://kissfm.es.flash3.glb.ipercast.net/kissfm.es-live playpath=aac.stream swfUrl=http://www.kissfm.es/player/kissplayer/player.swf live=1 pageUrl=http://www.kissfm.es/player/kissplayer/index.php
+
+#EXTINF:-1,Radio Marca
+rtmp://$OPT:rtmp-raw=rtmp://v.uecdn.es:1935/live playpath=0_xcp7l2j4_1 swfUrl=http://v.uecdn.es/p/110/sp/11000/flash/kdp3/v3.7.5ue/kdp3.swf live=1 pageUrl=http://www.marca.com/radio/directo/index.html?aP=false&eI=0_71mmohqp&sT=entryId&rT=rtmp&dL=nacional&pR=Radio%20MARCA%20en%20directo&pP=true
+
+#EXTINF:-1,Maxima Fm
+http://5243.live.streamtheworld.com/MAXIMAFMAAC
+
+#EXTINF:-1,Cadena Ser
+http://4003.live.streamtheworld.com/CADENASERAAC
+
+#EXTINF:-1,Cope FM
+rtmp://$OPT:rtmp-raw=rtmp://cp111202.live.edgefcs.net:1935/live?ovpfv=2.1.7-internal playpath=cope_fm@48965 swfUrl=http://www.cope.es/docs/repositorio/es_ES/player2/mod_cope_player.swf live=1 pageUrl=http://www.cope.es/player/id=2013082517240001?activo=5
+
+#EXTINF:-1,Radio 4G " Radio Siglo XXI "
+http://195.10.10.213/radio4g/radiosigloxxi.mp3?GKID=68e2e52cc4a811e388dd00163ea2c744
+
+#EXTINF:-1,Energy FM
+http://cp.internet-radio.org.uk:15614/
+
+#EXTINF:-1,La Fresca Fm
+http://www.solucionesradios.com:9050/;stream.nsv
+
+#EXTINF:-1,La Isla FM
+http://188.165.222.163:8012/;?1395244701396.mp3
+
+#EXTINF:-1,Mix 101 Fm Gran Canarias
+http://derstream.com:3040/;stream.nsv
+
+
+#EXTINF:-1,Hit FM Disco 90
+http://online-hitfm2.tavrmedia.ua/HitFM_Disco90_32?type=.flv
+
+#EXTINF:-1,Italo Power!
+http://streaming.radionomy.com/ITALOPOWER
+
+#EXTINF:-1,Kif Radio
+http:///kifradio
+
+#EXTINF:-1,NRJ Dance
+http://95.81.146.20/1UxDetAEJE_XCXkRRO-dume6f5JmBBYMzifY=/3757/nrj_3757.mp3?type=.flv&amsparams=playerid:WebPlayer+5.0;skey:1393600513
+
+#EXTINF:-1,Mdt radio
+http://37.187.63.192:8020/mdtweb
+
+#EXTINF:-1,Dance 1
+http://streaming207.radionomy.com/Dance-1?group=158&countrycode=ES&similarprocess=0&crashed=0&ad=radionoweb
+
+#EXTINF:-1,Dance 90
+http://streaming205.radionomy.com/Dance90?group=158&countrycode=ES&similarprocess=0&crashed=0&ad=radionoweb --live
+
+#EXTINF:-1,90s Dance Classics
+http://listen.radionomy.com/90s-dance-classics?ad=radionoweb
+
+#EXTINF:-1,181 Fm Dance
+http://relay4.181.fm:8140/?type=.flv
+
+#EXTINF:-1,City Dance Radio
+http://streaming.radionomy.com/City-Dance-Radio
+
+#EXTINF:-1,181 Fm Energy 98
+http://relay1.181.fm:8770/?type=.flv
+
+#EXTINF:-1,00s Dance Classics
+http://listen.radionomy.com/00s-dance-classics?ad=radionoweb
+
+#EXTINF:-1,Euro Dance
+http://37.59.8.151:8252/;&topspeed=on
+
+#EXTINF:-1,Trance FM Trance
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.audio.trance.fm:80/shoutcast playpath=http://sctc.audio.trancefm.com:10002 swfUrl=http://www.trance.fm/scripts/swf/site.swf?201408011544 live=1 pageUrl=http://www.trance.fm/#/home.html
+
+#EXTINF:-1,Trance FM Classics
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.audio.trance.fm:80/shoutcast playpath=http://sctc.audio.trancefm.com:9082 swfUrl=http://www.trance.fm/scripts/swf/site.swf?201408011544 live=1 pageUrl=http://www.trance.fm/#/home.html
+
+#EXTINF:-1,Musica Dance
+http://193.200.43.23/;&topspeed=on
+
+#EXTINF:-1,Musica Disco
+http://91.121.104.123/;&topspeed=on
+
+#EXTINF:-1,Hotmixradio 80´S
+http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
+
+#EXTINF:-1,Musica 80S
+http://46.23.64.98:8085/;&topspeed=on
+
+#EXTINF:-1,Musica 90S
+http://46.23.64.98:8085/;&topspeed=on
+
+#EXTINF:-1,Radiono Mix
+http://listen.radionomy.com/adictivafm
+15.11.2014
+´80s
+http://listen.radionomy.com/always-80s?ad=radionoweb
+13.11.2014
+
+IPTV RADIOS ESPAÑA
+
+#EXTINF:-1,RADIOS VCX7:Onda Cero
+rtsp://ondacerolivewm.fplive.net/ondacerowmlive-live/oc_madrid
+#EXTINF:-1,RADIOS VCX7:M80
+http://194.169.201.177:8085/liveM80.mp3
+#EXTINF:-1,RADIOS VCX7:Canal Fiesta Radio
+http://195.55.74.203/rtva/canalfiestaradio_master.mp3?GKID=a2d7ba42536011e2aeac00163ea2c743&fspref=aHR0cDovL3d3dy5lc3BhbmEuZm0v
+#EXTINF:-1,RADIOS VCX7:Cadena 100
+rtsp://a14.l12014932013.c120149.l.lm.akamaistream.net/D/14/120149/v0001/reflector:32013
+#EXTINF:-1,RADIOS VCX7:Canal Sur Radio
+http://195.55.74.203/rtva/canalsurradio_master.mp3?GKID=8736d994536011e2aeac00163ea2c743&fspref=aHR0cDovL3d3dy5lc3BhbmEuZm0v
+#EXTINF:-1,RADIOS VCX7:Cadena SER
+http://5243.live.streamtheworld.com/CADENASER_SC
+#EXTINF:-1,RADIOS VCX7:EUROPA FM
+http://stream.irratia.net:8000/
+#EXTINF:-1,RADIOS VCX7:KISS FM
+rtmp://$OPT:rtmp-raw=rtmp://kissfm.es.flash3.glb.ipercast.net/kissfm.es-live playpath=aac.stream swfUrl=http://www.kissfm.es/player/kissplayer/player.swf live=1 pageUrl=http://www.kissfm.es/player/kissplayer/index.php
+#EXTINF:-1,RADIOS VCX7:EsRADIO
+http://livestreaming.esradio.fm/stream64.mp3
+#EXTINF:-1,RADIOS VCX7:I Love FM
+http://radioserver1.us:7088/
+#EXTINF:-1,RADIOS VCX7:Loca FM
+http://audio-online.net:23500/
+#EXTINF:-1,RADIOS VCX7:Radio rne clasica
+http://195.10.10.221/rtve/radioclasica.mp3?GKID=de3491c84bee11e3a17d00163ea2c744&fspref=aHR0cDovL3d3dy5pcnR2ZS5lcy9zd2YvNC4yLjE1L1JUVkVQbGF5ZXJBdWRpby5zd2Y%3D
+#EXTINF:-1,RADIOS VCX7:EXTRA FM
+http://82.165.199.72:8000/
+#EXTINF:-1,RADIOS VCX7:DANCE RADIO
+http://78.129.167.2:10090/
+#EXTINF:-1,RADIOS VCX7:RADIO MARIA
+http://50.7.181.186:8060/
+#EXTINF:-1,RADIOS VCX7:QFM
+http://s1.viastreaming.net:7420/
+#EXTINF:-1,RADIOS VCX7:Flamenco Radio
+http://195.10.10.210/rtva/canalflamenco.mp3?GKID=cff66c04d11f11e0b2a800163ea2c743
+#EXTINF:-1,RADIOS VCX7:Ibiza Sonica
+http://stream3.ibizasonica.com:8136/
+#EXTINF:-1,RADIOS VCX7:Rdio Marca
+http://46.105.171.212:8138/
+#EXTINF:-1,RADIOS VCX7:Cadena Latino
+http://92.48.107.35:8000/
+#EXTINF:-1,RADIOS VCX7:HitFM
+http://hitfm.es.audio1.glb.ipercast.net:8000/hitfm.es/mp3
+#EXTINF:-1,RADIOS VCX7:Radiole
+http://4123.live.streamtheworld.com/RADIOLEAAC
+#EXTINF:-1,RADIOS VCX7:Radio Capital
+http://srv0510.emisorasonline.com/tunein.php/w000427/playlist.asx
+#EXTINF:-1,RADIOS VCX7:Rdio Huesca
+http://streaming.radiohuesca.com:8000/;stream.nsv
+#EXTINF:-1,RADIOS VCX7:IbizaGlobalRadio
+http://www.iccbroadcast.com/pls-players/ibgr/ibgr.asx
+#EXTINF:-1,RADIOS VCX7:Rac105
+http://178.32.113.2/
+#EXTINF:-1,RADIOS VCX7:Radio Salamanca
+mms://82.98.144.179/vivvo/audio/HOY_POR_HOY.wma
+
+

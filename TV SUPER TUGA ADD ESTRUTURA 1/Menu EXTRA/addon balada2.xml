@@ -1,0 +1,3802 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+</item>
+<item>  
+<title>RTP 1</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png</thumbnail>
+</item>
+
+<item>
+<title>RTP 2</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png</thumbnail>
+</item>
+
+<item>
+<title>SIC</title>
+<link>rtmp://$doregex[get-ip]/stream playpath=SIC813747234?id=20766$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.liveflashplayer.net/embedplayer/SIC813747234/1/565/440</page>
+<referer>http://www.liveflashplayer.net</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>TVI</title>
+<link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w103393150_b814000_49365.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png</thumbnail>
+</item>
+
+<item>
+<title>RTP INTERNACIONAL</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://www.tvsa.co.za/blogimages/toptv_rtp_logo_large.jpg</thumbnail>
+</item>
+
+<item>
+<title>RTP AÇORES</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png</thumbnail>
+</item>
+
+<item>
+<title>RTP ÁFRICA</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15</link>
+title: 'http://futebolpthd.blogspot.pt/',
+<thumbnail>http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png</thumbnail>
+</item>
+
+<item>
+<title>RTP MADEIRA</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png</thumbnail>
+</item>
+
+<item>
+<title>RTP MEMÓRIA</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ysyyxw1438185870.png</thumbnail>
+</item>
+
+<item>
+<title>SIC NOTICIAS</title>
+<link>http://iptv.alphacs.tv:8080/live/nT5CsDfpz8/c7BH6Pv76U/668.ts</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png</thumbnail>
+</item>
+
+<item>
+<title>TVI 24</title>
+<link>http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b1564000.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png</thumbnail>
+</item>
+<item>
+<title>EURONEWS</title>
+<link>rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/euronews.png</thumbnail>
+</item>
+<item>
+<title>TCV</title>
+<link>rtmp://213.13.26.11/live playpath=rtc_teste swfUrl=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?v110713&file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24&live=rtmp://{$hostname}/live/rtc_teste&movref=http%3A%2F%2Fpt.online-television.net%2F952-rtc.html pageUrl=http://pt.online-television.net/952-rtc.html#.VImSJHu8q48 Conn=S:OK live=1</link>
+<thumbnail>http://c3.quickcachr.fotos.sapo.pt/i/P1313c2ba/14950636_1qKLz.jpeg</thumbnail>
+</item>
+
+<item>
+<title>TPA</title>
+<link>rtmp://fml.6F53.edgecastcdn.net/206F53 playpath=tpai512 swfUrl=http://www.tpai.tv/swf/jwplayer/player.swf?mag live=1 pageUrl=http://www.tpai.tv/live</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rsxstu1436845265.png</thumbnail>
+</item>
+<item>
+<title>MACAU TDT PT</title>
+<link>rtmp://live3.tdm.com.mo:80/tv/_definst_/ playpath=ch2.live swfUrl=http://www.tdm.com.mo/global/js/jwplayer_5.10/player.swf pageUrl=http://www.tdm.com.mo/c_broadcast/index.php?channel=ptvp token=%Zrey(nKa@#Z</link>
+<thumbnail>http://china-screen-news.com/wp-content/uploads/2012/08/Macau-cable-TV.jpg</thumbnail>
+</item>
+<item>
+<title>MACAU TDT CHI</title>
+<link>rtmp://live4.tdm.com.mo:80/mytv/_definst_/ playpath=cnews.live swfUrl=http://www.tdm.com.mo/global/js/jwplayer_5.10/player.swf pageUrl=http://www.tdm.com.mo/c_broadcast/ token=%Zrey(nKa@#Z</link>
+<thumbnail>http://china-screen-news.com/wp-content/uploads/2012/08/Macau-cable-TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>SIC RADICAL</title>
+<sportsdevil>http://www.estadiofutebol.com/embed.php?c=sicradical</sportsdevil>
+<referer>www.estadiofutebol.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png</thumbnail>
+</item>
+
+<item>
+<title>SIC RADICAL</title>
+<link>rtmp://$doregex[get-ip]/live playpath=sicradicalx?id=84768&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sicradicalx/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/sicradicalx/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png</thumbnail>
+</regex>
+</item>
+
+
+<item>
+<title>SIC MULHER</title>
+<sportsdevil>http://www.estadiofutebol.com/embed.php?c=sicmulher</sportsdevil>
+<referer>http://www.estadiofutebol.com</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicm.png</thumbnail>
+</item>
+
+<item>
+<title>SIC MULHER</title>
+<linkrtmp://$doregex[get-ip]/live playpath=sicm02?id=84770&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sicm02/1/599/399</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/sicm02/1/599/399</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicm.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>TVI REALITY</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=TviReality2?id=22428$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/TviReality2/1/545/440 live=true</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.streamifypublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.streamifyplayer.com/embedplayer/TviReality2/1/545/440</page>
+<referer>http://www.streamifyplayer.com</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/a/a1/Log%C3%B3tipo_TVI_Fic%C3%A7%C3%A3o.png</thumbnail>
+</item>
+
+<item>
+<title>TVI REALITY</title>
+<sportsdevilhttp://antena.mytvfree2.me/rurality2.php</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/a/a1/Log%C3%B3tipo_TVI_Fic%C3%A7%C3%A3o.png</thumbnail>
+</item>
+
+<item>
+<title>TVI REALITY</title>
+<sportsdevilhttp://tvalgas.com/index.php/component/content/article/2-uncategorised/143-a-quinta-live</sportsdevil>
+<referer>http://mips.tv/</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/a/a1/Log%C3%B3tipo_TVI_Fic%C3%A7%C3%A3o.png</thumbnail>
+</item>
+
+<item>
+<title>TVI REALITY</title>
+<sportsdevil>http://tvalgas.com/index.php/component/content/article/2-uncategorised/152-tvi-reality-live</sportsdevil>
+<referer>http://tvalgas.com</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/a/a1/Log%C3%B3tipo_TVI_Fic%C3%A7%C3%A3o.png</thumbnail>
+</item>
+
+<item>
+<title>TVI REALITY</title>
+<sportsdevilhttp://www.tv-motards.com/quinta-das-celebridades-tvi-24-h</sportsdevil>
+<referer>http://www.tv-motards.com/</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/a/a1/Log%C3%B3tipo_TVI_Fic%C3%A7%C3%A3o.png</thumbnail>
+</item>
+
+<item>
+<title>TVI FICCAO</title>
+<linkrtmp://$doregex[get-ip]/live/ playpath=tvificcaob?id=26061$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embedezcast.com/embedplayer/tvificcaob/1/599/399
+</page>
+<referer>http://www.embedezcast.com</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/a/a1/Log%C3%B3tipo_TVI_Fic%C3%A7%C3%A3o.png</thumbnail>
+</item>
+
+
+<item>
+<title>HOLLYWOOD</title>
+<link>rtmp://$doregex[get-ip]/live playpath=hollywoodx?id=84769&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/hollywoodx/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/hollywoodx/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vqtrqu1436898965.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>AXN</title>
+<sportsdevilhttp://www.estadiofutebol.com/embed.php?c=axn</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yusrru1445113463.png</thumbnail>
+</item>
+
+<item>
+<title>AXN</title>
+<link>rtmp://$doregex[get-ip]/live playpath=axn1x?id=84753&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axn1x/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/axn1x/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yusrru1445113463.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>AXN WHITE</title>
+<sportsdevilhttp://www.estadiofutebol.com/embed.php?c=axnwhite</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>http://s20.postimg.org/qcn42rn0d/AXN_White.png</thumbnail>
+</item>
+
+<item>
+<title>AXN WHITE</title>
+<link>rtmp://$doregex[get-ip]/live playpath=axnwhitex?id=84774&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axn1x/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/axn1x/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://s20.postimg.org/qcn42rn0d/AXN_White.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>FOX</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=foxcrl?id=24274$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embedezcast.com/embedplayer/foxcrl/1/650/500</page>
+<referer>http://www.embedezcast.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
+</item>
+
+<item>
+<title>FOX MOVIES</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=sical?id=24913$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embedezcast.com/embedplayer/sical/1/599/399</page>
+<referer>http://www.embedezcast.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/sxrrvv1436890227.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>FOX CRIME</title>
+<link>rtmp://$doregex[get-ip]/live playpath=foxcrimex?id=84766&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/foxcrimex/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/foxcrimex/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xrqpsr1435103548.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>FOX LIFE</title>
+<link>rtmp://$doregex[get-ip]/stream playpath=foxlifea?id=19709$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.liveflashplayer.net/embedplayer/foxlifea/1/650/500</page>
+<referer>http://www.liveflashplayer.net</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qurqxu1434048222.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>PLAYBOY</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>HOT</title>
+<link></link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embedezcast.com/embedplayer/regopleudo/1/599/399</page>
+<referer>http://www.embedezcast.com</referer>
+<thumbnail>http://www.acordacidade.com.br/fotos/p/69628-3.jpg</thumbnail>
+</item>
+
+<item>
+<title>ANIMAL PLANET</title>
+<link>http://over.ddns.net:65210/</link>
+<thumbnail>http://latino-webtv.com/iptv/logos/animal%20planet.png</thumbnail>
+</item>
+<item>
+<title>RT DECUMENTARY</title>
+<link>http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/8i73Fnl.jpg</thumbnail>
+</item>
+
+<item>
+<title>CAZA Y PESCA</title>
+<linkrtmp://31.220.40.62:80/pull/iberalias?keys=0_JhiusUyr5k9omnOAPRog&keyt=1443470275 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/ token=%Zrey(nKa@#Z</link>
+<thumbnail>http://www.contalentotv.com/wp-content/uploads/2013/08/l_caza_y_pesca.png</thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY</title>
+<link>rtmp://$doregex[get-ip]/live playpath=discoveryx?id=84775&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/discoveryx/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/discoveryx/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/discoverychannel.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>HISTORIA</title>
+<link>rtmp://$doregex[get-ip]/stream playpath=historiab?id=21918$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.liveflashplayer.net/embedplayer/historiab/1/599/399</page>
+<referer>http://www.liveflashplayer.net</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>NAT GEO</title>
+<sportsdevilhttp://www.estadiofutebol.com/embed.php?c=nationalgeographic</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/spurwy1433945957.png</thumbnail>
+</item>
+
+<item>
+<title>NAT GEO</title>
+<link>rtmp://$doregex[get-ip]/live playpath=natgeoax?id=84757&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/natgeoax/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/natgeoax/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/spurwy1433945957.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>ODISSEIA</title>
+<sportsdevilhttp://www.estadiofutebol.com/embed.php?c=odisseia</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uspyqq1436893244.png</thumbnail>
+</item>
+
+<item>
+<title>ODISSEIA</title>
+<link>rtmp://$doregex[get-ip]/live playpath=odisseiax?id=84765&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/odisseiax/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/odisseiax/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uspyqq1436893244.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>A BOLA TV</title>
+<linkrtmp://$doregex[get-ip]/live playpath=abolatvg?id=85984&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/abolatvg/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page></page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>A BOLA TV</title>
+<sportsdevilhttp://www.estadiofutebol.com/embed.php?c=abolatv</sportsdevil>
+<referer>http://escast.tv/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
+</item>
+
+<item>
+<title>A BOLATV</title>
+<link>rtmp://$doregex[get-ip]/stream playpath=tomala?id=25154$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.liveflashplayer.net/embedplayer/tomala/1/650/500</page>
+<referer>http://www.liveflashplayer.net</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>CMTV</title>
+<link>rtmp://$doregex[get-ip]/stream playpath=cmtvb?id=21917$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.liveflashplayer.net/embedplayer/cmtvb/1/650/500</page>
+<referer>http://www.liveflashplayer.net</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/cmtv.png</thumbnail>
+</regex>
+
+</item>
+<item>
+<title>PORTO CANAL</title>
+<link>rtmp://$doregex[get-ip]/live playpath=portocanalv?id=86583&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/portocanalv/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/portocanalv/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>Canal + Toros</title>
+<link></link>
+<thumbnail>http://pbs.twimg.com/media/B_UIzFXWwAAmv-m.jpg</thumbnail>
+</item>
+
+<item>
+<title>Caza y Pesca</title> 
+<link></link>
+<thumbnail>http://3.bp.blogspot.com/-HOTGqsd4B90/VWeORz7ELLI/AAAAAAAAEDA/BuUBzhFSyU0/s320/logocaza.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=blue][B][I] DESENHOS ANIMADOS PARA A PEQUENADA 24/7 [/I][/B][/COLOR]</title>
+<link>rtmp://208.53.180.178/ctv playpath=bob  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/bobesponja.php</link>
+<thumbnail>http://ccaa2013.s3.amazonaws.com/ccaa2014/canalccaa/wp-content/blogs.dir/3/files/2014/01/melhores-desenhos-animados.jpg</thumbnail>
+</item>
+
+<item>
+<title>Episodios Dartacao</title>
+<link>http://ignorame</link>
+<thumbnail>http://img11.deviantart.net/1fad/i/2004/07/5/4/stand_and_fight.jpg</thumbnail>
+<externallink>http://pastebin.com/raw/z5aC91zU</externallink>
+</item>
+
+<item>
+<title>BOB ESPONJA </title>
+<link>rtmp://208.53.180.178/ctv playpath=bob  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/bobesponja.php</link>
+<thumbnail>http://goo.gl/buWyMn</thumbnail>
+</item>
+
+<item>
+<title>BEN 10</title>
+<link>rtmp://208.53.180.242/ctv playpath=ben10  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/ben10.php</link>
+<thumbnail>http://goo.gl/C5i8P8</thumbnail>
+</item>
+
+<item>
+<title>BATMAN</title>
+<link>rtmp://208.53.180.242/ctv playpath=batman  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/batman.php</link>
+<thumbnail>http://goo.gl/WS4iYd</thumbnail>
+</item>
+
+<item>
+<title>SIMPSONS</title>
+<link>rtmp://208.53.180.242/ctv playpath=simpsons  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf  pageUrl=http://www.aovivobrasil.com/tvamigos2/simpsons.php</link>
+<thumbnail>http://goo.gl/q2Y3bG</thumbnail>
+</item>
+
+<item>
+<title>DRAGON BALL Z</title>
+<link>rtmp://208.53.180.242/ctv playpath=dbz  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/dbz.php</link>
+<thumbnail>http://goo.gl/TVjjbc</thumbnail>
+</item>
+
+<item>
+<title>GALINHA PINTADINHA </title>
+<link>rtmp://208.53.164.194/ctv playpath=galinha  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/galinhapintadinha.php</link>
+<thumbnail>http://goo.gl/W2jeOX</thumbnail>
+</item>
+
+<item>
+<title>DOUG</title>
+<link>rtmp://208.53.164.194/ctv playpath=doug  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/doug.php</link>
+<thumbnail>http://goo.gl/NaH8ck</thumbnail>
+</item>
+
+<item>
+<title>JACKIE CHAN</title>
+<link>rtmp://208.53.180.242/ctv playpath=jackie  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/jackie.php</link>
+<thumbnail>http://goo.gl/BH4eWQ</thumbnail>
+</item>
+
+<item>
+<title>MASKARA</title>
+<link>rtmp://208.53.180.242/ctv playpath=maskara  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/maskara.php</link>
+<thumbnail>http://goo.gl/RWeQFt</thumbnail>
+</item>
+
+<item>
+<title>NARUTO</title>
+<link>rtmp://208.53.180.178/ctv playpath=naruto  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/naruto.php</link>
+<thumbnail>http://goo.gl/FmLOFI</thumbnail>
+</item>
+
+<item>
+<title>PADRINHOS MAGICOS</title>
+<link>rtmp://208.53.164.194/ctv playpath=padrinhos  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/padrinhos.php</link>
+<thumbnail>http://goo.gl/u9tS0n</thumbnail>
+</item>
+
+<item>
+<title>PICA PAU </title>
+<link>rtmp://208.53.180.218/ctv playpath=picapau  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/picapau.php</link>
+<thumbnail>http://goo.gl/l56Ajm</thumbnail>
+</item>
+
+<item>
+<title>OS PINGUINS DE MADAGASTAR </title>
+<link>rtmp://208.53.180.178/ctv playpath=pinguins  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/pinguins.php</link>
+<thumbnail>http://goo.gl/ZrdLnc</thumbnail>
+</item>
+
+<item>
+<title>SCOOBYDOO</title>
+<link>rtmp://208.53.180.218/ctv playpath=scooby  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/scooby.php</link>
+<thumbnail>http://goo.gl/6mCK9N</thumbnail>
+</item>
+
+<item>
+<title>SOUTH PARK</title>
+<link>rtmp://208.53.164.194/ctv playpath=southpark  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/southpark.php</link>
+<thumbnail>http://goo.gl/KHycl8</thumbnail>
+</item>
+
+<item>
+<title>TOM E JERRY</title>
+<link>rtmp://208.53.180.242/ctv playpath=TOM  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/tomejerry.php</link>
+<thumbnail>http://goo.gl/sKa1xX</thumbnail>
+</item>
+
+<item>
+<title>FLINTSTONES</title>
+<link>rtmp://208.53.180.242/ctv playpath=flinstones  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/flintstones.php</link>
+<thumbnail>http://goo.gl/nu2m2y</thumbnail>
+</item>
+
+<item>
+<title>DUCKTALES</title>
+<link>rtmp://208.53.164.194/ctv playpath=duck  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/ducktales.php</link>
+<thumbnail>http://goo.gl/CF9X1w</thumbnail>
+</item>
+
+<item>
+<title>LIGA DA JUSTICA</title>
+<link>rtmp://208.53.180.242/ctv playpath=liga  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/liga.php</link>
+<thumbnail>http://goo.gl/0WSSSE</thumbnail>
+</item>
+
+<item>
+<title>THUNDERCATS</title>
+<link>rtmp://208.53.180.242/ctv playpath=thunder  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/thunder.php</link>
+<thumbnail>http://goo.gl/yfYnCI</thumbnail>
+</item>
+
+<item>
+<title>CASTELO RA-TIM-BUM</title>
+<link>rtmp://208.53.180.178/ctv playpath=castelo  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/castelo.php</link>
+<thumbnail>http://goo.gl/Kt6dAZ</thumbnail>
+</item>
+
+<item>
+<title>X MEN</title>
+<link>rtmp://208.53.164.194/ctv playpath=xmen  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/xmen.php</link>
+<thumbnail>http://goo.gl/1dsz17</thumbnail>
+</item>
+
+<item>
+<title>A FAMILIA DINOSSAURO</title>
+<link>rtmp://208.53.180.242/ctv playpath=dino  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/dinossauros.php</link>
+<thumbnail>http://goo.gl/CBoSv6</thumbnail>
+</item>
+
+<item>
+<title>UMA FAMILIA DA PESADA</title>
+<link>rtmp://208.53.180.242/ctv playpath=family  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/family.php</link>
+<thumbnail>http://goo.gl/cDLJaO</thumbnail>
+</item>
+
+<item>
+<title>DRAKE E JOSH</title>
+<link>rtmp://208.53.164.194/ctv playpath=drake  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/drakejosh.php</link>
+<thumbnail>http://goo.gl/KOtlWl</thumbnail>
+</item>
+
+<item>
+<title>ICARLY</title>
+<link>rtmp://208.53.180.242/ctv playpath=icarly  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/icarly.php</link>
+<thumbnail>http://goo.gl/kQWCwf</thumbnail>
+</item>
+
+<item>
+<title>MALUCO NO PEDAÇO</title>
+<link>rtmp://208.53.180.218/ctv playpath=maluconopedaco  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/maluconopedaco.php</link>
+<thumbnail>http://goo.gl/7UCy8x</thumbnail>
+</item>
+
+<item>
+<title>EU A PATROA E AS CRIANÇAS</title>
+<link>rtmp://208.53.180.218/ctv playpath=patroa  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/patroa.php</link>
+<thumbnail>http://goo.gl/kuekyx</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=blue][B][I] DESPORTO DESPORTO DESPORTO DESPORTO [/I][/B][/COLOR]</title>
+<link>http://118.97.183.222:1935/discover/fight/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/World_Map_FINA.svg/400px-World_Map_FINA.svg.png</thumbnail>
+</item>
+
+<item> 
+<title>SPORT TV 1</title>
+<sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil>
+<referer>http://cdn2.zuuk.org/</referer>
+<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV 1</title>
+<sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV 1</title>
+<sportsdevilhttp://www.idimsports.eu/watch/408917/1/watch-xonetv.html</sportsdevil>
+<referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
+<thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
+</item>
+
+
+
+<item> 
+<title>SPORT TV1</title>
+<sportsdevilhttp://www.sporttvsonline.com/index.php?canal=sporttv</sportsdevil>
+<referer>http://www.sporttvsonline.com</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxmovies.pnghttps://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv1.png</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV 1</title>
+<linkrtmp://$doregex[get-ip]/live/ playpath=carau?id=25878$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embedezcast.com/embedplayer/carau/1/599/399</page>
+<referer>http://www.embedezcast.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV 1 opcao 2</title>
+<linkrtmp://$doregex[get-ip]/live playpath=bronx?id=86557&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/bronx/1/599/399</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/bronx/1/599/399</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>SPORT TV1 HD on jogo benfica e do sporting  plexus arenavision9</title>
+<linkplugin://program.plexus/?url=62623d8609e3d9e19ed08e3a4b018d8603e16ae5&amp;mode=1&amp;name=sporttv1</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>              
+</item>
+
+<item>
+<title>SPORT TV1 HD on jogo benfica e do sporting plexus arenavision10</title>
+<linkplugin://program.plexus/?url=c2d07af0ac5b2ec1f600e03cc6c4e834d64095cf&amp;mode=1&amp;name=sporttv1</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>              
+</item>
+
+<item> 
+<title>SPORT TV 2</title>
+<sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv2</sportsdevil>
+<referer>http://www.sporttvsonline.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV 2</title>
+<sportsdevil>http://www.estadiofutebol.com/embed.php?c=sporttv2</sportsdevil>
+<referer>http://ezcast.tv/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV 2</title>
+<link></link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/sp2101/1/599/399</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>SPORT TV2 opcao 2</title>
+<linkrtmp://$doregex[get-ip]/live/ playpath=spill?id=26031$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embedezcast.com/embedplayer/spill/1/599/399</page>
+<referer>http://www.embedezcast.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png</thumbnail>
+</item>
+
+<item>   
+<title>SPORT TV2 [COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>                      
+<linkplugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10481.acelive&amp;mode=1&amp;name=Sport TV 2</link>                                
+<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV3</title>
+<sportsdevil>http://www.estadiofutebol.com/embed.php?c=sporttv3</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png</thumbnail>
+</item>
+
+<item> 
+<title>SPORT TV 3</title>
+<sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv3</sportsdevil>
+<referer>http://www.sporttvsonline.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV3</title>
+<linkrtmp://$doregex[get-ip]/live playpath=sp3100?id=85757&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sp3100/1/599/399</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/sp3100/1/599/399</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png</thumbnail>
+</regex>
+</item>
+
+<item>  
+<title>SPORT TV3 HD [B][COLOR red]Plexus[/COLOR][/B]</title>                      
+<linkplugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10482.acelive&amp;mode=1&amp;name=SPORTTV3</link>                                
+<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV4</title>
+<linkhttp://iptvbox.noip.us:9998/live/atik/atik/823.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wywyss1436887367.png</thumbnail>
+</item>
+
+<item> 
+<title>SPORT TV 5</title>
+<sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv4</sportsdevil>
+<referer>http://www.sporttvsonline.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV 5</title>
+<sportsdevil>http://www.estadiofutebol.com/embed.php?c=sporttv5</sportsdevil>
+<referer>http://www.estadiofutebol.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV5</title>
+<linkhttp://iptvbox.noip.us:9998/live/atik/atik/824.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png</thumbnail>
+</item>
+
+<item> 
+<title>SPORT TV5</title>
+<sportsdevilhttp://www.sporttvsonline.com/index.php?canal=sporttv5</sportsdevil>
+<referer>http://www.sporttvsonline.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png</thumbnail>
+</item>
+
+<item>
+<title>BENFICA TV1 HD</title>
+<link></link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png</thumbnail>
+</item>
+
+<item>
+<title>BT TV1</title>
+<linkrtmp://$doregex[get-ip]/live/ playpath=benias?id=25817$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embedezcast.com/embedplayer/benias/1/599/399</page>
+<referer>http://www.embedezcast.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png</thumbnail>
+</item>
+
+<item>
+<title>BENFICA TV1</title>
+<linkrtmp://$doregex[get-ip]/live/ playpath=slbueyec?id=22289$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/slbueyec/1/555/435 live=true</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.streamifypublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.streamifyplayer.com/embedplayer/slbueyec/1/555/435</page>
+<referer>http://www.streamifyplayer.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png</thumbnail>
+</item>
+
+<item>
+<title>BENFICA TV 1</title>
+<sportsdevil>http://tvalgas.com/index.php/component/content/article/2-uncategorised/149-benfica-tv-1-live</sportsdevil>
+<referer>http://tvalgas.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/btv1.png</thumbnail>
+</item>
+
+<item>
+<title>BENFICA TV 1</title>
+<sportsdevilhttp://reformadostv.comunidades.net/index.php</sportsdevil>
+<referer>http://www.tvportugalhd.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/btv1.png</thumbnail>
+</item>
+
+<item> 
+<title>BENFICA TV 1</title>
+<sportsdevil>http://antena.mytvfree2.me/btv1.php</sportsdevil>
+<referer>http://mytvfree.me/ver/benfica-tv-direto</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/btv1.png</thumbnail>
+</item>
+
+<item>  
+<title>BENFICA TV 1</title>
+<sportsdevilhttp://firstrowsports.ge/?watch/408917/6/watch-xonetv.html</sportsdevil>
+<referer>http://firstrowsports.ge/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/btv1.png</thumbnail>
+</item>
+
+<item> 
+<title>BENFICA TV2</title>
+<sportsdevil>http://www.sporttvsonline.com/index.php?canal=benficatv-2</sportsdevil>
+<referer>http://www.sporttvsonline.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png</thumbnail>
+</item>
+
+<item>
+<title>BENFICA TV2 HD</title>
+<link></link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png</thumbnail>
+</item>
+
+<item>
+<title>BENFICA TV 2</title>
+<sportsdevil>http://tvalgas.com/index.php/component/content/article/2-uncategorised/150-benfica-tv-2-live</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/btv2.png</thumbnail>
+</item>
+
+<item>
+<title>BENFICA TV2</title>
+<linkrtmp://$doregex[get-ip]/live playPath=benfas?id=86051&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/benfas/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/benfas/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>SPORTING TV</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=sportyaza?id=21983$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/sportyaza/1/555/430 live=true</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.streamifypublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.streamifyplayer.com/embedplayer/sportyaza/1/555/430</page>
+<referer>http://www.streamifyplayer.com</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportingtv.png</thumbnail>
+</item>
+
+<item>
+<channel>
+<name>[COLOR red]  [COLOR red][B][I]DESPORTO INTERNACIONAIS[/I][/B][/COLOR][COLOR red](ittvbalda)[/COLOR] </name>
+<thumbnail>http://s4.postimg.org/wuksubsq5/images.jpg</thumbnail>
+<fanart>http://s17.postimg.org/52675g9xr/CANAIS_DESPORTO_EUROPEU.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B][I]CLICA AQUI PARA VER DESPORTO EM DIRECTO HD[/I][/B][/COLOR] [COLOR yellow] ( PLEXUS)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.p2psport/?mode=av</jsonrpc>
+<thumbnail>http://www.rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B][I]CLICA AQUI PARA VER DESPORTO EM DIRECTO HD[/I][/B][/COLOR] [COLOR yellow] (P2P PLEXUS)[/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.p2p-streams/?mode=401&amp;name=[B][COLOR red]Agenda/Schedule[/COLOR]&amp;parser=arenavision&amp;parserfunction=arenavision_schedule&amp;url=http://www.arenavision.in/agenda</jsonrpc>
+<thumbnail>http://www.rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg</thumbnail>
+</item>
+
+<item>
+        <title>[COLOR red]ROJA DIRETA CLICA AQUI PINCHA[/COLOR]</title>
+        <link>http://Ignoreme</link>
+        <externallink>http://pastebin.com/raw.php?i=Kpq8VM6V</externallink>
+<thumbnail>http://novaley.es/wp-content/uploads/2014/04/img340_1.jpg</thumbnail>
+<fanart>http://novaley.es/wp-content/uploads/2014/04/img340_1.jpg</fanart>
+        </item>
+
+<item>
+<title>Movistar F1</title>
+<link></link>
+<thumbnail>http://i60.tinypic.com/2cgivqq.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>Movistar GP</title>
+<link></link>
+<thumbnail>http://comunidad.movistar.es/movistar/attachments/movistar/Movistar-TV/21/1/Logotipo_Movistar_TV_MotoGP_RGB.jpg</thumbnail>
+</item>
+
+<item>
+<title>MotoGP<title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysportmotogp.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysportmotogp.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/skysportmotogp.png</thumbnail>
+<fanart>http://www.liveonlinetv247.info/images/skysportmotogp.png</fanart>
+</item>
+
+<item>
+<title>MOTORS TV</title>
+<linkrtmp://$doregex[get-ip]/live playpath=motorstvx?id=83213&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/motorstvx/1/599/399</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/urrwrv1433779906.png/medium</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>Eurosport 1</title>
+<link>rtmp://31.220.2.149:80/live/ playpath=euro1 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://yotv.co</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/eurosport1.png</thumbnail>
+</item>
+
+<item>
+<title>Eurosport 1 HD</title>
+<link></link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/eurosport1.png</thumbnail>
+</item>
+
+<item>
+<title>Eurosport 2</title>
+<link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/eurosport2.png</thumbnail>
+</item>
+
+<item>
+<title>MOTORSTV</title>
+<link></link>
+<thumbnail>https://www.motorstv.com/sites/default/files/logo_motorstv_simple_0.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 1</title>
+<sportsdevil>http://mamahd.com/watch-sky-sports-1-live-stream-1.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 2</title>
+<sportsdevil>http://mamahd.com/watch-sky-sports-2-live-streaming-free-1.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-2-Logo.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 3</title>
+<sportsdevil>http://mamahd.com/watch-sky-sports-3-live-stream-1.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png</thumbnail>
+</item>
+<item>
+<title>SKY SPORTS 4</title>
+<sportsdevil>http://mamahd.com/watch-sky-sports-4-live-stream-1.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-4-Logo.png</thumbnail>
+</item>
+<item>
+<title>SKY SPORTS 5</title>
+<sportsdevil>http://mamahd.com/watch-sky-sports-5-live-stream-1.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-5-Logo.png</thumbnail>
+</item>
+
+<item>
+<title>SETANTA IRELAND</title>
+<sportsdevil>http://www.shadow-net.me/channels/Setanta-Ireland.html</sportsdevil>
+<referer>http://www.shadow-net.me/channels/Setanta-Ireland.html</referer>
+<thumbnail>http://www.ettu.org/images/newsarchive/images/original/9d87bss_741d5_f_666x375.jpg </thumbnail>
+</item>
+
+<item>
+<title>SKY BUNDESLIGA</title>
+<sportsdevil>http://www.shadow-net.me/channels/Sky-Bundesliga-1.html</sportsdevil>
+<referer>http://www.shadow-net.me/channels/Sky-Bundesliga-1.html</referer>
+</item>
+
+<item>
+<title>SKY BUNDESLIGA</title>
+<sportsdevilhttp://mamahd.com/watch-sky-bundesliga-1-live-stream-1.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>https://www.teleclub.ch/sky/uploads/media_items/sky-news-280613.786.180.s.jpg</thumbnail>
+</item>
+
+<item>
+<title>SKY CALCIO</title>
+<sportsdevil>http://mamahd.com/sky-calcio-1-live-stream-1.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.themoodboard.com/wp-content/uploads/2013/08/MIN_SC2013.jpg</thumbnail>
+</item>
+
+<item>
+<title>RAI SPORT 1</title>
+<link>http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(1896000)/manifest(format=m3u8-aapl).m3u8|X-Forwarded-For=2.112.0.1</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vwrqqs1434463964.png/medium</thumbnail>
+</item> 
+
+<item>
+<title>RAI SPORT 2</title>
+<link>http://httpstream1.rai.it/Italy/raisport2.isml/QualityLevels(1896000)/manifest(format=m3u8-aapl).m3u8|X-Forwarded-For=2.112.0.1</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vvuwvx1434463976.png/medium</thumbnail>
+</item> 
+
+<item>
+<title>BT SPORT 1</title>
+<sportsdevil>http://mamahd.com/watch-bt-sport-1-live-streaming-1.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.premierleague.com/content/premierleague/en-gb/commercial/bt-sport/_jcr_content/bodypsys/image.img.png/1369990888755.png</thumbnail>
+</item>
+
+<item>
+<title>BT SPORT 2</title>
+<link>rtmp://185.63.255.60:80/live playpath=dodhs2j swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=dodhs2j&vw=736&vh=438 token=%Zrey(nKa@#Z</link>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.premierleague.com/content/premierleague/en-gb/commercial/bt-sport/_jcr_content/bodypsys/image.img.png/1369990888755.png</thumbnail>
+</item>
+
+<item>
+<title>BT SPORT 2</title>
+<sportsdevilhttp://mamahd.com/watch-bt-sport-2-live-stream-1.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.premierleague.com/content/premierleague/en-gb/commercial/bt-sport/_jcr_content/bodypsys/image.img.png/1369990888755.png</thumbnail>
+</item>
+
+
+<item>
+<title>Fox Sport 1 us</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/archive/d/dd/20160220233658!Fox_Sports_Logo.png</thumbnail>
+</item>
+
+<item>
+<title>Fox Sport 2 us</title>
+<link>rtmp://185.63.255.18:80/live playpath=fox2ree swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=fox2ree&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/archive/d/dd/20160220233658!Fox_Sports_Logo.png</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports 506 HD</title>
+<link>http://motorsport.hopto.org:8080/</link>
+<thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SPS/fox-sports-5-colour.png</thumbnail>
+</item>
+
+<item>
+<title>SPORTS USA</title>
+<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
+<thumbnail>http://www1.pictures.zimbio.com/gi/USA+Sports+Pictures+Week+October+26+2009+8KkVJq3frinl.jpg</thumbnail>
+</item>
+
+<title>TSN 1</title>
+<link>rtmp://185.63.255.18:80/live playpath=ts1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=ts1&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://www.nwtel.ca/media/channel-logos/tsn1_0.jpg</thumbnail>
+</item>
+
+<item>
+<title>TSN 2</title>
+<link>rtmp://185.63.255.60:80/live playpath=tsnx2 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=tsnx2&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://www.nwtel.ca/media/channel-logos/tsn2_0.jpg</thumbnail>
+</item>
+
+<item>
+<title>TSN 3</title>
+<link>$doregex[m3u8]|Referer=http://shadow.go.ro/shadownet/channels/usa/player/tsn3.php&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36</link>
+<regex>
+<name>m3u8</name>
+<expres>src.*(http.*m3u8.*?)[',"]\W</expres>
+<page>http://shadow.go.ro/shadownet/channels/usa/player/tsn3.php</page>
+<referer>http://www.sdw-net.co/</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ssxtux1433380256.png/medium</thumbnail>
+</item>
+
+<item>
+<title>FIGHT SPORT</title>
+<link>http://118.97.183.222:1935/discover/fight/playlist.m3u8</link>
+<thumbnail>http://csisports.tv/wp-content/themes/csi/images/view1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Combate br</title>
+<link></link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/combate_tv_br.png</thumbnail>
+</item>
+
+<item>
+<title>POKER CENTRAL</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8</link>
+<thumbnail>http://pnimg.net/w/articles/0/552/e23afbabd3.png</thumbnail>
+</item>
+
+<item>
+<title>UFC</title>
+<link></link>
+<thumbnail>http://www.beyondhe.com.au/media/media/cache/594x334/SH0248_UFC_main.jpg</thumbnail>
+</item>
+
+<item>
+<title>UFC (CHI)</title>
+<link>rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos</link>
+<thumbnail>http://jbstaredownmma.com/wp-content/uploads/2012/07/ufc-china-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>FIGHTER CHANNEL</title>
+<link></link>
+<thumbnail>http://fightchannel.hr/repozitorij/fc-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>KAZSPORT</title>
+<link>http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8</link>
+<thumbnail>http://ortcom.kz/media/upload/112/2013/07/01/457d4acb30b28d74dfb8ecee3357c20a.jpg</thumbnail>
+</item>
+
+<item>
+<title>NBC Golf Channel</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/svqtwt1433452768.png</thumbnail>
+</item>
+
+<item>
+<title>SPORTSNET ONE</title>
+<link>rtmp://185.63.255.18:80/live playpath=sprt1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=sprt1&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20140410170629/logopedia/images/4/41/Snone-1-.png</thumbnail>
+</item>
+
+<item>
+<title>SPORTSNET ONTARIO</title>
+<link>rtmp://185.63.255.60:80/live playpath=ontrio swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://yotv.co/embedu.php?live=ontrio&vw=620&vh=490 token=%Zrey(nKa@#Z timeout=13</link>
+<thumbnail>http://metalkettle.co/logos/logos1/Sportsnet%20Ontario.png</thumbnail>
+</item>
+
+<item>
+<title>SPORTSNET WORLD</title>
+<link>rtmp://185.63.255.18:80/live playpath=sprtnetworld swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=sprtnetworld&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Sportsnet_World_HD_logo.PNG/800px-Sportsnet_World_HD_logo.PNG</thumbnail>
+</item>
+
+<item> 
+<title>NBA TV USA</title>
+<link></link>
+</item> 
+
+ <item>
+<title>RED BULL TV</title>
+<link>http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8</link>
+<thumbnail>https://tvsociale.files.wordpress.com/2012/02/redbulltv.jpg</thumbnail>
+</item>
+
+<item>
+<title>WWE NXT></title>
+<sportsdevil>http://sports4u.tv/channel/wwe-network-live-streaming/</sportsdevil>
+<referer>http://sports4u.tv/channel/wwe-network-live-streaming/</referer>
+<thumbnail>https://blog-blogmediainc.netdna-ssl.com/upload/SportsBlogcom/10770645/0430996001457630369_filepicker.png</thumbnail>
+</item>
+
+<item>
+ <title>C+ LIGA</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+liga.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+liga.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.abonateadigitalplus.es/canal-plus-liga1.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/3261903068/8b8ca1d66bf686faa9cb7aa859cfaff5.jpeg</fanart>
+  </item>
+
+<item>
+ <title>C+ PLUS FUTBOL</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+futbol.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+futbol.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://i.ytimg.com/vi/B2PrZn-SI7c/maxresdefault.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/B2PrZn-SI7c/maxresdefault.jpg</fanart>
+  </item>
+  
+  <item>
+<title>Canal+ Deportes 2</title>
+<sportsdevil>http://www.lacasadeltikitaka.futbol/elitegol/canal1.php</sportsdevil>
+<referer>http://www.lacasadeltikitaka.futbol</referer>
+<thumbnail>http://tvlife.ucoz.com/tvlife/canales/canalplus/imgcanales/canal_plus_deportes.jpg</thumbnail>
+<fanart>http://tvlife.ucoz.com/tvlife/canales/canalplus/imgcanales/canal_plus_deportes.jpg</fanart>
+</item>
+
+<item>
+<title>DXTV SPORTS (ESP)</title>
+<link>http://186.33.227.197/DXTV/smil:DXTV.smil/playlist.m3u8</link>
+<thumbnail>http://www.iptvlinksss.com/wp-content/uploads/2015/09/DXTV.jpg</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS Ñ (ESP)</title>
+<link>http://ak-cred-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8?hdnts=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>"token":"(.*?)"</expres>
+<page>https://api.fubo.tv/public/edgeauth/token</page>
+<referer>https://www.fubo.tv</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yyvqrw1437963549.png/medium</thumbnail> 
+</regex>
+</item>
+<item>
+
+<item>
+ <title>BEIN SPORT 1</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports1.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports1.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</thumbnail>
+<fanart>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</fanart>
+  </item>
+
+<item>
+ <title>BEIN SPORT 2</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</thumbnail>
+<fanart>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</fanart>
+  </item>
+
+<item>
+ <title>BEIN SPORT 3</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports3.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports3.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</thumbnail>
+<fanart>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</fanart>
+  </item>
+
+<item>
+ <title>BEIN SPORT 4</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports4.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports4.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</thumbnail>
+<fanart>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</fanart>
+  </item>
+
+<item>
+ <title>BEIN SPORT 5</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports5.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports5.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</thumbnail>
+<fanart>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</fanart>
+  </item>
+
+<item>
+ <title>BEIN SPORT 6</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports6.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports6.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</thumbnail>
+<fanart>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</fanart>
+  </item>
+
+<item>
+ <title>BEIN SPORT 7</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports7.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports7.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</thumbnail>
+<fanart>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</fanart>
+  </item>
+
+<item>
+ <title>BEIN SPORT 8</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports8.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports8.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</thumbnail>
+<fanart>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</fanart>
+  </item>
+
+<item>
+ <title>BEIN SPORT 9</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports9.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports9.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</thumbnail>
+<fanart>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</fanart>
+  </item>
+
+<item>
+ <title>SKY SPORTS 1]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports1.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports1.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</thumbnail>
+<fanart>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</fanart>
+  </item>
+
+<item>
+ <title>SKY SPORTS 2</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</thumbnail>
+<fanart>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</fanart>
+  </item>
+
+<item>
+ <title>SKY SPORTS 3</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports3.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports3.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</thumbnail>
+<fanart>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</fanart>
+  </item>
+
+<item>
+ <title>SKY SPORTS 4</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports4.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports4.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</thumbnail>
+<fanart>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</fanart>
+  </item>
+
+<item>
+ <title>SKY SPORTS 5</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports5.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports5.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</thumbnail>
+<fanart>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</fanart>
+  </item>
+
+<item>
+ <title>ESPN CLASSIC</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.pubucaster.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.embeducaster.com/membedplayer/espn2016/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.embeducaster.com</referer>
+			</regex>
+<thumbnail>http://www.cablevisionadsales.com/wp-content/uploads/espn_classic.gif</thumbnail>
+<fanart>http://www.cablevisionadsales.com/wp-content/uploads/espn_classic.gif</fanart>
+</item>
+
+
+<item>
+ <title>EUROSPORT</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/eurosport.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/eurosport.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://media2.pl/g/0/52753.jpg</thumbnail>
+<fanart>http://media2.pl/g/0/52753.jpg</fanart>
+  </item>
+
+<item>
+ <title>EUROSPORT 2</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/eurosport2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/eurosport2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.bowling-mv.de/typo3temp/pics/880bb9e9a0.jpg</thumbnail>
+<fanart>http://www.bowling-mv.de/typo3temp/pics/880bb9e9a0.jpg</fanart>
+  </item>
+
+<item>
+<title>PAC 12 Bay Area</title>
+<link></link>
+<thumbnail>http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png</thumbnail>
+</item>
+
+<item>
+<title>PAC 12 Los Angeles</title>
+<link></link>
+<thumbnail>http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png</thumbnail>
+</item>
+
+<item>
+<title>PAC 12 Oregon</title>
+<link></link>
+<thumbnail>http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png</thumbnail>
+</item>
+
+<item>
+<title>PAC 12 Washington </title>
+<link></link>
+<thumbnail>http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=blue][B][I] BRASIL BRASIL BRASIL BRASIL [/I][/B][/COLOR]</title>
+<link>rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1</link>
+<thumbnail>http://memeburn.com/wp-content/uploads/brazil-e1328192831309.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV RECORD int</title>
+<link>rtp://239.186.64.83:10000</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yqpwvs1436890865.png</thumbnail>
+</item>
+
+<item>
+<title>TV RECORD</title>
+<link>rtmp://wz3.dnip.com.br/tvgazetamt/ playpath=tvgazetamt.sdp swfUrl=http://www.cxtv.com.br/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-online/tv-record</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yqpwvs1436890865.png</thumbnail>
+</item>
+
+<item>
+<title>GLOBO</title>
+<link>rtmp://62.210.83.152:1935/liverepeat01?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDE2IDg6Mjg6MjAgUE0maGFzaF92YWx1ZT1rRHB.CV1BmVTN3QS9LZWJYaDNiUzFBPT0mdmFsaWRtaW51dGVzPTMwMA== playpath=101010 swfUrl=http://ppcast.org/embedP/jwplayer/jwplayer.flash..swf live=1 pageUrl=http://ppcast.org/embedP/3.php?file=trico3&width=100%&height=100%</link>
+<thumbnail>http://i.imgur.com/CQPOCvT.png</thumbnail>
+</item>
+
+<item>
+<title>GLOBO MG</title>
+<link></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/archive/5/5d/20130907234351!Redeglobo.png</thumbnail>
+</item>
+
+<item>
+<title>GLOBO SP</title>
+<link></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/archive/5/5d/20130907234351!Redeglobo.png</thumbnail>
+</item>
+
+<item>
+<title>GLOBO INTER</title>
+<link>http://art.nextv.ca/nextv/globo/index.m3u8?token=123</link>
+<thumbnail>http://i.imgur.com/CQPOCvT.png</thumbnail>
+</item>
+
+<item>
+<title>SBT</title>
+<link>rtmp://192.99.46.182:1935/pioneira-tv/ playpath=pioneira-tv swfUrl=http://livehost.com.br/players/playerhtml/jwplayer.flash.swf?Grupo_UP_e_DOWN pageUrl=http://cidadeverde.com/aovivo.html</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rvtpxp1437610838.png</thumbnail>
+</item>
+
+<item>
+<title>BAND RJ</title>
+<link></link>
+<thumbnail>http://observatoriodatelevisao.com.br/wp-content/uploads/2015/11/Band-cancela-festa-de-final-de-ano-dos-funcion%C3%A1rios.jpg</thumbnail>
+</item>
+
+<item>
+<title>BAND HD</title>
+<link>http://evp.mm.uol.com.br:1935/bandpracas/bandcidaders/live.m3u8</link>
+<thumbnail>http://observatoriodatelevisao.com.br/wp-content/uploads/2015/11/Band-cancela-festa-de-final-de-ano-dos-funcion%C3%A1rios.jpg</thumbnail>
+</item>
+
+<item>
+<title>BAND NEWS</title>
+<link></link>
+<thumbnail>http://iptv.codigolivre.net/logos/Band-News.png</thumbnail>
+</item>
+
+<item>
+<title>REDE TV</title>
+<link>rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1</link>
+<thumbnail>Rede TV HD.png</thumbnail>
+</item>
+
+<item>
+<title>TV BRASIL</title>
+<link>http://ebcremuxlive-live.hls.adaptive.level3.net:80/manifests/ebcremuxlive-ebctvbrasil/live.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/trqtsr1436845716.png</thumbnail>
+</item>
+
+<item>
+<title>BBB BRASIL</title>
+<link></link>
+<thumbnail>http://i.imgur.com/7mIoj9N.jpg</thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY CHANNEL</title>
+<link></link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/discoverychannel.png</thumbnail>
+</item>
+
+<item>
+<title>CINE SKY</title>
+<link></link>
+<thumbnail>https://macmagazine.com.br/wp-content/uploads/2011/01/12-sky_icon.png</thumbnail>
+</item>
+
+<item>
+<title>TELECINE PREMIUM</title>
+<link></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/TC_Premium.png/250px-TC_Premium.png</thumbnail>
+</item>
+
+<item>
+<title>Filmes 24 Horas Online</title>
+<link>rtmp://206.190.132.244/tvamigos playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?texto  pageUrl=http://carolineoliveira.com.br</link>
+ <thumbnail>http://www.cineset.com.br/wp-content/uploads/2015/06/Jack-Bauer-750x350-100x70.jpg</thumbnail>
+</regex>
+<item>
+
+<item>
+<title>TELECINE PIPOCA</title>
+<link>rtmp://208.53.164.194/ctv playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/filmes.html</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/1e/TC_Pipoca.png</thumbnail>
+</item>
+
+<item>
+<title>ESPN BRASIL</title>
+<link></link>
+<thumbnail>http://pacificrecords.com/Pacific_Records/prwp/wp-content/uploads/2015/06/espn-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>SPORTV 1</title>
+<link></link>
+<thumbnail>https://portal4.files.wordpress.com/2015/07/sportv1.jpg</thumbnail>
+</item>
+
+<item>
+<title>SPORTV 2</title>
+<link></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/SporTV_2_logo_2011.png/640px-SporTV_2_logo_2011.png</thumbnail>
+</item>
+
+<item>
+<title>SPORTV 3</title>
+<link></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/SporTV_3_logo_2011.png/640px-SporTV_3_logo_2011.png</thumbnail>
+</item>
+
+<item>
+<title>PREMIERE SPORTS</title>
+<link></link>
+<thumbnail>premiere.png</thumbnail>
+</item>
+
+<item>
+<title>PREMIER SPORTS</title>
+<sportsdevil>http://ibrod.tv/premier.html</sportsdevil>
+<referer>http://ibrod.tv/premier.html</referer>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/premier_sports.png </thumbnail>
+</item>
+
+<item>
+<title>COMBATE</title>
+<sportsdevil>http://tvaovivo.co/combate/</sportsdevil>
+<sportsdevil>http://tudotv.tv/assistir-combate-ao-vivo-online-em-hd-gratis/</sportsdevil>
+<thumbnail>http://www.goltvaovivo.org/wp-content/uploads/2016/01/Canal-Combate-ao-vivo.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS</title>
+<link>http://50.7.66.66:8081/loadbalance/slv7/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/archive/d/dd/20160220233658!Fox_Sports_Logo.png</thumbnail>
+</item>
+
+<item>
+<title>TV ALL SPORTS</title>
+<link>http://173.236.10.10:1935/dgrau/dgrau/live.m3u8</link>
+<thumbnail>http://i.imgur.com/H4X2xiN.png</thumbnail>
+</item>
+
+<item>
+<title>TV CULTURA</title>
+<link>http://cdn-br-002938543.comets.com.br/tvbaiana/aovivo/chunklist_w1472016693.m3u8</link>
+<thumbnail>http://goo.gl/DqozbW</thumbnail>
+</item>
+
+<item>
+<title>TV DIARIO</title>
+<link>http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8</link>
+<thumbnail>http://www.zoomdigital.com.br/wp-content/uploads/2009/05/tv-diario1.jpg</thumbnail>
+</item>
+
+<item>
+<title>TVE RS</title>
+<link>rtmp://s5.procergs.com.br/tve/stve</link>
+<thumbnail>http://lh3.ggpht.com/_BE1ve69WSu0/TVf39goZRqI/AAAAAAAACNI/giVAMpghlfQ/TVE-RS_TVBrasil.png</thumbnail>
+</item>
+
+<item>
+<title>E-PARANÁ</title>
+<link>http://200.189.113.201/hls/tve.m3u8</link>
+<thumbnail>http://blog.euvoupassar.com.br/wp-content/uploads/2016/02/e-parana.jpg</thumbnail>
+</item>
+
+<item>
+<title>HORSE BRASIL CHANNEL</title>
+<link>http://570230807.e.849169298.r.idglobalcdn.net:80/849169298/horsebrasil/live.m3u8</link>
+<thumbnail>http://i.imgur.com/ntp3bp3.jpg</thumbnail>
+</item>
+
+<item>
+<title>MIX TV</title>
+<link>http://xmixtvbrx.api.channel.livestream.com/3.0/playlist.m3u8</link>
+<thumbnail>http://original.livestream.com/filestore/logos/50acb4d2-23d6-52eb-28eb-084b12c40ae6-banner.jpg</thumbnail>
+</item>
+
+<item>
+<title>CARTOON NETWORK</title>
+<link></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1280px-Cartoon_Network_2004_logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>CHEF TV</title>
+<link>http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8</link>
+<thumbnail>http://i.imgur.com/y1vpVof.png</thumbnail>
+</item>
+
+<item>
+<title>TV URBANA</title>
+<link>http://srv6.zoeweb.tv:1935/z433-live/stream/playlist.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-64eRW20AUJI/UZKh8SJ4IYI/AAAAAAAAAAQ/CunZWTYbMBQ/s1600/BanneTVU.png</thumbnail>
+</item>
+
+<item>
+<title>TV PONTA NEGRA NEWS</title>
+<link></link>
+<thumbnail>http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/TV_Ponta_Negra_Natal_ao_Vivo_Online_e_Gr%C3%A1tis.jpg</thumbnail>
+</item>
+
+<item>
+<title>CANAL DO BOI</title>
+<link>http://srvvenus.canaldoboi.com.br:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8</link>
+<thumbnail>http://www.sba1.com/wp-content/uploads/2013/04/7-canais-canaldoboi.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=blue][B][I] SPAIN SPAIN SPAIN SPAIN SPAIN SPAIN [/I][/B][/COLOR]</title>
+<link>http://api.iptv.ink/pl.m3u8?ch=91170153</link>
+<thumbnail>http://s3.postimg.org/8ex9f3rwj/bandeira_espanha.png</thumbnail>
+</item>
+<item>
+
+<item>
+<title>GRAN HERMANO VIP</title>
+<link></link>
+<thumbnail>http://incostatic-a.akamaihd.net/granhermanovip/App-oficial-GH-VIP_MDSIMA20150112_0397_9.jpg</thumbnail>
+</item>
+
+<title>Gran Hermano</title> 
+<link>http://cdn.sstream.pw/live/gh16hd_a085bf2/chunklist.m3u8|Referer=http://www.ponlatv.com/embed.php</link>
+<thumbnail>http://stmedia.bolsamania.com/web/img/images_uploaded/3/f/granhermano15.jpg</thumbnail>
+</item>
+
+<item>
+<title>Atreseries</title>
+<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
+<thumbnail>http://www.vertele.com/files/2015/12/atres-series-VEINTE-2-285x206.jpg</thumbnail>
+</item>
+
+<item>
+<title>La 1</title>
+<link>http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8</link>
+<thumbnail>http://i.bssl.es/telelocura/2015/03/LOGO1.png</thumbnail>
+</item>
+
+<item>
+<title>La 2</title>
+<link>http://hlslive.rtve.es:80/LA2_LV3_IPH/bitrate_1.m3u8</link>
+<thumbnail>http://img.rtve.es/i/?w=309&crop=no&o=no&i=1433856394224.jpg</thumbnail>
+</item>
+
+<item>
+<title>Antena 3</title>
+<link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8</link>
+<thumbnail>http://www.teleaire.com/wp-content/uploads/2011/12/ANTENA-3-LOGO.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cuatro</title> 
+<link></link>
+<thumbnail>http://tv.orange.es/UpImages/2261/cuatro_tv_d374e78ca002c9c06451b5d57.jpg</thumbnail>
+</item>
+
+<item>
+<title>Telecinco</title> 
+<link>http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_700_av-p.m3u8</link>
+<thumbnail>http://www.que.es/archivos/201010/3436376w-640x640x80.jpg</thumbnail>
+</item>
+
+<item>
+<title>LA SEXTA</title>
+<link>http://api.iptv.ink/pl.m3u8?ch=88365689</link>
+<thumbnail>http://cdn5.ipadizate.es/2014/09/ver-sexta-ipad.jpg</thumbnail>
+</item>
+
+<item>
+<title>NEOX</title>
+<link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8</link>
+<thumbnail>http://www.telefivegb.com/wp-content/uploads/2015/07/neox.jpg</thumbnail>
+</item>
+
+<item>
+<title>TVE 1</title>
+<link>http://api.iptv.ink/pl.m3u8?ch=35452405</link>
+<thumbnail>http://restauranteluzdeluna.com/wp-content/uploads/2013/09/tve1.jpg</thumbnail>
+</item>
+
+<item>
+<title>NOVA</title>
+<link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Nova_Television_Logo.svg/553px-Nova_Television_Logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>CALLE 13</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>INTERECONOMIA</title>
+<link>http://edge3.adnstream.com:81/hls/intereconomia.m3u8</link>
+<thumbnail>http://www.fixmedia.org/static/sources/intereconomia.com.jpg</thumbnail>
+</item>
+
+<item>
+<title>8TYUTV</title>
+<link></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/d/d7/8tv_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>8TV CATALUNHA</title>
+<link>http://mediasethls-lh.akamaihd.net/i/mitele/8tv_ng@393131/index_500_av-p.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/d/d7/8tv_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>CANAL SUR</title>
+<link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>
+<thumbnail>http://proyectomariposa.com/wp-content/uploads/2011/02/Canalsur-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>GALIZA TV EUROPA</title>
+<link>http://media3.crtvg.es/live/tvge/vcx7.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-uRDIEFZvHzQ/UAQgmgxN6uI/AAAAAAAAA0g/ryhZHaFBmr4/s1600/TELEVISION_DE_GALICIA.jpg</thumbnail>
+</item>
+
+<item>
+<title>GALIZA TV AMERICA</title>
+<link>http://media1.crtvg.es:1935/live/tvga/livestream.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-uRDIEFZvHzQ/UAQgmgxN6uI/AAAAAAAAA0g/ryhZHaFBmr4/s1600/TELEVISION_DE_GALICIA.jpg</thumbnail>
+</item>
+
+<item>
+<title>RTP ASTURIAS</title>
+<link>http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8</link>
+<thumbnail>http://navelgasoro.com/wp-content/uploads/2014/07/RTPAA.jpg</thumbnail>
+</item>
+
+<item>
+<title>EXTREMADURA TV</title>
+<link>http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8</link>
+<thumbnail>http://www.diesl.com/wp-content/uploads/2011/11/logo-canal-extremadura.jpg</thumbnail>
+</item>
+
+<item>
+<title>IB3</title>
+<link></link>
+<thumbnail>http://mallorcaconfidencial.com/wp-content/uploads/2015/07/ib3.png</thumbnail>
+</item>
+
+<item>
+<title>ANDORRA TV</title>
+<link>http://194.158.80.31:443/live/rtva/playlist.m3u8</link>
+<thumbnail>http://www.earthfreetv.tk/images/tvlogos/andorra_atv_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>TRAVEL TV</title>
+<link>rtmp://87.106.219.140/live/myStream_2</link>
+<thumbnail>http://images.bwwstatic.com/tvnetworklogos/12BAA340-94F5-581B-0C97743BE5B77B30.jpg</thumbnail>
+</item>
+
+<item>
+<title>EURONEWS</title>
+<link>http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/euronews.png</thumbnail>
+</item>
+
+<item>
+<title>RT EN ESPAÑOL HD</title>
+<link>http://rt.ashttp14.visionip.tv:1935/live/RT_en_Espanol-HD/livestream.m3u8</link>
+<thumbnail>http://www.alertamundial.com/wp-content/uploads/2015/04/RT-en-Espa%C3%B1ol.jpg</thumbnail>
+</item>
+
+<item>
+<title>CANAL COSTA</title>
+<link>http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/master.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1375951694/logo_400x400.png</thumbnail>
+</item>
+
+<item>
+<title>ONDA AZUL SEVILLA</title>
+<link>http://cls.elitehd-audiovisuales.com/olsevilla/livestream1/master.m3u8</link>
+<thumbnail>https://image.freepik.com/fotos-gratis/abstrato-onda-azul_21291511.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV3 24</title>
+<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/chunklist_b798000_DVR.m3u8</link>
+<thumbnail>http://www.iptvlinksss.com/wp-content/uploads/2015/12/logos-tv-catalunya2.jpg</thumbnail>
+</item>
+
+<item>
+<title>AZTECA NOTICIAS</title>
+<link>http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8</link>
+<thumbnail>http://www.onlinetv.planetfools.com/imagenes/azteca-noticias.png</thumbnail>
+</item>
+
+<item>
+<title>El Trece HD</title>
+<link>rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1</link>
+<thumbnail>http://wondermelodies.com/m/uploads/thumbnails/Canal13Hd_png_268x170_upscale_q85.jpg</thumbnail>
+</item>
+
+<item>
+<title>CANAL DE LAS ESTRELLAS</title>
+<link>http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/eb/Canal_de_las_Estrellas_2006_logo.PNG</thumbnail>
+</item>
+
+<item>
+<title>PROYECTO 40</title>
+<link>http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8</link>
+<thumbnail>http://www.tvyespectaculos.com/wp-content/uploads/2011/02/Proyecto.jpg</thumbnail>
+</item>
+
+<item> 
+<title>Canal Mexico</title>
+<link>rtmp://50.7.98.234/rtv/videortv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item> 
+			<title>Canal 7 Mazatlan</title>
+			<link>http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?</link>
+			</item>
+			<item> 
+			<title>Canal Once </title>
+			<link>http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8</link>
+			</item>
+			<item> 
+			
+<item>
+<title>Radio y Televisión Mexiquense</title>
+<link>rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1</link>
+<thumbnail></thumbnail>
+</item>	
+
+<item><title>[Locales] Aprende</title><link>http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8?</link></item>
+ 
+<item><title>[Locales] Azteca Info7</title><link>http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?</link></item>
+ 
+<item><title>[Locales] Canal 2 Los Mochis</title><link>http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w609004457.m3u8?</link></item>
+ 
+<item><title>[Locales] Canal 2 Ciudad Obregon</title><link>http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8?</link></item>
+ 
+<item><title>[Locales] Canal 7 Mazatlan</title><link>http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?</link></item>
+ 
+ <item><title>[Locales] Canal del Congreso</title><link>http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8?</link></item>
+ 
+<item><title>[Locales] Capital 21 Mexico City</title><link>http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8?</link></item>
+
+<item>
+<title>FDF</title>
+<link></link>
+<thumbnail>http://static.blogs.sudinfo.be/media/45/fdf_vct_cmyk_presse_350.jpg</thumbnail> 
+</item>
+
+<item>
+ <title>CANAL+ #0</title>
+<link>rtmp://nl.iguide.to/iguide playpath=6ztb3u18p5s68ll  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/0_M%2B.svg/120px-0_M%2B.svg.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-WI0xmTCAYXo/Vmq981HwcyI/AAAAAAAA54w/gia5EQ54HaY/s1600/1.jpg</fanart>
+</item>
+
+<item>
+<title>Canal+ Fútbol</title>
+<linkhttp://iptvbox.noip.us:9998/live/atik/atik/857.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/200px-Canal%2B_F%C3%BAtbol_2008.svg.png</thumbnail>
+</item>
+
+<item>
+<title>Canal+ Deportes</title>
+<linkhttp://iptvbox.noip.us:9998/live/atik/atik/856.m3u8</link>
+<thumbnail>http://tvlife.ucoz.com/tvlife/canales/canalplus/imgcanales/canal_plus_deportes.jpg</thumbnail>
+</item>
+
+<item>
+<title>CANAL+ #0</title>
+<link></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/0_M%2B.svg/120px-0_M%2B.svg.png</thumbnail>
+</item>
+
+<item>
+<title>Canal+ Liga</title>
+<link></link>
+<thumbnail>http://www.iptvlinksss.com/wp-content/uploads/2015/11/8b8ca1d66bf686faa9cb7aa859cfaff5.jpeg</thumbnail>
+</item>
+
+<item>
+<title>Canal+ Deportes</title>
+<link></link>
+<thumbnail>http://tvlife.ucoz.com/tvlife/canales/canalplus/imgcanales/canal_plus_deportes.jpg</thumbnail>
+</item>
+
+<item>
+<title>Real Madrid tv</title>
+<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.tvtuga.com/wp-content/uploads/2013/11/real-madrid-tv.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>TycSPORTS 1 MEX HD</title>
+<linkhttp://live.vodgc.com:1935/kLive/smil:0_a5h483eu_all.smil/chunklist_b505600.m3u8</link>
+<thumbnail>http://condista.com/wp-content/uploads/2015/09/tyc-300x225.jpg</thumbnail>
+</item>
+
+<item>
+<title>DXTV LATINO</title>
+<link>http://186.33.227.199/DXTV/smil:DXTV.smil/chunklist_w620737271_b800000_slesp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE1IDExOjEzOjEzIFBNJmhhc2hfdmFsdWU9dnN5UTJibFFuUzhKN0JNb1FQSDdDUT09JnZhbGlkbWludXRlcz0yMA%3D%3D</link>
+<thumbnail>https://i.ytimg.com/vi/afxEFUZRGR8/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein</title>
+<link>$doregex[getVipRacing]</link>
+            <regex>
+            <name>getVipRacing</name>
+            <expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/bein-es/frame')</expres>
+            <page></page>
+            </regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yyvqrw1437963549.png/medium</thumbnail>
+<fanart>http://www.thelogodb.com/images/media/logo/yyvqrw1437963549.png/medium</fanart>
+</item>
+
+
+ <item>
+<title>+ Liga/Partidazo</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+liga.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+liga.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://satcesc.com/web/wp-content/uploads/2015/08/canal-plus-partidazo.jpg</thumbnail>
+<fanart>http://satcesc.com/web/wp-content/uploads/2015/08/canal-plus-partidazo.jpg</fanart>
+</item>
+
+<tem>
+<title>+ Liga/Partidazos</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+
+<regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls-code]')</expres>
+    <page></page>
+</regex>
+
+<regex>
+<name>get-hls-code</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests
+ import re
+ import base64
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'}
+
+ embed2 = 'http://verdirectotv.com/tv/deportes2/plusliga.html'
+ source2 = requests.get(embed2, headers=headers)
+ embed3 = re.findall('script type="text\/javascript" src="(.*?)"', source2.text)[0]
+ headers2 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': 'http://verdirectotv.com/'}
+ source3= requests.get(embed3, headers = headers2)
+ embed4 = re.findall('iframe src="(.*?)"', source3.text)[0]
+ source4= requests.get(embed4, headers = headers2)
+ m3u8_encoded = re.findall('input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"', source4.text)[0]
+ m3u8= base64.b64decode(m3u8_encoded)
+
+
+ return m3u8 + '|Referer=http://www.playerhd2.pw/jwplayer6/jwplayer.flash.swf&User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>http://satcesc.com/web/wp-content/uploads/2015/08/canal-plus-partidazo.jpg</thumbnail>
+<fanart>http://satcesc.com/web/wp-content/uploads/2015/08/canal-plus-partidazo.jpg</fanart>
+</item>
+
+<tem>
+<title>+ Liga 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+
+<regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls-code]')</expres>
+    <page></page>
+</regex>
+
+
+<regex>
+<name>get-hls-code</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests
+ import re
+ import base64
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'}
+ page ='http://www.foot-live.info/stream/ch119.php'
+ source = requests.get(page, headers=headers)
+ embed1 = re.findall('src="(.*?)"', source.text)[0]
+ source1 = requests.get(embed1, headers=headers)
+ embed2 = re.findall('src="(.*?)"', source1.text)[0]
+ source2 = requests.get(embed2, headers=headers)
+ embed3 = re.findall('script type="text\/javascript" src="(.*?)"', source2.text)[0]
+ headers2 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': 'http://www.hdmyt.info/'}
+ source3= requests.post(embed3, headers = headers2)
+ embed4 = re.findall('iframe src="(.*?)"', source3.text)[0]
+ source4= requests.post(embed4, headers = headers2)
+ m3u8_encoded = re.findall('input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"', source4.text)[0]
+ m3u8= base64.b64decode(m3u8_encoded)
+
+
+ return m3u8 + '|Referer=http://www.playerhd2.pw/jwplayer6/jwplayer.flash.swf&User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>http://www.iptvlinksss.com/wp-content/uploads/2015/11/8b8ca1d66bf686faa9cb7aa859cfaff5.jpeg</thumbnail>
+<fanart>http://www.iptvlinksss.com/wp-content/uploads/2015/11/8b8ca1d66bf686faa9cb7aa859cfaff5.jpeg</fanart>
+</item>
+ 
+ 
+<item>
+<title>Canal+ Deportes</title>
+<link>rtmp://nl.iguide.to/iguide playpath=wr8owvmlrah0aga swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=600&height=450&channel=33157&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link>
+<thumbnail>http://tvlife.ucoz.com/tvlife/canales/canalplus/imgcanales/canal_plus_deportes.jpg</thumbnail>
+<fanart>http://tvlife.ucoz.com/tvlife/canales/canalplus/imgcanales/canal_plus_deportes.jpg</fanart>
+</item>
+ 
+<item>
+<title>Canal+ Deportes 2</title>
+<sportsdevil>http://www.lacasadeltikitaka.futbol/elitegol/canal1.php</sportsdevil>
+<referer>http://www.lacasadeltikitaka.futbol</referer>
+<thumbnail>http://tvlife.ucoz.com/tvlife/canales/canalplus/imgcanales/canal_plus_deportes.jpg</thumbnail>
+<fanart>http://tvlife.ucoz.com/tvlife/canales/canalplus/imgcanales/canal_plus_deportes.jpg</fanart>
+</item>
+ 
+<item>
+<title>Canal+ Futbol</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+futbol.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+futbol.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/200px-Canal%2B_F%C3%BAtbol_2008.svg.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/200px-Canal%2B_F%C3%BAtbol_2008.svg.png</fanart>
+</item>
+
+<item>
+<title>BEIN SPORTS Ñ</title>
+<link>http://ak-cred-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8?hdnts=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>"token":"(.*?)"</expres>
+<page>https://api.fubo.tv/public/edgeauth/token</page>
+<referer>https://www.fubo.tv</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yyvqrw1437963549.png/medium</thumbnail> 
+</regex>
+</item>
+
+<item>
+<title>barça TV</title> 
+<link></link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/12/Bar%C3%A7a-TV.jpg</thumbnail>
+</item>	
+
+<item>
+<title>CANAL+ ESTRENOS</title>
+<link></link>
+<thumbnail>http://i57.tinypic.com/29vme6e.png</thumbnail>
+<fanart>http://s03.s3c.es/imag/_v0/640x300/7/3/8/canalplus-video-filtrado.jpg</fanart>
+</item>
+
+<item>
+<title>AMC</title>
+<link></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/AMC_logo_2013.png/200px-AMC_logo_2013.png</thumbnail>
+</item>
+
+<item>
+<title>HOLLYWOOD</title>
+<link></link>
+<thumbnail>http://www.atelevisao.com/wp-content/uploads/2013/02/Canal-Hollywood.jpg</thumbnail>
+</item>
+
+<item>
+<title>AXN White</title>
+<link></link>
+<thumbnail>http://tvxat.info/wp-content/uploads/2015/10/AXN_white-2-460x252.jpg</thumbnail>
+</item>
+
+<item>
+<title>MTV</title>
+<link></link>
+<thumbnail>http://idata.over-blog.com/2/42/44/41//mtv-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY</title>
+<link></link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/discoverychannel.png</thumbnail>
+</item>
+
+<item>
+<title>HISTORIA</title>
+<link></link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail>
+</item>
+
+<item>
+<title>VIAJAR</title>
+<link></link>
+<thumbnail>http://i.imgur.com/XdbNaeI.jpg</thumbnail>
+</item>
+
+<item>
+<title>Canal + Toros</title>
+<link></link>
+<thumbnail>http://pbs.twimg.com/media/B_UIzFXWwAAmv-m.jpg</thumbnail>
+</item>
+
+<item>
+<title>Caza y Pesca</title> 
+<link></link>
+<thumbnail>http://3.bp.blogspot.com/-HOTGqsd4B90/VWeORz7ELLI/AAAAAAAAEDA/BuUBzhFSyU0/s320/logocaza.jpg</thumbnail>
+</item>
+
+<item>
+<title>Constriur TV</title>
+<link>http://iphone-streaming.ustream.tv/uhls/9143107/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://www.thedailytelevision.com/sites/default/files/notas/graficos/logo-construir-tv_cuadradainterior.jpg</thumbnail>
+</item>
+
+ <item>
+    <title>PELICULAS SPAIN</title>
+    <link>http://Ignoreme</link>
+    <thumbnail>http://i.imgur.com/xu57ulK.png</thumbnail>
+    <fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/macline1/russiantv/master/peliculas</externallink> 
+    </item>
+
+<item>
+<title>VENUS</title>
+<link></link>
+<thumbnail>http://www.bridesonthorndon.co.nz/wp/wp-content/uploads/2014/08/VENUS-LOGO-300x136.jpg</thumbnail>
+</item>
+
+<item>
+<title>PLAYBOY</title>
+<link>http://s2.edem.tv/iptv/M3MKGZW6NMMUGQ/527/index.m3u8</link>
+<thumbnail>http://49yzp92imhtx8radn224z7y1.wpengine.netdna-cdn.com/wp-content/uploads/2013/03/Playboy-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Hot</title>
+<link>rtmp://$doregex[get-ip]/live playpath=porcas?id=86529&&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/porcas/1/599/399</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/porcas/1/599/399</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://www.cargadetrabalhos.net/wp-content/uploads/2013/04/logo_hotgold.jpg</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>BRAZZERS</title>
+<link>http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers</link>
+<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
+</item>
+
+<item>
+<title>LATINAS</title>
+<link>http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8</link>
+<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
+</item>
+
+<item>
+<title>SPICE TV</title>
+<link>rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499</link>
+<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR=blue][B][I] ITALY ITALY ITALY ITALY  [/I][/B][/COLOR]</title>
+<link>http://b2everyrai-lh.akamaihd.net/i/rai1_1@398068/index_1200_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://onedayinitaly.com/wp-content/uploads/2014/05/italian-flag.jpg</thumbnail>
+</item>
+
+<item>   	                                
+<title>RAI 1</title>                  
+<link>http://b2everyrai-lh.akamaihd.net/i/rai1_1@398068/index_1200_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qrqrps1433426634.png/medium</thumbnail>
+</item> 
+
+<item> 
+<title>RAI 2</title>                  
+<link>http://b2everyrai-lh.akamaihd.net/i/rai2_1@66477/index_1200_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vxurqt1434463049.png/medium</thumbnail>
+</item>  
+
+<item> 
+<title>RAI 3</title>                    
+<link>http://b2everyrai-lh.akamaihd.net/i/rai3_1@91501/index_1200_av-p.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xxwxry1434463066.png/medium</thumbnail>
+</item>
+
+<item> 
+<title>RAI 4</title>                  
+<link>http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1200_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vpsups1434463075.png/medium</thumbnail>
+</item> 
+
+<item> 
+<title>RAI 5</title>                  
+<link>http://stream12.rai.it/live/rai5.smil/master.m3u8|X-Forwarded-For=2.112.0.1</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qrspts1434463087.png/medium</thumbnail>
+</item>  
+
+ 
+<item> 
+<title>RAI SPORT 1</title>                  
+<link>http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(1896000)/manifest(format=m3u8-aapl).m3u8|X-Forwarded-For=2.112.0.1</link>
+<thumbnail>http://www.stream2watch.com/images/thumbs/raisport1%20live%20stream.gif</thumbnail>
+</item>
+
+<item> 
+<title>RAI SPORT 2</title>                  
+<link>http://httpstream1.rai.it/Italy/raisport2.isml/QualityLevels(1896000)/manifest(format=m3u8-aapl).m3u8|X-Forwarded-For=2.112.0.1</link>
+<thumbnail>http://www.stream2watch.com/images/thumbs/raisport1%20live%20stream.gif</thumbnail>
+</item> 
+
+<item>
+<title>SPORTITALIA</title>                  
+<link>http://spi.hystream.com:1935/spilive/spistream_360/livestream.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xtttss1444399330.png/medium</thumbnail>
+</item>  
+
+<item> 
+<title>RAI MOVIE</title>                  
+<link>http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rwrtsp1434463709.png/medium</thumbnail>
+</item>  
+ 
+<item> 
+<title>RAI PREMIUM</title>                  
+<link>http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvpl8dNzJ1gt3fA119K2hO3bWewN-2f5MQ_jCZwrYksrWns_S-g</thumbnail>
+</item>  
+
+<item
+<title>ITALIA 1</title>                  
+<link>rtmp://$doregex[ip]/live playpath=Apch1?id=54164$doregex[pk] conn=S:OK swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://www.janjuaplayer.com/embedplayer/Apch1/3/620/380</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)<expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.janjuaplayer.com/embedplayer/Apch1/3/620/380</page>
+<referer>http://www.janjuaplayer.com/</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uwsqus1434464264.png/medium</thumbnail>
+</item>  
+ 
+<item>
+<title>ITALIA 2</title>                  
+<link>rtmp://$doregex[ip]/live playpath=Apch2?id=54165$doregex[pk] conn=S:OK swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://www.janjuaplayer.com/embedplayer/Apch2/3/620/380</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)<expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.janjuaplayer.com/embedplayer/Apch2/3/620/380</page>
+<referer>http://www.janjuaplayer.com/</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/trvvrs1434464319.png/medium</thumbnail>
+</item> 
+
+<item>
+<title>RAI NEWS 24</title>                  
+<link>http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yruqxs1434616108.png/medium</thumbnail>
+</item>  
+
+<item>
+<title>EURONEWS</title>                  
+<link>http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/19-live.m3u8</link> 
+<thumbnail>http://static.euronews.com/media/default-img-textv2.gif</thumbnail>
+</item>  
+
+<item>
+<title>EXTRA</title>                  
+<link></link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vruups1434615494.png/medium</thumbnail>
+</item> 
+
+<item>
+<title>EXTRA 1</title>                  
+<link></link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vruups1434615494.png/medium</thumbnail>
+</item> 
+
+<item> 
+<title>RAI GULP</title>                  
+<link>http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/twsupw1434463637.png/medium</thumbnail>
+</item>  
+ 
+<item> 
+<title>RAI SCUOLA</title>                  
+<link>mmsh://212.162.68.163:80/rai_scuola</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vxuqsq1434616120.png/medium</thumbnail>
+</item>  
+
+<item> 
+<title>RAI STORIA</title>                  
+<link>mmsh://212.162.68.163/rai_storia</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rrptqp1434616172.png/medium</thumbnail>
+</item> 
+
+<item> 
+<title>RAI YOYO</title>                  
+<link>http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ryqwqq1434464030.png/medium</thumbnail>
+</item> 
+
+ <item>
+<title>RETE 4</title>                  
+<link>rtmp://$doregex[ip]/live playpath=ApCh4?id=54174$doregex[pk] conn=S:OK swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://www.janjuaplayer.com/embedplayer/ApCh4/3/620/380</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)<expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.janjuaplayer.com/embedplayer/ApCh4/3/620/380</page>
+<referer>http://www.janjuaplayer.com/</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uuyqws1434464980.png/medium</thumbnail>
+</item>  
+
+<item>
+<title>GF</title>                  
+<link></link>
+<thumbnail>http://static.televisionando.it/televisionando/fotogallery/979X0/158151/il-logo-del-grande-fratello-14.jpg</thumbnail>
+</item> 
+ 
+<item>
+<title>CANALE 5</title>                  
+<link>rtmp://$doregex[ip]/live playpath=Apch5?id=54166$doregex[pk] conn=S:OK swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://www.janjuaplayer.com/embedplayer/Apch5/3/620/380</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)<expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.janjuaplayer.com/embedplayer/Apch5/3/620/380</page>
+<referer>http://www.janjuaplayer.com/</referer>
+</regex> 
+<thumbnail>http://www.thelogodb.com/images/media/logo/vwurwq1444046067.png/medium</thumbnail>
+</item> 
+
+<item>
+<title>LA 3</title>                  
+<link>http://h3ghdchan101-i.akamaihd.net/hls/live/217153/Virtual_Channel101/master.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/a4/La3_logo.png</thumbnail>
+</item>  
+
+<item>
+<title>LA 7</title>                  
+<link>http://la7live-lh.akamaihd.net/i/test_1@143593/index_1_av-b.m3u8|X-Forwarded-For=2.112.0.1</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vrtxqv1434615327.png</thumbnail>
+</item>  
+
+<item>
+<title>ALICE</title>                  
+<link>http://live02.italiasmart.tv/LT_CH_4plat296w.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8</link>
+<thumbnail>http://alice.tv/wp-content/uploads/sites/13/2013/12/logo-alice.jpg</thumbnail>
+</item>
+
+<item
+<title>MARCOPOLO</title>                  
+<link>http://ltlive01.cloudapp.net/LT_CH_2mkw471qp.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8</link>
+<thumbnail>http://www.digital-sat.it/files-admin/Simone/marcopolo-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>DMAX</title>                  
+<link>rtmp://$doregex[ip]/live playpath=dmaxps?id=54171$doregex[pk] conn=S:OK swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://www.janjuaplayer.com/embedplayer/dmaxps/3/620/380</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)<expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.janjuaplayer.com/embedplayer/dmaxps/3/620/380</page>
+<referer>http://www.janjuaplayer.com/</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/twtqsy1433428194.png/medium</thumbnail>
+</item>  
+
+<item>
+<title>TOP CRIME</title>                  
+<link>rtmp://$doregex[ip]/live playpath=ApCh6?id=id=53899$doregex[pk] conn=S:OK swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://www.janjuaplayer.com/embedplayer/ApCh6/3/620/380</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)<expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.janjuaplayer.com/embedplayer/ApCh6/3/620/380</page>
+<referer>http://www.janjuaplayer.com/</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wwypyr1434465695.png/medium</thumbnail>
+</item>  
+
+<item>
+<title>FOCUS</title>                  
+<link>rtmp://$doregex[ip]/live playpath=AdFocus?id=54168$doregex[pk] conn=S:OK swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://www.janjuaplayer.com/embedplayer/AdFocus/3/620/380</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)<expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.janjuaplayer.com/embedplayer/AdFocus/3/620/380</page>
+<referer>http://www.janjuaplayer.com/</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uwsrsv1457358169.png/medium</thumbnail>
+</item> 
+
+<item>
+<title>GIALLO</title>                  
+<link>rtmp://$doregex[ip]/live playpath=ApGiallo?id=54173$doregex[pk] conn=S:OK swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://www.janjuaplayer.com/embedplayer/ApGiallo/3/620/380</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)<expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.janjuaplayer.com/embedplayer/ApGiallo/3/620/380</page>
+<referer>http://www.janjuaplayer.com/</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wtxurr1457358545.png/medium</thumbnail>
+</item>
+
+<item>
+<title>REAL TIME</title>                  
+<link>rtmp://$doregex[ip]/live playpath=ApRealTime?id=54172$doregex[pk] conn=S:OK swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://www.janjuaplayer.com/embedplayer/ApRealTime/3/620/380</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)<expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.janjuaplayer.com/embedplayer/ApRealTime/3/620/380</page>
+<referer>http://www.janjuaplayer.com/</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/tuywtw1457536768.png/medium</thumbnail>
+</item>  
+
+<item>
+<title>K2</title>                  
+<link>rtmp://$doregex[ip]/live playpath=TAkappadue?id=55236$doregex[pk] conn=S:OK swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://www.janjuaplayer.com/embedplayer/TAkappadue/3/620/380</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)<expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.janjuaplayer.com/embedplayer/TAkappadue/3/620/380</page>
+<referer>http://www.janjuaplayer.com/</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/tvuptx1433489528.png/medium</thumbnail>
+</item>  
+
+<item>
+<title>TV MODA</title>                  
+<link></link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaq2vIwDa5nZNbxEmXWAeJNPsoa5JQpCNxvjVOPHzmwH9pHTV_</thumbnail>
+</item>  
+
+<item>
+<title>TELE TICINO</title>                  
+<link>http://rtmp.infomaniak.ch/livecast/teleticinolive/anis_sat.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/it/2/20/Logo_TeleTicino.png</thumbnail>
+</item>  
+ 
+
+<item>
+<title>SKY TG24</title>                  
+<link>http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/stream5/streamPlaylist.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ytttpy1434465390.png/medium</thumbnail>
+</item> 
+
+<item>
+<title>VIDEOLINA</title>                  
+<link>http://178.33.229.111:1935/live/Videolina/livestream.m3u8</link>
+<thumbnail>http://www.artreport.it/wordpress/wp-content/uploads/2014/05/videolina.jpg</thumbnail>
+</item> 
+
+<item> 
+<title>RADIO CAPITAL TIVU</title>                  
+<link>http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wuppvq1434466880.png/medium</thumbnail>
+</item>  
+
+<item> 
+<title>RADIO ITALIA TV</title>                  
+<link>http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x576_av-p.m3u8</link>
+<thumbnail>http://www.radiospeaker.it/images/blog/radio-italia-logo_landscape_300x1000.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=blue][B][I] FRANCA FRANCA FRANCA FRANCA [/I][/B][/COLOR]</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8</link>
+<thumbnail>http://www.pieniadz.pl/archiwum/geografia/flagi_godla_itp/francja_flaga_1.jpg</thumbnail>
+</item>
+
+<item>
+<title>FRANCE 0</title>
+<sportsdevil>http://www.filmon.com/channel/france-0</sportsdevil>
+<referer>http://www.filmon.com/channel/france-0</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FRANCE 2</title>
+<sportsdevil>http://www.filmon.com/channel/france-2</sportsdevil>
+<referer>http://www.filmon.com/channel/france-2</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FRANCE 3</title>
+<sportsdevil>http://www.filmon.com/channel/france-3-alpes</sportsdevil>
+<referer>http://www.filmon.com/channel/france-3-alpes</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FRANCE 5</title>
+<sportsdevil>http://www.filmon.com/channel/france-5</sportsdevil>
+<referer>http://www.filmon.com/channel/france-5</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TF1 HD</title>
+<link>http://wownet.ro/str/0202.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0</link>
+<thumbnail>http://img.clubic.com/04780052-photo-logo-mytf1-sans-reflet.jpg</thumbnail>
+</item>
+
+<item>
+<title>RTS UN</title>
+<sportsdevil>http://www.filmon.com/channel/rts-un</sportsdevil>
+<referer>http://www.filmon.com/channel/rts-un</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>RTS DEUX</title>
+<sportsdevil>http://www.filmon.com/channel/rts-deux</sportsdevil>
+<referer>http://www.filmon.com/channel/rts-deux</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>M6</title>
+<link>http://phls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls/m6_hls_1256.m3u8</link>
+<thumbnail>https://www.cantemo.com/images/case-studies/m6/m6_logo_small.jpg</thumbnail>
+</item>
+
+<item>
+<title>W9</title>
+<link>https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_1256.m3u8</link>
+<thumbnail>http://www.jeremstar.fr/wp-content/uploads/news/2014-07/1733_-130243_0_0.jpg</thumbnail>
+</item>
+
+<item>
+<title>6Ter HD</title>
+<link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8</link>
+<thumbnail>http://img.groupem6.fr/05062760-photo-6ter.jpg</thumbnail>
+</item>
+
+<item>
+<title>Weo HD</title>
+<link>http://str81.creacast.com:80/weo/high/playlist.m3u8</link>
+<thumbnail>http://img.over-blog-kiwi.com/0/66/76/15/20160229/ob_f755ac_640px-logoweorvb-4e79c29.jpg</thumbnail>
+</item>
+
+<item>  
+<title>ARTE</title>
+<link>http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BFM TV</title>
+<link>http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/671319509052035073/p4YoQ3IN.png</thumbnail>
+</item>
+
+<item>
+<title>BFM Business</title>
+<link>http://bfmlive-i.akamaihd.net/hls/live/218341/876450612001/bfmbusiness/04.m3u8</link>
+<thumbnail>http://www.crowdfundingimmo.fr/blog/wp-content/uploads/2015/10/BFM.jpg</thumbnail>
+</item>
+
+<item>
+<title>Tv 5 Monde</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8</link>
+<thumbnail>http://image1.tvdigital.de/files/station_logos/260.png</thumbnail>
+</item>
+
+<item>
+<title>France 24</title>
+<link>http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8?Wse=4577tr</link>
+<thumbnail>http://img.20mn.fr/iOt_OX_LRniOQOd2dQmQVw/2048x1536-fit_logo-france-24.jpg</thumbnail>
+</item>
+
+<item>
+<title>EuroNews</title>
+<link>http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/9-live.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/euronews.png</thumbnail>
+</item>
+
+<item>
+<title>EUROSPORT 1 FR</title>
+<link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/eurosport1.png</thumbnail>
+</item>
+
+<item>
+<title>EUROSPORT 2</title>
+<link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/eurosport2.png</thumbnail>
+</item>
+
+<item>
+<title>RMC Découverte</title>
+<link>http://streaming-hub.com/stream/rmc.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_D%C3%A9couverte_2012.png</thumbnail>
+</item>
+
+<item>
+<title>i-Télé</title>
+<link>http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8</link>
+<thumbnail>http://www.geoffroydidier.net/wp-content/uploads/2013/03/Untitled-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Alsace 20</title>
+<link>http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/chunklist_w242426453_b1536000.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/fr/archive/6/67/20130126130920!Alsace_20_logo_2013.png</thumbnail>
+</item>
+
+<item>
+<title>La Chaine Normandie</title>
+<link>http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8</link>
+<thumbnail>http://www.judoclubgrandrouen.fr/wp-content/uploads/2014/05/Image-19-569x269.png</thumbnail>
+</item>
+
+<item>
+<title>Gong</title>
+<link>http://ec.playmedia.fr:1935/gong-base/live/playlist.m3u8</link>
+<thumbnail>http://idata.over-blog.com/3/94/96/52/GONG.jpg</thumbnail>
+</item>
+
+<item>
+<title>La Tele</title>
+<link>http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8</link>
+<thumbnail>http://whyopencomputing.ch/wp-content/uploads/2014/05/la_tele_logo.png</thumbnail>
+</item>
+
+<item>
+<title>TV Rennes</title>
+<link>http://streaming1.interactivplatform.fr/tvrennes35-live/_definst_/smil:tvrennes35mob.smil/playlist.m3u8</link>
+<thumbnail>http://bowlingpromotioncup.e-monsite.com/medias/images/tv-rennes-web.png</thumbnail>
+</item>
+
+<item>
+<title>OM5 TV</title>
+<link>http://ec.playmedia.fr/om5-tv/live/playlist.m3u8</link>
+<thumbnail>http://www.mondialtv.fr/wp-content/uploads/logo-om5tv.png</thumbnail>
+</item>
+
+<item>
+<title>Mirabelle TV</title>
+<link>http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8</link>
+<thumbnail>http://www.mirabelle.tv/design/all/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Vosges Télévision</title>
+<link>http://live.vosgestelevision.tv/live/vosgestv/ngrp:vosgestv_all/pls.m3u8</link>
+<thumbnail>http://www.scot-vosges-centrales.fr/images/page/upload/d6c211ef87bc450cfcd46662411e9b8b.jpg</thumbnail>
+</item>
+
+<item>
+<title>Tébéo</title>
+<link></link>
+<thumbnail>http://www.quimper-volley.com/elite/wp-content/uploads/2013/02/tebeo-tv-rennes-ty-tele-640x360.jpg</thumbnail>
+</item>
+
+<item>
+<title>TVPI Bayonne</title>
+<link>http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/playlist.m3u8</link>
+<thumbnail>http://www.tvpi.fr/wp-content/themes/tvpi/images/logo-tvpi.jpg</thumbnail>
+</item>
+
+<item>
+<title>Enorme TV </title>
+<link>http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/fr/8/86/Logo_Enorme_TV.png</thumbnail>
+</item>
+
+<item>
+<title>Nancy Web</title>
+<link>http://rtmp.infomaniak.ch/livecast/nancy-webtv/playlist.m3u8</link>
+<thumbnail>http://www.wiiz.tv/wp-content/uploads/2016/03/a3a4e454427a4162187de03e62cfcfbf_400x400.png</thumbnail>
+</item>
+
+<item>
+<title>World Fashion Channel</title>
+<link>http://btv-net.mediacdn.ru/TVB7/wfhdeu/track_0_3000/playlist.m3u8</link>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6AlSGcMR9g1JcTQKQ5c5tnIb3AxGu-gsIJQCPuamQZd410c5Q.png</thumbnail>
+</item>
+
+<item>
+<title>NRJ TV</title>
+<link>http://rtmp.infomaniak.ch:1935/livecast/energytv/playlist.m3u8</link>
+<thumbnail>http://ringier.ch/sites/default/files/etv_logo_rgb_red_gr.jpg</thumbnail>
+</item>
+
+<item>
+<title>M6 Music Club</title>
+<link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8</link>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6AlSGcMR9g1JcTQKQ5c5tnIb3AxGu-gsIJQCPuamQZd410c5Q.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=blue][B][I] UK TV UK TV UK TV UK TV [/I][/B][/COLOR]</title>
+<link>http://www.filmon.com/channel/bbc-one</link>
+<thumbnail>http://traditionalmarket.co.uk/wp-content/uploads/2015/02/uk-flag.jpg</thumbnail>
+</item>
+
+<title>BBC ONE</title>
+<sportsdevil>http://www.filmon.com/channel/bbc-one</sportsdevil>
+<referer>http://www.filmon.com/channel/bbc-one</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BBC TWO</title>
+<sportsdevil>http://www.filmon.com/channel/bbc-two</sportsdevil>
+<referer>http://www.filmon.com/channel/bbc-two</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BBC THREE</title>
+<sportsdevil>http://www.filmon.com/channel/bbc-three</sportsdevil>
+<referer>http://www.filmon.com/channel/bbc-three</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BBC FOUR</title>
+<sportsdevil>http://www.filmon.com/channel/cbeebiesbbc-four</sportsdevil>
+<referer>http://www.filmon.com/channel/cbeebiesbbc-four</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BBC 1 NORTHERN IRELAND</title>
+<sportsdevil>http://www.filmon.com/channel/bbc-1-north-ireland</sportsdevil>
+<referer>http://www.filmon.com/channel/bbc-1-north-ireland</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BBC 1 SCOTLAND</title>
+<sportsdevil>http://www.filmon.com/channel/bbc-1-scotland</sportsdevil>
+<referer>http://www.filmon.com/channel/bbc-1-scotland</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BBC 1 WALES</title>
+<sportsdevil>http://www.filmon.com/channel/bbc-1-wales</sportsdevil>
+<referer>http://www.filmon.com/channel/bbc-1-wales</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+
+<item>
+<title>BBC NEWS</title>
+<sportsdevil>http://www.filmon.com/channel/bbc-news</sportsdevil>
+<referer>http://www.filmon.com/channel/bbc-news</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BBC PARLIAMENT</title>
+<sportsdevil>http://www.filmon.com/channel/bbc-parliament</sportsdevil>
+<referer>http://www.filmon.com/channel/bbc-parliament</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BBC MUSIC MAGAZINE</title>
+<sportsdevil>http://www.filmon.com/channel/bbc-music-magazine</sportsdevil>
+<referer>http://www.filmon.com/channel/bbc-music-magazine</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>REALITY TV</title>
+<sportsdevil>http://www.filmon.com/channel/reality-tv</sportsdevil>
+<referer>http://www.filmon.com/channel/reality-tv</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CHANNEL 4</title>
+<sportsdevil>http://www.filmon.com/channel/channel-4</sportsdevil>
+<referer>http://www.filmon.com/channel/channel-4</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CHANNEL 5</title>
+<sportsdevil>http://www.filmon.com/channel/channel-5</sportsdevil>
+<referer>http://www.filmon.com/channel/channel-5</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CBS REALITY</title>
+<sportsdevil>http://www.filmon.com/channel/cbs-reality</sportsdevil>
+<referer>http://www.filmon.com/channel/cbs-reality</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CBS REALITY 1</title>
+<sportsdevil>http://www.filmon.com/channel/cbs-reality1</sportsdevil>
+<referer>http://www.filmon.com/channel/cbs-reality1</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CBS ACTION</title>
+<sportsdevil></sportsdevil>
+<referer>http://www.filmon.com/channel/cbs-action</referer>
+<thumbnail>http://www.filmon.com/channel/cbs-action</thumbnail>
+</item>
+
+<item>
+<title>CBS DRAMA</title>
+<sportsdevil></sportsdevil>
+<referer>http://www.filmon.com/channel/cbs-drama</referer>
+<thumbnail>http://www.filmon.com/channel/cbs-drama</thumbnail>
+</item>
+
+<item>
+<title>ITV</title>
+<sportsdevil>http://www.filmon.com/channel/itv1</sportsdevil>
+<referer>http://www.filmon.com/channel/itv1</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ITV+1</title>
+<sportsdevil></sportsdevil>
+<referer>http://www.filmon.com/channel/itv-plus-1</referer>
+<thumbnail>http://www.filmon.com/channel/itv-plus-1</thumbnail>
+</item>
+
+<item>
+<title>ITV2</title>
+<sportsdevil>http://www.filmon.com/channel/itv2</sportsdevil>
+<referer>http://www.filmon.com/channel/itv2</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ITV2+1</title>
+<sportsdevil>http://www.filmon.com/channel/itv2-plus-1</sportsdevil>
+<referer>http://www.filmon.com/channel/itv2-plus-1</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ITV3</title>
+<sportsdevil>http://www.filmon.com/channel/itv3</sportsdevil>
+<referer>http://www.filmon.com/channel/itv3</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ITV3+1</title>
+<sportsdevil></sportsdevil>
+<referer>http://www.filmon.com/channel/itv3-plus-1</referer>
+<thumbnail>http://www.filmon.com/channel/itv3-plus-1</thumbnail>
+</item>
+
+<item>
+<title>ITV4</title>
+<sportsdevil>http://www.filmon.com/channel/itv4</sportsdevil>
+<referer>http://www.filmon.com/channel/itv4</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ITV4+1</title>
+<sportsdevil>http://www.filmon.com/channel/itv4-plus-1</sportsdevil>
+<referer>http://www.filmon.com/channel/itv4-plus-1</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ITVBe</title>
+<sportsdevil>http://www.filmon.com/channel/itvbe</sportsdevil>
+<referer>http://www.filmon.com/channel/itvbe</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TRU TV</title>
+<sportsdevil>http://www.filmon.com/channel/tru-tv</sportsdevil>
+<referer>http://www.filmon.com/channel/tru-tv</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>E4</title>
+<sportsdevil>http://www.filmon.com/channel/e4</sportsdevil>
+<referer>http://www.filmon.com/channel/e4</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MORE4</title>
+<sportsdevil>http://www.filmon.com/channel/more4</sportsdevil>
+<referer>http://www.filmon.com/channel/more4</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>5*</title>
+<sportsdevil>http://www.filmon.com/channel/5-star</sportsdevil>
+<referer>http://www.filmon.com/channel/5-star</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>5USA</title>
+<sportsdevil>http://www.filmon.com/channel/5usa</sportsdevil>
+<referer>http://www.filmon.com/channel/5usa</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>DAVE</title>
+<sportsdevil>http://www.filmon.com/channel/dave</sportsdevil>
+<referer>http://www.filmon.com/channel/dave</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>QUEST</title>
+<sportsdevil>http://www.filmon.com/channel/quest</sportsdevil>
+<referer>http://www.filmon.com/channel/quest</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>REALLY</title>
+<sportsdevil>http://www.filmon.com/channel/really</sportsdevil>
+<referer>http://www.filmon.com/channel/really</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>YESTERDAY</title>
+<sportsdevil>http://www.filmon.com/channel/yesterday</sportsdevil>
+<referer>http://www.filmon.com/channel/yesterday</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>IRELAND COUNTRY TV</title>
+<sportsdevil>http://www.filmon.com/channel/irelands-country-tv</sportsdevil>
+<referer>http://www.filmon.com/channel/irelands-country-tv</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BRITROX</title>
+<sportsdevil>http://www.filmon.com/channel/britrox</sportsdevil>
+<referer>http://www.filmon.com/channel/britrox</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>DR. FAB SHOW</title>
+<sportsdevil>http://www.filmon.com/channel/dr-fab-show</sportsdevil>
+<referer>http://www.filmon.com/channel/dr-fab-show</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MY FACE MY BODY</title>
+<sportsdevil>http://www.filmon.com/channel/my-face-my-body</sportsdevil>
+<referer>http://www.filmon.com/channel/my-face-my-body</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>PICK TV</title>
+<sportsdevil>http://www.filmon.com/channel/pick-tv</sportsdevil>
+<referer>http://www.filmon.com/channel/pick-tv</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>PSYCHIC TODAY</title>
+<sportsdevil>http://www.filmon.com/channel/psychic-today</sportsdevil>
+<referer>http://www.filmon.com/channel/psychic-today</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FUSIONPLUS TV</title>
+<sportsdevil>http://www.filmon.com/channel/fusionplus</sportsdevil>
+<referer>http://www.filmon.com/channel/fusionplus</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR=blue][B][I] MUSIC MUSIC MUSIC MUSIC MUSIC [/I][/B][/COLOR]</title>
+<link>http://wownet.ro/str/0065.m3u8|X-Forwarded-For=81.17.18.50</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RETV JAMAICA</title>
+<link>http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8</link>
+<thumbnail>http://realjamaicantelevision.com/sites/default/files/retv_logo.png</thumbnail>
+</item>
+<item>
+<title>ROUGE TV HQ</title>
+<link>http://wownet.ro/str/0241.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0</link>
+<thumbnail>http://haitiantvchannel.com/wp-content/uploads/2013/08/rouge-tv-movie.jpg</thumbnail>
+</item>
+<item>
+<title>Deluxe Music</title>
+<link>http://wownet.ro/str/0065.m3u8|X-Forwarded-For=81.17.18.50</link>
+<thumbnail>http://www.deluxemusic.tv/fileadmin/_processed_/csm_Deluxe_top_25_c8ad3cf202.png</thumbnail>
+</item>
+<item>
+<title>Kiss Tv Music</title>
+<link>rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live</link>
+<thumbnail>http://www.telefivegb.com/wp-content/uploads/2013/05/kisstv.jpg</thumbnail>
+</item>
+<item>
+<title>VEVO ROCK TV</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8</link>
+<thumbnail>http://hdtoptv.com/wp-content/uploads/vevorock1.png</thumbnail>
+</item>
+<item>
+<title>VEVO MUSIC TV</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8</link>
+<thumbnail>http://routenote.com/blog/wp-content/uploads/2010/09/vevo.jpg</thumbnail>
+</item>
+<item>
+<title>DJING IBIZA</title>
+<link>http://www.djing.com/tv/d-05.m3u8</link>
+<thumbnail>http://www.tvtuga.com/wp-content/uploads/2015/12/djing-ibiza-tv.jpg</thumbnail>
+</item>
+<item>
+<title>DJING ANIMATION</title>
+<link>http://www.djing.com/tv/a-05.m3u8</link>
+<thumbnail>http://www.primetvweb.com/wp-content/uploads/2016/01/Djing-Animation-TV.png</thumbnail>
+</item>
+<item>
+<title>DJING CLASSIC</title>
+<link>http://www.djing.com/tv/i-05.m3u8</link>
+<thumbnail>http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Classic.jpg</thumbnail>
+</item>
+<item>
+<title>JUCE TV</title>
+<link>http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8</link>
+<thumbnail>http://www.accessfree.tv/images/access%20juce%20tv.jpg</thumbnail>
+</item>
+<item>
+<title>RADIO MONTE CARLO TV</title>
+<link>rtmp://fms.105.net:1935/live/rmc1</link>
+<thumbnail>http://rmc.bfmtv.com/ressources/img/mediaplayer/player-rmcdecouverte_fin.jpg</thumbnail>
+</item>
+<item>
+<title>CAPITAL TV</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/3/32/Capital_TV_logo.png</thumbnail>
+</item>
+<item>
+<title>HEART TV</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.jumpdesign.co.uk/wp-content/uploads/2014/09/Heart-TV-N-031-600x338.jpg</thumbnail>
+</item>
+<item>
+<title>VIRGIN TV</title>
+<link>rtmp://fms.105.net:1935/live/virgin2</link>
+<thumbnail>http://about.virginmedia.com/images/press_releases/VTVA%20logo_1.png</thumbnail>
+</item>
+<item>
+<title>AFRICA MUSICA</title>
+<link>http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8</link>
+<thumbnail>http://djstev.wifeo.com/images/1/1jp/1.jpg</thumbnail>
+</item>
+<item>
+<title>UNDERGROUND</title>
+<link>http://www.djing.com/tv/underground.m3u8</link>
+<thumbnail>http://tlvnights.com/wp-content/uploads/2015/08/063-underground_roundel_sign_at_epping.jpg</thumbnail>
+</item>
+<item>
+<title>DANCEFLOOR</title>
+<link>http://www.djing.com/tv/dancefloor.m3u8</link>
+<thumbnail>http://insidedancefloor-lawebradio.e-monsite.com/medias/images/dancefloor.jpg</thumbnail>
+</item>
+<item>
+<title>DREAM TV</title>
+<link>http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8</link>
+<thumbnail>https://static.simpsonswiki.com/images/thumb/d/d5/Dream_TV.png/250px-Dream_TV.png</thumbnail>
+</item>
+<item>
+<title>CLUBLAND</title>
+<link>http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8</link>
+<thumbnail>http://www.enginecreative.co.uk/uploads/assets/content/image/CC_int1.jpg</thumbnail>
+</item>
+<item>
+<title>MI MUSICA</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?</link>
+<thumbnail>http://g01.a.alicdn.com/kf/HTB18FuIJXXXXXaAXXXXq6xXFXXXl/7021E-MI-music-centre-audio-2-0-active-subwoofer-combination-wooden-card-mobile-phone-TV-computer.jpg</thumbnail>
+</item>
+<item>
+<title>REAL HIP HOP TV</title>
+<link>http://rhn.tulix.tv/live/Stream1/playlist.m3u8</link>
+<thumbnail>http://2dopeboyz.files.wordpress.com/2008/03/20080327-lgnd.jpg</thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+<item>

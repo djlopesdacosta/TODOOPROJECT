@@ -1,0 +1,107 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-id=""tv-logo=“http://latinlink.usmediaconsulting.com/wp-content/uploads/2015/01/10-must-knows-Brazil-media.jpg” group-title=“BRASIL”,[COLOR orange]» » BRASIL« «[/COLOR]
+http://0.0.0.0:1234
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.accuware.com/blog/wp-content/uploads/2014/01/big_brother_brasil_logo_1.jpg" group-title=“BRASIL”,[COLOR orange][I][B]BIG BROTHER BRASIL [/B][/I][/COLOR]
+rtmp://208.115.227.212:1935/RedeCanaisBBB/myStream
+
+#EXTINF:-1 tvg-logo="http://noticiasdatvbrasil.files.wordpress.com/2011/06/adtv-audienciadetv201146.jpg" group-title=“BRASIL”,[COLOR orange][I][B]TV GLOBO INTERNACIONAL[/B][/I][/COLOR]
+http://art.nextv.ca:80/nextv/globo/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yspusx1435103750.png" group-title=“BRASIL”,[COLOR orange][I][B]TV GLOBO [/B][/I][/COLOR]
+http://cast2.player.tv.br:1935/8126/8126/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/globosp.png" group-title=“BRASIL”,[COLOR orange][I][B]TV GLOBO [/B][/I][/COLOR]
+http://213.163.65.116:8081/live/record/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yspusx1435103750.png" group-title=“BRASIL”,[COLOR orange][I][B]TV GLOBO [/B][/I][/COLOR]
+http://62.210.83.180:1935/liverepeat/101010/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yspusx1435103750.png" group-title=“BRASIL”,[COLOR orange][I][B]TV GLOBO [/B][/I][/COLOR]
+rtmp://62.210.82.241:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDE1IDY6NDE6MzcgUE0maGFzaF92YWx1ZT1WRGVVNzIwNmdVcGVJY3BsTW1qUG53PT0mdmFsaWRtaW51dGVzPTMwMA==/ playpath=101010  swfUrl=http://ppcast.org/embedP/jwplayer/jwplayer.flash.swf?IGOR_RANGEL  pageUrl=http://ppcast.org/embedP/3.php?file=zuca3a14&width=100%25&height=100%25
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yqpwvs1436890865.png" group-title=“BRASIL”,[COLOR orange][I][B]TV RECORD [/B][/I][/COLOR]
+http://cast2.player.tv.br:1935/8126/8126/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xrpwsp1436890926.png" group-title=“BRASIL”,[COLOR orange][I][B]TV RECORD [/B][/I][/COLOR]
+http://cast2.player.tv.br:1935/8126/8126/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xrpwsp1436890926.png" group-title=“BRASIL”,[COLOR orange][I][B]TV RECORD RONDONIA [/B][/I][/COLOR] 
+rtmp://cast2.player.tv.br/8126/8126
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xrpwsp1436890926.png" group-title=“BRASIL”,[COLOR orange][I][B]TV RECORD PERNAMBUCO [/B][/I][/COLOR] 
+rtmp://rtmp.cdn.upx.net.br:80/00161/myStream.sdp
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xrpwsp1436890926.png" group-title=“BRASIL”,[COLOR orange][I][B]TV RECORD ESPIRITO SANTO [/B][/I][/COLOR]
+http://flash.midiaip.com.br:1935/tvvitoria/Sample1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-BTyUbsD1JQ0/U9aRxU_7ISI/AAAAAAAAAqs/SqrvGoLOKIM/s1600/record_news.png" group-title=“BRASIL”,[COLOR orange][I][B]TV RECORD NEWS [/B][/I][/COLOR]
+rtmp://flash.midiaip.com.br/recordnewses/recordnewses
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rvtpxp1437610838.png" group-title=“BRASIL”,[COLOR orange][I][B]SBT [/B][/I][/COLOR]
+rtmp://187.18.187.5/livepkgr/ playpath=tvjangadeiro1 swfUrl=http://tribunadoceara.uol.com.br/tv-jangadeiro/wp-content/themes/2013_jangadeiro_tv/js/jwplayer/jwplayer.flash.swf live=1 timeout=10 pageUrl=http://tribunadoceara.uol.com.br/tv-jangadeiro/ao-vivo/
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rvtpxp1437610838.png" group-title=“BRASIL”,[COLOR orange][I][B]SBT [/B][/I][/COLOR]
+http://rtmp.9c2c.upx.net.br:1935/9c2c/myStream_all/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rvtpxp1437610838.png" group-title=“BRASIL”,[COLOR orange][I][B]SBT [/B][/I][/COLOR]
+http://192.99.46.182:1935/pioneira-tv/pioneira-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s1.trrsf.com/atm/3/core/_img/terra-logo-white-bg-v3.jpg" group-title=“BRASIL”,[COLOR orange][I][B]TERRA NOTICIAS [/B][/I][/COLOR]
+http://wowza1.videos.movile.com:1935/live/noticias_1.smil/livestream.m3u8?BRASILIPTV
+
+#EXTINF:-1 tvg-logo="http://blog.chicomaia.com.br/wordpress/wp-content/uploads/2011/03/BHNEWS2.jpg" group-title=“BRASIL”,[COLOR orange][I][B]BH NEWS [/B][/I][/COLOR]
+rtmp://50.17.213.76/3125 playpath=3125-hotmedia.sdp  swfUrl=http://www.z1on.com/flashjw/playerjw.swf?IGOR_RANGEL  pageUrl=http://www.z1on.com/flashjw/3125/?src=iframe&embed=1&controlbar=1
+
+#EXTINF:-1 tvg-logo="http://www.grupofolhadecomunicacao.com.br/imgs_/marcas/220/folha_tv_220x106px.jpg" group-title=“BRASIL”,[COLOR orange][I][B]FOLHA TV [/B][/I][/COLOR]
+http://wowza1.videos.movile.com:1935/live/noticias_1.smil/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vxwvux1437613674.png" group-title=“BRASIL”,[COLOR orange][I][B]REDE TV [/B][/I][/COLOR]
+http://31.204.128.112:8081/live/redetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/tolololpedia/images/a/a9/LogoRedeTV.png/revision/latest?cb=20130825082509" group-title=“BRASIL”,[COLOR orange][I][B]TRede TV HD[/B][/I][/COLOR]
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-yFfCf3KfMQA/UzeD5rPXpUI/AAAAAAAAh50/z2Eak_nTLQ4/s1600/tv_aparecida.png" group-title=“BRASIL”,[COLOR orange][I][B]TV APARECIDA [/B][/I][/COLOR]
+http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/Paz.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-5uPSyRzsAtw/UhKTt2WtqOI/AAAAAAABLng/UBc_xeE7Ab4/s1600/canal+rural+logo.jpg" group-title=“BRASIL”,[COLOR orange][I][B]CANAL RURAL [/B][/I][/COLOR]
+http://7149o.ls.azioncdn.net:1935/7149o/canal_rural.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/srpypw1437613121.png" group-title=“BRASIL”,[COLOR orange][I][B]TV CULTURA [/B][/I][/COLOR]
+http://s5.procergs.com.br:1935/tve/stve/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://36.media.tumblr.com/tumblr_m9ksjjwyN31qg4g75o1_r1_500.jpg" group-title=“BRASIL”,[COLOR orange][I][B]CANAL ESCOLA [/B][/I][/COLOR]
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvimages.burrp.com/images/channels2/entertainment/Mega-TV.png" group-title=“BRASIL”,[COLOR orange][I][B]MEGA TV[/B][/I][/COLOR]
+http://rtmp.cdn.upx.net.br:1935/00135_4/myStream.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="TV Brasil.png" group-title=“BRASIL”,[COLOR orange][I][B]TV BRASIL [/B][/I][/COLOR]
+rtmp://ebcremuxlivefs.fplive.net/ebcremuxlive-ebctvbrasil/ playpath=stream1 swfUrl=http://www.tvonlinegratis.tv/canais/player/universal.swf? pageUrl=http://www.tvonlinegratis.tv/canais/tvbrasil.php
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/TV_Brasil_logo.png" group-title=“BRASIL”,[COLOR orange][I][B]TV BRASIL [/B][/I][/COLOR]
+http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/08/canal-tv-gazeta-programa%C3%A7oes.jpg" group-title=“BRASIL”,[COLOR orange][I][B]TV GAZETA[/B][/I][/COLOR]
+http://shflash.directradios.com:1935/gazeta3/stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv14.net/wp-content/uploads/2010/09/Amazon-Sat.jpg" group-title=“BRASIL”,[COLOR orange][I][B]AMAZON SAT [/B][/I][/COLOR]
+http://livela.sambatech.com.br:80/hls-live/livepkgr/amazonsat3_3e9c859611a5e7fbedc785bd33c418b5/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.businessnetworking.com.br/wp-content/uploads/2015/10/TV_Diario_logo_2000.png" group-title=“BRASIL”,[COLOR orange][I][B]TV DIÁRIO [/B][/I][/COLOR]
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-7yFuDHH4gkA/VDhwOHsmbCI/AAAAAAAAjfE/cvy0Q0idxUA/s1600/mix-tv-logo.png" group-title=“BRASIL”,[COLOR orange][I][B]MIX TV  [/B][/I][/COLOR]
+http://xmixtvbrx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1,TESTE TV
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8

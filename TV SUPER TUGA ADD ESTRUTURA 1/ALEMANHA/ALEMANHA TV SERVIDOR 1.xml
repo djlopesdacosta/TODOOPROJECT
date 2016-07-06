@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title>[COLOR] [COLOR red][/COLOR][B][COLOR red][B]P[/B][/COLOR][COLOR green][B]L[/B][/COLOR][COLOR orange][B]A[/B][/COLOR][COLOR red][B]Y[/B][/COLOR] [COLOR cyan]TV NEEDED [/COLOR][COLOR magenta]EXTRA ADDON [/COLOR][COLOR yellow]F4MTESTER [/COLOR]</title>
+<link>http://Movies.me</link>
+<jsonrpc>plugin://plugin.video.f4mTester/</jsonrpc>
+<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
+</item>
+
+<item>       
+<title>[COLOR red] [/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>       
+<title>            [COLOR red] ALEMANHA TV [/COLOR]  [COLOR lime]SERVIDOR 1[/COLOR]  </title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>       
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 01-07-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+ 
+  
+         
+        
+      
+        
+          <item> 
+            <title>DE:WRD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2333.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:WRD</link> 
+        </item> 
+          <item> 
+            <title>DE:SRF1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2230.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SRF1</link> 
+        </item> 
+          <item> 
+            <title>DE:SRF2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2231.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SRF2</link> 
+        </item> 
+          <item> 
+            <title>DE:RTL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/377.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL</link> 
+        </item> 
+          <item> 
+            <title>DE:RTL2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2003.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL2</link> 
+        </item> 
+          <item> 
+            <title>DE:SUPER_RTL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2004.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SUPER_RTL</link> 
+        </item> 
+          <item> 
+            <title>DE:RTL_NETRO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2335.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL_NETRO</link> 
+        </item> 
+          <item> 
+            <title>DE:RTL_CRIM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2334.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL_CRIM</link> 
+        </item> 
+          <item> 
+            <title>DE:ORF1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2011.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ORF1</link> 
+        </item> 
+          <item> 
+            <title>DE:ORF2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/374.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ORF2</link> 
+        </item> 
+          <item> 
+            <title>DE:ORF3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2575.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ORF3</link> 
+        </item> 
+          <item> 
+            <title>DE:ZDF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2743.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ZDF</link> 
+        </item> 
+          <item> 
+            <title>DE:ZDF_INFO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/372.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ZDF_INFO</link> 
+        </item> 
+          <item> 
+            <title>DE:ZDF_NEO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2737.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ZDF_NEO</link> 
+        </item> 
+          <item> 
+            <title>DE:SIXX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1500.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SIXX</link> 
+        </item> 
+          <item> 
+            <title>DE:VOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2005.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:VOX</link> 
+        </item> 
+          <item> 
+            <title>DE:SAT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2006.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SAT1</link> 
+        </item> 
+          <item> 
+            <title>DE:PRO7_MAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2331.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:PRO7_MAX</link> 
+        </item> 
+          <item> 
+            <title>DE:PRO7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1501.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:PRO7</link> 
+        </item> 
+          <item> 
+            <title>DE:DMAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2734.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:DMAX</link> 
+        </item> 
+          <item> 
+            <title>DE:NDR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1502.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:NDR</link> 
+        </item> 
+          <item> 
+            <title>DE:AUSTERIA_24TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1503.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:AUSTERIA_24TV</link> 
+        </item> 
+          <item> 
+            <title>DE:N-TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1504.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:N-TV</link> 
+        </item> 
+          <item> 
+            <title>DE:TNT_SERIE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/376.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:TNT_SERIE</link> 
+        </item> 
+          <item> 
+            <title>DE:TNT_FILM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2336.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:TNT_FILM</link> 
+        </item> 
+          <item> 
+            <title>DE:KABEL1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1506.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:KABEL1</link> 
+        </item> 
+          <item> 
+            <title>DE:ARTE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1508.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ARTE</link> 
+        </item> 
+          <item> 
+            <title>DE:SKY_CINEMA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/371.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_CINEMA</link> 
+        </item> 
+          <item> 
+            <title>DE:SKY_CINEMA_24HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/361.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_CINEMA_24HD</link> 
+        </item> 
+          <item> 
+            <title>DE:SKY_ACTION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2736.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_ACTION</link> 
+        </item> 
+          <item> 
+            <title>DE:SKY_ATLANTIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/362.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_ATLANTIC</link> 
+        </item> 
+          <item> 
+            <title>DE:SKY_EMOTION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/360.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_EMOTION</link> 
+        </item> 
+          <item> 
+            <title>DE:SKY_COMEDY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/370.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_COMEDY</link> 
+        </item> 
+          <item> 
+            <title>DE:Sky_KRIMI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/942.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_KRIMI</link> 
+        </item> 
+          <item> 
+            <title>DE:SKY_HITS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/369.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_HITS</link> 
+        </item> 
+          <item> 
+            <title>DE:SKY_MGM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2330.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_MGM</link> 
+        </item> 
+          <item> 
+            <title>DE:KIKA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/378.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:KIKA</link> 
+        </item> 
+          <item> 
+            <title>DE:DISNEY_XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2264.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:DISNEY_XD</link> 
+        </item> 
+          <item> 
+            <title>DE:DISNEY_CINEMAGIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2267.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:DISNEY_CINEMAGIC</link> 
+        </item> 
+          <item> 
+            <title>DE:DISNEY_CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2332.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:DISNEY_CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>DE:FOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2276.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:FOX</link> 
+        </item> 
+          <item> 
+            <title>DE:13TH_STREETHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/946.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:13TH_STREETHD</link> 
+        </item> 
+          <item> 
+            <title>DE:SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/945.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SYFY</link> 
+        </item> 
+          <item> 
+            <title>DE:NATGEO_WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/943.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:NATGEO_WILD</link> 
+        </item> 
+          <item> 
+            <title>DE:HISTORYHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/944.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:HISTORYHD</link> 
+        </item> 
+          <item> 
+            <title>DE:NATGEO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/375.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:NATGEO</link> 
+        </item> 
+          <item> 
+            <title>DE:SKY_SELECT6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/363.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_SELECT6</link> 
+        </item> 
+          <item> 
+            <title>DE:SKY_SELECT5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/364.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_SELECT5</link> 
+        </item> 
+          <item> 
+            <title>DE:SKY_SELECT4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/365.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_SELECT4</link> 
+        </item> 
+          <item> 
+            <title>DE:SKY_SELECT3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/366.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_SELECT3</link> 
+        </item> 
+          <item> 
+            <title>DE:SKY_SELECT2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/367.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_SELECT2</link> 
+        </item> 
+          <item> 
+            <title>DE:SKY_SELECT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/368.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_SELECT1</link> 
+        </item> 
+          <item> 
+            <title>DE:SPORT_DIGITAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2338.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SPORT_DIGITAL</link> 
+        </item> 
+          <item> 
+            <title>DE:SKY_BUNDESLIGA_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/359.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_BUNDESLIGA_HD</link> 
+        </item> 
+          <item> 
+            <title>DE:SKY_SPORTS_HD1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/357.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_SPORTS_HD1</link> 
+        </item> 
+          <item> 
+            <title>DE:SKY_SPORTS_HD2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/358.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_SPORTS_HD2</link> 
+        </item> 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<item>       
+<title>[COLOR red]                                                          [/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR] [COLOR red][/COLOR][B][COLOR red][B]P[/B][/COLOR][COLOR green][B]L[/B][/COLOR][COLOR orange][B]A[/B][/COLOR][COLOR red][B]Y[/B][/COLOR] [COLOR cyan]TV NEEDED [/COLOR][COLOR magenta]EXTRA ADDON [/COLOR][COLOR yellow]F4MTESTER [/COLOR]</title>
+<link>http://Movies.me</link>
+<jsonrpc>plugin://plugin.video.f4mTester/</jsonrpc>
+<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
+</item>

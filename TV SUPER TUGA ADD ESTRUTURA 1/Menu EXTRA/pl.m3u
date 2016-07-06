@@ -1,0 +1,576 @@
+﻿
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,TVP 1 HD
+    http://81.15.177.86:4022/udp/239.0.0.1:1234
+    #EXTINF:-1,TVP 2 HD
+    http://81.15.177.86:4022/udp/239.0.0.2:1234
+    #EXTINF:-1,TVP 3 Olstyn
+    http://81.15.177.86:4022/udp/239.0.0.3:1234
+    #EXTINF:-1,TVP Sport
+    http://81.15.177.86:4022/udp/239.0.0.4:1234
+    #EXTINF:-1,TVP Polonia
+    http://81.15.177.86:4022/udp/239.0.0.5:1234
+    #EXTINF:-1,TVP Historia
+    http://81.15.177.86:4022/udp/239.0.0.6:1234
+    #EXTINF:-1,TVP Kultura
+    http://81.15.177.86:4022/udp/239.0.0.7:1234
+    #EXTINF:-1,TVP Seriale
+    http://81.15.177.86:4022/udp/239.0.0.8:1234
+    #EXTINF:-1,TVP HD
+    http://81.15.177.86:4022/udp/239.0.0.9:1234
+    #EXTINF:-1,TVP Rozrywka
+    http://81.15.177.86:4022/udp/239.0.0.10:1234
+    #EXTINF:-1,TVN HD
+    http://81.15.177.86:4022/udp/239.0.0.15:1234
+    #EXTINF:-1,TVN Siedem
+    http://81.15.177.86:4022/udp/239.0.0.16:1234
+    #EXTINF:-1,TVN 24
+    http://81.15.177.86:4022/udp/239.0.0.17:1234
+    #EXTINF:-1,TVN 24 Biznes i Swiat
+    http://81.15.177.86:4022/udp/239.0.0.18:1234
+    #EXTINF:-1,TVN Meteo Active
+    http://81.15.177.86:4022/udp/239.0.0.19:1234
+    #EXTINF:-1,TVN Style
+    http://81.15.177.86:4022/udp/239.0.0.20:1234
+    #EXTINF:-1,TVN Turbo
+    http://81.15.177.86:4022/udp/239.0.0.21:1234
+    #EXTINF:-1,Mango 24
+    http://81.15.177.86:4022/udp/239.0.0.22:1234
+    #EXTINF:-1,Nat Geo Wild
+    http://81.15.177.86:4022/udp/239.0.0.23:1234
+    #EXTINF:-1,Polsat HD
+    http://81.15.177.86:4022/udp/239.0.0.24:1234
+    #EXTINF:-1,Polsat 2
+    http://81.15.177.86:4022/udp/239.0.0.25:1234
+    #EXTINF:-1,Polsat Cafe
+    http://81.15.177.86:4022/udp/239.0.0.26:1234
+    #EXTINF:-1,Polsat Play
+    http://81.15.177.86:4022/udp/239.0.0.27:1234
+    #EXTINF:-1,Polsat Sport
+    http://81.15.177.86:4022/udp/239.0.0.28:1234
+    #EXTINF:-1,Polsat Sport Extra
+    http://81.15.177.86:4022/udp/239.0.0.29:1234
+    #EXTINF:-1,Polsat News
+    http://81.15.177.86:4022/udp/239.0.0.30:1234
+    #EXTINF:-1,Polsat News 2
+    http://81.15.177.86:4022/udp/239.0.0.31:1234
+    #EXTINF:-1,MTV Polska
+    http://81.15.177.86:4022/udp/239.0.0.32:1234
+    #EXTINF:-1,Comedy Central Family
+    http://81.15.177.86:4022/udp/239.0.0.33:1234
+    #EXTINF:-1,VIVA Polska
+    http://81.15.177.86:4022/udp/239.0.0.34:1234
+    #EXTINF:-1,Power TV HD
+    http://81.15.177.86:4022/udp/239.0.0.35:1234
+    #EXTINF:-1,Fox Comedy
+    http://81.15.177.86:4022/udp/239.0.0.36:1234
+    #EXTINF:-1,Comedy Central HD
+    http://81.15.177.86:4022/udp/239.0.0.38:1234
+    #EXTINF:-1,Nickelodeon
+    http://81.15.177.86:4022/udp/239.0.0.39:1234
+    #EXTINF:-1,Ale Kino+ HD
+    http://81.15.177.86:4022/udp/239.0.0.40:1234
+    #EXTINF:-1,teleTOON+ HD
+    http://81.15.177.86:4022/udp/239.0.0.41:1234
+    #EXTINF:-1,Kuchnia+ HD
+    http://81.15.177.86:4022/udp/239.0.0.42:1234
+    #EXTINF:-1,Domo+ HD
+    http://81.15.177.86:4022/udp/239.0.0.43:1234
+    #EXTINF:-1,Planete+ HD
+    http://81.15.177.86:4022/udp/239.0.0.44:1234
+    #EXTINF:-1,MiniMini+ HD
+    http://81.15.177.86:4022/udp/239.0.0.45:1234
+    #EXTINF:-1,Travel Channel HD
+    http://81.15.177.86:4022/udp/239.0.0.46:1234
+    #EXTINF:-1,TVN Style HD
+    http://81.15.177.86:4022/udp/239.0.0.47:1234
+    #EXTINF:-1,TVN Turbo HD
+    http://81.15.177.86:4022/udp/239.0.0.48:1234
+    #EXTINF:-1,Eska TV
+    http://81.15.177.86:4022/udp/239.0.0.50:1234
+    #EXTINF:-1,TV Puls
+    http://81.15.177.86:4022/udp/239.0.0.51:1234
+    #EXTINF:-1,TVS
+    http://81.15.177.86:4022/udp/239.0.0.52:1234
+    #EXTINF:-1,TO!TV
+    http://81.15.177.86:4022/udp/239.0.0.53:1234
+    #EXTINF:-1,TVN 24 HD
+    http://81.15.177.86:4022/udp/239.0.0.54:1234
+    #EXTINF:-1,KINO POLSKA
+    http://81.15.177.86:4022/udp/239.0.0.55:1234
+    #EXTINF:-1,BBC Brit HD
+    http://81.15.177.86:4022/udp/239.0.0.56:1234
+    #EXTINF:-1,BBC Earth HD
+    http://81.15.177.86:4022/udp/239.0.0.57:1234
+    #EXTINF:-1,BBC Lifestyle Poland
+    http://81.15.177.86:4022/udp/239.0.0.58:1234
+    #EXTINF:-1,BBC CBeebies Poland
+    http://81.15.177.86:4022/udp/239.0.0.59:1234
+    #EXTINF:-1,Eurosport 1
+    http://81.15.177.86:4022/udp/239.0.0.60:1234
+    #EXTINF:-1,Eurosport 2
+    http://81.15.177.86:4022/udp/239.0.0.61:1234
+    #EXTINF:-1,4Fun TV
+    http://81.15.177.86:4022/udp/239.0.0.62:1234
+    #EXTINF:-1,TELE 5
+    http://81.15.177.86:4022/udp/239.0.0.63:1234
+    #EXTINF:-1,TVN 7 HD
+    http://81.15.177.86:4022/udp/239.0.0.65:1234
+    #EXTINF:-1,National Geographic
+    http://81.15.177.86:4022/udp/239.0.0.66:1234
+    #EXTINF:-1,AXN
+    http://81.15.177.86:4022/udp/239.0.0.67:1234
+    #EXTINF:-1,AXN White
+    http://81.15.177.86:4022/udp/239.0.0.68:1234
+    #EXTINF:-1,AXN Black
+    http://81.15.177.86:4022/udp/239.0.0.69:1234
+    #EXTINF:-1,TVP Gdansk
+    http://81.15.177.86:4022/udp/239.0.0.71:1234
+    #EXTINF:-1,TVP INFO
+    http://81.15.177.86:4022/udp/239.0.0.72:1234
+    #EXTINF:-1,Extreme Sports HD
+    http://81.15.177.86:4022/udp/239.0.0.73:1234
+    #EXTINF:-1,Polsat Jim Jam
+    http://81.15.177.86:4022/udp/239.0.0.74:1234
+    #EXTINF:-1,Polsat Film
+    http://81.15.177.86:4022/udp/239.0.0.75:1234
+    #EXTINF:-1,TV4
+    http://81.15.177.86:4022/udp/239.0.0.76:1234
+    #EXTINF:-1,TV6
+    http://81.15.177.86:4022/udp/239.0.0.77:1234
+    #EXTINF:-1,PULS 2
+    http://81.15.177.86:4022/udp/239.0.0.78:1234
+    #EXTINF:-1,Polsat Sport News
+    http://81.15.177.86:4022/udp/239.0.0.79:1234
+    #EXTINF:-1,5 канал (Украина)
+    http://81.15.177.86:4022/udp/239.0.0.80:1234
+    #EXTINF:-1,Stars TV
+    http://81.15.177.86:4022/udp/239.0.0.81:1234
+    #EXTINF:-1,TTV
+    http://81.15.177.86:4022/udp/239.0.0.82:1234
+    #EXTINF:-1,Polo TV
+    http://81.15.177.86:4022/udp/239.0.0.83:1234
+    #EXTINF:-1,ATM Rozrywka
+    http://81.15.177.86:4022/udp/239.0.0.84:1234
+    #EXTINF:-1,BBC HD
+    http://81.15.177.86:4022/udp/239.0.0.85:1234
+    #EXTINF:-1,TELE5 HD
+    http://81.15.177.86:4022/udp/239.0.0.86:1234
+    #EXTINF:-1,N/A
+    http://81.15.177.86:4022/udp/239.0.0.87:1234
+    #EXTINF:-1,Discovery Channel
+    http://81.15.177.86:4022/udp/239.0.0.88:1234
+    #EXTINF:-1,Discovery Life
+    http://81.15.177.86:4022/udp/239.0.0.89:1234
+    #EXTINF:-1,Discovery Science HD
+    http://81.15.177.86:4022/udp/239.0.0.90:1234
+    #EXTINF:-1,Discovery Turbo Xtra
+    http://81.15.177.86:4022/udp/239.0.0.91:1234
+    #EXTINF:-1,TVS HD
+    http://81.15.177.86:4022/udp/239.0.0.92:1234
+    #EXTINF:-1,MGM HD
+    http://81.15.177.86:4022/udp/239.0.0.93:1234
+    #EXTINF:-1,nSport+ HD
+    http://81.15.177.86:4022/udp/239.0.0.94:1234
+    #EXTINF:-1,Class Horse Tv
+    http://81.15.177.86:4022/udp/239.0.0.95:1234
+    #EXTINF:-1,CANAL+ Film HD
+    http://81.15.177.86:4022/udp/239.0.0.96:1234
+    #EXTINF:-1,CANAL+ Seriale HD
+    http://81.15.177.86:4022/udp/239.0.0.97:1234
+    #EXTINF:-1,CANAL+ Family HD
+    http://81.15.177.86:4022/udp/239.0.0.98:1234
+    #EXTINF:-1,CANAL+ 1 HD
+    http://81.15.177.86:4022/udp/239.0.0.99:1234
+    #EXTINF:-1,Discovery Channel Poland HD
+    http://81.15.177.86:4022/udp/239.0.0.101:1234
+    #EXTINF:-1,Animal Planet Poland HD
+    http://81.15.177.86:4022/udp/239.0.0.102:1234
+    #EXTINF:-1,Discovery Turbo Xtra HD
+    http://81.15.177.86:4022/udp/239.0.0.103:1234
+    #EXTINF:-1,Discovery ID HD
+    http://81.15.177.86:4022/udp/239.0.0.104:1234
+    #EXTINF:-1,Discovery Historia Poland
+    http://81.15.177.86:4022/udp/239.0.0.105:1234
+    #EXTINF:-1,TLC Poland HD
+    http://81.15.177.86:4022/udp/239.0.0.106:1234
+    #EXTINF:-1,TVP ABC
+    http://81.15.177.86:4022/udp/239.0.0.107:1234
+    #EXTINF:-1,stopklatka tv
+    http://81.15.177.86:4022/udp/239.0.0.108:1234
+    #EXTINF:-1,FOX
+    http://81.15.177.86:4022/udp/239.0.0.109:1234
+    #EXTINF:-1,Fokus TV
+    http://81.15.177.86:4022/udp/239.0.0.110:1234
+    #EXTINF:-1,TV Trwam
+    http://81.15.177.86:4022/udp/239.0.0.111:1234
+    #EXTINF:-1,Orange Sport
+    http://81.15.177.86:4022/udp/239.0.0.112:1234
+    #EXTINF:-1,Discovery ID
+    http://81.15.177.86:4022/udp/239.0.0.113:1234
+    #EXTINF:-1,Disney Channel
+    http://81.15.177.86:4022/udp/239.0.0.114:1234
+    #EXTINF:-1,TLC
+    http://81.15.177.86:4022/udp/239.0.0.115:1234
+    #EXTINF:-1,4Fun Fit and Dance
+    http://81.15.177.86:4022/udp/239.0.0.116:1234
+    #EXTINF:-1,CANAL+ Sports HD
+    http://81.15.177.86:4022/udp/239.0.0.117:1234
+    #EXTINF:-1,CANAL+ Discovery HD
+    http://81.15.177.86:4022/udp/239.0.0.118:1234
+    #EXTINF:-1,TVN Fabula HD
+    http://81.15.177.86:4022/udp/239.0.0.119:1234
+    #EXTINF:-1,Bart-Sat HD
+    http://81.15.177.86:4022/udp/239.0.0.120:1234
+    #EXTINF:-1,Sky News Int.
+    http://81.15.177.86:4022/udp/239.0.0.123:1234
+    #EXTINF:-1,Polsat News HD
+    http://81.15.177.86:4022/udp/239.0.0.130:1234
+    #EXTINF:-1,CANAL+ HD
+    http://81.15.177.86:4022/udp/239.0.0.131:1234
+    #EXTINF:-1,CANAL+ SPORT HD
+    http://81.15.177.86:4022/udp/239.0.0.132:1234
+    #EXTINF:-1,Polsat Viasat Explore HD
+    http://81.15.177.86:4022/udp/239.0.0.133:1234
+    #EXTINF:-1,Polsat Viasat History HD
+    http://81.15.177.86:4022/udp/239.0.0.134:1234
+    #EXTINF:-1,Polsat Viasat Nature
+    http://81.15.177.86:4022/udp/239.0.0.135:1234
+    #EXTINF:-1,Viasat Nature/History HD
+    http://81.15.177.86:4022/udp/239.0.0.136:1234
+    #EXTINF:-1,Polsat Sport HD
+    http://81.15.177.86:4022/udp/239.0.0.137:1234
+    #EXTINF:-1,Polsat Sport Extra HD
+    http://81.15.177.86:4022/udp/239.0.0.138:1234
+    #EXTINF:-1,4Fun Hits
+    http://81.15.177.86:4022/udp/239.0.0.139:1234
+    #EXTINF:-1,Duck TV
+    http://81.15.177.86:4022/udp/239.0.0.141:1234
+    #EXTINF:-1,Nuta TV HD
+    http://81.15.177.86:4022/udp/239.0.0.142:1234
+    #EXTINF:-1,France 24 (in English)
+    http://81.15.177.86:4022/udp/239.0.0.151:1234
+    #EXTINF:-1,France 24 (en Francais)
+    http://81.15.177.86:4022/udp/239.0.0.152:1234
+    #EXTINF:-1,Disco Polo Music
+    http://81.15.177.86:4022/udp/239.0.0.153:1234
+    #EXTINF:-1,Eurosport 1 HD
+    http://81.15.177.86:4022/udp/239.0.0.154:1234
+    #EXTINF:-1,Brava HD
+    http://81.15.177.86:4022/udp/239.0.0.155:1234
+    #EXTINF:-1,iPOL
+    http://81.15.177.86:4022/udp/239.0.0.156:1234
+    #EXTINF:-1,TV Republika HD
+    http://81.15.177.86:4022/udp/239.0.0.158:1234
+    #EXTINF:-1,CNN Int.
+    http://81.15.177.86:4022/udp/239.0.0.159:1234
+    #EXTINF:-1,Novela TV HD
+    http://81.15.177.86:4022/udp/239.0.0.161:1234
+    #EXTINF:-1,Superstacja
+    http://81.15.177.86:4022/udp/239.0.0.162:1234
+    #EXTINF:-1,CBS Europa HD
+    http://81.15.177.86:4022/udp/239.0.0.163:1234
+    #EXTINF:-1,CBS Action
+    http://81.15.177.86:4022/udp/239.0.0.164:1234
+    #EXTINF:-1,CBS Drama
+    http://81.15.177.86:4022/udp/239.0.0.165:1234
+    #EXTINF:-1,VH1
+    http://81.15.177.86:4022/udp/239.0.0.166:1234
+    #EXTINF:-1,TV5 Monde Europe
+    http://81.15.177.86:4022/udp/239.0.0.168:1234
+    #EXTINF:-1,Cartoon Network
+    http://81.15.177.86:4022/udp/239.0.0.169:1234
+    #EXTINF:-1,Первый канал Европа
+    http://81.15.177.86:4022/udp/239.0.0.170:1234
+    #EXTINF:-1,Polsat Film HD
+    http://81.15.177.86:4022/udp/239.0.0.175:1234
+    #EXTINF:-1,TV Neptun
+    http://81.15.177.86:4022/udp/239.0.0.176:1234
+    #EXTINF:-1,Da Vinci Learning
+    http://81.15.177.86:4022/udp/239.0.0.178:1234
+    #EXTINF:-1,Djazz tv HD
+    http://81.15.177.86:4022/udp/239.0.0.179:1234
+    #EXTINF:-1,English Club TV
+    http://81.15.177.86:4022/udp/239.0.0.180:1234
+    #EXTINF:-1,Televizia Love HD
+    http://81.15.177.86:4022/udp/239.0.0.181:1234
+    #EXTINF:-1,Sundance Channel HD
+    http://81.15.177.86:4022/udp/239.0.0.182:1234
+    #EXTINF:-1,Hip Hop TV
+    http://81.15.177.86:4022/udp/239.0.0.184:1234
+    #EXTINF:-1,Adventure HD
+    http://81.15.177.86:4022/udp/239.0.0.185:1234
+    #EXTINF:-1,Power TV
+    http://81.15.177.86:4022/udp/239.0.0.192:1234
+    #EXTINF:-1,Water Planete HD
+    http://81.15.177.86:4022/udp/239.0.0.199:1234
+    #EXTINF:-1,Duck TV HD
+    http://81.15.177.86:4022/udp/239.0.1.1:1234
+    #EXTINF:-1,13 Ulica
+    http://81.15.177.86:4022/udp/239.0.1.3:1234
+    #EXTINF:-1,DW TV
+    http://81.15.177.86:4022/udp/239.0.1.4:1234
+    #EXTINF:-1,CBS Reality
+    http://81.15.177.86:4022/udp/239.0.1.5:1234
+    #EXTINF:-1,Comedy Central Poland HD
+    http://81.15.177.86:4022/udp/239.0.1.6:1234
+    #EXTINF:-1,Redlight HD
+    http://81.15.177.86:4022/udp/239.0.1.7:1234
+    #EXTINF:-1,Ginx HD
+    http://81.15.177.86:4022/udp/239.0.1.8:1234
+    #EXTINF:-1,MTV Hits
+    http://81.15.177.86:4022/udp/239.0.1.9:1234
+    #EXTINF:-1,Dorcel HD
+    http://81.15.177.86:4022/udp/239.0.1.10:1234
+    #EXTINF:-1,VOX Music TV
+    http://81.15.177.86:4022/udp/239.0.1.11:1234
+    #EXTINF:-1,Polsat Romans
+    http://81.15.177.86:4022/udp/239.0.1.12:1234
+    #EXTINF:-1,Muzo TV
+    http://81.15.177.86:4022/udp/239.0.1.13:1234
+    #EXTINF:-1,Music Channel
+    http://81.15.177.86:4022/udp/239.0.1.14:1234
+    #EXTINF:-1,Kino Polska Muzyka
+    http://81.15.177.86:4022/udp/239.0.1.15:1234
+    #EXTINF:-1,MTV Dance
+    http://81.15.177.86:4022/udp/239.0.1.16:1234
+    #EXTINF:-1,RTL
+    http://81.15.177.86:4022/udp/239.0.1.17:1234
+    #EXTINF:-1,RTL 2
+    http://81.15.177.86:4022/udp/239.0.1.18:1234
+    #EXTINF:-1,Super RTL
+    http://81.15.177.86:4022/udp/239.0.1.19:1234
+    #EXTINF:-1,VOX TV
+    http://81.15.177.86:4022/udp/239.0.1.20:1234
+    #EXTINF:-1,ARD DAS ERSTE
+    http://81.15.177.86:4022/udp/239.0.1.21:1234
+    #EXTINF:-1,SAT 1
+    http://81.15.177.86:4022/udp/239.0.1.22:1234
+    #EXTINF:-1,Baby TV
+    http://81.15.177.86:4022/udp/239.0.1.23:1234
+    #EXTINF:-1,Disney XD
+    http://81.15.177.86:4022/udp/239.0.1.24:1234
+    #EXTINF:-1,TVP Białystok
+    http://81.15.177.86:4022/udp/239.0.1.25:1234
+    #EXTINF:-1,Russia Today HD
+    http://81.15.177.86:4022/udp/239.0.1.26:1234
+    #EXTINF:-1,TVP Sport HD
+    http://81.15.177.86:4022/udp/239.0.1.27:1234
+    #EXTINF:-1,3 Sat
+    http://81.15.177.86:4022/udp/239.0.1.28:1234
+    #EXTINF:-1,ZDF
+    http://81.15.177.86:4022/udp/239.0.1.29:1234
+    #EXTINF:-1,Rai 1
+    http://81.15.177.86:4022/udp/239.0.1.30:1234
+    #EXTINF:-1,BELSAT TV
+    http://81.15.177.86:4022/udp/239.0.1.31:1234
+    #EXTINF:-1,LRT Lituanica
+    http://81.15.177.86:4022/udp/239.0.1.32:1234
+    #EXTINF:-1,Slagr TV
+    http://81.15.177.86:4022/udp/239.0.1.33:1234
+    #EXTINF:-1,BBC World
+    http://81.15.177.86:4022/udp/239.0.1.34:1234
+    #EXTINF:-1,CNBC Europe
+    http://81.15.177.86:4022/udp/239.0.1.35:1234
+    #EXTINF:-1,Bloomberg European TV
+    http://81.15.177.86:4022/udp/239.0.1.36:1234
+    #EXTINF:-1,Press TV
+    http://81.15.177.86:4022/udp/239.0.1.37:1234
+    #EXTINF:-1,Ukraine Today
+    http://81.15.177.86:4022/udp/239.0.1.38:1234
+    #EXTINF:-1,N24
+    http://81.15.177.86:4022/udp/239.0.1.39:1234
+    #EXTINF:-1,n-tv
+    http://81.15.177.86:4022/udp/239.0.1.40:1234
+    #EXTINF:-1,Музыка Первого
+    http://81.15.177.86:4022/udp/239.0.1.41:1234
+    #EXTINF:-1,iFILM English
+    http://81.15.177.86:4022/udp/239.0.1.42:1234
+    #EXTINF:-1,Pro Sieben
+    http://81.15.177.86:4022/udp/239.0.1.43:1234
+    #EXTINF:-1,Arte
+    http://81.15.177.86:4022/udp/239.0.1.44:1234
+    #EXTINF:-1,History Channel HD
+    http://81.15.177.86:4022/udp/239.0.1.45:1234
+    #EXTINF:-1,Nat Geo Wild HD
+    http://81.15.177.86:4022/udp/239.0.1.46:1234
+    #EXTINF:-1,National Geographic HD
+    http://81.15.177.86:4022/udp/239.0.1.47:1234
+    #EXTINF:-1,Crime & Investigation
+    http://81.15.177.86:4022/udp/239.0.1.48:1234
+    #EXTINF:-1,RTG International
+    http://81.15.177.86:4022/udp/239.0.1.49:1234
+    #EXTINF:-1,Trace Sport Stars HD
+    http://81.15.177.86:4022/udp/239.0.1.51:1234
+    #EXTINF:-1,FTV HD Europe
+    http://81.15.177.86:4022/udp/239.0.1.53:1234
+    #EXTINF:-1,Nautical Channel HD
+    http://81.15.177.86:4022/udp/239.0.1.54:1234
+    #EXTINF:-1,myZen TV
+    http://81.15.177.86:4022/udp/239.0.1.55:1234
+    #EXTINF:-1,Mezzo
+    http://81.15.177.86:4022/udp/239.0.1.56:1234
+    #EXTINF:-1,Trace Urban HD
+    http://81.15.177.86:4022/udp/239.0.1.57:1234
+    #EXTINF:-1,UNITEL CLASSICA HD
+    http://81.15.177.86:4022/udp/239.0.1.58:1234
+    #EXTINF:-1,FOX HD
+    http://81.15.177.86:4022/udp/239.0.1.61:1234
+    #EXTINF:-1,TVP Poznan
+    http://81.15.177.86:4022/udp/239.0.1.62:1234
+    #EXTINF:-1,H2 HD
+    http://81.15.177.86:4022/udp/239.0.1.63:1234
+    #EXTINF:-1,Lifetime HD
+    http://81.15.177.86:4022/udp/239.0.1.64:1234
+    #EXTINF:-1,HBO HD
+    http://81.15.177.86:4022/udp/239.0.1.65:1234
+    #EXTINF:-1,HBO 2 HD
+    http://81.15.177.86:4022/udp/239.0.1.66:1234
+    #EXTINF:-1,HBO Comedy HD
+    http://81.15.177.86:4022/udp/239.0.1.67:1234
+    #EXTINF:-1,Cinemax HD
+    http://81.15.177.86:4022/udp/239.0.1.68:1234
+    #EXTINF:-1,Cinemax 2 HD
+    http://81.15.177.86:4022/udp/239.0.1.69:1234
+    #EXTINF:-1,CANAL+ SPORT
+    http://81.15.177.86:4022/udp/239.0.1.79:1234
+    #EXTINF:-1,Fox Comedy HD
+    http://81.15.177.86:4022/udp/239.0.1.60:1234
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,TVP1 HD
+http://82.143.160.165:9981/stream/channelid/1395974015?ticket=1B40884BF4F9DF8106D99FD4075439767021DD65&profile=pass
+#EXTINF:-1,TVP2 HD
+http://82.143.160.165:9981/stream/channelid/78220828?ticket=FEF9E3344CFFE758DCE68DF28D5096F003D7BBB2&profile=pass
+#EXTINF:-1,TVP3 Wroclaw
+http://82.143.160.165:9981/stream/channelid/1992490420?ticket=4FC720C14D56FBB87990D4253E0F43DB5EACC55D&profile=pass
+#EXTINF:-1,TVP Info
+http://82.143.160.165:9981/stream/channelid/224404701?ticket=B1683B8670289E3D17424FD584488410AB2413C3&profile=pass
+#EXTINF:-1,TVP Kultura
+http://82.143.160.165:9981/stream/channelid/1411063851?ticket=1B59C90F5E847217B212F74CAC059AA343CB7F2E&profile=pass
+#EXTINF:-1,TVP Historia
+http://82.143.160.165:9981/stream/channelid/1576668387?ticket=67D9ED2D914C492A3498FB0D93DC9F8BD9BC063D&profile=pass
+#EXTINF:-1,TVP Polonia
+http://82.143.160.165:9981/stream/channelid/1356490145?ticket=3EB981B3852965B5505F6D12A7B8F6141F9C70CE&profile=pass
+#EXTINF:-1,TVP Rozrywka
+http://82.143.160.165:9981/stream/channelid/477385347?ticket=FDE809840D41966A8330D7A14907E348C239BA9A&profile=pass
+#EXTINF:-1,PULS 2
+http://82.143.160.165:9981/stream/channelid/1111609000?ticket=8794BDA94BB28CC90006AE029C541A8BC1F223C4&profile=pass
+#EXTINF:-1,Polsat HD
+http://82.143.160.165:9981/stream/channelid/1719372679?ticket=6C3AC26CA8449469402D641BBF05B4DB7AC3641F&profile=pass
+#EXTINF:-1,TVN HD
+http://82.143.160.165:9981/stream/channelid/1131517135?ticket=B87F38D6803676A00A032731B631D675400B9CDD&profile=pass 
+#EXTINF:-1,TVP1 HD
+    http://82.143.160.165:9981/stream/channelid/1395974015?ticket=ADFD7A295F3AAAE7B5835BC1AC3CF6231641611D&profile=pass
+    #EXTINF:-1,TVP2 HD
+    http://82.143.160.165:9981/stream/channelid/78220828?ticket=35245DA89E141E8D8CA3FF221F8F47ED0DE44784&profile=pass
+    #EXTINF:-1,TVP3 Wroclaw
+    http://82.143.160.165:9981/stream/channelid/1992490420?ticket=E753A5C841D8DF46B005D595010A96AE1B6544CE&profile=pass
+    #EXTINF:-1,TVP Info
+    http://82.143.160.165:9981/stream/channelid/224404701?ticket=C49D367FE3CAC386E3E985D78526BFED28FA7D18&profile=pass
+    #EXTINF:-1,TVP Kultura
+    http://82.143.160.165:9981/stream/channelid/1411063851?ticket=8D3BDEF580A806F608003299B3523C43D094135C&profile=pass
+    #EXTINF:-1,TVP Historia
+    http://82.143.160.165:9981/stream/channelid/1576668387?ticket=CA9FD9E06096138583E7C7064C512A43EE377350&profile=pass
+    #EXTINF:-1,TVP Polonia
+    http://82.143.160.165:9981/stream/channelid/1356490145?ticket=23BB7DDFEAB97E5B907AFC42D0FDD92FECDD237E&profile=pass
+    #EXTINF:-1,TVP Rozrywka
+    http://82.143.160.165:9981/stream/channelid/477385347?ticket=7B5514A8493A9C936C6D3DB56CE3C00D6EEE5DCC&profile=pass
+    #EXTINF:-1,TV Puls
+    http://82.143.160.165:9981/stream/channelid/1985115082?ticket=3F21B0FB9A236E7C6A23C9E4932F38526F43B78D&profile=pass
+    #EXTINF:-1,PULS 2
+    http://82.143.160.165:9981/stream/channelid/1111609000?ticket=809B4C0656A1C20F54365D21A828D203089A516F&profile=pass
+    #EXTINF:-1,Polsat
+    http://82.143.160.165:9981/stream/channelid/1227184620?ticket=791ABEBC4C0FBCF67BCAE32508303E2F6B797E4D&profile=pass
+    #EXTINF:-1,Polsat HD
+    http://82.143.160.165:9981/stream/channelid/1719372679?ticket=AE914E968787E8A5572CA01DD8E981F2FAB4C840&profile=pass
+    #EXTINF:-1,TVN
+    http://82.143.160.165:9981/stream/channelid/1142116064?ticket=DD2FB5321D93319DF65A77CA03C1C2679C14DB36&profile=pass
+    #EXTINF:-1,TVN HD
+    http://82.143.160.165:9981/stream/channelid/1131517135?ticket=BE4089803F86A13850BCE96CB3EC29876F328AE6&profile=pass
+    #EXTINF:-1,TVN Siedem
+    http://82.143.160.165:9981/stream/channelid/514941363?ticket=0506FDD4BC1BDDC244C4BFCB7A70B5D6FBAECEA7&profile=pass
+    #EXTINF:-1,Polsat Sport News
+    http://82.143.160.165:9981/stream/channelid/469654004?ticket=1AB2BF2F4B8F0953140BED139D12E8D7BE835826&profile=pass
+    #EXTINF:-1,Stopklatka TV
+    http://82.143.160.165:9981/stream/channelid/102503335?ticket=528A5E0B43D76E4F3DC23DBD498AF7A2CD0FB2C4&profile=pass
+    #EXTINF:-1,Fokus TV
+    http://82.143.160.165:9981/stream/channelid/1039582412?ticket=8B449870DF6E846A260091FA401582B0B7B6FAB1&profile=pass
+    #EXTINF:-1,TTV
+    http://82.143.160.165:9981/stream/channelid/260080356?ticket=483F86388AF672CBA368BEFAE9AF3E88B3E6FE77&profile=pass
+    #EXTINF:-1,ATM Rozrywka
+    http://82.143.160.165:9981/stream/channelid/1888817196?ticket=82B61D9E79A9C72002BECD489781CED2C27C9DBE&profile=pass
+    #EXTINF:-1,TV Trwam
+    http://82.143.160.165:9981/stream/channelid/893144623?ticket=D6C0F6B53FF39EF054C71DAC4B28E0B4AB1C84AB&profile=pass
+    #EXTINF:-1,TV6
+    http://82.143.160.165:9981/stream/channelid/1385731556?ticket=AE3331C9032BB499DD029AFADDFEA9EF4588586A&profile=pass
+    #EXTINF:-1,TVP ABC
+    http://82.143.160.165:9981/stream/channelid/1543158641?ticket=42A7C4FE3C6631D8D6AA042BF7124C70CEC54237&profile=pass
+    #EXTINF:-1,TV4
+    http://82.143.160.165:9981/stream/channelid/1271949497?ticket=8EFEA4258F9F82ECDB6A966CCFED162A726EBE1A&profile=pass
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

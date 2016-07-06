@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title>[COLOR] [COLOR red][/COLOR][B][COLOR red][B]P[/B][/COLOR][COLOR green][B]L[/B][/COLOR][COLOR orange][B]A[/B][/COLOR][COLOR red][B]Y[/B][/COLOR] [COLOR cyan]TV NEEDED [/COLOR][COLOR magenta]EXTRA ADDON [/COLOR][COLOR yellow]F4MTESTER [/COLOR]</title>
+<link>http://Movies.me</link>
+<jsonrpc>plugin://plugin.video.f4mTester/</jsonrpc>
+<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
+</item>
+
+<item>       
+<title>            [COLOR red] NETHERLANDS TV [/COLOR]  [COLOR lime]SERVIDOR 1[/COLOR]  </title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>       
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 01-07-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>       
+<title>[COLOR red] [/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+
+ 
+        
+         
+          
+        
+         
+          
+     
+          <item> 
+            <title>NPO 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/842.ts&amp;streamtype=TSDOWNLOADER&amp;name=NPO 1</link> 
+        </item> 
+          <item> 
+            <title>NPO 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/843.ts&amp;streamtype=TSDOWNLOADER&amp;name=NPO 2</link> 
+        </item> 
+          <item> 
+            <title>NPO 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/844.ts&amp;streamtype=TSDOWNLOADER&amp;name=NPO 3</link> 
+        </item> 
+          <item> 
+            <title>NET5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/841.ts&amp;streamtype=TSDOWNLOADER&amp;name=NET5</link> 
+        </item> 
+          <item> 
+            <title>rtl5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/771.ts&amp;streamtype=TSDOWNLOADER&amp;name=rtl5</link> 
+        </item> 
+          <item> 
+            <title>rtl7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/772.ts&amp;streamtype=TSDOWNLOADER&amp;name=rtl7</link> 
+        </item> 
+          <item> 
+            <title>RTL8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/845.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL8</link> 
+        </item> 
+          <item> 
+            <title>SBS 9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1708.ts&amp;streamtype=TSDOWNLOADER&amp;name=SBS 9</link> 
+        </item> 
+          <item> 
+            <title>SBS 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1707.ts&amp;streamtype=TSDOWNLOADER&amp;name=SBS 6</link> 
+        </item> 
+          <item> 
+            <title>Ziggo Sport Select</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/998.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ziggo Sport Select</link> 
+        </item> 
+          <item> 
+            <title>Fox Sports Eredivisie 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports Eredivisie 1</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/999.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>FOX Sports 2 HD Int</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FOX Sports&amp;streamtype=TSDOWNLOADER&amp;name=FOX Sports 2 HD Int</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1000.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>FOX Sports EDL 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FOX Sports&amp;streamtype=TSDOWNLOADER&amp;name=FOX Sports EDL 3</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1249.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Fox Sports 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports 4 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1250.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Fox Sports 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports 5 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1251.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>FOX Sports 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FOX Sports&amp;streamtype=TSDOWNLOADER&amp;name=FOX Sports 6</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1252.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>HBO1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/774.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO1</link> 
+        </item> 
+          <item> 
+            <title>HBO2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/775.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO2</link> 
+        </item> 
+          <item> 
+            <title>HBO3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/776.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO3</link> 
+        </item> 
+          <item> 
+            <title>Film1 Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/777.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film1 Action</link> 
+        </item> 
+          <item> 
+            <title>Film1 Spotlght</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1248.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film1 Spotlght</link> 
+        </item> 
+          <item> 
+            <title>Film 1 Sundance</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1709.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film 1 Sundance</link> 
+        </item> 
+          <item> 
+            <title>Film1 Premiere HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/778.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film1 Premiere HD</link> 
+        </item> 
+          <item> 
+            <title>Film1 Comedy Kids</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/779.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film1 Comedy Kids</link> 
+        </item> 
+          <item> 
+            <title>Nat_Goe</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1710.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat_Goe</link> 
+        </item> 
+          <item> 
+            <title>Discovery Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/928.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Channel</link> 
+        </item> 
+          <item> 
+            <title>NiCKLodeoN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1741.ts&amp;streamtype=TSDOWNLOADER&amp;name=NiCKLodeoN</link> 
+        </item> 
+          <item> 
+            <title>Disney.Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1743.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney.Channel</link> 
+        </item> 
+          <item> 
+            <title>CarTooN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1742.ts&amp;streamtype=TSDOWNLOADER&amp;name=CarTooN</link> 
+        </item> 
+          <item> 
+            <title>MTV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1706.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV HD</link> 
+        </item> 
+  
+  
+  
+  
+
+<item>       
+<title>[COLOR red][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title> [COLOR] [COLOR red][/COLOR][B][COLOR red][B]P[/B][/COLOR][COLOR green][B]L[/B][/COLOR][COLOR orange][B]A[/B][/COLOR][COLOR red][B]Y[/B][/COLOR] [COLOR cyan]TV NEEDED [/COLOR][COLOR magenta]EXTRA ADDON [/COLOR]</title>
+<link>http://Movies.me</link>
+<jsonrpc>plugin://plugin.video.f4mTester/</jsonrpc>
+<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
+</item>
+<item>
+<title> [COLOR yellow]F4MTESTER [/COLOR]</title>
+<link>http://Movies.me</link>
+<jsonrpc>plugin://plugin.video.f4mTester/</jsonrpc>
+<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
+</item>

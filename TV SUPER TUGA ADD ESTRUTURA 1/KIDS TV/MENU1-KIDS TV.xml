@@ -1,0 +1,203 @@
+
+
+
+<item>
+<title>[COLOR=red][B][I]BATMAN ONLINE BR [/I][/B][/COLOR] [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://mytvfree2.me/desenhos-animados-batman-online</sportsdevil>
+<sportsdevil>http://mytvfree2.me/nickelodeon-brasil-hd</sportsdevil>
+<sportsdevil>http://mytvfree2.me/desenhos-animados-ben-10-online</sportsdevil>
+<referer>http://www.rtp.pt/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=red][B][I] BATMAN ONLINE BR [/I][/B][/COLOR] [COLOR=lime](WebTV)[/COLOR]</title>
+<link>rtmp://$OPT:rtmp-raw=rtmp://208.53.180.218/ctv?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDE2IDM6Mzg6MTEgUE0maGFzaF92YWx1ZT1DQ0pZdXRYcGxpUE02d3dVZ3d4ZlVRPT0mdmFsaWRtaW51dGVzPTU=/ playpath=batman swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.aovivobrasil.com/tvamigos2/batman.php</link>
+<link>rtmp://208.53.180.242/ctv playpath=batman  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/batman.php</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>
+<fanart>http://media.rtp.pt/extra/wp-content/uploads/sites/22/2015/05/RTP2.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR=red][B][I] BEN 10 ONLINE  BR [/I][/B][/COLOR] [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://mytvfree2.me/desenhos-animados-ben-10-online</sportsdevil>
+<sportsdevil></sportsdevil>
+<fanart>http://media.rtp.pt/extra/wp-content/uploads/sites/22/2015/05/RTP2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR=red][B][I] BEN 10 ONLINE BR[/I][/B][/COLOR] [COLOR=lime](WebTV)[/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rwqqsy1455801826.png</thumbnail>
+</item>
+
+
+<item>
+<title>BOB ESPONJA </title>
+<link>rtmp://208.53.180.178/ctv playpath=bob  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/bobesponja.php</link>
+<thumbnail>http://goo.gl/buWyMn</thumbnail>
+</item>
+
+<item>
+<title>BEN 10</title>
+<link>rtmp://208.53.180.242/ctv playpath=ben10  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/ben10.php</link>
+<thumbnail>http://goo.gl/C5i8P8</thumbnail>
+</item>
+
+
+<item>
+<title>SIMPSONS</title>
+<link>rtmp://208.53.180.242/ctv playpath=simpsons  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf  pageUrl=http://www.aovivobrasil.com/tvamigos2/simpsons.php</link>
+<thumbnail>http://goo.gl/q2Y3bG</thumbnail>
+</item>
+
+<item>
+<title>DRAGON BALL Z</title>
+<link>rtmp://208.53.180.242/ctv playpath=dbz  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/dbz.php</link>
+<thumbnail>http://goo.gl/TVjjbc</thumbnail>
+</item>
+
+<item>
+<title>GALINHA PINTADINHA </title>
+<link>rtmp://208.53.164.194/ctv playpath=galinha  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/galinhapintadinha.php</link>
+<thumbnail>http://goo.gl/W2jeOX</thumbnail>
+</item>
+
+<item>
+<title>DOUG</title>
+<link>rtmp://208.53.164.194/ctv playpath=doug  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/doug.php</link>
+<thumbnail>http://goo.gl/NaH8ck</thumbnail>
+</item>
+
+<item>
+<title>JACKIE CHAN</title>
+<link>rtmp://208.53.180.242/ctv playpath=jackie  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/jackie.php</link>
+<thumbnail>http://goo.gl/BH4eWQ</thumbnail>
+</item>
+
+<item>
+<title>MASKARA</title>
+<link>rtmp://208.53.180.242/ctv playpath=maskara  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/maskara.php</link>
+<thumbnail>http://goo.gl/RWeQFt</thumbnail>
+</item>
+
+<item>
+<title>NARUTO</title>
+<link>rtmp://208.53.180.178/ctv playpath=naruto  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/naruto.php</link>
+<thumbnail>http://goo.gl/FmLOFI</thumbnail>
+</item>
+
+<item>
+<title>PADRINHOS MAGICOS</title>
+<link>rtmp://208.53.164.194/ctv playpath=padrinhos  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/padrinhos.php</link>
+<thumbnail>http://goo.gl/u9tS0n</thumbnail>
+</item>
+
+<item>
+<title>PICA PAU </title>
+<link>rtmp://208.53.180.218/ctv playpath=picapau  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/picapau.php</link>
+<thumbnail>http://goo.gl/l56Ajm</thumbnail>
+</item>
+
+<item>
+<title>OS PINGUINS DE MADAGASTAR </title>
+<link>rtmp://208.53.180.178/ctv playpath=pinguins  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/pinguins.php</link>
+<thumbnail>http://goo.gl/ZrdLnc</thumbnail>
+</item>
+
+<item>
+<title>SCOOBYDOO</title>
+<link>rtmp://208.53.180.218/ctv playpath=scooby  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/scooby.php</link>
+<thumbnail>http://goo.gl/6mCK9N</thumbnail>
+</item>
+
+<item>
+<title>SOUTH PARK</title>
+<link>rtmp://208.53.164.194/ctv playpath=southpark  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/southpark.php</link>
+<thumbnail>http://goo.gl/KHycl8</thumbnail>
+</item>
+
+<item>
+<title>TOM E JERRY</title>
+<link>rtmp://208.53.180.242/ctv playpath=TOM  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/tomejerry.php</link>
+<thumbnail>http://goo.gl/sKa1xX</thumbnail>
+</item>
+
+<item>
+<title>FLINTSTONES</title>
+<link>rtmp://208.53.180.242/ctv playpath=flinstones  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/flintstones.php</link>
+<thumbnail>http://goo.gl/nu2m2y</thumbnail>
+</item>
+
+<item>
+<title>DUCKTALES</title>
+<link>rtmp://208.53.164.194/ctv playpath=duck  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/ducktales.php</link>
+<thumbnail>http://goo.gl/CF9X1w</thumbnail>
+</item>
+
+<item>
+<title>LIGA DA JUSTICA</title>
+<link>rtmp://208.53.180.242/ctv playpath=liga  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/liga.php</link>
+<thumbnail>http://goo.gl/0WSSSE</thumbnail>
+</item>
+
+<item>
+<title>THUNDERCATS</title>
+<link>rtmp://208.53.180.242/ctv playpath=thunder  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/thunder.php</link>
+<thumbnail>http://goo.gl/yfYnCI</thumbnail>
+</item>
+
+<item>
+<title>CASTELO RA-TIM-BUM</title>
+<link>rtmp://208.53.180.178/ctv playpath=castelo  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/castelo.php</link>
+<thumbnail>http://goo.gl/Kt6dAZ</thumbnail>
+</item>
+
+<item>
+<title>X MEN</title>
+<link>rtmp://208.53.164.194/ctv playpath=xmen  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/xmen.php</link>
+<thumbnail>http://goo.gl/1dsz17</thumbnail>
+</item>
+
+<item>
+<title>A FAMILIA DINOSSAURO</title>
+<link>rtmp://208.53.180.242/ctv playpath=dino  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/dinossauros.php</link>
+<thumbnail>http://goo.gl/CBoSv6</thumbnail>
+</item>
+
+<item>
+<title>UMA FAMILIA DA PESADA</title>
+<link>rtmp://208.53.180.242/ctv playpath=family  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/family.php</link>
+<thumbnail>http://goo.gl/cDLJaO</thumbnail>
+</item>
+
+<item>
+<title>DRAKE E JOSH</title>
+<link>rtmp://208.53.164.194/ctv playpath=drake  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/drakejosh.php</link>
+<thumbnail>http://goo.gl/KOtlWl</thumbnail>
+</item>
+
+<item>
+<title>ICARLY</title>
+<link>rtmp://208.53.180.242/ctv playpath=icarly  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/icarly.php</link>
+<thumbnail>http://goo.gl/kQWCwf</thumbnail>
+</item>
+
+<item>
+<title>MALUCO NO PEDAÇO</title>
+<link>rtmp://208.53.180.218/ctv playpath=maluconopedaco  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/maluconopedaco.php</link>
+<thumbnail>http://goo.gl/7UCy8x</thumbnail>
+</item>
+
+<item>
+<title>EU A PATROA E AS CRIANÇAS</title>
+<link>rtmp://208.53.180.218/ctv playpath=patroa  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/patroa.php</link>
+<thumbnail>http://goo.gl/kuekyx</thumbnail>
+</item>
+
+
+
+
+
+

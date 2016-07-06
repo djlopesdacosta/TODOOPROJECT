@@ -1,0 +1,930 @@
+<item>
+<title>[COLOR blue] [I]BEIN 1  FR[/COLOR][/I] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<sportsdevil>http://mamahd.com/watch-bein-1-france-live-stream-1.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.beinsports.fr/di/library/bein/4b/92/logo-bein-sports-1-hd_6tt6szp2b0ag1dscy6cxln08t.jpg?t=-724511221</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]BEIN 2  FR[/COLOR][/I] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<sportsdevil>http://mamahd.com/watch-bein-2-france-live-stream-1.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://blog.lenodal.com/uploads/actualitedelhabillage/2012/beinsport-2012_logo_chaine2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]BEIN SPORTS 1 HD[/COLOR][/I] </title>
+<link>$doregex[get-hls-code]</link>
+<regex>
+<name>get-hls-code</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests
+ import re
+ import base64
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'}
+ page ='http://www.foot-live.info/stream/ch1.php'
+ source = requests.get(page, headers=headers)
+ embed1 = re.findall('src="(.*?)"', source.text)[0]
+ source1 = requests.get(embed1, headers=headers)
+ embed2 = re.findall('src="(.*?)"', source1.text)[0]
+ source2 = requests.get(embed2, headers=headers)
+ embed3 = re.findall('script type="text\/javascript" src="(.*?)"', source2.text)[0]
+ headers2 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': 'http://www.hdmyt.info/'}
+ source3= requests.post(embed3, headers = headers2)
+ embed4 = re.findall('iframe src="(.*?)"', source3.text)[0]
+ source4= requests.post(embed4, headers = headers2)
+ m3u8_encoded = re.findall('input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"', source4.text)[0]
+ m3u8= base64.b64decode(m3u8_encoded)
+ return m3u8 + '|Referer=' + embed4        
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>http://www.beinsports.fr/di/library/bein/4b/92/logo-bein-sports-1-hd_6tt6szp2b0ag1dscy6cxln08t.jpg?t=-724511221</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]BEIN SPORTS Ñ HD[/COLOR][/I]  [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://vipracing.info/channel/opcion-2</sportsdevil>
+<referer>http://vipracing.info/</referer>
+<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2014/01/BeiN-Sport-En-Vivo-Online.jpeg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]BEIN SPORTS Ñ[/COLOR][/I] </title>
+<link>http://cdn.sstream.pw/live/bein_alwkqfq/chunklist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
+<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2014/01/BeiN-Sport-En-Vivo-Online.jpeg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue] [I]BOXNATION[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<sportsdevil>http://mamahd.com/watch-box-nation-live-streaming-free-online-1.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.paywizard.com/sites/default/files/boxnation.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]BOXNATION[/COLOR][/I] </title>
+<link></link>
+<thumbnail>https://lh3.googleusercontent.com/-jZmOqSwCj0U/AAAAAAAAAAI/AAAAAAAAAQ4/SDyiqralFdE/s120-c/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]BT SPORT 1[/I] [/COLOR]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/607.m3u8</link>
+<link>http://premium-service.club:9300/live/test1/test1/684.m3u8</link>
+<thumbnail>http://www.premierleague.com/content/premierleague/en-gb/commercial/bt-sport/_jcr_content/bodypsys/image.img.png/1369990888755.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR blue] [I]BT SPORT 1[/I] [/COLOR] [COLOR red] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<sportsdevil>http://mamahd.com/watch-bt-sport-1-live-streaming-1.html</sportsdevil>
+<sportsdevil>http://mamahd.com/watch-bt-sport-2-live-stream-1.html</sportsdevil>
+<sportsdevil>http://ibrod.tv/btsports1.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.premierleague.com/content/premierleague/en-gb/commercial/bt-sport/_jcr_content/bodypsys/image.img.png/1369990888755.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]BT SPORT 2[/COLOR][/I] [COLOR orange](HD Temp)[/COLOR] </title>
+<link>http://premium-service.club:9300/live/test1/test1/606.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue] [I]BT SPORT 2[/COLOR][/I][COLOR red] [I] SPORT SDEVIL [/I][/COLOR] </title>
+<sportsdevil>http://ibrod.tv/btsports2.html</sportsdevil>
+<referer>http://ibrod.tv/btsports2.html</referer>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]BT SPORT 2[/COLOR][/I] </title>
+<link>rtmp://185.63.255.60:80/live playpath=b2t swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://rocktv.co/embedx.php?live=b2t&vw=736&vh=438 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]BT SPORT ESPN-HD[/I] [/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/681.m3u8</link>
+<thumbnail>http://mediaportal-uk-logos.googlecode.com/svn/trunk/TV/Simple/BT%20Sport%20ESPN%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]BT SPORT ESPN[/COLOR][/I] [COLOR red] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<sportsdevil>http://mamahd.com/watch-espn-uk-live-stream-1.html</sportsdevil
+<sportsdevil>http://hdfree.tv/watch-espn-live-stream.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://mediaportal-uk-logos.googlecode.com/svn/trunk/TV/Simple/BT%20Sport%20ESPN%20HD.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue] [I]BT SPORT EUROPE-HD[/I] [/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/680.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bt_sport_europe_uk.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue] [I]BT SPORT EUROPE[/COLOR][/I]  [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://hdfree.tv/watch/32/bt-sport-europe-live-stream.html</sportsdevil>
+<sportsdevil>http://hdfree.tv/watch-espn-usa-live-stream.html</sportsdevil>
+<referer>http://hdfree.tv/tvlogos.html</referer>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bt_sport_europe_uk.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]CANAL + DEPORTES[/COLOR][/I] </title>
+<link>http://cdn.sstream.pw/live/deportes_alxadw6/chunklist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/8/84/Canal%2B_Deportes.svg/revision/latest?cb=20100604113822</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]CANAL + FUTBOL[/COLOR][/I] </title>
+<link>http://cdn.sstream.pw/live/tvb112/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
+<thumbnail>https://lh6.googleusercontent.com/-EDRr7eWSy9I/UNWh_J_sBTI/AAAAAAAAAfE/W4MbEIPlR84/s646/plusfutbol.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]CANAL + SPORT[/COLOR][/I] </title>
+<link>http://cdn.sstream.pw/live/tvb125/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
+<thumbnail>http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/288X218/CHN43FB_83.PNG</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]CHELSEA TV[/COLOR][/I] </title>
+<sportsdevil></sportsdevil>
+<referer></referer>
+<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2011/09/Chelsea-TV-Logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]DIGI SPORT 1[/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://85.25.43.23:8080/hls/volex_02.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-N8HUnx1PvIY/Vm1aNXKgbdI/AAAAAAAAC74/av34pdT_S7k/s1600/digi_sport_cz.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]DIGI SPORT 2[/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://85.25.43.23:8080/hls/volex_03.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/-fHcOkR_AfA0/Vk9pEAJZGvI/AAAAAAAAAoc/pyhfJm-xTYM/s1600/digi_sport2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]EUROSPORT 1[/COLOR][/I]  [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://ibrod.tv/eurosports1.html</sportsdevil>
+<sportsdevil>http://www.ibrod.tv/eurosports1.html</sportsdevil>
+<referer>http://ibrod.tv/eurosports1.html</referer>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]EUROSPORT 1[/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://85.25.43.23:8080/hls/volex_04.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]EUROSPORT 2[/COLOR][/I] [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+<sportsdevil>http://ibrod.tv/eurosports2.html</sportsdevil>
+<sportsdevil>http://www.ibrod.tv/eurosports2.html</sportsdevil>
+<referer>http://ibrod.tv/eurosports2.html</referer>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/british_eurosport_2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]EUROSPORT 2[/COLOR][/I] </title>
+<link></link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/british_eurosport_2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]FOOTBALL REPORT[/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8</link>
+<thumbnail>http://www.iptvlinksss.com/wp-content/uploads/2015/12/football-report-fubo-tv-America-logo-design-26.png</thumbnail>
+</item>
+<item>
+<title>[COLOR blue] [I]FOX SPORTS 1[/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/682.m3u8</link>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20140414164158/logopedia/images/6/6f/Logo_fox_sports.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]FOX SPORTS 1[/COLOR][/I] </title>
+<link>rtmp://31.220.2.149:80/live playpath=fox1ree swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=fox1ree&vw=620&vh=490 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20140414164158/logopedia/images/6/6f/Logo_fox_sports.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]FOX SPORTS 2 HD[/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/683.m3u8</link>
+<thumbnail>http://famososnaweb.com/wp-content/uploads/2014/06/Fox-Sports-2-Logo1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]SETANTA SPORT[/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/923.m3u8</link>
+<thumbnail>http://www.industryandbusiness.ie/wp-content/uploads/2015/11/setanta_sports_rgb.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue] [I]SKY BT SPORT EUROPE HD[/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/680.m3u8</link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/BT-Sport-Europe.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]SKY BT SPORT ESPN[/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/681.m3u8</link>
+<thumbnail>http://www.sportstvstream.me/wp-content/uploads/2016/02/BT-Sport-ESPN.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue] [I]SKY BT SPORT ESPN[/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/681.m3u8</link>
+<thumbnail>http://www.sportstvstream.me/wp-content/uploads/2016/02/BT-Sport-ESPN.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue] [I]DUBAI SPORTS 1[/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/414.m3u8</link>
+<thumbnail>http://www.sat-news.ru/uploads/posts/2013-09/1378207770_dubai-sports-tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]DUBAI SPORT 2_HD[/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/413.m3u8</link>
+<thumbnail>http://www.sat-news.ru/uploads/posts/2013-09/1378207770_dubai-sports-tv.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue] [I]BEINSPORT HD 1 FR [/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/44.m3u8</link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Bein-Sports-1-HD.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]BEINSPORT HD 2 FR [/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/45.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/0/03/BeIN_sports_HD.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue] [I]BEINSPORT HD 3 FR [/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/46.m3u8</link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Bein-Sports-3-HD.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue] [I]CANAL+SPORT FR [/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/47.m3u8</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/a/a0/CANAL_%2B_SPORT_HD_2013.jpg/revision/latest?cb=20150309171051</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue] [I]FOOT+24 FR [/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/50.m3u8</link>
+<thumbnail>http://is5.mzstatic.com/image/thumb/Purple3/v4/f6/80/0b/f6800bb7-ea5f-c179-51b5-94a76c2f9cdf/source/1200x630bf.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]BEIN SPORTS MAX 4 FR [/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/948.m3u8</link>
+<thumbnail>http://www.mundoplus.tv/img/d899af05ba3dd242e824c6c374fcc711</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]BEIN SPORTS MAX 5 FR [/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/949.m3u8</link>
+<thumbnail>http://www.mundoplus.tv/img/d2b56f8ebf605aa7ee7ad5c42c0aa17a</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]BEIN SPORTS MAX 6 FR [/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/950.m3u8</link>
+<thumbnail>http://www.mundoplus.tv/img/bd7a3f92a1b80370c42f94a3a081c0d5</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]BARCA TV ES [/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/941.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-8Gotx9CJQOQ/U_MtWvGgPkI/AAAAAAAADN4/EZieKVoJWtU/s640/BarcaTV.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]REAL MADRID TV ES [/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/644.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-8Gotx9CJQOQ/U_MtWvGgPkI/AAAAAAAADN4/EZieKVoJWtU/s640/BarcaTV.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]BEINSPORT ES [/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/968.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-8Gotx9CJQOQ/U_MtWvGgPkI/AAAAAAAADN4/EZieKVoJWtU/s640/BarcaTV.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue] [I]CANAL+LIGA ES [/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/800.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-8Gotx9CJQOQ/U_MtWvGgPkI/AAAAAAAADN4/EZieKVoJWtU/s640/BarcaTV.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]CANAL+FUTBOL ES [/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/801.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-8Gotx9CJQOQ/U_MtWvGgPkI/AAAAAAAADN4/EZieKVoJWtU/s640/BarcaTV.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]C+DEPORTES ES [/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/905.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-8Gotx9CJQOQ/U_MtWvGgPkI/AAAAAAAADN4/EZieKVoJWtU/s640/BarcaTV.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]C+PARTIZADO ES [/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/967.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-8Gotx9CJQOQ/U_MtWvGgPkI/AAAAAAAADN4/EZieKVoJWtU/s640/BarcaTV.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue] [I]C+GOLF ES [/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/969.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-8Gotx9CJQOQ/U_MtWvGgPkI/AAAAAAAADN4/EZieKVoJWtU/s640/BarcaTV.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]ORF SPORT+ DE[/COLOR][/I] [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/981.m3u8<link>
+<referer>http://mamahd.com</referer>
+<thumbnail>https://www.teleclub.ch/sky/uploads/media_items/sky-news-280613.786.180.s.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue] [I]VOO FOOT  BL[/COLOR][/I] [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/813.m3u8<link>
+<referer>http://mamahd.com</referer>
+<thumbnail>https://www.teleclub.ch/sky/uploads/media_items/sky-news-280613.786.180.s.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]FOX SPORTS 1 EREDIVISIE HD  NL[/COLOR][/I] [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/830.m3u8<link>
+<referer>http://mamahd.com</referer>
+<thumbnail>https://www.teleclub.ch/sky/uploads/media_items/sky-news-280613.786.180.s.jpg</thumbnail>
+</item
+
+<item>
+<title>[COLOR blue] [I]FOX SPORTS 2 INTERNATIONAL HD  NL[/COLOR][/I] [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/831.m3u8<link>
+<referer>http://mamahd.com</referer>
+<thumbnail>https://www.teleclub.ch/sky/uploads/media_items/sky-news-280613.786.180.s.jpg</thumbnail>
+</item
+
+<item>
+<title>[COLOR blue] [I]FOX SPORTS 3 EREDIVISIE NL[/COLOR][/I] [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/832.m3u8<link>
+<referer>http://mamahd.com</referer>
+<thumbnail>https://www.teleclub.ch/sky/uploads/media_items/sky-news-280613.786.180.s.jpg</thumbnail>
+</item
+
+<item>
+<title>[COLOR blue] [I]FOX SPORTS 4 EREDIVISIE NL[/COLOR][/I] [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/833.m3u8<link>
+<referer>http://mamahd.com</referer>
+<thumbnail>https://www.teleclub.ch/sky/uploads/media_items/sky-news-280613.786.180.s.jpg</thumbnail>
+</item
+
+
+<item>
+<title>[COLOR blue] [I]FOX SPORTS EREDIVISIE NL[/COLOR][/I] [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/834.m3u8<link>
+<referer>http://mamahd.com</referer>
+<thumbnail>https://www.teleclub.ch/sky/uploads/media_items/sky-news-280613.786.180.s.jpg</thumbnail>
+</item
+
+
+<item>
+<title>[COLOR blue] [I]ZIGGO SPORT 1 NL[/COLOR][/I] [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/980.m3u8<link>
+<referer>http://mamahd.com</referer>
+<thumbnail>https://www.teleclub.ch/sky/uploads/media_items/sky-news-280613.786.180.s.jpg</thumbnail>
+</item
+
+<item>
+<title>[COLOR blue] [I]TIVIBUSPOR HD TUR [/COLOR][/I] [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/838.m3u8<link>
+<referer>http://mamahd.com</referer>
+<thumbnail>https://www.teleclub.ch/sky/uploads/media_items/sky-news-280613.786.180.s.jpg</thumbnail>
+</item
+
+<item>
+<title>[COLOR blue] [I]TRT SPOR HD TUR [/COLOR][/I] [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/757.m3u8<link>
+<referer>http://mamahd.com</referer>
+<thumbnail>https://www.teleclub.ch/sky/uploads/media_items/sky-news-280613.786.180.s.jpg</thumbnail>
+</item
+
+<item>
+<title>[COLOR blue] [I]NTV SPOR TUR [/COLOR][/I] [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/761.m3u8<link>
+<referer>http://mamahd.com</referer>
+<thumbnail>https://www.teleclub.ch/sky/uploads/media_items/sky-news-280613.786.180.s.jpg</thumbnail>
+</item
+
+
+<item>
+<title>[COLOR blue] [I]LIG TV 1 TUR [/COLOR][/I] [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/915.m3u8<link>
+<referer>http://mamahd.com</referer>
+<thumbnail>https://www.teleclub.ch/sky/uploads/media_items/sky-news-280613.786.180.s.jpg</thumbnail>
+</item
+
+<item>
+<title>[COLOR blue] [I]LIG TV 2 TUR [/COLOR][/I] [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/783.m3u8<link>
+<referer>http://mamahd.com</referer>
+<thumbnail>https://www.teleclub.ch/sky/uploads/media_items/sky-news-280613.786.180.s.jpg</thumbnail>
+</item
+
+<item>
+<title>[COLOR blue] [I]LIG TV 3 TUR [/COLOR][/I] [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/920.m3u8<link>
+<referer>http://mamahd.com</referer>
+<thumbnail>https://www.teleclub.ch/sky/uploads/media_items/sky-news-280613.786.180.s.jpg</thumbnail>
+</item
+
+
+
+
+
+
+<item>
+<title>[COLOR=yellowgreen][B][I] ........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... [/I][/B][/COLOR]</title>
+<link>http://www.embeducaster.com/</link>
+<thumbnail>http://ticketrouting.com/othersports.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>                                              [COLOR=white][B][I] OTHER SPORTS [/I][/B][/COLOR]</title>
+<link>http://www.embeducaster.com/</link>
+<thumbnail>http://ticketrouting.com/othersports.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=yellowgreen][B][I] ........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... [/I][/B][/COLOR]</title>
+<link>http://www.embeducaster.com/</link>
+<thumbnail>http://ticketrouting.com/othersports.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]C+GOLF ES [/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/969.m3u8</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/a/a4/Canal%2B_Golf.svg/revision/latest?cb=20100605140852</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=blue] [I]NBC Golf 1080 HD [/I] [/COLOR]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=66.171.228.102</link>
+<thumbnail>http://www.protracer.se/wp-content/uploads/2014/01/golfchannel_logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=blue] [I]NBC Golf 720 HD [/I] [/COLOR]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=66.171.228.102</link>
+<thumbnail>http://www.protracer.se/wp-content/uploads/2014/01/golfchannel_logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=blue] [I]NBC Golf SD [/I] [/COLOR]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=66.171.228.102</link>
+<thumbnail>http://www.protracer.se/wp-content/uploads/2014/01/golfchannel_logo.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=blue] [I]MUTV [/I] [/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.thefeed2all.eu/watch/408917/9/watch-xonetv.html</sportsdevil>
+<referer>http://www.thefeed2all.eu/watch/408917/9/watch-xonetv.html</referer>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/MUTV.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]NBCSN[/COLOR][/I]  [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.shadow-net.me/channels/NBC-Sports-Netw..html</sportsdevil>
+<referer>http://www.shadow-net.me/channels/NBC-Sports-Netw..html</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2014/01/nbcsn-logo-600x401.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]NBCSN[/COLOR][/I]  [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://hdfree.tv/nbc-sports-live-stream.html</sportsdevil>
+<referer>http://hdfree.tv/tvlogos.html</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2014/01/nbcsn-logo-600x401.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]NBCSN GOLF[/COLOR][/I] [COLOR orange](HD Temp)[/COLOR] </title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/golf_channel_logo_detail.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]POKER CENTRAL[/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8</link>
+<thumbnail>http://channelpear.com/images/media/9997.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]PREMIER SPORTS[/COLOR][/I]  [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://ibrod.tv/premier.html</sportsdevil>
+<sportsdevil>http://www.ibrod.tv/premier.html</sportsdevil>
+<referer>http://ibrod.tv/premier.html</referer>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/premier_sports.png </thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]PREMIER SPORTS[/COLOR][/I] </title>
+<link>rtmp://31.220.2.149:80/live playpath=premier swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=premier&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/premier_sports.png </thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR=yellowgreen][B][I] ........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... [/I][/B][/COLOR]</title>
+<link>http://www.embeducaster.com/</link>
+<thumbnail>http://mb.web.sapo.io/1/0/2/8c10cca436228677d10be1cb5d21794e2464a.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>                                                [COLOR=white][B][I] RACING UK [/I][/B][/COLOR]</title>
+<link>http://www.embeducaster.com/</link>
+<thumbnail>http://mb.web.sapo.io/1/0/2/8c10cca436228677d10be1cb5d21794e2464a.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=yellowgreen][B][I] ........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... [/I][/B][/COLOR]</title>
+<link>http://www.embeducaster.com/</link>
+<thumbnail>http://mb.web.sapo.io/1/0/2/8c10cca436228677d10be1cb5d21794e2464a.jpg</thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR blue] [I]SETANTA IRELAND[/COLOR][/I]  [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.shadow-net.me/channels/Setanta-Ireland.html</sportsdevil>
+<referer>http://www.shadow-net.me/channels/Setanta-Ireland.html</referer>
+<thumbnail>http://www.ettu.org/images/newsarchive/images/original/9d87bss_741d5_f_666x375.jpg </thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]SKY BUNDESLIGA[/COLOR][/I]  [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.shadow-net.me/channels/Sky-Bundesliga-1.html</sportsdevil>
+<sportsdevil>http://mamahd.com/watch-sky-bundesliga-1-live-stream-1.html</sportsdevil>
+<referer>http://www.shadow-net.me/channels/Sky-Bundesliga-1.html</referer>
+<thumbnail>https://www.teleclub.ch/sky/uploads/media_items/sky-news-280613.786.180.s.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]SKY BUNDESLIGA[/COLOR][/I] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/555.m3u8<link>
+<referer>http://mamahd.com</referer>
+<thumbnail>https://www.teleclub.ch/sky/uploads/media_items/sky-news-280613.786.180.s.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]SKY CALCIO[/COLOR][/I] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<sportsdevil>http://mamahd.com/sky-calcio-1-live-stream-1.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.themoodboard.com/wp-content/uploads/2013/08/MIN_SC2013.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]SKY SPORTS 1[/I] [/COLOR] [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/383.m3u8<link>
+<link>http://premium-service.club:9300/live/test1/test1/562.m3u8<link>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]SKY SPORTS 1[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<sportsdevil>http://mamahd.com/watch-sky-sports-1-live-stream-1.html</sportsdevil>
+<sportsdevil>http://www.ibrod.tv/skysports1.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]SKY SPORTS 2[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/382.m3u8<link>
+<link>http://premium-service.club:9300/live/test1/test1/561.m3u8<link>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-2-Logo.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue] [I]SKY SPORTS 2[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<sportsdevil>http://mamahd.com/watch-sky-sports-2-live-streaming-free-1.html</sportsdevil>
+<sportsdevil>http://www.ibrod.tv/skysports2.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-2-Logo.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue] [I]SKY SPORTS 3[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/381.m3u8<link>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]SKY SPORTS 3[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<sportsdevil>http://mamahd.com/watch-sky-sports-3-live-stream-1.html</sportsdevil>
+<sportsdevil>http://www.ibrod.tv/skysports3.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]SKY SPORTS 4[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/380.m3u8<link>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-4-Logo.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue] [I]SKY SPORTS 4[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<sportsdevil>http://mamahd.com/watch-sky-sports-4-live-stream-1.html</sportsdevil>
+<sportsdevil>http://www.ibrod.tv/skysports4.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-4-Logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]SKY SPORTS 5[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<link>http://premium-service.club:9300/live/test1/test1/379.m3u8<link>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-5-Logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]SKY SPORTS 5[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<sportsdevil>http://mamahd.com/watch-sky-sports-5-live-stream-1.html</sportsdevil>
+<sportsdevil>http://www.ibrod.tv/skysports5.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-5-Logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]SKY SPORTS F1[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<sportsdevil>http://mamahd.com/watch-sky-sports-formula-1-live-stream-1.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-F1-Logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]SKY SPORTS 1[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<sportsdevil>http://ibrod.tv/skysports1.html</sportsdevil>
+<referer>http://ibrod.tv/skysports1.html</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]SKY SPORTS 2[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<sportsdevil>http://ibrod.tv/skysports2.html</sportsdevil>
+<referer>http://ibrod.tv/skysports2.html</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-2-Logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]SKY SPORTS 3[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<sportsdevil>http://ibrod.tv/skysports3.html</sportsdevil>
+<referer>http://ibrod.tv/skysports3.html</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR blue] [I]SKY SPORTS 4[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<sportsdevil>http://ibrod.tv/skysports4.html</sportsdevil>
+<referer>http://ibrod.tv/skysports4.html</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-4-Logo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR blue] [I]SKY SPORTS 5[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<sportsdevil>http://ibrod.tv/skysports5.html</sportsdevil>
+<referer>http://ibrod.tv/skysports5.html</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-5-Logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]SKY SPORTS F1[/I] [/COLOR]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://50.97.49.87:1935/apqq/vskysf1lsh/playlist.m3u8</link>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-F1-Logo.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue] [I]SPORTSNET ONE[/I] [/COLOR]</title>
+<link>rtmp://185.63.255.18:80/live playpath=sprt1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=sprt1&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20140410170629/logopedia/images/4/41/Snone-1-.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR blue] [I]SPORTSNET ONE[/I] [/COLOR]</title>
+<link>rtmp://185.63.255.60:80/live playpath=ontrio swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://yotv.co/embedu.php?live=ontrio&vw=620&vh=490 token=%Zrey(nKa@#Z timeout=13</link>
+<thumbnail>http://metalkettle.co/logos/logos1/Sportsnet%20Ontario.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]SPORTSNET WORLD[/I] [/COLOR]</title>
+<sportsdevil>http://www.shadownet.me/channels/Sportsnet-World.html</sportsdevil>
+<referer>http://www.sdw-net.co</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Sportsnet_World_HD_logo.PNG/800px-Sportsnet_World_HD_logo.PNG</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]TSN 1[/I] [/COLOR]</title>
+<link>rtmp://185.63.255.18:80/live playpath=ts1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=ts1&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://www.nwtel.ca/media/channel-logos/tsn1_0.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]TSN 2[/I] [/COLOR]</title>
+<link>rtmp://185.63.255.60:80/live playpath=tsnx2 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=tsnx2&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://www.nwtel.ca/media/channel-logos/tsn2_0.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]WWE NXT[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]  </title>
+<sportsdevil>http://sports4u.tv/channel/wwe-network-live-streaming/</sportsdevil>
+<sportsdevil>http://hdfree.tv/live/wwen.php?</sportsdevil>
+<referer>http://sports4u.tv/channel/wwe-network-live-streaming/</referer>
+<thumbnail>https://blog-blogmediainc.netdna-ssl.com/upload/SportsBlogcom/10770645/0430996001457630369_filepicker.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR=yellowgreen][B][I] ........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... [/I][/B][/COLOR]</title>
+<link>http://www.embeducaster.com/</link>
+<thumbnail>http://mb.web.sapo.io/1/0/2/8c10cca436228677d10be1cb5d21794e2464a.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>                                              [COLOR=white][B][I] MOTORSPORTS [/I][/B][/COLOR]</title>
+<link>http://www.embeducaster.com/</link>
+<thumbnail>http://mb.web.sapo.io/1/0/2/8c10cca436228677d10be1cb5d21794e2464a.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=yellowgreen][B][I] ........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... [/I][/B][/COLOR]</title>
+<link>http://www.embeducaster.com/</link>
+<thumbnail>http://mb.web.sapo.io/1/0/2/8c10cca436228677d10be1cb5d21794e2464a.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR blue] [I]SKY SPORTS F1[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<sportsdevil>http://mamahd.com/watch-sky-sports-formula-1-live-stream-1.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-F1-Logo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR blue] [I]MOVISTAR F1[/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://cdn.sstream.pw/live/tvb116/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
+<thumbnail>http://oi60.tinypic.com/2cgivqq.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue] [I]MOVISTAR MOTO GP[/COLOR][/I]  [COLOR orange](HD Temp)[/COLOR]</title>
+<link>http://cdn.sstream.pw/live/tvb117/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
+<thumbnail>http://static3.masmoto.net/competicion/files/2015/04/movistar-motogp-660x330.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue] [I]SPORT TV 5[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<sportsdevil>http://www.idimsports.eu/watch/408917/5/watch-xonetv.html</sportsdevil>
+<referer>http://www.idimsports.eu/watch/408917/5/watch-xonetv.html</referer>
+<thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
+</item>
+<item>
+<title>[COLOR blue] [I]BT SPORT 2[/COLOR][/I] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR] </title>
+<sportsdevil>http://ibrod.tv/btsports2.html</sportsdevil>
+<referer>http://ibrod.tv/btsports2.html</referer>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
+</item>
+<item>
+<title>[COLOR blue] [I]MOTORZ TV [/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<sportsdevil>http://www.filmon.com/channel/motorz</sportsdevil>
+<referer>http://www.filmon.com/channel/motorz</referer>
+<thumbnail>http://www.motorstv.com/sites/default/files/contenu/image/pages/logos/logo_officiel_motorstv.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue] [I]MOTORS TV[/COLOR][/I] </title>
+<link>rtmp://31.220.2.149:80/live playpath=motors swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=motors&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.png</thumbnail>
+</item>
+<item>
+<title>[COLOR blue] [I]MOTORSPORT LIVE [/I] [/COLOR] [COLOR orange](HD Temp)[/COLOR]</title>
+<link>mms://100automoto.tv/100livesport</link>
+<thumbnail>http://i.ytimg.com/vi/b5xYasZRDoo/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue] [I]MOTORSPORT USA [/I] [/COLOR]</title>
+<link>http://motorsport.hopto.org:8080/</link>
+<thumbnail>http://4.bp.blogspot.com/-n7CvAqGwwLg/Tcq67H2v2yI/AAAAAAAAASc/h5Rwl_2iX4M/s1600/Motorsport%2BTV%2Bon%2BFree%2BStreaming%2BCable.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue] [I]RACELINE TV [/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<sportsdevil>http://www.filmon.com/channel/raceline-tv</sportsdevil>
+<referer>http://www.filmon.com/channel/raceline-tv</referer>
+<thumbnail>http://static.filmon.com/assets/channels/3641/big_logo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR blue] [I]TORQUE AND TUSH [/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<sportsdevil>http://www.filmon.com/channel/torque-and-tush</sportsdevil>
+<referer>http://www.filmon.com/channel/torque-and-tush</referer>
+<thumbnail>http://static.filmon.com/assets/channels/3187/big_logo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR blue] [I]AUTO TV [/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<sportsdevil>http://www.filmon.com/channel/auto-channel</sportsdevil>
+<referer>http://www.filmon.com/channel/auto-channel</referer>
+<thumbnail>http://static.filmon.com/assets/channels/2945/big_logo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR blue] [I]NBCSN[/COLOR][/I]  [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<sportsdevil>http://hdfree.tv/nbc-sports-live-stream.html</sportsdevil>
+<referer>http://hdfree.tv/tvlogos.html</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2014/01/nbcsn-logo-600x401.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue] [I]STEEL DREAMS [/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<sportsdevil>http://www.filmon.com/channel/steel-dreams</sportsdevil>
+<referer>http://www.filmon.com/channel/steel-dreams</referer>
+<thumbnail>http://static.filmon.com/assets/channels/784/big_logo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR blue] [I]DISTANT ROADS [/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<sportsdevil>http://www.filmon.com/channel/distant-roads</sportsdevil>
+<referer>http://www.filmon.com/channel/distant-roads</referer>
+<thumbnail>http://static.filmon.com/assets/channels/787/big_logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]WWE NXT[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<sportsdevil>http://sports4u.tv/channel/wwe-network-live-streaming/</sportsdevil>
+<referer>http://sports4u.tv/channel/wwe-network-live-streaming/</referer>
+<thumbnail>https://blog-blogmediainc.netdna-ssl.com/upload/SportsBlogcom/10770645/0430996001457630369_filepicker.png</thumbnail>
+</item>

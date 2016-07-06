@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title>[COLOR] [COLOR red][/COLOR][B][COLOR red][B]P[/B][/COLOR][COLOR green][B]L[/B][/COLOR][COLOR orange][B]A[/B][/COLOR][COLOR red][B]Y[/B][/COLOR] [COLOR cyan]TV NEEDED [/COLOR][COLOR magenta]EXTRA ADDON [/COLOR][COLOR yellow]F4MTESTER [/COLOR]</title>
+<link>http://Movies.me</link>
+<jsonrpc>plugin://plugin.video.f4mTester/</jsonrpc>
+<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
+</item>
+
+<item>       
+<title>[COLOR red] [/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>       
+<title>            [COLOR red] FRANCE TV [/COLOR]  [COLOR lime]SERVIDOR 2[/COLOR]  </title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>       
+<title>                [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 01-07-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+ 
+  
+        
+    
+          <item> 
+            <title>FR:EURONEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/247.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:EURONEWS</link> 
+        </item> 
+          <item> 
+            <title>FR:FRANCE24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/227.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE24</link> 
+        </item> 
+          <item> 
+            <title>FR:BFM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/246.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BFM</link> 
+        </item> 
+          <item> 
+            <title>FR:TV5_MONDE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/513.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TV5_MONDE</link> 
+        </item> 
+          <item> 
+            <title>FR:ITELE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1747.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:ITELE</link> 
+        </item> 
+          <item> 
+            <title>FR:LCI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2431.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:LCI</link> 
+        </item> 
+          <item> 
+            <title>FR:ARTE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/248.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:ARTE</link> 
+        </item> 
+          <item> 
+            <title>FR:TF1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/214.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TF1</link> 
+        </item> 
+          <item> 
+            <title>FR:M6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/215.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:M6</link> 
+        </item> 
+          <item> 
+            <title>FR:W9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/216.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:W9</link> 
+        </item> 
+          <item> 
+            <title>FR:FRANCE2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/217.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE2</link> 
+        </item> 
+          <item> 
+            <title>FR:FRANCE3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/218.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE3</link> 
+        </item> 
+          <item> 
+            <title>FR:FRANCE4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/219.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE4</link> 
+        </item> 
+          <item> 
+            <title>FR:FRANCE5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/220.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE5</link> 
+        </item> 
+          <item> 
+            <title>FR:FRANCEO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/221.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCEO</link> 
+        </item> 
+          <item> 
+            <title>FR:CANAL+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/445.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+</link> 
+        </item> 
+          <item> 
+            <title>FR:CANAL+CINEMA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/193.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+CINEMA</link> 
+        </item> 
+          <item> 
+            <title>FR:CANAL+FAMILY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/194.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+FAMILY</link> 
+        </item> 
+          <item> 
+            <title>FR:CANAL+SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/446.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+SPORT</link> 
+        </item> 
+          <item> 
+            <title>FR:CANAL+DECALE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1825.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+DECALE</link> 
+        </item> 
+          <item> 
+            <title>FR:CANAL+SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/195.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+SERIES</link> 
+        </item> 
+          <item> 
+            <title>FR:CINE+PREMIER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/207.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE+PREMIER</link> 
+        </item> 
+          <item> 
+            <title>FR:CINE+FRISSON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/200.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE+FRISSON</link> 
+        </item> 
+          <item> 
+            <title>FR:CINE+FAMIZ</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/210.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE+FAMIZ</link> 
+        </item> 
+          <item> 
+            <title>FR:CINE+EMOTION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/209.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE+EMOTION</link> 
+        </item> 
+          <item> 
+            <title>FR:CINE+_CLASSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1827.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE+_CLASSIC</link> 
+        </item> 
+          <item> 
+            <title>FR:OCS_MAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/196.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:OCS_MAX</link> 
+        </item> 
+          <item> 
+            <title>FR:OCS_GEANTS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/198.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:OCS_GEANTS</link> 
+        </item> 
+          <item> 
+            <title>FR:OCS_CHOC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/197.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:OCS_CHOC</link> 
+        </item> 
+          <item> 
+            <title>FR:ACTION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/213.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:ACTION</link> 
+        </item> 
+          <item> 
+            <title>FR:13EME_RUE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/224.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:13EME_RUE</link> 
+        </item> 
+          <item> 
+            <title>FR:TV_BREIZH</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1828.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TV_BREIZH</link> 
+        </item> 
+          <item> 
+            <title>FR:POLAR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/231.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:POLAR</link> 
+        </item> 
+          <item> 
+            <title>FR:SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/228.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SYFY</link> 
+        </item> 
+          <item> 
+            <title>FR:SERIE_CLUB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/237.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SERIE_CLUB</link> 
+        </item> 
+          <item> 
+            <title>FR:CHERIE25</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1386.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CHERIE25</link> 
+        </item> 
+          <item> 
+            <title>FR:PARIS_PREMIERE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/223.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:PARIS_PREMIERE</link> 
+        </item> 
+          <item> 
+            <title>FR:NORMANDIE_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/249.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NORMANDIE_TV</link> 
+        </item> 
+          <item> 
+            <title>FR:COMEDIE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/225.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:COMEDIE</link> 
+        </item> 
+          <item> 
+            <title>FR:D8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1782.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:D8</link> 
+        </item> 
+          <item> 
+            <title>FR:D17</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/208.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:D17</link> 
+        </item> 
+          <item> 
+            <title>FR:HD1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1811.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:HD1</link> 
+        </item> 
+          <item> 
+            <title>FR:RTL9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/222.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:RTL9</link> 
+        </item> 
+          <item> 
+            <title>FR:TMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/251.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TMC</link> 
+        </item> 
+          <item> 
+            <title>FR:TEVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/244.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TEVA</link> 
+        </item> 
+          <item> 
+            <title>FR:NT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/226.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NT1</link> 
+        </item> 
+          <item> 
+            <title>FR:NRJ12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/253.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NRJ12</link> 
+        </item> 
+          <item> 
+            <title>FR:6TER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/203.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:6TER</link> 
+        </item> 
+          <item> 
+            <title>FR:WEO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/243.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:WEO</link> 
+        </item> 
+          <item> 
+            <title>FR:DISNEY_CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/254.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DISNEY_CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>FR:DISNEY_CINEMA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1986.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DISNEY_CINEMA</link> 
+        </item> 
+          <item> 
+            <title>FR:DISNEY_JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/511.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DISNEY_JUNIOR</link> 
+        </item> 
+          <item> 
+            <title>FR:GULLI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/258.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:GULLI</link> 
+        </item> 
+          <item> 
+            <title>FR:PIWI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1992.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:PIWI</link> 
+        </item> 
+          <item> 
+            <title>FR:CARTOON_NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/257.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CARTOON_NETWORK</link> 
+        </item> 
+          <item> 
+            <title>FR:TELETOON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1689.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TELETOON</link> 
+        </item> 
+          <item> 
+            <title>FR:CANALJ</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANALJ</link> 
+        </item> 
+          <item> 
+            <title>FR:BOOMERANG</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/256.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BOOMERANG</link> 
+        </item> 
+          <item> 
+            <title>FR:TIJI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/235.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TIJI</link> 
+        </item> 
+          <item> 
+            <title>FR:MANGA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/259.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MANGA</link> 
+        </item> 
+          <item> 
+            <title>FR:M6_MUSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/204.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:M6_MUSIC</link> 
+        </item> 
+          <item> 
+            <title>FR:MTV_ROCKS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2693.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MTV_ROCKS</link> 
+        </item> 
+          <item> 
+            <title>FR:MTV_MUSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2694.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MTV_MUSIC</link> 
+        </item> 
+          <item> 
+            <title>FR:MTV_Hits!</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR:MTV_Hits&amp;streamtype=TSDOWNLOADER&amp;name=FR:MTV_Hits!</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2695.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>FR:MTV_Dance</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2696.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MTV_Dance</link> 
+        </item> 
+          <item> 
+            <title>FR:MTV_BASE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2697.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MTV_BASE</link> 
+        </item> 
+          <item> 
+            <title>FR:BEIN_SPORTS_HD1+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2939.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BEIN_SPORTS_HD1+</link> 
+        </item> 
+          <item> 
+            <title>FR:BEIN_SPORTS_HD1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/190.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BEIN_SPORTS_HD1</link> 
+        </item> 
+          <item> 
+            <title>FR:BEIN_SPORTS_HD2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/191.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BEIN_SPORTS_HD2</link> 
+        </item> 
+          <item> 
+            <title>FR:BEIN_SPORTS_HD3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/192.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BEIN_SPORTS_HD3</link> 
+        </item> 
+          <item> 
+            <title>FR:EUROSPORT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/858.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:EUROSPORT1</link> 
+        </item> 
+          <item> 
+            <title>FR:EUROSPORT2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:EUROSPORT2</link> 
+        </item> 
+          <item> 
+            <title>FR:EQUIPE21</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1750.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:EQUIPE21</link> 
+        </item> 
+          <item> 
+            <title>FR:MA_CHAINE_SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/262.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MA_CHAINE_SPORT</link> 
+        </item> 
+          <item> 
+            <title>FR:FOOT+24/24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FOOT+24/24</link> 
+        </item> 
+          <item> 
+            <title>FR:OLTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1781.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:OLTV</link> 
+        </item> 
+          <item> 
+            <title>FR:INFOSPORT+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/199.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:INFOSPORT+</link> 
+        </item> 
+          <item> 
+            <title>FR:DISCOVERY_SCIENCE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/230.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DISCOVERY_SCIENCE</link> 
+        </item> 
+          <item> 
+            <title>FR:DISCOVERY_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/232.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DISCOVERY_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:SCIENCES_VIE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/229.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SCIENCES_VIE</link> 
+        </item> 
+          <item> 
+            <title>FR:NATGEO_WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/233.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NATGEO_WILD</link> 
+        </item> 
+          <item> 
+            <title>FR:NATGEO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/234.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NATGEO</link> 
+        </item> 
+          <item> 
+            <title>FR:PLANETE+_CI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/239.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:PLANETE+_CI</link> 
+        </item> 
+          <item> 
+            <title>FR:CHASSE_ET_PECHE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/212.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CHASSE_ET_PECHE</link> 
+        </item> 
+          <item> 
+            <title>FR:PLANETE_AE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1744.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:PLANETE_AE</link> 
+        </item> 
+          <item> 
+            <title>FR:PLANETE+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/240.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:PLANETE+</link> 
+        </item> 
+          <item> 
+            <title>FR:TOUTE_L'HISTOIRE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1830.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TOUTE_L'HISTOIRE</link> 
+        </item> 
+          <item> 
+            <title>FR:ANIMAUX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/236.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:ANIMAUX</link> 
+        </item> 
+          <item> 
+            <title>FR:USHUAIA_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/206.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:USHUAIA_TV</link> 
+        </item> 
+          <item> 
+            <title>FR:VOYAGE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/205.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:VOYAGE</link> 
+        </item> 
+          <item> 
+            <title>FR:CANALPALY_5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2372.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANALPALY_5</link> 
+        </item> 
+          <item> 
+            <title>FR:CANALPLAY_4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2360.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANALPLAY_4</link> 
+        </item> 
+          <item> 
+            <title>FR:CANALPALY_3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2359.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANALPALY_3</link> 
+        </item> 
+          <item> 
+            <title>FR:CANALPLAY_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2358.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANALPLAY_2</link> 
+        </item> 
+          <item> 
+            <title>FR:CANALPLAY_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2357.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANALPLAY_1</link> 
+        </item> 
+		
+		
+		 
+          <item> 
+            <title>FR:M6_MUSIC_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/200.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:M6_MUSIC_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:M6_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/199.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:M6_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:Weo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/129.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Weo</link> 
+        </item> 
+          <item> 
+            <title>FR:W9_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/130.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:W9_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:USHUAIA_TV_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/131.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:USHUAIA_TV_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:TVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/132.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TVA</link> 
+        </item> 
+          <item> 
+            <title>FR:TV_M3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/133.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TV_M3</link> 
+        </item> 
+          <item> 
+            <title>FR:TV_BREIZH_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TV_BREIZH_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:TOUTE_L'HISTOIRE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/135.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TOUTE_L'HISTOIRE</link> 
+        </item> 
+          <item> 
+            <title>FR:TMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/136.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TMC</link> 
+        </item> 
+          <item> 
+            <title>FR:TiJi</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TiJi</link> 
+        </item> 
+          <item> 
+            <title>FR:TF1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/138.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TF1_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:TCM_CINEMA_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/139.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TCM_CINEMA_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:Syfy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/140.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Syfy</link> 
+        </item> 
+          <item> 
+            <title>FR:SERIE_CLUB_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/141.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SERIE_CLUB_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:Science_et_Vie TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/142.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Science_et_Vie TV</link> 
+        </item> 
+          <item> 
+            <title>FR:RTL9_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/143.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:RTL9_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:Planete HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/144.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Planete HD</link> 
+        </item> 
+          <item> 
+            <title>FR:PLANETE _AE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/145.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:PLANETE _AE</link> 
+        </item> 
+          <item> 
+            <title>FR:Piwi HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/146.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Piwi HD</link> 
+        </item> 
+          <item> 
+            <title>FR:OLTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/147.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:OLTV</link> 
+        </item> 
+          <item> 
+            <title>FR:OCS_MAX_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/148.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:OCS_MAX_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:OCS_GEANTS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/149.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:OCS_GEANTS</link> 
+        </item> 
+          <item> 
+            <title>FR:NT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/150.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NT1</link> 
+        </item> 
+          <item> 
+            <title>FR:NRJ_12HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NRJ_12HD</link> 
+        </item> 
+          <item> 
+            <title>FR:NICKELODEON_Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NICKELODEON_Junior</link> 
+        </item> 
+          <item> 
+            <title>FR:NAT_GEO_WILD_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/153.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NAT_GEO_WILD_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:MFM_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/154.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MFM_TV</link> 
+        </item> 
+          <item> 
+            <title>FR:Mangas</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/155.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Mangas</link> 
+        </item> 
+          <item> 
+            <title>FR:MA_CHAINE_SPORT_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MA_CHAINE_SPORT_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:HD1_FRANCE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:HD1_FRANCE</link> 
+        </item> 
+          <item> 
+            <title>FR:Gulli</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Gulli</link> 
+        </item> 
+          <item> 
+            <title>FR:France24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:France24</link> 
+        </item> 
+          <item> 
+            <title>FR:France_OHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:France_OHD</link> 
+        </item> 
+          <item> 
+            <title>FR:France_5HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:France_5HD</link> 
+        </item> 
+          <item> 
+            <title>FR:France_4HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/162.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:France_4HD</link> 
+        </item> 
+          <item> 
+            <title>FR:France_3HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/163.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:France_3HD</link> 
+        </item> 
+          <item> 
+            <title>FR:France_2HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/164.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:France_2HD</link> 
+        </item> 
+          <item> 
+            <title>FR:EUROSPORT1_france</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/165.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:EUROSPORT1_france</link> 
+        </item> 
+          <item> 
+            <title>FR:Euronews_France</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/166.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Euronews_France</link> 
+        </item> 
+          <item> 
+            <title>FR:E!_ENTERTAINMENT_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/167.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:E!_ENTERTAINMENT_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:DISNEY_CINEMA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/168.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DISNEY_CINEMA</link> 
+        </item> 
+          <item> 
+            <title>FR:Disney_Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/169.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Disney_Channel</link> 
+        </item> 
+          <item> 
+            <title>FR:DISCOVERY_SCIENCE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/170.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DISCOVERY_SCIENCE_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:D8_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/171.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:D8_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:D17</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/172.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:D17</link> 
+        </item> 
+          <item> 
+            <title>FR:COMEDIE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/173.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:COMEDIE HD</link> 
+        </item> 
+          <item> 
+            <title>FR:CINE-FX_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/174.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE-FX_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:CINE_POLAR_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/175.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE_POLAR_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:CINE PREMIERE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/176.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE PREMIERE</link> 
+        </item> 
+          <item> 
+            <title>FR:CINE FRISSON_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/177.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE FRISSON_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:Cine Famiz_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/178.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Cine Famiz_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:Cine Classic_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/179.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Cine Classic_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:Cine _Emotion_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/180.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Cine _Emotion_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:CHASSE&amp;PECHE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/181.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CHASSE&amp;PECHE</link> 
+        </item> 
+          <item> 
+            <title>FR:Cartoon_Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/182.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Cartoon_Network</link> 
+        </item> 
+          <item> 
+            <title>FR:CANAL-J-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/183.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL-J-HD</link> 
+        </item> 
+          <item> 
+            <title>FR:CANAL_ HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/184.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL_ HD</link> 
+        </item> 
+          <item> 
+            <title>FR:CANAL SPORT_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/185.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL SPORT_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:CANAL FAMILY_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/186.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL FAMILY_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:CANAL DECALE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/187.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL DECALE_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:CANAL CINEMA_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/188.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL CINEMA_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:CANAL _SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/189.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL _SERIES</link> 
+        </item> 
+          <item> 
+            <title>FR:BFM_Buisness</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/190.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BFM_Buisness</link> 
+        </item> 
+          <item> 
+            <title>FR:BeinSport3_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/191.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BeinSport3_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:BeinSport2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/192.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BeinSport2_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:BeinSport1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/193.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BeinSport1_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:Arte</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/194.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Arte</link> 
+        </item> 
+          <item> 
+            <title>FR:Antenne_Reunion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/195.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Antenne_Reunion</link> 
+        </item> 
+          <item> 
+            <title>FR:Animaux_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/196.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Animaux_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:ACTION_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://main2.ipfox.tv:8000/live/jalal_GEfl1X/K05t03aV/197.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:ACTION_HD</link> 
+        </item> 
+  
+		
+		
+		
+  
+
+
+<item>       
+<title>[COLOR red][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR] [COLOR red][/COLOR][B][COLOR red][B]P[/B][/COLOR][COLOR green][B]L[/B][/COLOR][COLOR orange][B]A[/B][/COLOR][COLOR red][B]Y[/B][/COLOR] [COLOR cyan]TV NEEDED [/COLOR][COLOR magenta]EXTRA ADDON [/COLOR][COLOR yellow]F4MTESTER [/COLOR]</title>
+<link>http://Movies.me</link>
+<jsonrpc>plugin://plugin.video.f4mTester/</jsonrpc>
+<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
+</item>

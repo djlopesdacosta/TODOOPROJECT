@@ -1,0 +1,94 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" group-title="Music" tvg-logo="0065.png",[COLOR FFDC54D3]Deluxe Music[/COLOR]
+http://62.65.140.153:80/session/e01b0268-e36f-11e5-bffa-005056bc49ac/nvnv5a/1/1153/index.m3u8?token=363498e309be742a6d99b5a3fc4a4707_1457336933_1457336933&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="MTV.ch" group-title="Music" tvg-logo="0145.png",[COLOR FFFF00FF]MTV HD[/COLOR]
+http://62.65.140.149:80/session/eedc3e84-e36f-11e5-8e46-005056bc49ac/nvnv5a/1/1033/index.m3u8?token=3f74790d0ef115c6ee2dcc014a77bd0b_1457336958_1457336958&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="9001" group-title="Music" tvg-logo="0145.png",[COLOR orange]MTV Rocks[/COLOR]
+http://st02.brn03.iptv.czechbone.net:8083/rel/pc/1/244/0.k.m3u8
+#EXTINF:-1 tvg-id="9001" group-title="Music" tvg-logo="0145.png",[COLOR orange]MTV Hits[/COLOR]
+http://st02.brn03.iptv.czechbone.net:8083/rel/pc/1/247/0.k.m3u8
+#EXTINF:-1 tvg-id="9001" group-title="Music" tvg-logo="9001.png",[COLOR orange]VEVO US/CA 1[/COLOR]
+http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/05/prog_index.m3u8
+#EXTINF:-1 tvg-id="9002" group-title="Music" tvg-logo="9001.png",[COLOR orangered]VEVO US/CA 1 HD[/COLOR]
+http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8
+#EXTINF:-1 tvg-id="9003" group-title="Music" tvg-logo="9001.png",[COLOR orange]VEVO US/CA 2[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1 tvg-id="9004" group-title="Music" tvg-logo="9001.png",[COLOR orangered]VEVO US/CA 2 HD[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1 tvg-id="9005" group-title="Music" tvg-logo="9001.png",[COLOR orange]VEVO US/CA 3[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1 tvg-id="9006" group-title="Music" tvg-logo="9001.png",[COLOR orangered]VEVO US/CA 3 HD[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1 tvg-id="9007" group-title="Music" tvg-logo="9001.png",[COLOR orange]VEVO DE[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1 tvg-id="9008" group-title="Music" tvg-logo="9001.png",[COLOR orangered]VEVO DE HD[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="juce_tv.png",[COLOR orangered]Juce TV HD[/COLOR]
+http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
+#EXTINF:-1 tvg-id="9001" group-title="Music" tvg-logo="tv.png",[COLOR orange]Fun 1[/COLOR]
+http://st02.brn03.iptv.czechbone.net:8083/rel/pc/1/514/0.k.m3u8
+#EXTINF:-1 tvg-id="Power.tr" group-title="Music" tvg-logo="power_turk.png",[COLOR orangered]Power HD [/COLOR]
+http://185.28.3.10/powertv/powerturktvh.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="best_music_tv_eska.png",[COLOR orangered]BEST MUSIC TV HD[/COLOR]
+rtmp://stream.smcloud.net/live2/best/best_720p?Vd?u#bt!25
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="eska_tv.png",[COLOR orange]ESKA TV[/COLOR]
+rtmp://stream.smcloud.net/live/eskatv
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="best_music_tv_eska.png",[COLOR orangered]ESKA BEST MUSIC HD[/COLOR]
+rtmp://stream.smcloud.net/live2/best/best_720p
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="best_music_tv_eska.png",[COLOR orange]ESKA BEST MUSIC[/COLOR]
+rtmp://stream.smcloud.net/live2/best/best_360p
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="eska_rock_bis.png",[COLOR orangered]ESKA ROCK HD[/COLOR]
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="eska_rock.png",[COLOR orange]ESKA ROCK[/COLOR]
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="eska_party.png",[COLOR orangered]ESKA PARTY HD[/COLOR]
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="eska_party.png",[COLOR orange]ESKA PARTY[/COLOR]
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="polo_party_tv.png",[COLOR orangered]POLO PARTY HD[/COLOR]
+rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="polo_party_tv.png",[COLOR orange]POLO PARTY[/COLOR]
+rtmp://stream.smcloud.net/live2/polo_party/polo_party_360p
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="polo_tv.png",[COLOR orange]POLO TV[/COLOR]
+rtmp://stream.smcloud.net/live/polotv
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="wawa_tv.png",[COLOR orangered]WAWA HD[/COLOR]
+rtmp://stream.smcloud.net/live2/wawa/wawa_720p
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="wawa_tv.png",[COLOR orange]WAWA[/COLOR]
+rtmp://stream.smcloud.net/live2/wawa/wawa_360p
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="vox_music_tv.png",[COLOR orangered]VOX MUSIC HD[/COLOR]
+rtmp://stream.smcloud.net/live2/vox/vox_720p
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="vox_music_tv.png",[COLOR orange]VOX MUSIC[/COLOR]
+rtmp://stream.smcloud.net/live/vox2/stream1
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="1hd.png",[COLOR orangered]FIRST MUSIC CHANNEL HD[/COLOR]
+rtmp://rtmp.one.by/HD/1muz
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="djing.png",[COLOR orangered]Djing 1[/COLOR]
+http://www.djing.com/tv/i-05.m3u8
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="djing.png",[COLOR orangered]Djing 2[/COLOR]
+http://www.djing.com/tv/a-05.m3u8
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="djing.png",[COLOR orangered]Djing 3[/COLOR]
+http://www.djing.com/tv/u-05.m3u8
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="djing.png",[COLOR orangered]Djing 4[/COLOR]
+http://www.djing.com/tv/d-05.m3u8
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="djing.png",[COLOR orangered]Djing 5[/COLOR]
+http://www.djing.com/tv/s-05.m3u8
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="superspnic_tv.png",[COLOR orange]Super Sonic TV[/COLOR]
+http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="ocko_gold.png",[COLOR orange]Ocko Gold[/COLOR]
+http://194.79.52.77/goldi/goldHQ1/byb0tter.m3u8
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="nebiset.png",[COLOR orange]Nebiset[/COLOR]
+http://hls.nebiset.tv/nebiset.m3u8
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="mfmtv.png",[COLOR orange]MFM TV[/COLOR]
+http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="telemusica.png",[COLOR orange]Telemusica[/COLOR]
+rtmp://186.155.200.118:1935/live/telemusica
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="slam.png",[COLOR orange]Slam TV[/COLOR]
+http://538hls.lswcdn.triple-it.nl/content/slamtv/slamtv_0.m3u8
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="kiss_tv.png",[COLOR orange]KISS TV[/COLOR]
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="electrosound.png",[COLOR orange]Electrosound TV[/COLOR]
+rtmp://www.electrosound.tv/public/stream
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="electrika_tv.png",[COLOR orange]Elektrika TV[/COLOR]
+rtmp://rtmp.elektrika.cz/live/myStream.sdp
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="hit_tv.png",[COLOR orange]HITS[/COLOR]
+http://204.107.26.252:1935/live/691.high.stream/playlist.m3u8
