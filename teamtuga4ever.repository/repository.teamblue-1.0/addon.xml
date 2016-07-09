@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.teamblue" name="TeamBlue" version="1.0" provider-name="TeamBlue">
+	<extension point="xbmc.addon.repository" name="VietKodi Addon Repository">
+		<info compressed="false">http://teamblue-repo.comuf.com/Plugins/addons.xml</info>
+		<checksum>http://teamblue-repo.comuf.com/Plugins/addons.xml.md5</checksum>
+		<datadir zip="true">http://teamblue-repo.comuf.com/Plugins/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>TeamBlue Repo</summary>
+		<description>Repositorio de Teamblue Live Events</description>
+		<platform>all</platform>
+	</extension>
+</addon>
