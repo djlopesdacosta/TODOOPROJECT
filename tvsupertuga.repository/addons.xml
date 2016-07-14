@@ -48,6 +48,56 @@
 
 </addon>
 
+<addon id="plugin.program.jogosEmuladores"
+	     name="Jogos e Emuladores"
+	     version="0.0.2"
+	     provider-name="TVsupertuga">
+  <requires>
+  	<import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en"></summary>
+    <description lang="en"></description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum>http://tvsupertuga.forum-gratuito.com/</forum>
+    <website></website>
+    <facebookgrupo></facebookgrupo>
+    <email>tvsupertuga@gmail.com</email>
+  </extension>
+</addon>
+
+<addon id="plugin.program.tvsupertuga.notifications" version="0.0.1"
+       name="[COLOR cyan]TV[/COLOR]-[COLOR red]supertuga[/COLOR] [COLOR limegreen]notifications[/COLOR]" provider-name="TEAM TUGA 4EVER">
+  <requires>
+  	<import addon="xbmc.python" version="2.1.0"/>
+  	<import addon="script.module.addon.common" optional="true" />
+  </requires>
+  <extension point="xbmc.python.script" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  	<summary>TVsupertuga NEWS</summary>
+  	<description>HERE YOU CAN FIND THE LATEST NEWS OF TVsupertuga.</description>
+  	<disclaimer>WE TAKE NO RESPONSIBILITY FOR ANY PROBLEMS THIS PLUGIN MAY CAUSE.</disclaimer>
+  	<language>en</language>
+  	<platform>all</platform>
+  	<website></website>
+  	<source></source>
+  	<email></email>
+  </extension>
+</addon>
+
 <addon id="plugin.video.digistorageplayer" name="Digi Storage Player" version="1.0.0" provider-name="RCSRDS">
 	<requires>
 		<import addon="xbmc.python" version="2.24.0"/>
@@ -226,6 +276,30 @@ http://www.hometheater.co.il</description>
 Playlists organizadas por categorias com assuntos historicos e da actualidade .
 Toda a fonte  vem de utilizadores do Youtube.
 Nota Importante: Aconselhado a ultima versao do youtube 5.20.0.6 e respetivo Login.</description>
+    <platform>all</platform>
+    <forum></forum>
+    <website></website>
+  </extension>
+</addon>
+
+<addon id="plugin.video.sealmusic" name="Seal Music Live Acts" version="0.1" provider-name="SealMusic">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" />
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Seal Music Live Acts</summary>
+    <description lang="en">Concertos Ao Vivo Nacionais e Internacionais.
+Segue-me no YouTube: "https://www.youtube.com/channel/UC1RzK2_Ebk8bQ5A9H2PiT0g"
+Ou no facebook: "https://www.facebook.com/ifjpinto"
+Email: "addonsseal@gmail.com"
+Nota Importante: Aconselhado a ultima versao do youtube 5.20.0.6.</description>
     <platform>all</platform>
     <forum></forum>
     <website></website>
@@ -734,6 +808,20 @@ SEND E MAIL: tvsupertuga@gmail.com[/B][/COLOR]</description>
   </extension>
 </addon>
 
+<addon id="SealLiveActs.repository" name="Seal Live Acts" version="0.0.1" provider-name="SealMusic">
+	<extension point="xbmc.addon.repository" name="SMusic Add-on Repository">
+		<info compressed="false">http://raw.github.com/SealMusic/SealLiveActs/master/addons.xml</info>
+		<checksum>http://raw.github.com/SealMusic/SealLiveActs/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/SealMusic/SealLiveActs/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>SMusic Addon</summary>
+		<description>Addon Description</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
 <addon id="service.autosubs"
     name="AutoSubs" version="1.0.0" provider-name="amet,schumi2004">
   <requires>
@@ -839,8 +927,8 @@ SEND E MAIL: tvsupertuga@gmail.com[/B][/COLOR]</description>
   </extension>
 </addon>
 
-<addon id="tvsupertuga.repository" name="[COLOR red]TVsupertuga[/COLOR].repository" version="0.0.5" provider-name="tvsupertuga">
-	<extension point="xbmc.addon.repository" name="tvsupertuga.repository">
+<addon id="tvsupertuga.repository" name="[COLOR cyan]TV[/COLOR]-[COLOR red]SUPERTUGA[/COLOR].[COLOR limegreen]REPOSITORY[/COLOR]" version="0.0.6" provider-name="TVsupertuga">
+	<extension point="xbmc.addon.repository" name="tvsupertuga Repository">
 		<info compressed="false">http://tvsupertuga.net16.net/zips/addons.xml</info>
 		<checksum>http://tvsupertuga.net16.net/zips/addons.xml.md5</checksum>
 		<datadir zip="true">http://tvsupertuga.net16.net/instal/</datadir>

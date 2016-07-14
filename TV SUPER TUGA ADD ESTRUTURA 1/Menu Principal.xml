@@ -220,6 +220,39 @@ http://1tv-super-tuga-add-estrutura.netne.net/TV%20SUPER%20TUGA%20ADD%20ESTRUTUR
 </item>
 
 <item>
+<title>[COLOR yellow]• [/COLOR] [COLOR lavenderblush]JOGOS E EMULADORES[/COLOR]</title>
+<link>http://Movies.me</link>
+<jsonrpc>plugin://plugin.program.jogosEmuladores/</jsonrpc>
+<thumbnail>http://i35.servimg.com/u/f35/19/44/91/43/icon11.jpg</thumbnail>
+<fanart>http://i35.servimg.com/u/f35/19/44/91/43/fanart13.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]• [/COLOR] [COLOR lavenderblush]JOGOS E EMULADORES[/COLOR]</title>
+<link>http://MENU24</link>
+<externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA%201/Menu%2020.xml</externallink>
+<thumbnail>http://i35.servimg.com/u/f35/19/44/91/43/icon11.jpg</thumbnail>
+<fanart>http://i35.servimg.com/u/f35/19/44/91/43/fanart13.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]• [/COLOR] [COLOR lavenderblush]PROJECT X WIZARD[/COLOR]</title>
+<link>http://Movies.me</link>
+<jsonrpc>plugin://plugin.video.projectxwizard/</jsonrpc>
+<thumbnail>http://i35.servimg.com/u/f35/19/44/91/43/icon10.png</thumbnail>
+<fanart>http://i35.servimg.com/u/f35/19/44/91/43/fanart12.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]• [/COLOR] [COLOR lavenderblush]TVSUPERTUGA NOTIFICATIONS[/COLOR]</title>
+<link>http://Movies.me</link>
+<jsonrpc>plugin://plugin.program.tvsupertuga.notifications</jsonrpc>
+<thumbnail>http://i35.servimg.com/u/f35/19/44/91/43/icon11.png</thumbnail>
+<fanart>http://i35.servimg.com/u/f35/19/44/91/43/conten10.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLOR yellow]• [/COLOR] [COLOR lavenderblush] ESPAÇO TVsupertuga[/COLOR]</title>
 <link>http://MENU21.me</link>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA%201/Menu%2021.xml</externallink>

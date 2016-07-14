@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="BACKUPS">
+    <setting id="zip" type="folder"    label="Choose Backup Storage Location"      default="special://home/backupdir"/>
+	</category>
+	<category label="BUILD UPDATES">
+	<setting id="checkupdates" type="bool" label="Check for build updates on Kodi startup" default="true"/>
+	<setting id="autoupdates" type="bool" label="Auto update build on Kodi startup" default="true"/>
+	<setting id="updaterepos" type="bool" label="Auto update addons and repos on Kodi startup" default="true"/>
+   	</category>
+    <category label="BETA TESTING">
+    <setting id="beta" type="text" option="writeable,hidden" label="BETA KEY : " default="NOT NEEDED!"/>
+	</category>
+</settings>
