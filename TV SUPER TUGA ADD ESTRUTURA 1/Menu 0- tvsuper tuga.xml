@@ -45,7 +45,7 @@
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 <fanart>http://4.fotos.web.sapo.io/i/oc913ed30/18864727_W0533.png</fanart>
 </item>
-http://orbit-iptv.com:2500/live/basit/basit/1273.ts
+http://orbit-iptv.com:2500/live/FBGNezqw7A/A00HWbCivW/1273.ts
 
 <item>
 <title>[COLOR=red][B][I] RTP 1 HD [/I][/B][/COLOR][COLOR=cyan]F4MTESTER[/COLOR]</title>
@@ -60,7 +60,7 @@ http://orbit-iptv.com:2500/live/basit/basit/1273.ts
 
 <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/485.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1 (ALT)</link> 
 
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/basit/basit/1747.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1</link> 
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/FBGNezqw7A/A00HWbCivW/1747.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1</link> 
  
 <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/deda/bSMr7vsV/452.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP</link> 
 
@@ -111,7 +111,7 @@ http://orbit-iptv.com:2500/live/basit/basit/1273.ts
  
  <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/109.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2 (LBR)</link> 
 
- <link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/basit/basit/1748.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2</link> 
+ <link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/FBGNezqw7A/A00HWbCivW/1748.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2</link> 
  
  <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/deda/bSMr7vsV/454.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2</link> 
  
@@ -1615,6 +1615,7 @@ plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/persian.eagle
 <item>
 <title>[COLOR=white][B][I] TVI REALITY [/I][/B][/COLOR] [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.mytvfree4.me/ver/tvi-reality-24h</sportsdevil>
+<sportsdevil>http://www.tv-motards.com/quinta-das-celebridades-tvi-24-h</sportsdevil>
 <referer>http://www.mytvfree4.me/ver/tvi-reality-24h</referer>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
 </item>
@@ -3246,7 +3247,7 @@ plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan
 
  <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/129.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport TV 1 HD</link> 
 
-plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/basit/basit/1813.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 1</link> 
+plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/FBGNezqw7A/A00HWbCivW/1813.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 1</link> 
 
 <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/deda/bSMr7vsV/430.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV1 HD</link> 
 
@@ -3320,7 +3321,7 @@ plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/basit/basit
  
 <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/144.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport TV 3 HD</link> 
 
- <link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/basit/basit/1273.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-SPORT TV 3</link> 
+ <link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/FBGNezqw7A/A00HWbCivW/1273.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-SPORT TV 3</link> 
  
 <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/deda/bSMr7vsV/432.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 3</link> 
 
@@ -3359,7 +3360,7 @@ plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/basit/basit
 
 <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport TV 4 HD</link> 
 
- <link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/basit/basit/1274.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SPORT TV 4</link> 
+ <link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/FBGNezqw7A/A00HWbCivW/1274.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SPORT TV 4</link> 
  
 <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/deda/bSMr7vsV/433.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 4</link> 
 
@@ -3396,7 +3397,7 @@ plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/basit/basit
 
 <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/149.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport TV 5 HD</link> 
 
- <link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/basit/basit/1814.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 5</link> 
+ <link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/FBGNezqw7A/A00HWbCivW/1814.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 5</link> 
  
 plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/deda/bSMr7vsV/434.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV5 HD</link> 
 
@@ -3431,7 +3432,7 @@ plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/deda/bSMr7
 
  <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=BTV 1 HD</link>  
 
- <link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/basit/basit/1286.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica Tv 1</link> 
+ <link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/FBGNezqw7A/A00HWbCivW/1286.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica Tv 1</link> 
 
    <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=BTV 1 HD (LBR)</link> 
 
@@ -3461,7 +3462,7 @@ plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/deda/bSMr7
 
   <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/170216/170216/899.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica TV 2</link> 
 
-  <link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/basit/basit/1285.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica Tv 2</link> 
+  <link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/FBGNezqw7A/A00HWbCivW/1285.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica Tv 2</link> 
  
 <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/deda/bSMr7vsV/429.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica TV 2</link> 
 
