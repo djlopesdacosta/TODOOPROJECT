@@ -17,7 +17,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 01-07-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 16-07-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -45,152 +45,171 @@
          
           
      
-          <item> 
-            <title>NPO 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/842.ts&amp;streamtype=TSDOWNLOADER&amp;name=NPO 1</link> 
-        </item> 
-          <item> 
-            <title>NPO 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/843.ts&amp;streamtype=TSDOWNLOADER&amp;name=NPO 2</link> 
-        </item> 
-          <item> 
-            <title>NPO 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/844.ts&amp;streamtype=TSDOWNLOADER&amp;name=NPO 3</link> 
-        </item> 
-          <item> 
-            <title>NET5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/841.ts&amp;streamtype=TSDOWNLOADER&amp;name=NET5</link> 
-        </item> 
-          <item> 
-            <title>rtl5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/771.ts&amp;streamtype=TSDOWNLOADER&amp;name=rtl5</link> 
-        </item> 
-          <item> 
-            <title>rtl7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/772.ts&amp;streamtype=TSDOWNLOADER&amp;name=rtl7</link> 
-        </item> 
-          <item> 
-            <title>RTL8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/845.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL8</link> 
-        </item> 
-          <item> 
-            <title>SBS 9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1708.ts&amp;streamtype=TSDOWNLOADER&amp;name=SBS 9</link> 
-        </item> 
-          <item> 
-            <title>SBS 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1707.ts&amp;streamtype=TSDOWNLOADER&amp;name=SBS 6</link> 
-        </item> 
-          <item> 
-            <title>Ziggo Sport Select</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/998.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ziggo Sport Select</link> 
-        </item> 
-          <item> 
-            <title>Fox Sports Eredivisie 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports Eredivisie 1</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/999.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>FOX Sports 2 HD Int</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FOX Sports&amp;streamtype=TSDOWNLOADER&amp;name=FOX Sports 2 HD Int</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1000.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>FOX Sports EDL 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FOX Sports&amp;streamtype=TSDOWNLOADER&amp;name=FOX Sports EDL 3</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1249.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Fox Sports 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports 4 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1250.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Fox Sports 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports 5 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1251.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>FOX Sports 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FOX Sports&amp;streamtype=TSDOWNLOADER&amp;name=FOX Sports 6</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1252.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>HBO1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/774.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO1</link> 
-        </item> 
-          <item> 
-            <title>HBO2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/775.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO2</link> 
-        </item> 
-          <item> 
-            <title>HBO3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/776.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO3</link> 
-        </item> 
-          <item> 
-            <title>Film1 Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/777.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film1 Action</link> 
-        </item> 
-          <item> 
-            <title>Film1 Spotlght</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1248.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film1 Spotlght</link> 
-        </item> 
-          <item> 
-            <title>Film 1 Sundance</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1709.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film 1 Sundance</link> 
-        </item> 
-          <item> 
-            <title>Film1 Premiere HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/778.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film1 Premiere HD</link> 
-        </item> 
-          <item> 
-            <title>Film1 Comedy Kids</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/779.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film1 Comedy Kids</link> 
-        </item> 
-          <item> 
-            <title>Nat_Goe</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1710.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat_Goe</link> 
-        </item> 
-          <item> 
-            <title>Discovery Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/928.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Channel</link> 
-        </item> 
-          <item> 
-            <title>NiCKLodeoN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1741.ts&amp;streamtype=TSDOWNLOADER&amp;name=NiCKLodeoN</link> 
-        </item> 
-          <item> 
-            <title>Disney.Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1743.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney.Channel</link> 
-        </item> 
-          <item> 
-            <title>CarTooN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1742.ts&amp;streamtype=TSDOWNLOADER&amp;name=CarTooN</link> 
-        </item> 
-          <item> 
-            <title>MTV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adamo2/adamo2/1706.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV HD</link> 
-        </item> 
-  
-  
+  <item>
+<title>NL |    FOX LIFE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/781.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL |    FOX LIFE </link>
+</item>
+<item>
+<title>NL |    HBO 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/784.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL |    HBO 2 </link>
+</item>
+<item>
+<title>NL |    HBO 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/783.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL |    HBO 3 </link>
+</item>
+<item>
+<title>NL |   BOOMERANG</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/772.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL |   BOOMERANG </link>
+</item>
+<item>
+<title>NL |   FILM 1 SPOTLIGHT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/776.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL |   FILM 1 SPOTLIGHT </link>
+</item>
+<item>
+<title>NL |   FILM 1 SUNDANCE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/778.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL |   FILM 1 SUNDANCE </link>
+</item>
+<item>
+<title>NL |  FILM 1 ACTION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/779.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL |  FILM 1 ACTION </link>
+</item>
+<item>
+<title>NL | CARTOON NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/773.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | CARTOON NETWORK </link>
+</item>
+<item>
+<title>NL | COMEDY CENTRAL NEDERLAND</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/775.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | COMEDY CENTRAL NEDERLAND </link>
+</item>
+<item>
+<title>NL | DISNEY CHANNEL NEDERLAND</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/774.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | DISNEY CHANNEL NEDERLAND </link>
+</item>
+<item>
+<title>NL | EDGE SPORT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/764.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | EDGE SPORT </link>
+</item>
+<item>
+<title>NL | EXTREME SPORTS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/765.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | EXTREME SPORTS </link>
+</item>
+<item>
+<title>NL | FILM 1 COMEDY  KIDS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/777.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | FILM 1 COMEDY  KIDS </link>
+</item>
+<item>
+<title>NL | FILM 1 PREMIER HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/780.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | FILM 1 PREMIER HD </link>
+</item>
+<item>
+<title>NL | FOX CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/782.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | FOX CHANNEL </link>
+</item>
+<item>
+<title>NL | FOX SPORT 1 EREDIVISIE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/771.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | FOX SPORT 1 EREDIVISIE HD </link>
+</item>
+<item>
+<title>NL | FOX SPORTS 2 INTERNATIONAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/770.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | FOX SPORTS 2 INTERNATIONAL </link>
+</item>
+<item>
+<title>NL | FOX SPORTS 3 EREDIVISIE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/769.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | FOX SPORTS 3 EREDIVISIE </link>
+</item>
+<item>
+<title>NL | FOX SPORTS 4 INTERNATIONAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/768.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | FOX SPORTS 4 INTERNATIONAL </link>
+</item>
+<item>
+<title>NL | FOX SPORTS 5 EREDIVISIE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/767.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | FOX SPORTS 5 EREDIVISIE HD </link>
+</item>
+<item>
+<title>NL | FOX SPORTS 6 INTERNATIONAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/766.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | FOX SPORTS 6 INTERNATIONAL </link>
+</item>
+<item>
+<title>NL | ZIGGO SPORT VOETBAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/738.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | ZIGGO SPORT VOETBAL </link>
+</item>
+<item>
+<title>NL | ZIGGO SPORT SELECT HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/737.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | ZIGGO SPORT SELECT HD </link>
+</item>
+<item>
+<title>NL | ZIGGO SPORT RACING</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/734.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | ZIGGO SPORT RACING </link>
+</item>
+<item>
+<title>NL | ZIGGO SPORT GOLF</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/733.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | ZIGGO SPORT GOLF </link>
+</item>
+<item>
+<title>NL | ZIGGO SPORT EXTRA 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/735.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | ZIGGO SPORT EXTRA 2 </link>
+</item>
+<item>
+<title>NL | ZIGGO SPORT EXTRA 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/736.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | ZIGGO SPORT EXTRA 1 </link>
+</item>
+<item>
+<title>NL | HBO HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/785.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | HBO HD </link>
+</item>
+<item>
+<title>NL | MOTORS TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1852.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | MOTORS TV </link>
+</item>
+<item>
+<title>NL | NET 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/792.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | NET 5 HD </link>
+</item>
+<item>
+<title>NL | NPO 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/795.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | NPO 1 HD </link>
+</item>
+<item>
+<title>NL | NPO 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/794.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | NPO 2 HD </link>
+</item>
+<item>
+<title>NL | NPO 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/793.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | NPO 3 HD </link>
+</item>
+<item>
+<title>NL | RTL 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/791.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | RTL 4 HD </link>
+</item>
+<item>
+<title>NL | RTL 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/790.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | RTL 5 HD </link>
+</item>
+<item>
+<title>NL | RTL 7 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/789.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | RTL 7 HD </link>
+</item>
+<item>
+<title>NL | RTL 8 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/788.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | RTL 8 HD </link>
+</item>
+<item>
+<title>NL | SBS 6 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/787.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | SBS 6 HD </link>
+</item>
+<item>
+<title>NL | SBS 9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/786.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | SBS 9 </link>
+</item>
+<item>
+<title>NL | SPORT 1 RACING</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1851.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | SPORT 1 RACING </link>
+</item>
+<item>
+<title>NL | THE Q YOU</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1850.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL | THE Q YOU </link>
+</item>
+
   
   
 

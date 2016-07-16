@@ -25,7 +25,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 01-07-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 16-07-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
@@ -40,234 +40,347 @@
         
       
         
-          <item> 
-            <title>DE:WRD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2333.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:WRD</link> 
-        </item> 
-          <item> 
-            <title>DE:SRF1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2230.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SRF1</link> 
-        </item> 
-          <item> 
-            <title>DE:SRF2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2231.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SRF2</link> 
-        </item> 
-          <item> 
-            <title>DE:RTL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/377.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL</link> 
-        </item> 
-          <item> 
-            <title>DE:RTL2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2003.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL2</link> 
-        </item> 
-          <item> 
-            <title>DE:SUPER_RTL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2004.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SUPER_RTL</link> 
-        </item> 
-          <item> 
-            <title>DE:RTL_NETRO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2335.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL_NETRO</link> 
-        </item> 
-          <item> 
-            <title>DE:RTL_CRIM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2334.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL_CRIM</link> 
-        </item> 
-          <item> 
-            <title>DE:ORF1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2011.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ORF1</link> 
-        </item> 
-          <item> 
-            <title>DE:ORF2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/374.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ORF2</link> 
-        </item> 
-          <item> 
-            <title>DE:ORF3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2575.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ORF3</link> 
-        </item> 
-          <item> 
-            <title>DE:ZDF</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2743.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ZDF</link> 
-        </item> 
-          <item> 
-            <title>DE:ZDF_INFO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/372.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ZDF_INFO</link> 
-        </item> 
-          <item> 
-            <title>DE:ZDF_NEO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2737.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ZDF_NEO</link> 
-        </item> 
-          <item> 
-            <title>DE:SIXX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1500.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SIXX</link> 
-        </item> 
-          <item> 
-            <title>DE:VOX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2005.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:VOX</link> 
-        </item> 
-          <item> 
-            <title>DE:SAT1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2006.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SAT1</link> 
-        </item> 
-          <item> 
-            <title>DE:PRO7_MAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2331.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:PRO7_MAX</link> 
-        </item> 
-          <item> 
-            <title>DE:PRO7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1501.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:PRO7</link> 
-        </item> 
-          <item> 
-            <title>DE:DMAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2734.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:DMAX</link> 
-        </item> 
-          <item> 
-            <title>DE:NDR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1502.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:NDR</link> 
-        </item> 
-          <item> 
-            <title>DE:AUSTERIA_24TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1503.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:AUSTERIA_24TV</link> 
-        </item> 
-          <item> 
-            <title>DE:N-TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1504.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:N-TV</link> 
-        </item> 
-          <item> 
-            <title>DE:TNT_SERIE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/376.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:TNT_SERIE</link> 
-        </item> 
-          <item> 
-            <title>DE:TNT_FILM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2336.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:TNT_FILM</link> 
-        </item> 
-          <item> 
-            <title>DE:KABEL1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1506.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:KABEL1</link> 
-        </item> 
-          <item> 
-            <title>DE:ARTE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/1508.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ARTE</link> 
-        </item> 
-          <item> 
-            <title>DE:SKY_CINEMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/371.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_CINEMA</link> 
-        </item> 
-          <item> 
-            <title>DE:SKY_CINEMA_24HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/361.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_CINEMA_24HD</link> 
-        </item> 
-          <item> 
-            <title>DE:SKY_ACTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2736.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_ACTION</link> 
-        </item> 
-          <item> 
-            <title>DE:SKY_ATLANTIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/362.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_ATLANTIC</link> 
-        </item> 
-          <item> 
-            <title>DE:SKY_EMOTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/360.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_EMOTION</link> 
-        </item> 
-          <item> 
-            <title>DE:SKY_COMEDY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/370.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_COMEDY</link> 
-        </item> 
-          <item> 
-            <title>DE:Sky_KRIMI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/942.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_KRIMI</link> 
-        </item> 
-          <item> 
-            <title>DE:SKY_HITS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/369.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_HITS</link> 
-        </item> 
-          <item> 
-            <title>DE:SKY_MGM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2330.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_MGM</link> 
-        </item> 
-          <item> 
-            <title>DE:KIKA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/378.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:KIKA</link> 
-        </item> 
-          <item> 
-            <title>DE:DISNEY_XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2264.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:DISNEY_XD</link> 
-        </item> 
-          <item> 
-            <title>DE:DISNEY_CINEMAGIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2267.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:DISNEY_CINEMAGIC</link> 
-        </item> 
-          <item> 
-            <title>DE:DISNEY_CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2332.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:DISNEY_CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>DE:FOX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2276.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:FOX</link> 
-        </item> 
-          <item> 
-            <title>DE:13TH_STREETHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/946.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:13TH_STREETHD</link> 
-        </item> 
-          <item> 
-            <title>DE:SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/945.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SYFY</link> 
-        </item> 
-          <item> 
-            <title>DE:NATGEO_WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/943.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:NATGEO_WILD</link> 
-        </item> 
-          <item> 
-            <title>DE:HISTORYHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/944.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:HISTORYHD</link> 
-        </item> 
-          <item> 
-            <title>DE:NATGEO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/375.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:NATGEO</link> 
-        </item> 
-          <item> 
-            <title>DE:SKY_SELECT6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/363.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_SELECT6</link> 
-        </item> 
-          <item> 
-            <title>DE:SKY_SELECT5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/364.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_SELECT5</link> 
-        </item> 
-          <item> 
-            <title>DE:SKY_SELECT4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/365.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_SELECT4</link> 
-        </item> 
-          <item> 
-            <title>DE:SKY_SELECT3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/366.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_SELECT3</link> 
-        </item> 
-          <item> 
-            <title>DE:SKY_SELECT2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/367.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_SELECT2</link> 
-        </item> 
-          <item> 
-            <title>DE:SKY_SELECT1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/368.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_SELECT1</link> 
-        </item> 
-          <item> 
-            <title>DE:SPORT_DIGITAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/2338.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SPORT_DIGITAL</link> 
-        </item> 
-          <item> 
-            <title>DE:SKY_BUNDESLIGA_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/359.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_BUNDESLIGA_HD</link> 
-        </item> 
-          <item> 
-            <title>DE:SKY_SPORTS_HD1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/357.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_SPORTS_HD1</link> 
-        </item> 
-          <item> 
-            <title>DE:SKY_SPORTS_HD2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/swiptv46/1y99741/358.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY_SPORTS_HD2</link> 
-        </item> 
-  
-  
-  
-  
+       <item>
+<title>DE | SKY MGM HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1399.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY MGM HD </link>
+</item>
+<item>
+<title>DE | DMAX.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1431.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | DMAX. </link>
+</item>
+<item>
+<title>DE | ATV-A</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1430.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | ATV-A </link>
+</item>
+<item>
+<title>DE | Kika.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1429.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Kika. </link>
+</item>
+<item>
+<title>DE | PRO7_MAXX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1506.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | PRO7_MAXX </link>
+</item>
+<item>
+<title>DE | Pro7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1507.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Pro7 </link>
+</item>
+<item>
+<title>DE | SKY KRIMI HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1400.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY KRIMI HD </link>
+</item>
+<item>
+<title>DE | RTL_LIVING</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1508.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | RTL_LIVING </link>
+</item>
+<item>
+<title>DE | SkyHits</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1401.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SkyHits </link>
+</item>
+<item>
+<title>DE | NatGeo Wild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1411.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | NatGeo Wild </link>
+</item>
+<item>
+<title>DE | SKY CINEMA1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1406.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY CINEMA1 HD </link>
+</item>
+<item>
+<title>DE | SKY COMEDY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1407.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY COMEDY HD </link>
+</item>
+<item>
+<title>DE | SKY CINEMA HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1408.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY CINEMA HD </link>
+</item>
+<item>
+<title>DE | SkyAction</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1404.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SkyAction </link>
+</item>
+<item>
+<title>DE | SkyAtlantic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1403.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SkyAtlantic </link>
+</item>
+<item>
+<title>DE | SkyCinema24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1405.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SkyCinema24 </link>
+</item>
+<item>
+<title>DE | 13Street</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1402.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | 13Street </link>
+</item>
+<item>
+<title>DE | Sat1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1426.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Sat1 </link>
+</item>
+<item>
+<title>DE | EUROSPORT2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1413.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | EUROSPORT2 </link>
+</item>
+<item>
+<title>DE | EURO SPORT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1412.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | EURO SPORT </link>
+</item>
+<item>
+<title>DE | SKY SPORT1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1417.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY SPORT1 HD </link>
+</item>
+<item>
+<title>DE | ORF1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1421.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | ORF1 </link>
+</item>
+<item>
+<title>DE | VOX.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1423.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | VOX. </link>
+</item>
+<item>
+<title>DE | SKY BUNDESLIGA 1  HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1414.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 1  HD </link>
+</item>
+<item>
+<title>DE | SKY BUNDESLIGA  1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1416.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA  1 </link>
+</item>
+<item>
+<title>DE | SKY SPORT 2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1415.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY SPORT 2HD </link>
+</item>
+<item>
+<title>DE | SAT 1.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1418.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SAT 1. </link>
+</item>
+<item>
+<title>DE | PRO 7.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1428.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | PRO 7. </link>
+</item>
+<item>
+<title>DE | SuperRTL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1419.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SuperRTL </link>
+</item>
+<item>
+<title>DE | RTL.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1420.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | RTL. </link>
+</item>
+<item>
+<title>DE | ZDF.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1422.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | ZDF. </link>
+</item>
+<item>
+<title>DE | RTL II</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1427.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | RTL II </link>
+</item>
+<item>
+<title>DE | Prosieben</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1409.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Prosieben </link>
+</item>
+<item>
+<title>DE | SkyCinema</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1425.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SkyCinema </link>
+</item>
+<item>
+<title>DE |  SKY Comedy one</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1432.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE |  SKY Comedy one </link>
+</item>
+<item>
+<title>DE |  SKY CINEMA +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1410.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE |  SKY CINEMA +1 </link>
+</item>
+<item>
+<title>DE | RTL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1513.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | RTL HD </link>
+</item>
+<item>
+<title>DE | SKY EMOTION.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1473.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY EMOTION. </link>
+</item>
+<item>
+<title>DE | NDR HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1477.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | NDR HD </link>
+</item>
+<item>
+<title>DE | RTL_CRIME</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1509.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | RTL_CRIME </link>
+</item>
+<item>
+<title>DE  | Fox</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1522.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE  | Fox </link>
+</item>
+<item>
+<title>DE | AXN.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1523.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | AXN. </link>
+</item>
+<item>
+<title>DE  |  Sat  1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1510.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE  |  Sat  1 HD </link>
+</item>
+<item>
+<title>DE | Srf1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1472.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Srf1 </link>
+</item>
+<item>
+<title>DE | N TV.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1474.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | N TV. </link>
+</item>
+<item>
+<title>DE | ROMANCE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1475.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | ROMANCE </link>
+</item>
+<item>
+<title>DE | SkyNostalgie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1476.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SkyNostalgie </link>
+</item>
+<item>
+<title>DE | Eurosport HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1478.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Eurosport HD </link>
+</item>
+<item>
+<title>DE | SWRHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1479.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SWRHD </link>
+</item>
+<item>
+<title>DE | WDRHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1480.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | WDRHD </link>
+</item>
+<item>
+<title>DE  | SKY BUNDESLIGA 1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1481.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE  | SKY BUNDESLIGA 1HD </link>
+</item>
+<item>
+<title>DE |  VOX.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1514.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE |  VOX. </link>
+</item>
+<item>
+<title>DE | SKY SPORT NEWS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1482.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY SPORT NEWS HD </link>
+</item>
+<item>
+<title>DE | SKYSPORT AUSTRIA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1483.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKYSPORT AUSTRIA </link>
+</item>
+<item>
+<title>DE | SKY SPORT 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1484.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY SPORT 2 HD </link>
+</item>
+<item>
+<title>DE | SPORT1 US HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1485.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SPORT1 US HD </link>
+</item>
+<item>
+<title>DE | SPORT +1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1486.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SPORT +1 HD </link>
+</item>
+<item>
+<title>DE | SPORT 1  HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1487.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SPORT 1  HD </link>
+</item>
+<item>
+<title>DE | Sky Select 8HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1488.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Sky Select 8HD </link>
+</item>
+<item>
+<title>DE | Sky Select 7HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1489.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Sky Select 7HD </link>
+</item>
+<item>
+<title>DE | Sky Select 6 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1490.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Sky Select 6 HD </link>
+</item>
+<item>
+<title>DE | Sky Select 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1491.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Sky Select 5 HD </link>
+</item>
+<item>
+<title>DE |  ZDF.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1515.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE |  ZDF. </link>
+</item>
+<item>
+<title>DE | Sky Select 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1492.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Sky Select 4 HD </link>
+</item>
+<item>
+<title>DE | Sky Select 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1493.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Sky Select 3 HD </link>
+</item>
+<item>
+<title>DE | SKY SELECT 2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1494.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY SELECT 2HD </link>
+</item>
+<item>
+<title>DE | ORF2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1517.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | ORF2 </link>
+</item>
+<item>
+<title>DE  |  D  MAX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1518.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE  |  D  MAX </link>
+</item>
+<item>
+<title>DE | SKY SELECT 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1495.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY SELECT 1 </link>
+</item>
+<item>
+<title>DE | SKY DISCOVERY CHANNEL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1496.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY DISCOVERY CHANNEL HD </link>
+</item>
+<item>
+<title>DE | HISTORY CHANNEL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1497.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | HISTORY CHANNEL HD </link>
+</item>
+<item>
+<title>DE  | NATIONAL GEOGRAPHIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1498.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE  | NATIONAL GEOGRAPHIC </link>
+</item>
+<item>
+<title>DE | RTL2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1512.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | RTL2 HD </link>
+</item>
+<item>
+<title>DE  | TNT Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1520.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE  | TNT Comedy </link>
+</item>
+<item>
+<title>DE | NATGEOWILD HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1499.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | NATGEOWILD HD </link>
+</item>
+<item>
+<title>DE  |  ARD HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1500.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE  |  ARD HD </link>
+</item>
+<item>
+<title>DE | ARD TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1516.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | ARD TV </link>
+</item>
+<item>
+<title>DE | Disney_Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1501.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Disney_Junior </link>
+</item>
+<item>
+<title>DE | Disney_XD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1502.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Disney_XD </link>
+</item>
+<item>
+<title>DE | JUKE_BOX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1503.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | JUKE_BOX </link>
+</item>
+<item>
+<title>DE | NICK_JR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1504.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | NICK_JR </link>
+</item>
+<item>
+<title>DE  |  SYFY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1521.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE  |  SYFY </link>
+</item>
+<item>
+<title>DE | WDR.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1505.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | WDR. </link>
+</item>
+<item>
+<title>DE | RTL_NITRO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1511.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | RTL_NITRO </link>
+</item>
+<item>
+<title>DE | SIXX.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1519.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SIXX. </link>
+</item>
+
   
   
   

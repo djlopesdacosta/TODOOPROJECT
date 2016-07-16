@@ -17,7 +17,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 01-07-16 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 16-07-16 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -41,2042 +41,303 @@
   
        
         
-   
-          <item> 
-            <title>BBC One HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14943.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC One HD</link> 
-        </item> 
-          <item> 
-            <title>BBC One NI HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14992.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC One NI HD</link> 
-        </item> 
-          <item> 
-            <title>BBC One</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13576.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC One</link> 
-        </item> 
-          <item> 
-            <title>BBC Two HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14940.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC Two HD</link> 
-        </item> 
-          <item> 
-            <title>BBC Two</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13572.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC Two</link> 
-        </item> 
-          <item> 
-            <title>ITV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14952.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV HD</link> 
-        </item> 
-          <item> 
-            <title>ITV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13468.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV</link> 
-        </item> 
-          <item> 
-            <title>Channel 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13476.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 4</link> 
-        </item> 
-          <item> 
-            <title>* UK Channel 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15344.ts&amp;streamtype=TSDOWNLOADER&amp;name=* UK Channel 4 HD</link> 
-        </item> 
-          <item> 
-            <title>ITV HD Test</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15243.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV HD Test</link> 
-        </item> 
-          <item> 
-            <title>Channel 5HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14387.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 5HD</link> 
-        </item> 
-          <item> 
-            <title>Channel 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14369.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 5</link> 
-        </item> 
-          <item> 
-            <title>BBC RB 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15136.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC RB 1</link> 
-        </item> 
-          <item> 
-            <title>RTE One</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14386.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTE One</link> 
-        </item> 
-          <item> 
-            <title>RTE2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14375.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTE2</link> 
-        </item> 
-          <item> 
-            <title>UTV Ireland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14517.ts&amp;streamtype=TSDOWNLOADER&amp;name=UTV Ireland</link> 
-        </item> 
-          <item> 
-            <title>TV3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13505.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV3</link> 
-        </item> 
-          <item> 
-            <title>TG4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14426.ts&amp;streamtype=TSDOWNLOADER&amp;name=TG4</link> 
-        </item> 
-          <item> 
-            <title>RTE One+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14383.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTE One+1</link> 
-        </item> 
-          <item> 
-            <title>TV3+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14524.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV3+1</link> 
-        </item> 
-          <item> 
-            <title>London Live*</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/11735.ts&amp;streamtype=TSDOWNLOADER&amp;name=London Live*</link> 
-        </item> 
-          <item> 
-            <title>Sky1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13509.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky1</link> 
-        </item> 
-          <item> 
-            <title>Sky Living</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13502.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Living</link> 
-        </item> 
-          <item> 
-            <title>Sky Atlantic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13513.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Atlantic</link> 
-        </item> 
-          <item> 
-            <title>W</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14368.ts&amp;streamtype=TSDOWNLOADER&amp;name=W</link> 
-        </item> 
-          <item> 
-            <title>GOLD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14371.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOLD</link> 
-        </item> 
-          <item> 
-            <title>Dave</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14381.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dave</link> 
-        </item> 
-          <item> 
-            <title>ComedyCentral</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13493.ts&amp;streamtype=TSDOWNLOADER&amp;name=ComedyCentral</link> 
-        </item> 
-          <item> 
-            <title>Universal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13485.ts&amp;streamtype=TSDOWNLOADER&amp;name=Universal</link> 
-        </item> 
-          <item> 
-            <title>Syfy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13500.ts&amp;streamtype=TSDOWNLOADER&amp;name=Syfy</link> 
-        </item> 
-          <item> 
-            <title>ITV2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13495.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV2</link> 
-        </item> 
-          <item> 
-            <title>ITV4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13571.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV4</link> 
-        </item> 
-          <item> 
-            <title>Sky Arts</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Arts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Arts</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13557.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Sky Living+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13527.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Living+1</link> 
-        </item> 
-          <item> 
-            <title>ITV Encore</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14663.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV Encore</link> 
-        </item> 
-          <item> 
-            <title>FOX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13518.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX</link> 
-        </item> 
-          <item> 
-            <title>TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13574.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC</link> 
-        </item> 
-          <item> 
-            <title>MTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14423.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV</link> 
-        </item> 
-          <item> 
-            <title>ComedyCent+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13569.ts&amp;streamtype=TSDOWNLOADER&amp;name=ComedyCent+1</link> 
-        </item> 
-          <item> 
-            <title>ComedyXtra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13498.ts&amp;streamtype=TSDOWNLOADER&amp;name=ComedyXtra</link> 
-        </item> 
-          <item> 
-            <title>Sky2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13544.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky2</link> 
-        </item> 
-          <item> 
-            <title>Sky1+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13504.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky1+1</link> 
-        </item> 
-          <item> 
-            <title>ITV+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13578.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV+1</link> 
-        </item> 
-          <item> 
-            <title>alibi</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14373.ts&amp;streamtype=TSDOWNLOADER&amp;name=alibi</link> 
-        </item> 
-          <item> 
-            <title>Good Food</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14659.ts&amp;streamtype=TSDOWNLOADER&amp;name=Good Food</link> 
-        </item> 
-          <item> 
-            <title>S4C</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14433.ts&amp;streamtype=TSDOWNLOADER&amp;name=S4C</link> 
-        </item> 
-          <item> 
-            <title>S4C HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15244.ts&amp;streamtype=TSDOWNLOADER&amp;name=S4C HD</link> 
-        </item> 
-          <item> 
-            <title>Channel 4+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14401.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 4+1</link> 
-        </item> 
-          <item> 
-            <title>E4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14419.ts&amp;streamtype=TSDOWNLOADER&amp;name=E4</link> 
-        </item> 
-          <item> 
-            <title>E4+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14403.ts&amp;streamtype=TSDOWNLOADER&amp;name=E4+1</link> 
-        </item> 
-          <item> 
-            <title>More4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14404.ts&amp;streamtype=TSDOWNLOADER&amp;name=More4</link> 
-        </item> 
-          <item> 
-            <title>More4+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13484.ts&amp;streamtype=TSDOWNLOADER&amp;name=More4+1</link> 
-        </item> 
-          <item> 
-            <title>BBC Four</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13573.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC Four</link> 
-        </item> 
-          <item> 
-            <title>ITV2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14947.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV2 HD</link> 
-        </item> 
-          <item> 
-            <title>ITV4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14950.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV4 HD</link> 
-        </item> 
-          <item> 
-            <title>QUEST</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13563.ts&amp;streamtype=TSDOWNLOADER&amp;name=QUEST</link> 
-        </item> 
-          <item> 
-            <title>Challenge</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14497.ts&amp;streamtype=TSDOWNLOADER&amp;name=Challenge</link> 
-        </item> 
-          <item> 
-            <title>CBS Reality</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13517.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS Reality</link> 
-        </item> 
-          <item> 
-            <title>CBS Reality+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13528.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS Reality+1</link> 
-        </item> 
-          <item> 
-            <title>CBS Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13536.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS Action</link> 
-        </item> 
-          <item> 
-            <title>CBS Drama</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13525.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS Drama</link> 
-        </item> 
-          <item> 
-            <title>Universal+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13567.ts&amp;streamtype=TSDOWNLOADER&amp;name=Universal+1</link> 
-        </item> 
-          <item> 
-            <title>E!</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14436.ts&amp;streamtype=TSDOWNLOADER&amp;name=E!</link> 
-        </item> 
-          <item> 
-            <title>Pick</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13539.ts&amp;streamtype=TSDOWNLOADER&amp;name=Pick</link> 
-        </item> 
-          <item> 
-            <title>Pick+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14499.ts&amp;streamtype=TSDOWNLOADER&amp;name=Pick+1</link> 
-        </item> 
-          <item> 
-            <title>TLC+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14422.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC+1</link> 
-        </item> 
-          <item> 
-            <title>Really</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14652.ts&amp;streamtype=TSDOWNLOADER&amp;name=Really</link> 
-        </item> 
-          <item> 
-            <title>Lifetime</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14512.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lifetime</link> 
-        </item> 
-          <item> 
-            <title>Sony Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14498.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sony Channel</link> 
-        </item> 
-          <item> 
-            <title>Drama</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14657.ts&amp;streamtype=TSDOWNLOADER&amp;name=Drama</link> 
-        </item> 
-          <item> 
-            <title>ComedyXtra+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13490.ts&amp;streamtype=TSDOWNLOADER&amp;name=ComedyXtra+1</link> 
-        </item> 
-          <item> 
-            <title>Spike</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14376.ts&amp;streamtype=TSDOWNLOADER&amp;name=Spike</link> 
-        </item> 
-          <item> 
-            <title>Challenge+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14521.ts&amp;streamtype=TSDOWNLOADER&amp;name=Challenge+1</link> 
-        </item> 
-          <item> 
-            <title>Fox+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14525.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox+</link> 
-        </item> 
-          <item> 
-            <title>GOLD+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14374.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOLD+1</link> 
-        </item> 
-          <item> 
-            <title>DMAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14397.ts&amp;streamtype=TSDOWNLOADER&amp;name=DMAX</link> 
-        </item> 
-          <item> 
-            <title>Sky Atlantic+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13516.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Atlantic+1</link> 
-        </item> 
-          <item> 
-            <title>Real Lives</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14516.ts&amp;streamtype=TSDOWNLOADER&amp;name=Real Lives</link> 
-        </item> 
-          <item> 
-            <title>Real Lives+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14522.ts&amp;streamtype=TSDOWNLOADER&amp;name=Real Lives+1</link> 
-        </item> 
-          <item> 
-            <title>5 USA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14378.ts&amp;streamtype=TSDOWNLOADER&amp;name=5 USA</link> 
-        </item> 
-          <item> 
-            <title>Channel 5+24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14364.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 5+24</link> 
-        </item> 
-          <item> 
-            <title>5STAR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14385.ts&amp;streamtype=TSDOWNLOADER&amp;name=5STAR</link> 
-        </item> 
-          <item> 
-            <title>Channel 5+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14367.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 5+1</link> 
-        </item> 
-          <item> 
-            <title>ITVBe</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13470.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITVBe</link> 
-        </item> 
-          <item> 
-            <title>ITV2+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14650.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV2+1</link> 
-        </item> 
-          <item> 
-            <title>Sony Chnl+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14440.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sony Chnl+1</link> 
-        </item> 
-          <item> 
-            <title>True Drama</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13465.ts&amp;streamtype=TSDOWNLOADER&amp;name=True Drama</link> 
-        </item> 
-          <item> 
-            <title>True Entertainment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13579.ts&amp;streamtype=TSDOWNLOADER&amp;name=True Entertainment</link> 
-        </item> 
-          <item> 
-            <title>True Crime+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14443.ts&amp;streamtype=TSDOWNLOADER&amp;name=True Crime+1</link> 
-        </item> 
-          <item> 
-            <title>BET:BlackEntTv</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13497.ts&amp;streamtype=TSDOWNLOADER&amp;name=BET:BlackEntTv</link> 
-        </item> 
-          <item> 
-            <title>5STAR+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14429.ts&amp;streamtype=TSDOWNLOADER&amp;name=5STAR+1</link> 
-        </item> 
-          <item> 
-            <title>AMC From BT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14432.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC From BT</link> 
-        </item> 
-          <item> 
-            <title>Syfy+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13482.ts&amp;streamtype=TSDOWNLOADER&amp;name=Syfy+1</link> 
-        </item> 
-          <item> 
-            <title>QUEST+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14411.ts&amp;streamtype=TSDOWNLOADER&amp;name=QUEST+1</link> 
-        </item> 
-          <item> 
-            <title>Home</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14647.ts&amp;streamtype=TSDOWNLOADER&amp;name=Home</link> 
-        </item> 
-          <item> 
-            <title>tru TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14518.ts&amp;streamtype=TSDOWNLOADER&amp;name=tru TV</link> 
-        </item> 
-          <item> 
-            <title>TLC+2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14417.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC+2</link> 
-        </item> 
-          <item> 
-            <title>ITV4+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14495.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV4+1</link> 
-        </item> 
-          <item> 
-            <title>ITVBe+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14646.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITVBe+1</link> 
-        </item> 
-          <item> 
-            <title>W+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14366.ts&amp;streamtype=TSDOWNLOADER&amp;name=W+1</link> 
-        </item> 
-          <item> 
-            <title>Dave ja vu</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14379.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dave ja vu</link> 
-        </item> 
-          <item> 
-            <title>5 USA+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14430.ts&amp;streamtype=TSDOWNLOADER&amp;name=5 USA+1</link> 
-        </item> 
-          <item> 
-            <title>alibi+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14380.ts&amp;streamtype=TSDOWNLOADER&amp;name=alibi+1</link> 
-        </item> 
-          <item> 
-            <title>E!+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14439.ts&amp;streamtype=TSDOWNLOADER&amp;name=E!+1</link> 
-        </item> 
-          <item> 
-            <title>DMAX+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14406.ts&amp;streamtype=TSDOWNLOADER&amp;name=DMAX+1</link> 
-        </item> 
-          <item> 
-            <title>Home &amp; Health</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13564.ts&amp;streamtype=TSDOWNLOADER&amp;name=Home &amp; Health</link> 
-        </item> 
-          <item> 
-            <title>Home&amp;Health+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14400.ts&amp;streamtype=TSDOWNLOADER&amp;name=Home&amp;Health+</link> 
-        </item> 
-          <item> 
-            <title>Discovery Shed</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14388.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Shed</link> 
-        </item> 
-          <item> 
-            <title>Good Food+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14372.ts&amp;streamtype=TSDOWNLOADER&amp;name=Good Food+1</link> 
-        </item> 
-          <item> 
-            <title>Home+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14370.ts&amp;streamtype=TSDOWNLOADER&amp;name=Home+1</link> 
-        </item> 
-          <item> 
-            <title>Food Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14629.ts&amp;streamtype=TSDOWNLOADER&amp;name=Food Network</link> 
-        </item> 
-          <item> 
-            <title>Travel Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14508.ts&amp;streamtype=TSDOWNLOADER&amp;name=Travel Channel</link> 
-        </item> 
-          <item> 
-            <title>Food Netwrk+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14631.ts&amp;streamtype=TSDOWNLOADER&amp;name=Food Netwrk+1</link> 
-        </item> 
-          <item> 
-            <title>Travel Ch+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14648.ts&amp;streamtype=TSDOWNLOADER&amp;name=Travel Ch+1</link> 
-        </item> 
-          <item> 
-            <title>Horse &amp; Country</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14515.ts&amp;streamtype=TSDOWNLOADER&amp;name=Horse &amp; Country</link> 
-        </item> 
-          <item> 
-            <title>MTV+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14418.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV+1</link> 
-        </item> 
-          <item> 
-            <title>tru TV+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14630.ts&amp;streamtype=TSDOWNLOADER&amp;name=tru TV+1</link> 
-        </item> 
-          <item> 
-            <title>Sky Premiere</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13537.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Premiere</link> 
-        </item> 
-          <item> 
-            <title>Sky Prem+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13529.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Prem+1</link> 
-        </item> 
-          <item> 
-            <title>Sky Showcase</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13554.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Showcase</link> 
-        </item> 
-          <item> 
-            <title>Sky Greats</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Greats&amp;streamtype=TSDOWNLOADER&amp;name=Sky Greats</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13550.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Sky Disney</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13548.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Disney</link> 
-        </item> 
-          <item> 
-            <title>Sky Family</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13534.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Family</link> 
-        </item> 
-          <item> 
-            <title>Sky Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13549.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Action</link> 
-        </item> 
-          <item> 
-            <title>Sky Comedy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13545.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Comedy</link> 
-        </item> 
-          <item> 
-            <title>Sky Thriller</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13524.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Thriller</link> 
-        </item> 
-          <item> 
-            <title>Sky Drama &amp; Romance</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13533.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Drama &amp; Romance</link> 
-        </item> 
-          <item> 
-            <title>Sky ScFi/Horror</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13520.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky ScFi/Horror</link> 
-        </item> 
-          <item> 
-            <title>Sky Select</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13521.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select</link> 
-        </item> 
-          <item> 
-            <title>Film4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13475.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film4</link> 
-        </item> 
-          <item> 
-            <title>Film4+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13473.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film4+1</link> 
-        </item> 
-          <item> 
-            <title>TCM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13546.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM</link> 
-        </item> 
-          <item> 
-            <title>TCM+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14654.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM+1</link> 
-        </item> 
-          <item> 
-            <title>horror channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13523.ts&amp;streamtype=TSDOWNLOADER&amp;name=horror channel</link> 
-        </item> 
-          <item> 
-            <title>horror ch+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13540.ts&amp;streamtype=TSDOWNLOADER&amp;name=horror ch+1</link> 
-        </item> 
-          <item> 
-            <title>True Movies+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13584.ts&amp;streamtype=TSDOWNLOADER&amp;name=True Movies+1</link> 
-        </item> 
-          <item> 
-            <title>True Movies 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13582.ts&amp;streamtype=TSDOWNLOADER&amp;name=True Movies 2</link> 
-        </item> 
-          <item> 
-            <title>Sony Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14421.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sony Movies</link> 
-        </item> 
-          <item> 
-            <title>Sony Movies+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14393.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sony Movies+1</link> 
-        </item> 
-          <item> 
-            <title>movies4men</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14420.ts&amp;streamtype=TSDOWNLOADER&amp;name=movies4men</link> 
-        </item> 
-          <item> 
-            <title>mov4men+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14390.ts&amp;streamtype=TSDOWNLOADER&amp;name=mov4men+1</link> 
-        </item> 
-          <item> 
-            <title>Movies 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13478.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movies 24</link> 
-        </item> 
-          <item> 
-            <title>Movies 24+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14533.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movies 24+</link> 
-        </item> 
-          <item> 
-            <title>MTV Music</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13577.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV Music</link> 
-        </item> 
-          <item> 
-            <title>MTV Music+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14412.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV Music+1</link> 
-        </item> 
-          <item> 
-            <title>MTV BASE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14402.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV BASE</link> 
-        </item> 
-          <item> 
-            <title>MTV HITS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14391.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV HITS</link> 
-        </item> 
-          <item> 
-            <title>VIVA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14410.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIVA</link> 
-        </item> 
-          <item> 
-            <title>MTV DANCE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14396.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV DANCE</link> 
-        </item> 
-          <item> 
-            <title>MTV ROCKS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14395.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV ROCKS</link> 
-        </item> 
-          <item> 
-            <title>MTV CLASSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14407.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV CLASSIC</link> 
-        </item> 
-          <item> 
-            <title>MTV 90s</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14991.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV 90s</link> 
-        </item> 
-          <item> 
-            <title>VH1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14405.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1</link> 
-        </item> 
-          <item> 
-            <title>The Box</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14416.ts&amp;streamtype=TSDOWNLOADER&amp;name=The Box</link> 
-        </item> 
-          <item> 
-            <title>4Music</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14408.ts&amp;streamtype=TSDOWNLOADER&amp;name=4Music</link> 
-        </item> 
-          <item> 
-            <title>KISS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14399.ts&amp;streamtype=TSDOWNLOADER&amp;name=KISS</link> 
-        </item> 
-          <item> 
-            <title>Smash Hits!</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Smash Hits&amp;streamtype=TSDOWNLOADER&amp;name=Smash Hits!</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14414.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Chart Show TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13466.ts&amp;streamtype=TSDOWNLOADER&amp;name=Chart Show TV</link> 
-        </item> 
-          <item> 
-            <title>The Vault</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13588.ts&amp;streamtype=TSDOWNLOADER&amp;name=The Vault</link> 
-        </item> 
-          <item> 
-            <title>Scuzz</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13586.ts&amp;streamtype=TSDOWNLOADER&amp;name=Scuzz</link> 
-        </item> 
-          <item> 
-            <title>Kerrang!</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14415.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kerrang!</link> 
-        </item> 
-          <item> 
-            <title>Vintage TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14651.ts&amp;streamtype=TSDOWNLOADER&amp;name=Vintage TV</link> 
-        </item> 
-          <item> 
-            <title>Starz TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13591.ts&amp;streamtype=TSDOWNLOADER&amp;name=Starz TV</link> 
-        </item> 
-          <item> 
-            <title>Chartshw Dnce</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Charts&amp;streamtype=TSDOWNLOADER&amp;name=Chartshw Dnce</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13593.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Flava</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13585.ts&amp;streamtype=TSDOWNLOADER&amp;name=Flava</link> 
-        </item> 
-          <item> 
-            <title>Channel AKA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14661.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel AKA</link> 
-        </item> 
-          <item> 
-            <title>Sky News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14514.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky News</link> 
-        </item> 
-          <item> 
-            <title>Bloomberg</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14627.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bloomberg</link> 
-        </item> 
-          <item> 
-            <title>CNN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13558.ts&amp;streamtype=TSDOWNLOADER&amp;name=CNN</link> 
-        </item> 
-          <item> 
-            <title>EURONEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/4547.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURONEWS</link> 
-        </item> 
-          <item> 
-            <title>FOX News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14504.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX News</link> 
-        </item> 
-          <item> 
-            <title>RTE News Now</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/4546.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTE News Now</link> 
-        </item> 
-          <item> 
-            <title>RT. News Now</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14428.ts&amp;streamtype=TSDOWNLOADER&amp;name=RT. News Now</link> 
-        </item> 
-          <item> 
-            <title>SkyNws Arabia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14384.ts&amp;streamtype=TSDOWNLOADER&amp;name=SkyNws Arabia</link> 
-        </item> 
-          <item> 
-            <title>Newstalk</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14394.ts&amp;streamtype=TSDOWNLOADER&amp;name=Newstalk</link> 
-        </item> 
-          <item> 
-            <title>Discovery</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13488.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery</link> 
-        </item> 
-          <item> 
-            <title>Discovery+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13575.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery+1</link> 
-        </item> 
-          <item> 
-            <title>ID</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13565.ts&amp;streamtype=TSDOWNLOADER&amp;name=ID</link> 
-        </item> 
-          <item> 
-            <title>Animal Planet</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13496.ts&amp;streamtype=TSDOWNLOADER&amp;name=Animal Planet</link> 
-        </item> 
-          <item> 
-            <title>Discovery Turbo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13566.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Turbo</link> 
-        </item> 
-          <item> 
-            <title>Discovery Science</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13481.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Science</link> 
-        </item> 
-          <item> 
-            <title>Nat Geo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14506.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo</link> 
-        </item> 
-          <item> 
-            <title>Nat Geo+1hr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14509.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo+1hr</link> 
-        </item> 
-          <item> 
-            <title>Nat Geo Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14507.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo Wild</link> 
-        </item> 
-          <item> 
-            <title>History</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14510.ts&amp;streamtype=TSDOWNLOADER&amp;name=History</link> 
-        </item> 
-          <item> 
-            <title>History+1 hour</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14500.ts&amp;streamtype=TSDOWNLOADER&amp;name=History+1 hour</link> 
-        </item> 
-          <item> 
-            <title>H2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14501.ts&amp;streamtype=TSDOWNLOADER&amp;name=H2</link> 
-        </item> 
-          <item> 
-            <title>Eden</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14655.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eden</link> 
-        </item> 
-          <item> 
-            <title>Eden+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14365.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eden+1</link> 
-        </item> 
-          <item> 
-            <title>PBS America</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14626.ts&amp;streamtype=TSDOWNLOADER&amp;name=PBS America</link> 
-        </item> 
-          <item> 
-            <title>Discovery History</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13568.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery History</link> 
-        </item> 
-          <item> 
-            <title>Disc.History+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14392.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disc.History+1</link> 
-        </item> 
-          <item> 
-            <title>YESTERDAY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14662.ts&amp;streamtype=TSDOWNLOADER&amp;name=YESTERDAY</link> 
-        </item> 
-          <item> 
-            <title>YESTERDAY+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14382.ts&amp;streamtype=TSDOWNLOADER&amp;name=YESTERDAY+1</link> 
-        </item> 
-          <item> 
-            <title>Community</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14496.ts&amp;streamtype=TSDOWNLOADER&amp;name=Community</link> 
-        </item> 
-          <item> 
-            <title>Animal Plnt+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14398.ts&amp;streamtype=TSDOWNLOADER&amp;name=Animal Plnt+1</link> 
-        </item> 
-          <item> 
-            <title>ID+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14431.ts&amp;streamtype=TSDOWNLOADER&amp;name=ID+1</link> 
-        </item> 
-          <item> 
-            <title>Crime+Inv</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14503.ts&amp;streamtype=TSDOWNLOADER&amp;name=Crime+Inv</link> 
-        </item> 
-          <item> 
-            <title>Crime+Inv +1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14632.ts&amp;streamtype=TSDOWNLOADER&amp;name=Crime+Inv +1</link> 
-        </item> 
-          <item> 
-            <title>Disc.Sci+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14413.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disc.Sci+1</link> 
-        </item> 
-          <item> 
-            <title>Cartoon Netwrk</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13559.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon Netwrk</link> 
-        </item> 
-          <item> 
-            <title>CN+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13553.ts&amp;streamtype=TSDOWNLOADER&amp;name=CN+1</link> 
-        </item> 
-          <item> 
-            <title>Boomerang</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13562.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boomerang</link> 
-        </item> 
-          <item> 
-            <title>Nickelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13471.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon</link> 
-        </item> 
-          <item> 
-            <title>Nickelodeon+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14377.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon+1</link> 
-        </item> 
-          <item> 
-            <title>Nicktoons</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13492.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nicktoons</link> 
-        </item> 
-          <item> 
-            <title>Disney XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13543.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD</link> 
-        </item> 
-          <item> 
-            <title>Disney XD+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13535.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD+1</link> 
-        </item> 
-          <item> 
-            <title>Disney Chnl</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13515.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Chnl</link> 
-        </item> 
-          <item> 
-            <title>Disney Chnl+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13519.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Chnl+1</link> 
-        </item> 
-          <item> 
-            <title>Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13526.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior</link> 
-        </item> 
-          <item> 
-            <title>CBBC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14944.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBBC HD</link> 
-        </item> 
-          <item> 
-            <title>Nick Jr.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13499.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Jr.</link> 
-        </item> 
-          <item> 
-            <title>RT.jr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14628.ts&amp;streamtype=TSDOWNLOADER&amp;name=RT.jr</link> 
-        </item> 
-          <item> 
-            <title>POP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13594.ts&amp;streamtype=TSDOWNLOADER&amp;name=POP</link> 
-        </item> 
-          <item> 
-            <title>Tiny Pop</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13580.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tiny Pop</link> 
-        </item> 
-          <item> 
-            <title>Boomerang+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13552.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boomerang+1</link> 
-        </item> 
-          <item> 
-            <title>Cartoonito</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13511.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoonito</link> 
-        </item> 
-          <item> 
-            <title>Nick Jr Too</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13489.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Jr Too</link> 
-        </item> 
-          <item> 
-            <title>CITV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13483.ts&amp;streamtype=TSDOWNLOADER&amp;name=CITV</link> 
-        </item> 
-          <item> 
-            <title>BabyTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14427.ts&amp;streamtype=TSDOWNLOADER&amp;name=BabyTV</link> 
-        </item> 
-          <item> 
-            <title>CBeebies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13494.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBeebies</link> 
-        </item> 
-          <item> 
-            <title>Tiny Pop+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13464.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tiny Pop+1</link> 
-        </item> 
-          <item> 
-            <title>POP+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13589.ts&amp;streamtype=TSDOWNLOADER&amp;name=POP+1</link> 
-        </item> 
-          <item> 
-            <title>Kix</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13583.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kix</link> 
-        </item> 
-          <item> 
-            <title>Kix+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13587.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kix+1</link> 
-        </item> 
-          <item> 
-            <title>Nick Jr+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13480.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Jr+1</link> 
-        </item> 
-          <item> 
-            <title>Forces TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14505.ts&amp;streamtype=TSDOWNLOADER&amp;name=Forces TV</link> 
-        </item> 
-          <item> 
-            <title>C4 l</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13467.ts&amp;streamtype=TSDOWNLOADER&amp;name=C4 l</link> 
-        </item> 
-          <item> 
-            <title>Ideal World</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13491.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ideal World</link> 
-        </item> 
-          <item> 
-            <title>Ideal Extra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13486.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ideal Extra</link> 
-        </item> 
-          <item> 
-            <title>ETV1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13479.ts&amp;streamtype=TSDOWNLOADER&amp;name=ETV1</link> 
-        </item> 
-          <item> 
-            <title>Create &amp; Craft</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13487.ts&amp;streamtype=TSDOWNLOADER&amp;name=Create &amp; Craft</link> 
-        </item> 
-          <item> 
-            <title>Craft Extra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13501.ts&amp;streamtype=TSDOWNLOADER&amp;name=Craft Extra</link> 
-        </item> 
-          <item> 
-            <title>CHSTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13508.ts&amp;streamtype=TSDOWNLOADER&amp;name=CHSTV</link> 
-        </item> 
-          <item> 
-            <title>GEO TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14502.ts&amp;streamtype=TSDOWNLOADER&amp;name=GEO TV</link> 
-        </item> 
-          <item> 
-            <title>Star Life OK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14653.ts&amp;streamtype=TSDOWNLOADER&amp;name=Star Life OK</link> 
-        </item> 
-          <item> 
-            <title>Star Jalsha</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14656.ts&amp;streamtype=TSDOWNLOADER&amp;name=Star Jalsha</link> 
-        </item> 
-          <item> 
-            <title>Star GOLD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14649.ts&amp;streamtype=TSDOWNLOADER&amp;name=Star GOLD</link> 
-        </item> 
-          <item> 
-            <title>Al Jazeera Eng</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13551.ts&amp;streamtype=TSDOWNLOADER&amp;name=Al Jazeera Eng</link> 
-        </item> 
-          <item> 
-            <title>Conscious TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14968.ts&amp;streamtype=TSDOWNLOADER&amp;name=Conscious TV</link> 
-        </item> 
-          <item> 
-            <title>ShowBiz TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14963.ts&amp;streamtype=TSDOWNLOADER&amp;name=ShowBiz TV</link> 
-        </item> 
-          <item> 
-            <title>Made In Cardiff</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14962.ts&amp;streamtype=TSDOWNLOADER&amp;name=Made In Cardiff</link> 
-        </item> 
-          <item> 
-            <title>LOVEWORLD TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14964.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOVEWORLD TV</link> 
-        </item> 
-          <item> 
-            <title>Inspiration</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14969.ts&amp;streamtype=TSDOWNLOADER&amp;name=Inspiration</link> 
-        </item> 
-          <item> 
-            <title>TV5 MONDE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14977.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV5 MONDE</link> 
-        </item> 
-          <item> 
-            <title>FRANCE Eng</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14990.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE Eng</link> 
-        </item> 
-          <item> 
-            <title>Dunya News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14981.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dunya News</link> 
-        </item> 
-          <item> 
-            <title>Hillsong</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14958.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hillsong</link> 
-        </item> 
-          <item> 
-            <title>Psychic TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14955.ts&amp;streamtype=TSDOWNLOADER&amp;name=Psychic TV</link> 
-        </item> 
-          <item> 
-            <title>*** World Sports ***</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,*** World Sports&amp;streamtype=TSDOWNLOADER&amp;name=*** World Sports ***</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/8488.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Sky Sports 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 1</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13555.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Sky Sports 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 2</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13560.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Sky Sports 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 3</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13561.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Sky Sports 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 4</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13538.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Sky Sports 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 5</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13514.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Sky Sports F1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports F1</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13507.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Sky Sp NewsHQ</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13530.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sp NewsHQ</link> 
-        </item> 
-          <item> 
-            <title>* Sky Sports 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,* Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=* Sky Sports 1 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15345.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>* Sky Sports 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,* Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=* Sky Sports 2 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15346.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>* Sky Sports 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,* Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=* Sky Sports 3 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15347.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>* Sky Sports 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,* Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=* Sky Sports 4 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15348.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>* Sky Sports 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,* Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=* Sky Sports 5 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15349.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>* Sky Spts F1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,* Sky Spts&amp;streamtype=TSDOWNLOADER&amp;name=* Sky Spts F1 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15350.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>SkySpBoxOff (PPV Events Only)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,SkySpBoxOff (PPV Events&amp;streamtype=TSDOWNLOADER&amp;name=SkySpBoxOff (PPV Events Only)</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/8978.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>BT Sport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13532.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport 1</link> 
-        </item> 
-          <item> 
-            <title>BT Sport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13510.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport 2</link> 
-        </item> 
-          <item> 
-            <title>BT Sport Europe</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13542.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport Europe</link> 
-        </item> 
-          <item> 
-            <title>BT Sport//ESPN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13512.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport//ESPN</link> 
-        </item> 
-          <item> 
-            <title>* BT Sport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15351.ts&amp;streamtype=TSDOWNLOADER&amp;name=* BT Sport 1 HD</link> 
-        </item> 
-          <item> 
-            <title>* BT Sport 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15352.ts&amp;streamtype=TSDOWNLOADER&amp;name=* BT Sport 2 HD</link> 
-        </item> 
-          <item> 
-            <title>* BT Sports Espn HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,* BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=* BT Sports Espn HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15354.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>* UK BT Sports Europe HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,* UK BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=* UK BT Sports Europe HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15353.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>BT Sport Extra 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13556.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport Extra 1</link> 
-        </item> 
-          <item> 
-            <title>BT Sport Extra 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14437.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport Extra 2</link> 
-        </item> 
-          <item> 
-            <title>BT Sport Extra 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14529.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport Extra 3</link> 
-        </item> 
-          <item> 
-            <title>BT Sport Extra 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14434.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport Extra 4</link> 
-        </item> 
-          <item> 
-            <title>BT Sport Extra 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14435.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport Extra 5</link> 
-        </item> 
-          <item> 
-            <title>BT Sport Extra 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14442.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport Extra 6</link> 
-        </item> 
-          <item> 
-            <title>BT Sport Mosaic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13503.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport Mosaic</link> 
-        </item> 
-          <item> 
-            <title>BT Sport Mosaic 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14438.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport Mosaic 2</link> 
-        </item> 
-          <item> 
-            <title>MUTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14519.ts&amp;streamtype=TSDOWNLOADER&amp;name=MUTV</link> 
-        </item> 
-          <item> 
-            <title>LFCTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14513.ts&amp;streamtype=TSDOWNLOADER&amp;name=LFCTV</link> 
-        </item> 
-          <item> 
-            <title>Chelsea TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14523.ts&amp;streamtype=TSDOWNLOADER&amp;name=Chelsea TV</link> 
-        </item> 
-          <item> 
-            <title>BoxNation</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14520.ts&amp;streamtype=TSDOWNLOADER&amp;name=BoxNation</link> 
-        </item> 
-          <item> 
-            <title>Eurosport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13547.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1</link> 
-        </item> 
-          <item> 
-            <title>Eurosport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13522.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 2</link> 
-        </item> 
-          <item> 
-            <title>At The Races</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13541.ts&amp;streamtype=TSDOWNLOADER&amp;name=At The Races</link> 
-        </item> 
-          <item> 
-            <title>Racing UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14409.ts&amp;streamtype=TSDOWNLOADER&amp;name=Racing UK</link> 
-        </item> 
-          <item> 
-            <title>Premier Sports</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Premier Sports&amp;streamtype=TSDOWNLOADER&amp;name=Premier Sports</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14424.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Setanta Ireland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14389.ts&amp;streamtype=TSDOWNLOADER&amp;name=Setanta Ireland</link> 
-        </item> 
-          <item> 
-            <title>Setanta Sports1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Setanta Sports&amp;streamtype=TSDOWNLOADER&amp;name=Setanta Sports1</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/14425.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Bike</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13570.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bike</link> 
-        </item> 
-          <item> 
-            <title>MOTORS TV UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/13506.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORS TV UK</link> 
-        </item> 
-          <item> 
-            <title>UK: Mio Sports 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Mio Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Mio Sports 1</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15334.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Mio Sports 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Mio Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Mio Sports 2</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15335.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Mio Sports 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Mio Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Mio Sports 3</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15336.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Mio Sports 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Mio Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Mio Sports 4</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15337.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Mio Sports 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Mio Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Mio Sports 5</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15338.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Mio Sports 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Mio Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Mio Sports 6</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15339.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Mio Sports 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Mio Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Mio Sports 7</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15340.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Mio Sports 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Mio Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Mio Sports 8</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15341.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Eleven Sports</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Eleven Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Eleven Sports</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15342.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Eleven Euro</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15343.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Eleven Euro</link> 
-        </item> 
-          <item> 
-            <title>MIO Football Fever</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15160.ts&amp;streamtype=TSDOWNLOADER&amp;name=MIO Football Fever</link> 
-        </item> 
-          <item> 
-            <title>MIO Eleven Sports</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,MIO Eleven Sports&amp;streamtype=TSDOWNLOADER&amp;name=MIO Eleven Sports</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15159.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>MIO Eleven</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15158.ts&amp;streamtype=TSDOWNLOADER&amp;name=MIO Eleven</link> 
-        </item> 
-          <item> 
-            <title>* THL | CTH Stadium 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15426.ts&amp;streamtype=TSDOWNLOADER&amp;name=* THL | CTH Stadium 1 HD</link> 
-        </item> 
-          <item> 
-            <title>* THL | CTH Stadium 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15425.ts&amp;streamtype=TSDOWNLOADER&amp;name=* THL | CTH Stadium 2 HD</link> 
-        </item> 
-          <item> 
-            <title>* THL | CTH Stadium 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15424.ts&amp;streamtype=TSDOWNLOADER&amp;name=* THL | CTH Stadium 3 HD</link> 
-        </item> 
-          <item> 
-            <title>* THL | CTH Stadium 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15423.ts&amp;streamtype=TSDOWNLOADER&amp;name=* THL | CTH Stadium 4 HD</link> 
-        </item> 
-          <item> 
-            <title>* THL | CTH Stadium 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15422.ts&amp;streamtype=TSDOWNLOADER&amp;name=* THL | CTH Stadium 5 HD</link> 
-        </item> 
-          <item> 
-            <title>* THL | CTH Stadium 6 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15421.ts&amp;streamtype=TSDOWNLOADER&amp;name=* THL | CTH Stadium 6 HD</link> 
-        </item> 
-          <item> 
-            <title>* THL | CTH Stadium X HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15420.ts&amp;streamtype=TSDOWNLOADER&amp;name=* THL | CTH Stadium X HD</link> 
-        </item> 
-          <item> 
-            <title>Fox Sports 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports 1 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15139.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>MLS Soccer</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/11237.ts&amp;streamtype=TSDOWNLOADER&amp;name=MLS Soccer</link> 
-        </item> 
-          <item> 
-            <title>Rangers TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/9069.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rangers TV</link> 
-        </item> 
-          <item> 
-            <title>Sport TV 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/9090.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport TV 1</link> 
-        </item> 
-          <item> 
-            <title>Sport TV 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/9091.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport TV 2</link> 
-        </item> 
-          <item> 
-            <title>Sport TV 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/9092.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport TV 3</link> 
-        </item> 
-          <item> 
-            <title>Sport TV 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/9093.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport TV 4</link> 
-        </item> 
-          <item> 
-            <title>Sport TV 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/9094.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport TV 5</link> 
-        </item> 
-          <item> 
-            <title>Sport Klub 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/9087.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport Klub 1</link> 
-        </item> 
-          <item> 
-            <title>Sport Klub 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/9088.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport Klub 2</link> 
-        </item> 
-          <item> 
-            <title>Sport Klub 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/9089.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport Klub 3</link> 
-        </item> 
-          <item> 
-            <title>CTH Stadium 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15028.ts&amp;streamtype=TSDOWNLOADER&amp;name=CTH Stadium 1 HD</link> 
-        </item> 
-          <item> 
-            <title>CTH Stadium 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/9776.ts&amp;streamtype=TSDOWNLOADER&amp;name=CTH Stadium 2 HD</link> 
-        </item> 
-          <item> 
-            <title>CTH Stadium 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/9771.ts&amp;streamtype=TSDOWNLOADER&amp;name=CTH Stadium 3 HD</link> 
-        </item> 
-          <item> 
-            <title>CTH Stadium 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/9772.ts&amp;streamtype=TSDOWNLOADER&amp;name=CTH Stadium 4 HD</link> 
-        </item> 
-          <item> 
-            <title>CTH Stadium 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/9773.ts&amp;streamtype=TSDOWNLOADER&amp;name=CTH Stadium 5 HD</link> 
-        </item> 
-          <item> 
-            <title>CTH Stadium 6 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/9774.ts&amp;streamtype=TSDOWNLOADER&amp;name=CTH Stadium 6 HD</link> 
-        </item> 
-          <item> 
-            <title>CTH Stadium X HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/9769.ts&amp;streamtype=TSDOWNLOADER&amp;name=CTH Stadium X HD</link> 
-        </item> 
-          <item> 
-            <title>BEIN SPORTS 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/8452.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS 1</link> 
-        </item> 
-          <item> 
-            <title>BEIN SPORTS 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/8454.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS 3</link> 
-        </item> 
-          <item> 
-            <title>BEIN SPORTS 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/8455.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS 4</link> 
-        </item> 
-          <item> 
-            <title>BEIN SPORTS 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/8456.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS 5</link> 
-        </item> 
-          <item> 
-            <title>BEIN SPORTS 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/8457.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS 6</link> 
-        </item> 
-          <item> 
-            <title>BEIN SPORTS 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/8459.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS 8</link> 
-        </item> 
-          <item> 
-            <title>BEIN SPORTS 9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/8460.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS 9</link> 
-        </item> 
-          <item> 
-            <title>BEIN SPORTS 10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/8461.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS 10</link> 
-        </item> 
-          <item> 
-            <title>SuperSport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/8462.ts&amp;streamtype=TSDOWNLOADER&amp;name=SuperSport 1</link> 
-        </item> 
-          <item> 
-            <title>SuperSport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/8463.ts&amp;streamtype=TSDOWNLOADER&amp;name=SuperSport 2</link> 
-        </item> 
-          <item> 
-            <title>SuperSport 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/8465.ts&amp;streamtype=TSDOWNLOADER&amp;name=SuperSport 4</link> 
-        </item> 
-          <item> 
-            <title>Arena sport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/8467.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arena sport 1</link> 
-        </item> 
-          <item> 
-            <title>Arena Sport 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/8471.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arena Sport 5</link> 
-        </item> 
-          <item> 
-            <title>* USA: Tsn-Sport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15360.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA: Tsn-Sport 1 HD</link> 
-        </item> 
-          <item> 
-            <title>* USA: Tsn-Sport 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15359.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA: Tsn-Sport 2 HD</link> 
-        </item> 
-          <item> 
-            <title>* USA: Tsn-Sport 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15358.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA: Tsn-Sport 3 HD</link> 
-        </item> 
-          <item> 
-            <title>* USA: Tsn-Sport 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15357.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA: Tsn-Sport 4 HD</link> 
-        </item> 
-          <item> 
-            <title>* USA: Tsn-Sport 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15356.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA: Tsn-Sport 5 HD</link> 
-        </item> 
-          <item> 
-            <title>* USA:CA | Sportsnet One HD*</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,* USA:CA | Sports&amp;streamtype=TSDOWNLOADER&amp;name=* USA:CA | Sportsnet One HD*</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15368.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>* USA: Fox Sport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15361.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA: Fox Sport 1 HD</link> 
-        </item> 
-          <item> 
-            <title>* USA: Fox Sport 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15362.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA: Fox Sport 2 HD</link> 
-        </item> 
-          <item> 
-            <title>* USA: ESPN 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15363.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA: ESPN 2</link> 
-        </item> 
-          <item> 
-            <title>*** USA Channels ***</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/8487.ts&amp;streamtype=TSDOWNLOADER&amp;name=*** USA Channels ***</link> 
-        </item> 
-          <item> 
-            <title>* USA: WEATHER NATION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15409.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA: WEATHER NATION</link> 
-        </item> 
-          <item> 
-            <title>* USA: US TBS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15401.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA: US TBS HD</link> 
-        </item> 
-          <item> 
-            <title>* AMC (US)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15400.ts&amp;streamtype=TSDOWNLOADER&amp;name=* AMC (US)</link> 
-        </item> 
-          <item> 
-            <title>* USA: TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15402.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA: TLC</link> 
-        </item> 
-          <item> 
-            <title>* USA: TBS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15410.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA: TBS HD</link> 
-        </item> 
-          <item> 
-            <title>* USA: Showtime HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15411.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA: Showtime HD</link> 
-        </item> 
-          <item> 
-            <title>* USA: OWN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15412.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA: OWN</link> 
-        </item> 
-          <item> 
-            <title>* USA: Nasa TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15403.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA: Nasa TV HD</link> 
-        </item> 
-          <item> 
-            <title>* USA: HIFI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15413.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA: HIFI</link> 
-        </item> 
-          <item> 
-            <title>* USA: HBO Signature HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15404.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA: HBO Signature HD</link> 
-        </item> 
-          <item> 
-            <title>* USA: HBO Plus</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15414.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA: HBO Plus</link> 
-        </item> 
-          <item> 
-            <title>* USA: HBO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15405.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA: HBO HD</link> 
-        </item> 
-          <item> 
-            <title>* USA: HBO FAMILY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15406.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA: HBO FAMILY</link> 
-        </item> 
-          <item> 
-            <title>* USA: Global HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15415.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA: Global HD</link> 
-        </item> 
-          <item> 
-            <title>* USA: FX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15407.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA: FX</link> 
-        </item> 
-          <item> 
-            <title>* USA: E! Entertainment U.S.A.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15416.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA: E! Entertainment U.S.A.</link> 
-        </item> 
-          <item> 
-            <title>* USA: DTX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15417.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA: DTX HD</link> 
-        </item> 
-          <item> 
-            <title>* USA: CBSN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15418.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA: CBSN HD</link> 
-        </item> 
-          <item> 
-            <title>* USA: BYU Sports TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,* USA: BYU Sports&amp;streamtype=TSDOWNLOADER&amp;name=* USA: BYU Sports TV HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15367.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>* USA: Bein Sports HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,* USA: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=* USA: Bein Sports HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15364.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>* USA: Abc  News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15419.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA: Abc  News</link> 
-        </item> 
-          <item> 
-            <title>* USA WWE Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15365.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA WWE Network</link> 
-        </item> 
-          <item> 
-            <title>* USA USA HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15370.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA USA HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA TNT HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15371.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA TNT HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA TBS HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15372.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA TBS HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA SYFY HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15373.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA SYFY HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA SPIKE HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15374.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA SPIKE HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA PBS HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15375.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA PBS HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA NICKELODEN HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15376.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA NICKELODEN HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA Network (US)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15398.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA Network (US)</link> 
-        </item> 
-          <item> 
-            <title>* USA NBC HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15377.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA NBC HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA NAT GEO HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15378.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA NAT GEO HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA MY9 HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15379.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA MY9 HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA LIFETIME HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15380.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA LIFETIME HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA HISTORY HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15381.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA HISTORY HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA FX HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15382.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA FX HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA FOXX HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15383.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA FOXX HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA FOX NEWS HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15384.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA FOX NEWS HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA ESPN HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15385.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA ESPN HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA DISCCOVERY HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15386.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA DISCCOVERY HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA CW HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15387.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA CW HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA COMEDY CENTRAL HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15388.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA COMEDY CENTRAL HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA CNN HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15389.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA CNN HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA CNBC HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15390.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA CNBC HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA CBS HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15391.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA CBS HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA CARTOON NETWORK HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15392.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA CARTOON NETWORK HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA BRAVO HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15393.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA BRAVO HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA ANIMAL PLANET HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15394.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA ANIMAL PLANET HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA AMC HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15395.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA AMC HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA AETV HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15396.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA AETV HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA ABC NEWS HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15397.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA ABC NEWS HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA ABC HD Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15408.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA ABC HD Local</link> 
-        </item> 
-          <item> 
-            <title>* USA | WWE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15355.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA | WWE HD</link> 
-        </item> 
-          <item> 
-            <title>* USA | Sport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15369.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA | Sport 1 HD</link> 
-        </item> 
-          <item> 
-            <title>* USA | Poker Central</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15366.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA | Poker Central</link> 
-        </item> 
-          <item> 
-            <title>* USA | CNN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/15399.ts&amp;streamtype=TSDOWNLOADER&amp;name=* USA | CNN</link> 
-        </item> 
-          <item> 
-            <title>NASA HQ</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/11731.ts&amp;streamtype=TSDOWNLOADER&amp;name=NASA HQ</link> 
-        </item> 
-          <item> 
-            <title>Nasa TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/9084.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nasa TV</link> 
-        </item> 
-          <item> 
-            <title>*** Indian/Pakistani ***</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/11943.ts&amp;streamtype=TSDOWNLOADER&amp;name=*** Indian/Pakistani ***</link> 
-        </item> 
-          <item> 
-            <title>PK: GEO TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/11932.ts&amp;streamtype=TSDOWNLOADER&amp;name=PK: GEO TV HD</link> 
-        </item> 
-          <item> 
-            <title>PK: ARY DIGITAL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/11936.ts&amp;streamtype=TSDOWNLOADER&amp;name=PK: ARY DIGITAL HD</link> 
-        </item> 
-          <item> 
-            <title>IND: STAR PLUS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/11938.ts&amp;streamtype=TSDOWNLOADER&amp;name=IND: STAR PLUS HD</link> 
-        </item> 
-          <item> 
-            <title>IND: SONY SAB</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/11939.ts&amp;streamtype=TSDOWNLOADER&amp;name=IND: SONY SAB</link> 
-        </item> 
-          <item> 
-            <title>IND: SONY MAX 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/11940.ts&amp;streamtype=TSDOWNLOADER&amp;name=IND: SONY MAX 2</link> 
-        </item> 
-          <item> 
-            <title>IND: Sony Entertainment (SET)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/11942.ts&amp;streamtype=TSDOWNLOADER&amp;name=IND: Sony Entertainment (SET)</link> 
-        </item> 
-          <item> 
-            <title>Vevo TV 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/2574.ts&amp;streamtype=TSDOWNLOADER&amp;name=Vevo TV 1</link> 
-        </item> 
-          <item> 
-            <title>Vevo TV 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/2575.ts&amp;streamtype=TSDOWNLOADER&amp;name=Vevo TV 2</link> 
-        </item> 
-          <item> 
-            <title>Vevo TV 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/2576.ts&amp;streamtype=TSDOWNLOADER&amp;name=Vevo TV 3</link> 
-        </item> 
-          <item> 
-            <title>test</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/7157.ts&amp;streamtype=TSDOWNLOADER&amp;name=test</link> 
-        </item> 
-          <item> 
-            <title>Reuters</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/adam/adam/4556.ts&amp;streamtype=TSDOWNLOADER&amp;name=Reuters</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 1</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/1.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 2</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 3</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/3.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 4</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/4.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 5</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/5.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports F1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports F1</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports News</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/7.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: ESPN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/8.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ESPN</link> 
-        </item> 
-          <item> 
-            <title>UK: BT Sport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/9.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport 1</link> 
-        </item> 
-          <item> 
-            <title>UK: BT Sport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport 2</link> 
-        </item> 
-          <item> 
-            <title>UK: BT Sport Europe</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport Europe</link> 
-        </item> 
-          <item> 
-            <title>UK: BT SPORT Extra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/119.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT SPORT Extra</link> 
-        </item> 
-          <item> 
-            <title>UK: British Eurosport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/12.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: British Eurosport</link> 
-        </item> 
-          <item> 
-            <title>UK: British Eurosport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/13.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: British Eurosport 2</link> 
-        </item> 
-          <item> 
-            <title>UK: Premier Sports</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Premier Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Premier Sports</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Racing UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/15.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Racing UK</link> 
-        </item> 
-          <item> 
-            <title>UK: Setanta Ireland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/16.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Setanta Ireland</link> 
-        </item> 
-          <item> 
-            <title>UK: Chelsea</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/17.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Chelsea</link> 
-        </item> 
-          <item> 
-            <title>UK: MUTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/18.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MUTV</link> 
-        </item> 
-          <item> 
-            <title>UK: BoxNation</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/19.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BoxNation</link> 
-        </item> 
-          <item> 
-            <title>UK: Liverpool</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/20.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Liverpool</link> 
-        </item> 
-          <item> 
-            <title>UK: RealMadrid</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/21.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RealMadrid</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 1 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/22.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 2 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/23.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 3 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 4 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/25.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 5 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports News HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports News HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/27.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports F1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports F1 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: BT Sport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport 1 HD</link> 
-        </item> 
-          <item> 
-            <title>UK: BT Sport 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport 2 HD</link> 
-        </item> 
-          <item> 
-            <title>UK: BT Sport europe HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/332211/URuSpsZtrG/31.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport europe HD</link> 
-        </item> 
-  
-       
-  
+<item>
+<title>UK | SkySportF1Uk</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1073.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkySportF1Uk </link>
+</item>
+<item>
+<title>UK | PremierSport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1074.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | PremierSport </link>
+</item>
+<item>
+<title>UK | SetantaSport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1075.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SetantaSport </link>
+</item>
+<item>
+<title>UK | Setanta</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1076.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Setanta </link>
+</item>
+<item>
+<title>UK | BTSportESPN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1077.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BTSportESPN </link>
+</item>
+<item>
+<title>UK | BTSport2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1078.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BTSport2 </link>
+</item>
+<item>
+<title>UK | BTSport1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1079.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BTSport1 </link>
+</item>
+<item>
+<title>UK | BTSportsExtra5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1080.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BTSportsExtra5 </link>
+</item>
+<item>
+<title>UK | BTSportsExtra4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1081.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BTSportsExtra4 </link>
+</item>
+<item>
+<title>UK | BTSportsExtra3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1082.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BTSportsExtra3 </link>
+</item>
+<item>
+<title>UK | BTSportsExtra2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1083.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BTSportsExtra2 </link>
+</item>
+<item>
+<title>UK | BTSportsExtra1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1084.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BTSportsExtra1 </link>
+</item>
+<item>
+<title>UK | BTSportEurope</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1085.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BTSportEurope </link>
+</item>
+<item>
+<title>UK | SkysportNews</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1086.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkysportNews </link>
+</item>
+<item>
+<title>UK | SkySportNewsUk</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1087.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkySportNewsUk </link>
+</item>
+<item>
+<title>UK | SkysportF1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1088.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkysportF1 </link>
+</item>
+<item>
+<title>UK | SkySport5 UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1089.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkySport5 UK </link>
+</item>
+<item>
+<title>UK | SkySport4  UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1090.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkySport4  UK </link>
+</item>
+<item>
+<title>UK | SkySport3 UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1091.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkySport3 UK </link>
+</item>
+<item>
+<title>UK | SkySport2 UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1092.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkySport2 UK </link>
+</item>
+<item>
+<title>UK | SkySport1 UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1093.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkySport1 UK </link>
+</item>
+<item>
+<title>UK | EUROSPORT2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1094.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | EUROSPORT2 </link>
+</item>
+<item>
+<title>UK | EUROSPORT1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1095.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | EUROSPORT1 </link>
+</item>
+<item>
+<title>UK | BTSportsExtra</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1096.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BTSportsExtra </link>
+</item>
+<item>
+<title>UK | MotorsTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1097.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MotorsTV </link>
+</item>
+<item>
+<title>UK | CNBC.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1098.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CNBC. </link>
+</item>
+<item>
+<title>UK | CNN.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1099.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CNN. </link>
+</item>
+<item>
+<title>UK | Dmax.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1100.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Dmax. </link>
+</item>
+<item>
+<title>UK | RTE 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1101.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | RTE 1 </link>
+</item>
+<item>
+<title>UK | Yesterday</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1102.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Yesterday </link>
+</item>
+<item>
+<title>UK | RTE One</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1104.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | RTE One </link>
+</item>
+<item>
+<title>UK | Rte Two</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1103.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Rte Two </link>
+</item>
+<item>
+<title>UK | Sky Movies Premiere HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1105.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Movies Premiere HD </link>
+</item>
+<item>
+<title>UK | Sky Movies Scifi / Horror HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1106.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Movies Scifi / Horror HD </link>
+</item>
+<item>
+<title>UK | Sky Movies Family HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1107.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Movies Family HD </link>
+</item>
+<item>
+<title>UK | Sky Movies Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1108.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Movies Action </link>
+</item>
+<item>
+<title>UK | Sky Movies Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1109.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Movies Comedy </link>
+</item>
+<item>
+<title>UK | SkyMTV Hits</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1110.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkyMTV Hits </link>
+</item>
+<item>
+<title>UK | Movies 4Men</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1111.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Movies 4Men </link>
+</item>
+<item>
+<title>UK | More4+1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1112.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | More4+1 </link>
+</item>
+<item>
+<title>UK | SkyOne HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1113.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkyOne HD </link>
+</item>
+<item>
+<title>UK | SkTrueMovies 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1114.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkTrueMovies 2 HD </link>
+</item>
+<item>
+<title>UK | True Movies1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1115.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | True Movies1 HD </link>
+</item>
+<item>
+<title>UK | RacingUK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1116.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | RacingUK </link>
+</item>
+<item>
+<title>UK | Watch Ireland</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1117.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Watch Ireland </link>
+</item>
+<item>
+<title>UK | FOX News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1118.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | FOX News </link>
+</item>
+<item>
+<title>UK | BBC News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1119.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC News </link>
+</item>
+<item>
+<title>UK | 5USA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1120.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | 5USA </link>
+</item>
+<item>
+<title>UK | SkyMoviesDrama HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1121.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkyMoviesDrama HD </link>
+</item>
+<item>
+<title>UK | SkyMoviesSelect HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1122.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkyMoviesSelect HD </link>
+</item>
+<item>
+<title>UK | SkyMoviesThriller</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1123.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkyMoviesThriller </link>
+</item>
+<item>
+<title>UK | NationalGeographic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1124.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | NationalGeographic </link>
+</item>
+<item>
+<title>UK | Discovery Investigation HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1125.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery Investigation HD </link>
+</item>
+<item>
+<title>UK | Discovery Turbo HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1126.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery Turbo HD </link>
+</item>
+<item>
+<title>UK | Discovery Science HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1127.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery Science HD </link>
+</item>
+<item>
+<title>UK | DiscoveryShed</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1128.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | DiscoveryShed </link>
+</item>
+<item>
+<title>UK | DiscoveryHistory</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1129.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | DiscoveryHistory </link>
+</item>
+<item>
+<title>UK | DiscoveryChannelHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1130.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | DiscoveryChannelHD </link>
+</item>
+<item>
+<title>UK | DisneyChannel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1131.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | DisneyChannel </link>
+</item>
+<item>
+<title>UK | DisneyJunior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1132.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | DisneyJunior </link>
+</item>
+<item>
+<title>UK | ComedyCentral</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1133.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ComedyCentral </link>
+</item>
+<item>
+<title>UK | Channel5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1134.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Channel5 </link>
+</item>
+<item>
+<title>UK | Channel4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1135.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Channel4 </link>
+</item>
+<item>
+<title>UK | CBSAction</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1136.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CBSAction </link>
+</item>
+<item>
+<title>UK | CBSDrama</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1137.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CBSDrama </link>
+</item>
+<item>
+<title>UK | CBSReality</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1138.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CBSReality </link>
+</item>
+<item>
+<title>UK | BBC4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1139.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC4 </link>
+</item>
+<item>
+<title>UK | BBC3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1140.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC3 </link>
+</item>
+<item>
+<title>UK | BBC2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1141.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC2 </link>
+</item>
+<item>
+<title>UK | BBC1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1142.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC1 </link>
+</item>
+<item>
+<title>UK | ITV4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1143.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV4 </link>
+</item>
+<item>
+<title>UK | ITV3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1144.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV3 </link>
+</item>
+<item>
+<title>UK | ITV2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1145.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV2 </link>
+</item>
+<item>
+<title>UK | ITV1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1146.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV1 </link>
+</item>
+
   
 
  

@@ -23,7 +23,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 22-05-16 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 16-07-16 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -34,281 +34,138 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-          <item> 
-            <title>UK: BBC 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1901.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 1</link> 
-        </item> 
-          <item> 
-            <title>UK: BBC 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1902.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 2</link> 
-        </item> 
-          <item> 
-            <title>UK: BBC 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1903.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 3</link> 
-        </item> 
-          <item> 
-            <title>UK: BBC 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1904.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 4</link> 
-        </item> 
-          <item> 
-            <title>UK: ITV1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1898.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV1</link> 
-        </item> 
-          <item> 
-            <title>UK: ITV2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1899.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV2</link> 
-        </item> 
-          <item> 
-            <title>UK: ITV3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1900.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV3</link> 
-        </item> 
-          <item> 
-            <title>UK: BT Sport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1749.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport 1</link> 
-        </item> 
-          <item> 
-            <title>UK: BT Sport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1748.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport 2</link> 
-        </item> 
-          <item> 
-            <title>UK: SYFY ONE PLUS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1561.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SYFY ONE PLUS</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Atlantic plus 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1563.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Atlantic plus 1</link> 
-        </item> 
-          <item> 
-            <title>UK: MTV ROCKS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1554.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV ROCKS</link> 
-        </item> 
-          <item> 
-            <title>UK: FOOD NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1560.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: FOOD NETWORK</link> 
-        </item> 
-          <item> 
-            <title>UK: DISNEY CHANEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1565.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISNEY CHANEL</link> 
-        </item> 
-          <item> 
-            <title>UK: DISCOVERY SCIENCE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1556.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISCOVERY SCIENCE</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 1</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1231.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 2</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1232.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 3</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1233.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 4</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1234.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 5</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1235.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK Sky Sports F1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK Sky Sports F1</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1236.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: SKY NEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1545.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY NEWS</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Atlantic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1546.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Atlantic</link> 
-        </item> 
-          <item> 
-            <title>UK: Pick</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1547.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Pick</link> 
-        </item> 
-          <item> 
-            <title>UK: ITV4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1549.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV4</link> 
-        </item> 
-          <item> 
-            <title>UK: Itv Be</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1548.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Itv Be</link> 
-        </item> 
-          <item> 
-            <title>UK: Itv 1 Plus 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1550.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Itv 1 Plus 1</link> 
-        </item> 
-          <item> 
-            <title>UK: Espn</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1551.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Espn</link> 
-        </item> 
-          <item> 
-            <title>UK: RACING UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1553.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RACING UK</link> 
-        </item> 
-          <item> 
-            <title>UK: CBBC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1552.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBBC</link> 
-        </item> 
-          <item> 
-            <title>UK: Eurosport 2HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1568.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Eurosport 2HD</link> 
-        </item> 
-          <item> 
-            <title>UK: sky two</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1989.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: sky two</link> 
-        </item> 
-          <item> 
-            <title>UK: sky one</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1990.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: sky one</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Movies Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1991.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Action</link> 
-        </item> 
-          <item> 
-            <title>UK: EUROSPORT 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1975.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: EUROSPORT 1</link> 
-        </item> 
-          <item> 
-            <title>UK: COMEDY CENTRAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1978.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: COMEDY CENTRAL</link> 
-        </item> 
-          <item> 
-            <title>UK: B4U Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/1973.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: B4U Movies</link> 
-        </item> 
-          <item> 
-            <title>UK: Discovery Shed</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/2361.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Shed</link> 
-        </item> 
-          <item> 
-            <title>UK: Discovery</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/2357.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery</link> 
-        </item> 
-          <item> 
-            <title>UK: Euro Sport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/2367.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Euro Sport</link> 
-        </item> 
-          <item> 
-            <title>UK: Natgeo Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/2376.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Natgeo Wild</link> 
-        </item> 
-          <item> 
-            <title>UK: National Geographic Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/2375.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: National Geographic Channel</link> 
-        </item> 
-          <item> 
-            <title>UK: Mtv Music</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/2359.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Mtv Music</link> 
-        </item> 
-          <item> 
-            <title>UK: Motors Tv</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/2370.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Motors Tv</link> 
-        </item> 
-          <item> 
-            <title>UK: Star Sports 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Star Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Star Sports 2</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/2371.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports News</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/2366.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports F1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports F1 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/2355.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Premier Sports</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Premier Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Premier Sports</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/2358.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Chelsea TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/2356.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Chelsea TV</link> 
-        </item> 
-          <item> 
-            <title>UK: Liverpool FC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/2380.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Liverpool FC</link> 
-        </item> 
-          <item> 
-            <title>UK: BT Sport Europe HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/2360.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport Europe HD</link> 
-        </item> 
-          <item> 
-            <title>UK: BT Sport 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/2368.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport 2 HD</link> 
-        </item> 
-          <item> 
-            <title>UK: BT Sport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/all/tests/2369.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport 1 HD</link> 
-        </item> 
-  
+<item>
+<title>USA_FOX_SPORT_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1484.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_FOX_SPORT_2 </link>
+</item>
+<item>
+<title>USA_NBC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1485.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_NBC </link>
+</item>
+<item>
+<title>USA_FOX_SPORT_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1483.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_FOX_SPORT_1 </link>
+</item>
+<item>
+<title>USA_NBA_TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1486.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_NBA_TV </link>
+</item>
+<item>
+<title>USA_NFL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1492.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_NFL </link>
+</item>
+<item>
+<title>USA_CBS_NEWS_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1491.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_CBS_NEWS_HD </link>
+</item>
+<item>
+<title>USA_VERSUS_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1490.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_VERSUS_HD </link>
+</item>
+<item>
+<title>USA_DISCOVERY_SHOWCASE_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1489.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_DISCOVERY_SHOWCASE_HD </link>
+</item>
+<item>
+<title>USA_DISCOVERY_CHANNEL_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1488.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_DISCOVERY_CHANNEL_HD </link>
+</item>
+<item>
+<title>USA_ID</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1487.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_ID </link>
+</item>
+<item>
+<title>USA_TSN_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1482.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_TSN_1 </link>
+</item>
+<item>
+<title>USA_TSN_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1481.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_TSN_2 </link>
+</item>
+<item>
+<title>USA_TSN_3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1480.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_TSN_3 </link>
+</item>
+<item>
+<title>USA_TSN_4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1479.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_TSN_4 </link>
+</item>
+<item>
+<title>USA_TSN_5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1478.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_TSN_5 </link>
+</item>
+<item>
+<title>USA_WORLD_FASHION_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4175.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_WORLD_FASHION_HD </link>
+</item>
+<item>
+<title>USA_SPORT_NET_360</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4168.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_SPORT_NET_360 </link>
+</item>
+<item>
+<title>USA_SPORT_NET_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4167.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_SPORT_NET_1 </link>
+</item>
+<item>
+<title>USA_SHOWTIME_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4176.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_SHOWTIME_HD </link>
+</item>
+<item>
+<title>USA_REDBULL_TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4166.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_REDBULL_TV </link>
+</item>
+<item>
+<title>USA_PLANET_GREEN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4177.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_PLANET_GREEN </link>
+</item>
+<item>
+<title>USA_NBC_GOLF</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4169.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_NBC_GOLF </link>
+</item>
+<item>
+<title>USA_NASA_TV_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4178.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_NASA_TV_HD </link>
+</item>
+<item>
+<title>USA_MUTE_TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4179.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_MUTE_TV </link>
+</item>
+<item>
+<title>USA_MIAMI_TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4180.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_MIAMI_TV </link>
+</item>
+<item>
+<title>USA_FLORIDA_CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4170.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_FLORIDA_CHANNEL </link>
+</item>
+<item>
+<title>USA_FASHION_ONE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4181.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_FASHION_ONE </link>
+</item>
+<item>
+<title>USA_BYU_SPORTS_TV_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4174.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_BYU_SPORTS_TV_HD </link>
+</item>
+<item>
+<title>USA_ASTRO_SUPERSPORT_3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4173.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_ASTRO_SUPERSPORT_3 </link>
+</item>
+<item>
+<title>USA_ASTRO_SUPERSPORT_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4172.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_ASTRO_SUPERSPORT_2 </link>
+</item>
+<item>
+<title>USA_ASTRO_SUPERSPORT_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4171.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_ASTRO_SUPERSPORT_1 </link>
+</item>
+<item>
+<title>USA_AFN_PULSE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4182.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_AFN_PULSE </link>
+</item>
+<item>
+<title>USA_AFN_MOVIE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4183.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_AFN_MOVIE </link>
+</item>
 
 
 
