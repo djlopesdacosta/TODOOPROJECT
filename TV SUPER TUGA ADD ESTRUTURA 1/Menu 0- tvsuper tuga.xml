@@ -45,12 +45,12 @@
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 <fanart>http://4.fotos.web.sapo.io/i/oc913ed30/18864727_W0533.png</fanart>
 </item>
-http://orbit-iptv.com:2500/live/FBGNezqw7A/A00HWbCivW/1273.ts
+
 
 <item>
 <title>[COLOR=red][B][I] RTP 1 HD [/I][/B][/COLOR][COLOR=cyan]F4MTESTER[/COLOR]</title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1119.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP1 </link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 <fanart>http://4.fotos.web.sapo.io/i/oc913ed30/18864727_W0533.png</fanart>
@@ -87,7 +87,7 @@ http://orbit-iptv.com:2500/live/FBGNezqw7A/A00HWbCivW/1273.ts
 <item>
 <title>[COLOR=red][B][I] RTP 2 HD [/I][/B][/COLOR]  [COLOR=cyan]F4MTESTER[/COLOR]</title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1120.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP2 </link>
 	 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>
 <fanart>http://media.rtp.pt/extra/wp-content/uploads/sites/22/2015/05/RTP2.jpg</fanart>
@@ -164,7 +164,7 @@ http://orbit-iptv.com:2500/live/FBGNezqw7A/A00HWbCivW/1273.ts
 <item>
 <title>[COLOR=red][B][I] SIC HD [/I][/B][/COLOR]   [COLOR=cyan]F4MTESTER[/COLOR]</title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1121.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC </link>
 
 
 <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
@@ -206,7 +206,7 @@ http://orbit-iptv.com:2500/live/FBGNezqw7A/A00HWbCivW/1273.ts
 <item>
 <title>[COLOR=red][B][I] TVI HD [/I][/B][/COLOR]   [COLOR=cyan]F4MTESTER[/COLOR]</title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1125.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI </link>
 
 <link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w103393150_b814000_49365.m3u8</link>
 
