@@ -238,7 +238,7 @@
 <item>
 <title>[COLOR=lime][B][I] RTP AÇORES HD [/I][/B][/COLOR]  [COLOR=cyan]F4MTESTER[/COLOR]</title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/805.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_ACORES </link>
  
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpa.png</thumbnail>
@@ -273,7 +273,7 @@
 <item>
 <title>[COLOR=lime][B][I] RTP AFRICA HD [/I][/B][/COLOR]   [COLOR=cyan]F4MTESTER[/COLOR]</title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/809.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AFRICA </link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpafrica.png</thumbnail>
 </item>
@@ -343,7 +343,7 @@
 <item>
 <title>[COLOR=lime][B][I] RTP MEMORIA HD [/I][/B][/COLOR]    [COLOR=cyan]F4MTESTER[/COLOR]</title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1410.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_MEMORIA </link>
  
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpm.png</thumbnail>
@@ -376,7 +376,7 @@
 <item>
 <title>[COLOR=lime][B][I] RTP INFORMACAO [/I][/B][/COLOR]   [COLOR=cyan]F4MTESTER[/COLOR]</title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1131.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_INFORMACAO </link>
 
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/32/Logo_RTP_Informa%C3%A7%C3%A3o.png</thumbnail>
 </item>
@@ -385,7 +385,7 @@
 <item>
 <title>[COLOR=lime][B][I] RTP INTERNACIONAL [/I][/B][/COLOR]   [COLOR=cyan]F4MTESTER[/COLOR]</title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1411.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_INTERNACIONAL </link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpinternacional.png</thumbnail>
 </item>
@@ -433,7 +433,7 @@
 <item>
 <title>[COLOR=cyan][B][I] SIC NOTICIAS HD [/I][/B][/COLOR]      [COLOR=orange]F4MTESTER[/COLOR]</title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1123.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_NOTICIAS </link>
 
 <thumbnail>http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png</thumbnail>
 </item>
@@ -457,7 +457,7 @@
 <item>
 <title>[COLOR=cyan][B][I] RTP 3 HD [/I][/B][/COLOR]            [COLOR=orange]F4MTESTER[/COLOR]</title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/425.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_3 </link>
 
 <thumbnail>http://www.thelogodb.com/images/media/logo/rwqqsy1455801826.png</thumbnail>
 <fanart>http://shifter.pt/wp-content/uploads/2015/09/johnolivernartp3_02.jpg</fanart>
@@ -498,7 +498,7 @@
 <item>
 <title>[COLOR=cyan][B][I] TVI 24 HD [/I][/B][/COLOR]      [COLOR=orange]F4MTESTER[/COLOR]</title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/808.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI_24 </link>
  
 <link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
@@ -689,7 +689,7 @@
 <item>
 <title>[COLOR=cyan][B][I] CM TV HD  [/I][/B][/COLOR][COLOR=orange]F4MTESTER[/COLOR]</title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/498.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CM_TV </link>
 
 <thumbnail>http://mb.web.sapo.io/1/0/2/8c10cca436228677d10be1cb5d21794e2464a.jpg</thumbnail>
 </item>
@@ -725,7 +725,7 @@
 <item>
 <title>[COLOR cyan] [I] CNN[/I] [/COLOR][COLOR=orange]F4MTESTER[/COLOR]</title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1392.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CNN </link>
  
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/2000px-Cnn.svg.png</thumbnail>
 </item>
@@ -771,7 +771,7 @@
 <item>
 <title>[COLOR cyan] [I] ECONÓMICO TV [/I] [/COLOR][COLOR=orange]F4MTESTER[/COLOR]</title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1424.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_ECONOMICO_TV </link>
 
 <link>http://213.13.26.41:1935/live/etv_direto/playlist.m3u8</link>
 <thumbnail>http://s20.postimg.org/45t2j1v7h/etv_pt.png</thumbnail>
@@ -819,7 +819,7 @@
 <item>
 <title>[COLOR=orange][B][I] DISCOVERY [/I][/B][/COLOR][COLOR=lime]F4MTESTER[/COLOR]</title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1164.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_DISCOVERY </link>
 
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -875,7 +875,7 @@
 <item>
 <title>[COLOR orange] HISTORIA HD  [/COLOR][COLOR=lime]F4MTESTER[/COLOR]</title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1183.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CANAL_HISTORIA </link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/historia.png</thumbnail>
 </regex>
@@ -921,7 +921,7 @@
 <item>
 <title>[COLOR orange] [I] NATIONAL GEOGRAPHIC HD [/I] [/COLOR][COLOR=lime]F4MTESTER[/COLOR]</title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1184.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_NATIONAL_GEOGRAPHIC_HD </link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/ngc.png</thumbnail>
 </regex>
@@ -969,7 +969,7 @@
 <item>
 <title>[COLOR orange] [I] NAT GEO WILD [/I] [/COLOR][COLOR=lime]F4MTESTER[/COLOR]</title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1182.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_NAT_GEO_WILD </link>
 
 <thumbnail>http://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
 </item>
@@ -978,7 +978,7 @@
 <item>
 <title>[COLOR orange] [I] ODISSEIA [/I] [/COLOR][COLOR=lime]F4MTESTER[/COLOR]</title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1401.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_ODISSEIA </link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/odisseia.png</thumbnail>
 </item>
@@ -1009,7 +1009,7 @@
 <item>
 <title>[COLOR orange] [I] CAÇA E PESCA [/I] [/COLOR][COLOR=lime]F4MTESTER[/COLOR]</title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1383.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CACA_ PESCA </link>
 
 <thumbnail>http://www.vodafone.pt/NR/rdonlyres/DDEA8230-50DE-4825-BB7C-BE5E868A3587/0/destaque_canal_caca_pesca_449x196.jpg</thumbnail>
 </item>
@@ -1069,7 +1069,7 @@
 <item>
 <title>[COLOR=grey][B][I] SIC K  [/I][/B][/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1376.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_KIDS </link>
 
 
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png</thumbnail>
@@ -1078,7 +1078,7 @@
 <item>
 <title>[COLOR=grey][B][I] NICKELODEON HD [/I][/B][/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1394.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_NICKELODEON </link>
 
 <thumbnail>http://www.thelogodb.com/images/media/logo/vrsuxp1434268186.png</thumbnail>
 </item>
@@ -1087,7 +1087,7 @@
 <item>
 <title>[COLOR=grey][B][I] CARTOON NETWORK HD [/I][/B][/COLOR]     [COLOR=lime]F4MTESTER[/COLOR]  </title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1161.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CARTOON_NETWORK </link>
 
 
 <name>get-ip</name>
@@ -1104,6 +1104,7 @@
 <item>
 <title>[COLOR=grey][B][I] DISNEY JUNIOR  [/I][/B][/COLOR]    [COLOR=lime]F4MTESTER[/COLOR]  </title>
 
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1213.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_DISNEY_JUNIOR </link>
 
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -1119,7 +1120,7 @@
 <item>
 <title>[COLOR=grey][B][I] DISNEY CHANNEL HD[/I][/B][/COLOR]     [COLOR=lime]F4MTESTER[/COLOR]    </title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1162.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_DISNEY_CHANNEL </link>
 
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -1149,8 +1150,7 @@
 <item>
 <title>[COLOR=grey][B][I] PANDA BIGGS HD [/I][/B][/COLOR]    [COLOR=lime]F4MTESTER[/COLOR]  </title>  
 
-
- 
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1166.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_BIGGS </link>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
 <page>http://www.pubucaster.com:1935/loadbalancer</page>
@@ -1164,7 +1164,7 @@
 <item>
 <title>[COLOR=grey][B][I] PANDA HD [/I][/B][/COLOR] [COLOR lime] F4MTESTER [/COLOR]  </title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1165.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CANAL_PANDA </link>
  
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -1179,7 +1179,7 @@
 <item>   
 <title>[COLOR=grey][B][I] JIM JAM [/I][/B][/COLOR] [COLOR lime] F4MTESTER [/COLOR] </title> 
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1423.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_JIM_JAM </link>
 
 <thumbnail>https://www.kabelnoord.nl/uploads/images/seniorendag/JimJam_logo.png</thumbnail>
 </item>
@@ -1220,7 +1220,7 @@
 <item>   
 <title>[COLOR=grey][B][I]24 KITCHEN HD [/I][/B][/COLOR] [COLOR lime] F4MTESTER [/COLOR]</title> 
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1187.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_24_KITCHEN_HD </link>
 
 
 <thumbnail>http://www.atelevisao.com/wp-content/uploads/2012/10/Logo24kitchenHD_pantone.jpg</thumbnail>
@@ -1298,7 +1298,7 @@
 <item>   
 <title>[COLOR=white][B][I] SIC MULHER HD[/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR] </title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1380.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_MULHER </link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicm.png</thumbnail>
 </item>
@@ -1335,7 +1335,7 @@
 <item>   
 <title>[COLOR=white][B][I] SIC RADICAL HD [/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR]  </title> 
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1159.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_RADICAL </link>
 
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicr.png</thumbnail>
@@ -1372,7 +1372,7 @@
 <item>
 <title>[COLOR=white][B][I] SIC CARAS HD [/I][/B][/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1422.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_CARAS </link>
 
 
 
@@ -1384,7 +1384,7 @@
 <item>
 <title>[COLOR=white][B][I] TVI FICCAO [/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR] </title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1126.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI_FICCAO </link>
 
 
  
@@ -1404,7 +1404,7 @@
 <item>
 <title>[COLOR=white][B][I] +TVI [/I][/B][/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1122.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_+_TVI </link>
 
 
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/6/69/Mais_TVI_logo.png/revision/latest?cb=20130328095626</thumbnail>
@@ -1549,7 +1549,7 @@ http://tvxat.info/tvi-reality-24
 <item>   
 <title>[COLOR=white][B][I] ENTERTAINMENT HD [/I][/B][/COLOR]  [COLOR lime]F4MTESTER[/COLOR] </title> 
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1413.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_EUROSPORT </link>
 
 
 <thumbnail>http://a4.mzstatic.com/us/r30/Purple69/v4/e3/ee/d3/e3eed38e-1238-a389-9207-90521604555b/icon175x175.jpeg?</thumbnail>
@@ -1570,6 +1570,7 @@ http://tvxat.info/tvi-reality-24
 <item>   
 <title>[COLOR=white][B][I]TRAVEL CHANNEL [/I][/B][/COLOR]  [COLOR lime]F4MTESTER[/COLOR] </title> 
 
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1402.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TRAVEL_CHANNEL </link>
 
 <thumbnail>http://www.antenna38.ru/HD_kontinent/Travel_Channel_HD.png</thumbnail>
 </regex>
@@ -1606,7 +1607,7 @@ http://tvxat.info/tvi-reality-24
 <item>
 <title>[COLOR white] [I] TV GLOBO PREMIUM   [/I] [/COLOR] [COLOR yellow] F4MTESTER [/COLOR]</title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1388.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_GLOBO_PREMIUN </link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvif.png</thumbnail>
 </regex>
@@ -1625,6 +1626,7 @@ http://tvxat.info/tvi-reality-24
 <item>
 <title>[COLOR white] [I] TV GLOBO   [/I] [/COLOR] [COLOR yellow] f4mTester[/COLOR]</title>
 
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1390.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_GLOBO </link>
 
 <link>http://www.q7t1.com:8000/live/maht/maht/1390.m3u8</link>
 <link>http://209.95.39.40/globo/globo-news.stream/playlist.m3u8</link>
@@ -1677,6 +1679,7 @@ http://tvxat.info/tvi-reality-24
 <item>
 <title>[COLOR white] [I]TV RECORD BRASIL[/I] [/COLOR] [COLOR yellow] f4mTester[/COLOR]</title>
 
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1393.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_RECORD </link>
 
 <link>http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/live.m3u8</link>
 <link>http://213.163.65.116:8081/live/record/playlist.m3u8</link>
@@ -1887,7 +1890,7 @@ http://tvxat.info/tvi-reality-24
 <item>
 <title>[COLOR white] [I] VEVO 1 HD [/I] [/COLOR]  [COLOR yellow] F4MTESTER [/COLOR]</title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/424.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_VEVO_1_HD </link>
       
 
 <thumbnail>http://www.felfoldi.ro/_pu/2/79444749.jpg</thumbnail>
@@ -1897,6 +1900,7 @@ http://tvxat.info/tvi-reality-24
 <item>
 <title>[COLOR white] [I] VEVO 2 HD [/I] [/COLOR]  [COLOR yellow] F4MTESTER [/COLOR]</title>
 
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1174.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_VEVO_2_HD </link>
 
 <thumbnail>https://2.bp.blogspot.com/-QuQCNkeCRKQ/VsSRpdcaN4I/AAAAAAAAAY0/radpvO3CtLQ/s640/vevo-tv-logo-new.png</thumbnail>
 </regex>
@@ -1905,6 +1909,7 @@ http://tvxat.info/tvi-reality-24
 <item>
 <title>[COLOR white] [I] VEVO 3 HD [/I] [/COLOR]  [COLOR yellow] F4MTESTER [/COLOR]</title>
 
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1175.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_VEVO_3_HD </link>
 
 <thumbnail>https://2.bp.blogspot.com/-QuQCNkeCRKQ/VsSRpdcaN4I/AAAAAAAAAY0/radpvO3CtLQ/s640/vevo-tv-logo-new.png</thumbnail>
 </regex>
@@ -1913,6 +1918,7 @@ http://tvxat.info/tvi-reality-24
 <item>
 <title>[COLOR white] [I] VH1 [/I] [/COLOR]  [COLOR yellow] F4MTESTER [/COLOR]</title>
 
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/499.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_VH1 </link>
 
 <thumbnail>http://ib3.huluim.com/company_key_art/370?size=1600x600&region=US</thumbnail>
 </regex>
@@ -1963,6 +1969,8 @@ http://tvxat.info/tvi-reality-24
 
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3065.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - AXN HD </link>
 
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1812.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN_HD </link>
+
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/axn.png</thumbnail>
 </item> 
 </item>
@@ -1997,6 +2005,8 @@ http://tvxat.info/tvi-reality-24
 
 <item>
 <title>[COLOR=magenta][B][I]  AXN WHITE [/I][/B][/COLOR] [COLOR yellow]F4MTESTER[/COLOR]  </title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1155.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN_WHITE_HD </link>
 
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3066.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - AXN WHITE HD </link>
 
@@ -2034,6 +2044,8 @@ http://tvxat.info/tvi-reality-24
 <item>
 <title>[COLOR=magenta][B][I]  AXN BLACK HD [/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR]  </title>
 
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1156.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN_BLACK_HD </link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3067.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - AXN BLACK HD </link>
 
 <thumbnail>http://www.thelogodb.com/images/media/logo/tstsvx1445114284.png</thumbnail>
@@ -2044,6 +2056,8 @@ http://tvxat.info/tvi-reality-24
 
 <item>
 <title>[COLOR magenta][B][I]  FOX HD [/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR] </title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1149.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FOX_HD </link>
 
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3060.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX HD </link>
 
@@ -2082,6 +2096,8 @@ http://tvxat.info/tvi-reality-24
 <item>
 <title>[COLOR=magenta][B][I]  FOX MOVIES HD [/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR]  </title>
 
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1148.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FOX_MOVIES </link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3064.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX MOVIES </link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/fox.png</thumbnail>
@@ -2119,6 +2135,8 @@ http://tvxat.info/tvi-reality-24
 <item>
 <title>[COLOR=magenta][B][I]  FOX CRIME HD [/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR]  </title>
 
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1151.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FOX_CRIME_HD </link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3063.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX CRIME </link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxcrime.png</thumbnail>
@@ -2154,6 +2172,8 @@ http://tvxat.info/tvi-reality-24
 
 <item>
 <title>[COLOR=magenta][B][I]   FOX LIFE HD [/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR]  </title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1150.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FOX_LIFE_HD </link>
 
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3061.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX LIFE </link>
 
@@ -2202,6 +2222,7 @@ http://tvxat.info/tvi-reality-24
 <item>
 <title>[COLOR=magenta][B][I] HOLLYWOOD  [/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR]  </title>
 
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1144.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_HOLLYWOOD </link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/holly.png</thumbnail>
 </item>
@@ -2250,7 +2271,7 @@ http://tvxat.info/tvi-reality-24
 <item> 
 <title>[COLOR=magenta][B][I]  MOV HD  [/I][/B][/COLOR] [COLOR yellow]F4MTESTER [/COLOR]  </title>
 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1404.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_MOV_HD </link>
 
 <thumbnail>http://www.thelogodb.com/images/media/logo/yusxxt1452596924.png</thumbnail>
 </regex>
@@ -2259,6 +2280,7 @@ http://tvxat.info/tvi-reality-24
 <item>
 <title>[COLOR=magenta][B][I]  AMC  [/I][/B][/COLOR] [COLOR yellow]F4MTESTER [/COLOR]  </title>
 
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1408.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AMC </link>
 
 <thumbnail>http://www.thelogodb.com/images/media/logo/tssypq1449496871.png</thumbnail>
 </regex>
@@ -2276,6 +2298,8 @@ http://tvxat.info/tvi-reality-24
 
 <item>
 <title>[COLOR magenta] [I] TV CINE 1 HD [/I] [/COLOR]  [COLOR=lime]F4MTESTER[/COLOR] </title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1145.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCINE_1_HD </link>
 
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3056.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 1 HD </link>
 
@@ -2296,6 +2320,8 @@ http://tvxat.info/tvi-reality-24
 <item>
 <title>[COLOR magenta] [I] TV CINE 2 HD [/I] [/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
 
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1146.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCINE_2_HD </link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3057.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 2HD </link>
 
 
@@ -2312,6 +2338,8 @@ http://tvxat.info/tvi-reality-24
 
 <item>
 <title>[COLOR magenta] [I] TV CINE 3 [/I] [/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/886.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCINE_3_HD </link>
 
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3058.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 3HD </link>
 
@@ -2331,6 +2359,8 @@ http://tvxat.info/tvi-reality-24
 <item>
 <title>[COLOR magenta] [I] TV CINE 4 [/I] [/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
 
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1147.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCINE_4_HD </link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3059.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 4 HD </link>
 
 
@@ -2349,7 +2379,11 @@ http://tvxat.info/tvi-reality-24
 <item>
 <title>[COLOR magenta] [I] TV SERIES [/I] [/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
 
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1152.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_SERIES </link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3068.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TV SERIES HD </link>
+
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1395.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCINE_5_HD </link>
 
 
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvseries.png</thumbnail>
@@ -2359,10 +2393,7 @@ http://tvxat.info/tvi-reality-24
 <item>
 <title>[COLOR magenta] [I] CINEMUNDO [/I] [/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
 
- <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/51.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cinemundo</link> 
-
- <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/deda/bSMr7vsV/471.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CINEMUNDO</link> 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/507.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CINEMUNDO </link>
 
 <thumbnail>http://www.cinemundo.net.br/wp-content/uploads/2015/02/logo1.png</thumbnail>
 </regex>
@@ -2372,6 +2403,8 @@ http://tvxat.info/tvi-reality-24
 
 <item>
 <title>[COLOR magenta] [I] SYFY HD [/I] [/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1412.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SYFY </link>
 
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3069.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SYFY </link>
 
@@ -2841,6 +2874,8 @@ http://tvxat.info/tvi-reality-24
 
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3007.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Sports TV1 </link>
 
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/501.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORT_TV_1 </link>
+
 
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 <fanart></fanart>
@@ -2861,7 +2896,11 @@ http://tvxat.info/tvi-reality-24
 <item>
 <title>[COLOR blue] [I]SPORT TV 2 HD[/I] [/COLOR] [COLOR orange]F4MTESTER[/COLOR]</title>
 
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORT_TV_2_HD </link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3003.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Sports TV2 </link>
+
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORT_TV_2 </link>
 
 
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
@@ -2883,6 +2922,8 @@ http://tvxat.info/tvi-reality-24
 
 <item>
 <title>[COLOR blue] [I]SPORT TV 3 HD[/I] [/COLOR] [COLOR orange]F4MTESTER[/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1135.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORT_TV_3 </link>
 
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3004.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Sports TV3 </link>
 		
@@ -2906,6 +2947,8 @@ http://tvxat.info/tvi-reality-24
 <item>
 <title>[COLOR blue] [I]SPORT TV 4 HD[/I] [/COLOR] [COLOR orange]F4MTESTER[/COLOR]</title>
 
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1136.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORT_TV_4 </link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3005.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Sports TV4 </link>
 
 
@@ -2927,6 +2970,8 @@ http://tvxat.info/tvi-reality-24
 
 <item>
 <title>[COLOR blue][B][I]SPORT TV 5 HD [/I][/B][/COLOR] [COLOR orange]F4MTESTER[/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1137.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORT_TV_5 </link>
 
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3006.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Sports TV5 </link>
 
@@ -2950,7 +2995,9 @@ http://tvxat.info/tvi-reality-24
 <item>
 <title>[COLOR blue] [I]BENFICA TV 1[/I] [/COLOR] [COLOR orange]F4MTESTER[/COLOR]</title>
 
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1421.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_BENFICATV_1HD </link>
 
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/807.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_BTV_1_HD </link>
 
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 <fanart></fanart>
@@ -2992,12 +3039,7 @@ http://tvxat.info/tvi-reality-24
 <item>
 <title>[COLOR=blue][B][I] PORTO CANAL HD [/I][/B][/COLOR]      [COLOR=orange]F4MTESTER[/COLOR]</title>
 
-  <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/170216/170216/919.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Porto</link>
-
- <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/102.ts&amp;streamtype=TSDOWNLOADER&amp;name=Porto Canal</link> 
- 
-  <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/deda/bSMr7vsV/455.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Porto canal</link> 
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1130.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_PORTO_CANAL </link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/portocanal.png</thumbnail>
 </item>
@@ -3043,17 +3085,7 @@ http://tvxat.info/tvi-reality-24
 <item>
 <title>[COLOR=blue][B][I] SPORTING TV HD [/I][/B]  [COLOR=orange]F4MTESTER[/COLOR]</title>
 
- <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/170216/170216/885.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sporting TV HD</link> 
-
- <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sporting TV</link> 
-
-  <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/deda/bSMr7vsV/435.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sporting TV HD</link> 
-
- <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/136.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sporting TV HD</link> 
-
-  <link>plugin://plugin.video.f4mTester/?url=http://tvsbrothers.noip.me:8000/live/po6lhjfTvi/FqGSG8e6ox/806.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SPORTING TV</link> 
- 
- <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/138.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sporting TV HD (LBR)</link> 
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1141.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORTING_TV_HD </link>
 
 <thumbnail>http://s20.postimg.org/j0p0j7nst/sporting_tv_pt.png</thumbnail>
 </item>
@@ -3233,9 +3265,8 @@ http://tvxat.info/tvi-reality-24
 <item>
 <title>[COLOR=blue][I] REAL MADRID TV [/I][/COLOR] [COLOR=orange]F4MTESTER[/COLOR]</title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://tvsbrothers.noip.me:8000/live/po6lhjfTvi/FqGSG8e6ox/814.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:REAL MADRID TV HD</link> 
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1416.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_REAL_MADRID_TV </link>
 
-<link>plugin://plugin.video.f4mTester/?url=http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/103.ts&amp;streamtype=TSDOWNLOADER&amp;name=Real Madrid TV</link> 
 
 <thumbnail>http://realmadridtv.weebly.com/uploads/6/4/6/5/6465786/6810477.png?296</thumbnail>
 </item>
@@ -4366,11 +4397,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR=blue][B][I] MOTORS TV HD [/I][/B][/COLOR] [COLOR yellow] F4MTESTER[/COLOR] </title>
 
- <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/170216/170216/921.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motors TV</link> 
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1193.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_MOTORS_TV </link>
 
- <link>plugin://plugin.video.f4mTester/?url=http://tvsbrothers.noip.me:8000/live/po6lhjfTvi/FqGSG8e6ox/819.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MOTORS TV</link> 
-
-  <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=Motors TV</link> 
 
 <referer>http://ucaster.eu/</referer>
 <thumbnail>https://www.motorstv.com/sites/default/files/logo_motorstv_simple_0.png</thumbnail>
