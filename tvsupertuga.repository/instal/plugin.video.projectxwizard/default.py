@@ -31,49 +31,49 @@ ICON = xbmc.translatePath(os.path.join('special://home/addons/' + addon_id, 'ico
 ART = xbmc.translatePath(os.path.join('special://home/addons/' + addon_id + '/resources/art/'))
 
 if xbmc.getCondVisibility('system.platform.ios') or xbmc.getCondVisibility('system.platform.osx'):
-	Repo = "http://teamtuga4ever.net23.net/teamtuga4ever.repository/addons.xml"
-	Addons = "http://teamtuga4ever.net23.net/ProjectXwizard/README.xml"
-	Website = "http://www.team-tuga4ever.16mb.com/"
+	Repo = "http://tvsupertuga.net16.net/zips/addons.xml"
+	Addons = "http://projectxwizard.net16.net/README.xml"
+	Website = "http://tvsupertuga.wix.com/meusite"
 	Forum = "http://tvsupertuga.forum-gratuito.com/"
-	Community = "https://www.facebook.com/groups/1735809796639007/"
-	JarvisWiz = "http://teamtuga4ever.net23.net/ProjectXwizard/JarvisWiz.xml"
-	JarvisCheck = "http://teamtuga4ever.net23.net/ProjectXwizard/JarvisCheck.xml"
-	JarvisUpdate = "http://teamtuga4ever.net23.net/ProjectXwizard/JarvisUpdate.xml"
-	KryptonWiz = "http://teamtuga4ever.net23.net/ProjectXwizard/KryptonWiz.xml"
-	KryptonCheck = "http://teamtuga4ever.net23.net/ProjectXwizard/KryptonCheck.xml"
-	KryptonUpdate = "http://teamtuga4ever.net23.net/ProjectXwizard/KryptonUpdate.xml"
-	BetaWiz = "http://teamtuga4ever.net23.net/ProjectXwizard/BetaWiz.xml"
-	BetaVIPWiz = "http://teamtuga4ever.net23.net/ProjectXwizard/BetaVIPWiz.xml"
-	BetaVIP = "http://teamtuga4ever.net23.net/ProjectXwizard/BetaVIP.xml"
-	BetaKeys = "http://teamtuga4ever.net23.net/ProjectXwizard/BetaKeys.xml"
-	SpeedTest = "http://teamtuga4ever.net23.net/ProjectXwizard/SpeedTest.xml"
-	AdvancedSettings = "http://teamtuga4ever.net23.net/ProjectXwizard/AdvancedSettings.xml"
-	JarvisOne = "http://teamtuga4ever.net23.net/ProjectXwizard/JarvisOne.xml"
-	JarvisTwo = "http://teamtuga4ever.net23.net/ProjectXwizard/JarvisTwo.xml"
-	KryptonOne = "http://teamtuga4ever.net23.net/ProjectXwizard/KryptonOne.xml"
+	Community = "https://www.facebook.com/TVsupertuga.PT/"
+	JarvisWiz = "http://projectxwizard.net16.net/JarvisWiz.xml"
+	JarvisCheck = "http://projectxwizard.net16.net/JarvisCheck.xml"
+	JarvisUpdate = "http://projectxwizard.net16.net/JarvisUpdate.xml"
+	KryptonWiz = "http://projectxwizard.net16.net/KryptonWiz.xml"
+	KryptonCheck = "http://projectxwizard.net16.net/KryptonCheck.xml"
+	KryptonUpdate = "http://projectxwizard.net16.net/KryptonUpdate.xml"
+	BetaWiz = "http://projectxwizard.net16.net/BetaWiz.xml"
+	BetaVIPWiz = "http://projectxwizard.net16.net/BetaVIPWiz.xml"
+	BetaVIP = "http://projectxwizard.net16.net/BetaVIP.xml"
+	BetaKeys = "http://projectxwizard.net16.net/BetaKeys.xml"
+	SpeedTest = "http://projectxwizard.net16.net/SpeedTest.xml"
+	AdvancedSettings = "http://projectxwizard.net16.net/AdvancedSettings.xml"
+	JarvisOne = "http://projectxwizard.net16.net/JarvisOne.xml"
+	JarvisTwo = "http://projectxwizard.net16.net/JarvisTwo.xml"
+	KryptonOne = "http://projectxwizard.net16.net/KryptonOne.xml"
 	KryptonTwo = "http://projectxwizard.netne.net/KryptonTwo.xml"
 	BASEURL = "http://www.team-tuga4ever.16mb.com/"
 else:
-	Repo = "http://teamtuga4ever.net23.net/teamtuga4ever.repository/addons.xml"
-	Addons = "http://teamtuga4ever.net23.net/ProjectXwizard/README.xml"
-	Website = "http://www.team-tuga4ever.16mb.com/"
+	Repo = "http://tvsupertuga.net16.net/zips/addons.xml"
+	Addons = "http://projectxwizard.net16.net/README.xml"
+	Website = "http://tvsupertuga.wix.com/meusite"
 	Forum = "http://tvsupertuga.forum-gratuito.com/"
-	Community = "https://www.facebook.com/groups/1735809796639007/"
-	JarvisWiz = "http://teamtuga4ever.net23.net/ProjectXwizard/JarvisWiz.xml"
-	JarvisCheck = "http://teamtuga4ever.net23.net/ProjectXwizard/JarvisCheck.xml"
-	JarvisUpdate = "http://teamtuga4ever.net23.net/ProjectXwizard/JarvisUpdate.xml"
-	KryptonWiz = "http://teamtuga4ever.net23.net/ProjectXwizard/KryptonWiz.xml"
-	KryptonCheck = "http://teamtuga4ever.net23.net/ProjectXwizard/KryptonCheck.xml"
-	KryptonUpdate = "http://teamtuga4ever.net23.net/ProjectXwizard/KryptonUpdate.xml"
-	BetaWiz = "http://teamtuga4ever.net23.net/ProjectXwizard/BetaWiz.xml"
-	BetaVIPWiz = "http://teamtuga4ever.net23.net/ProjectXwizard/BetaVIPWiz.xml"
-	BetaVIP = "http://teamtuga4ever.net23.net/ProjectXwizard/BetaVIP.xml"
-	BetaKeys = "http://teamtuga4ever.net23.net/ProjectXwizard/BetaKeys.xml"
-	SpeedTest = "http://teamtuga4ever.net23.net/ProjectXwizard/SpeedTest.xml"
-	AdvancedSettings = "http://teamtuga4ever.net23.net/ProjectXwizard/AdvancedSettings.xml"
-	JarvisOne = "http://teamtuga4ever.net23.net/ProjectXwizard/JarvisOne.xml"
-	JarvisTwo = "http://teamtuga4ever.net23.net/ProjectXwizard/JarvisTwo.xml"
-	KryptonOne = "http://teamtuga4ever.net23.net/ProjectXwizard/KryptonOne.xml"
+	Community = "https://www.facebook.com/TVsupertuga.PT/"
+	JarvisWiz = "http://projectxwizard.net16.net/JarvisWiz.xml"
+	JarvisCheck = "http://projectxwizard.net16.net/JarvisCheck.xml"
+	JarvisUpdate = "http://projectxwizard.net16.net/JarvisUpdate.xml"
+	KryptonWiz = "http://projectxwizard.net16.net/KryptonWiz.xml"
+	KryptonCheck = "http://projectxwizard.net16.net/KryptonCheck.xml"
+	KryptonUpdate = "http://projectxwizard.net16.net/KryptonUpdate.xml"
+	BetaWiz = "http://projectxwizard.net16.net/BetaWiz.xml"
+	BetaVIPWiz = "http://projectxwizard.net16.net/BetaVIPWiz.xml"
+	BetaVIP = "http://projectxwizard.net16.net/BetaVIP.xml"
+	BetaKeys = "http://projectxwizard.net16.net/BetaKeys.xml"
+	SpeedTest = "http://projectxwizard.net16.net/SpeedTest.xml"
+	AdvancedSettings = "http://projectxwizard.net16.net/AdvancedSettings.xml"
+	JarvisOne = "http://projectxwizard.net16.net/JarvisOne.xml"
+	JarvisTwo = "http://projectxwizard.net16.net/JarvisTwo.xml"
+	KryptonOne = "http://projectxwizard.net16.net/KryptonOne.xml"
 	KryptonTwo = "http://projectxwizard.netne.net/KryptonTwo.xml"
 	BASEURL = "http://www.team-tuga4ever.16mb.com/"
 
@@ -174,7 +174,7 @@ def INDEX():
 
   #if login_request!="ACCESS GRANTED":	
 	Common.addItem('[COLOR cyan]SERVER STATUS [/COLOR]' + CommunityStatus + JarvisWizStatus + JarvisUpdateStatus + KryptonWizStatus + KryptonUpdateStatus + SpeedTestStatus,BASEURL,92,ICON,FANART,'')
-	Common.addDir('[COLOR cyan]TEAM TUGA 4EVER BUILDS[/COLOR] - [COLOR powderblue]J v16[/COLOR] | ' + JarvisWizStatusMain + ' - [COLOR powderblue]K v17[/COLOR] | ' + KryptonWizStatusMain,BASEURL,88,ICON,FANART,'')
+	Common.addDir('[COLOR cyan]PROJECT X WIZARD BUILDS[/COLOR] - [COLOR powderblue]J v16[/COLOR] | ' + JarvisWizStatusMain + ' - [COLOR powderblue]K v17[/COLOR] | ' + KryptonWizStatusMain,BASEURL,88,ICON,FANART,'')
 	Common.addItem('[COLOR cyan]CHECK FOR UPDATES[/COLOR] - [COLOR powderblue]J v16[/COLOR] | ' + JarvisUpdateStatusMain + ' - [COLOR powderblue]K v17[/COLOR] | ' + KryptonUpdateStatusMain,BASEURL,11,ICON,FANART,'')
 	Common.addDir('[COLOR cyan]COMMUNITY BUILDS[/COLOR] - ' + CommunityStatusMain,BASEURL,87,ICON,FANART,'')
 	Common.addDir('[COLOR cyan]ADVANCED SETTINGS[/COLOR] - ' + AdvancedSettingsMain,BASEURL,30,ICON,FANART,'')
@@ -198,7 +198,7 @@ def ACCOUNT():
 
   key = base64.b64encode(plugintools.get_setting("beta"))
 	
-  if key=="d2F0ZXJtZWxsb24=":
+  if key=="tvsupertuga=":
     beta = "[COLOR lime]Yes[/COLOR]"
   else:
     beta = "[COLOR red]No[/COLOR]"

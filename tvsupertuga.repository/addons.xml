@@ -252,8 +252,8 @@ http://www.hometheater.co.il</description>
 
 <addon id="plugin.video.projectxwizard"
 	     name="[COLOR White]Project[/COLOR] [COLOR cyan]X[/COLOR] [COLOR White]Wizard[/COLOR]"
-	     version="0.1.0"
-	     provider-name="TEAM-TUGA.4EVER">
+	     version="0.1.1"
+	     provider-name="TVsupertuga">
   <requires>
   	<import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -271,8 +271,8 @@ http://www.hometheater.co.il</description>
     <platform>all</platform>
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
     <forum>http://tvsupertuga.forum-gratuito.com/</forum>
-    <website>http://www.team-tuga4ever.16mb.com/</website>
-    <facebookgrupo>https://www.facebook.com/groups/1735809796639007/</facebookgrupo>
+    <website></website>
+    <facebookgrupo>https://www.facebook.com/TVsupertuga.PT/</facebookgrupo>
     <email>tvsupertuga@gmail.com</email>
   </extension>
 </addon>
@@ -955,6 +955,20 @@ SEND E MAIL: tvsupertuga@gmail.com[/B][/COLOR]</description>
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
     <source>https://github.com/Mafarricos/service.subtitles.opensubtitles</source>
   </extension>
+</addon>
+
+<addon id="supermilton.repository" name="Super Milton Add-on Repository" version="0.0.2" provider-name="Milton Guedes">
+	<extension point="xbmc.addon.repository" name="Super Milton Add-on Repository">
+		<info compressed="false">http://raw.github.com/listamilton/supermilton.repository/supermilton.repository/addons.xml</info>
+		<checksum>http://raw.github.com/listamilton/supermilton.repository/supermilton.repository/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/listamilton/supermilton.repository/supermilton.repository/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Super Milton Add-on Repository</summary>
+		<description>Repositorio de Addons do Milton Guedes</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
 </addon>
 
 <addon id="tvsupertuga.repository" name="[COLOR cyan]TV[/COLOR]-[COLOR red]SUPERTUGA[/COLOR].[COLOR limegreen]REPOSITORY[/COLOR]" version="0.0.6" provider-name="TVsupertuga">

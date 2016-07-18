@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.projectxwizard" 
 	     name="[COLOR White]Project[/COLOR] [COLOR cyan]X[/COLOR] [COLOR White]Wizard[/COLOR]" 
-	     version="0.1.0" 
-	     provider-name="TEAM-TUGA.4EVER">
+	     version="0.1.1" 
+	     provider-name="TVsupertuga">
   <requires>
   	<import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -20,8 +20,8 @@
     <platform>all</platform>
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
     <forum>http://tvsupertuga.forum-gratuito.com/</forum>
-    <website>http://www.team-tuga4ever.16mb.com/</website>
-    <facebookgrupo>https://www.facebook.com/groups/1735809796639007/</facebookgrupo>
+    <website></website>
+    <facebookgrupo>https://www.facebook.com/TVsupertuga.PT/</facebookgrupo>
     <email>tvsupertuga@gmail.com</email>
   </extension>
 </addon>
