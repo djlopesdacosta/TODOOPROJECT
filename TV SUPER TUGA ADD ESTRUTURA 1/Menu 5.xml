@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 
-<item>
-<title>[COLOR lavenderblush]SERIES RECENTES[/COLOR]           [COLOR orange](SPECTO)[/COLOR]</title>
-<link>http://Movies.me</link>
-<jsonrpc>plugin://plugin.video.specto/?action=tvWidget</jsonrpc>
-<thumbnail>http://orig01.deviantart.net/5da2/f/2015/035/d/e/t_v__series_folder_icon__colorflow__by_thajizzle-d8gpn4v.png</thumbnail>
-<fanart>http://alchimy.info/wp-content/uploads/2015/06/7_s%C3%A9ries_au_crible.jpg</fanart>
-</item>
-</Channel>
-
 
 </item>
 <channel>
@@ -44,7 +35,7 @@
 <name> [COLOR white]  FILMES TRADUZIDOS 2 PT-BR[/COLOR]           [COLOR orange](IPTVBRASILHD)[/COLOR] </name>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQa_jg5F_iV7ZH76yIX_E2l67vdBRH3w8uBKZOH_hyqYB2ZaOPsWQ</thumbnail>
 <fanart>http://viagenstop10.com.br/wp-content/uploads/2015/09/img-2419-mashup-filmes-2012.jpg</fanart>
-<externallink>https://6r97vw-dm2306.files.1drv.com/y3m10YjeY0sa4czDHfmKeD5gfI50nrIZv-XHp0iqB5QvkB618RoR50Vnc4ATS_lhxGg3CGjrbieZwVeJv0w6bksyk0vSKtrKgFQ7EK_0y-5Xu_d2ULjykPUGxxbKBZEW2PR5WL2lXotrHloeT37hcYQulZAvm1TEJlUu-7MgNRf3_c/FILME%20HD.m3u?download&psid=1</externallink>
+<externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA%201/FILMES/FILME%20HD.m3u</externallink>
 </subitem>
 </item>
 
