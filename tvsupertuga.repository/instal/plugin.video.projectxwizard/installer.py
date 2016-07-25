@@ -36,10 +36,10 @@ def INSTALL(name,url,description):
 		if choice == 0:
 			sys.exit(1)
 
-	if name == "MATAPOUCO":
+	if name == "300":
 		wipeme = 1
-		name = "MATAPOUCO"
-		choice = xbmcgui.Dialog().yesno(AddonTitle, 'MATAPOUCO was designed for mid-level machines like MX8 & T8.','Recomended: Single Core CPU | 512 RAM or more','[I][COLOR lightsteelblue]Would you like to download this build now?[/I][/COLOR]', yeslabel='[B][COLOR green]YES[/COLOR][/B]',nolabel='[B][COLOR red]NO[/COLOR][/B]')
+		name = "300"
+		choice = xbmcgui.Dialog().yesno(AddonTitle, '300 was designed for mid-level machines like MX8 & T8.','Recomended: Single Core CPU | 1GB RAM or more','[I][COLOR lightsteelblue]Would you like to download this build now?[/I][/COLOR]', yeslabel='[B][COLOR green]YES[/COLOR][/B]',nolabel='[B][COLOR red]NO[/COLOR][/B]')
 		if choice == 0:
 			sys.exit(1)
 

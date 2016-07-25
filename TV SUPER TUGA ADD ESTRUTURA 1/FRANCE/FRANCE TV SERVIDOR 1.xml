@@ -25,7 +25,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 21-07-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 26-07-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
@@ -34,316 +34,390 @@
 
 
 
-
  
-  
           <item> 
-            <title>FRA - TF 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - TF 1 HD</link> 
+            <title>FR:EURONEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/247.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:EURONEWS</link> 
         </item> 
           <item> 
-            <title>FRA - France 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/372.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - France 2 HD</link> 
+            <title>FR:FRANCE24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/227.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE24</link> 
         </item> 
           <item> 
-            <title>FRA - France 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/373.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - France 3</link> 
+            <title>FR:BFM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/246.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BFM</link> 
         </item> 
           <item> 
-            <title>FRA - France 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/374.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - France 4</link> 
+            <title>FR:TV5_MONDE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/513.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TV5_MONDE</link> 
         </item> 
           <item> 
-            <title>FRA - France 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/375.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - France 5</link> 
+            <title>FR:ITELE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1747.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:ITELE</link> 
         </item> 
           <item> 
-            <title>FRA - France Ô</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/773.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - France Ô</link> 
+            <title>FR:LCI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2431.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:LCI</link> 
         </item> 
           <item> 
-            <title>FRA - M6 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/505.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - M6 HD</link> 
+            <title>FR:ARTE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/248.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:ARTE</link> 
         </item> 
           <item> 
-            <title>FRA - Arte HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/509.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Arte HD</link> 
+            <title>FR:TF1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/214.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TF1</link> 
         </item> 
           <item> 
-            <title>FRA - Paris Premiere HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/528.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Paris Premiere HD</link> 
+            <title>FR:M6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/215.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:M6</link> 
         </item> 
           <item> 
-            <title>FRA - TMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/517.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - TMC</link> 
+            <title>FR:W9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/216.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:W9</link> 
         </item> 
           <item> 
-            <title>------ CINÃˆMA ------</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/946.ts&amp;streamtype=TSDOWNLOADER&amp;name=------ CINÃˆMA ------</link> 
+            <title>FR:FRANCE2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/217.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE2</link> 
         </item> 
           <item> 
-            <title>FRA - Canal+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/496.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Canal+</link> 
+            <title>FR:FRANCE3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/218.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE3</link> 
         </item> 
           <item> 
-            <title>FRA - Canal+ Cinema</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Canal+ Cinema</link> 
+            <title>FR:FRANCE4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/219.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE4</link> 
         </item> 
           <item> 
-            <title>FRA - Canal+ Family</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/367.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Canal+ Family</link> 
+            <title>FR:FRANCE5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/220.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE5</link> 
         </item> 
           <item> 
-            <title>FRA - NRJ 12</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/1798.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - NRJ 12</link> 
+            <title>FR:FRANCEO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/221.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCEO</link> 
         </item> 
           <item> 
-            <title>FRA - OCS City</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/1800.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - OCS City</link> 
+            <title>FR:CANAL+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/445.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+</link> 
         </item> 
           <item> 
-            <title>FRA - NT1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/1799.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - NT1</link> 
+            <title>FR:CANAL+CINEMA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/193.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+CINEMA</link> 
         </item> 
           <item> 
-            <title>FRA - Cine+ Premier</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/522.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Cine+ Premier</link> 
+            <title>FR:CANAL+FAMILY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/194.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+FAMILY</link> 
         </item> 
           <item> 
-            <title>FRA - Cine+ Emotion</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/797.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Cine+ Emotion</link> 
+            <title>FR:CANAL+SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/446.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+SPORT</link> 
         </item> 
           <item> 
-            <title>FRA - Cine+ Frisson</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/837.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Cine+ Frisson</link> 
+            <title>FR:CANAL+DECALE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1825.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+DECALE</link> 
         </item> 
           <item> 
-            <title>FRA - Cine+ Famiz</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/1793.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Cine+ Famiz</link> 
+            <title>FR:CANAL+SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/195.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+SERIES</link> 
         </item> 
           <item> 
-            <title>FRA - Cine+ Club</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/1791.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Cine+ Club</link> 
+            <title>FR:CINE+PREMIER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/207.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE+PREMIER</link> 
         </item> 
           <item> 
-            <title>FRA - Cine+ Classic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/1792.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Cine+ Classic</link> 
+            <title>FR:CINE+FRISSON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/200.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE+FRISSON</link> 
         </item> 
           <item> 
-            <title>FRA - Action HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/1796.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Action HD</link> 
+            <title>FR:CINE+FAMIZ</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/210.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE+FAMIZ</link> 
         </item> 
           <item> 
-            <title>------ DIVERTISSEMENT ------</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/945.ts&amp;streamtype=TSDOWNLOADER&amp;name=------ DIVERTISSEMENT ------</link> 
+            <title>FR:CINE+EMOTION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/209.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE+EMOTION</link> 
         </item> 
           <item> 
-            <title>FRA - Canal+ Decale</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/799.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Canal+ Decale</link> 
+            <title>FR:CINE+_CLASSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1827.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE+_CLASSIC</link> 
         </item> 
           <item> 
-            <title>FRA - Canal+ Series</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/497.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Canal+ Series</link> 
+            <title>FR:OCS_MAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/196.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:OCS_MAX</link> 
         </item> 
           <item> 
-            <title>FRA - SyFy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/1795.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - SyFy</link> 
+            <title>FR:OCS_GEANTS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/198.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:OCS_GEANTS</link> 
         </item> 
           <item> 
-            <title>FRA - 13eme Rue</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/1794.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - 13eme Rue</link> 
+            <title>FR:OCS_CHOC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/197.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:OCS_CHOC</link> 
         </item> 
           <item> 
-            <title>FRA - ComÃ©die +</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/973.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - ComÃ©die +</link> 
+            <title>FR:ACTION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/213.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:ACTION</link> 
         </item> 
           <item> 
-            <title>FRA - Cherie 25 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/1801.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Cherie 25 HD</link> 
+            <title>FR:13EME_RUE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/224.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:13EME_RUE</link> 
         </item> 
           <item> 
-            <title>FRA - HD1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/1803.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - HD1 HD</link> 
+            <title>FR:TV_BREIZH</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1828.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TV_BREIZH</link> 
         </item> 
           <item> 
-            <title>FRA - Serie Club</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/1316.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Serie Club</link> 
+            <title>FR:POLAR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/231.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:POLAR</link> 
         </item> 
           <item> 
-            <title>FRA - L Equipe 21 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/774.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - L Equipe 21 HD</link> 
+            <title>FR:SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/228.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SYFY</link> 
         </item> 
           <item> 
-            <title>FRA - W9 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/539.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - W9 HD</link> 
+            <title>FR:SERIE_CLUB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/237.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SERIE_CLUB</link> 
         </item> 
           <item> 
-            <title>FRA - D8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/775.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - D8</link> 
+            <title>FR:CHERIE25</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1386.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CHERIE25</link> 
         </item> 
           <item> 
-            <title>FRA - D17</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/512.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - D17</link> 
+            <title>FR:PARIS_PREMIERE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/223.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:PARIS_PREMIERE</link> 
         </item> 
           <item> 
-            <title>FRA - RTL 9 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/846.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - RTL 9 HD</link> 
+            <title>FR:NORMANDIE_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/249.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NORMANDIE_TV</link> 
         </item> 
           <item> 
-            <title>FRA - M6 Music</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/555.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - M6 Music</link> 
+            <title>FR:COMEDIE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/225.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:COMEDIE</link> 
         </item> 
           <item> 
-            <title>FRA - RMC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/2229.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - RMC HD</link> 
+            <title>FR:D8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1782.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:D8</link> 
         </item> 
           <item> 
-            <title>FRA - Canal+ Sport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/501.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Canal+ Sport</link> 
+            <title>FR:D17</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/208.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:D17</link> 
         </item> 
           <item> 
-            <title>FRA - Canal+ Foot+ 24/24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/531.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Canal+ Foot+ 24/24</link> 
+            <title>FR:HD1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1811.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:HD1</link> 
         </item> 
           <item> 
-            <title>FRA - Bein Sport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/498.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Bein Sport 1 HD</link> 
+            <title>FR:RTL9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/222.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:RTL9</link> 
         </item> 
           <item> 
-            <title>FRA - Bein Sport 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/499.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Bein Sport 2 HD</link> 
+            <title>FR:TMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/251.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TMC</link> 
         </item> 
           <item> 
-            <title>FRA - Bein Sport 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/1088.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Bein Sport 3 HD</link> 
+            <title>FR:TEVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/244.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TEVA</link> 
         </item> 
           <item> 
-            <title>FRA - Bein Sport Max 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/1808.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Bein Sport Max 4</link> 
+            <title>FR:NT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/226.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NT1</link> 
         </item> 
           <item> 
-            <title>FRA - Bein Sport Max 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/1807.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Bein Sport Max 5</link> 
+            <title>FR:NRJ12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/253.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NRJ12</link> 
         </item> 
           <item> 
-            <title>FRA - Bein Sport Max 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/1806.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Bein Sport Max 6</link> 
+            <title>FR:6TER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/203.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:6TER</link> 
         </item> 
           <item> 
-            <title>FRA - Bein Sport Max 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/1805.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Bein Sport Max 7</link> 
+            <title>FR:WEO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/243.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:WEO</link> 
         </item> 
           <item> 
-            <title>FRA - Bein Sport Max 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/1804.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Bein Sport Max 8</link> 
+            <title>FR:DISNEY_CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/254.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DISNEY_CHANNEL</link> 
         </item> 
           <item> 
-            <title>FRA - Eurosport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/527.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Eurosport 1 HD</link> 
+            <title>FR:DISNEY_CINEMA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1986.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DISNEY_CINEMA</link> 
         </item> 
           <item> 
-            <title>FRA - N23 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/526.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - N23 HD</link> 
+            <title>FR:DISNEY_JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/511.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DISNEY_JUNIOR</link> 
         </item> 
           <item> 
-            <title>FRA - infosport+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/790.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - infosport+</link> 
+            <title>FR:GULLI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/258.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:GULLI</link> 
         </item> 
           <item> 
-            <title>FRA - Ma Chaine Sport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/792.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Ma Chaine Sport</link> 
+            <title>FR:PIWI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1992.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:PIWI</link> 
         </item> 
           <item> 
-            <title>------ CULTURE ------</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/943.ts&amp;streamtype=TSDOWNLOADER&amp;name=------ CULTURE ------</link> 
+            <title>FR:CARTOON_NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/257.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CARTOON_NETWORK</link> 
         </item> 
           <item> 
-            <title>FRA - Planet+ HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/612.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Planet+ HD</link> 
+            <title>FR:TELETOON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1689.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TELETOON</link> 
         </item> 
           <item> 
-            <title>FRA - Ushuaia TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/629.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Ushuaia TV</link> 
+            <title>FR:CANALJ</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANALJ</link> 
         </item> 
           <item> 
-            <title>FRA - Planet+ CI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/611.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Planet+ CI</link> 
+            <title>FR:BOOMERANG</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/256.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BOOMERANG</link> 
         </item> 
           <item> 
-            <title>FRA - Nat Geo HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/520.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Nat Geo HD</link> 
+            <title>FR:TIJI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/235.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TIJI</link> 
         </item> 
           <item> 
-            <title>FRA - Nat Geo Wild HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/1315.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Nat Geo Wild HD</link> 
+            <title>FR:MANGA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/259.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MANGA</link> 
         </item> 
           <item> 
-            <title>FRA -  Discovery</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/1789.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA -  Discovery</link> 
+            <title>FR:M6_MUSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/204.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:M6_MUSIC</link> 
         </item> 
           <item> 
-            <title>FRA - Discovery Science</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/1797.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Discovery Science</link> 
+            <title>FR:MTV_ROCKS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2693.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MTV_ROCKS</link> 
         </item> 
           <item> 
-            <title>FRA - History</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/524.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - History</link> 
+            <title>FR:MTV_MUSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2694.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MTV_MUSIC</link> 
         </item> 
           <item> 
-            <title>FRA - Animaux HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/776.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Animaux HD</link> 
+            <title>FR:MTV_Hits!</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR:MTV_Hits&amp;streamtype=TSDOWNLOADER&amp;name=FR:MTV_Hits!</link> 
         </item> 
           <item> 
-            <title>FRA - Casse e Peche</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/535.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Casse e Peche</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2695.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>------ ENFANTS ------</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/942.ts&amp;streamtype=TSDOWNLOADER&amp;name=------ ENFANTS ------</link> 
+            <title>FR:MTV_Dance</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2696.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MTV_Dance</link> 
         </item> 
           <item> 
-            <title>FRA - Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/525.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Disney Channel</link> 
+            <title>FR:MTV_BASE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2697.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MTV_BASE</link> 
         </item> 
           <item> 
-            <title>FRA - Disney Cinema</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/1802.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Disney Cinema</link> 
+            <title>FR:BEIN_SPORTS_HD1+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2939.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BEIN_SPORTS_HD1+</link> 
         </item> 
           <item> 
-            <title>FRA - Cartoon Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/601.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Cartoon Network</link> 
+            <title>FR:BEIN_SPORTS_HD1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/190.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BEIN_SPORTS_HD1</link> 
         </item> 
           <item> 
-            <title>FRA - Boomerang</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/506.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Boomerang</link> 
+            <title>FR:BEIN_SPORTS_HD2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/191.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BEIN_SPORTS_HD2</link> 
         </item> 
           <item> 
-            <title>FRA - Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/777.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Disney Junior</link> 
+            <title>FR:BEIN_SPORTS_HD3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/192.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BEIN_SPORTS_HD3</link> 
         </item> 
           <item> 
-            <title>FRA - Gulli</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/514.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Gulli</link> 
+            <title>FR:EUROSPORT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/858.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:EUROSPORT1</link> 
         </item> 
           <item> 
-            <title>FRA - 6ter HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/518.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - 6ter HD</link> 
+            <title>FR:EUROSPORT2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:EUROSPORT2</link> 
         </item> 
           <item> 
-            <title>FRA - France 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/789.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - France 24</link> 
+            <title>FR:EQUIPE21</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1750.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:EQUIPE21</link> 
         </item> 
           <item> 
-            <title>FRA - Nickelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/2235.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - Nickelodeon</link> 
+            <title>FR:MA_CHAINE_SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/262.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MA_CHAINE_SPORT</link> 
         </item> 
           <item> 
-            <title>FRA - BFM TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/511.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - BFM TV</link> 
+            <title>FR:FOOT+24/24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FOOT+24/24</link> 
         </item> 
           <item> 
-            <title>FRA - iTele</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://spirit01.webhop.me:8000/live/yU7NfnTrGW/Oliovergineextra/791.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRA - iTele</link> 
+            <title>FR:OLTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1781.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:OLTV</link> 
+        </item> 
+          <item> 
+            <title>FR:INFOSPORT+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/199.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:INFOSPORT+</link> 
+        </item> 
+          <item> 
+            <title>FR:DISCOVERY_SCIENCE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/230.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DISCOVERY_SCIENCE</link> 
+        </item> 
+          <item> 
+            <title>FR:DISCOVERY_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/232.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DISCOVERY_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:SCIENCES_VIE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/229.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SCIENCES_VIE</link> 
+        </item> 
+          <item> 
+            <title>FR:NATGEO_WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/233.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NATGEO_WILD</link> 
+        </item> 
+          <item> 
+            <title>FR:NATGEO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/234.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NATGEO</link> 
+        </item> 
+          <item> 
+            <title>FR:PLANETE+_CI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/239.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:PLANETE+_CI</link> 
+        </item> 
+          <item> 
+            <title>FR:CHASSE_ET_PECHE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/212.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CHASSE_ET_PECHE</link> 
+        </item> 
+          <item> 
+            <title>FR:PLANETE_AE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1744.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:PLANETE_AE</link> 
+        </item> 
+          <item> 
+            <title>FR:PLANETE+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/240.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:PLANETE+</link> 
+        </item> 
+          <item> 
+            <title>FR:TOUTE_L'HISTOIRE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1830.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TOUTE_L'HISTOIRE</link> 
+        </item> 
+          <item> 
+            <title>FR:ANIMAUX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/236.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:ANIMAUX</link> 
+        </item> 
+          <item> 
+            <title>FR:USHUAIA_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/206.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:USHUAIA_TV</link> 
+        </item> 
+          <item> 
+            <title>FR:VOYAGE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/205.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:VOYAGE</link> 
+        </item> 
+          <item> 
+            <title>FR:CANALPALY_5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2372.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANALPALY_5</link> 
+        </item> 
+          <item> 
+            <title>FR:CANALPLAY_4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2360.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANALPLAY_4</link> 
+        </item> 
+          <item> 
+            <title>FR:CANALPALY_3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2359.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANALPALY_3</link> 
+        </item> 
+          <item> 
+            <title>FR:CANALPLAY_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2358.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANALPLAY_2</link> 
+        </item> 
+          <item> 
+            <title>FR:CANALPLAY_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2357.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANALPLAY_1</link> 
         </item> 
   
           
