@@ -23,7 +23,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 18-07-16 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 29-07-16 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -35,293 +35,94 @@
 
 
 
-
-
-
  
           <item> 
-            <title>NL=ZIGGO_SPORT_Voetbal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1554.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=ZIGGO_SPORT_Voetbal</link> 
+            <title>NL:NPO_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1642.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:NPO_1</link> 
         </item> 
           <item> 
-            <title>NL=VERONICA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1293.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=VERONICA</link> 
+            <title>NL:NPO_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1643.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:NPO_2</link> 
         </item> 
           <item> 
-            <title>NL=TV_Oost</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1291.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=TV_Oost</link> 
+            <title>NL:NPO_3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1644.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:NPO_3</link> 
         </item> 
           <item> 
-            <title>NL=TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1306.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=TLC</link> 
+            <title>NL:HBO_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1639.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:HBO_1</link> 
         </item> 
           <item> 
-            <title>BE=CLUB_RTL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1562.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE=CLUB_RTL</link> 
+            <title>NL:HBO_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1640.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:HBO_2</link> 
         </item> 
           <item> 
-            <title>NL=SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1307.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=SYFY</link> 
+            <title>NL:HBO_3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1641.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:HBO_3</link> 
         </item> 
           <item> 
-            <title>NL=SPORTS_1_RACING</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1258.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=SPORTS_1_RACING</link> 
+            <title>NL:RTL5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1648.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:RTL5</link> 
         </item> 
           <item> 
-            <title>NL=SPORTS_1_GOLF</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1259.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=SPORTS_1_GOLF</link> 
+            <title>NL:RTL4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1647.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:RTL4</link> 
         </item> 
           <item> 
-            <title>NL=SPORTS_1_EXSTRA_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1260.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=SPORTS_1_EXSTRA_2</link> 
+            <title>NL:RTL7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1649.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:RTL7</link> 
         </item> 
           <item> 
-            <title>NL=ZIGGO_SPORT_SELECT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1257.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=ZIGGO_SPORT_SELECT</link> 
+            <title>NL:RTL8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1650.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:RTL8</link> 
         </item> 
           <item> 
-            <title>NL=SPORT_1_EXSTRA-1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1261.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=SPORT_1_EXSTRA-1</link> 
+            <title>Nl:SBS_6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1646.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nl:SBS_6</link> 
         </item> 
           <item> 
-            <title>BE=PLUG_RTL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1559.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE=PLUG_RTL</link> 
+            <title>NL:Film1_Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1651.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:Film1_Action</link> 
         </item> 
           <item> 
-            <title>NL=SBS_9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1304.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=SBS_9</link> 
+            <title>NL:FILM1_PREMIERE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1861.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:FILM1_PREMIERE</link> 
         </item> 
           <item> 
-            <title>NL=SBS_6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1305.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=SBS_6</link> 
+            <title>NL:NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1705.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:NICKELODEON</link> 
         </item> 
           <item> 
-            <title>NL=SALEM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1271.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=SALEM</link> 
+            <title>NL:FOX_SPORTS1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1573.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:FOX_SPORTS1</link> 
         </item> 
           <item> 
-            <title>NL=RTV_DRENTHE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1289.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=RTV_DRENTHE</link> 
+            <title>NL:FOX_SPORTS2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1574.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:FOX_SPORTS2</link> 
         </item> 
           <item> 
-            <title>BE=RTL_TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1555.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE=RTL_TVI</link> 
+            <title>NL:FOX_SPORTS3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1575.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:FOX_SPORTS3</link> 
         </item> 
           <item> 
-            <title>NL=RTL_8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1294.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=RTL_8</link> 
+            <title>NL:FOX_SPORTS4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1576.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:FOX_SPORTS4</link> 
         </item> 
           <item> 
-            <title>NL=RTL_7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1295.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=RTL_7</link> 
+            <title>NL:FOX_SPORTS5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1577.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:FOX_SPORTS5</link> 
         </item> 
           <item> 
-            <title>NL=RTL_5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1296.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=RTL_5</link> 
+            <title>NL:SPORT1_VOETBAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1578.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:SPORT1_VOETBAL</link> 
         </item> 
           <item> 
-            <title>NL=RTL_4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1297.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=RTL_4</link> 
+            <title>NL:SPORT1_EXTRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1862.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:SPORT1_EXTRA</link> 
         </item> 
           <item> 
-            <title>NL=ORANJE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1270.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=ORANJE</link> 
-        </item> 
-          <item> 
-            <title>NL=NPO_ZAPP_XTRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1299.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=NPO_ZAPP_XTRA</link> 
-        </item> 
-          <item> 
-            <title>NL=NPO_3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1301.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=NPO_3</link> 
-        </item> 
-          <item> 
-            <title>NL=NPO_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1302.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=NPO_2</link> 
-        </item> 
-          <item> 
-            <title>NL=RTL Z</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1300.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=RTL Z</link> 
-        </item> 
-          <item> 
-            <title>NL=NPO_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1303.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=NPO_1</link> 
-        </item> 
-          <item> 
-            <title>NL=NICKTOONS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1276.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=NICKTOONS</link> 
-        </item> 
-          <item> 
-            <title>NL=NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1277.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=NICKELODEON</link> 
-        </item> 
-          <item> 
-            <title>NL=NICK_JR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1278.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=NICK_JR</link> 
-        </item> 
-          <item> 
-            <title>NL=NATIONAL_GEOGRAPHIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1287.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=NATIONAL_GEOGRAPHIC</link> 
-        </item> 
-          <item> 
-            <title>NL=MTV_MUSIC_24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1273.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=MTV_MUSIC_24</link> 
-        </item> 
-          <item> 
-            <title>NL=MTV_24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1275.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=MTV_24</link> 
-        </item> 
-          <item> 
-            <title>NL=MTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1274.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=MTV</link> 
-        </item> 
-          <item> 
-            <title>BE=La_Trois</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1557.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE=La_Trois</link> 
-        </item> 
-          <item> 
-            <title>BE=LA_DEUX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1556.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE=LA_DEUX</link> 
-        </item> 
-          <item> 
-            <title>NL=24KITCHEN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1281.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=24KITCHEN</link> 
-        </item> 
-          <item> 
-            <title>NL=KETNET</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1290.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=KETNET</link> 
-        </item> 
-          <item> 
-            <title>NL=JIM_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1563.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=JIM_TV</link> 
-        </item> 
-          <item> 
-            <title>NL=HBO_HD_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1372.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=HBO_HD_1</link> 
-        </item> 
-          <item> 
-            <title>NL=HBO_3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1318.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=HBO_3</link> 
-        </item> 
-          <item> 
-            <title>NL=HBO_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1319.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=HBO_2</link> 
-        </item> 
-          <item> 
-            <title>NL=HBO_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1320.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=HBO_1</link> 
-        </item> 
-          <item> 
-            <title>NL=FOX_SPORTS_6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1262.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=FOX_SPORTS_6</link> 
-        </item> 
-          <item> 
-            <title>NL=FOX_SPORTS_5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1263.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=FOX_SPORTS_5</link> 
-        </item> 
-          <item> 
-            <title>NL=FOX_SPORTS_4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1264.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=FOX_SPORTS_4</link> 
-        </item> 
-          <item> 
-            <title>NL=FOX_SPORTS_3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1265.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=FOX_SPORTS_3</link> 
-        </item> 
-          <item> 
-            <title>NL=FOX_SPORTS_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1266.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=FOX_SPORTS_2</link> 
-        </item> 
-          <item> 
-            <title>NL=FOX_SPORTS_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1267.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=FOX_SPORTS_1</link> 
-        </item> 
-          <item> 
-            <title>NL=FOX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1308.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=FOX</link> 
-        </item> 
-          <item> 
-            <title>NL=FILM_1_SUNDANCE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1315.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=FILM_1_SUNDANCE</link> 
-        </item> 
-          <item> 
-            <title>NL=FILM_1_SPORTLIGHT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1314.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=FILM_1_SPORTLIGHT</link> 
-        </item> 
-          <item> 
-            <title>NL=FILM_1_PREMIERE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1316.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=FILM_1_PREMIERE</link> 
-        </item> 
-          <item> 
-            <title>NL=FILM_1_ACTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1317.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=FILM_1_ACTION</link> 
-        </item> 
-          <item> 
-            <title>NL=ZIGGO_SPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1268.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=ZIGGO_SPORT</link> 
-        </item> 
-          <item> 
-            <title>NL=E!_ENTERTAINMENT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1283.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=E!_ENTERTAINMENT</link> 
-        </item> 
-          <item> 
-            <title>NL=DISNEY_JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1279.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=DISNEY_JUNIOR</link> 
-        </item> 
-          <item> 
-            <title>NL=DISCOVERY_CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1286.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=DISCOVERY_CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>NL=CRIME&amp;INVESTIGATION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1285.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=CRIME&amp;INVESTIGATION</link> 
-        </item> 
-          <item> 
-            <title>NL=COMEDY_CENTRAL_FAMILY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1311.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=COMEDY_CENTRAL_FAMILY</link> 
-        </item> 
-          <item> 
-            <title>NL=COMEDY_CENTRAL_EXTRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1310.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=COMEDY_CENTRAL_EXTRA</link> 
-        </item> 
-          <item> 
-            <title>NL=CANVAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1292.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=CANVAS</link> 
-        </item> 
-          <item> 
-            <title>BE=LA_UNE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1561.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE=LA_UNE</link> 
-        </item> 
-          <item> 
-            <title>NL=TV 538</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1558.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=TV 538</link> 
-        </item> 
-          <item> 
-            <title>NL=BBC_ENTERTAINMENT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1282.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=BBC_ENTERTAINMENT</link> 
-        </item> 
-          <item> 
-            <title>NL=AT-5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1288.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=AT-5</link> 
-        </item> 
-          <item> 
-            <title>NL=13TH_STREET</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1309.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=13TH_STREET</link> 
-        </item> 
-          <item> 
-            <title>NL=100%_NL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1269.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=100%_NL</link> 
-        </item> 
-          <item> 
-            <title>NL=NET_5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1298.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=NET_5</link> 
-        </item> 
-          <item> 
-            <title>NL=FILM_1_COMEDY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1313.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=FILM_1_COMEDY</link> 
-        </item> 
-          <item> 
-            <title>NL=COMEDY_CENTRAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1312.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL=COMEDY_CENTRAL</link> 
+            <title>NL:DISNEYXD/VERONICA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1998.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:DISNEYXD/VERONICA</link> 
         </item> 
   
 
