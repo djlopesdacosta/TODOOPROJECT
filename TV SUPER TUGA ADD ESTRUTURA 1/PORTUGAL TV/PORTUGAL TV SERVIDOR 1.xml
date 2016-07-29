@@ -17,7 +17,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 18-07-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 29-07-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -35,212 +35,162 @@
 
 
 
-
-
- 
-        
-         
-          
  
           <item> 
-            <title>PT: TVCINE 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1920.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 1 HD</link> 
+            <title>PT:NATIONAL_GEO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2364.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:NATIONAL_GEO</link> 
         </item> 
           <item> 
-            <title>PT: TVCINE 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1921.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 2 HD</link> 
+            <title>PT:NATGEO_WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2365.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:NATGEO_WILD</link> 
         </item> 
           <item> 
-            <title>PT: TVCINE 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1922.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 3 HD</link> 
+            <title>PT:SIC_NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2366.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC_NOTICIAS</link> 
         </item> 
           <item> 
-            <title>PT: TVCINE 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1923.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 4 HD</link> 
+            <title>PT:EUROSPORT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2367.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:EUROSPORT1</link> 
         </item> 
           <item> 
-            <title>PT: RTP 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1939.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2</link> 
+            <title>PT:NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2363.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:NICKELODEON</link> 
         </item> 
           <item> 
-            <title>PT: RTP 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1940.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 3</link> 
+            <title>PT:DISNEY_CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2368.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:DISNEY_CHANNEL</link> 
         </item> 
           <item> 
-            <title>PT: RTP MEMORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1935.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP MEMORIA</link> 
+            <title>PT:BABY_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2370.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BABY_TV</link> 
         </item> 
           <item> 
-            <title>PT: RTP MADEIRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1936.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP MADEIRA</link> 
+            <title>PT:SIC_RADICAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2371.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC_RADICAL</link> 
         </item> 
           <item> 
-            <title>PT: RTP INTERNACIONAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1937.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP INTERNACIONAL</link> 
+            <title>PT:TVCine1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2302.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCine1</link> 
         </item> 
           <item> 
-            <title>PT: SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1934.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC</link> 
+            <title>PT:TVCine2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2303.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCine2</link> 
         </item> 
           <item> 
-            <title>PT: SIC CARAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1933.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC CARAS</link> 
+            <title>PT:TVCine3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2304.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCine3</link> 
         </item> 
           <item> 
-            <title>PT: SIC RADICAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1929.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC RADICAL</link> 
+            <title>PT:TVCine4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2305.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCine4</link> 
         </item> 
           <item> 
-            <title>PT: SIC MULHER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1931.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC MULHER</link> 
+            <title>PT:TVCseries</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2306.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCseries</link> 
         </item> 
           <item> 
-            <title>PT: SIC NOTICIAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1930.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC NOTICIAS</link> 
+            <title>PT:RTP_Madeira</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2318.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP_Madeira</link> 
         </item> 
           <item> 
-            <title>PT: SIC KIDS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1932.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC KIDS</link> 
+            <title>PT:RTP_Informacao</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2319.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP_Informacao</link> 
         </item> 
           <item> 
-            <title>PT: TV GLOBO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1948.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO</link> 
+            <title>PT:RTP2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2320.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP2</link> 
         </item> 
           <item> 
-            <title>PT: TV GLOBO PREMIUM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1947.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO PREMIUM</link> 
+            <title>PT:RTP1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2321.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP1</link> 
         </item> 
           <item> 
-            <title>PT: TNT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1925.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TNT</link> 
+            <title>PT:Fox_Life</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2313.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Fox_Life</link> 
         </item> 
           <item> 
-            <title>PT: TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1926.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TLC</link> 
+            <title>PT:Fox_Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2314.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Fox_Crime</link> 
         </item> 
           <item> 
-            <title>PT: SYFY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1927.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SYFY HD</link> 
+            <title>PT:Fox_Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2311.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Fox_Comedy</link> 
         </item> 
           <item> 
-            <title>PT: TV SERIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1924.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV SERIES</link> 
+            <title>PT:FoxHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2312.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FoxHD</link> 
         </item> 
           <item> 
-            <title>PT: TVI24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1917.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI24</link> 
+            <title>PT:Axn_White</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2309.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Axn_White</link> 
         </item> 
           <item> 
-            <title>PT: TVI REALITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1918.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI REALITY</link> 
+            <title>PT:Axn_Black</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2310.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Axn_Black</link> 
         </item> 
           <item> 
-            <title>PT: TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1919.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI</link> 
+            <title>PT:AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2308.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AXN</link> 
         </item> 
           <item> 
-            <title>PT: RTP 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1938.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1</link> 
+            <title>PT:SporTV5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2298.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SporTV5</link> 
         </item> 
           <item> 
-            <title>PT: HOLLYWOOD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1945.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: HOLLYWOOD</link> 
+            <title>PT:SPORT_TV1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2325.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SPORT_TV1</link> 
         </item> 
           <item> 
-            <title>PT: FOX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1952.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX</link> 
+            <title>PT:SporTV2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2295.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SporTV2</link> 
         </item> 
           <item> 
-            <title>PT: FOX LIFE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1950.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX LIFE</link> 
+            <title>PT:SporTV3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2296.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SporTV3</link> 
         </item> 
           <item> 
-            <title>PT: FOX CRIME</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1951.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX CRIME</link> 
+            <title>PT:SporTV4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2297.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SporTV4</link> 
         </item> 
           <item> 
-            <title>PT: FOX MOVIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1949.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX MOVIES</link> 
+            <title>PT:Sporting</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2299.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sporting</link> 
         </item> 
           <item> 
-            <title>PT: AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1959.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD</link> 
+            <title>PT:Canal_Porto</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2315.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Canal_Porto</link> 
         </item> 
           <item> 
-            <title>PT: AXN WHITE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1958.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN WHITE HD</link> 
+            <title>PT:Benfica2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2300.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Benfica2</link> 
         </item> 
           <item> 
-            <title>PT: AXN BLACK HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1960.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN BLACK HD</link> 
+            <title>PT:Benfica1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2301.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Benfica1</link> 
         </item> 
           <item> 
-            <title>PT: SPORTTV 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1912.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTTV 1 HD</link> 
+            <title>PT:VeVo1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2307.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:VeVo1</link> 
         </item> 
           <item> 
-            <title>PT: SPORTTV 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1913.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTTV 2 HD</link> 
+            <title>PT:TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2317.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI</link> 
         </item> 
           <item> 
-            <title>PT: SPORTTV 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1915.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTTV 3 HD</link> 
+            <title>PT:SIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2316.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC</link> 
         </item> 
           <item> 
-            <title>PT: SPORTTV 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1916.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTTV 4 HD</link> 
+            <title>PT:SyFy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2322.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SyFy</link> 
         </item> 
           <item> 
-            <title>PT: SPORTTV 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1914.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTTV 5 HD</link> 
+            <title>PT:Disney_Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2324.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Disney_Junior</link> 
         </item> 
           <item> 
-            <title>PT: SPORTING TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1928.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTING TV HD</link> 
-        </item> 
-          <item> 
-            <title>PT: REAL MADRID TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1941.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: REAL MADRID TV HD</link> 
-        </item> 
-          <item> 
-            <title>PT: ODISSEIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1944.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ODISSEIA</link> 
-        </item> 
-          <item> 
-            <title>PT: Historia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1946.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Historia</link> 
-        </item> 
-          <item> 
-            <title>PT: E! Entertainment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1953.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: E! Entertainment</link> 
-        </item> 
-          <item> 
-            <title>PT: Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1942.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel</link> 
-        </item> 
-          <item> 
-            <title>PT: Discovery Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1954.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery Channel</link> 
-        </item> 
-          <item> 
-            <title>PT: CAZA y PESCA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1955.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CAZA y PESCA</link> 
-        </item> 
-          <item> 
-            <title>PT: Canal Porto</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1943.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Porto</link> 
-        </item> 
-          <item> 
-            <title>PT: CANAL PANDA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1956.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL PANDA HD</link> 
-        </item> 
-          <item> 
-            <title>PT: BABY TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1957.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BABY TV</link> 
-        </item> 
-          <item> 
-            <title>PT: ABOLA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/martins/martins/1961.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ABOLA TV</link> 
+            <title>PT:CartoonNetWork</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2323.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CartoonNetWork</link> 
         </item> 
   
   
