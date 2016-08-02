@@ -23,7 +23,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 26-07-16 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 03-08-16 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -31,95 +31,191 @@
 </item>
 
  
+ 
           <item> 
-            <title>NL:NPO_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1642.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:NPO_1</link> 
+            <title>NL_SPORT_1_VOETBAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_SPORT_1_VOETBAL</link> 
         </item> 
           <item> 
-            <title>NL:NPO_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1643.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:NPO_2</link> 
+            <title>NL_SPORT_1_SELECT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/543.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_SPORT_1_SELECT</link> 
         </item> 
           <item> 
-            <title>NL:NPO_3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1644.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:NPO_3</link> 
+            <title>NL_SPORT_1_GOLF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/542.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_SPORT_1_GOLF</link> 
         </item> 
           <item> 
-            <title>NL:HBO_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1639.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:HBO_1</link> 
+            <title>NL_HBO_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/527.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_HBO_1</link> 
         </item> 
           <item> 
-            <title>NL:HBO_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1640.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:HBO_2</link> 
+            <title>NL_HBO_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/528.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_HBO_2</link> 
         </item> 
           <item> 
-            <title>NL:HBO_3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1641.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:HBO_3</link> 
+            <title>NL_HBO_3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/529.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_HBO_3</link> 
         </item> 
           <item> 
-            <title>NL:RTL5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1648.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:RTL5</link> 
+            <title>NL_NPO 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/535.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_NPO 1</link> 
         </item> 
           <item> 
-            <title>NL:RTL4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1647.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:RTL4</link> 
+            <title>NL_NPO 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/536.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_NPO 2</link> 
         </item> 
           <item> 
-            <title>NL:RTL7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1649.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:RTL7</link> 
+            <title>NL_NPO_3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/554.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_NPO_3</link> 
         </item> 
           <item> 
-            <title>NL:RTL8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1650.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:RTL8</link> 
+            <title>NL_RTL_4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/537.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_RTL_4</link> 
         </item> 
           <item> 
-            <title>Nl:SBS_6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1646.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nl:SBS_6</link> 
+            <title>NL_RTL_5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/538.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_RTL_5</link> 
         </item> 
           <item> 
-            <title>NL:Film1_Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1651.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:Film1_Action</link> 
+            <title>NL_RTL_7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/539.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_RTL_7</link> 
         </item> 
           <item> 
-            <title>NL:FILM1_PREMIERE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1861.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:FILM1_PREMIERE</link> 
+            <title>NL_RTL_8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/540.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_RTL_8</link> 
         </item> 
           <item> 
-            <title>NL:NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1705.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:NICKELODEON</link> 
+            <title>NL_NET_5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/555.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_NET_5</link> 
         </item> 
           <item> 
-            <title>NL:FOX_SPORTS1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1573.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:FOX_SPORTS1</link> 
+            <title>NL_SBS_6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/541.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_SBS_6</link> 
         </item> 
           <item> 
-            <title>NL:FOX_SPORTS2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1574.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:FOX_SPORTS2</link> 
+            <title>NL_SBS_9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/553.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_SBS_9</link> 
         </item> 
           <item> 
-            <title>NL:FOX_SPORTS3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1575.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:FOX_SPORTS3</link> 
+            <title>NL_VERONICA_/_DISNEY_XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/552.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_VERONICA_/_DISNEY_XD</link> 
         </item> 
           <item> 
-            <title>NL:FOX_SPORTS4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1576.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:FOX_SPORTS4</link> 
+            <title>NL_24kitchen</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/556.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_24kitchen</link> 
         </item> 
           <item> 
-            <title>NL:FOX_SPORTS5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1577.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:FOX_SPORTS5</link> 
+            <title>NL_FOX_SPORTS_5_EREDIVISIE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_FOX_SPORTS_5_EREDIVISIE</link> 
         </item> 
           <item> 
-            <title>NL:SPORT1_VOETBAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1578.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:SPORT1_VOETBAL</link> 
+            <title>NL_FOX_SPORTS_4_INTERNATIONAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/533.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_FOX_SPORTS_4_INTERNATIONAL</link> 
         </item> 
           <item> 
-            <title>NL:SPORT1_EXTRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1862.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:SPORT1_EXTRA</link> 
+            <title>NL__FOX_SPORTS_3_EREDIVISIE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/532.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL__FOX_SPORTS_3_EREDIVISIE</link> 
         </item> 
           <item> 
-            <title>NL:DISNEYXD/VERONICA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1998.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:DISNEYXD/VERONICA</link> 
+            <title>NL__FOX_SPORTS_2_INTERNATIONAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/531.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL__FOX_SPORTS_2_INTERNATIONAL</link> 
         </item> 
-  
+          <item> 
+            <title>NL__FOX_SPORTS_1_EREDIVISIE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/530.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL__FOX_SPORTS_1_EREDIVISIE</link> 
+        </item> 
+          <item> 
+            <title>NL_HBO 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/525.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_HBO 3</link> 
+        </item> 
+          <item> 
+            <title>NL_FILM_1_SUNDANCE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/524.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_FILM_1_SUNDANCE</link> 
+        </item> 
+          <item> 
+            <title>NL_FILM_1_PREMIERE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/523.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_FILM_1_PREMIERE</link> 
+        </item> 
+          <item> 
+            <title>NL_FILM_1_COMEDY_AND_KIDS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/522.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_FILM_1_COMEDY_AND_KIDS</link> 
+        </item> 
+          <item> 
+            <title>NL_FILM_1_ACTION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/521.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_FILM_1_ACTION</link> 
+        </item> 
+          <item> 
+            <title>NL_DISCOVERY_CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/520.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_DISCOVERY_CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>NL_COMEDY_CENTRAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/519.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_COMEDY_CENTRAL</link> 
+        </item> 
+          <item> 
+            <title>NL_Sport1_Select_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2095.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_Sport1_Select_HD</link> 
+        </item> 
+          <item> 
+            <title>NL_Sport_1_Racing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2096.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_Sport_1_Racing</link> 
+        </item> 
+          <item> 
+            <title>NL_Sport_Extra_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2097.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_Sport_Extra_1</link> 
+        </item> 
+          <item> 
+            <title>NL_Sport_Extra_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2098.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_Sport_Extra_2</link> 
+        </item> 
+          <item> 
+            <title>NL_Film1_Spotlight</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2099.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_Film1_Spotlight</link> 
+        </item> 
+          <item> 
+            <title>NL_Xite_Awrds</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2101.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_Xite_Awrds</link> 
+        </item> 
+          <item> 
+            <title>NL_TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2102.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_TLC</link> 
+        </item> 
+          <item> 
+            <title>NL_NPO_101</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2103.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_NPO_101</link> 
+        </item> 
+          <item> 
+            <title>NL_NPO_Zappelin_Xtra/Humor_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2104.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_NPO_Zappelin_Xtra/Humor_TV</link> 
+        </item> 
+          <item> 
+            <title>NL_NPO_Politiek/Best</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2105.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_NPO_Politiek/Best</link> 
+        </item> 
+          <item> 
+            <title>NL_NPO_Doc</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2106.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_NPO_Doc</link> 
+        </item> 
+          <item> 
+            <title>NL_Fox</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2107.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_Fox</link> 
+        </item> 
+          <item> 
+            <title>NL_AT5_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2108.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_AT5_HD</link> 
+        </item> 
+          <item> 
+            <title>NL_Nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2109.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_Nickelodeon</link> 
+        </item> 
+          <item> 
+            <title>NL_National_Geographic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2110.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_National_Geographic</link> 
+        </item> 
+          <item> 
+            <title>NL_Disney_Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2111.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL_Disney_Channel</link> 
+        </item> 
   
 <item>       
 <title>[COLOR red]                                                          [/COLOR]</title>

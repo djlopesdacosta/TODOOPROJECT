@@ -25,7 +25,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 29-07-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 03-08-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
@@ -33,396 +33,460 @@
 </item>
 
 
-
-
  
           <item> 
-            <title>FR:EURONEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/247.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:EURONEWS</link> 
+            <title>tf1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/81.ts&amp;streamtype=TSDOWNLOADER&amp;name=tf1</link> 
         </item> 
           <item> 
-            <title>FR:FRANCE24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/227.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE24</link> 
+            <title>m6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/82.ts&amp;streamtype=TSDOWNLOADER&amp;name=m6</link> 
         </item> 
           <item> 
-            <title>FR:BFM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/246.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BFM</link> 
+            <title>fr2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=fr2</link> 
         </item> 
           <item> 
-            <title>FR:TV5_MONDE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/513.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TV5_MONDE</link> 
+            <title>fr3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=fr3</link> 
         </item> 
           <item> 
-            <title>FR:ITELE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1747.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:ITELE</link> 
+            <title>fr4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/85.ts&amp;streamtype=TSDOWNLOADER&amp;name=fr4</link> 
         </item> 
           <item> 
-            <title>FR:LCI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2431.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:LCI</link> 
+            <title>fr5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=fr5</link> 
         </item> 
           <item> 
-            <title>FR:ARTE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/248.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:ARTE</link> 
+            <title>fro</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/87.ts&amp;streamtype=TSDOWNLOADER&amp;name=fro</link> 
         </item> 
           <item> 
-            <title>FR:TF1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/214.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TF1</link> 
+            <title>D8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/466.ts&amp;streamtype=TSDOWNLOADER&amp;name=D8</link> 
         </item> 
           <item> 
-            <title>FR:M6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/215.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:M6</link> 
+            <title>w9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/88.ts&amp;streamtype=TSDOWNLOADER&amp;name=w9</link> 
         </item> 
           <item> 
-            <title>FR:W9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/216.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:W9</link> 
+            <title>fr24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/89.ts&amp;streamtype=TSDOWNLOADER&amp;name=fr24</link> 
         </item> 
           <item> 
-            <title>FR:FRANCE2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/217.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE2</link> 
+            <title>teva</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=teva</link> 
         </item> 
           <item> 
-            <title>FR:FRANCE3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/218.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE3</link> 
+            <title>canal+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=canal+</link> 
         </item> 
           <item> 
-            <title>FR:FRANCE4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/219.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE4</link> 
+            <title>canal+decale</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/91.ts&amp;streamtype=TSDOWNLOADER&amp;name=canal+decale</link> 
         </item> 
           <item> 
-            <title>FR:FRANCE5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/220.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE5</link> 
+            <title>canal+family</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=canal+family</link> 
         </item> 
           <item> 
-            <title>FR:FRANCEO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/221.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCEO</link> 
+            <title>BOOMERANG_fr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/262.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOOMERANG_fr</link> 
         </item> 
           <item> 
-            <title>FR:CANAL+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/445.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+</link> 
+            <title>canal+cinema</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=canal+cinema</link> 
         </item> 
           <item> 
-            <title>FR:CANAL+CINEMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/193.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+CINEMA</link> 
+            <title>canal+serie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/409.ts&amp;streamtype=TSDOWNLOADER&amp;name=canal+serie</link> 
         </item> 
           <item> 
-            <title>FR:CANAL+FAMILY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/194.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+FAMILY</link> 
+            <title>NatGeo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=NatGeo</link> 
         </item> 
           <item> 
-            <title>FR:CANAL+SPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/446.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+SPORT</link> 
+            <title>cine-premiere</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/90.ts&amp;streamtype=TSDOWNLOADER&amp;name=cine-premiere</link> 
         </item> 
           <item> 
-            <title>FR:CANAL+DECALE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1825.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+DECALE</link> 
+            <title>Cine_frisson</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/97.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine_frisson</link> 
         </item> 
           <item> 
-            <title>FR:CANAL+SERIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/195.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+SERIES</link> 
+            <title>Cine_emotion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/99.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine_emotion</link> 
         </item> 
           <item> 
-            <title>FR:CINE+PREMIER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/207.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE+PREMIER</link> 
+            <title>ushuaia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=ushuaia</link> 
         </item> 
           <item> 
-            <title>FR:CINE+FRISSON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/200.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE+FRISSON</link> 
+            <title>Equidia_Life</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/101.ts&amp;streamtype=TSDOWNLOADER&amp;name=Equidia_Life</link> 
         </item> 
           <item> 
-            <title>FR:CINE+FAMIZ</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/210.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE+FAMIZ</link> 
+            <title>OCS_MAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/406.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_MAX</link> 
         </item> 
           <item> 
-            <title>FR:CINE+EMOTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/209.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE+EMOTION</link> 
+            <title>OCS_GEANTS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/407.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_GEANTS</link> 
         </item> 
           <item> 
-            <title>FR:CINE+_CLASSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1827.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE+_CLASSIC</link> 
+            <title>OCS_CITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/480.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_CITY</link> 
         </item> 
           <item> 
-            <title>FR:OCS_MAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/196.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:OCS_MAX</link> 
+            <title>syfy_fr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/408.ts&amp;streamtype=TSDOWNLOADER&amp;name=syfy_fr</link> 
         </item> 
           <item> 
-            <title>FR:OCS_GEANTS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/198.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:OCS_GEANTS</link> 
+            <title>13_rue_fr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/410.ts&amp;streamtype=TSDOWNLOADER&amp;name=13_rue_fr</link> 
         </item> 
           <item> 
-            <title>FR:OCS_CHOC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/197.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:OCS_CHOC</link> 
+            <title>DISNEY_XD_fr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/264.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY_XD_fr</link> 
         </item> 
           <item> 
-            <title>FR:ACTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/213.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:ACTION</link> 
+            <title>DISNEY_JUNIOR_fr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY_JUNIOR_fr</link> 
         </item> 
           <item> 
-            <title>FR:13EME_RUE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/224.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:13EME_RUE</link> 
+            <title>DISNEY_CINEMAGIC_fr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/273.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY_CINEMAGIC_fr</link> 
         </item> 
           <item> 
-            <title>FR:TV_BREIZH</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1828.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TV_BREIZH</link> 
+            <title>COMEDIE+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/275.ts&amp;streamtype=TSDOWNLOADER&amp;name=COMEDIE+</link> 
         </item> 
           <item> 
-            <title>FR:POLAR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/231.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:POLAR</link> 
+            <title>CARTOON_NETWORK_fr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/411.ts&amp;streamtype=TSDOWNLOADER&amp;name=CARTOON_NETWORK_fr</link> 
         </item> 
           <item> 
-            <title>FR:SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/228.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SYFY</link> 
+            <title>BFM_tv_FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM_tv_FR</link> 
         </item> 
           <item> 
-            <title>FR:SERIE_CLUB</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/237.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SERIE_CLUB</link> 
+            <title>EUROSPORT2_fr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT2_fr</link> 
         </item> 
           <item> 
-            <title>FR:CHERIE25</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1386.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CHERIE25</link> 
+            <title>foot+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/100.ts&amp;streamtype=TSDOWNLOADER&amp;name=foot+</link> 
         </item> 
           <item> 
-            <title>FR:PARIS_PREMIERE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/223.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:PARIS_PREMIERE</link> 
+            <title>CANAL+sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/110.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+sport</link> 
         </item> 
           <item> 
-            <title>FR:NORMANDIE_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/249.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NORMANDIE_TV</link> 
+            <title>bein_hd3_fr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/265.ts&amp;streamtype=TSDOWNLOADER&amp;name=bein_hd3_fr</link> 
         </item> 
           <item> 
-            <title>FR:COMEDIE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/225.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:COMEDIE</link> 
+            <title>bein_hd2_fr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/259.ts&amp;streamtype=TSDOWNLOADER&amp;name=bein_hd2_fr</link> 
         </item> 
           <item> 
-            <title>FR:D8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1782.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:D8</link> 
+            <title>bein_hd1_fr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/258.ts&amp;streamtype=TSDOWNLOADER&amp;name=bein_hd1_fr</link> 
         </item> 
           <item> 
-            <title>FR:D17</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/208.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:D17</link> 
+            <title>TRACE_URBAN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/911.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRACE_URBAN</link> 
         </item> 
           <item> 
-            <title>FR:HD1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1811.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:HD1</link> 
+            <title>TMC_FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=TMC_FR</link> 
         </item> 
           <item> 
-            <title>FR:RTL9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/222.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:RTL9</link> 
+            <title>SERIE_CLUB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/446.ts&amp;streamtype=TSDOWNLOADER&amp;name=SERIE_CLUB</link> 
         </item> 
           <item> 
-            <title>FR:TMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/251.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TMC</link> 
+            <title>ROUGE-TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/790.ts&amp;streamtype=TSDOWNLOADER&amp;name=ROUGE-TV</link> 
         </item> 
           <item> 
-            <title>FR:TEVA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/244.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TEVA</link> 
+            <title>Planet_CI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/276.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planet_CI</link> 
         </item> 
           <item> 
-            <title>FR:NT1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/226.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NT1</link> 
+            <title>Piwi+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/115.ts&amp;streamtype=TSDOWNLOADER&amp;name=Piwi+</link> 
         </item> 
           <item> 
-            <title>FR:NRJ12</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/253.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NRJ12</link> 
+            <title>NT1_FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/278.ts&amp;streamtype=TSDOWNLOADER&amp;name=NT1_FR</link> 
         </item> 
           <item> 
-            <title>FR:6TER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/203.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:6TER</link> 
+            <title>Nrj12_FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/279.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nrj12_FR</link> 
         </item> 
           <item> 
-            <title>FR:WEO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/243.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:WEO</link> 
+            <title>NAT_GEO_FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT_GEO_FR</link> 
         </item> 
           <item> 
-            <title>FR:DISNEY_CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/254.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DISNEY_CHANNEL</link> 
+            <title>lcp_fr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/261.ts&amp;streamtype=TSDOWNLOADER&amp;name=lcp_fr</link> 
         </item> 
           <item> 
-            <title>FR:DISNEY_CINEMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1986.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DISNEY_CINEMA</link> 
+            <title>FR_PLANETE_THALASSA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/597.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_PLANETE_THALASSA</link> 
         </item> 
           <item> 
-            <title>FR:DISNEY_JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/511.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DISNEY_JUNIOR</link> 
+            <title>FR_NATIONAL_GEOGRAPHIC_WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/598.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NATIONAL_GEOGRAPHIC_WILD</link> 
         </item> 
           <item> 
-            <title>FR:GULLI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/258.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:GULLI</link> 
+            <title>France_24_FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/493.ts&amp;streamtype=TSDOWNLOADER&amp;name=France_24_FR</link> 
         </item> 
           <item> 
-            <title>FR:PIWI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1992.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:PIWI</link> 
+            <title>FR-TV7-Bordeaux</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/906.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TV7-Bordeaux</link> 
         </item> 
           <item> 
-            <title>FR:CARTOON_NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/257.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CARTOON_NETWORK</link> 
+            <title>OCS-CHOC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/907.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS-CHOC</link> 
         </item> 
           <item> 
-            <title>FR:TELETOON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1689.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TELETOON</link> 
+            <title>FR-LCN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/908.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-LCN</link> 
         </item> 
           <item> 
-            <title>FR:CANALJ</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANALJ</link> 
+            <title>D17</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2505.ts&amp;streamtype=TSDOWNLOADER&amp;name=D17</link> 
         </item> 
           <item> 
-            <title>FR:BOOMERANG</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/256.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BOOMERANG</link> 
+            <title>RTL9 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2506.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL9 HD</link> 
         </item> 
           <item> 
-            <title>FR:TIJI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/235.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TIJI</link> 
+            <title>ARTE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2507.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARTE HD</link> 
         </item> 
           <item> 
-            <title>FR:MANGA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/259.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MANGA</link> 
+            <title>6TER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2508.ts&amp;streamtype=TSDOWNLOADER&amp;name=6TER</link> 
         </item> 
           <item> 
-            <title>FR:M6_MUSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/204.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:M6_MUSIC</link> 
+            <title>iTELE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2509.ts&amp;streamtype=TSDOWNLOADER&amp;name=iTELE HD</link> 
         </item> 
           <item> 
-            <title>FR:MTV_ROCKS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2693.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MTV_ROCKS</link> 
+            <title>Weo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2510.ts&amp;streamtype=TSDOWNLOADER&amp;name=Weo</link> 
         </item> 
           <item> 
-            <title>FR:MTV_MUSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2694.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MTV_MUSIC</link> 
+            <title>CANAL  CINE CLASSIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2511.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL  CINE CLASSIC HD</link> 
         </item> 
           <item> 
-            <title>FR:MTV_Hits!</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR:MTV_Hits&amp;streamtype=TSDOWNLOADER&amp;name=FR:MTV_Hits!</link> 
+            <title>CANAL  CINE FAMIZ HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2512.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL  CINE FAMIZ HD</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2695.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>CANAL  DECALE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2513.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL  DECALE HD</link> 
         </item> 
           <item> 
-            <title>FR:MTV_Dance</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2696.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MTV_Dance</link> 
+            <title>SYFY UNIVERSAL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2514.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY UNIVERSAL HD</link> 
         </item> 
           <item> 
-            <title>FR:MTV_BASE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2697.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MTV_BASE</link> 
+            <title>PARIS PREMIERE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2515.ts&amp;streamtype=TSDOWNLOADER&amp;name=PARIS PREMIERE HD</link> 
         </item> 
           <item> 
-            <title>FR:BEIN_SPORTS_HD1+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2939.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BEIN_SPORTS_HD1+</link> 
+            <title>PARAMOUNT CHANNEL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2516.ts&amp;streamtype=TSDOWNLOADER&amp;name=PARAMOUNT CHANNEL HD</link> 
         </item> 
           <item> 
-            <title>FR:BEIN_SPORTS_HD1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/190.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BEIN_SPORTS_HD1</link> 
+            <title>EUROSPORT HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2517.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT HD FR</link> 
         </item> 
           <item> 
-            <title>FR:BEIN_SPORTS_HD2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/191.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BEIN_SPORTS_HD2</link> 
+            <title>NAT GEO WILD HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2518.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD HD FR</link> 
         </item> 
           <item> 
-            <title>FR:BEIN_SPORTS_HD3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/192.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BEIN_SPORTS_HD3</link> 
+            <title>DISCOVERY SC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2519.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SC HD</link> 
         </item> 
           <item> 
-            <title>FR:EUROSPORT1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/858.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:EUROSPORT1</link> 
+            <title>ENORME TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2520.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENORME TV</link> 
         </item> 
           <item> 
-            <title>FR:EUROSPORT2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:EUROSPORT2</link> 
+            <title>M6 MUSIC HITS LIVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2521.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6 MUSIC HITS LIVE</link> 
         </item> 
           <item> 
-            <title>FR:EQUIPE21</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1750.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:EQUIPE21</link> 
+            <title>TV BREIZH</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2523.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV BREIZH</link> 
         </item> 
           <item> 
-            <title>FR:MA_CHAINE_SPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/262.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MA_CHAINE_SPORT</link> 
+            <title>TiJi</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2524.ts&amp;streamtype=TSDOWNLOADER&amp;name=TiJi</link> 
         </item> 
           <item> 
-            <title>FR:FOOT+24/24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FOOT+24/24</link> 
+            <title>TCM CINEMA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2525.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM CINEMA</link> 
         </item> 
           <item> 
-            <title>FR:OLTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1781.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:OLTV</link> 
+            <title>GOLF HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2526.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOLF HD</link> 
         </item> 
           <item> 
-            <title>FR:INFOSPORT+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/199.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:INFOSPORT+</link> 
+            <title>HD1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2528.ts&amp;streamtype=TSDOWNLOADER&amp;name=HD1</link> 
         </item> 
           <item> 
-            <title>FR:DISCOVERY_SCIENCE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/230.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DISCOVERY_SCIENCE</link> 
+            <title>NT1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2529.ts&amp;streamtype=TSDOWNLOADER&amp;name=NT1 HD</link> 
         </item> 
           <item> 
-            <title>FR:DISCOVERY_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/232.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DISCOVERY_HD</link> 
+            <title>L’ÉQUIPE 21</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2530.ts&amp;streamtype=TSDOWNLOADER&amp;name=L’ÉQUIPE 21</link> 
         </item> 
           <item> 
-            <title>FR:SCIENCES_VIE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/229.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SCIENCES_VIE</link> 
+            <title>TMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2531.ts&amp;streamtype=TSDOWNLOADER&amp;name=TMC</link> 
         </item> 
           <item> 
-            <title>FR:NATGEO_WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/233.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NATGEO_WILD</link> 
+            <title>RTC Télé Liège</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2532.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTC Télé Liège</link> 
         </item> 
           <item> 
-            <title>FR:NATGEO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/234.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NATGEO</link> 
+            <title>RMC DÉCOUVERTE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2533.ts&amp;streamtype=TSDOWNLOADER&amp;name=RMC DÉCOUVERTE</link> 
         </item> 
           <item> 
-            <title>FR:PLANETE+_CI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/239.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:PLANETE+_CI</link> 
+            <title>MOTOR TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2534.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTOR TV</link> 
         </item> 
           <item> 
-            <title>FR:CHASSE_ET_PECHE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/212.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CHASSE_ET_PECHE</link> 
+            <title>MA CHAINE SPORT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2535.ts&amp;streamtype=TSDOWNLOADER&amp;name=MA CHAINE SPORT HD</link> 
         </item> 
           <item> 
-            <title>FR:PLANETE_AE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1744.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:PLANETE_AE</link> 
+            <title>KOMBAT SPORT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2536.ts&amp;streamtype=TSDOWNLOADER&amp;name=KOMBAT SPORT HD</link> 
         </item> 
           <item> 
-            <title>FR:PLANETE+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/240.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:PLANETE+</link> 
+            <title>INFOSPORT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2537.ts&amp;streamtype=TSDOWNLOADER&amp;name=INFOSPORT HD</link> 
         </item> 
           <item> 
-            <title>FR:TOUTE_L'HISTOIRE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1830.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TOUTE_L'HISTOIRE</link> 
+            <title>EQUIDIA LIVE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2538.ts&amp;streamtype=TSDOWNLOADER&amp;name=EQUIDIA LIVE HD</link> 
         </item> 
           <item> 
-            <title>FR:ANIMAUX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/236.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:ANIMAUX</link> 
+            <title>PLANETE  THALASSA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2539.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLANETE  THALASSA HD</link> 
         </item> 
           <item> 
-            <title>FR:USHUAIA_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/206.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:USHUAIA_TV</link> 
+            <title>PLANETE  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2540.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLANETE  HD</link> 
         </item> 
           <item> 
-            <title>FR:VOYAGE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/205.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:VOYAGE</link> 
+            <title>PLANETE  A-E HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2541.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLANETE  A-E HD</link> 
         </item> 
           <item> 
-            <title>FR:CANALPALY_5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2372.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANALPALY_5</link> 
+            <title>HISTORIE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2542.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTORIE</link> 
         </item> 
           <item> 
-            <title>FR:CANALPLAY_4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2360.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANALPLAY_4</link> 
+            <title>EURONEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2543.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURONEWS</link> 
         </item> 
           <item> 
-            <title>FR:CANALPALY_3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2359.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANALPALY_3</link> 
+            <title>A LA CARTE CANALPLAY 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/1055.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE CANALPLAY 1</link> 
         </item> 
           <item> 
-            <title>FR:CANALPLAY_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2358.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANALPLAY_2</link> 
+            <title>A LA CARTE CANALPLAY 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/1056.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE CANALPLAY 2</link> 
         </item> 
           <item> 
-            <title>FR:CANALPLAY_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2357.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANALPLAY_1</link> 
+            <title>A LA CARTE CANALPLAY 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/1057.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE CANALPLAY 3</link> 
+        </item> 
+          <item> 
+            <title>A LA CARTE CANALPLAY 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/1058.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE CANALPLAY 4</link> 
+        </item> 
+          <item> 
+            <title>A LA CARTE CANALPLAY  5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/1059.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE CANALPLAY  5</link> 
+        </item> 
+          <item> 
+            <title>A LA CARTE CANALPLAY 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/1060.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE CANALPLAY 6</link> 
+        </item> 
+          <item> 
+            <title>A LA CARTE CANALPLAY 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/1061.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE CANALPLAY 7</link> 
+        </item> 
+          <item> 
+            <title>A LA CARTE CANALPLAY 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/1062.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE CANALPLAY 8</link> 
+        </item> 
+          <item> 
+            <title>A LA CARTE CANALPLAY 9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/1063.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE CANALPLAY 9</link> 
+        </item> 
+          <item> 
+            <title>A LA CARTE CANALPLAY 10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/1064.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE CANALPLAY 10</link> 
+        </item> 
+          <item> 
+            <title>A LA CARTE CANALPLAY 11</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/1065.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE CANALPLAY 11</link> 
+        </item> 
+          <item> 
+            <title>A LA CARTE CANALPLAY 12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2794.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE CANALPLAY 12</link> 
+        </item> 
+          <item> 
+            <title>A LA CARTE CANALPLAY 13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2795.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE CANALPLAY 13</link> 
+        </item> 
+          <item> 
+            <title>A LA CARTE CANALPLAY 14</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2796.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE CANALPLAY 14</link> 
+        </item> 
+          <item> 
+            <title>A LA CARTE CANALPLAY 15</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2797.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE CANALPLAY 15</link> 
+        </item> 
+          <item> 
+            <title>A LA CARTE CANALPLAY 16</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2798.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE CANALPLAY 16</link> 
+        </item> 
+          <item> 
+            <title>A LA CARTE CANALPLAY 17</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2799.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE CANALPLAY 17</link> 
+        </item> 
+          <item> 
+            <title>A LA CARTE CANALPLAY 18</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2800.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE CANALPLAY 18</link> 
+        </item> 
+          <item> 
+            <title>A LA CARTE CANALPLAY 19</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2801.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE CANALPLAY 19</link> 
+        </item> 
+          <item> 
+            <title>A LA CARTE CANALPLAY 20</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE CANALPLAY 20</link> 
         </item> 
   
-
-
 
 
 

@@ -252,7 +252,7 @@ http://www.hometheater.co.il</description>
 
 <addon id="plugin.video.projectxwizard"
 	     name="[COLOR White]Project[/COLOR] [COLOR cyan]X[/COLOR] [COLOR White]Wizard[/COLOR]"
-	     version="0.1.2"
+	     version="0.1.3"
 	     provider-name="TVsupertuga">
   <requires>
   	<import addon="xbmc.python" version="2.1.0"/>
@@ -562,6 +562,20 @@ SEND E MAIL: tvsupertuga@gmail.com[/B][/COLOR]</description>
 	<extension point="xbmc.addon.metadata">
 		<summary>Install my Addons</summary>
 		<description>Download and install addons from Halow Repo</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.pancas" name="Pancas repository" version="1.0.4" provider-name="Pancas">
+	<extension point="xbmc.addon.repository" name="Pancas Add-on Repository">
+		<info compressed="false">http://raw.github.com/Sup3Roque/Pancas/master/addons.xml</info>
+		<checksum>http://raw.github.com/Sup3Roque/Pancas/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/Sup3Roque/Pancas/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Pancas Repo</summary>
+		<description>TV para todos sempre ao melhor preÃ§o</description>
+		<disclaimer></disclaimer>
 		<platform>all</platform>
 	</extension>
 </addon>
@@ -971,8 +985,22 @@ SEND E MAIL: tvsupertuga@gmail.com[/B][/COLOR]</description>
 	</extension>
 </addon>
 
-<addon id="tvsupertuga.repository" name="[COLOR cyan]TV[/COLOR]-[COLOR red]SUPERTUGA[/COLOR].[COLOR limegreen]REPOSITORY[/COLOR]" version="0.0.6" provider-name="TVsupertuga">
-	<extension point="xbmc.addon.repository" name="tvsupertuga Repository">
+<addon id="teamtuga4ever.repository" name="teamuga4ever" version="1.1" provider-name="teamtuga4">
+	<extension point="xbmc.addon.repository" name="teamuga4ever repository">
+		<info compressed="false">http://raw.github.com/teamtuga4/teamtuga4ever.repository/master/addons.xml</info>
+		<checksum>http://raw.github.com/teamtuga4/teamtuga4ever.repository/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/teamtuga4/teamtuga4ever.repository/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Equipe TeamTuga4ever</summary>
+		<description>teamtuga4ever Repository</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="tvsupertuga.repository" name="[COLOR red]TVsupertuga[/COLOR].repository" version="0.0.5" provider-name="tvsupertuga">
+	<extension point="xbmc.addon.repository" name="tvsupertuga.repository">
 		<info compressed="false">http://tvsupertuga.net16.net/zips/addons.xml</info>
 		<checksum>http://tvsupertuga.net16.net/zips/addons.xml.md5</checksum>
 		<datadir zip="true">http://tvsupertuga.net16.net/instal/</datadir>
