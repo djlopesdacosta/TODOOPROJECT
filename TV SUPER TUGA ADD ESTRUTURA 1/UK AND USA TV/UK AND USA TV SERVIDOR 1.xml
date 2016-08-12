@@ -17,7 +17,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 26-07-16 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 13-08-16 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -38,312 +38,692 @@
  
   
           <item> 
-            <title>US: HIFI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2784.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: HIFI</link> 
+            <title>UK: Watch</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1738.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Watch</link> 
         </item> 
           <item> 
-            <title>UK:CNN_NEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2383.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:CNN_NEWS</link> 
+            <title>US: ABC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1928.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ABC</link> 
         </item> 
           <item> 
-            <title>UK:ITV1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/447.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ITV1</link> 
+            <title>UK: TV Nasa</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1568.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TV Nasa</link> 
         </item> 
           <item> 
-            <title>UK:ITV2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/448.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ITV2</link> 
+            <title>UK: TLC-IRELAND</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1746.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TLC-IRELAND</link> 
         </item> 
           <item> 
-            <title>UK:ITV3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/321.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ITV3</link> 
+            <title>UK: CHANNEL 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1742.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CHANNEL 5</link> 
         </item> 
           <item> 
-            <title>UK:ITV4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/320.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ITV4</link> 
+            <title>UK: BBC 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/878.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 1 HD</link> 
         </item> 
           <item> 
-            <title>UK:MORE_4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1813.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:MORE_4</link> 
+            <title>UK: BBC 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1745.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 4 HD</link> 
         </item> 
           <item> 
-            <title>UK:BBC1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/318.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC1</link> 
+            <title>FR: EuroNews</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/920.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EuroNews</link> 
         </item> 
           <item> 
-            <title>UK:BBC2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/317.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC2</link> 
+            <title>UK: CBS Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1277.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS Action</link> 
         </item> 
           <item> 
-            <title>UK:BBC3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/316.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC3</link> 
+            <title>UK: CBS Drama</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1276.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS Drama</link> 
         </item> 
           <item> 
-            <title>UK:BBC4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/315.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC4</link> 
+            <title>UK: CBS Reality</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1275.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS Reality</link> 
         </item> 
           <item> 
-            <title>UK:DISNEY_CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/286.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:DISNEY_CHANNEL</link> 
+            <title>UK: ITV 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1267.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV 1</link> 
         </item> 
           <item> 
-            <title>UK:NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/288.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:NICKELODEON</link> 
+            <title>UK: ITV 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1266.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV 2 HD</link> 
         </item> 
           <item> 
-            <title>UK:DISNEY_XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/950.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:DISNEY_XD</link> 
+            <title>UK: ITV 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1265.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV 3</link> 
         </item> 
           <item> 
-            <title>UK:RTE_JR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/322.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:RTE_JR</link> 
+            <title>UK: ITV 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1264.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV 4</link> 
         </item> 
           <item> 
-            <title>UK:RTE1HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/323.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:RTE1HD</link> 
+            <title>UK: SKY 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1260.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY 1 HD</link> 
         </item> 
           <item> 
-            <title>UK:SENTANTA_IRELAND</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/276.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SENTANTA_IRELAND</link> 
+            <title>UK: SKY Two HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1259.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY Two HD</link> 
         </item> 
           <item> 
-            <title>UK:SKY_ONE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/289.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_ONE</link> 
+            <title>UK: SKY Atlantic HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1258.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY Atlantic HD</link> 
         </item> 
           <item> 
-            <title>UK:SKY_TWO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/285.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_TWO</link> 
+            <title>UK: SKY Living HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1257.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY Living HD</link> 
         </item> 
           <item> 
-            <title>UK:SKY_MOVIES_THRILLER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/290.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_MOVIES_THRILLER</link> 
+            <title>UK: Sky Action HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1060.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Action HD</link> 
         </item> 
           <item> 
-            <title>UK:SKY_MOVIES_SELECT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/291.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_MOVIES_SELECT</link> 
+            <title>UK: Sky Movies Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1747.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Action</link> 
         </item> 
           <item> 
-            <title>UK:SKY_MOVIES_PREMIERE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/293.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_MOVIES_PREMIERE</link> 
+            <title>UK: Sky Movies Drama</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1694.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Drama</link> 
         </item> 
           <item> 
-            <title>UK:SKY_MOVIES_MODERN_GREAT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/295.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_MOVIES_MODERN_GREAT</link> 
+            <title>UK: SKY Movies Premier HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1253.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY Movies Premier HD</link> 
         </item> 
           <item> 
-            <title>UK:SKY_MOVIES_FAMILY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/309.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_MOVIES_FAMILY</link> 
+            <title>UK: Sky Movies  Premiere</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1748.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies  Premiere</link> 
         </item> 
           <item> 
-            <title>UK:SKY_MOVIES_DRAMA_ROMANCE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/299.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_MOVIES_DRAMA_ROMANCE</link> 
+            <title>UK: Sky Movies Thriller HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1251.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Thriller HD</link> 
         </item> 
           <item> 
-            <title>UK:SKY_MOVIES_COMEDY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/311.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_MOVIES_COMEDY</link> 
+            <title>UK: Sky Movies Sci-fi &amp; Horror HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1252.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Sci-fi &amp; Horror HD</link> 
         </item> 
           <item> 
-            <title>UK:SKY_MOVIES_ACTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/300.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_MOVIES_ACTION</link> 
+            <title>UK: Sky Movies Greats HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Movies Greats&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Greats HD</link> 
         </item> 
           <item> 
-            <title>UK:TRUE_MOVIES2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1399.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:TRUE_MOVIES2</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1254.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK:CBS_DRAMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1398.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:CBS_DRAMA</link> 
+            <title>UK: SKY Movies Disney HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1255.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY Movies Disney HD</link> 
         </item> 
           <item> 
-            <title>UK:CARTOON_NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1400.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:CARTOON_NETWORK</link> 
+            <title>UK: Sky Movies Modern</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1098.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Modern</link> 
         </item> 
           <item> 
-            <title>UK:SKY_ATLANTIC_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/306.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_ATLANTIC_HD</link> 
+            <title>UK: Sky Movies Family</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1097.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Family</link> 
         </item> 
           <item> 
-            <title>UK:TRUE_MOVIES1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/287.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:TRUE_MOVIES1</link> 
+            <title>UK: Sky Movies Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1096.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Comedy</link> 
         </item> 
           <item> 
-            <title>UK:ANIMAL_PLANETE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/314.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ANIMAL_PLANETE</link> 
+            <title>UK: Sky Movies Select</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1099.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Select</link> 
         </item> 
           <item> 
-            <title>UK:NATIONAL_GEOGRAPHY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/312.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:NATIONAL_GEOGRAPHY</link> 
+            <title>UK: BoomeRang</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/891.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BoomeRang</link> 
         </item> 
           <item> 
-            <title>UK:DISCOVERY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/313.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:DISCOVERY</link> 
+            <title>UK_Yesterday</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1789.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Yesterday</link> 
         </item> 
           <item> 
-            <title>UK:HISTORY_CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/284.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:HISTORY_CHANNEL</link> 
+            <title>UK_Sky Living</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1784.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky Living</link> 
         </item> 
           <item> 
-            <title>UK:LIVING</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/319.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:LIVING</link> 
+            <title>UK_Sky Arts</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK_Sky Arts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky Arts</link> 
         </item> 
           <item> 
-            <title>UK:BT_SPORTS_2HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/281.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BT_SPORTS_2HD</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1782.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK:BT_SPORTS_1HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/282.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BT_SPORTS_1HD</link> 
+            <title>UK_Sky 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1785.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky 1</link> 
         </item> 
           <item> 
-            <title>UK:BOX_NATION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BOX_NATION</link> 
+            <title>UK_Home</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1786.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Home</link> 
         </item> 
           <item> 
-            <title>UK:ESPN_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/279.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ESPN_HD</link> 
+            <title>UK_Gold</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1788.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Gold</link> 
         </item> 
           <item> 
-            <title>UK:SKY_SPORTS_NEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_SPORTS_NEWS</link> 
+            <title>UK:Watch</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1792.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Watch</link> 
         </item> 
           <item> 
-            <title>UK:SKY_SPORTS_F1HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/272.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_SPORTS_F1HD</link> 
+            <title>UK:Vintage_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1800.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Vintage_TV</link> 
         </item> 
           <item> 
-            <title>UK:SKY_SPORTS_1HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/275.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_SPORTS_1HD</link> 
+            <title>UK:Ulster TV Ireland</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1801.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Ulster TV Ireland</link> 
         </item> 
           <item> 
-            <title>UK:SKY_SPORTS_2HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/274.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_SPORTS_2HD</link> 
+            <title>UK:Travel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1802.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Travel</link> 
         </item> 
           <item> 
-            <title>UK:SKY_SPORTS_3HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/273.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_SPORTS_3HD</link> 
+            <title>UK:TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1803.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:TLC</link> 
         </item> 
           <item> 
-            <title>UK:SKY_SPORTS_4HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/776.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_SPORTS_4HD</link> 
+            <title>UK:TCM+1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1804.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:TCM+1</link> 
         </item> 
           <item> 
-            <title>UK:SKY_SPORTS_5HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/777.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_SPORTS_5HD</link> 
+            <title>UK:Sky Thriller</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1805.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky Thriller</link> 
         </item> 
           <item> 
-            <title>US:FOX_SPORTS2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2493.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:FOX_SPORTS2</link> 
+            <title>UK:Sky News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1829.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky News</link> 
         </item> 
           <item> 
-            <title>US:CNN_LIVE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2481.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:CNN_LIVE</link> 
+            <title>UK:Sky Movies Comedy Central</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1795.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky Movies Comedy Central</link> 
         </item> 
           <item> 
-            <title>US:FOX_NEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2937.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:FOX_NEWS</link> 
+            <title>UK:Sky 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1806.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky 2</link> 
         </item> 
           <item> 
-            <title>US:ABC_NEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2494.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:ABC_NEWS</link> 
+            <title>UK:Quest</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1807.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Quest</link> 
         </item> 
           <item> 
-            <title>US:TSN1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2491.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:TSN1</link> 
+            <title>UK:PICK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1808.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:PICK</link> 
         </item> 
           <item> 
-            <title>US:TSN_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2485.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:TSN_2</link> 
+            <title>UK:More 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1809.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:More 4</link> 
         </item> 
           <item> 
-            <title>US:TSN_3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2484.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:TSN_3</link> 
+            <title>UK:Life Time</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1831.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Life Time</link> 
         </item> 
           <item> 
-            <title>US:TSN_4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2479.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:TSN_4</link> 
+            <title>UK:Horror Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1810.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Horror Channel</link> 
         </item> 
           <item> 
-            <title>US:TSN_5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2477.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:TSN_5</link> 
+            <title>UK:H2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1811.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:H2</link> 
         </item> 
           <item> 
-            <title>US:NBC_GOLF</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2789.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:NBC_GOLF</link> 
+            <title>UK:Good Food</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1791.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Good Food</link> 
         </item> 
           <item> 
-            <title>US:NBA_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2478.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:NBA_TV</link> 
+            <title>UK:Fox News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1812.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Fox News</link> 
         </item> 
           <item> 
-            <title>US:SPORTSNET</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2490.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:SPORTSNET</link> 
+            <title>UK:FOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1783.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:FOX</link> 
         </item> 
           <item> 
-            <title>US:HBO_ZONE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2489.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:HBO_ZONE</link> 
+            <title>UK:Film 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1813.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Film 4</link> 
         </item> 
           <item> 
-            <title>USA:HBO_US</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2753.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:HBO_US</link> 
+            <title>UK:Eden</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1787.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Eden</link> 
         </item> 
           <item> 
-            <title>US: TMN_1_MOVIE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2474.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TMN_1_MOVIE</link> 
+            <title>UK:Drama</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1794.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Drama</link> 
         </item> 
           <item> 
-            <title>US:HBO_SIGNATURE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2487.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:HBO_SIGNATURE</link> 
+            <title>UK:Disney XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1832.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Disney XD</link> 
         </item> 
           <item> 
-            <title>US:BLOOMBERG</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2488.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:BLOOMBERG</link> 
+            <title>UK:Disney Jr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1833.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Disney Jr</link> 
         </item> 
           <item> 
-            <title>US:FOX_SPORTS1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2495.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:FOX_SPORTS1</link> 
+            <title>UK:Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1814.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Disney Channel</link> 
         </item> 
           <item> 
-            <title>US:NICK_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2486.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:NICK_TV</link> 
+            <title>UK:Discovery Turbo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1815.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Discovery Turbo</link> 
         </item> 
           <item> 
-            <title>US:ABC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2475.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:ABC</link> 
+            <title>UK:Discovery Science</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1816.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Discovery Science</link> 
         </item> 
           <item> 
-            <title>US:BRAVO_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2473.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:BRAVO_HD</link> 
+            <title>UK:Discovery Home Health</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1817.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Discovery Home Health</link> 
         </item> 
           <item> 
-            <title>US:DISCOVERY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2940.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:DISCOVERY</link> 
+            <title>UK:Discovery</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1818.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Discovery</link> 
         </item> 
           <item> 
-            <title>CAN:TELETOON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2943.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAN:TELETOON</link> 
+            <title>UK:Dave</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1790.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Dave</link> 
         </item> 
           <item> 
-            <title>CAN:FOOD_NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2935.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAN:FOOD_NETWORK</link> 
+            <title>UK:Community</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1834.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Community</link> 
         </item> 
           <item> 
-            <title>CAN:CTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2942.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAN:CTV</link> 
+            <title>UK:CI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1819.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:CI</link> 
         </item> 
           <item> 
-            <title>CAN:CP_24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2941.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAN:CP_24</link> 
+            <title>UK:Chelsea TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1835.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Chelsea TV</link> 
         </item> 
           <item> 
-            <title>CAN:GLOBAL_TORONTO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2951.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAN:GLOBAL_TORONTO</link> 
+            <title>UK:Channel 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1820.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Channel 4</link> 
         </item> 
           <item> 
-            <title>CAN:BOOMBERG</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2944.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAN:BOOMBERG</link> 
+            <title>UK:BBC_one</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1838.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC_one</link> 
         </item> 
           <item> 
-            <title>CAN:360_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2936.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAN:360_HD</link> 
+            <title>UK:BBC TOW</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1839.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC TOW</link> 
+        </item> 
+          <item> 
+            <title>UK:BBC Three</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1840.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC Three</link> 
+        </item> 
+          <item> 
+            <title>UK:BBC News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1841.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC News</link> 
+        </item> 
+          <item> 
+            <title>UK:At The Races</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1821.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:At The Races</link> 
+        </item> 
+          <item> 
+            <title>UK:Animal Planet</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1822.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Animal Planet</link> 
+        </item> 
+          <item> 
+            <title>UK:Alibi</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1793.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Alibi</link> 
+        </item> 
+          <item> 
+            <title>UK:AKA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1823.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:AKA</link> 
+        </item> 
+          <item> 
+            <title>UK:5 USA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1824.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:5 USA</link> 
+        </item> 
+          <item> 
+            <title>UK:3E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1825.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:3E</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Sport News HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1675.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport News HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Sport F1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1120.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport F1 HD</link> 
+        </item> 
+          <item> 
+            <title>UK: REALLY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1935.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: REALLY</link> 
+        </item> 
+          <item> 
+            <title>UK: ITVBE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1936.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITVBE</link> 
+        </item> 
+          <item> 
+            <title>UK: EuroSport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1861.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: EuroSport 1</link> 
+        </item> 
+          <item> 
+            <title>UK: Carton Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1672.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Carton Network</link> 
+        </item> 
+          <item> 
+            <title>UK: Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1271.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney Junior</link> 
+        </item> 
+          <item> 
+            <title>UK: Nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1261.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nickelodeon</link> 
+        </item> 
+          <item> 
+            <title>UK: Nat Geo Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1262.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nat Geo Wild</link> 
+        </item> 
+          <item> 
+            <title>UK: National Geographic Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1322.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: National Geographic Channel</link> 
+        </item> 
+          <item> 
+            <title>UK: Nat Geo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1263.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nat Geo</link> 
+        </item> 
+          <item> 
+            <title>FR: Nat Geo HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1290.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Nat Geo HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Discovery Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1673.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Channel</link> 
+        </item> 
+          <item> 
+            <title>UK: Discovery History</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1274.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery History</link> 
+        </item> 
+          <item> 
+            <title>UK: BT Sport ESPN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/1671.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport ESPN</link> 
+        </item> 
+          <item> 
+            <title>USA:CCNA International</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2423.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:CCNA International</link> 
+        </item> 
+          <item> 
+            <title>USA: WWE Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2424.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: WWE Network</link> 
+        </item> 
+          <item> 
+            <title>USA: Vevo TV Channel 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2425.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Vevo TV Channel 3</link> 
+        </item> 
+          <item> 
+            <title>USA: Versus</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2426.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Versus</link> 
+        </item> 
+          <item> 
+            <title>USA: UALR TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2427.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: UALR TV</link> 
+        </item> 
+          <item> 
+            <title>USA: TBS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2380.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TBS HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Starz West</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2381.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Starz West</link> 
+        </item> 
+          <item> 
+            <title>USA: Starz Kids&amp;Family</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2382.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Starz Kids&amp;Family</link> 
+        </item> 
+          <item> 
+            <title>USA: Starz In Black</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2383.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Starz In Black</link> 
+        </item> 
+          <item> 
+            <title>USA: Starz Edge</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2384.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Starz Edge</link> 
+        </item> 
+          <item> 
+            <title>USA: Starz East</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2385.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Starz East</link> 
+        </item> 
+          <item> 
+            <title>USA: Starz Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2386.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Starz Comedy</link> 
+        </item> 
+          <item> 
+            <title>USA: Starz Cinema</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2387.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Starz Cinema</link> 
+        </item> 
+          <item> 
+            <title>USA: SportsNet One HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,USA: Sports&amp;streamtype=TSDOWNLOADER&amp;name=USA: SportsNet One HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2388.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>USA: Showtime West</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2389.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Showtime West</link> 
+        </item> 
+          <item> 
+            <title>USA: Showtime Next</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2390.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Showtime Next</link> 
+        </item> 
+          <item> 
+            <title>USA: NFL Network HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2391.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NFL Network HD</link> 
+        </item> 
+          <item> 
+            <title>USA: NBCSN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2392.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBCSN HD</link> 
+        </item> 
+          <item> 
+            <title>USA: NBC E.P.L XTRA 7 (LIVE DURING EPL)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2433.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBC E.P.L XTRA 7 (LIVE DURING EPL)</link> 
+        </item> 
+          <item> 
+            <title>USA: NBC E.P.L XTRA 6 (LIVE DURING EPL)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2434.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBC E.P.L XTRA 6 (LIVE DURING EPL)</link> 
+        </item> 
+          <item> 
+            <title>USA: NBC E.P.L XTRA 5 (LIVE DURING EPL)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2435.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBC E.P.L XTRA 5 (LIVE DURING EPL)</link> 
+        </item> 
+          <item> 
+            <title>USA: NBC E.P.L XTRA 4 (LIVE DURING EPL)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2436.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBC E.P.L XTRA 4 (LIVE DURING EPL)</link> 
+        </item> 
+          <item> 
+            <title>USA: NBC E.P.L XTRA 3 (LIVE DURING EPL)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2437.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBC E.P.L XTRA 3 (LIVE DURING EPL)</link> 
+        </item> 
+          <item> 
+            <title>USA: NBC E.P.L XTRA 2 (LIVE DURING EPL)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2438.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBC E.P.L XTRA 2 (LIVE DURING EPL)</link> 
+        </item> 
+          <item> 
+            <title>USA: NBC E.P.L XTRA 1 (LIVE DURING EPL)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2439.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBC E.P.L XTRA 1 (LIVE DURING EPL)</link> 
+        </item> 
+          <item> 
+            <title>USA: NBC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2440.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBC</link> 
+        </item> 
+          <item> 
+            <title>USA: NBA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2441.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBA TV</link> 
+        </item> 
+          <item> 
+            <title>USA: MSNBC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2442.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: MSNBC</link> 
+        </item> 
+          <item> 
+            <title>USA: MMA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2393.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: MMA HD</link> 
+        </item> 
+          <item> 
+            <title>USA: MMA FIGHT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2394.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: MMA FIGHT</link> 
+        </item> 
+          <item> 
+            <title>USA: MLB HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2395.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: MLB HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Miami Music TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2443.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Miami Music TV</link> 
+        </item> 
+          <item> 
+            <title>USA: LIFE TIME</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2396.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: LIFE TIME</link> 
+        </item> 
+          <item> 
+            <title>USA: Kero TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2444.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Kero TV</link> 
+        </item> 
+          <item> 
+            <title>USA: IFC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2397.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: IFC</link> 
+        </item> 
+          <item> 
+            <title>USA: HBO ZONE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2445.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: HBO ZONE</link> 
+        </item> 
+          <item> 
+            <title>USA: HBO SIGNATURE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2398.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: HBO SIGNATURE</link> 
+        </item> 
+          <item> 
+            <title>USA: HBO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2447.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: HBO HD</link> 
+        </item> 
+          <item> 
+            <title>USA: HBO 2 West</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2399.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: HBO 2 West</link> 
+        </item> 
+          <item> 
+            <title>USA: HALLMARK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2400.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: HALLMARK</link> 
+        </item> 
+          <item> 
+            <title>USA: Ginx</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2449.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Ginx</link> 
+        </item> 
+          <item> 
+            <title>USA: FXX East</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2401.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: FXX East</link> 
+        </item> 
+          <item> 
+            <title>USA: Fox News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2403.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Fox News</link> 
+        </item> 
+          <item> 
+            <title>USA: Fight Sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2450.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Fight Sport</link> 
+        </item> 
+          <item> 
+            <title>USA: Encore East</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2404.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Encore East</link> 
+        </item> 
+          <item> 
+            <title>USA: Encore Action East</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2405.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Encore Action East</link> 
+        </item> 
+          <item> 
+            <title>USA: E!</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2451.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: E!</link> 
+        </item> 
+          <item> 
+            <title>USA: DJing Ibiza</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2452.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: DJing Ibiza</link> 
+        </item> 
+          <item> 
+            <title>USA: Country Music Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2453.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Country Music Channel</link> 
+        </item> 
+          <item> 
+            <title>USA: CNN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2406.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: CNN HD</link> 
+        </item> 
+          <item> 
+            <title>USA: CNN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2454.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: CNN</link> 
+        </item> 
+          <item> 
+            <title>USA: CITY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2407.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: CITY HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Cinemax West</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2408.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Cinemax West</link> 
+        </item> 
+          <item> 
+            <title>USA: Cinemax East</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2409.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Cinemax East</link> 
+        </item> 
+          <item> 
+            <title>USA: Channel 11</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2455.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Channel 11</link> 
+        </item> 
+          <item> 
+            <title>USA: CET 99</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2456.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: CET 99</link> 
+        </item> 
+          <item> 
+            <title>USA: CBN News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2457.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: CBN News</link> 
+        </item> 
+          <item> 
+            <title>USA: Bravo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2410.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Bravo</link> 
+        </item> 
+          <item> 
+            <title>USA: Big Ten Network HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2411.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Big Ten Network HD</link> 
+        </item> 
+          <item> 
+            <title>USA: BET</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2458.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: BET</link> 
+        </item> 
+          <item> 
+            <title>USA: AFN Spectrum</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2415.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: AFN Spectrum</link> 
+        </item> 
+          <item> 
+            <title>USA: AFN Prime Pacific</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2416.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: AFN Prime Pacific</link> 
+        </item> 
+          <item> 
+            <title>USA: AFN Prime Atlantic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2417.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: AFN Prime Atlantic</link> 
+        </item> 
+          <item> 
+            <title>USA: AFN News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2418.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: AFN News</link> 
+        </item> 
+          <item> 
+            <title>USA: AFN Movie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2419.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: AFN Movie</link> 
+        </item> 
+          <item> 
+            <title>USA: AFM Pulse</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2420.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: AFM Pulse</link> 
+        </item> 
+          <item> 
+            <title>USA: ABC News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2462.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: ABC News</link> 
+        </item> 
+          <item> 
+            <title>USA: ABC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2463.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: ABC HD</link> 
+        </item> 
+          <item> 
+            <title>USA: ABC FAMILY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2421.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: ABC FAMILY</link> 
+        </item> 
+          <item> 
+            <title>USA: ABC Action News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2422.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: ABC Action News</link> 
+        </item> 
+          <item> 
+            <title>USA: 360 North</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/12.08/16.08/2464.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: 360 North</link> 
         </item> 
   
  
