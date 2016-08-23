@@ -23,364 +23,250 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 03-08-16 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 24-08-16 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
+<item>
+<title>PT: TVI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3932.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI </link>
+</item>
+<item>
+<title>PT: TVC 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1734.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVC 1 </link>
+</item>
+<item>
+<title>PT: TVC 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1275.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVC 2 </link>
+</item>
+<item>
+<title>PT: TVC 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1736.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVC 3 </link>
+</item>
+<item>
+<title>PT: TVC 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1737.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVC 4 </link>
+</item>
+<item>
+<title>PT: TVI 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3933.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24 </link>
+</item>
+<item>
+<title>PT: TVI REALITY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/4330.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI REALITY </link>
+</item>
+<item>
+<title>PT: SIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3937.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC </link>
+</item>
+<item>
+<title>PT: SIC RADICAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3934.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC RADICAL </link>
+</item>
+<item>
+<title>PT: SIC NOTICIAS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3935.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC NOTICIAS </link>
+</item>
+<item>
+<title>PT: SIC Kids</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3936.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Kids </link>
+</item>
+<item>
+<title>PT: SIC MULHER</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/4332.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC MULHER </link>
+</item>
+<item>
+<title>PT: SIC CARAS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/4333.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC CARAS </link>
+</item>
+<item>
+<title>PT: RTP 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1747.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1 </link>
+</item>
+<item>
+<title>PT: RTP 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1748.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2 </link>
+</item>
+<item>
+<title>PT: RTP Memoria</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1754.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Memoria </link>
+</item>
+<item>
+<title>PT: RTP Madeira</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1753.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Madeira </link>
+</item>
+<item>
+<title>PT: RTP Africa</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1750.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Africa </link>
+</item>
+<item>
+<title>PT: RTP Acores</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1749.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Acores </link>
+</item>
+<item>
+<title>PT: SPORT TV 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1813.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 1 </link>
+</item>
+<item>
+<title>PT-SPORT TV 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/889.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-SPORT TV 2 </link>
+</item>
+<item>
+<title>PT-SPORT TV 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1273.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-SPORT TV 3 </link>
+</item>
+<item>
+<title>PT:SPORT TV 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1274.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SPORT TV 4 </link>
+</item>
+<item>
+<title>PT: SPORT TV 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1814.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 5 </link>
+</item>
+<item>
+<title>PT: Benfica Tv 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1286.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica Tv 1 </link>
+</item>
+<item>
+<title>PT: Benfica Tv 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1285.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica Tv 2 </link>
+</item>
+<item>
+<title>PT: EUROSPORT 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1283.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUROSPORT 1 </link>
+</item>
+<item>
+<title>PT: Sport TV 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1969.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV 1 HD </link>
+</item>
+<item>
+<title>PT: Motors TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3691.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motors TV </link>
+</item>
+<item>
+<title>PT: Eurosport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3694.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Eurosport </link>
+</item>
+<item>
+<title>PT: FX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1276.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FX </link>
+</item>
+<item>
+<title>PT: SYFY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1279.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SYFY </link>
+</item>
+<item>
+<title>PT: MOV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/886.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD </link>
+</item>
+<item>
+<title>PT: Fox Crime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/4331.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Crime </link>
+</item>
+<item>
+<title>PT: FOX MOVE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/888.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX MOVE </link>
+</item>
+<item>
+<title>PT: AXN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1129.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD </link>
+</item>
+<item>
+<title>PT: AXN WHITE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1130.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN WHITE HD </link>
+</item>
+<item>
+<title>PT: AXN Black HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1131.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN Black HD </link>
+</item>
+<item>
+<title>PT: TV Globo Premium</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/4110.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo Premium </link>
+</item>
+<item>
+<title>PT: Sporting TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1280.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sporting TV </link>
+</item>
+<item>
+<title>PT: GLOBO TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/4098.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: GLOBO TV </link>
+</item>
+<item>
+<title>PT: VH1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1744.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VH1 </link>
+</item>
+<item>
+<title>PT: PANDA BIGGS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/4335.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PANDA BIGGS </link>
+</item>
+<item>
+<title>PT: Odisseia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/4336.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Odisseia </link>
+</item>
+<item>
+<title>PT: Nat Geo Wild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/4334.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nat Geo Wild </link>
+</item>
+<item>
+<title>PT: DISCOVERY CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/4337.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISCOVERY CHANNEL </link>
+</item>
+<item>
+<title>PT: CMTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/4329.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CMTV </link>
+</item>
+<item>
+<title>PT: Fox News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3693.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox News </link>
+</item>
+<item>
+<title>PT: Económico TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3695.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Económico TV </link>
+</item>
+<item>
+<title>PT: Chelsea TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3698.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Chelsea TV </link>
+</item>
+<item>
+<title>PT: Canal Hollywood</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3699.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Hollywood </link>
+</item>
+<item>
+<title>PT: Canal de Historia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3700.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal de Historia </link>
+</item>
+<item>
+<title>PT: Canal Cinemundo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3701.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Cinemundo </link>
+</item>
+<item>
+<title>PT: A Bola TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3705.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A Bola TV </link>
+</item>
+<item>
+<title>PT: AMC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3704.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AMC </link>
+</item>
+<item>
+<title>PT: ARTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3703.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ARTV </link>
+</item>
+<item>
+<title>PT: Baby TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3702.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Baby TV </link>
+</item>
+<item>
+<title>PT: JimJam EMEA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3692.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: JimJam EMEA </link>
+</item>
+<item>
+<title>PT: Disney Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3696.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel </link>
+</item>
 
- 
-          <item> 
-            <title>PT: AXN BLACK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/396.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN BLACK</link> 
-        </item> 
-          <item> 
-            <title>PT: DISNEY JUNIOR (test)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/398.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISNEY JUNIOR (test)</link> 
-        </item> 
-          <item> 
-            <title>PT: Eurosport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/397.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Eurosport</link> 
-        </item> 
-          <item> 
-            <title>PT: NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/395.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NICKELODEON</link> 
-        </item> 
-          <item> 
-            <title>PT: ODISSEIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/394.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ODISSEIA</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP INFORMACAO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/393.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP INFORMACAO</link> 
-        </item> 
-          <item> 
-            <title>PT: SIC Mulher</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/392.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Mulher</link> 
-        </item> 
-          <item> 
-            <title>PT: SIC NOTICIAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/391.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC NOTICIAS</link> 
-        </item> 
-          <item> 
-            <title>PT: SIC Radical</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/390.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Radical</link> 
-        </item> 
-          <item> 
-            <title>PT: SPORT TV 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/400.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 3 HD</link> 
-        </item> 
-          <item> 
-            <title>PT: SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/389.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SYFY</link> 
-        </item> 
-          <item> 
-            <title>PT:AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/319.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AXN HD</link> 
-        </item> 
-          <item> 
-            <title>PT:AXN WHITE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/320.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AXN WHITE HD</link> 
-        </item> 
-          <item> 
-            <title>PT:BENFICA TV 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/326.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BENFICA TV 1 HD</link> 
-        </item> 
-          <item> 
-            <title>PT:CINE MUNDO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/328.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CINE MUNDO</link> 
-        </item> 
-          <item> 
-            <title>PT:CMTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/329.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CMTV</link> 
-        </item> 
-          <item> 
-            <title>PT:FOX CRIME</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/317.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FOX CRIME</link> 
-        </item> 
-          <item> 
-            <title>PT:FOX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/318.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FOX HD</link> 
-        </item> 
-          <item> 
-            <title>PT:Sport Tv 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/322.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport Tv 2 HD</link> 
-        </item> 
-          <item> 
-            <title>PT:SPORT TV 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/323.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SPORT TV 4 HD</link> 
-        </item> 
-          <item> 
-            <title>PT:SPORT TV 5 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/324.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SPORT TV 5 SD</link> 
-        </item> 
-          <item> 
-            <title>PT:SPORTV 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/321.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SPORTV 1 HD</link> 
-        </item> 
-          <item> 
-            <title>PT:TV Series HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/325.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV Series HD</link> 
-        </item> 
-          <item> 
-            <title>PT:TVCINE 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/313.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCINE 1 HD</link> 
-        </item> 
-          <item> 
-            <title>PT:TVCINE 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/314.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCINE 2 HD</link> 
-        </item> 
-          <item> 
-            <title>PT:TVCINE 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/315.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCINE 3</link> 
-        </item> 
-          <item> 
-            <title>PT:TVCINE 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/316.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCINE 4</link> 
-        </item> 
-          <item> 
-            <title>PT: Tvi 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/906.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Tvi 24</link> 
-        </item> 
-          <item> 
-            <title>PT: Sic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/905.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP Memoria</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/901.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Memoria</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP Madeira</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/902.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Madeira</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP Africa</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/903.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Africa</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP Acores</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/904.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Acores</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/900.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 3</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/899.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/898.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1</link> 
-        </item> 
-          <item> 
-            <title>PT: Nat Geo Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/910.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nat Geo Wild</link> 
-        </item> 
-          <item> 
-            <title>PT: MTV Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/911.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MTV Portugal</link> 
-        </item> 
-          <item> 
-            <title>PT: Historia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/908.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Historia</link> 
-        </item> 
-          <item> 
-            <title>PT: Fox Life HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/909.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Life HD</link> 
-        </item> 
-          <item> 
-            <title>PT: Euronews</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/907.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Euronews</link> 
-        </item> 
-          <item> 
-            <title>PT: Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/914.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Junior</link> 
-        </item> 
-          <item> 
-            <title>PT: Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/913.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel</link> 
-        </item> 
-          <item> 
-            <title>PT: Cartoon Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/912.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cartoon Network</link> 
-        </item> 
-          <item> 
-            <title>PT: Canal Panda</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/915.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Panda</link> 
-        </item> 
-          <item> 
-            <title>PT: Biggs</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/saad/saad/916.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Biggs</link> 
-        </item> 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-   
-          <item> 
-            <title>PT: TVI 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3521.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24</link> 
-        </item> 
-          <item> 
-            <title>PT: TV SERIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3522.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV SERIES</link> 
-        </item> 
-          <item> 
-            <title>PT: TV GLOBO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3523.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO</link> 
-        </item> 
-          <item> 
-            <title>PT: TV CINE 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3524.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 4 HD</link> 
-        </item> 
-          <item> 
-            <title>PT: TV CINE 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3525.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 3</link> 
-        </item> 
-          <item> 
-            <title>PT: TV CINE 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3526.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 2</link> 
-        </item> 
-          <item> 
-            <title>PT: TV CINE 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3527.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 1 HD</link> 
-        </item> 
-          <item> 
-            <title>PT: TPA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3506.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TPA</link> 
-        </item> 
-          <item> 
-            <title>PT: SPORTING TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3528.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTING TV</link> 
-        </item> 
-          <item> 
-            <title>PT: SPORT TV 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3507.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 5</link> 
-        </item> 
-          <item> 
-            <title>PT: SPORT TV 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3508.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 4</link> 
-        </item> 
-          <item> 
-            <title>PT: SPORT TV 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3509.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 3</link> 
-        </item> 
-          <item> 
-            <title>PT: SPORT TV 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3510.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 2</link> 
-        </item> 
-          <item> 
-            <title>PT: SPORT TV 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3511.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 1 HD</link> 
-        </item> 
-          <item> 
-            <title>PT: SIC NOTICIAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3512.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC NOTICIAS</link> 
-        </item> 
-          <item> 
-            <title>PT: SIC CARAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3529.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC CARAS</link> 
-        </item> 
-          <item> 
-            <title>PT: SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3513.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP MEMÓRIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3520.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP MEMÓRIA</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP INFORMAÇÃO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3519.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP INFORMAÇÃO</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP ÁFRICA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3514.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP ÁFRICA</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP ACORES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3515.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP ACORES</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3518.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3517.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1</link> 
-        </item> 
-          <item> 
-            <title>PT: RECORD EUROPE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3530.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RECORD EUROPE</link> 
-        </item> 
-          <item> 
-            <title>PT: PORTO CANAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3516.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PORTO CANAL</link> 
-        </item> 
-          <item> 
-            <title>PT: ODISSEIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3531.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ODISSEIA</link> 
-        </item> 
-          <item> 
-            <title>PT: MTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3532.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MTV</link> 
-        </item> 
-          <item> 
-            <title>PT: MOV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3533.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD</link> 
-        </item> 
-          <item> 
-            <title>PT: HOLLYWOOD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3534.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: HOLLYWOOD</link> 
-        </item> 
-          <item> 
-            <title>PT: HISTORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3535.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: HISTORIA</link> 
-        </item> 
-          <item> 
-            <title>PT: FOX LIFE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3536.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX LIFE HD</link> 
-        </item> 
-          <item> 
-            <title>PT: FOX CRIME</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3537.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX CRIME</link> 
-        </item> 
-          <item> 
-            <title>PT: EUROSPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3538.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUROSPORT</link> 
-        </item> 
-          <item> 
-            <title>PT: DISCOVERY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3539.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISCOVERY CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>PT: AXN WHITE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3540.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN WHITE HD</link> 
-        </item> 
-          <item> 
-            <title>PT: AXN BLACK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/luciano/luciano/3504.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN BLACK</link> 
-        </item> 
-  
 
 <item>       
 <title>[COLOR red]                                                          [/COLOR]</title>

@@ -23,7 +23,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 03-08-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 24-08-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -31,590 +31,862 @@
 </item>
 
 
-
-
- 
-          <item> 
-            <title>Sky_Sports_1_EN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky_Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky_Sports_1_EN</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/235.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Sky_Sports_2_EN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky_Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky_Sports_2_EN</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/236.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Sky_Sports_3_EN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky_Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky_Sports_3_EN</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/240.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>BT_Sport_1_EN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/246.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT_Sport_1_EN</link> 
-        </item> 
-          <item> 
-            <title>BT_Sport_2_EN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/247.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT_Sport_2_EN</link> 
-        </item> 
-          <item> 
-            <title>Sky_Select_EN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/251.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky_Select_EN</link> 
-        </item> 
-          <item> 
-            <title>sky_Premiere_EN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/242.ts&amp;streamtype=TSDOWNLOADER&amp;name=sky_Premiere_EN</link> 
-        </item> 
-          <item> 
-            <title>Sky_Livingit_EN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/252.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky_Livingit_EN</link> 
-        </item> 
-          <item> 
-            <title>Sky_Family_EN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/254.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky_Family_EN</link> 
-        </item> 
-          <item> 
-            <title>UK: DISNEY XD +1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/250.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISNEY XD +1</link> 
-        </item> 
-          <item> 
-            <title>Sky_Comedy_EN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/237.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky_Comedy_EN</link> 
-        </item> 
-          <item> 
-            <title>sky_action_EN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/255.ts&amp;streamtype=TSDOWNLOADER&amp;name=sky_action_EN</link> 
-        </item> 
-          <item> 
-            <title>PBS_America_EN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/244.ts&amp;streamtype=TSDOWNLOADER&amp;name=PBS_America_EN</link> 
-        </item> 
-          <item> 
-            <title>Nat_Geo_Wild_EN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/249.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat_Geo_Wild_EN</link> 
-        </item> 
-          <item> 
-            <title>FOX_EN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/248.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX_EN</link> 
-        </item> 
-          <item> 
-            <title>fox_news_EN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/257.ts&amp;streamtype=TSDOWNLOADER&amp;name=fox_news_EN</link> 
-        </item> 
-          <item> 
-            <title>DISCOVERY_History_EN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/253.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY_History_EN</link> 
-        </item> 
-          <item> 
-            <title>Cartoonito_EN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/241.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoonito_EN</link> 
-        </item> 
-          <item> 
-            <title>uk_alibi</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/405.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_alibi</link> 
-        </item> 
-          <item> 
-            <title>uk_dave</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/404.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_dave</link> 
-        </item> 
-          <item> 
-            <title>uk_disney_junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/403.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_disney_junior</link> 
-        </item> 
-          <item> 
-            <title>uk_eden</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/401.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_eden</link> 
-        </item> 
-          <item> 
-            <title>uk_good_food</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/400.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_good_food</link> 
-        </item> 
-          <item> 
-            <title>uk_home</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/399.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_home</link> 
-        </item> 
-          <item> 
-            <title>UK: REAL LIVES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/398.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: REAL LIVES</link> 
-        </item> 
-          <item> 
-            <title>UK_SKY_SPORT_NEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/397.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORT_NEWS</link> 
-        </item> 
-          <item> 
-            <title>uk_sky_drama</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/396.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_sky_drama</link> 
-        </item> 
-          <item> 
-            <title>uk_sky_greats</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,uk_sky_greats&amp;streamtype=TSDOWNLOADER&amp;name=uk_sky_greats</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/395.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>uk_sky_horror</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/394.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_sky_horror</link> 
-        </item> 
-          <item> 
-            <title>uk_skythriller</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/392.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_skythriller</link> 
-        </item> 
-          <item> 
-            <title>uk_watch</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/391.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_watch</link> 
-        </item> 
-          <item> 
-            <title>uk_yesterday</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/390.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_yesterday</link> 
-        </item> 
-          <item> 
-            <title>uk_disney_channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/389.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_disney_channel</link> 
-        </item> 
-          <item> 
-            <title>uk_atraces</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/388.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_atraces</link> 
-        </item> 
-          <item> 
-            <title>uk_CHANNEL4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/387.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_CHANNEL4</link> 
-        </item> 
-          <item> 
-            <title>uk_channel5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/386.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_channel5</link> 
-        </item> 
-          <item> 
-            <title>uk_E4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/385.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_E4</link> 
-        </item> 
-          <item> 
-            <title>UK_FILM_4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/384.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_FILM_4</link> 
-        </item> 
-          <item> 
-            <title>uk_rte1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/383.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_rte1</link> 
-        </item> 
-          <item> 
-            <title>UK_SKY_SPORTS_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/382.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORTS_1</link> 
-        </item> 
-          <item> 
-            <title>UK_SKY_SPORTS_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/381.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORTS_2</link> 
-        </item> 
-          <item> 
-            <title>UK_SKY_SPORTS_3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/380.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORTS_3</link> 
-        </item> 
-          <item> 
-            <title>uk_Utv</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/379.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_Utv</link> 
-        </item> 
-          <item> 
-            <title>UK_SKY_SPORTS_4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/378.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORTS_4</link> 
-        </item> 
-          <item> 
-            <title>uk_sky_sports_f1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,uk_sky_sports&amp;streamtype=TSDOWNLOADER&amp;name=uk_sky_sports_f1</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/376.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK_MTV_HITS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/372.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_MTV_HITS</link> 
-        </item> 
-          <item> 
-            <title>uk_ANIMAL_planet</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/370.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_ANIMAL_planet</link> 
-        </item> 
-          <item> 
-            <title>uk_BBC1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/369.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_BBC1</link> 
-        </item> 
-          <item> 
-            <title>uk_CNN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/367.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_CNN</link> 
-        </item> 
-          <item> 
-            <title>UK: DISCOVERY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/366.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISCOVERY CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>uk_bbc_news</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/365.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_bbc_news</link> 
-        </item> 
-          <item> 
-            <title>uk_WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/363.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_WILD</link> 
-        </item> 
-          <item> 
-            <title>uk_itv3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/362.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_itv3</link> 
-        </item> 
-          <item> 
-            <title>uk_itv2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/361.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_itv2</link> 
-        </item> 
-          <item> 
-            <title>uk_itv1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/360.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_itv1</link> 
-        </item> 
-          <item> 
-            <title>UK_COLORS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2710.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_COLORS</link> 
-        </item> 
-          <item> 
-            <title>UK_B4U MOVIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2711.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_B4U MOVIES</link> 
-        </item> 
-          <item> 
-            <title>UK_ZEE CINEMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2712.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ZEE CINEMA</link> 
-        </item> 
-          <item> 
-            <title>UK_ZING</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2713.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ZING</link> 
-        </item> 
-          <item> 
-            <title>UK_LIVING IT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2714.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_LIVING IT</link> 
-        </item> 
-          <item> 
-            <title>UK_DISCOVERY ID</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2715.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_DISCOVERY ID</link> 
-        </item> 
-          <item> 
-            <title>UK_B4U PLUS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2716.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_B4U PLUS</link> 
-        </item> 
-          <item> 
-            <title>UK_B4U MUSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2717.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_B4U MUSIC</link> 
-        </item> 
-          <item> 
-            <title>UK_BBC ONE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2718.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC ONE</link> 
-        </item> 
-          <item> 
-            <title>UK_BBC FOUR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2719.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC FOUR</link> 
-        </item> 
-          <item> 
-            <title>UK_ITV4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2720.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV4</link> 
-        </item> 
-          <item> 
-            <title>UK_ITV BE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2721.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV BE</link> 
-        </item> 
-          <item> 
-            <title>UK_CHANNEL 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2722.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CHANNEL 4</link> 
-        </item> 
-          <item> 
-            <title>UK_Five Star</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2723.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Five Star</link> 
-        </item> 
-          <item> 
-            <title>UK_GOLD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2724.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_GOLD</link> 
-        </item> 
-          <item> 
-            <title>UK_SKY NEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2725.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY NEWS</link> 
-        </item> 
-          <item> 
-            <title>UK_SKY ONE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2726.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY ONE</link> 
-        </item> 
-          <item> 
-            <title>UK_3e</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2727.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_3e</link> 
-        </item> 
-          <item> 
-            <title>UK_SONY MOVIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2728.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SONY MOVIES</link> 
-        </item> 
-          <item> 
-            <title>UK_CBS ACTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2729.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CBS ACTION</link> 
-        </item> 
-          <item> 
-            <title>UK_MOVIES4MEN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2730.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_MOVIES4MEN</link> 
-        </item> 
-          <item> 
-            <title>UK_SKY ATLANTIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2731.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY ATLANTIC</link> 
-        </item> 
-          <item> 
-            <title>UK_SKY MOVIES ACTION  ADVENTURE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2732.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY MOVIES ACTION  ADVENTURE</link> 
-        </item> 
-          <item> 
-            <title>UK_SKY MOVIES SHOWCASE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2733.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY MOVIES SHOWCASE</link> 
-        </item> 
-          <item> 
-            <title>UK_CBEEBIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2734.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CBEEBIES</link> 
-        </item> 
-          <item> 
-            <title>UK_DISNEY XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2735.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_DISNEY XD</link> 
-        </item> 
-          <item> 
-            <title>UK_COMEDY CENTRAL EXTRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2736.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_COMEDY CENTRAL EXTRA</link> 
-        </item> 
-          <item> 
-            <title>UK_CRIME  INVESTIGATION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2737.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CRIME  INVESTIGATION</link> 
-        </item> 
-          <item> 
-            <title>UK_DISCOVERY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2738.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_DISCOVERY CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>UK_DISCOVERY SHED</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2739.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_DISCOVERY SHED</link> 
-        </item> 
-          <item> 
-            <title>UK_DMAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2740.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_DMAX</link> 
-        </item> 
-          <item> 
-            <title>UK_FOOD NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2741.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_FOOD NETWORK</link> 
-        </item> 
-          <item> 
-            <title>UK_HISTORY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2742.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_HISTORY</link> 
-        </item> 
-          <item> 
-            <title>UK_LIFETIME</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2743.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_LIFETIME</link> 
-        </item> 
-          <item> 
-            <title>UK_QUEST</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2744.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_QUEST</link> 
-        </item> 
-          <item> 
-            <title>UK_SKY ARTS 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2745.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY ARTS 1</link> 
-        </item> 
-          <item> 
-            <title>UK_MTV DANCE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2746.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_MTV DANCE</link> 
-        </item> 
-          <item> 
-            <title>UK_MTV ROCKS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2747.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_MTV ROCKS</link> 
-        </item> 
-          <item> 
-            <title>UK_VIVA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2748.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_VIVA</link> 
-        </item> 
-          <item> 
-            <title>UK_CLUBLAND</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2749.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CLUBLAND</link> 
-        </item> 
-          <item> 
-            <title>UK_VH1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2750.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_VH1</link> 
-        </item> 
-          <item> 
-            <title>UK_MUTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2751.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_MUTV</link> 
-        </item> 
-          <item> 
-            <title>UK_BOXNATION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2752.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BOXNATION</link> 
-        </item> 
-          <item> 
-            <title>UK_BRITISH EUROSPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2753.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BRITISH EUROSPORT</link> 
-        </item> 
-          <item> 
-            <title>UK_BRITISH EUROSPORT 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2754.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BRITISH EUROSPORT 2</link> 
-        </item> 
-          <item> 
-            <title>UK_BT SPORT EUROPE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2755.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BT SPORT EUROPE</link> 
-        </item> 
-          <item> 
-            <title>UK_BT SPORT EXTRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2756.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BT SPORT EXTRA</link> 
-        </item> 
-          <item> 
-            <title>UK_LIVERPOOL FC TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2757.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_LIVERPOOL FC TV</link> 
-        </item> 
-          <item> 
-            <title>UK_RACING UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2758.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_RACING UK</link> 
-        </item> 
-          <item> 
-            <title>UK_SETANTA SPORT IRELAND</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2759.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SETANTA SPORT IRELAND</link> 
-        </item> 
-          <item> 
-            <title>UK_MTV BASE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2760.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_MTV BASE</link> 
-        </item> 
-          <item> 
-            <title>Baby_Tv_EN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/3488.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby_Tv_EN</link> 
-        </item> 
-          <item> 
-            <title>-----------------TV_BEIN_SPORTS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/327.ts&amp;streamtype=TSDOWNLOADER&amp;name=-----------------TV_BEIN_SPORTS</link> 
-        </item> 
-          <item> 
-            <title>BEIN_MOVIE_1HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2967.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN_MOVIE_1HD</link> 
-        </item> 
-          <item> 
-            <title>BEIN_MOVIE_2HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/2968.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN_MOVIE_2HD</link> 
-        </item> 
-          <item> 
-            <title>Bein_Sports_1HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Bein_Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein_Sports_1HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Bein_Sports_2HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Bein_Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein_Sports_2HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/31.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Bein_Sports_3HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Bein_Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein_Sports_3HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/32.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Bein_Sports_4HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Bein_Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein_Sports_4HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Bein_Sports_5HD_max1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Bein_Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein_Sports_5HD_max1</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Bein_Sports_6HD_max2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Bein_Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein_Sports_6HD_max2</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Bein_Sports_7HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Bein_Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein_Sports_7HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/36.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Bein_Sports_8HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Bein_Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein_Sports_8HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/37.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Bein_Sports_9HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Bein_Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein_Sports_9HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Bein_Sports_10HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Bein_Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein_Sports_10HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Bein_Sports_11HD_max3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Bein_Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein_Sports_11HD_max3</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Bein_Sports_12HD_max4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Bein_Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein_Sports_12HD_max4</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Bein_Sports_13HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Bein_Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein_Sports_13HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Bein_Sports_14HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Bein_Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein_Sports_14HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Bein_Sports_15HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Bein_Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein_Sports_15HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-  
+<item>
+<title>---SKYUK One----</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1433.ts&amp;streamtype=TSDOWNLOADER&amp;name=---SKYUK One---- </link>
+</item>
+<item>
+<title>UK: Sky Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2964.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 1 HD </link>
+</item>
+<item>
+<title>UK: Sky Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2965.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 2 HD </link>
+</item>
+<item>
+<title>UK: Sky Sport 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2966.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 3 HD </link>
+</item>
+<item>
+<title>UK: Sky Sport 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2967.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 4 HD </link>
+</item>
+<item>
+<title>UK: Sky Sport 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2968.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 5 HD </link>
+</item>
+<item>
+<title>UK: Sky Sport F1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2969.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport F1 HD </link>
+</item>
+<item>
+<title>UK: Sky Sports 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/824.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 1 </link>
+</item>
+<item>
+<title>UK: Sky Sports 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/823.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 2 </link>
+</item>
+<item>
+<title>UK: Sky Sports 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/822.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 3 </link>
+</item>
+<item>
+<title>UK: Sky Sports 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/821.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 4 </link>
+</item>
+<item>
+<title>UK: Sky Sports 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/820.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 5 </link>
+</item>
+<item>
+<title>UK: Sky Sports F1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/819.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports F1 </link>
+</item>
+<item>
+<title>UK: BT Sports Extra 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2826.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sports Extra 2 HD </link>
+</item>
+<item>
+<title>UK: SKY BT Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1488.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY BT Sports 1 HD </link>
+</item>
+<item>
+<title>UK:  SKY BT Sports 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1487.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:  SKY BT Sports 2 HD </link>
+</item>
+<item>
+<title>UK: Sky Sports News HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/818.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports News HD </link>
+</item>
+<item>
+<title>UK: Sky News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/4219.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky News </link>
+</item>
+<item>
+<title>UK: Sky Setanta Sports</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2160.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Setanta Sports </link>
+</item>
+<item>
+<title>UK: BTSport Europe HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2737.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BTSport Europe HD </link>
+</item>
+<item>
+<title>UK: BTSportMosaic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2744.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BTSportMosaic </link>
+</item>
+<item>
+<title>UK: BTSportExtra1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2745.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BTSportExtra1 </link>
+</item>
+<item>
+<title>UK: Eurosport2.HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3318.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Eurosport2.HD </link>
+</item>
+<item>
+<title>UK: Eurosport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1872.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Eurosport 1 HD </link>
+</item>
+<item>
+<title>UK: Premier Sports</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2828.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Premier Sports </link>
+</item>
+<item>
+<title>UK: ESPN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1871.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ESPN HD </link>
+</item>
+<item>
+<title>UK: RACING HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2162.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RACING HD </link>
+</item>
+<item>
+<title>UK:Sky Movies Premiere HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1317.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky Movies Premiere HD </link>
+</item>
+<item>
+<title>UK: E! Entertainment</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1943.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: E! Entertainment </link>
+</item>
+<item>
+<title>UK:Sky Movies Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/925.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky Movies Comedy </link>
+</item>
+<item>
+<title>UK:BBC3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1190.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC3 </link>
+</item>
+<item>
+<title>UK: FOOD NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2385.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: FOOD NETWORK </link>
+</item>
+<item>
+<title>UK:BBC World News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1191.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC World News </link>
+</item>
+<item>
+<title>UK:BBC 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1192.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC 4 </link>
+</item>
+<item>
+<title>UK:BBC 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1193.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC 2 </link>
+</item>
+<item>
+<title>UK:BBC 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1194.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC 1 </link>
+</item>
+<item>
+<title>UK:-|  TV3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2154.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:-|  TV3 </link>
+</item>
+<item>
+<title>UK: YESTERDAY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2152.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: YESTERDAY </link>
+</item>
+<item>
+<title>UK: VH1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2153.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: VH1 </link>
+</item>
+<item>
+<title>UK: True Movies 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1447.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Movies 2 </link>
+</item>
+<item>
+<title>UK: True Movies 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1446.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Movies 1 </link>
+</item>
+<item>
+<title>UK: CBS REALITY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3082.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS REALITY </link>
+</item>
+<item>
+<title>UK: CBS DRAMA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3081.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS DRAMA </link>
+</item>
+<item>
+<title>UK: Mototrs TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2155.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Mototrs TV </link>
+</item>
+<item>
+<title>UK: TLC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2156.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TLC </link>
+</item>
+<item>
+<title>UK: Watch</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3087.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Watch </link>
+</item>
+<item>
+<title>UK: Quest</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3089.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Quest </link>
+</item>
+<item>
+<title>UK: mov4men1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3096.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: mov4men1 </link>
+</item>
+<item>
+<title>UK: Home</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3090.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Home </link>
+</item>
+<item>
+<title>UK: Gold</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3091.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Gold </link>
+</item>
+<item>
+<title>UK: Food</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3093.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Food </link>
+</item>
+<item>
+<title>UK: Film 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3095.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Film 4 HD </link>
+</item>
+<item>
+<title>UK: Drama</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3092.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Drama </link>
+</item>
+<item>
+<title>UK: Dave HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3088.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Dave HD </link>
+</item>
+<item>
+<title>UK: Channel 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3085.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 5 </link>
+</item>
+<item>
+<title>UK: Channel 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3084.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 4 HD </link>
+</item>
+<item>
+<title>UK: At The Races</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3097.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: At The Races </link>
+</item>
+<item>
+<title>UK: Alibi</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3094.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Alibi </link>
+</item>
+<item>
+<title>UK: 5 Usa</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3086.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 5 Usa </link>
+</item>
+<item>
+<title>UK: 3E</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3083.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 3E </link>
+</item>
+<item>
+<title>UK: TCM 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2158.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TCM 1 </link>
+</item>
+<item>
+<title>UK: Sky Syfy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2159.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Syfy </link>
+</item>
+<item>
+<title>UK: Sky Movies Thriller HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/825.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Thriller HD </link>
+</item>
+<item>
+<title>UK: Sky Movies Select HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/826.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Select HD </link>
+</item>
+<item>
+<title>UK: Sky Movies Scifi / Horror</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1442.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Scifi / Horror </link>
+</item>
+<item>
+<title>UK: Sky Movies Modern Greats</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1440.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Modern Greats </link>
+</item>
+<item>
+<title>UK: Sky Movies Family</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1439.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Family </link>
+</item>
+<item>
+<title>UK: Sky Movies Drama HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/830.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Drama HD </link>
+</item>
+<item>
+<title>UK: Sky Movies Action HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/831.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Action HD </link>
+</item>
+<item>
+<title>UK: Sky Atlantic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1435.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Atlantic </link>
+</item>
+<item>
+<title>UK: TG4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2739.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TG4 </link>
+</item>
+<item>
+<title>UK: Sony TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2747.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sony TV </link>
+</item>
+<item>
+<title>UK: SkyThriller</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2750.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SkyThriller </link>
+</item>
+<item>
+<title>UK: SkySuperhero</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2751.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SkySuperhero </link>
+</item>
+<item>
+<title>UK: SkyShowcase</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2752.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SkyShowcase </link>
+</item>
+<item>
+<title>UK: SkySelect</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2753.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SkySelect </link>
+</item>
+<item>
+<title>UK: SkyScFi/Horror</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2754.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SkyScFi/Horror </link>
+</item>
+<item>
+<title>UK: SkyPremiere</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2755.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SkyPremiere </link>
+</item>
+<item>
+<title>UK: SetantaIreland</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2743.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SetantaIreland </link>
+</item>
+<item>
+<title>UK: RTEjr</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2740.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RTEjr </link>
+</item>
+<item>
+<title>UK: RTE2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2741.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RTE2 </link>
+</item>
+<item>
+<title>UK: RTE1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2742.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RTE1 </link>
+</item>
+<item>
+<title>UK: BTSport//ESPN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2746.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BTSport//ESPN </link>
+</item>
+<item>
+<title>UK: Sky Arts 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1434.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Arts 1 </link>
+</item>
+<item>
+<title>UK: Nickelodeon</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2240.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nickelodeon </link>
+</item>
+<item>
+<title>UK: Nick-Jr-Too</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2242.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nick-Jr-Too </link>
+</item>
+<item>
+<title>UK: Nick Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2241.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nick Junior </link>
+</item>
+<item>
+<title>UK: National Geographic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1448.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: National Geographic </link>
+</item>
+<item>
+<title>UK: Nat Geografic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1940.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nat Geografic </link>
+</item>
+<item>
+<title>UK: Nat Geo Wild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1941.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nat Geo Wild </link>
+</item>
+<item>
+<title>UK: MORE4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2161.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MORE4 </link>
+</item>
+<item>
+<title>UK: ITVBE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2163.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITVBE </link>
+</item>
+<item>
+<title>UK: ITV4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2164.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV4 </link>
+</item>
+<item>
+<title>UK: ITV3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2165.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV3 </link>
+</item>
+<item>
+<title>UK: ITV2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2166.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV2 </link>
+</item>
+<item>
+<title>UK: ITV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2167.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV </link>
+</item>
+<item>
+<title>UK: HISTORY2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2168.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: HISTORY2 </link>
+</item>
+<item>
+<title>UK: FOX SPORTS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2169.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: FOX SPORTS </link>
+</item>
+<item>
+<title>UK: MTV Classic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2955.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Classic </link>
+</item>
+<item>
+<title>UK: MTV Base</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2956.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Base </link>
+</item>
+<item>
+<title>UK: MTV  1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2957.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV  1 </link>
+</item>
+<item>
+<title>UK: SKY LIVING</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2958.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY LIVING </link>
+</item>
+<item>
+<title>UK: Film 4 UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/834.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Film 4 UK </link>
+</item>
+<item>
+<title>UK: FILM 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2170.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: FILM 4 </link>
+</item>
+<item>
+<title>UK: F1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2171.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: F1 </link>
+</item>
+<item>
+<title>UK: E4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2172.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: E4 </link>
+</item>
+<item>
+<title>UK: Discovery Turbo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1936.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Turbo </link>
+</item>
+<item>
+<title>UK: Discovery Science</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1937.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Science </link>
+</item>
+<item>
+<title>UK: Discovery Investigation</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1938.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Investigation </link>
+</item>
+<item>
+<title>UK: Discovery History</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1939.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery History </link>
+</item>
+<item>
+<title>UK: Discovery Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1935.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Channel </link>
+</item>
+<item>
+<title>UK: Animal Planet</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1942.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Animal Planet </link>
+</item>
+<item>
+<title>UK:  DISNEY XD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2173.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:  DISNEY XD </link>
+</item>
+<item>
+<title>====== + USA CHANNELS +======</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2293.ts&amp;streamtype=TSDOWNLOADER&amp;name======= + USA CHANNELS +====== </link>
+</item>
+<item>
+<title>USA:USA Net</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2918.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:USA Net </link>
+</item>
+<item>
+<title>USA: Starz Cinema</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2919.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Starz Cinema </link>
+</item>
+<item>
+<title>USA:Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2920.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:Sport 1 HD </link>
+</item>
+<item>
+<title>USA:Poker Central</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2921.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:Poker Central </link>
+</item>
+<item>
+<title>USA:Nick</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2922.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:Nick </link>
+</item>
+<item>
+<title>USA:NHL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2923.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:NHL </link>
+</item>
+<item>
+<title>USA:NDTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2924.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:NDTV </link>
+</item>
+<item>
+<title>USA: CNN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3333.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: CNN </link>
+</item>
+<item>
+<title>US: Fox 59 News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3380.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Fox 59 News </link>
+</item>
+<item>
+<title>USA: TRAVEL CHANNEL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3768.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TRAVEL CHANNEL HD </link>
+</item>
+<item>
+<title>USA: SHOW TIME</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3764.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: SHOW TIME </link>
+</item>
+<item>
+<title>USA: PAC12_1_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3766.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: PAC12_1_HD </link>
+</item>
+<item>
+<title>USA: NASA TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3767.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NASA TV </link>
+</item>
+<item>
+<title>USA: E 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3765.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: E 4 HD </link>
+</item>
+<item>
+<title>S</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3762.ts&amp;streamtype=TSDOWNLOADER&amp;name=S </link>
+</item>
+<item>
+<title>USA: BET</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3763.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: BET </link>
+</item>
+<item>
+<title>US: FOX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3379.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: FOX </link>
+</item>
+<item>
+<title>US: Fight Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3219.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Fight Network </link>
+</item>
+<item>
+<title>US WWE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3221.ts&amp;streamtype=TSDOWNLOADER&amp;name=US WWE </link>
+</item>
+<item>
+<title>US Fox Sports 506 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3230.ts&amp;streamtype=TSDOWNLOADER&amp;name=US Fox Sports 506 HD </link>
+</item>
+<item>
+<title>US Fight Sport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3220.ts&amp;streamtype=TSDOWNLOADER&amp;name=US Fight Sport </link>
+</item>
+<item>
+<title>US BYU Sports TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3231.ts&amp;streamtype=TSDOWNLOADER&amp;name=US BYU Sports TV HD </link>
+</item>
+<item>
+<title>USA:E! HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2914.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:E! HD </link>
+</item>
+<item>
+<title>US: WWE Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2211.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: WWE Network </link>
+</item>
+<item>
+<title>US: TSN 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2206.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TSN 4 </link>
+</item>
+<item>
+<title>US: TSN 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2205.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TSN 2 </link>
+</item>
+<item>
+<title>US: TSN 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2204.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TSN 1 </link>
+</item>
+<item>
+<title>US: BRAVO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2210.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: BRAVO </link>
+</item>
+<item>
+<title>US: HBO ZONE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2209.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: HBO ZONE </link>
+</item>
+<item>
+<title>US: Fox Sports  2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2213.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Fox Sports  2 </link>
+</item>
+<item>
+<title>US: Fox Sports  1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2212.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Fox Sports  1 </link>
+</item>
+<item>
+<title>US: Fox Sports 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2208.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Fox Sports 2 </link>
+</item>
+<item>
+<title>US: Fox Sports 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2207.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Fox Sports 1 </link>
+</item>
+<item>
+<title>US: CNBC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2203.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: CNBC </link>
+</item>
+<item>
+<title>US: FOX Deportes HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2217.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: FOX Deportes HD </link>
+</item>
+<item>
+<title>US: TSN 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2322.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TSN 5 </link>
+</item>
+<item>
+<title>US: TSN 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2321.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TSN 3 </link>
+</item>
+<item>
+<title>US: ESPN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2323.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ESPN </link>
+</item>
+<item>
+<title>US: DTX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2329.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: DTX HD </link>
+</item>
+<item>
+<title>US: BEIN SPORT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2320.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: BEIN SPORT </link>
+</item>
+<item>
+<title>US: AFN Sports HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2330.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: AFN Sports HD </link>
+</item>
+<item>
+<title>US: AFN Sports 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2331.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: AFN Sports 2 </link>
+</item>
+<item>
+<title>US: NBC Golf HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2216.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NBC Golf HD </link>
+</item>
+<item>
+<title>US: Comedy C HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2215.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Comedy C HD </link>
+</item>
+<item>
+<title>US: DIY Network HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2214.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: DIY Network HD </link>
+</item>
+<item>
+<title>US: ABC News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2202.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ABC News </link>
+</item>
+<item>
+<title>VIASAT Sports</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1972.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIASAT Sports </link>
+</item>
+<item>
+<title>VIASAT Football</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1971.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIASAT Football </link>
+</item>
+<item>
+<title>==== + YUGOSLAVIA EX-YU CHANNELS +====</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2304.ts&amp;streamtype=TSDOWNLOADER&amp;name===== + YUGOSLAVIA EX-YU CHANNELS +==== </link>
+</item>
+<item>
+<title>EX-YU: ARENA SPORT 1 SBR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1548.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: ARENA SPORT 1 SBR </link>
+</item>
+<item>
+<title>EX-YU: ARENA SPORT 2 SBR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1549.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: ARENA SPORT 2 SBR </link>
+</item>
+<item>
+<title>EX-YU: ARENA SPORT 3 SBR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1550.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: ARENA SPORT 3 SBR </link>
+</item>
+<item>
+<title>EX-YU: ARENA SPORT 4 SBR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1551.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: ARENA SPORT 4 SBR </link>
+</item>
+<item>
+<title>Ex-Yu: ARENA SPORT 5 SRB</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3677.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ex-Yu: ARENA SPORT 5 SRB </link>
+</item>
+<item>
+<title>EX-YU: ARENA SPORT 1 HR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1543.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: ARENA SPORT 1 HR </link>
+</item>
+<item>
+<title>EX-YU: ARENA SPORT 2 HR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1544.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: ARENA SPORT 2 HR </link>
+</item>
+<item>
+<title>EX-YU: ARENA SPORT 3 HR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1545.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: ARENA SPORT 3 HR </link>
+</item>
+<item>
+<title>EX-YU: ARENA SPORT 4 HR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1546.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: ARENA SPORT 4 HR </link>
+</item>
+<item>
+<title>EX-YU: ARENA SPORT 5 HR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1547.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: ARENA SPORT 5 HR </link>
+</item>
+<item>
+<title>EX-YU: Sport Klub 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1967.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: Sport Klub 1 </link>
+</item>
+<item>
+<title>EX-YU: Sport Klub 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1968.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: Sport Klub 2 </link>
+</item>
+<item>
+<title>EX-YU: SPORT KLUB 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2100.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: SPORT KLUB 3 </link>
+</item>
+<item>
+<title>Ex-Yu: SPORT KLUB 6 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3680.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ex-Yu: SPORT KLUB 6 HD </link>
+</item>
+<item>
+<title>Ex-Yu: SPORT KLUB 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3679.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ex-Yu: SPORT KLUB 5 HD </link>
+</item>
+<item>
+<title>Ex-Yu: SPORT KLUB 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/3678.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ex-Yu: SPORT KLUB 4 HD </link>
+</item>
+<item>
+<title>EX-YU: CINESTAR TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1950.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: CINESTAR TV </link>
+</item>
+<item>
+<title>EX-YU: CINEMAX 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1945.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: CINEMAX 1 </link>
+</item>
+<item>
+<title>EX-YU: CINEMAX 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1946.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: CINEMAX 2 </link>
+</item>
+<item>
+<title>EX-YU: CineStar Premier 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1948.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: CineStar Premier 1 </link>
+</item>
+<item>
+<title>EX-YU: CineStar Premier 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1949.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: CineStar Premier 2 </link>
+</item>
+<item>
+<title>EX-YU: CINESTAR ACTION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1947.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: CINESTAR ACTION </link>
+</item>
+<item>
+<title>EX-YU: KCN 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/4376.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: KCN 3 </link>
+</item>
+<item>
+<title>EX-YU: KCN 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/4377.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: KCN 2 </link>
+</item>
+<item>
+<title>EX-YU: KCN 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/4378.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: KCN 1 </link>
+</item>
+<item>
+<title>EX-YU: FIGHT CHANNELL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/4379.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: FIGHT CHANNELL </link>
+</item>
+<item>
+<title>EX-YU: RTS 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2228.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: RTS 2 </link>
+</item>
+<item>
+<title>EX-YU: RTS 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2227.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: RTS 1 </link>
+</item>
+<item>
+<title>EX-YU: RTRS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2226.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: RTRS </link>
+</item>
+<item>
+<title>EX-YU:  HRT 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1682.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU:  HRT 2 </link>
+</item>
+<item>
+<title>EX-YU:  HRT 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1684.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU:  HRT 4 </link>
+</item>
+<item>
+<title>EX-YU: PRVA PLUS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2229.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: PRVA PLUS </link>
+</item>
+<item>
+<title>EX-YU: Nova HR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2225.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: Nova HR </link>
+</item>
+<item>
+<title>AL: Nje HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2235.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Nje HD </link>
+</item>
+<item>
+<title>EX-YU: HRT 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1683.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: HRT 3 </link>
+</item>
+<item>
+<title>EX-YU: HRT 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1681.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: HRT 1 </link>
+</item>
+<item>
+<title>EX-YU: HAYAT PLUS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2224.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: HAYAT PLUS </link>
+</item>
+<item>
+<title>EX-YU: HAYAT MUSIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2223.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: HAYAT MUSIC </link>
+</item>
+<item>
+<title>EX-YU: HAYAT HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2222.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: HAYAT HD </link>
+</item>
+<item>
+<title>EX-YU: Happy TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2221.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: Happy TV </link>
+</item>
+<item>
+<title>EX-YU: Face TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2220.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: Face TV </link>
+</item>
+<item>
+<title>EX-YU: B92</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2219.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: B92 </link>
+</item>
+<item>
+<title>EX-YU: 24 Kitchen</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2218.ts&amp;streamtype=TSDOWNLOADER&amp;name=EX-YU: 24 Kitchen </link>
+</item>
+<item>
+<title>SPORTS | CTH Stadium 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1690.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTS | CTH Stadium 6 </link>
+</item>
+<item>
+<title>SPORTS | CTH Stadium 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1689.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTS | CTH Stadium 5 </link>
+</item>
+<item>
+<title>SPORTS | CTH Stadium 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1688.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTS | CTH Stadium 4 </link>
+</item>
+<item>
+<title>SPORTS | CTH Stadium 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1687.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTS | CTH Stadium 3 </link>
+</item>
+<item>
+<title>SPORTS | CTH Stadium 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1686.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTS | CTH Stadium 2 </link>
+</item>
+<item>
+<title>SPORTS | CTH Stadium 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/1685.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTS | CTH Stadium 1 </link>
+</item>
+<item>
+<title>RO: DIGI SPORT 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2438.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO: DIGI SPORT 1 HD </link>
+</item>
+<item>
+<title>RO: DIGI SPORT 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Jacques2/Jacques2/2439.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO: DIGI SPORT 4 HD </link>
+</item>
 
 <item>       
 <title>[COLOR red]                                                          [/COLOR]</title>
