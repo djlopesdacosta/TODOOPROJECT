@@ -17,7 +17,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 29-07-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 24-08-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -36,163 +36,243 @@
 
 
  
-          <item> 
-            <title>PT:NATIONAL_GEO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2364.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:NATIONAL_GEO</link> 
-        </item> 
-          <item> 
-            <title>PT:NATGEO_WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2365.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:NATGEO_WILD</link> 
-        </item> 
-          <item> 
-            <title>PT:SIC_NOTICIAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2366.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC_NOTICIAS</link> 
-        </item> 
-          <item> 
-            <title>PT:EUROSPORT1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2367.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:EUROSPORT1</link> 
-        </item> 
-          <item> 
-            <title>PT:NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2363.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:NICKELODEON</link> 
-        </item> 
-          <item> 
-            <title>PT:DISNEY_CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2368.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:DISNEY_CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>PT:BABY_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2370.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BABY_TV</link> 
-        </item> 
-          <item> 
-            <title>PT:SIC_RADICAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2371.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC_RADICAL</link> 
-        </item> 
-          <item> 
-            <title>PT:TVCine1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2302.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCine1</link> 
-        </item> 
-          <item> 
-            <title>PT:TVCine2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2303.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCine2</link> 
-        </item> 
-          <item> 
-            <title>PT:TVCine3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2304.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCine3</link> 
-        </item> 
-          <item> 
-            <title>PT:TVCine4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2305.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCine4</link> 
-        </item> 
-          <item> 
-            <title>PT:TVCseries</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2306.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCseries</link> 
-        </item> 
-          <item> 
-            <title>PT:RTP_Madeira</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2318.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP_Madeira</link> 
-        </item> 
-          <item> 
-            <title>PT:RTP_Informacao</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2319.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP_Informacao</link> 
-        </item> 
-          <item> 
-            <title>PT:RTP2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2320.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP2</link> 
-        </item> 
-          <item> 
-            <title>PT:RTP1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2321.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP1</link> 
-        </item> 
-          <item> 
-            <title>PT:Fox_Life</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2313.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Fox_Life</link> 
-        </item> 
-          <item> 
-            <title>PT:Fox_Crime</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2314.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Fox_Crime</link> 
-        </item> 
-          <item> 
-            <title>PT:Fox_Comedy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2311.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Fox_Comedy</link> 
-        </item> 
-          <item> 
-            <title>PT:FoxHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2312.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FoxHD</link> 
-        </item> 
-          <item> 
-            <title>PT:Axn_White</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2309.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Axn_White</link> 
-        </item> 
-          <item> 
-            <title>PT:Axn_Black</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2310.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Axn_Black</link> 
-        </item> 
-          <item> 
-            <title>PT:AXN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2308.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AXN</link> 
-        </item> 
-          <item> 
-            <title>PT:SporTV5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2298.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SporTV5</link> 
-        </item> 
-          <item> 
-            <title>PT:SPORT_TV1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2325.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SPORT_TV1</link> 
-        </item> 
-          <item> 
-            <title>PT:SporTV2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2295.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SporTV2</link> 
-        </item> 
-          <item> 
-            <title>PT:SporTV3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2296.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SporTV3</link> 
-        </item> 
-          <item> 
-            <title>PT:SporTV4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2297.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SporTV4</link> 
-        </item> 
-          <item> 
-            <title>PT:Sporting</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2299.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sporting</link> 
-        </item> 
-          <item> 
-            <title>PT:Canal_Porto</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2315.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Canal_Porto</link> 
-        </item> 
-          <item> 
-            <title>PT:Benfica2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2300.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Benfica2</link> 
-        </item> 
-          <item> 
-            <title>PT:Benfica1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2301.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Benfica1</link> 
-        </item> 
-          <item> 
-            <title>PT:VeVo1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2307.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:VeVo1</link> 
-        </item> 
-          <item> 
-            <title>PT:TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2317.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI</link> 
-        </item> 
-          <item> 
-            <title>PT:SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2316.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC</link> 
-        </item> 
-          <item> 
-            <title>PT:SyFy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2322.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SyFy</link> 
-        </item> 
-          <item> 
-            <title>PT:Disney_Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2324.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Disney_Junior</link> 
-        </item> 
-          <item> 
-            <title>PT:CartoonNetWork</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2323.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CartoonNetWork</link> 
-        </item> 
-  
+<item>
+<title>PT: TVI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/3932.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI </link>
+</item>
+<item>
+<title>PT: TVC 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/1734.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVC 1 </link>
+</item>
+<item>
+<title>PT: TVC 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/1275.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVC 2 </link>
+</item>
+<item>
+<title>PT: TVC 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/1736.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVC 3 </link>
+</item>
+<item>
+<title>PT: TVC 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/1737.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVC 4 </link>
+</item>
+<item>
+<title>PT: TVI 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/3933.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24 </link>
+</item>
+<item>
+<title>PT: TVI REALITY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/4330.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI REALITY </link>
+</item>
+<item>
+<title>PT: SIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/3937.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC </link>
+</item>
+<item>
+<title>PT: SIC RADICAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/3934.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC RADICAL </link>
+</item>
+<item>
+<title>PT: SIC NOTICIAS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/3935.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC NOTICIAS </link>
+</item>
+<item>
+<title>PT: SIC Kids</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/3936.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Kids </link>
+</item>
+<item>
+<title>PT: SIC MULHER</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/4332.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC MULHER </link>
+</item>
+<item>
+<title>PT: SIC CARAS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/4333.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC CARAS </link>
+</item>
+<item>
+<title>PT: RTP 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/1747.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1 </link>
+</item>
+<item>
+<title>PT: RTP 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/1748.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2 </link>
+</item>
+<item>
+<title>PT: RTP Memoria</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/1754.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Memoria </link>
+</item>
+<item>
+<title>PT: RTP Madeira</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/1753.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Madeira </link>
+</item>
+<item>
+<title>PT: RTP Africa</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/1750.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Africa </link>
+</item>
+<item>
+<title>PT: RTP Acores</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/1749.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Acores </link>
+</item>
+<item>
+<title>PT: SPORT TV 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/1813.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 1 </link>
+</item>
+<item>
+<title>PT-SPORT TV 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/889.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-SPORT TV 2 </link>
+</item>
+<item>
+<title>PT-SPORT TV 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/1273.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-SPORT TV 3 </link>
+</item>
+<item>
+<title>PT:SPORT TV 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/1274.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SPORT TV 4 </link>
+</item>
+<item>
+<title>PT: SPORT TV 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/1814.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 5 </link>
+</item>
+<item>
+<title>PT: Benfica Tv 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/1286.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica Tv 1 </link>
+</item>
+<item>
+<title>PT: Benfica Tv 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/1285.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica Tv 2 </link>
+</item>
+<item>
+<title>PT: EUROSPORT 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/1283.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUROSPORT 1 </link>
+</item>
+<item>
+<title>PT: Sport TV 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/1969.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV 1 HD </link>
+</item>
+<item>
+<title>PT: Motors TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/3691.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motors TV </link>
+</item>
+<item>
+<title>PT: Eurosport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/3694.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Eurosport </link>
+</item>
+<item>
+<title>PT: FX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/1276.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FX </link>
+</item>
+<item>
+<title>PT: SYFY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/1279.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SYFY </link>
+</item>
+<item>
+<title>PT: MOV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/886.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD </link>
+</item>
+<item>
+<title>PT: Fox Crime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/4331.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Crime </link>
+</item>
+<item>
+<title>PT: FOX MOVE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/888.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX MOVE </link>
+</item>
+<item>
+<title>PT: AXN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/1129.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD </link>
+</item>
+<item>
+<title>PT: AXN WHITE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/1130.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN WHITE HD </link>
+</item>
+<item>
+<title>PT: AXN Black HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/1131.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN Black HD </link>
+</item>
+<item>
+<title>PT: TV Globo Premium</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/4110.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo Premium </link>
+</item>
+<item>
+<title>PT: Sporting TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/1280.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sporting TV </link>
+</item>
+<item>
+<title>PT: GLOBO TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/4098.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: GLOBO TV </link>
+</item>
+<item>
+<title>PT: VH1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/1744.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VH1 </link>
+</item>
+<item>
+<title>PT: PANDA BIGGS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/4335.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PANDA BIGGS </link>
+</item>
+<item>
+<title>PT: Odisseia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/4336.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Odisseia </link>
+</item>
+<item>
+<title>PT: Nat Geo Wild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/4334.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nat Geo Wild </link>
+</item>
+<item>
+<title>PT: DISCOVERY CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/4337.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISCOVERY CHANNEL </link>
+</item>
+<item>
+<title>PT: CMTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/4329.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CMTV </link>
+</item>
+<item>
+<title>PT: Fox News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/3693.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox News </link>
+</item>
+<item>
+<title>PT: Económico TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/3695.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Económico TV </link>
+</item>
+<item>
+<title>PT: Chelsea TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/3698.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Chelsea TV </link>
+</item>
+<item>
+<title>PT: Canal Hollywood</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/3699.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Hollywood </link>
+</item>
+<item>
+<title>PT: Canal de Historia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/3700.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal de Historia </link>
+</item>
+<item>
+<title>PT: Canal Cinemundo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/3701.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Cinemundo </link>
+</item>
+<item>
+<title>PT: A Bola TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/3705.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A Bola TV </link>
+</item>
+<item>
+<title>PT: AMC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/3704.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AMC </link>
+</item>
+<item>
+<title>PT: ARTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/3703.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ARTV </link>
+</item>
+<item>
+<title>PT: Baby TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/3702.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Baby TV </link>
+</item>
+<item>
+<title>PT: JimJam EMEA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/3692.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: JimJam EMEA </link>
+</item>
+<item>
+<title>PT: Disney Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques2/Jacques2/3696.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel </link>
+</item>
+
   
 
 <item>       
