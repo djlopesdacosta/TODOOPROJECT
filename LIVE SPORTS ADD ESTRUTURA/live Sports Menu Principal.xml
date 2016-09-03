@@ -3,7 +3,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]Live Events[/COLOR]</name>
+<name>[COLOR red]LIVE EVENTS[/COLOR]</name>
 <thumbnail>http://www.jamesons-pattaya.com/sports_header.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/LIVE%20SPORTS%20ADD%20ESTRUTURA/SUB-MENUS/Live%20Events.xml</externallink>
 <fanart>http://www.stadiumbusinesssummit.com/wp-content/uploads/2014/05/untitled-3-911x440.jpg</fanart>
@@ -12,7 +12,7 @@
  
 <channels>
 <channel>
-<name>MATCH OF THE DAY - REPLAYS</name>
+<name>[COLOR red]MATCH OF THE DAY - REPLAYS[/COLOR]</name>
 <thumbnail>https://goalhighlights.com/wp-content/uploads/2015/10/match-of-the-day.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/LIVE%20SPORTS%20ADD%20ESTRUTURA/SUB-MENUS/MATCH%20OF%20THE%20DAY%20-%20REPLAYS.xml</externallink>
 <fanart>https://goalhighlights.com/wp-content/uploads/2015/10/match-of-the-day.jpg</fanart>
@@ -22,7 +22,7 @@
  
 <channels>
 <channel>
-<name>[COLOR blue]Sky Sports[/COLOR]</name>
+<name>[COLOR red]SKY SPORTS[/COLOR]</name>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/LIVE%20SPORTS%20ADD%20ESTRUTURA%201/SUB-MENUS/Sky%20Sports.xml</externallink>
 <fanart>http://www.dungannonswiftsfc.com/wp-content/uploads/2013/12/Sky-Sports-Living-For-Sport_2722560.jpg</fanart>
@@ -31,7 +31,7 @@
  
 <channels>
 <channel>
-<name>[COLOR red]Bt Sport[/COLOR]</name>
+<name>[COLOR red]BT SPORT[/COLOR]</name>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUU4HeyMIP8Sqkw55kTZbweU7M1AqiGO3Xn1eVtWEzIpa7FJMN</thumbnail>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/LIVE%20SPORTS%20ADD%20ESTRUTURA%201/SUB-MENUS/Bt%20Sport.xml</externallink>
 <fanart>http://static.trustedreviews.com/94/0000286fc/7300/BT-Sport.jpg</fanart>
@@ -39,7 +39,7 @@
 </channel>
  
 <channel>
-<name>[COLOR blue]Bein Sports[/COLOR]</name>
+<name>[COLOR red]BEIN SPORTS[/COLOR]</name>
 <thumbnail>http://assets.beinsports.com/2.6.15/images/logo-header__us.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/LIVE%20SPORTS%20ADD%20ESTRUTURA%201/SUB-MENUS/Bein%20Sports.xml</externallink>
 <fanart>http://intervpn.com/wp-content/uploads/2015/04/bein-sports-watch-live-2.jpg</fanart>
@@ -48,7 +48,7 @@
  
 <channels>
 <channel>
-<name>[COLOR red]Others[/COLOR]</name>
+<name>[COLOR red]OTHERS[/COLOR]</name>
 <thumbnail>http://www.selectism.com/files/2012/08/LOGO.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/LIVE%20SPORTS%20ADD%20ESTRUTURA%201/SUB-MENUS/Others.xml</externallink>
 <fanart>http://www.elpinorestaurant.com/wp-content/uploads/2015/01/el-pino-restaurant-torrox-live-sports.jpg</fanart>
@@ -65,7 +65,7 @@
 </channel>
  
 <channel>
-<name>[COLOR blue]Music[/COLOR]</name>
+<name>[COLOR red]MUSIC[/COLOR]</name>
 <thumbnail>https://d85wutc1n854v.cloudfront.net/live/products/600x375/WB0PGGM81.png?v=1.0</thumbnail>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/LIVE%20SPORTS%20ADD%20ESTRUTURA%201/SUB-MENUS/Music.xml</externallink>
 <fanart>https://d85wutc1n854v.cloudfront.net/live/products/600x375/WB0PGGM81.png?v=1.0</fanart>
@@ -73,7 +73,7 @@
 </channel>
 
 <channel>
-<name>[COLOR blue]teste[/COLOR]</name>
+<name>[COLOR red]teste[/COLOR]</name>
 <thumbnail>https://d85wutc1n854v.cloudfront.net/live/products/600x375/WB0PGGM81.png?v=1.0</thumbnail>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/LIVE%20SPORTS%20ADD%20ESTRUTURA/SUB-MENUS/teste.xml</externallink>
 <fanart>https://d85wutc1n854v.cloudfront.net/live/products/600x375/WB0PGGM81.png?v=1.0</fanart>

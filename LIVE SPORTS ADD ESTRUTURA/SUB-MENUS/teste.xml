@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<item>
-<title>[COLOR olive][B]****[COLOR white] DESPORTO [COLOR red] AGENDA & EVENTOS [COLOR olive]**** [/COLOR][/B]</title>
-<link>rtmp://</link>
-<thumbnail></thumbnail>
-</item>
 
 
 <item>
@@ -121,18 +116,6 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <cookieJar></cookieJar>
 </regex>
 </item>
-
-
-
-
- 	
-<item>
-<title>[COLOR olive][B]****[COLOR white] FIFA WORLD CUP QUALIFIERS [COLOR red] PLEXUS [COLOR olive]**** [/COLOR][/B]</title>
-<link>http://chupamos.com</link>
-<thumbnail>http://goo.gl/vOG4SC</thumbnail>
-<fanart>http://goo.gl/vOG4SC</fanart>
-</item>
-
 
 
 
