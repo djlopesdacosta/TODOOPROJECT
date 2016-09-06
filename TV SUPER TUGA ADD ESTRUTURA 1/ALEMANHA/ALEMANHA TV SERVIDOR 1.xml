@@ -25,7 +25,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 03-09-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 06-09-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
@@ -35,596 +35,493 @@
 
 
 
-
-
-
 <item>
-<title>- Sky Deutschland -</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4195.ts&amp;streamtype=TSDOWNLOADER&amp;name=- Sky Deutschland - </link>
+<title>DE: Sky Select 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1104.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 2 HD </link>
 </item>
 <item>
-<title>DE: DAS ERSTE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2406.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: DAS ERSTE HD </link>
-</item>
-<item>
-<title>DE: ZDF HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/1869.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF HD </link>
-</item>
-<item>
-<title>DE: ARD HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2409.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ARD HD </link>
-</item>
-<item>
-<title>DE: HR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4204.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: HR HD </link>
-</item>
-<item>
-<title>DE: NDR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2397.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NDR HD </link>
-</item>
-<item>
-<title>DE: WDR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2393.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: WDR HD </link>
-</item>
-<item>
-<title>DE: ARTE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2408.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ARTE </link>
-</item>
-<item>
-<title>DE: HR Fernsehen</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/3918.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: HR Fernsehen </link>
-</item>
-<item>
-<title>DE: Tagesschau 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/3921.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Tagesschau 24 </link>
-</item>
-<item>
-<title>DE: SWR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2783.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SWR HD </link>
-</item>
-<item>
-<title>De: Baden TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4203.ts&amp;streamtype=TSDOWNLOADER&amp;name=De: Baden TV </link>
-</item>
-<item>
-<title>DE: JOIZ</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4206.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: JOIZ </link>
-</item>
-<item>
-<title>DE: TECTIME TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4205.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TECTIME TV </link>
-</item>
-<item>
-<title>------- HD+ Deutsch -------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4194.ts&amp;streamtype=TSDOWNLOADER&amp;name=------- HD+ Deutsch ------- </link>
-</item>
-<item>
-<title>DE: SAT 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2788.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SAT 1 HD </link>
-</item>
-<item>
-<title>DE: Sat 1 Gold</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4091.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sat 1 Gold </link>
-</item>
-<item>
-<title>DE: RTL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2379.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL </link>
-</item>
-<item>
-<title>DE: RTL 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/1865.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL 2 HD </link>
-</item>
-<item>
-<title>DE: Rtl Nitro</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2378.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Rtl Nitro </link>
-</item>
-<item>
-<title>DE: RTL Crime</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/3488.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Crime </link>
-</item>
-<item>
-<title>DE: SUPER RTL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/1867.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SUPER RTL </link>
-</item>
-<item>
-<title>DE: RTL LIVING HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2774.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL LIVING HD </link>
-</item>
-<item>
-<title>DE: RTL_PASSION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2777.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL_PASSION </link>
-</item>
-<item>
-<title>DE: PRO MAX 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/1866.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: PRO MAX 7 </link>
-</item>
-<item>
-<title>DE: Kinowelt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/3923.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kinowelt </link>
-</item>
-<item>
-<title>DE: SIXX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2380.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SIXX HD </link>
-</item>
-<item>
-<title>DE: SAT 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2775.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SAT 3 HD </link>
-</item>
-<item>
-<title>DE: KIKA HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2400.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: KIKA HD </link>
-</item>
-<item>
-<title>DE: PRO 7 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2396.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: PRO 7 HD </link>
-</item>
-<item>
-<title>DE: SONY HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2820.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SONY HD </link>
-</item>
-<item>
-<title>DE: KABEL 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2402.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: KABEL 1 HD </link>
-</item>
-<item>
-<title>DE: ProSieben Max</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2390.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ProSieben Max </link>
-</item>
-<item>
-<title>DE: RIC KINDER KANAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2394.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RIC KINDER KANAL </link>
-</item>
-<item>
-<title>DE: PRO 7 MAXX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2395.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: PRO 7 MAXX </link>
-</item>
-<item>
-<title>DE: VOX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/1874.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VOX HD </link>
-</item>
-<item>
-<title>DE: N24 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2398.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: N24 HD </link>
-</item>
-<item>
-<title>DE: KIKA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2391.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: KIKA </link>
-</item>
-<item>
-<title>DE: ANIMAX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4208.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ANIMAX </link>
-</item>
-<item>
-<title>DE: PROSIEBEN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4207.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: PROSIEBEN </link>
-</item>
-<item>
-<title>------- Öffentlich Deutschland -------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4193.ts&amp;streamtype=TSDOWNLOADER&amp;name=------- Öffentlich Deutschland ------- </link>
-</item>
-<item>
-<title>------- Sky Kino -------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4196.ts&amp;streamtype=TSDOWNLOADER&amp;name=------- Sky Kino ------- </link>
-</item>
-<item>
-<title>DE: Sky Germany Cinema 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/984.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Cinema 1 </link>
-</item>
-<item>
-<title>DE: Sky Germany Cinema 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/982.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Cinema 24 </link>
-</item>
-<item>
-<title>DE: Sky Germany Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/986.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Action </link>
-</item>
-<item>
-<title>DE: Sky Germany Atlantic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/985.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Atlantic </link>
-</item>
-<item>
-<title>DE: Sky Germany Comedy HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/980.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Comedy HD </link>
-</item>
-<item>
-<title>DE: Sky Germany Comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/981.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Comedy </link>
-</item>
-<item>
-<title>DE: Sky Gemany Cinema</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/988.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Gemany Cinema </link>
-</item>
-<item>
-<title>DE: SKY EMOTION HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2819.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY EMOTION HD </link>
-</item>
-<item>
-<title>DE: SKY HITS HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/3489.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY HITS HD </link>
-</item>
-<item>
-<title>DE:Sky Nostalgie</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/3915.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Nostalgie </link>
-</item>
-<item>
-<title>DE: SKY KRIMI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2389.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY KRIMI </link>
-</item>
-<item>
-<title>DE: SYFY HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2782.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SYFY HD </link>
-</item>
-<item>
-<title>DE:MGM HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2000.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:MGM HD </link>
-</item>
-<item>
-<title>------- Sky Kinder -------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4197.ts&amp;streamtype=TSDOWNLOADER&amp;name=------- Sky Kinder ------- </link>
-</item>
-<item>
-<title>DE: JUNIOR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4209.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: JUNIOR </link>
-</item>
-<item>
-<title>DE: DISNEY XD HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4210.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: DISNEY XD HD </link>
-</item>
-<item>
-<title>DE: NICKLODEON HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2776.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NICKLODEON HD </link>
-</item>
-<item>
-<title>DE: Disney Channel HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/1998.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Channel HD </link>
-</item>
-<item>
-<title>DE: DISNEY CINEMAGIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2405.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: DISNEY CINEMAGIC </link>
-</item>
-<item>
-<title>DE: Sky Disney Cinemagic HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2392.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Disney Cinemagic HD </link>
-</item>
-<item>
-<title>------- SKY Unterhaltung -------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4198.ts&amp;streamtype=TSDOWNLOADER&amp;name=------- SKY Unterhaltung ------- </link>
-</item>
-<item>
-<title>DE: TNT_SERIE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2780.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT_SERIE HD </link>
-</item>
-<item>
-<title>DE: TNT_FILM HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2781.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT_FILM HD </link>
-</item>
-<item>
-<title>DE: FOX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/1048.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: FOX HD </link>
-</item>
-<item>
-<title>DE: SKY AXN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/3922.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY AXN </link>
-</item>
-<item>
-<title>DE: Classica HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2829.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Classica HD </link>
-</item>
-<item>
-<title>DE: Sky Germany 13 Street HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/987.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany 13 Street HD </link>
-</item>
-<item>
-<title>DE: JUKEBOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4213.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: JUKEBOX </link>
-</item>
-<item>
-<title>DE: ROMANCE TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4211.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ROMANCE TV </link>
-</item>
-<item>
-<title>DE: Universal Channel HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4212.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Universal Channel HD </link>
-</item>
-<item>
-<title>------- Sky Kultur -------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4199.ts&amp;streamtype=TSDOWNLOADER&amp;name=------- Sky Kultur ------- </link>
-</item>
-<item>
-<title>DE: DMAX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2387.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: DMAX </link>
-</item>
-<item>
-<title>DE: A$E TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2410.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: A$E TV </link>
-</item>
-<item>
-<title>DE: Discovery HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/1999.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Discovery HD </link>
-</item>
-<item>
-<title>DE: Welt der Wunder</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/3925.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Welt der Wunder </link>
-</item>
-<item>
-<title>DE: Spiegel Geschichte</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/3926.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Spiegel Geschichte </link>
-</item>
-<item>
-<title>DE: NAT GEO WILD HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4214.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NAT GEO WILD HD </link>
-</item>
-<item>
-<title>DE: ANIMAL PLANET HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4216.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ANIMAL PLANET HD </link>
-</item>
-<item>
-<title>DE: National Geograph HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2787.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: National Geograph HD </link>
-</item>
-<item>
-<title>DE: HISTORY CHANNEL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2786.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: HISTORY CHANNEL HD </link>
-</item>
-<item>
-<title>DE: Auto Motor Sport TV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4218.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Auto Motor Sport TV HD </link>
-</item>
-<item>
-<title>DE: WELT DER WUNDER TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4217.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: WELT DER WUNDER TV </link>
-</item>
-<item>
-<title>DE: NATIONAL GEOGRAPHICS PEOPLE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4215.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NATIONAL GEOGRAPHICS PEOPLE HD </link>
-</item>
-<item>
-<title>------- SKY Bundesliga -------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4200.ts&amp;streamtype=TSDOWNLOADER&amp;name=------- SKY Bundesliga ------- </link>
-</item>
-<item>
-<title>DE: Sky BundesLiga HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/1873.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky BundesLiga HD </link>
-</item>
-<item>
-<title>DE:Sky Bundesliga 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2386.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Bundesliga 1 HD </link>
-</item>
-<item>
-<title>DE: SKY BUNDESLIGA 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2411.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA 1 HD </link>
-</item>
-<item>
-<title>DE: SKY BUNDESLIGA 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2418.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA 2 HD </link>
-</item>
-<item>
-<title>DE: SKY BUNDESLIGA 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2417.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA 3 HD </link>
-</item>
-<item>
-<title>DE: SKY BUNDESLIGA 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2416.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA 4 HD </link>
-</item>
-<item>
-<title>DE: SKY BUNDESLIGA 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2415.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA 5 HD </link>
-</item>
-<item>
-<title>DE: SKY BUNDESLIGA 6 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2414.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA 6 HD </link>
-</item>
-<item>
-<title>DE: SKY BUNDESLIGA 7 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2413.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA 7 HD </link>
-</item>
-<item>
-<title>DE: SKY BUNDESLIGA 8 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2412.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA 8 HD </link>
-</item>
-<item>
-<title>------- SKY Sport -------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4201.ts&amp;streamtype=TSDOWNLOADER&amp;name=------- SKY Sport ------- </link>
-</item>
-<item>
-<title>DE: Sky Sports News HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2823.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sports News HD </link>
-</item>
-<item>
-<title>DE: Sky Sports 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/976.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sports 1 HD </link>
-</item>
-<item>
-<title>DE: Sky Sports 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/975.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sports 2 HD </link>
-</item>
-<item>
-<title>DE: Sport digital HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2821.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sport digital HD </link>
-</item>
-<item>
-<title>DE: SPORT 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2822.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SPORT 1 HD </link>
-</item>
-<item>
-<title>DE: SKY SPORT Austria</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4093.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SPORT Austria </link>
-</item>
-<item>
-<title>DE: EUROSPORT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2382.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: EUROSPORT </link>
-</item>
-<item>
-<title>DE: EURONEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2785.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: EURONEWS </link>
-</item>
-<item>
-<title>------- SKY Select -------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4202.ts&amp;streamtype=TSDOWNLOADER&amp;name=------- SKY Select ------- </link>
-</item>
-<item>
-<title>DE: Sky Select HD 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/978.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select HD 1 </link>
-</item>
-<item>
-<title>DE: SKY SELECT 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/979.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SELECT 2 HD </link>
+<title>DE: Sky Select 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1105.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 3 HD </link>
 </item>
 <item>
 <title>DE: Sky Select 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/1133.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 4 HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1106.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 4 HD </link>
 </item>
 <item>
 <title>DE: Sky Select 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/1134.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 5 HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1107.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 5 HD </link>
+</item>
+<item>
+<title>DE: Sky Select 6 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1108.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 6 HD </link>
+</item>
+<item>
+<title>DE: Sky Select 7 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1109.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 7 HD </link>
 </item>
 <item>
 <title>DE: Sky Select 8 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/1135.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 8 HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1110.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 8 HD </link>
 </item>
 <item>
 <title>DE: Sky Select 9 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/1136.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 9 HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1111.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 9 HD </link>
 </item>
 <item>
-<title>------- Österreich -------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/1266.ts&amp;streamtype=TSDOWNLOADER&amp;name=------- Österreich ------- </link>
+<title>DE: Sky Select 10 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1112.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 10 HD </link>
+</item>
+<item>
+<title>=========SKY GERMANY==========</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1142.ts&amp;streamtype=TSDOWNLOADER&amp;name==========SKY GERMANY========== </link>
+</item>
+<item>
+<title>DE: Sky 3D</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/828.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky 3D </link>
+</item>
+<item>
+<title>DE: Sky Germany Cinema HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/218.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Cinema HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Cinema +1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Cinema +1 HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Cinema +24 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Cinema +24 HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Action HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/76.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Action HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Hits HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Hits HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Atlantic HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Atlantic HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Atlantic +1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1180.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Atlantic +1 HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Emotion</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/241.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Emotion </link>
+</item>
+<item>
+<title>DE: Sky Germany Nostalgie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1183.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Nostalgie </link>
+</item>
+<item>
+<title>DE: Sky Germany Krimi</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/162.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Krimi </link>
+</item>
+<item>
+<title>DE: Sky Kino Welt TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/981.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Kino Welt TV </link>
+</item>
+<item>
+<title>DE: Sky Germany TNT Serie HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/216.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany TNT Serie HD </link>
+</item>
+<item>
+<title>DE: Sky Germany TNT Film HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/217.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany TNT Film HD </link>
+</item>
+<item>
+<title>DE: Sky Germany SyFy HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/964.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany SyFy HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Comedy </link>
+</item>
+<item>
+<title>DE: Sky Germany Heimatkanal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1279.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Heimatkanal </link>
+</item>
+<item>
+<title>DE: Sky Germany Sony HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/205.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Sony HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Planet HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1129.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Planet HD </link>
+</item>
+<item>
+<title>DE: Sky Germany MGM HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/201.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany MGM HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Junior HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1133.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Junior HD </link>
+</item>
+<item>
+<title>DE: Sky Germany History Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/202.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany History Channel </link>
+</item>
+<item>
+<title>DE: Sky Germany Fox HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/204.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Fox HD </link>
+</item>
+<item>
+<title>DE: SKY Germany SilverLine MOVIE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1399.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY Germany SilverLine MOVIE </link>
+</item>
+<item>
+<title>DE: Sky Germany Disney Cinemagic HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1132.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Disney Cinemagic HD </link>
+</item>
+<item>
+<title>DE: Sky Germany AXN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1221.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany AXN HD </link>
+</item>
+<item>
+<title>DE: Sky Germany 13 Street HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/206.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany 13 Street HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Animal Planet HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1277.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Animal Planet HD </link>
+</item>
+<item>
+<title>DE: Sky Germany National Geographic Wild HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany National Geographic Wild HD </link>
+</item>
+<item>
+<title>DE: Sky Germany National Geographic HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/323.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany National Geographic HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Discovery Channel HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/203.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Discovery Channel HD </link>
+</item>
+<item>
+<title>DE: Spiegel TV Wissen</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1184.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Spiegel TV Wissen </link>
+</item>
+<item>
+<title>DE: Spiegel Geschichte HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1131.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Spiegel Geschichte HD </link>
+</item>
+<item>
+<title>=========SKY GERMANY SPORT==========</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1144.ts&amp;streamtype=TSDOWNLOADER&amp;name==========SKY GERMANY SPORT========== </link>
+</item>
+<item>
+<title>DE: Sky Germany Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/7.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Sport 1 HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/179.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Sport 2 HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Sport 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1068.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Sport 3 HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Sport 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1069.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Sport 4 HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Sport 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Sport 5 HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Sport 6 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Sport 6 HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Sport 7 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1072.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Sport 7 HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Sport 8 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1073.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Sport 8 HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Sport 9 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1074.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Sport 9 HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Sport 10 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1075.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Sport 10 HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Sport 11 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1076.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Sport 11 HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Sport News HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/864.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Sport News HD </link>
+</item>
+<item>
+<title>DE: Sky Sport Austria HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1156.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport Austria HD </link>
+</item>
+<item>
+<title>DE: Sport 1+ HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1130.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sport 1+ HD </link>
+</item>
+<item>
+<title>DE: Sport 1 US HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1125.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sport 1 US HD </link>
+</item>
+<item>
+<title>DE: Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sport 1 HD </link>
+</item>
+<item>
+<title>DE: Sportdigital HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1128.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sportdigital HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Fanzone HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1271.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Fanzone HD </link>
+</item>
+<item>
+<title>DE: Eurosport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1155.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Eurosport 1 HD </link>
+</item>
+<item>
+<title>DE: Eurosport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1018.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Eurosport </link>
+</item>
+<item>
+<title>=========SKY GERMANY BUNDESLIGA==========</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1143.ts&amp;streamtype=TSDOWNLOADER&amp;name==========SKY GERMANY BUNDESLIGA========== </link>
+</item>
+<item>
+<title>DE: Sky Germany Bundesliga 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/5.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Bundesliga 1 HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Bundesliga 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1032.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Bundesliga 2 HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Bundesliga 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1033.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Bundesliga 3 HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Bundesliga 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1077.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Bundesliga 4 HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Bundesliga 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1078.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Bundesliga 5 HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Bundesliga 6 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1079.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Bundesliga 6 HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Bundesliga 7 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1080.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Bundesliga 7 HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Bundesliga 8 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1081.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Bundesliga 8 HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Bundesliga 9 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1082.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Bundesliga 9 HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Bundesliga 10 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1083.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Bundesliga 10 HD </link>
+</item>
+<item>
+<title>=========HD+ GERMANY==========</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1145.ts&amp;streamtype=TSDOWNLOADER&amp;name==========HD+ GERMANY========== </link>
+</item>
+<item>
+<title>DE: RTL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/9.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL HD </link>
+</item>
+<item>
+<title>DE: ProSieben HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/163.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ProSieben HD </link>
+</item>
+<item>
+<title>DE: Super RTL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Super RTL HD </link>
+</item>
+<item>
+<title>DE: RTL 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL 2 HD </link>
+</item>
+<item>
+<title>DE: SAT 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/164.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SAT 1 HD </link>
+</item>
+<item>
+<title>DE: VOX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/8.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VOX HD </link>
+</item>
+<item>
+<title>DE: Kabel 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/21.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kabel 1 HD </link>
+</item>
+<item>
+<title>DE: SIXX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/853.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SIXX HD </link>
+</item>
+<item>
+<title>DE: ARD HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/318.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ARD HD </link>
+</item>
+<item>
+<title>DE: ZDF HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/316.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF HD </link>
+</item>
+<item>
+<title>DE: ZDF Neo HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1022.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF Neo HD </link>
+</item>
+<item>
+<title>DE: ZDF Info HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/632.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF Info HD </link>
+</item>
+<item>
+<title>DE: MOTORVISION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1332.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: MOTORVISION </link>
 </item>
 <item>
 <title>DE: ORF 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/1262.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF 1 HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1226.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF 1 HD </link>
 </item>
 <item>
 <title>DE: ORF 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/1263.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF 2 HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/583.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF 2 HD </link>
 </item>
 <item>
-<title>DE: SRF_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2778.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SRF_1 </link>
+<title>DE: WDR HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/586.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: WDR HD </link>
 </item>
 <item>
-<title>DE: SRF_2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2779.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SRF_2 </link>
+<title>DE: SWR HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/631.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SWR HD </link>
 </item>
 <item>
-<title>******** GERMAN MUSIC******</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/1269.ts&amp;streamtype=TSDOWNLOADER&amp;name=******** GERMAN MUSIC****** </link>
+<title>DE: Sat1 Gold</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/976.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sat1 Gold </link>
 </item>
 <item>
-<title>DE:MTV Rocks</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/3927.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:MTV Rocks </link>
+<title>DE: RTL Passion</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1178.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Passion </link>
 </item>
 <item>
-<title>DE:MTV Hits</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/3928.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:MTV Hits </link>
+<title>DE: RTL Nitro HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/975.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Nitro HD </link>
 </item>
 <item>
-<title>DE:MTV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/3929.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:MTV HD </link>
+<title>DE: RTL Crime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1179.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Crime </link>
 </item>
 <item>
-<title>DE: VEVO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2421.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VEVO </link>
+<title>DE: RTL Living</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1398.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Living </link>
 </item>
 <item>
-<title>DE: VEVO 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2420.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VEVO 4 </link>
+<title>DE: ProSieben Max</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/324.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ProSieben Max </link>
 </item>
 <item>
-<title>DE: VEVO EU</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2419.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VEVO EU </link>
+<title>DE: Phoenix HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/973.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Phoenix HD </link>
 </item>
 <item>
-<title>DE: VIVA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/4092.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VIVA </link>
+<title>DE: NTV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/971.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NTV HD </link>
+</item>
+<item>
+<title>DE: NDR HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/587.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NDR HD </link>
+</item>
+<item>
+<title>DE: N24 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/322.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: N24 HD </link>
+</item>
+<item>
+<title>DE: MDR HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/626.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: MDR HD </link>
+</item>
+<item>
+<title>DE: KIKA HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/320.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: KIKA HD </link>
+</item>
+<item>
+<title>DE: HR HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/970.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: HR HD </link>
+</item>
+<item>
+<title>DE: DMAX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/969.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: DMAX </link>
 </item>
 <item>
 <title>DE: Deluxe Music</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2381.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Deluxe Music </link>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/968.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Deluxe Music </link>
 </item>
 <item>
-<title>------- GERMAN OTHER cHANNELS -------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/1267.ts&amp;streamtype=TSDOWNLOADER&amp;name=------- GERMAN OTHER cHANNELS ------- </link>
+<title>DE: Cartoon Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/967.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Cartoon Network </link>
 </item>
 <item>
-<title>Canale 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/1609.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canale 5 HD </link>
+<title>DE: Boomerang</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/965.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Boomerang </link>
 </item>
 <item>
-<title>DE: ARD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/1868.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ARD </link>
+<title>DE: ARTE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/585.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ARTE HD </link>
 </item>
 <item>
-<title>DE: SERVUS TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/3673.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SERVUS TV </link>
+<title>DE: 3Sat HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/317.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 3Sat HD </link>
 </item>
 <item>
-<title>DE: Phoenix</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/3924.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Phoenix </link>
+<title>=========SUISSE=========</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1154.ts&amp;streamtype=TSDOWNLOADER&amp;name==========SUISSE========= </link>
 </item>
 <item>
-<title>DE: Eins Plus</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/3919.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Eins Plus </link>
+<title>CH: SRF HD 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/522.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH: SRF HD 1 </link>
 </item>
 <item>
-<title>DE: LIGT CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2399.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: LIGT CHANNEL </link>
+<title>CH: SRF HD 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/523.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH: SRF HD 2 </link>
 </item>
 <item>
-<title>DE: TELE BAERN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2425.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TELE BAERN </link>
+<title>CH: SRF Info</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/934.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH: SRF Info </link>
 </item>
 <item>
-<title>DE: TELE BASEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2424.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TELE BASEL </link>
+<title>CH: S1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1137.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH: S1 HD </link>
 </item>
 <item>
-<title>DE: TV TORING</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2422.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TV TORING </link>
+<title>CH: 3+ HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1019.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH: 3+ HD </link>
 </item>
 <item>
-<title>DE: EINS_FESTIVAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2784.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: EINS_FESTIVAL </link>
+<title>CH: RTS 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/628.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH: RTS 1 HD </link>
 </item>
 <item>
-<title>DE: TV OBERFRANKEN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2423.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TV OBERFRANKEN </link>
+<title>CH: RTS 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/629.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH: RTS 2 HD </link>
 </item>
 <item>
-<title>********** GERMAN MOVIES*********</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/1268.ts&amp;streamtype=TSDOWNLOADER&amp;name=********** GERMAN MOVIES********* </link>
+<title>CH: Tele Zuerich HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/979.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH: Tele Zuerich HD </link>
 </item>
 <item>
-<title>DE: Movies 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2061.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Movies 1 </link>
-</item>
-<item>
-<title>DE: Movies 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2062.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Movies 2 </link>
-</item>
-<item>
-<title>DE: Movies 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2063.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Movies 3 </link>
-</item>
-<item>
-<title>DE: Movies 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2064.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Movies 4 </link>
-</item>
-<item>
-<title>DE: Movies 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2065.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Movies 5 </link>
-</item>
-<item>
-<title>DE: Movies 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2066.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Movies 6 </link>
-</item>
-<item>
-<title>DE: Movies 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2067.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Movies 7 </link>
-</item>
-<item>
-<title>DE: Movies 8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/hansie/hansie/2068.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Movies 8 </link>
+<title>CH: Nickeloadeon</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1017.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH: Nickeloadeon </link>
 </item>
 
   
