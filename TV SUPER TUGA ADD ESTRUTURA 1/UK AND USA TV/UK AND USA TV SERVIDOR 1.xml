@@ -17,7 +17,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 16-09-16 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 20-09-16 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -36,561 +36,605 @@
 
 
 
+<item>
+<title>UK-BT-Sport-1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/519.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BT-Sport-1 </link>
+</item>
+<item>
+<title>UK-BT-Sport-2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/520.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BT-Sport-2 </link>
+</item>
+<item>
+<title>UK-Sky-Sports-1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/684.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Sports-1 </link>
+</item>
+<item>
+<title>UK-Sky-Sports-2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/685.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Sports-2 </link>
+</item>
+<item>
+<title>UK-Sky-Sports-3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/686.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Sports-3 </link>
+</item>
+<item>
+<title>UK-Sky-Sports-4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/714.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Sports-4 </link>
+</item>
+<item>
+<title>5STARS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1938.ts&amp;streamtype=TSDOWNLOADER&amp;name=5STARS </link>
+</item>
+<item>
+<title>UK-Sky-Sports-5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/687.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Sports-5 </link>
+</item>
+<item>
+<title>UK-Premier-Sports</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1022.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Premier-Sports </link>
+</item>
+<item>
+<title>UK-Setanta-Sport-1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1018.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Setanta-Sport-1 </link>
+</item>
+<item>
+<title>UK-BT-Sport/ESPN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1044.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BT-Sport/ESPN </link>
+</item>
+<item>
+<title>UK-BT-Sport-Mosaic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1041.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BT-Sport-Mosaic </link>
+</item>
+<item>
+<title>UK-BT-Sport-Extra-1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1043.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BT-Sport-Extra-1 </link>
+</item>
+<item>
+<title>UK-BT-Sport-Europe</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1042.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BT-Sport-Europe </link>
+</item>
+<item>
+<title>UK-CTH-STADIUM-1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1353.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-CTH-STADIUM-1HD </link>
+</item>
+<item>
+<title>UK-CTH-STADIUM-2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1354.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-CTH-STADIUM-2HD </link>
+</item>
+<item>
+<title>UK-CTH-STADIUM-3HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1355.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-CTH-STADIUM-3HD </link>
+</item>
+<item>
+<title>UK-CTH-STADIUM-4HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1357.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-CTH-STADIUM-4HD </link>
+</item>
+<item>
+<title>UK-CTH-STADIUM-5HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1356.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-CTH-STADIUM-5HD </link>
+</item>
+<item>
+<title>UK-CTH-STADIUM-6HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1358.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-CTH-STADIUM-6HD </link>
+</item>
+<item>
+<title>UK-Motors-TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1040.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Motors-TV </link>
+</item>
+<item>
+<title>UK-AMC-from-BT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1039.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-AMC-from-BT </link>
+</item>
+<item>
+<title>UK-Setanta-Sports-Ireland</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1019.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Setanta-Sports-Ireland </link>
+</item>
+<item>
+<title>UK-Sony-Movie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1023.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sony-Movie </link>
+</item>
+<item>
+<title>UK-Movies-4-Men</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1020.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Movies-4-Men </link>
+</item>
+<item>
+<title>UK-Comedy-Extra</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/708.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Comedy-Extra </link>
+</item>
+<item>
+<title>UK-Comedy-Central</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/709.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Comedy-Central </link>
+</item>
+<item>
+<title>UK-Comedy-Central+1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/710.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Comedy-Central+1 </link>
+</item>
+<item>
+<title>UK-Sky-Movies-Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/691.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Movies-Action </link>
+</item>
+<item>
+<title>UK-Sky-Movies-Select</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/692.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Movies-Select </link>
+</item>
+<item>
+<title>UK-Sky-Movies-Family</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/695.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Movies-Family </link>
+</item>
+<item>
+<title>UK-Sky-Movies-Disney.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/696.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Movies-Disney. </link>
+</item>
+<item>
+<title>UK-Sky-Movies-Greats</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1360.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Movies-Greats </link>
+</item>
+<item>
+<title>UK-Sky-movies-Thriller</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/688.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-movies-Thriller </link>
+</item>
+<item>
+<title>UK-Sky-Movies-Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/697.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Movies-Comedy </link>
+</item>
+<item>
+<title>UK-Sky-Movies -Premiere</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/693.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Movies -Premiere </link>
+</item>
+<item>
+<title>UK-Sky-Movies-Showcase</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/690.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Movies-Showcase </link>
+</item>
+<item>
+<title>UK-Investigation-Discovery</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/715.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Investigation-Discovery </link>
+</item>
+<item>
+<title>UK-Animal-Planet</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/723.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Animal-Planet </link>
+</item>
+<item>
+<title>UK-Nat-Geo-Wild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/675.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Nat-Geo-Wild </link>
+</item>
+<item>
+<title>UK-National-Geographic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/676.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-National-Geographic </link>
+</item>
+<item>
+<title>UK-Discovery</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/719.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Discovery </link>
+</item>
+<item>
+<title>UK-Discovery-Shed</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/718.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Discovery-Shed </link>
+</item>
+<item>
+<title>UK-Discovery-Turbo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/720.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Discovery-Turbo </link>
+</item>
+<item>
+<title>UK-Discovery-History</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/722.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Discovery-History </link>
+</item>
+<item>
+<title>UK-Discovery-Home-&Health</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/716.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Discovery-Home-&Health </link>
+</item>
+<item>
+<title>UK-BBC.1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1531.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BBC.1 </link>
+</item>
+<item>
+<title>UK-BBC.2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1530.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BBC.2 </link>
+</item>
+<item>
+<title>UK-BBC.3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1529.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BBC.3 </link>
+</item>
+<item>
+<title>UK-BBC.4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1528.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BBC.4 </link>
+</item>
+<item>
+<title>UK-More-4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1359.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-More-4 </link>
+</item>
+<item>
+<title>UK-History</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/680.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-History </link>
+</item>
+<item>
+<title>UK-History-1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/679.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-History-1 </link>
+</item>
+<item>
+<title>UK-History-2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/678.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-History-2 </link>
+</item>
+<item>
+<title>UK-Nick-Jr+1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/704.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Nick-Jr+1 </link>
+</item>
+<item>
+<title>UK-Nick-Jr-Too</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/703.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Nick-Jr-Too </link>
+</item>
+<item>
+<title>UK-Nicktoons-Ireland</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/702.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Nicktoons-Ireland </link>
+</item>
+<item>
+<title>UK-Disney-XD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/705.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Disney-XD </link>
+</item>
+<item>
+<title>UK-Disney-Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/706.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Disney-Junior </link>
+</item>
+<item>
+<title>UK-Disney-Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/707.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Disney-Channel </link>
+</item>
+<item>
+<title>UK-Sky-Living</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/694.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Living </link>
+</item>
+<item>
+<title>UK-UTV-Ireland</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-UTV-Ireland </link>
+</item>
+<item>
+<title>UK-ITV1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/758.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-ITV1 </link>
+</item>
+<item>
+<title>UK-ITV2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/757.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-ITV2 </link>
+</item>
+<item>
+<title>UK-ITV3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/509.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-ITV3 </link>
+</item>
+<item>
+<title>UK-ITV4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/814.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-ITV4 </link>
+</item>
+<item>
+<title>UK-FOX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/698.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-FOX </link>
+</item>
+<item>
+<title>UK-Sky-2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/700.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-2 </link>
+</item>
+<item>
+<title>UK-Sky-12</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/701.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-12 </link>
+</item>
+<item>
+<title>UK-Racing</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1021.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Racing </link>
+</item>
+<item>
+<title>UK-Sky-Arts1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/699.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Arts1 </link>
+</item>
+<item>
+<title>UK-Real-Lives</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/674.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Real-Lives </link>
+</item>
+<item>
+<title>UK-QUEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/724.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-QUEST </link>
+</item>
+<item>
+<title>UK-DMAX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/717.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-DMAX </link>
+</item>
+<item>
+<title>UK-MUTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/677.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-MUTV </link>
+</item>
+<item>
+<title>UK-TLC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/712.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-TLC </link>
+</item>
+<item>
+<title>UK-BET</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/711.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BET </link>
+</item>
+<item>
+<title>UK-TLC-IRELAND</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/713.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-TLC-IRELAND </link>
+</item>
+<item>
+<title>UK-At-The-Races</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/683.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-At-The-Races </link>
+</item>
+<item>
+<title>UK-Fox-News-Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/681.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Fox-News-Channel </link>
+</item>
+<item>
+<title>UK-Crime&Investigation-Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/682.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Crime&Investigation-Network </link>
+</item>
+<item>
+<title>UK-True Movies 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1209.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-True Movies 1 </link>
+</item>
+<item>
+<title>UK-True Movies 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1210.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-True Movies 2 </link>
+</item>
+<item>
+<title>UK-Tiny Pop</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1211.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Tiny Pop </link>
+</item>
+<item>
+<title>UK-SYFY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1212.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-SYFY </link>
+</item>
+<item>
+<title>UK-RTE 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1206.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-RTE 1 HD </link>
+</item>
+<item>
+<title>UK-RTE 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1207.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-RTE 2 HD </link>
+</item>
+<item>
+<title>UK-Really</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1208.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Really </link>
+</item>
+<item>
+<title>UK-Movies 4 Men</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1213.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Movies 4 Men </link>
+</item>
+<item>
+<title>UK-LiverPool TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1214.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-LiverPool TV </link>
+</item>
+<item>
+<title>UK-Good Food</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1215.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Good Food </link>
+</item>
+<item>
+<title>UK-Food Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1216.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Food Network </link>
+</item>
+<item>
+<title>UK-Film 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1217.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Film 4 </link>
+</item>
+<item>
+<title>UK-EuroSport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1218.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-EuroSport 1 </link>
+</item>
+<item>
+<title>UK-EuroSport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1219.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-EuroSport 2 </link>
+</item>
+<item>
+<title>UK-ESPN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1220.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-ESPN HD </link>
+</item>
+<item>
+<title>UK-E4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1221.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-E4 </link>
+</item>
+<item>
+<title>UK-Drama</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1222.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Drama </link>
+</item>
+<item>
+<title>UK-CNN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1223.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-CNN </link>
+</item>
+<item>
+<title>UK-CBS Reality</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1224.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-CBS Reality </link>
+</item>
+<item>
+<title>UK-CBS Drama</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1225.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-CBS Drama </link>
+</item>
+<item>
+<title>UK-CBS Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1226.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-CBS Action </link>
+</item>
+<item>
+<title>Boomerang</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/1963.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boomerang </link>
+</item>
 
 
 
 <item>
-<title>UK: WWE Network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/11050.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: WWE Network </link>
+<title>====&USA&====</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3578.ts&amp;streamtype=TSDOWNLOADER&amp;name=====&USA&==== </link>
 </item>
 <item>
-<title>UK: UK Sky Sports F1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10768.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: UK Sky Sports F1 HD </link>
+<title>USA_|_WWE_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3361.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_|_WWE_HD </link>
 </item>
 <item>
-<title>UK: UK Sky Sports 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10770.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: UK Sky Sports 3 HD </link>
+<title>USA_|_TMN_4_MOVIE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3362.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_|_TMN_4_MOVIE </link>
 </item>
 <item>
-<title>UK: UK Sky Sports 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10771.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: UK Sky Sports 3 </link>
+<title>USA_|_TMN_3_MOVIE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3363.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_|_TMN_3_MOVIE </link>
 </item>
 <item>
-<title>UK: UK Sky Sports 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10772.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: UK Sky Sports 1 HD </link>
+<title>USA_|_TMN_2_MOVIE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3364.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_|_TMN_2_MOVIE </link>
 </item>
 <item>
-<title>UK: UK Sky Sports 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10773.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: UK Sky Sports 1 </link>
+<title>USA_|_TMN_1_MOVIE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3365.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_|_TMN_1_MOVIE </link>
 </item>
 <item>
-<title>UK: Sky Atlantic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10777.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Atlantic </link>
+<title>USA_|_TLC_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3366.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_|_TLC_HD </link>
 </item>
 <item>
-<title>UK: Setanta Sports</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10778.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Setanta Sports </link>
+<title>USA_|_Poker_Central</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3367.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_|_Poker_Central </link>
 </item>
 <item>
-<title>UK: Really</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10779.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Really </link>
+<title>USA_|_PAC_12_WD_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3369.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_|_PAC_12_WD_HD </link>
 </item>
 <item>
-<title>UK: Film 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10781.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Film 4 </link>
+<title>USA_|_PAC-12_Network_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3368.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_|_PAC-12_Network_HD </link>
 </item>
 <item>
-<title>UK: Discovery History</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10783.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery History </link>
+<title>USA_|_NFL_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3370.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_|_NFL_HD </link>
 </item>
 <item>
-<title>UK: Comedy Central</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10784.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Comedy Central </link>
+<title>USA_|_NDTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3371.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_|_NDTV </link>
 </item>
 <item>
-<title>UK: BBC One</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10788.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC One </link>
+<title>USA_|_NBCSN_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3372.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_|_NBCSN_HD </link>
 </item>
 <item>
-<title>UK: Sky Movies Select</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/8075.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Select </link>
+<title>USA_|_Nat_Geo_Wild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3373.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_|_Nat_Geo_Wild </link>
 </item>
 <item>
-<title>UK: Nat Geo Wild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/8076.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nat Geo Wild </link>
+<title>USA_|_Max_West</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3374.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_|_Max_West </link>
 </item>
 <item>
-<title>UK: Sky Movies Thriller</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10062.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Thriller </link>
+<title>USA_|_Fox_Sports_2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3375.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_|_Fox_Sports_2_HD </link>
 </item>
 <item>
-<title>UK: Premier Sport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10063.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Premier Sport </link>
+<title>USA_|_Fox_Sports_1_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3376.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_|_Fox_Sports_1_HD </link>
 </item>
 <item>
-<title>UK: UTV_Ireland</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10070.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: UTV_Ireland </link>
+<title>USA_|_ESPN_Local</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3377.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_|_ESPN_Local </link>
 </item>
 <item>
-<title>UK: Sky Sports F1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10072.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports F1 HD </link>
+<title>USA_|_A&E_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3378.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_|_A&E_HD </link>
 </item>
 <item>
-<title>UK: Sky Sports 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10076.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 3 HD </link>
+<title>USA__TBS_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3358.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA__TBS_HD </link>
 </item>
 <item>
-<title>UK:Sky Sports 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10077.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky Sports 3 </link>
+<title>USA__ESPN_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3359.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA__ESPN_2 </link>
 </item>
 <item>
-<title>UK: Sky Sports 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10078.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 2 HD </link>
+<title>USA__BYU_Sports_TV_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3360.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA__BYU_Sports_TV_HD </link>
 </item>
 <item>
-<title>UK: UK Sky Sports 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10079.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: UK Sky Sports 2 </link>
+<title>USA_TNT_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3379.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_TNT_HD </link>
 </item>
 <item>
-<title>UK: Sky Sports 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10080.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 1 HD </link>
+<title>USA_SYFY_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3380.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_SYFY_HD </link>
 </item>
 <item>
-<title>UK:Sky Sports 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10081.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky Sports 1 </link>
+<title>USA_NAT_GEO_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3381.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_NAT_GEO_HD </link>
 </item>
 <item>
-<title>UK: UK Setanta Sport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10082.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: UK Setanta Sport </link>
+<title>USA_FOX_NEWS_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3382.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_FOX_NEWS_HD </link>
 </item>
 <item>
-<title>UK: MTV Hits</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10086.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Hits </link>
+<title>USA_ESPN_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3383.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_ESPN_HD </link>
 </item>
 <item>
-<title>UK: MTV Dance</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10087.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Dance </link>
+<title>USA_DISCCOVERY_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3384.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_DISCCOVERY_HD </link>
 </item>
 <item>
-<title>UK: MTV Classic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10088.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Classic </link>
+<title>USA_CW_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3385.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_CW_HD </link>
 </item>
 <item>
-<title>UK: MTV Base</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10089.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Base </link>
+<title>USA_COMEDY_CENTRAL_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3386.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_COMEDY_CENTRAL_HD </link>
 </item>
 <item>
-<title>UK: MTV 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10090.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV 1 </link>
+<title>USA_CNN_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3387.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_CNN_HD </link>
 </item>
 <item>
-<title>UK: Euro Sports 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10092.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Euro Sports 1 </link>
+<title>USA_CNBC_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3388.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_CNBC_HD </link>
 </item>
 <item>
-<title>UK: UK Discovery Turbo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10094.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: UK Discovery Turbo </link>
+<title>USA_CBS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3389.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_CBS </link>
 </item>
 <item>
-<title>UK: Discovery Home & Health</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10095.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Home & Health </link>
+<title>USA_CA_|_TSN_5*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3352.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_CA_|_TSN_5* </link>
 </item>
 <item>
-<title>=UK=: UK Chelsea TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10097.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: UK Chelsea TV </link>
+<title>USA_CA_|_TSN_4_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3353.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_CA_|_TSN_4_HD </link>
 </item>
 <item>
-<title>=UK=: UK BT Sport Europe HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10098.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: UK BT Sport Europe HD </link>
+<title>USA_CA_|_TSN_3*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3354.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_CA_|_TSN_3* </link>
 </item>
 <item>
-<title>=UK=: UK BT Sport 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10099.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: UK BT Sport 2 HD </link>
+<title>USA_CA_|_TSN_2*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3355.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_CA_|_TSN_2* </link>
 </item>
 <item>
-<title>=UK=: UK Box Office PPV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10101.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: UK Box Office PPV </link>
+<title>USA_CA_|_TSN_1*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3356.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_CA_|_TSN_1* </link>
 </item>
 <item>
-<title>=UK=: True Movies 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10102.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: True Movies 1 </link>
+<title>USA_CA_|_Sportsnet_360_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3357.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_CA_|_Sportsnet_360_HD </link>
 </item>
 <item>
-<title>=UK=: TG4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10104.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: TG4 </link>
+<title>USA_CARTOON_NETWORK_HD_</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3390.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_CARTOON_NETWORK_HD_ </link>
 </item>
 <item>
-<title>=UK=: Ten Golf</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10105.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Ten Golf </link>
+<title>USA_BRAVO_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3391.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_BRAVO_HD </link>
 </item>
 <item>
-<title>=UK=: Sky_History_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10108.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Sky_History_HD </link>
+<title>USA_ANIMAL_PLANET_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3392.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_ANIMAL_PLANET_HD </link>
 </item>
 <item>
-<title>=UK=: Sky Two</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10109.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Sky Two </link>
+<title>USA_AMC_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3393.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_AMC_HD </link>
 </item>
 <item>
-<title>=UK=: Sky Sport F1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10111.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Sky Sport F1 HD </link>
+<title>USA_ABC_NEWS_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3394.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_ABC_NEWS_HD </link>
 </item>
 <item>
-<title>=UK=: Sky SciFi & Horror</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10112.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Sky SciFi & Horror </link>
+<title>USA_ABC_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3395.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_ABC_HD </link>
 </item>
-<item>
-<title>=UK=: Sky Sci-Fi</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10113.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Sky Sci-Fi </link>
-</item>
-<item>
-<title>=UK=: Sky One</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10114.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Sky One </link>
-</item>
-<item>
-<title>=UK=: Sky Movies ShowCase</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10115.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Sky Movies ShowCase </link>
-</item>
-<item>
-<title>=UK=: Sky Movies Sci-Fi HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10116.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Sky Movies Sci-Fi HD </link>
-</item>
-<item>
-<title>=UK=: Sky Movies Modern Great HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10118.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Sky Movies Modern Great HD </link>
-</item>
-<item>
-<title>=UK=: Sky Movies Modern Great</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10119.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Sky Movies Modern Great </link>
-</item>
-<item>
-<title>=UK=: Sky Movies Drama HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10120.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Sky Movies Drama HD </link>
-</item>
-<item>
-<title>=UK=: Sky Movies Action HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10122.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Sky Movies Action HD </link>
-</item>
-<item>
-<title>=UK=: Sky MOVIE Drama</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10123.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Sky MOVIE Drama </link>
-</item>
-<item>
-<title>=UK=: Sky Living</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10124.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Sky Living </link>
-</item>
-<item>
-<title>=UK=: Sky Family</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10125.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Sky Family </link>
-</item>
-<item>
-<title>=UK=: Sky Drama</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10126.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Sky Drama </link>
-</item>
-<item>
-<title>=UK=: Sky Disney</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10127.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Sky Disney </link>
-</item>
-<item>
-<title>=UK=: Sky Atlantic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10129.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Sky Atlantic </link>
-</item>
-<item>
-<title>=UK=: Sky Arts 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10130.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Sky Arts 1 </link>
-</item>
-<item>
-<title>=UK=: Sky Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10131.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Sky Action </link>
-</item>
-<item>
-<title>=UK=: Setanta Sports</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10132.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Setanta Sports </link>
-</item>
-<item>
-<title>=UK=: Russia Documentary</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10133.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Russia Documentary </link>
-</item>
-<item>
-<title>=UK=: RTE Two</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10134.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: RTE Two </link>
-</item>
-<item>
-<title>=UK=: RTE 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10136.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: RTE 2 HD </link>
-</item>
-<item>
-<title>=UK=: Really</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10138.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Really </link>
-</item>
-<item>
-<title>=UK=: Racing</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10139.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Racing </link>
-</item>
-<item>
-<title>=UK=: NickToo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10141.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: NickToo </link>
-</item>
-<item>
-<title>=UK=: Nick Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10142.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Nick Junior </link>
-</item>
-<item>
-<title>=UK=: National Geography Wild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10144.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: National Geography Wild </link>
-</item>
-<item>
-<title>=UK=: National Geography HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10145.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: National Geography HD </link>
-</item>
-<item>
-<title>=UK=: NATIONAL GEOGRAPHY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10146.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: NATIONAL GEOGRAPHY </link>
-</item>
-<item>
-<title>=UK=: National Geo WILD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10147.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: National Geo WILD </link>
-</item>
-<item>
-<title>=UK=: Nat Geo Graphic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10148.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Nat Geo Graphic </link>
-</item>
-<item>
-<title>=UK=: MUTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10149.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: MUTV </link>
-</item>
-<item>
-<title>=UK=: Movies 4 Men</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10150.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Movies 4 Men </link>
-</item>
-<item>
-<title>=UK=: Mototrs TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10151.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Mototrs TV </link>
-</item>
-<item>
-<title>=UK=: More4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10152.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: More4 </link>
-</item>
-<item>
-<title>=UK=: LONDON LIFE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10153.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: LONDON LIFE </link>
-</item>
-<item>
-<title>=UK=: ITV Encore</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10155.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: ITV Encore </link>
-</item>
-<item>
-<title>=UK=: ITV 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10156.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: ITV 4 HD </link>
-</item>
-<item>
-<title>=UK=: ITV 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10157.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: ITV 3 HD </link>
-</item>
-<item>
-<title>=UK=: ITV 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10158.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: ITV 2 HD </link>
-</item>
-<item>
-<title>=UK=: ITV 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10159.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: ITV 1 HD </link>
-</item>
-<item>
-<title>=UK=: Horror Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10160.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Horror Channel </link>
-</item>
-<item>
-<title>=UK=: Home</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10161.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Home </link>
-</item>
-<item>
-<title>=UK=: Film4 UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10166.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Film4 UK </link>
-</item>
-<item>
-<title>=UK=: Film 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10167.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Film 4 </link>
-</item>
-<item>
-<title>=UK=: Eurosport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10168.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Eurosport </link>
-</item>
-<item>
-<title>=UK=: E4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10170.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: E4 </link>
-</item>
-<item>
-<title>=UK=: Drama</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10172.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Drama </link>
-</item>
-<item>
-<title>=UK=: Dmax</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10173.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Dmax </link>
-</item>
-<item>
-<title>=UK=: Disney Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10176.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Disney Channel </link>
-</item>
-<item>
-<title>=UK=: Discovery Science HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10178.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Discovery Science HD </link>
-</item>
-<item>
-<title>=UK=: Discovery Science</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10179.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Discovery Science </link>
-</item>
-<item>
-<title>=UK=: Discovery History</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10180.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Discovery History </link>
-</item>
-<item>
-<title>=UK=: Dinseny Channel UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10181.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Dinseny Channel UK </link>
-</item>
-<item>
-<title>=UK=: Dave</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10182.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Dave </link>
-</item>
-<item>
-<title>=UK=: Comedy Central Extra</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10184.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Comedy Central Extra </link>
-</item>
-<item>
-<title>=UK=: Comedy Central</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10185.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Comedy Central </link>
-</item>
-<item>
-<title>=UK=: CHANNEL 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10187.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: CHANNEL 5 </link>
-</item>
-<item>
-<title>=UK=: CHANNEL 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10188.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: CHANNEL 4 </link>
-</item>
-<item>
-<title>=UK=: CBS Drama</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10189.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: CBS Drama </link>
-</item>
-<item>
-<title>=UK=: BT Sport ESPN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10194.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: BT Sport ESPN </link>
-</item>
-<item>
-<title>=UK=: BBC Two</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10196.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: BBC Two </link>
-</item>
-<item>
-<title>=UK=: BBC One</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10197.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: BBC One </link>
-</item>
-<item>
-<title>=UK=: BBC 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10198.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: BBC 4 </link>
-</item>
-<item>
-<title>=UK=: BBC 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10199.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: BBC 3 </link>
-</item>
-<item>
-<title>=UK=: At The Races</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10200.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: At The Races </link>
-</item>
-<item>
-<title>=UK=: Animal Planet</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10201.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Animal Planet </link>
-</item>
-<item>
-<title>=UK=: Alibi</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10202.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK=: Alibi </link>
-</item>
-<item>
-<title>=UK= Vevo 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10204.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK= Vevo 2 </link>
-</item>
-<item>
-<title>=UK= Vevo 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10205.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK= Vevo 1 </link>
-</item>
-<item>
-<title>=UK= Sky-Movies-Showcase</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/10207.ts&amp;streamtype=TSDOWNLOADER&amp;name==UK= Sky-Movies-Showcase </link>
-</item>
-<item>
-<title>VEVO 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/2117.ts&amp;streamtype=TSDOWNLOADER&amp;name=VEVO 1 </link>
-</item>
-<item>
-<title>VEVO 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/2118.ts&amp;streamtype=TSDOWNLOADER&amp;name=VEVO 2 </link>
-</item>
-<item>
-<title>TR: YENI SINEMA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/11066.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: YENI SINEMA </link>
-</item>
-<item>
-<title>ViP: DOLBY YESiLCAM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/11051.ts&amp;streamtype=TSDOWNLOADER&amp;name=ViP: DOLBY YESiLCAM </link>
-</item>
-<item>
-<title>ViP: DOLBY T?RK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/11052.ts&amp;streamtype=TSDOWNLOADER&amp;name=ViP: DOLBY T?RK </link>
-</item>
-<item>
-<title>ViP: DOLBY MiX 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/11053.ts&amp;streamtype=TSDOWNLOADER&amp;name=ViP: DOLBY MiX 5 </link>
-</item>
-<item>
-<title>ViP: DOLBY MiX 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/11054.ts&amp;streamtype=TSDOWNLOADER&amp;name=ViP: DOLBY MiX 4 </link>
-</item>
-<item>
-<title>ViP: DOLBY MiX 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/11055.ts&amp;streamtype=TSDOWNLOADER&amp;name=ViP: DOLBY MiX 3 </link>
-</item>
-<item>
-<title>ViP: DOLBY MiX 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/11056.ts&amp;streamtype=TSDOWNLOADER&amp;name=ViP: DOLBY MiX 2 </link>
-</item>
-<item>
-<title>ViP: DOLBY MiX 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/11057.ts&amp;streamtype=TSDOWNLOADER&amp;name=ViP: DOLBY MiX 1 </link>
-</item>
-<item>
-<title>ViP: DOLBY KORKU 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/11058.ts&amp;streamtype=TSDOWNLOADER&amp;name=ViP: DOLBY KORKU 2 </link>
-</item>
-<item>
-<title>ViP: DOLBY KORKU 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/11059.ts&amp;streamtype=TSDOWNLOADER&amp;name=ViP: DOLBY KORKU 1 </link>
-</item>
-<item>
-<title>ViP: DOLBY KOMEDi</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/11060.ts&amp;streamtype=TSDOWNLOADER&amp;name=ViP: DOLBY KOMEDi </link>
-</item>
-<item>
-<title>ViP: DOLBY DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/11061.ts&amp;streamtype=TSDOWNLOADER&amp;name=ViP: DOLBY DRAMA </link>
-</item>
-<item>
-<title>ViP: DOLBY BiLiM KURGU</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/11062.ts&amp;streamtype=TSDOWNLOADER&amp;name=ViP: DOLBY BiLiM KURGU </link>
-</item>
-<item>
-<title>ViP: DOLBY BELGESEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/11063.ts&amp;streamtype=TSDOWNLOADER&amp;name=ViP: DOLBY BELGESEL </link>
-</item>
-<item>
-<title>ViP: DOLBY AKSiYON 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/11064.ts&amp;streamtype=TSDOWNLOADER&amp;name=ViP: DOLBY AKSiYON 2 </link>
-</item>
-<item>
-<title>ViP: DOLBY AKSiYON 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/11065.ts&amp;streamtype=TSDOWNLOADER&amp;name=ViP: DOLBY AKSiYON 1 </link>
-</item>
-<item>
-<title>USA_VERSUS_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/6399.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_VERSUS_HD </link>
-</item>
-<item>
-<title>USA_DISCOVERY_CHANNEL_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/6402.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_DISCOVERY_CHANNEL_HD </link>
-</item>
-<item>
-<title>USA_BYU_SPORTS_TV_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/6404.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_BYU_SPORTS_TV_HD </link>
-</item>
-<item>
-<title>US-National-Geo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/5811.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-National-Geo </link>
-</item>
-<item>
-<title>US-Fox Sports 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/5816.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-Fox Sports 1 HD </link>
-</item>
-<item>
-<title>US-CNN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3630184.ip-51-255-74.eu:9900/live/asif/asif/5821.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-CNN HD </link>
-</item>
+
+
+
+
 
 
 <item>       

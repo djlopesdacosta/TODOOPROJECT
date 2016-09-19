@@ -25,7 +25,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 17-09-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 20-09-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
@@ -41,222 +41,402 @@
 
 
 
-
-
 <item>
-<title>DE: zdf-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/324.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: zdf-hd </link>
+<title>DE_ZDF</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3201.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_ZDF </link>
 </item>
 <item>
-<title>DE: vox-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/325.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: vox-hd </link>
+<title>DE_WDR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3202.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_WDR </link>
 </item>
 <item>
-<title>DE: tnt-serie-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/321.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: tnt-serie-hd </link>
+<title>DE_TNT_Film_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3203.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_TNT_Film_HD </link>
 </item>
 <item>
-<title>DE: tnt-film-tcm</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/322.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: tnt-film-tcm </link>
+<title>DE_Syfy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3204.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Syfy </link>
 </item>
 <item>
-<title>DE: syfy-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/323.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: syfy-hd </link>
+<title>DE_super_rtl</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3205.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_super_rtl </link>
 </item>
 <item>
-<title>DE: sport1-us-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/337.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: sport1-us-hd </link>
+<title>DE_SPORT_DIGITAL_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3206.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SPORT_DIGITAL_HD </link>
 </item>
 <item>
-<title>DE: sport1-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/326.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: sport1-hd </link>
+<title>DE_Sky_TNT_Serie_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3207.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_TNT_Serie_HD </link>
 </item>
 <item>
-<title>DE: sky-sport-news-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/310.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: sky-sport-news-hd </link>
+<title>DE_SKY_SPORT_NEWS24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3208.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SPORT_NEWS24 </link>
 </item>
 <item>
-<title>DE: sky-sport-hd-2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/302.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: sky-sport-hd-2 </link>
+<title>DE_SKY_SPORTS_AUSTRIA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3209.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SPORTS_AUSTRIA </link>
 </item>
 <item>
-<title>DE: sky-sport-hd-1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/301.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: sky-sport-hd-1 </link>
+<title>DE_Sky_Sport2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3210.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Sport2_HD </link>
 </item>
 <item>
-<title>DE: sky-nostalgie</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/311.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: sky-nostalgie </link>
+<title>DE_Sky_Sport1_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3211.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Sport1_HD </link>
 </item>
 <item>
-<title>DE: sky-krimi</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/312.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: sky-krimi </link>
+<title>DE_SKY_SELECT7_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3212.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SELECT7_HD </link>
 </item>
 <item>
-<title>DE: sky-hits-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/313.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: sky-hits-hd </link>
+<title>DE_SKY_SELECT6_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3213.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SELECT6_HD </link>
 </item>
 <item>
-<title>DE: sky-emotion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/314.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: sky-emotion </link>
+<title>DE_SKY_SELECT5_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3214.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SELECT5_HD </link>
 </item>
 <item>
-<title>DE: sky-comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/315.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: sky-comedy </link>
+<title>DE_SKY_SELECT4_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3215.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SELECT4_HD </link>
 </item>
 <item>
-<title>DE: sky-cinema-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/316.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: sky-cinema-hd </link>
+<title>DE_SKY_SELECT3_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3216.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SELECT3_HD </link>
 </item>
 <item>
-<title>DE: sky-cinema-24-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/317.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: sky-cinema-24-hd </link>
+<title>DE_SKY_SELECT1_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3217.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SELECT1_HD </link>
 </item>
 <item>
-<title>DE: sky-cinema-1-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/318.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: sky-cinema-1-hd </link>
+<title>DE_SKY_NICKELEODEON_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3218.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_NICKELEODEON_HD </link>
 </item>
 <item>
-<title>DE: sky-bundesliga-hd-1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/319.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: sky-bundesliga-hd-1 </link>
+<title>DE_Sky_National_Geographic_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3219.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_National_Geographic_HD </link>
 </item>
 <item>
-<title>DE: sky-atlantic-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/320.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: sky-atlantic-hd </link>
+<title>DE_SKY_Emotion</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3220.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_Emotion </link>
 </item>
 <item>
-<title>DE: sky-atlantic-1-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/299.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: sky-atlantic-1-hd </link>
+<title>DE_Sky_Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3221.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Comedy </link>
 </item>
 <item>
-<title>DE: sky-action-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/300.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: sky-action-hd </link>
+<title>DE_Sky_Cinema24_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3222.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Cinema24_HD </link>
 </item>
 <item>
-<title>DE: sat-1-gold-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/327.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: sat-1-gold-hd </link>
+<title>DE_sky_cinema 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3223.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_sky_cinema 1 </link>
 </item>
 <item>
-<title>DE: prosieben-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/328.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: prosieben-hd </link>
+<title>DE_SKY_BUNDESLIGA1_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3224.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_BUNDESLIGA1_HD </link>
 </item>
 <item>
-<title>DE: pro7-maxx-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/329.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: pro7-maxx-hd </link>
+<title>DE_Sky_Atlantic_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3225.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Atlantic_HD </link>
 </item>
 <item>
-<title>DE: natgeo-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/307.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: natgeo-hd </link>
+<title>DE_SKY_Action_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3226.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_Action_HD </link>
 </item>
 <item>
-<title>DE: nat-geo-wild-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/308.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: nat-geo-wild-hd </link>
+<title>DE_SKYDE_TLC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3227.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKYDE_TLC </link>
 </item>
 <item>
-<title>DE: eurosport-2-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/335.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: eurosport-2-hd </link>
+<title>DE_SKYDE_NOSTALGIE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3228.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKYDE_NOSTALGIE </link>
 </item>
 <item>
-<title>DE: eurosport-1-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/336.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: eurosport-1-hd </link>
+<title>DE_Sky13_Street_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3229.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky13_Street_HD </link>
 </item>
 <item>
-<title>DE: e-entertainm-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/331.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: e-entertainm-hd </link>
+<title>DE_SAT1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3230.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SAT1 </link>
 </item>
 <item>
-<title>DE: disney-xd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/303.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: disney-xd </link>
+<title>DE_RTL_PASSION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3231.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_RTL_PASSION </link>
 </item>
 <item>
-<title>DE: disney-junior-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/304.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: disney-junior-hd </link>
+<title>DE_ROMANCE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3232.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_ROMANCE </link>
 </item>
 <item>
-<title>DE: disney-cinemagic-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/305.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: disney-cinemagic-hd </link>
+<title>DE_pro_seibrn_max_hd</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3233.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_pro_seibrn_max_hd </link>
 </item>
 <item>
-<title>DE: disney-channel-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/306.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: disney-channel-hd </link>
+<title>DE_Pro7_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3234.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Pro7_HD </link>
 </item>
 <item>
-<title>DE: discovery-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/309.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: discovery-hd </link>
+<title>DE_Phoenix</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3235.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Phoenix </link>
 </item>
 <item>
-<title>DE: cartoon-network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/330.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: cartoon-network </link>
+<title>DE_NTV_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3236.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_NTV_HD </link>
 </item>
 <item>
-<title>DE: axn-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/334.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: axn-hd </link>
+<title>DE_NICK_JR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3237.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_NICK_JR </link>
 </item>
 <item>
-<title>DE: a-e</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/333.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: a-e </link>
+<title>DE_national_geo_wid</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3238.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_national_geo_wid </link>
 </item>
 <item>
-<title>DE: 13th-street-hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/332.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 13th-street-hd </link>
+<title>DE_N24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3239.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_N24 </link>
 </item>
 <item>
-<title>DE-WDR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-WDR HD </link>
+<title>DE_MOTORVISION_TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3240.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_MOTORVISION_TV </link>
 </item>
 <item>
-<title>DE-WDR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-WDR </link>
+<title>DE_Kinowelt_tv</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3241.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Kinowelt_tv </link>
 </item>
 <item>
-<title>DE-SWR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SWR </link>
+<title>DE_KIKA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3242.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_KIKA </link>
 </item>
 <item>
-<title>DE-SERVUS TV DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/150.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SERVUS TV DE </link>
+<title>DE_KABEL1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3243.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_KABEL1 </link>
 </item>
 <item>
-<title>DE-ORF 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-ORF 2 </link>
+<title>DE_heimet_canal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3244.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_heimet_canal </link>
 </item>
 <item>
-<title>DE-NDR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-NDR HD </link>
+<title>DE_GOLDSTAR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3245.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_GOLDSTAR </link>
 </item>
 <item>
-<title>DE-NDR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-NDR </link>
+<title>DE_FOX_SERIE_DE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3246.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_FOX_SERIE_DE </link>
 </item>
 <item>
-<title>DE-N 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-N 24 </link>
+<title>DE_FILM_GOLD5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3247.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_FILM_GOLD5 </link>
 </item>
 <item>
-<title>DE-HR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/153.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-HR </link>
+<title>DE_FILM_GOLD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3248.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_FILM_GOLD </link>
 </item>
 <item>
-<title>DE-DW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/148.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-DW </link>
+<title>DE_eins_plus</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3249.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_eins_plus </link>
 </item>
 <item>
-<title>DE-BUNDESLIGA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-BUNDESLIGA </link>
+<title>DE_eins_festival</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3250.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_eins_festival </link>
 </item>
 <item>
-<title>DE-ARTE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/149.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-ARTE </link>
+<title>DE_Dmax</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3251.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Dmax </link>
 </item>
 <item>
-<title>DE-ARD DAS ERSTE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/154.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-ARD DAS ERSTE </link>
+<title>DE_DISNEY_XD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3252.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_DISNEY_XD </link>
 </item>
 <item>
-<title>DE-3 SAT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://space-iptv.ddns.net:8112/live/karim/karim/155.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-3 SAT </link>
+<title>DE_DISNEY_JUNIOR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3253.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_DISNEY_JUNIOR </link>
 </item>
-
-
+<item>
+<title>DE_Delux_MUSIC_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3254.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Delux_MUSIC_HD </link>
+</item>
+<item>
+<title>DE_Das_Erste</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3255.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Das_Erste </link>
+</item>
+<item>
+<title>DE_CLASSICA_DEUTSHLAND</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3256.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_CLASSICA_DEUTSHLAND </link>
+</item>
+<item>
+<title>DE_anixe</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3257.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_anixe </link>
+</item>
+<item>
+<title>DE_Ae_DE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3258.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Ae_DE </link>
+</item>
+<item>
+<title>DE:VOX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3259.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:VOX </link>
+</item>
+<item>
+<title>DE:VH1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3260.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:VH1 </link>
+</item>
+<item>
+<title>DE:TNT-Film-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3261.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:TNT-Film-HD </link>
+</item>
+<item>
+<title>DE:Sky-Sports-2-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3262.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Sports-2-HD </link>
+</item>
+<item>
+<title>DE:Sky-Sport-HD1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3263.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Sport-HD1 </link>
+</item>
+<item>
+<title>DE:Sky-Select-HD7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3264.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Select-HD7 </link>
+</item>
+<item>
+<title>DE:Sky-Select-HD6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3265.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Select-HD6 </link>
+</item>
+<item>
+<title>DE:Sky-Select-HD5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3266.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Select-HD5 </link>
+</item>
+<item>
+<title>DE:Sky-Select-HD1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3267.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Select-HD1 </link>
+</item>
+<item>
+<title>DE:Sky-Select-HD-4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3268.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Select-HD-4 </link>
+</item>
+<item>
+<title>DE:Sky-Select-HD-3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3269.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Select-HD-3 </link>
+</item>
+<item>
+<title>DE:SKY-Romance-TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3270.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY-Romance-TV </link>
+</item>
+<item>
+<title>DE:Sky-Nostalgie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3271.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Nostalgie </link>
+</item>
+<item>
+<title>DE:Sky-Krimi</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3272.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Krimi </link>
+</item>
+<item>
+<title>DE:Sky-Fox-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3273.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Fox-HD </link>
+</item>
+<item>
+<title>DE:Sky-Cinema-Plus-1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3274.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Cinema-Plus-1HD </link>
+</item>
+<item>
+<title>DE:Sky-Cinema-24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3275.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Cinema-24 </link>
+</item>
+<item>
+<title>DE:SKY-ATLANTIC-1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3276.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY-ATLANTIC-1HD </link>
+</item>
+<item>
+<title>DE:Sixx-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3277.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sixx-HD </link>
+</item>
+<item>
+<title>DE:RTL_Nitro</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3278.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL_Nitro </link>
+</item>
+<item>
+<title>DE:RTL_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3279.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL_HD </link>
+</item>
+<item>
+<title>DE:RTL_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3280.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL_2 </link>
+</item>
+<item>
+<title>DE:ORF-3-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3281.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ORF-3-HD </link>
+</item>
+<item>
+<title>DE:Orf-2-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3282.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Orf-2-HD </link>
+</item>
+<item>
+<title>DE:ORF-1-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3283.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ORF-1-HD </link>
+</item>
+<item>
+<title>DE:MGM-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3284.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:MGM-HD </link>
+</item>
+<item>
+<title>DE:EUROSPORT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3285.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:EUROSPORT </link>
+</item>
+<item>
+<title>DE:DMAX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3286.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:DMAX </link>
+</item>
+<item>
+<title>DE:Disney-Cinemagic-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3287.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Disney-Cinemagic-HD </link>
+</item>
+<item>
+<title>DE:Disney-Channel-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3288.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Disney-Channel-HD </link>
+</item>
+<item>
+<title>DE:Discovery-Channel-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3289.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Discovery-Channel-HD </link>
+</item>
+<item>
+<title>DE:Boomerang</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3290.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Boomerang </link>
+</item>
+<item>
+<title>DE:AXN-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3291.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:AXN-HD </link>
+</item>
+<item>
+<title>DE:AUSTRIA-24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3292.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:AUSTRIA-24 </link>
+</item>
+<item>
+<title>DE:Arte-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3293.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Arte-HD </link>
+</item>
+<item>
+<title>DE:ARD-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3294.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ARD-HD </link>
+</item>
+<item>
+<title>DE:3SAT-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3295.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:3SAT-HD </link>
+</item>
+<item>
+<title>DE:13th-Street-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3296.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:13th-Street-HD </link>
+</item>
+<item>
+<title>DE3_SERVUS_TV_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3297.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE3_SERVUS_TV_HD </link>
+</item>
+<item>
+<title>DE3_Sat1_gold</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3298.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE3_Sat1_gold </link>
+</item>
+<item>
+<title>DE-NatGeoWildHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/Star7arab/Star7arab.com/3299.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-NatGeoWildHD </link>
+</item>
 
 
 
