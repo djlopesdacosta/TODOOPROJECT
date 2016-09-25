@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+ 
+<channel>
+<name>[COLOR white]FILMES[/COLOR]</name>
+<link>http://ignoreme</link>
+<fanart>https://cld.pt/dl/download/6bb7358e-84f6-4e3a-867a-c3be53e031d8/FILMES.jpg</fanart>
+<thumbnail>http://orig15.deviantart.net/3747/f/2015/050/e/0/frozen__2013__movie_folder_icon_by_zsotti60-d8iozez.png</thumbnail>
+<externallink>http://pastebin.com/raw/9t5Gv0D9</externallink>
+</channel>
+
+<channel>
+<name>[COLOR white]DISNEY CLASSICOS[/COLOR]</name>
+<link>http://ignoreme</link>
+<fanart>https://tricae-a.akamaihd.net/p/DCL-Maleta-Disney-Grandes-ClC3A1ssicos-DCL-7847-08662-1.jpg</fanart>
+<thumbnail>http://vignette2.wikia.nocookie.net/disney/images/2/26/Walt_Disney_Classics_(DVD_Quality).png/revision/latest?cb=20110729111811</thumbnail>
+<externallink>http://pastebin.com/raw/7Tu5hgr3</externallink>
+</channel>
+
+<channel>
+<name>[COLOR white]SERIES[/COLOR]</name>
+<fanart>https://simkl.net/fanart/64/649046d5d8140839_0.jpg</fanart>
+<thumbnail>http://orig07.deviantart.net/68f5/f/2015/161/4/e/the_scooby_doo_show_folder_icon_by_gterritory-d8wsytm.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/KTsDprmG</externallink>
+</channel>
+
+<channel>
+<name>[COLOR white]JAMI[/COLOR] [COLOR red]by French[/COLOR][COLOR blue]DJ[/COLOR]</name>
+<fanart>https://i.ytimg.com/vi/KaF9lSAUv_c/maxresdefault.jpg</fanart>
+<thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.jami.png.pagespeed.ic.-eCqk8EtMd.jpg</thumbnail>
+</subitem>
+
+<item>
+<title>[COLOR white]SERIES INFANTIS[/COLOR]</title>
+<fanart>https://i.ytimg.com/vi/KaF9lSAUv_c/maxresdefault.jpg</fanart>
+<thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.jami.png.pagespeed.ic.-eCqk8EtMd.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.jami/</jsonrpc>
+</item>
