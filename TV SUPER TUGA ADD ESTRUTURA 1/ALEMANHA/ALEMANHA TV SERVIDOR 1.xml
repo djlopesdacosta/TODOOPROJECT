@@ -25,7 +25,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 27-09-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 28-09-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
@@ -36,1327 +36,422 @@
 
 
 
-
 <item>
-<title>DE: Sky Sport News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/759.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport News </link>
+<title>DE:WDR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7924.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:WDR </link>
 </item>
 <item>
-<title>DE: Sky Sport +1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/761.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport +1 </link>
+<title>DE:TNTSerie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7923.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:TNTSerie </link>
 </item>
 <item>
-<title>DE: Sky Sport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/829.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 1 HD </link>
+<title>DE:Syfy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7922.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Syfy </link>
 </item>
 <item>
-<title>DE: Sky Sport 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/826.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 2 HD </link>
+<title>DE:SkySportNews</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7921.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SkySportNews </link>
 </item>
 <item>
-<title>DE: Sky Sport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/827.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 1 </link>
+<title>DE:SkyNostalgie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7920.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SkyNostalgie </link>
+</item>
+<item>
+<title>DE:SkyEmotion</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7918.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SkyEmotion </link>
+</item>
+<item>
+<title>DE:SkyComedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7917.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SkyComedy </link>
+</item>
+<item>
+<title>DE:SkyCinema 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7916.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SkyCinema 24 </link>
+</item>
+<item>
+<title>DE:SkyCinema</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7915.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SkyCinema </link>
+</item>
+<item>
+<title>DE:SkyAtlantic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7914.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SkyAtlantic </link>
+</item>
+<item>
+<title>DE:SkyAction</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7913.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SkyAction </link>
+</item>
+<item>
+<title>DE:Sky007</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7912.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky007 </link>
+</item>
+<item>
+<title>DE:Sky.Discovery.ChannelHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7911.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky.Discovery.ChannelHD </link>
+</item>
+<item>
+<title>DE:Sky Sport 1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7910.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Sport 1HD </link>
+</item>
+<item>
+<title>DE:MGM</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7908.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:MGM </link>
+</item>
+<item>
+<title>DE:Kika.HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7907.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Kika.HD </link>
+</item>
+<item>
+<title>DE:Disneyxd</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7906.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Disneyxd </link>
+</item>
+<item>
+<title>DE:Classica</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7905.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Classica </link>
+</item>
+<item>
+<title>DE: ZDF Neo HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7904.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF Neo HD </link>
+</item>
+<item>
+<title>DE: ZDF Kultur</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7903.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF Kultur </link>
+</item>
+<item>
+<title>DE: ZDF Info HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7902.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF Info HD </link>
+</item>
+<item>
+<title>DE: ZDF HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7901.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF HD </link>
+</item>
+<item>
+<title>DE: VOX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7900.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VOX HD </link>
+</item>
+<item>
+<title>DE: SWR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7899.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SWR </link>
+</item>
+<item>
+<title>DE: Sport1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7898.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sport1HD </link>
+</item>
+<item>
+<title>DE: Sport1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7897.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sport1 </link>
+</item>
+<item>
+<title>DE: Sport Time TV 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7896.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sport Time TV 2 HD </link>
+</item>
+<item>
+<title>DE: Sport Time TV 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7895.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sport Time TV 1 HD </link>
+</item>
+<item>
+<title>DE: Sky Sport Austria</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7894.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport Austria </link>
 </item>
 <item>
 <title>DE: Sky Sport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/828.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 2 </link>
-</item>
-<item>
-<title>DE: Sky Eurosport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/809.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Eurosport </link>
-</item>
-<item>
-<title>DE: Sky Bundesliga HD 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/810.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga HD 1 </link>
-</item>
-<item>
-<title>DE: Sky Sport Austria</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/807.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport Austria </link>
-</item>
-<item>
-<title>DE: Sky Select 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/825.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 1 </link>
-</item>
-<item>
-<title>DE: Sky Select 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/824.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 2 </link>
-</item>
-<item>
-<title>DE: Sky Select 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/823.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 3 </link>
-</item>
-<item>
-<title>DE: Sky Select 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/822.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 4 </link>
-</item>
-<item>
-<title>DE: Sky Select 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/821.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 5 </link>
-</item>
-<item>
-<title>DE: Sky Select 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/820.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 6 </link>
-</item>
-<item>
-<title>DE: Sky Select 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/819.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 7 </link>
-</item>
-<item>
-<title>DE: Sky Select 8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/818.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 8 </link>
-</item>
-<item>
-<title>DE: Sky Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/804.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Action </link>
-</item>
-<item>
-<title>DE: Sky Cinema</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/808.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema </link>
-</item>
-<item>
-<title>DE: Sky Cinema +1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/806.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema +1 </link>
-</item>
-<item>
-<title>DE: Sky Cinema +24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/805.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema +24 </link>
-</item>
-<item>
-<title>DE: Sky Emotion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/801.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Emotion </link>
-</item>
-<item>
-<title>DE: Sky Comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/799.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Comedy </link>
-</item>
-<item>
-<title>DE: Sky HITS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/802.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky HITS </link>
-</item>
-<item>
-<title>DE: Sky Comedy Central</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/786.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Comedy Central </link>
-</item>
-<item>
-<title>DE: Sky Teleclub Cinema</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/750.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Teleclub Cinema </link>
-</item>
-<item>
-<title>DE: Sky Teleclub Prime</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/749.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Teleclub Prime </link>
-</item>
-<item>
-<title>DE: Sky Teleclub Sport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/751.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Teleclub Sport 1 </link>
-</item>
-<item>
-<title>DE: Sky RTL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/779.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky RTL </link>
-</item>
-<item>
-<title>DE: Sky RTL 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/778.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky RTL 2 </link>
-</item>
-<item>
-<title>DE: Sky RTL Crime</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/752.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky RTL Crime </link>
-</item>
-<item>
-<title>DE: Sky RTL Nitro</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/776.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky RTL Nitro </link>
-</item>
-<item>
-<title>DE: Sky RTL Super</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/800.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky RTL Super </link>
-</item>
-<item>
-<title>DE: Sky Nostalgie</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/784.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Nostalgie </link>
-</item>
-<item>
-<title>DE: Sky Sat1 Gold</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/777.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sat1 Gold </link>
-</item>
-<item>
-<title>DE: Sky Zdf Kultur</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/791.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Zdf Kultur </link>
-</item>
-<item>
-<title>DE: Sky ZDF Info</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/790.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky ZDF Info </link>
-</item>
-<item>
-<title>DE: Sky SRF 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/783.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky SRF 1 </link>
-</item>
-<item>
-<title>DE: Sky SRF 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/782.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky SRF 2 </link>
-</item>
-<item>
-<title>DE: Sky ORF 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/772.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky ORF 2 </link>
-</item>
-<item>
-<title>DE: Sky ORF Enis</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/771.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky ORF Enis </link>
-</item>
-<item>
-<title>DE: Sky VOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/788.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky VOX </link>
-</item>
-<item>
-<title>DE: Sky FOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/787.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky FOX </link>
-</item>
-<item>
-<title>DE: Sky Austria 24 TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/796.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Austria 24 TV </link>
-</item>
-<item>
-<title>DE: Sky HR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/754.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky HR HD </link>
-</item>
-<item>
-<title>DE: Sky Joiz</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/753.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Joiz </link>
-</item>
-<item>
-<title>DE: Sky Disney Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/795.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Disney Channel </link>
-</item>
-<item>
-<title>DE: Sky TNT Comedy HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/811.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky TNT Comedy HD </link>
-</item>
-<item>
-<title>DE: Sky TNT Serie</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/794.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky TNT Serie </link>
-</item>
-<item>
-<title>DE: Sky TNT Film</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/758.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky TNT Film </link>
-</item>
-<item>
-<title>DE: Sky Nickelodeon</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/797.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Nickelodeon </link>
-</item>
-<item>
-<title>DE: Sky National Geographic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/792.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky National Geographic </link>
-</item>
-<item>
-<title>DE: Sky Nat Geo wild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/793.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Nat Geo wild </link>
-</item>
-<item>
-<title>DE: Sky History</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/762.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky History </link>
-</item>
-<item>
-<title>DE: Sky AXN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/760.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky AXN HD </link>
-</item>
-<item>
-<title>DE: Sky 13th Street</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/780.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky 13th Street </link>
-</item>
-<item>
-<title>DE: Sky BR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/774.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky BR </link>
-</item>
-<item>
-<title>DE: Sky RBB Berlin</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/775.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky RBB Berlin </link>
-</item>
-<item>
-<title>DE: Sky Phoenix</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/769.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Phoenix </link>
-</item>
-<item>
-<title>DE: Sky Atlantic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/798.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Atlantic </link>
-</item>
-<item>
-<title>DE: Sky Wdr</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/789.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Wdr </link>
-</item>
-<item>
-<title>DE: Sky Sixx</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/785.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sixx </link>
-</item>
-<item>
-<title>DE: Sky Pro 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/773.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Pro 7 </link>
-</item>
-<item>
-<title>DE: Sky NDR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/768.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky NDR HD </link>
-</item>
-<item>
-<title>DE: Sky N24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/767.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky N24 </link>
-</item>
-<item>
-<title>DE: Sky N-TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/766.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky N-TV </link>
-</item>
-<item>
-<title>DE: Sky MDR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/765.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky MDR </link>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7893.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 2 </link>
 </item>
 <item>
 <title>DE: Sky Krimi</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/803.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Krimi </link>
-</item>
-<item>
-<title>DE: Sky Kika</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/764.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Kika </link>
-</item>
-<item>
-<title>DE: Sky Kabel 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/763.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Kabel 1 </link>
-</item>
-<item>
-<title>DE: Sky Dmax</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/770.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Dmax </link>
-</item>
-<item>
-<title>DE: Sky Pro 7 Max</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/757.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Pro 7 Max </link>
-</item>
-<item>
-<title>DE: Sky Arte</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/756.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Arte </link>
-</item>
-<item>
-<title>DE: Sky ARD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/755.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky ARD </link>
-</item>
-<item>
-<title>DE: Sky 3sat</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/19139049005925/49005925/781.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky 3sat </link>
-</item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>==GERMANY IPTV==</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2508.ts&amp;streamtype=TSDOWNLOADER&amp;name===GERMANY IPTV== </link>
-</item>
-<item>
-<title>DE: ARD HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1427.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ARD HD </link>
-</item>
-<item>
-<title>DE: ZDF</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/307.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF </link>
-</item>
-<item>
-<title>DE: ZDF HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1140.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF HD </link>
-</item>
-<item>
-<title>DE: Sat 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1597.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sat 1 </link>
-</item>
-<item>
-<title>DE: Sat 1 Emotions</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2539.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sat 1 Emotions </link>
-</item>
-<item>
-<title>DE: Heimatkanal</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2718.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Heimatkanal </link>
-</item>
-<item>
-<title>DE: Goldstar</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2719.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Goldstar </link>
-</item>
-<item>
-<title>DE: RTL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2537.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL </link>
-</item>
-<item>
-<title>DE: RTL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/923.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL HD </link>
-</item>
-<item>
-<title>DE: RTL 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/924.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL 2 HD </link>
-</item>
-<item>
-<title>DE: Super RTL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/309.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Super RTL </link>
-</item>
-<item>
-<title>DE: ProSieben SD/HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/922.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ProSieben SD/HD </link>
-</item>
-<item>
-<title>DE: Pro7 Fun HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2489.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Pro7 Fun HD </link>
-</item>
-<item>
-<title>DE: Pro7 Maxx HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2577.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Pro7 Maxx HD </link>
-</item>
-<item>
-<title>DE: Hr HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2578.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Hr HD </link>
-</item>
-<item>
-<title>DE: Das Erste HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2621.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Das Erste HD </link>
-</item>
-<item>
-<title>DE: Comedy Central</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2579.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Comedy Central </link>
-</item>
-<item>
-<title>DE: VOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/308.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VOX </link>
-</item>
-<item>
-<title>DE: Sixx HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1405.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sixx HD </link>
-</item>
-<item>
-<title>DE: KABEL 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/312.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: KABEL 1 HD </link>
-</item>
-<item>
-<title>DE: KABEL 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2724.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: KABEL 1 </link>
-</item>
-<item>
-<title>DE: DMAX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/929.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: DMAX </link>
-</item>
-<item>
-<title>DE: JOIZ HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2356.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: JOIZ HD </link>
-</item>
-<item>
-<title>=========GERMANY Dritte==========</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2509.ts&amp;streamtype=TSDOWNLOADER&amp;name==========GERMANY Dritte========== </link>
-</item>
-<item>
-<title>DE: Arte HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/809.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Arte HD </link>
-</item>
-<item>
-<title>DE: Ndr HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1425.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Ndr HD </link>
-</item>
-<item>
-<title>DE: MDR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1413.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: MDR HD </link>
-</item>
-<item>
-<title>DE: WDR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/928.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: WDR HD </link>
-</item>
-<item>
-<title>DE: 3SAT HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1410.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 3SAT HD </link>
-</item>
-<item>
-<title>DE: ZDF Kultur HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF Kultur HD </link>
-</item>
-<item>
-<title>DE: ZDF info</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF info </link>
-</item>
-<item>
-<title>DE: ARD 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2357.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ARD 24 </link>
-</item>
-<item>
-<title>DE: Servus TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1899.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Servus TV </link>
-</item>
-<item>
-<title>DE: EINS PLUS HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1407.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: EINS PLUS HD </link>
-</item>
-<item>
-<title>DE: Classica</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2725.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Classica </link>
-</item>
-<item>
-<title>=========GERMANY Austria==========</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2510.ts&amp;streamtype=TSDOWNLOADER&amp;name==========GERMANY Austria========== </link>
-</item>
-<item>
-<title>DE: ORF 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/311.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF 1 HD </link>
-</item>
-<item>
-<title>DE: ORF 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/327.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF 2 HD </link>
-</item>
-<item>
-<title>=========GERMANY News==========</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2511.ts&amp;streamtype=TSDOWNLOADER&amp;name==========GERMANY News========== </link>
-</item>
-<item>
-<title>DE: N24 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1426.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: N24 HD </link>
-</item>
-<item>
-<title>DE: Euronews</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1306.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Euronews </link>
-</item>
-<item>
-<title>DE: AUSTRIA 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1795.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: AUSTRIA 24 </link>
-</item>
-<item>
-<title>=========GERMANY WELT==========</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2512.ts&amp;streamtype=TSDOWNLOADER&amp;name==========GERMANY WELT========== </link>
-</item>
-<item>
-<title>DE: TLC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2204.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TLC </link>
-</item>
-<item>
-<title>DE: RTL Nitro HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/927.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Nitro HD </link>
-</item>
-<item>
-<title>DE: RTL Crime</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1783.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Crime </link>
-</item>
-<item>
-<title>DE: RTL Passion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1785.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Passion </link>
-</item>
-<item>
-<title>DE: RTL LIVING HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2380.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL LIVING HD </link>
-</item>
-<item>
-<title>DE: Sky Krimi</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1114.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Krimi </link>
-</item>
-<item>
-<title>DE: Fox HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1788.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Fox HD </link>
-</item>
-<item>
-<title>DE: Fox</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2604.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Fox </link>
-</item>
-<item>
-<title>DE: A&E</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2121.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: A&E </link>
-</item>
-<item>
-<title>DE: SYFY HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1599.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SYFY HD </link>
-</item>
-<item>
-<title>DE: SYFY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2606.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SYFY </link>
-</item>
-<item>
-<title>DE: TNT Serie HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/806.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Serie HD </link>
-</item>
-<item>
-<title>DE: TNT serie</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2696.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT serie </link>
-</item>
-<item>
-<title>DE: TNT Film HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/788.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Film HD </link>
-</item>
-<item>
-<title>DE: TNT Comedy HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2738.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Comedy HD </link>
-</item>
-<item>
-<title>DE: TNT Glitz</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2382.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Glitz </link>
-</item>
-<item>
-<title>DE: MGM HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1164.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: MGM HD </link>
-</item>
-<item>
-<title>DE: AXN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/807.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: AXN HD </link>
-</item>
-<item>
-<title>DE: ANNIXE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1601.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ANNIXE </link>
-</item>
-<item>
-<title>DE: 13th Street HD.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2605.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 13th Street HD. </link>
-</item>
-<item>
-<title>DE: 13th Street HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/808.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 13th Street HD </link>
-</item>
-<item>
-<title>DE: Universal Channel HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1777.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Universal Channel HD </link>
-</item>
-<item>
-<title>DE: Sky HD Fan Zone</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1688.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky HD Fan Zone </link>
-</item>
-<item>
-<title>DE: VH1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2387.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VH1 </link>
-</item>
-<item>
-<title>DE: E!</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2488.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: E! </link>
-</item>
-<item>
-<title>DE: KIKA HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2580.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: KIKA HD </link>
-</item>
-<item>
-<title>=========GERMANY Kids==========</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2513.ts&amp;streamtype=TSDOWNLOADER&amp;name==========GERMANY Kids========== </link>
-</item>
-<item>
-<title>DE: Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2570.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Junior </link>
-</item>
-<item>
-<title>DE: Catoon Network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2569.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Catoon Network </link>
-</item>
-<item>
-<title>DE: Boomerang</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1794.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Boomerang </link>
-</item>
-<item>
-<title>DE: Disney Junior HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2355.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Junior HD </link>
-</item>
-<item>
-<title>DE: Disney Channel HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/920.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Channel HD </link>
-</item>
-<item>
-<title>DE: Disney Cinemagic HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1616.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Cinemagic HD </link>
-</item>
-<item>
-<title>DE: Disney XD HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2385.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney XD HD </link>
-</item>
-<item>
-<title>DE: Nickelodeon</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2353.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Nickelodeon </link>
-</item>
-<item>
-<title>=========GERMANY DOKUMENTATION==========</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2514.ts&amp;streamtype=TSDOWNLOADER&amp;name==========GERMANY DOKUMENTATION========== </link>
-</item>
-<item>
-<title>DE: Sony HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1298.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sony HD </link>
-</item>
-<item>
-<title>DE: Spiegel Geschichte HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1779.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Spiegel Geschichte HD </link>
-</item>
-<item>
-<title>DE: Spiegel TV Wissen</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2386.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Spiegel TV Wissen </link>
-</item>
-<item>
-<title>DE: Phoenix HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1163.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Phoenix HD </link>
-</item>
-<item>
-<title>DE: Animal Planet HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2469.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Animal Planet HD </link>
-</item>
-<item>
-<title>DE: Planet HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2120.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Planet HD </link>
-</item>
-<item>
-<title>DE: History HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1113.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: History HD </link>
-</item>
-<item>
-<title>DE: Discovery Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2747.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Discovery Channel </link>
-</item>
-<item>
-<title>DE: Discovery Channel HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/921.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Discovery Channel HD </link>
-</item>
-<item>
-<title>DE: National Geo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2541.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: National Geo </link>
-</item>
-<item>
-<title>DE: National Geo HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/304.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: National Geo HD </link>
-</item>
-<item>
-<title>DE: NatGeo Wild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2714.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NatGeo Wild </link>
-</item>
-<item>
-<title>DE: NatGeo Wild HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1160.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NatGeo Wild HD </link>
-</item>
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>=========GERMANY  STANDARD==========</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2508.ts&amp;streamtype=TSDOWNLOADER&amp;name==========GERMANY  STANDARD========== </link>
-</item>
-<item>
-<title>DE: ARD HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1427.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ARD HD </link>
-</item>
-<item>
-<title>DE: ZDF</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/307.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF </link>
-</item>
-<item>
-<title>DE: ZDF HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1140.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF HD </link>
-</item>
-<item>
-<title>DE: Sat 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1597.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sat 1 </link>
-</item>
-<item>
-<title>DE: Sat 1 Emotions</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2539.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sat 1 Emotions </link>
-</item>
-<item>
-<title>DE: Heimatkanal</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2718.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Heimatkanal </link>
-</item>
-<item>
-<title>DE: Goldstar</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2719.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Goldstar </link>
-</item>
-<item>
-<title>DE: RTL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2537.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL </link>
-</item>
-<item>
-<title>DE: RTL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/923.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL HD </link>
-</item>
-<item>
-<title>DE: RTL 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/924.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL 2 HD </link>
-</item>
-<item>
-<title>DE: Super RTL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/309.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Super RTL </link>
-</item>
-<item>
-<title>DE: ProSieben SD/HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/922.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ProSieben SD/HD </link>
-</item>
-<item>
-<title>DE: Pro7 Fun HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2489.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Pro7 Fun HD </link>
-</item>
-<item>
-<title>DE: Pro7 Maxx HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2577.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Pro7 Maxx HD </link>
-</item>
-<item>
-<title>DE: Hr HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2578.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Hr HD </link>
-</item>
-<item>
-<title>DE: Das Erste HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2621.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Das Erste HD </link>
-</item>
-<item>
-<title>DE: Comedy Central</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2579.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Comedy Central </link>
-</item>
-<item>
-<title>DE: VOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/308.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VOX </link>
-</item>
-<item>
-<title>DE: Sixx HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1405.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sixx HD </link>
-</item>
-<item>
-<title>DE: KABEL 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/312.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: KABEL 1 HD </link>
-</item>
-<item>
-<title>DE: KABEL 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2724.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: KABEL 1 </link>
-</item>
-<item>
-<title>DE: DMAX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/929.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: DMAX </link>
-</item>
-<item>
-<title>DE: JOIZ HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2356.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: JOIZ HD </link>
-</item>
-<item>
-<title>=========GERMANY  Dritte==========</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2509.ts&amp;streamtype=TSDOWNLOADER&amp;name==========GERMANY  Dritte========== </link>
-</item>
-<item>
-<title>DE: Arte HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/809.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Arte HD </link>
-</item>
-<item>
-<title>DE: Ndr HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1425.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Ndr HD </link>
-</item>
-<item>
-<title>DE: MDR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1413.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: MDR HD </link>
-</item>
-<item>
-<title>DE: WDR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/928.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: WDR HD </link>
-</item>
-<item>
-<title>DE: 3SAT HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1410.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 3SAT HD </link>
-</item>
-<item>
-<title>DE: ZDF Kultur HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF Kultur HD </link>
-</item>
-<item>
-<title>DE: ZDF info</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF info </link>
-</item>
-<item>
-<title>DE: ARD 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2357.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ARD 24 </link>
-</item>
-<item>
-<title>DE: Servus TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1899.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Servus TV </link>
-</item>
-<item>
-<title>DE: EINS PLUS HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1407.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: EINS PLUS HD </link>
-</item>
-<item>
-<title>DE: Classica</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2725.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Classica </link>
-</item>
-<item>
-<title>=========GERMANY  Austria==========</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2510.ts&amp;streamtype=TSDOWNLOADER&amp;name==========GERMANY  Austria========== </link>
-</item>
-<item>
-<title>DE: ORF 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/311.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF 1 HD </link>
-</item>
-<item>
-<title>DE: ORF 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/327.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF 2 HD </link>
-</item>
-<item>
-<title>=========GERMANY  News==========</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2511.ts&amp;streamtype=TSDOWNLOADER&amp;name==========GERMANY  News========== </link>
-</item>
-<item>
-<title>DE: N24 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1426.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: N24 HD </link>
-</item>
-<item>
-<title>DE: Euronews</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1306.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Euronews </link>
-</item>
-<item>
-<title>DE: AUSTRIA 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1795.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: AUSTRIA 24 </link>
-</item>
-<item>
-<title>=========GERMANY  WELT==========</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2512.ts&amp;streamtype=TSDOWNLOADER&amp;name==========GERMANY  WELT========== </link>
-</item>
-<item>
-<title>DE: TLC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2204.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TLC </link>
-</item>
-<item>
-<title>DE: RTL Nitro HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/927.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Nitro HD </link>
-</item>
-<item>
-<title>DE: RTL Crime</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1783.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Crime </link>
-</item>
-<item>
-<title>DE: RTL Passion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1785.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Passion </link>
-</item>
-<item>
-<title>DE: RTL LIVING HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2380.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL LIVING HD </link>
-</item>
-<item>
-<title>DE: Sky Krimi</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1114.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Krimi </link>
-</item>
-<item>
-<title>DE: Fox HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1788.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Fox HD </link>
-</item>
-<item>
-<title>DE: Fox</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2604.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Fox </link>
-</item>
-<item>
-<title>DE: A&E</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2121.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: A&E </link>
-</item>
-<item>
-<title>DE: SYFY HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1599.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SYFY HD </link>
-</item>
-<item>
-<title>DE: SYFY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2606.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SYFY </link>
-</item>
-<item>
-<title>DE: TNT Serie HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/806.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Serie HD </link>
-</item>
-<item>
-<title>DE: TNT serie</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2696.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT serie </link>
-</item>
-<item>
-<title>DE: TNT Film HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/788.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Film HD </link>
-</item>
-<item>
-<title>DE: TNT Comedy HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2738.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Comedy HD </link>
-</item>
-<item>
-<title>DE: TNT Glitz</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2382.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Glitz </link>
-</item>
-<item>
-<title>DE: MGM HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1164.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: MGM HD </link>
-</item>
-<item>
-<title>DE: AXN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/807.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: AXN HD </link>
-</item>
-<item>
-<title>DE: ANNIXE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1601.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ANNIXE </link>
-</item>
-<item>
-<title>DE: 13th Street HD.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2605.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 13th Street HD. </link>
-</item>
-<item>
-<title>DE: 13th Street HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/808.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 13th Street HD </link>
-</item>
-<item>
-<title>DE: Universal Channel HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1777.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Universal Channel HD </link>
-</item>
-<item>
-<title>DE: Sky HD Fan Zone</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1688.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky HD Fan Zone </link>
-</item>
-<item>
-<title>DE: VH1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2387.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VH1 </link>
-</item>
-<item>
-<title>DE: E!</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2488.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: E! </link>
-</item>
-<item>
-<title>DE: KIKA HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2580.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: KIKA HD </link>
-</item>
-<item>
-<title>=========GERMANY  Kids==========</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2513.ts&amp;streamtype=TSDOWNLOADER&amp;name==========GERMANY  Kids========== </link>
-</item>
-<item>
-<title>DE: Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2570.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Junior </link>
-</item>
-<item>
-<title>DE: Catoon Network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2569.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Catoon Network </link>
-</item>
-<item>
-<title>DE: Boomerang</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1794.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Boomerang </link>
-</item>
-<item>
-<title>DE: Disney Junior HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2355.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Junior HD </link>
-</item>
-<item>
-<title>DE: Disney Channel HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/920.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Channel HD </link>
-</item>
-<item>
-<title>DE: Disney Cinemagic HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1616.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Cinemagic HD </link>
-</item>
-<item>
-<title>DE: Disney XD HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2385.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney XD HD </link>
-</item>
-<item>
-<title>DE: Nickelodeon</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2353.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Nickelodeon </link>
-</item>
-<item>
-<title>=========GERMANY  DOKUMENTATION==========</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2514.ts&amp;streamtype=TSDOWNLOADER&amp;name==========GERMANY  DOKUMENTATION========== </link>
-</item>
-<item>
-<title>DE: Sony HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1298.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sony HD </link>
-</item>
-<item>
-<title>DE: Spiegel Geschichte HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1779.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Spiegel Geschichte HD </link>
-</item>
-<item>
-<title>DE: Spiegel TV Wissen</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2386.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Spiegel TV Wissen </link>
-</item>
-<item>
-<title>DE: Phoenix HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1163.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Phoenix HD </link>
-</item>
-<item>
-<title>DE: Animal Planet HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2469.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Animal Planet HD </link>
-</item>
-<item>
-<title>DE: Planet HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2120.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Planet HD </link>
-</item>
-<item>
-<title>DE: History HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1113.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: History HD </link>
-</item>
-<item>
-<title>DE: Discovery Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2747.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Discovery Channel </link>
-</item>
-<item>
-<title>DE: Discovery Channel HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/921.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Discovery Channel HD </link>
-</item>
-<item>
-<title>DE: National Geo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2541.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: National Geo </link>
-</item>
-<item>
-<title>DE: National Geo HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/304.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: National Geo HD </link>
-</item>
-<item>
-<title>DE: NatGeo Wild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2714.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NatGeo Wild </link>
-</item>
-<item>
-<title>DE: NatGeo Wild HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1160.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NatGeo Wild HD </link>
-</item>
-<item>
-<title>=========GERMANY  CINEMA==========</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2515.ts&amp;streamtype=TSDOWNLOADER&amp;name==========GERMANY  CINEMA========== </link>
-</item>
-<item>
-<title>DE: KinoWelt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2203.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: KinoWelt </link>
-</item>
-<item>
-<title>DE: Sky Hits HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1689.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Hits HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7919.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Krimi </link>
 </item>
 <item>
 <title>DE: Sky Hits</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2468.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Hits </link>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7892.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Hits </link>
 </item>
 <item>
-<title>DE: Sky Action HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/918.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Action HD </link>
+<title>DE: Sky Cinema 1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7891.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema 1HD </link>
 </item>
 <item>
-<title>DE: Sky Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2467.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Action </link>
+<title>DE: Sky Bundesliga 2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7890.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 2HD </link>
 </item>
 <item>
-<title>DE: Sky Comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/322.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Comedy </link>
-</item>
-<item>
-<title>DE: Sky Cinema HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/323.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema HD </link>
-</item>
-<item>
-<title>DE: Sky Cinema</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2568.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema </link>
-</item>
-<item>
-<title>DE: Sky Cinema +1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1690.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema +1 HD </link>
-</item>
-<item>
-<title>DE: Sky Cinema +24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2748.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema +24 </link>
-</item>
-<item>
-<title>DE: Sky Cinema +24 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/324.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema +24 HD </link>
-</item>
-<item>
-<title>DE: SKY ATLANTIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2610.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY ATLANTIC </link>
-</item>
-<item>
-<title>DE: SKY ATLANTIC HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/326.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY ATLANTIC HD </link>
-</item>
-<item>
-<title>DE: SKY ATLANTIC +1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1796.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY ATLANTIC +1 HD </link>
-</item>
-<item>
-<title>DE: Sky Emotion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1406.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Emotion </link>
-</item>
-<item>
-<title>DE: Sky Nostalgie</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2424.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Nostalgie </link>
+<title>DE: Sky Bundesliga 1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7889.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 1HD </link>
 </item>
 <item>
 <title>DE: Sky 3D</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1687.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky 3D </link>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7888.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky 3D </link>
 </item>
 <item>
-<title>DE: Romance TV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2383.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Romance TV HD </link>
+<title>DE: Sixx HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7887.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sixx HD </link>
 </item>
 <item>
-<title>DE: Sky Select HD1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2358.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select HD1 </link>
+<title>DE: SERVUS TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7886.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SERVUS TV HD </link>
 </item>
 <item>
-<title>DE: Sky Select HD2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2359.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select HD2 </link>
+<title>DE: SAT 1 Gold</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7867.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SAT 1 Gold </link>
 </item>
 <item>
-<title>DE: Sky Select HD 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2360.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select HD 3 </link>
+<title>DE: Sat 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7885.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sat 1 </link>
 </item>
 <item>
-<title>DE: Sky Select HD 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2361.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select HD 4 </link>
+<title>DE: RTL SUPER</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7884.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL SUPER </link>
 </item>
 <item>
-<title>DE: Sky Select HD5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2362.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select HD5 </link>
+<title>DE: RTL PASSION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7883.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL PASSION </link>
 </item>
 <item>
-<title>DE: Sky Select HD6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2363.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select HD6 </link>
+<title>DE: RTL NITRO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7882.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL NITRO </link>
 </item>
 <item>
-<title>DE: Sky Select HD7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2364.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select HD7 </link>
+<title>DE: RTL 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7881.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL 2 </link>
 </item>
 <item>
-<title>DE: Sky Select HD 8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1403.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select HD 8 </link>
+<title>DE: RTL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7880.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL </link>
 </item>
 <item>
-<title>DE: Sky Select HD 9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2086.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select HD 9 </link>
+<title>DE: RIC KINDER KANAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7879.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RIC KINDER KANAL </link>
 </item>
 <item>
-<title>DE: Sky Select HD 10</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2087.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select HD 10 </link>
+<title>DE: Pro 7 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7878.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Pro 7 HD </link>
 </item>
 <item>
-<title>DE: Sky Select HD11</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/916.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select HD11 </link>
+<title>DE: ORF 2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7877.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF 2HD </link>
 </item>
 <item>
-<title>=========GERMANY  SPORT==========</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2516.ts&amp;streamtype=TSDOWNLOADER&amp;name==========GERMANY  SPORT========== </link>
+<title>DE: ORF 1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7876.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF 1HD </link>
 </item>
 <item>
-<title>DE: Motorvision TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1786.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Motorvision TV </link>
+<title>DE: NTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7875.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NTV </link>
 </item>
 <item>
-<title>DE: Auto Motor Sport Channel HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2720.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Auto Motor Sport Channel HD </link>
+<title>DE: National Geographic Wild HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7874.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: National Geographic Wild HD </link>
 </item>
 <item>
-<title>DE: EUROSPORT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1409.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: EUROSPORT </link>
+<title>DE: Nat.Geo HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7909.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Nat.Geo HD </link>
 </item>
 <item>
-<title>DE: Sportdigital HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1778.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sportdigital HD </link>
+<title>DE: N24 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7873.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: N24 HD </link>
 </item>
 <item>
-<title>DE: Sky Sport Austria</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/310.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport Austria </link>
+<title>DE: KANAL MAGDEBURG</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7872.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: KANAL MAGDEBURG </link>
 </item>
 <item>
-<title>DE: Sky Sport 1+ HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2540.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 1+ HD </link>
+<title>DE: KABEL 1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7871.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: KABEL 1HD </link>
 </item>
 <item>
-<title>DE: Sport 1 US HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2202.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sport 1 US HD </link>
+<title>DE: History HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7869.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: History HD </link>
 </item>
 <item>
-<title>DE: Sky Sport News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1780.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport News </link>
+<title>DE: HALLE TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7868.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: HALLE TV </link>
 </item>
 <item>
-<title>DE: Sky Sport News.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2739.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport News. </link>
+<title>DE: Fox HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7866.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Fox HD </link>
 </item>
 <item>
-<title>DE: Sky Sports 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/321.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sports 1 HD </link>
+<title>DE: Euronews</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7865.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Euronews </link>
 </item>
 <item>
-<title>DE: Sky Sports 1 HD.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2466.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sports 1 HD. </link>
+<title>DE: Dresden Fernsehen</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7870.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Dresden Fernsehen </link>
 </item>
 <item>
-<title>DE: Sky Sports 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/320.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sports 2 HD </link>
+<title>DE: DMAX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7864.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: DMAX </link>
 </item>
 <item>
-<title>DE: Sky Sports 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2632.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sports 2 </link>
+<title>DE: Disney Cinemagic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7863.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Cinemagic </link>
 </item>
 <item>
-<title>DE: Sky Sports 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2384.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sports 3 HD </link>
+<title>DE: Disney Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7862.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Channel </link>
 </item>
 <item>
-<title>DE: SKY BUNDESLIGA 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/2740.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA 1 </link>
+<title>DE: Deluxe Music</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7861.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Deluxe Music </link>
 </item>
 <item>
-<title>DE: SKY BUNDESLIGA HD 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/300.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA HD 1 </link>
+<title>DE: Das Erste</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7860.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Das Erste </link>
 </item>
 <item>
-<title>DE: SKY BUNDESLIGA HD 2 --- MATCH TIME ---</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1962.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA HD 2 --- MATCH TIME --- </link>
+<title>DE: AXN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7859.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: AXN HD </link>
 </item>
 <item>
-<title>DE: SKY BUNDESLIGA HD 3 --- MATCH TIME ---</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1961.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA HD 3 --- MATCH TIME --- </link>
+<title>DE: Austria 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7858.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Austria 24 </link>
 </item>
 <item>
-<title>DE: SKY BUNDESLIGA HD 4 --- MATCH TIME ---</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1960.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA HD 4 --- MATCH TIME --- </link>
+<title>DE: Arte HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7857.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Arte HD </link>
 </item>
 <item>
-<title>DE: SKY BUNDESLIGA HD 5 --- MATCH TIME ----</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1959.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA HD 5 --- MATCH TIME ---- </link>
+<title>DE: 3SAT HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7856.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 3SAT HD </link>
 </item>
 <item>
-<title>DE: SKY BUNDESLIGA HD 6 --- MATCH TIME ---</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1958.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA HD 6 --- MATCH TIME --- </link>
+<title>DE: 13Street HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7855.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 13Street HD </link>
 </item>
 <item>
-<title>DE: SKY BUNDESLIGA HD 7 --- MATCH TIME ---</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1957.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA HD 7 --- MATCH TIME --- </link>
+<title>DE Sky Select HD 8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7854.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Select HD 8 </link>
 </item>
 <item>
-<title>DE: SKY BUNDESLIGA HD 8 --- MATCH TIME ----</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1956.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA HD 8 --- MATCH TIME ---- </link>
+<title>DE Sky Select HD 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7853.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Select HD 7 </link>
 </item>
 <item>
-<title>DE: SKY BUNDESLIGA HD 9 --- MATCH TIME ----</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1955.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA HD 9 --- MATCH TIME ---- </link>
+<title>DE Sky Select HD 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7852.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Select HD 6 </link>
 </item>
 <item>
-<title>DE: SKY BUNDESLIGA HD 10 ---- MATCH TIME ----</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/1963.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA HD 10 ---- MATCH TIME ---- </link>
+<title>DE Sky Select HD 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7851.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Select HD 5 </link>
 </item>
 <item>
-<title>DE: Sport Time 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/319.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sport Time 1 HD </link>
+<title>DE Sky Select HD 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7850.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Select HD 4 </link>
 </item>
 <item>
-<title>DE: Sport Time 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/jerome/jerome/318.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sport Time 2 HD </link>
+<title>DE Sky Select HD 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7849.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Select HD 3 </link>
 </item>
-
-
-
-
-
-
-
-
-
-
-
+<item>
+<title>DE Sky Select HD 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7848.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Select HD 2 </link>
+</item>
+<item>
+<title>DE Sky Select HD 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7847.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Select HD 1 </link>
+</item>
+<item>
+<title>BeinSports_9HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7846.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeinSports_9HD </link>
+</item>
+<item>
+<title>BeinSports_8HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7845.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeinSports_8HD </link>
+</item>
+<item>
+<title>BeinSports_7HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7844.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeinSports_7HD </link>
+</item>
+<item>
+<title>BeinSports_6HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7843.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeinSports_6HD </link>
+</item>
+<item>
+<title>BeinSports_5HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7842.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeinSports_5HD </link>
+</item>
+<item>
+<title>BeinSports_4HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7841.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeinSports_4HD </link>
+</item>
+<item>
+<title>BeinSports_3HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7840.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeinSports_3HD </link>
+</item>
+<item>
+<title>BeinSports_2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7839.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeinSports_2HD </link>
+</item>
+<item>
+<title>BeinSports_15HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7838.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeinSports_15HD </link>
+</item>
+<item>
+<title>BeinSports_14HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7837.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeinSports_14HD </link>
+</item>
+<item>
+<title>BeinSports_13HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7836.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeinSports_13HD </link>
+</item>
+<item>
+<title>BeinSports_12HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7835.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeinSports_12HD </link>
+</item>
+<item>
+<title>BeinSports_11HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7834.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeinSports_11HD </link>
+</item>
+<item>
+<title>BeinSports_10HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7833.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeinSports_10HD </link>
+</item>
+<item>
+<title>BeinSports 1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7832.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeinSports 1HD </link>
+</item>
+<item>
+<title>BEIN MOVIES 3HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7831.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MOVIES 3HD </link>
+</item>
+<item>
+<title>BEIN MOVIES 2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7830.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MOVIES 2HD </link>
+</item>
+<item>
+<title>BEIN MOVIES 1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7829.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MOVIES 1HD </link>
+</item>
+<item>
+<title>BEIN MAX HD 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7765.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX HD 2 </link>
+</item>
+<item>
+<title>BEIN MAX HD 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7766.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX HD 1 </link>
+</item>
+<item>
+<title>Bein Max 1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7828.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein Max 1HD </link>
+</item>
+<item>
+<title>Astro Sports 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7827.ts&amp;streamtype=TSDOWNLOADER&amp;name=Astro Sports 4 </link>
+</item>
+<item>
+<title>Astro Sports 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7826.ts&amp;streamtype=TSDOWNLOADER&amp;name=Astro Sports 3 </link>
+</item>
+<item>
+<title>Astro Sports 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7825.ts&amp;streamtype=TSDOWNLOADER&amp;name=Astro Sports 2 </link>
+</item>
+<item>
+<title>Astro Sports 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7824.ts&amp;streamtype=TSDOWNLOADER&amp;name=Astro Sports 1 </link>
+</item>
+<item>
+<title>Arena Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/andreas1/andreas1/7820.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arena Sport 1 </link>
+</item>
 
 
 
