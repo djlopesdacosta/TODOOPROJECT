@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repo.blacksharing" name="blackiptvsharing repo" version="0.0.2" provider-name="Robert Kahn">
+	<extension point="xbmc.addon.repository" name="blackiptvsharing repo">
+		<info compressed="false">http://raw.githubusercontent.com/maniackodi82/repo.blacksharing/master/addons.xml</info>
+		<checksum>http://raw.githubusercontent.com/maniackodi82/repo.blacksharing/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.githubusercontent.com/maniackodi82/repo.blacksharing/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>blackiptvsharing repo</summary>
+		<description>Simples, Fácil e Eficaz</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

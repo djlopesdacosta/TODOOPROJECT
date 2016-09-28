@@ -76,6 +76,29 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.blacksharing" name="blacksharing" version="0.0.1" provider-name="blackteam">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.httplib2"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube"/>
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">blacksharing</summary>
+    <description lang="en">O melhor e o mais prÃ¡tico para ver IPTV</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.f4mTester" version="2.2.5" name="f4mTester" provider-name="Shani">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
@@ -336,6 +359,20 @@ CHANNELS REQUESTS OR MORE INFORMATION PLEASE
 SEND E MAIL: tvsupertuga@gmail.com[/B][/COLOR]</description>
     <platform>all</platform>
   </extension>
+</addon>
+
+<addon id="repo.blacksharing" name="blackiptvsharing repo" version="0.0.2" provider-name="Robert Kahn">
+	<extension point="xbmc.addon.repository" name="blackiptvsharing repo">
+		<info compressed="false">http://raw.githubusercontent.com/maniackodi82/repo.blacksharing/master/addons.xml</info>
+		<checksum>http://raw.githubusercontent.com/maniackodi82/repo.blacksharing/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.githubusercontent.com/maniackodi82/repo.blacksharing/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>blackiptvsharing repo</summary>
+		<description>Simples, FÃ¡cil e Eficaz</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
 </addon>
 
 <addon id="repository.pancas" name="Pancas repository" version="1.0.4" provider-name="Pancas">
