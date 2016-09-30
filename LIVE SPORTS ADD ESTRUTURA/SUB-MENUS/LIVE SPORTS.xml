@@ -164,39 +164,6 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 
 
-<item>
-<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV1 [COLOR green][/COLOR][COLOR magenta] [/COLOR][/B]</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/sporttv1.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/sporttv1.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv1.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV1 [COLOR green][/COLOR][COLOR magenta] [/COLOR][/B]</title>
-<fanart></fanart>
-<sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil>
-<referer>http://cdn2.zuuk.org/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv1.png</thumbnail>
-</item>
-
-
 
 <item>
 <title>[COLOR lime][B][COLOR green][/COLOR] Sport TV1 [COLOR green][/COLOR][COLOR magenta] [/COLOR][/B]</title>
@@ -268,50 +235,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 <thumbnail>https://s-media-cache-ak0.pinimg.com/564x/53/c5/fd/53c5fdb9a48560eaf89fad665b6f2345.jpg</thumbnail>
 </item>
 
-
-
-
-
-<item>
-<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV2 [COLOR green][/COLOR][COLOR magenta] [/COLOR][/B]</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/sporttv2.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/sporttv2.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv2.png</thumbnail> 
-</item>
-
-<item>                        
-<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV2 [COLOR green][/COLOR][COLOR magenta] [/COLOR][/B]</title>                
-<fanart></fanart>                        
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv2.png</thumbnail>                        
-<sportsdevil>http://www.europeu2016.net/index.php?canal=sporttv2</sportsdevil>
-<referer>http://www.europeu2016.com</referer>
-</item>
-
-
-
-
-
-
-
-
 <item>
 <title>[COLOR lime][B][COLOR green][/COLOR] Sport TV2 [COLOR green][/COLOR][COLOR magenta] [/COLOR][/B]</title>
 <link>http://83.78.191.43:2066/</link>
@@ -325,63 +248,10 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 <thumbnail>https://s-media-cache-ak0.pinimg.com/564x/fc/62/4c/fc624c6750899f160eb25e450fb0832e.jpg</thumbnail>
 </item>
 
-
-<item>
-<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV3 [COLOR green][/COLOR][COLOR magenta] [/COLOR][/B]</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/sporttv3.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/sporttv3.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv3.png</thumbnail>  
-</item>
-
-
-
 <item>
 <title>[COLOR lime][B][COLOR green][/COLOR] Sport TV3 [COLOR green][/COLOR][COLOR magenta] [/COLOR][/B]</title>
 <link>http://83.78.191.43:2067/</link>
 <thumbnail>http://allfootballvideo.com/images/channel-logo/SPORT.TV3_.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV4 [COLOR green][/COLOR][COLOR magenta] </title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/sporttv4.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/sporttv4.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv4.png</thumbnail>
 </item>
 
 <item>
@@ -390,45 +260,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 <referer>http://www.sportvdireto.online/</referer>
 <thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv4_pt.jpg</thumbnail>
 </item>
-
-
-
-<item>
-<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV5 [COLOR green][/COLOR][COLOR magenta]</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/sporttv5.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/sporttv5.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv5.png</thumbnail>
-</item>
-
-<item>                        
-<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV5 [COLOR green][/COLOR][COLOR magenta] </title>               
-<fanart></fanart>                        
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv5.png</thumbnail>                      
-<sportsdevil>http://www.europeu2016.net/index.php?canal=sporttv5</sportsdevil>
-<referer>http://www.europeu2016.com</referer>
-</item>
-
-
-
-
 
 <item>
 <title>[COLOR lime][B][COLOR green][/COLOR] Sport TV5 [COLOR green][/COLOR][COLOR magenta] [Sport Devil/P2P][/COLOR][/B]</title>
@@ -456,6 +287,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 <link>http://83.78.191.43:2008</link>
 <thumbnail>http://benficanoticias.altervista.org/wp-content/uploads/2015/11/CanaisPremium_BenficaTV.png</thumbnail>
 </item>
+
 
 
 <item>
