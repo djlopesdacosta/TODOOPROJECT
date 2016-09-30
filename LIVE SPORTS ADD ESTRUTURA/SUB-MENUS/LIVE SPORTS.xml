@@ -326,14 +326,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 
 
 
-<item>
-<title>[COLOR blue][BCOLOR cyan] CANAIS [COLOR green] INTERNACIONAIS [COLOR blue] [COLOR green][/COLOR][/B]</title>
-<link>plugin://</link>
-<thumbnail></thumbnail>
-</item>
-
-
-
 
 <item>
 <title>[COLOR lime][B][COLOR green][/COLOR] Super Sporlig [COLOR green][/COLOR][COLOR magenta] [Varias ligas europeias][/COLOR][/B]</title>
@@ -476,8 +468,3 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 <thumbnail>http://s32.postimg.org/f68j9p3t1/idman.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR lime][B][COLOR green][/COLOR] Боец [COLOR green][/COLOR][COLOR magenta]  [RU][/COLOR][/B]</title>
-<link>http://vs8.cdn.ott.otautv.kz:80/dtv/id34_KTR_SG--boec/03/plst.m3u8</link>
-<thumbnail>http://s32.postimg.org/r63ax1og5/fgf.jpg</thumbnail>
-</item>
