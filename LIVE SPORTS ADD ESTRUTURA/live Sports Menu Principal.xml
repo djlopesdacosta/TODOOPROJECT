@@ -1,31 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 
-<channels>
-<channel>
-<name>[COLOR red]LIVE EVENTS[/COLOR]</name>
-<thumbnail>http://www.jamesons-pattaya.com/sports_header.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/LIVE%20SPORTS%20ADD%20ESTRUTURA/SUB-MENUS/Live%20Events.xml</externallink>
-<fanart>http://www.stadiumbusinesssummit.com/wp-content/uploads/2014/05/untitled-3-911x440.jpg</fanart>
-<info>Xo1000</info>
-</channel>
- 
- 
-<channels>
-<channel>
-<name>[COLOR red]MATCH OF THE DAY - REPLAYS[/COLOR]</name>
-<thumbnail>https://goalhighlights.com/wp-content/uploads/2015/10/match-of-the-day.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/LIVE%20SPORTS%20ADD%20ESTRUTURA/SUB-MENUS/MATCH%20OF%20THE%20DAY%20-%20REPLAYS.xml</externallink>
-<fanart>https://goalhighlights.com/wp-content/uploads/2015/10/match-of-the-day.jpg</fanart>
-<info>Xo1000</info>
-</channel>
- 
  
  <channel>
-<name>[COLOR red]LIVE SPORTS[/COLOR]</name>
+<name>[COLOR red]TUGA SPORTS[/COLOR]</name>
 <thumbnail>http://i97.servimg.com/u/f97/19/44/91/43/icon10.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/LIVE%20SPORTS%20ADD%20ESTRUTURA/SUB-MENUS/LIVE%20SPORTS.xml</externallink>
-<fanart>http://i97.servimg.com/u/f97/19/44/91/43/fanart10.jpg</fanart>
+<fanart>https://amhallblog.files.wordpress.com/2013/04/20130402_233917.jpg</fanart>
 <info></info>
 </channel>
  
@@ -33,35 +14,35 @@
 <channels>
 <channel>
 <name>[COLOR red]SKY SPORTS[/COLOR]</name>
-<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
+<thumbnail>http://4.bp.blogspot.com/-II_Cnwo7zAc/VL2OhHsFEpI/AAAAAAAAB2M/Nb4KJJMwCvk/s1600/sky%2Bsport.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/LIVE%20SPORTS%20ADD%20ESTRUTURA/SUB-MENUS/Sky%20Sports.xml</externallink>
-<fanart>http://www.dungannonswiftsfc.com/wp-content/uploads/2013/12/Sky-Sports-Living-For-Sport_2722560.jpg</fanart>
+<fanart>https://amhallblog.files.wordpress.com/2013/04/20130402_233917.jpg</fanart>
 <info>Xo1000</info>
 </channel>
  
 <channels>
 <channel>
 <name>[COLOR red]BT SPORT[/COLOR]</name>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUU4HeyMIP8Sqkw55kTZbweU7M1AqiGO3Xn1eVtWEzIpa7FJMN</thumbnail>
+<thumbnail>https://yt3.ggpht.com/-zLLqi4rqrBw/AAAAAAAAAAI/AAAAAAAAAAA/_73BhShNrT4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/LIVE%20SPORTS%20ADD%20ESTRUTURA/SUB-MENUS/Bt%20Sport.xml</externallink>
-<fanart>http://static.trustedreviews.com/94/0000286fc/7300/BT-Sport.jpg</fanart>
+<fanart>https://amhallblog.files.wordpress.com/2013/04/20130402_233917.jpg</fanart>
 <info>Xo1000</info>
 </channel>
  
 <channel>
 <name>[COLOR red]BEIN SPORTS[/COLOR]</name>
-<thumbnail>http://assets.beinsports.com/2.6.15/images/logo-header__us.png</thumbnail>
+<thumbnail>http://ptvsportsbisskeyz.com/wp-content/uploads/2015/02/beIN-Sports-key.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/LIVE%20SPORTS%20ADD%20ESTRUTURA/SUB-MENUS/Bein%20Sports.xml</externallink>
-<fanart>http://intervpn.com/wp-content/uploads/2015/04/bein-sports-watch-live-2.jpg</fanart>
+<fanart>https://amhallblog.files.wordpress.com/2013/04/20130402_233917.jpg</fanart>
 <info></info>
 </channel>
  
 <channels>
 <channel>
 <name>[COLOR red]OTHERS[/COLOR]</name>
-<thumbnail>http://www.selectism.com/files/2012/08/LOGO.jpg</thumbnail>
+<thumbnail>http://i939.photobucket.com/albums/ad234/higwk16/OTHERS_ICON-1.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/LIVE%20SPORTS%20ADD%20ESTRUTURA/SUB-MENUS/Others.xml</externallink>
-<fanart>http://www.elpinorestaurant.com/wp-content/uploads/2015/01/el-pino-restaurant-torrox-live-sports.jpg</fanart>
+<fanart>https://amhallblog.files.wordpress.com/2013/04/20130402_233917.jpg</fanart>
 <info>Xo1000</info>
 </channel>
  
