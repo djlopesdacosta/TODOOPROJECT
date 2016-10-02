@@ -17,7 +17,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 28-09-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 03-10-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -34,173 +34,546 @@
 
 
 <item>
-<title>NL: 13th Street</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2730.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: 13th Street </link>
+<title>== CHANNELS-NETHERLANDS ==</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8349.ts&amp;streamtype=TSDOWNLOADER&amp;name=== CHANNELS-NETHERLANDS == </link>
 </item>
 <item>
-<title>NL: Comedy Central</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2731.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Comedy Central </link>
+<title>NL:NPO_2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8350.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:NPO_2HD </link>
 </item>
 <item>
-<title>NL: Discovery</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2732.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Discovery </link>
+<title>NL:NPO_3HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8351.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:NPO_3HD </link>
 </item>
 <item>
-<title>NL: Disney Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2733.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Disney Channel </link>
+<title>NL:Ziggo_Sport_Voetbal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8382.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:Ziggo_Sport_Voetbal </link>
 </item>
 <item>
-<title>NL: Edge Sport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2735.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Edge Sport </link>
+<title>NL:Veronica_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8385.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:Veronica_HD </link>
 </item>
 <item>
-<title>NL: Film 1 Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2736.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Film 1 Action </link>
+<title>NL:TV_538</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8386.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:TV_538 </link>
 </item>
 <item>
-<title>NL: Film 1 Comedy and Kids</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2737.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Film 1 Comedy and Kids </link>
+<title>NL:TLC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8387.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:TLC </link>
 </item>
 <item>
-<title>NL: Film 1 Premiere</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2738.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Film 1 Premiere </link>
+<title>NL:SyFy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8388.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:SyFy </link>
+</item>
+<item>
+<title>NL:Slam</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8389.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:Slam </link>
+</item>
+<item>
+<title>NL:SBS_9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8357.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:SBS_9 </link>
+</item>
+<item>
+<title>NL:SBS_6HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8354.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:SBS_6HD </link>
+</item>
+<item>
+<title>NL:Salto_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8391.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:Salto_1 </link>
+</item>
+<item>
+<title>NL:Salto_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8390.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:Salto_2 </link>
+</item>
+<item>
+<title>NL:RTV_Rijnmond</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8392.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:RTV_Rijnmond </link>
+</item>
+<item>
+<title>NL:RTV_OOST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8393.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:RTV_OOST </link>
+</item>
+<item>
+<title>NL:RTL_Z</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8394.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:RTL_Z </link>
+</item>
+<item>
+<title>NL:RTL_Telekids</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8395.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:RTL_Telekids </link>
+</item>
+<item>
+<title>NL:RTL_4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8352.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:RTL_4 </link>
+</item>
+<item>
+<title>NL:RTL_5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8353.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:RTL_5 </link>
+</item>
+<item>
+<title>NL:RTL_7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8355.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:RTL_7 </link>
+</item>
+<item>
+<title>NL:RTL_8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8356.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:RTL_8 </link>
+</item>
+<item>
+<title>NL:Omroep_Fryslan</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8396.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:Omroep_Fryslan </link>
+</item>
+<item>
+<title>NL:Omroep_Flevoland</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8397.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:Omroep_Flevoland </link>
+</item>
+<item>
+<title>NL:Omroep_Brabant</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8398.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:Omroep_Brabant </link>
+</item>
+<item>
+<title>NL:Nickelodeon</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8383.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:Nickelodeon </link>
+</item>
+<item>
+<title>NL:Net_5HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8358.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:Net_5HD </link>
+</item>
+<item>
+<title>NL:National_Geographic_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8384.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:National_Geographic_HD </link>
+</item>
+<item>
+<title>NL:HBO_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8359.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:HBO_1 </link>
+</item>
+<item>
+<title>NL:HBO_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8360.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:HBO_2 </link>
+</item>
+<item>
+<title>NL:HBO_3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8361.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:HBO_3 </link>
+</item>
+<item>
+<title>NL:FOX_CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8375.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:FOX_CHANNEL </link>
+</item>
+<item>
+<title>NL:FoxSports_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8376.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:FoxSports_1 </link>
+</item>
+<item>
+<title>NL:FoxSports_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8377.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:FoxSports_2 </link>
+</item>
+<item>
+<title>NL:FoxSports_3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8378.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:FoxSports_3 </link>
+</item>
+<item>
+<title>NL:FoxSports_4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8379.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:FoxSports_4 </link>
+</item>
+<item>
+<title>NL:FoxSports_5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8380.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:FoxSports_5 </link>
+</item>
+<item>
+<title>NL:FoxSports_6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8381.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:FoxSports_6 </link>
+</item>
+<item>
+<title>NL:Film1_Sundance</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8362.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:Film1_Sundance </link>
+</item>
+<item>
+<title>NL:Film1_Spotlight</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8363.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:Film1_Spotlight </link>
+</item>
+<item>
+<title>NL:Film1_Premiere_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8364.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:Film1_Premiere_HD </link>
+</item>
+<item>
+<title>NL:FILM1_COMEDY&KIDS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8367.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:FILM1_COMEDY&KIDS </link>
+</item>
+<item>
+<title>NL:Film1_Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8365.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:Film1_Comedy </link>
+</item>
+<item>
+<title>NL:Film1_Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8366.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:Film1_Action </link>
+</item>
+<item>
+<title>NL:Disney_Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8370.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:Disney_Junior </link>
+</item>
+<item>
+<title>NL:Discover_Channel_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8371.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:Discover_Channel_HD </link>
+</item>
+<item>
+<title>NL:Crime&Investigation</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8372.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:Crime&Investigation </link>
+</item>
+<item>
+<title>NL:Comedy_Central_extra</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8373.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:Comedy_Central_extra </link>
+</item>
+<item>
+<title>NL:Comedy_Central</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8374.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:Comedy_Central </link>
+</item>
+<item>
+<title>NL:BOOMERANG</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8368.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:BOOMERANG </link>
+</item>
+<item>
+<title>NL:ANIMAL_PLANET</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/milad/milad/8369.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:ANIMAL_PLANET </link>
+</item>
+
+
+
+
+
+
+
+
+
+<item>
+<title>NL: FOX Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/474.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: FOX Sport 1 </link>
+</item>
+<item>
+<title>NL: FOX Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/475.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: FOX Sport 2 </link>
+</item>
+<item>
+<title>NL: FOX Sport 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/476.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: FOX Sport 3 </link>
+</item>
+<item>
+<title>NL: FOX Sport 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/477.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: FOX Sport 4 </link>
+</item>
+<item>
+<title>NL: FOX Sport 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/478.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: FOX Sport 5 </link>
+</item>
+<item>
+<title>NL: Fox Sports 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1151.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Fox Sports 6 </link>
+</item>
+<item>
+<title>NL: Sport1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1154.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Sport1 </link>
+</item>
+<item>
+<title>NL: Sport1 Select</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/479.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Sport1 Select </link>
+</item>
+<item>
+<title>NL: Sport1 Racing</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/480.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Sport1 Racing </link>
+</item>
+<item>
+<title>NL: Sport1 Voetbal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/481.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Sport1 Voetbal </link>
+</item>
+<item>
+<title>NL: Sport1 Golf</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/482.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Sport1 Golf </link>
+</item>
+<item>
+<title>NL: Sport 1 Extra1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1152.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Sport 1 Extra1 </link>
+</item>
+<item>
+<title>NL: Sport 1 Extra2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1153.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Sport 1 Extra2 </link>
+</item>
+<item>
+<title>NL: Eurosport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1155.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Eurosport </link>
+</item>
+<item>
+<title>NL: Extreme Sports</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1156.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Extreme Sports </link>
+</item>
+<item>
+<title>NL: Film1 Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/485.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Film1 Action </link>
+</item>
+<item>
+<title>NL: Film1 Premiere HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/486.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Film1 Premiere HD </link>
+</item>
+<item>
+<title>NL: Film1 Comedy en Kids</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/487.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Film1 Comedy en Kids </link>
+</item>
+<item>
+<title>NL: Film1 Sundance</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/488.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Film1 Sundance </link>
 </item>
 <item>
 <title>NL: Film 1 Spotlight</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2739.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Film 1 Spotlight </link>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/489.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Film 1 Spotlight </link>
 </item>
 <item>
-<title>NL: Film 1 Sundance</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2740.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Film 1 Sundance </link>
-</item>
-<item>
-<title>NL: FOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2741.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: FOX </link>
-</item>
-<item>
-<title>NL: FOX life</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2742.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: FOX life </link>
-</item>
-<item>
-<title>NL: Fox Sports 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2743.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Fox Sports 1 </link>
-</item>
-<item>
-<title>NL: Fox Sports 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2744.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Fox Sports 2 </link>
-</item>
-<item>
-<title>NL: Fox Sports 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2745.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Fox Sports 3 </link>
-</item>
-<item>
-<title>NL: Fox Sports 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2746.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Fox Sports 4 </link>
-</item>
-<item>
-<title>NL: Fox Sports 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2747.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Fox Sports 5 </link>
-</item>
-<item>
-<title>NL: HBO 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2748.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: HBO 1 </link>
+<title>NL: HBO HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/490.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: HBO HD </link>
 </item>
 <item>
 <title>NL: HBO 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2749.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: HBO 2 </link>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/491.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: HBO 2 </link>
 </item>
 <item>
 <title>NL: HBO 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2750.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: HBO 3 </link>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/492.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: HBO 3 </link>
 </item>
 <item>
-<title>NL: National Geographic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2751.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: National Geographic </link>
+<title>NL: Comedy Central</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/499.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Comedy Central </link>
 </item>
 <item>
-<title>NL: NET 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2752.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: NET 5 </link>
+<title>NL: Comedy Central Family</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1157.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Comedy Central Family </link>
 </item>
 <item>
-<title>NL: NPO 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2753.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: NPO 1 </link>
+<title>NL: Comedy Central Exstra</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1158.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Comedy Central Exstra </link>
 </item>
 <item>
-<title>NL: NPO 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2754.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: NPO 2 </link>
+<title>NL: 13th Street</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: 13th Street </link>
 </item>
 <item>
-<title>NL: NPO 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2755.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: NPO 3 </link>
+<title>NL: Syfy HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/495.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Syfy HD </link>
 </item>
 <item>
-<title>NL: RTL 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2756.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: RTL 4 </link>
+<title>NL: Fox NL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/493.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Fox NL </link>
 </item>
 <item>
-<title>NL: RTL 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2757.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: RTL 5 </link>
+<title>NL: Fox Life</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/494.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Fox Life </link>
 </item>
 <item>
-<title>NL: RTL 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2758.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: RTL 7 </link>
-</item>
-<item>
-<title>NL: RTL 8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2759.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: RTL 8 </link>
-</item>
-<item>
-<title>NL: RTV Drenthe</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2760.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: RTV Drenthe </link>
-</item>
-<item>
-<title>NL: SBS 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2761.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: SBS 6 </link>
+<title>NL: SBS 6 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/505.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: SBS 6 HD </link>
 </item>
 <item>
 <title>NL: SBS 9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2762.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: SBS 9 </link>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/506.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: SBS 9 </link>
 </item>
 <item>
-<title>NL: Syfy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2770.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Syfy </link>
+<title>NL: NPO 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/496.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: NPO 1 </link>
 </item>
 <item>
-<title>NL: TLC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2771.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: TLC </link>
+<title>NL: NPO 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/497.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: NPO 2 HD </link>
 </item>
 <item>
-<title>NL: Veronica / Disney XD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2734.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Veronica / Disney XD </link>
+<title>NL: NPO 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/498.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: NPO 3 </link>
 </item>
 <item>
-<title>NL: Ziggo Sport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2766.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Ziggo Sport </link>
+<title>NL: NPO 101</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/484.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: NPO 101 </link>
 </item>
 <item>
-<title>NL: Ziggo Sport Extra 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2768.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Ziggo Sport Extra 1 </link>
+<title>NL: NPO Zapp Xtra</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1159.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: NPO Zapp Xtra </link>
 </item>
 <item>
-<title>NL: Ziggo Sport Extra 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2769.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Ziggo Sport Extra 2 </link>
+<title>NL: Net 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/508.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Net 5 HD </link>
 </item>
 <item>
-<title>NL: Ziggo Sport Golf</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2763.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Ziggo Sport Golf </link>
+<title>NL: Canvas</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/483.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Canvas </link>
 </item>
 <item>
-<title>NL: Ziggo Sport Racing</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2767.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Ziggo Sport Racing </link>
+<title>NL: RTL 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/501.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: RTL 4 HD </link>
 </item>
 <item>
-<title>NL: Ziggo Sport Select</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2764.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Ziggo Sport Select </link>
+<title>NL: RTL 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/502.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: RTL 5 HD </link>
 </item>
 <item>
-<title>NL: Ziggo Sport Voetbal</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/2765.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Ziggo Sport Voetbal </link>
+<title>NL: RTL 7 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: RTL 7 HD </link>
 </item>
+<item>
+<title>NL: RTL 8 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/504.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: RTL 8 HD </link>
+</item>
+<item>
+<title>NL: Shorts TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/520.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Shorts TV </link>
+</item>
+<item>
+<title>NL: NPO Humor tv</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/521.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: NPO Humor tv </link>
+</item>
+<item>
+<title>NL: RTL Crime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1167.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: RTL Crime </link>
+</item>
+<item>
+<title>NL: RTL Z</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1166.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: RTL Z </link>
+</item>
+<item>
+<title>NL: RTL lounge</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/531.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: RTL lounge </link>
+</item>
+<item>
+<title>NL: RTV Slingeland</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/529.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: RTV Slingeland </link>
+</item>
+<item>
+<title>NL: RTV OOST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/530.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: RTV OOST </link>
+</item>
+<item>
+<title>NL: TV ORANJE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/532.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: TV ORANJE </link>
+</item>
+<item>
+<title>NL: NPO DOC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1168.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: NPO DOC </link>
+</item>
+<item>
+<title>NL: Omroep Zeeland</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/533.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Omroep Zeeland </link>
+</item>
+<item>
+<title>NL: Nick Hits</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Nick Hits </link>
+</item>
+<item>
+<title>NL: Salto 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1162.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Salto 1 </link>
+</item>
+<item>
+<title>NL: Salto 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1163.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Salto 2 </link>
+</item>
+<item>
+<title>NL: 100% NL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1164.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: 100% NL </link>
+</item>
+<item>
+<title>NL: TV 538</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1165.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: TV 538 </link>
+</item>
+<item>
+<title>NL: Veronica HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/507.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Veronica HD </link>
+</item>
+<item>
+<title>NL: Disney Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/509.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Disney Junior </link>
+</item>
+<item>
+<title>NL: Nick Jr</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/510.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Nick Jr </link>
+</item>
+<item>
+<title>NL: Nicktoons</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/511.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Nicktoons </link>
+</item>
+<item>
+<title>NL: Baby tv</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/512.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Baby tv </link>
+</item>
+<item>
+<title>NL: Nickelodeon Nederland</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/515.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Nickelodeon Nederland </link>
+</item>
+<item>
+<title>NL: Disney Channel Nederland</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/516.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Disney Channel Nederland </link>
+</item>
+<item>
+<title>NL: Boomerang Nederland</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/517.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Boomerang Nederland </link>
+</item>
+<item>
+<title>NL: JimJam</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/518.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: JimJam </link>
+</item>
+<item>
+<title>NL: Cartoon Network NL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/519.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Cartoon Network NL </link>
+</item>
+<item>
+<title>NL: BBC Entertainment</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1160.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: BBC Entertainment </link>
+</item>
+<item>
+<title>NL: MTV Music 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/513.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: MTV Music 24 </link>
+</item>
+<item>
+<title>NL: MTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/514.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: MTV </link>
+</item>
+<item>
+<title>NL: 24kitchen</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/528.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: 24kitchen </link>
+</item>
+<item>
+<title>NL: National Geographic Channel HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/522.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: National Geographic Channel HD </link>
+</item>
+<item>
+<title>NL: Discovery History</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1161.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Discovery History </link>
+</item>
+<item>
+<title>NL: Discovery Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/523.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Discovery Channel </link>
+</item>
+<item>
+<title>NL: History HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/524.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: History HD </link>
+</item>
+<item>
+<title>NL: Investigation Discovery NL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/525.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Investigation Discovery NL </link>
+</item>
+<item>
+<title>NL: TLC Nederland</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/526.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: TLC Nederland </link>
+</item>
+<item>
+<title>NL: Animal Planet HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/527.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Animal Planet HD </link>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

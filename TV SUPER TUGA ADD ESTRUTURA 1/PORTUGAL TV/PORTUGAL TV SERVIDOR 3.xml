@@ -23,7 +23,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 24-09-16 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 03-10-16 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -39,656 +39,222 @@
 
 
 
-
 <item>
-<title>RTP 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/185.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1 </link>
+<title>PT: Benfica TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/428.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica TV HD </link>
 </item>
 <item>
-<title>RTP 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/184.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2 </link>
+<title>PT: Benfica TV SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/429.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica TV SD </link>
 </item>
 <item>
-<title>SIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/183.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC </link>
+<title>PT: SPORT TV1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/430.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV1 HD </link>
 </item>
 <item>
-<title>TVI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/191.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI </link>
+<title>PT: SPORT TV2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/431.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV2 </link>
 </item>
 <item>
-<title>RTP 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/212.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 3 </link>
+<title>PT: SPORT TV 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/432.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 3 </link>
 </item>
 <item>
-<title>SIC NOTICIAS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/195.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS </link>
+<title>PT: SPORT TV 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/433.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 4 </link>
 </item>
 <item>
-<title>TVI 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/190.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI 24 </link>
+<title>PT: SPORT TV5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/434.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV5 HD </link>
 </item>
 <item>
-<title>RTP INTERNACIONAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/1395.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP INTERNACIONAL </link>
+<title>PT: EuroSport News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/472.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSport News </link>
 </item>
 <item>
-<title>SIC MULHER</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/219.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC MULHER </link>
+<title>PT: Sporting TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/435.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sporting TV HD </link>
 </item>
 <item>
-<title>SIC RADICAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/194.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL </link>
+<title>PT: Caca & Pesca</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/468.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Caca & Pesca </link>
 </item>
 <item>
-<title>SIC CARAS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/204.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC CARAS </link>
+<title>PT: TVCINE 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/444.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 1 </link>
 </item>
 <item>
-<title>CANAL Q</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/198.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL Q </link>
+<title>PT: TVCINE 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/445.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 2 </link>
 </item>
 <item>
-<title>PORTO CANAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/196.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL </link>
+<title>PT: TVCINE 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/446.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 3 </link>
 </item>
 <item>
-<title>CM TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/186.ts&amp;streamtype=TSDOWNLOADER&amp;name=CM TV </link>
+<title>PT: TVCINE 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/447.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 4 </link>
 </item>
 <item>
-<title>RTP MEMORIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/700.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA </link>
+<title>PT: CINEMUNDO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/471.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CINEMUNDO </link>
 </item>
 <item>
-<title>RTP AFRICA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/518.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA </link>
+<title>PT: Fox hd</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/440.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox hd </link>
 </item>
 <item>
-<title>RTP MADEIRA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/697.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MADEIRA </link>
+<title>PT: Fox Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/458.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Movies </link>
 </item>
 <item>
-<title>RTP ACORES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/698.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP ACORES </link>
+<title>PT: Fox Crime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/441.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Crime </link>
 </item>
 <item>
-<title>TVI REALTY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/689.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALTY </link>
+<title>PT: FoxLife HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/442.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FoxLife HD </link>
 </item>
 <item>
-<title>TVI REALTY CAMERA 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/1394.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALTY CAMERA 1 </link>
+<title>PT: HollyWood</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/443.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: HollyWood </link>
 </item>
 <item>
-<title>TVI REALTY CAMERA 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/1393.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALTY CAMERA 2 </link>
+<title>PT: AXN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/469.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD </link>
 </item>
 <item>
-<title>TVI REALTY CAMERA 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/1392.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALTY CAMERA 3 </link>
+<title>PT: AXN BLACK HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/470.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN BLACK HD </link>
 </item>
 <item>
-<title>TVI REALTY CAMERA 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/1391.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALTY CAMERA 4 </link>
+<title>PT: AXN White HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/457.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN White HD </link>
 </item>
 <item>
-<title>TVI REALTY MOSAICO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/1390.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALTY MOSAICO </link>
+<title>PT: SyFy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/405.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SyFy </link>
 </item>
 <item>
-<title>TVI FICCAO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/213.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO </link>
+<title>PT: Mov HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/408.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Mov HD </link>
 </item>
 <item>
-<title>ARTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/852.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARTV </link>
+<title>PT: Toros TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/404.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Toros TV </link>
 </item>
 <item>
-<title>TV RECORD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/189.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV RECORD </link>
+<title>PT: EuroSport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/448.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSport 1 </link>
 </item>
 <item>
-<title>GLOBO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/512.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO </link>
+<title>PT: TVseries</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/436.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVseries </link>
 </item>
 <item>
-<title>GLOBO PREMIUM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/511.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO PREMIUM </link>
+<title>PT: TVI FicÃ§Ã£o</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/437.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI FicÃ§Ã£o </link>
 </item>
 <item>
-<title>SPORTV +</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/1038.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV + </link>
+<title>PT: TVI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/438.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI </link>
 </item>
 <item>
-<title>SPORTV 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/193.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 1 HD </link>
+<title>PT: TVI 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/439.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24 </link>
 </item>
 <item>
-<title>SPORTV 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/286.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 1 </link>
+<title>PT: SIC noticias</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/449.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC noticias </link>
 </item>
 <item>
-<title>SPORTV 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/192.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 2 HD </link>
+<title>PT: Sic K</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/450.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic K </link>
 </item>
 <item>
-<title>SPORTV 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/285.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 2 </link>
+<title>PT: Sic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/451.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic </link>
 </item>
 <item>
-<title>SPORTV 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/202.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 3 HD </link>
+<title>PT: RTP 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/452.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2 </link>
 </item>
 <item>
-<title>SPORTV 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/688.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 3 </link>
+<title>PT: RTP Internacional</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/453.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Internacional </link>
 </item>
 <item>
-<title>SPORTV 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/201.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 4 HD </link>
+<title>PT: RTP</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/454.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP </link>
 </item>
 <item>
-<title>SPORTV 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/687.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 4 </link>
+<title>PT: Porto canal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/455.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Porto canal </link>
 </item>
 <item>
-<title>SPORTV 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/200.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 5 HD </link>
+<title>PT: RTP InformaÃ§Ã£o</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/456.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP InformaÃ§Ã£o </link>
 </item>
 <item>
-<title>SPORTV 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/686.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 5 </link>
+<title>PT: TV Globo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/463.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo </link>
 </item>
 <item>
-<title>A BOLA TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/199.ts&amp;streamtype=TSDOWNLOADER&amp;name=A BOLA TV </link>
+<title>PT: TV Globo Premium</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/460.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo Premium </link>
 </item>
 <item>
-<title>BTV 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/245.ts&amp;streamtype=TSDOWNLOADER&amp;name=BTV 1 HD </link>
+<title>PT: CMTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/467.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CMTV </link>
 </item>
 <item>
-<title>BTV 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/288.ts&amp;streamtype=TSDOWNLOADER&amp;name=BTV 1 </link>
+<title>PT: Nickelodeon</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/473.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nickelodeon </link>
 </item>
 <item>
-<title>SPORTING TV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/203.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING TV HD </link>
+<title>PT: Disney Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/465.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel </link>
 </item>
 <item>
-<title>REAL MADRID TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/854.ts&amp;streamtype=TSDOWNLOADER&amp;name=REAL MADRID TV </link>
+<title>PT: Disney JR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/464.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney JR </link>
 </item>
 <item>
-<title>BARCA TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/863.ts&amp;streamtype=TSDOWNLOADER&amp;name=BARCA TV </link>
+<title>PT: Cartoon NetWork</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/406.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cartoon NetWork </link>
 </item>
 <item>
-<title>EUROSPORT HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/207.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT HD </link>
+<title>PT: Canal Panda</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/407.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Panda </link>
 </item>
 <item>
-<title>EUROSPORT 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/227.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 </link>
+<title>PT: Nat Geo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/461.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nat Geo </link>
 </item>
 <item>
-<title>EUROSPORT 2 XTRA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/899.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 XTRA </link>
+<title>PT: Nat Geographic wild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/462.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nat Geographic wild </link>
 </item>
 <item>
-<title>EUROSPORT NEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/786.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT NEWS </link>
+<title>PT: Discovery</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/466.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery </link>
 </item>
 <item>
-<title>PFC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/228.ts&amp;streamtype=TSDOWNLOADER&amp;name=PFC </link>
+<title>PT: TVI Reality (A Quinta)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/459.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI Reality (A Quinta) </link>
 </item>
 <item>
-<title>MOTORS TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/214.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORS TV </link>
+<title>PT: Economico TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/409.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Economico TV </link>
 </item>
 <item>
-<title>MOTORVISION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/206.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORVISION </link>
+<title>PT: CBS Reality</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/410.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CBS Reality </link>
 </item>
 <item>
-<title>MCS EXTREME</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/1396.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS EXTREME </link>
+<title>PT: A&E</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/411.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A&E </link>
 </item>
-<item>
-<title>FUEL TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/276.ts&amp;streamtype=TSDOWNLOADER&amp;name=FUEL TV </link>
-</item>
-<item>
-<title>FIGHT NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/705.ts&amp;streamtype=TSDOWNLOADER&amp;name=FIGHT NETWORK </link>
-</item>
-<item>
-<title>KOMBAT SPORT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/900.ts&amp;streamtype=TSDOWNLOADER&amp;name=KOMBAT SPORT </link>
-</item>
-<item>
-<title>CACAVISION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/216.ts&amp;streamtype=TSDOWNLOADER&amp;name=CACAVISION </link>
-</item>
-<item>
-<title>CAÇA E PESCA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/208.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAÇA E PESCA </link>
-</item>
-<item>
-<title>OUTDOOR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/784.ts&amp;streamtype=TSDOWNLOADER&amp;name=OUTDOOR </link>
-</item>
-<item>
-<title>TOROS TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/278.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS TV </link>
-</item>
-<item>
-<title>DOG TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/706.ts&amp;streamtype=TSDOWNLOADER&amp;name=DOG TV </link>
-</item>
-<item>
-<title>TVCINE 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/229.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 1 HD </link>
-</item>
-<item>
-<title>TVCINE 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/230.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 2 HD </link>
-</item>
-<item>
-<title>TVCINE 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/231.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 3 HD </link>
-</item>
-<item>
-<title>TVCINE 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/232.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 4 HD </link>
-</item>
-<item>
-<title>HOLLYWOOD HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/234.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD HD </link>
-</item>
-<item>
-<title>AMC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/522.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC </link>
-</item>
-<item>
-<title>FOX MOVIES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/513.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES </link>
-</item>
-<item>
-<title>CINEMUNDO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/523.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO </link>
-</item>
-<item>
-<title>MOV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/521.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOV HD </link>
-</item>
-<item>
-<title>SUNDANCE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/780.ts&amp;streamtype=TSDOWNLOADER&amp;name=SUNDANCE </link>
-</item>
-<item>
-<title>SYFY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/182.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY </link>
-</item>
-<item>
-<title>AXN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/217.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD </link>
-</item>
-<item>
-<title>AXN WHITE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/237.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE HD </link>
-</item>
-<item>
-<title>AXN BLACK HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/238.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN BLACK HD </link>
-</item>
-<item>
-<title>FOX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/215.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD </link>
-</item>
-<item>
-<title>FOX LIFE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/235.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE HD </link>
-</item>
-<item>
-<title>FOX CRIME HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/236.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX CRIME HD </link>
-</item>
-<item>
-<title>FOX COMEDY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/693.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY </link>
-</item>
-<item>
-<title>CRIME   INVESTIGATION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/1398.ts&amp;streamtype=TSDOWNLOADER&amp;name=CRIME   INVESTIGATION </link>
-</item>
-<item>
-<title>TV SERIES HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/233.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV SERIES HD </link>
-</item>
-<item>
-<title>E! ENTERTAINMENT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/239.ts&amp;streamtype=TSDOWNLOADER&amp;name=E! ENTERTAINMENT </link>
-</item>
-<item>
-<title>CBS REALITY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/517.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS REALITY </link>
-</item>
-<item>
-<title>MCS LIFESTYLE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/790.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS LIFESTYLE </link>
-</item>
-<item>
-<title>NAT. GEOGRAPHIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/211.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT. GEOGRAPHIC </link>
-</item>
-<item>
-<title>NAT GEO WILD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/242.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD </link>
-</item>
-<item>
-<title>DISCOVERY CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/180.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL </link>
-</item>
-<item>
-<title>DISCOVERY SHOWCASE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/514.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SHOWCASE </link>
-</item>
-<item>
-<title>TLC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/240.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC </link>
-</item>
-<item>
-<title>A & E</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/284.ts&amp;streamtype=TSDOWNLOADER&amp;name=A & E </link>
-</item>
-<item>
-<title>ODISSEIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=ODISSEIA </link>
-</item>
-<item>
-<title>CANAL HISTORIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/516.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL HISTORIA </link>
-</item>
-<item>
-<title>24 KITCHEN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/241.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 KITCHEN </link>
-</item>
-<item>
-<title>FOOD NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/695.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOOD NETWORK </link>
-</item>
-<item>
-<title>TRAVEL CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/509.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRAVEL CHANNEL </link>
-</item>
-<item>
-<title>FASHION TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/696.ts&amp;streamtype=TSDOWNLOADER&amp;name=FASHION TV </link>
-</item>
-<item>
-<title>LUXE TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/783.ts&amp;streamtype=TSDOWNLOADER&amp;name=LUXE TV </link>
-</item>
-<item>
-<title>FINE LIVING HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/870.ts&amp;streamtype=TSDOWNLOADER&amp;name=FINE LIVING HD </link>
-</item>
-<item>
-<title>ZEE TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/867.ts&amp;streamtype=TSDOWNLOADER&amp;name=ZEE TV </link>
-</item>
-<item>
-<title>MAX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/869.ts&amp;streamtype=TSDOWNLOADER&amp;name=MAX </link>
-</item>
-<item>
-<title>ETV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/707.ts&amp;streamtype=TSDOWNLOADER&amp;name=ETV HD </link>
-</item>
-<item>
-<title>TRACE URBAN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/868.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRACE URBAN HD </link>
-</item>
-<item>
-<title>MTV PORTUGAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/692.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV PORTUGAL </link>
-</item>
-<item>
-<title>MTV ROCKS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/918.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV ROCKS </link>
-</item>
-<item>
-<title>MTV MUSIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/919.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV MUSIC </link>
-</item>
-<item>
-<title>MTV DANCE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/920.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV DANCE </link>
-</item>
-<item>
-<title>MCM POP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/788.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCM POP </link>
-</item>
-<item>
-<title>TRACE TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/787.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRACE TV </link>
-</item>
-<item>
-<title>VH1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 </link>
-</item>
-<item>
-<title>VH1 CLASSIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/1036.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 CLASSIC </link>
-</item>
-<item>
-<title>C-MUSIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/865.ts&amp;streamtype=TSDOWNLOADER&amp;name=C-MUSIC </link>
-</item>
-<item>
-<title>iCONCERTS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/704.ts&amp;streamtype=TSDOWNLOADER&amp;name=iCONCERTS </link>
-</item>
-<item>
-<title>AFRO TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/515.ts&amp;streamtype=TSDOWNLOADER&amp;name=AFRO TV </link>
-</item>
-<item>
-<title>MEZZO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/781.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEZZO </link>
-</item>
-<item>
-<title>DISNEY CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/282.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL </link>
-</item>
-<item>
-<title>DISNEY JUNIOR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/243.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR </link>
-</item>
-<item>
-<title>CARTOON NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/519.ts&amp;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK </link>
-</item>
-<item>
-<title>CANAL PANDA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/283.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA </link>
-</item>
-<item>
-<title>PANDA BIGGS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/279.ts&amp;streamtype=TSDOWNLOADER&amp;name=PANDA BIGGS </link>
-</item>
-<item>
-<title>JIM JAM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/281.ts&amp;streamtype=TSDOWNLOADER&amp;name=JIM JAM </link>
-</item>
-<item>
-<title>NICKELODEON</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/205.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON </link>
-</item>
-<item>
-<title>SIC K</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/188.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC K </link>
-</item>
-<item>
-<title>BABY TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/187.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV </link>
-</item>
-<item>
-<title>LOCALVISAO HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/855.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCALVISAO HD </link>
-</item>
-<item>
-<title>REGIOES TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/898.ts&amp;streamtype=TSDOWNLOADER&amp;name=REGIOES TV </link>
-</item>
-<item>
-<title>SANTUARIO FATIMA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/225.ts&amp;streamtype=TSDOWNLOADER&amp;name=SANTUARIO FATIMA </link>
-</item>
-<item>
-<title>TPA INTERNACIONAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/699.ts&amp;streamtype=TSDOWNLOADER&amp;name=TPA INTERNACIONAL </link>
-</item>
-<item>
-<title>CANCAO NOVA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/694.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANCAO NOVA </link>
-</item>
-<item>
-<title>RECORD NEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/866.ts&amp;streamtype=TSDOWNLOADER&amp;name=RECORD NEWS </link>
-</item>
-<item>
-<title>EURONEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/857.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURONEWS </link>
-</item>
-<item>
-<title>CNN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/859.ts&amp;streamtype=TSDOWNLOADER&amp;name=CNN </link>
-</item>
-<item>
-<title>BBC WORLD NEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/862.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC WORLD NEWS </link>
-</item>
-<item>
-<title>CUBAVISION INTERNATIONAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/1397.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUBAVISION INTERNATIONAL </link>
-</item>
-<item>
-<title>TV GALICIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/1037.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV GALICIA </link>
-</item>
-<item>
-<title>FRANCE 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/785.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 24 </link>
-</item>
-<item>
-<title>TV5 MONDE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/864.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV5 MONDE </link>
-</item>
-<item>
-<title>DEUTSCHE WELLE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/858.ts&amp;streamtype=TSDOWNLOADER&amp;name=DEUTSCHE WELLE </link>
-</item>
-<item>
-<title>BLOOMBERG</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/861.ts&amp;streamtype=TSDOWNLOADER&amp;name=BLOOMBERG </link>
-</item>
-<item>
-<title>M6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/691.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6 </link>
-</item>
-<item>
-<title>XXX: SEXTREME</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/690.ts&amp;streamtype=TSDOWNLOADER&amp;name=XXX: SEXTREME </link>
-</item>
-<item>
-<title>XXX: PENTHOUSE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/510.ts&amp;streamtype=TSDOWNLOADER&amp;name=XXX: PENTHOUSE </link>
-</item>
-<item>
-<title>XXX: VENUS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/181.ts&amp;streamtype=TSDOWNLOADER&amp;name=XXX: VENUS </link>
-</item>
-<item>
-<title>XXX: PLAYBOY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/304.ts&amp;streamtype=TSDOWNLOADER&amp;name=XXX: PLAYBOY </link>
-</item>
-<item>
-<title>XXX HOT XXX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/244.ts&amp;streamtype=TSDOWNLOADER&amp;name=XXX HOT XXX </link>
-</item>
-<item>
-<title>XXX: REDLIGHT HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/853.ts&amp;streamtype=TSDOWNLOADER&amp;name=XXX: REDLIGHT HD </link>
-</item>
-<item>
-<title>XXX: HUSTLER HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/856.ts&amp;streamtype=TSDOWNLOADER&amp;name=XXX: HUSTLER HD </link>
-</item>
-<item>
-<title>XXX: SCT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/805.ts&amp;streamtype=TSDOWNLOADER&amp;name=XXX: SCT </link>
-</item>
-<item>
-<title>XXX: SESTO SENSO TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/800.ts&amp;streamtype=TSDOWNLOADER&amp;name=XXX: SESTO SENSO TV </link>
-</item>
-<item>
-<title>XXX: SCT HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/801.ts&amp;streamtype=TSDOWNLOADER&amp;name=XXX: SCT HD </link>
-</item>
-<item>
-<title>XXX: TGIRLS TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/799.ts&amp;streamtype=TSDOWNLOADER&amp;name=XXX: TGIRLS TV </link>
-</item>
-<item>
-<title>XXX: PINK O TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/802.ts&amp;streamtype=TSDOWNLOADER&amp;name=XXX: PINK O TV </link>
-</item>
-<item>
-<title>XXX: EXOTICA TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/803.ts&amp;streamtype=TSDOWNLOADER&amp;name=XXX: EXOTICA TV </link>
-</item>
-<item>
-<title>XXX: CENTOXCENTO TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/804.ts&amp;streamtype=TSDOWNLOADER&amp;name=XXX: CENTOXCENTO TV </link>
-</item>
-<item>
-<title>xXx: Hot Club 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/1328.ts&amp;streamtype=TSDOWNLOADER&amp;name=xXx: Hot Club 1 </link>
-</item>
-<item>
-<title>xXx: Hot Club 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/1327.ts&amp;streamtype=TSDOWNLOADER&amp;name=xXx: Hot Club 2 </link>
-</item>
-<item>
-<title>xXx: Hot Club 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/1326.ts&amp;streamtype=TSDOWNLOADER&amp;name=xXx: Hot Club 3 </link>
-</item>
-<item>
-<title>xXx: Hot Club 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/1325.ts&amp;streamtype=TSDOWNLOADER&amp;name=xXx: Hot Club 4 </link>
-</item>
-<item>
-<title>xXx: Hot Club 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/1324.ts&amp;streamtype=TSDOWNLOADER&amp;name=xXx: Hot Club 5 </link>
-</item>
-<item>
-<title>XXX: Hot Club 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/1323.ts&amp;streamtype=TSDOWNLOADER&amp;name=XXX: Hot Club 6 </link>
-</item>
-<item>
-<title>XXX: Hot Club 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/1322.ts&amp;streamtype=TSDOWNLOADER&amp;name=XXX: Hot Club 7 </link>
-</item>
-<item>
-<title>XXX: Hot Club 8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.ws:8000/live/pedro/pedro/1321.ts&amp;streamtype=TSDOWNLOADER&amp;name=XXX: Hot Club 8 </link>
-</item>
-
 
 
 
