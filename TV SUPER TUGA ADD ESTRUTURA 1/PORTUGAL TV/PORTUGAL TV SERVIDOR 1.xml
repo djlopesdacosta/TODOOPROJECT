@@ -48,367 +48,207 @@
 
 
 
+<item>
+<title>PT:TVCine1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8445.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCine1 </link>
+</item>
+<item>
+<title>PT:TVCine2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8446.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCine2 </link>
+</item>
+<item>
+<title>PT:TVCine3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8447.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCine3 </link>
+</item>
+<item>
+<title>PT:TVCine4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8448.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCine4 </link>
+</item>
+<item>
+<title>PT:TVCine5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8449.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCine5 </link>
+</item>
+<item>
+<title>PT:SportTV1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8425.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SportTV1 </link>
+</item>
+<item>
+<title>PT:SportTV2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8426.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SportTV2 </link>
+</item>
+<item>
+<title>PT:SportTV3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8427.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SportTV3 </link>
+</item>
+<item>
+<title>PT:SportTV4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8428.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SportTV4 </link>
+</item>
+<item>
+<title>PT:SportTV5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8429.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SportTV5 </link>
+</item>
+<item>
+<title>PT:TvReality</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8408.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TvReality </link>
+</item>
+<item>
+<title>PT:tvi/24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8438.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:tvi/24 </link>
+</item>
+<item>
+<title>PT:SYFY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8405.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SYFY </link>
+</item>
+<item>
+<title>PT:TVI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8437.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI </link>
+</item>
+<item>
+<title>PT:TVGlobo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8436.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVGlobo </link>
+</item>
+<item>
+<title>PT:TVC-series</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8439.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVC-series </link>
+</item>
+<item>
+<title>PT:SportingTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8423.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SportingTV </link>
+</item>
+<item>
+<title>PT:Sic.Kids</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8414.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sic.Kids </link>
+</item>
+<item>
+<title>PT:Sic-Radical</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8441.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sic-Radical </link>
+</item>
+<item>
+<title>PT:Sic-Mulher</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8442.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sic-Mulher </link>
+</item>
+<item>
+<title>PT:SIC-Caras</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8440.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC-Caras </link>
+</item>
+<item>
+<title>PT:RTP1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8430.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP1 </link>
+</item>
+<item>
+<title>PT:RTP2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8431.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP2 </link>
+</item>
+<item>
+<title>PT:Rtp3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8432.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Rtp3 </link>
+</item>
+<item>
+<title>PT:RTP.Memoria</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8433.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP.Memoria </link>
+</item>
+<item>
+<title>PT:RTP.Madeira</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8434.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP.Madeira </link>
+</item>
+<item>
+<title>PT:RTP.Acores</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8435.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP.Acores </link>
+</item>
+<item>
+<title>PT:Odissia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8410.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Odissia </link>
+</item>
+<item>
+<title>PT:Nickelodeon</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8415.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Nickelodeon </link>
+</item>
+<item>
+<title>PT:NatGeoWild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8411.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:NatGeoWild </link>
+</item>
+<item>
+<title>PT:JimJim</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8413.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:JimJim </link>
+</item>
+<item>
+<title>PT:FoxLifeHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8403.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FoxLifeHD </link>
+</item>
+<item>
+<title>PT:FoxHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8404.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FoxHD </link>
+</item>
+<item>
+<title>PT:Fox-Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8401.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Fox-Movies </link>
+</item>
+<item>
+<title>PT:Fox-Crime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8400.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Fox-Crime </link>
+</item>
+<item>
+<title>PT:Fox-Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8402.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Fox-Comedy </link>
+</item>
+<item>
+<title>PT:EuroSport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8421.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:EuroSport </link>
+</item>
+<item>
+<title>PT:Disney-Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8419.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Disney-Junior </link>
+</item>
+<item>
+<title>PT:Disney-Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8420.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Disney-Channel </link>
+</item>
+<item>
+<title>PT:Discovery-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8412.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Discovery-HD </link>
+</item>
+<item>
+<title>PT:CMTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8444.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CMTV </link>
+</item>
+<item>
+<title>PT:CineMundo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8399.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CineMundo </link>
+</item>
+<item>
+<title>PT:CbsReality</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8409.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CbsReality </link>
+</item>
+<item>
+<title>PT:CartoonNetwork</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8416.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CartoonNetwork </link>
+</item>
+<item>
+<title>PT:CanalPanda</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8418.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CanalPanda </link>
+</item>
+<item>
+<title>PT:Canal-Porto</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8422.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Canal-Porto </link>
+</item>
+<item>
+<title>PT:Benfica1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8424.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Benfica1 </link>
+</item>
+<item>
+<title>PT:baby.tv</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8417.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:baby.tv </link>
+</item>
+<item>
+<title>PT:AXN-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8406.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AXN-HD </link>
+</item>
+<item>
+<title>PT:24Kitchen</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/dada/dada/8407.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:24Kitchen </link>
+</item>
 
-<item>
-<title>RTP Internacional</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2063.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP Internacional </link>
-</item>
-<item>
-<title>PT_Euronews</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2068.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Euronews </link>
-</item>
-<item>
-<title>PT_CMTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1619.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CMTV </link>
-</item>
-<item>
-<title>PT_RTP_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1512.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_1 </link>
-</item>
-<item>
-<title>PT_RTP_2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1513.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_2 </link>
-</item>
-<item>
-<title>PT_RTP_3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1514.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_3 </link>
-</item>
-<item>
-<title>PT_RTP_ÁFRICA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1519.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_ÁFRICA </link>
-</item>
-<item>
-<title>PT_RTP_MADEIRA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1857.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_MADEIRA </link>
-</item>
-<item>
-<title>RTP Acores</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2062.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP Acores </link>
-</item>
-<item>
-<title>PT_Hollywood</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2085.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Hollywood </link>
-</item>
-<item>
-<title>PT_Canal_Q</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2066.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Canal_Q </link>
-</item>
-<item>
-<title>PT_Fox_Crime</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/879.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Fox_Crime </link>
-</item>
-<item>
-<title>PT_SIC_Local</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1953.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_Local </link>
-</item>
-<item>
-<title>PT_SIC_Noticias_Local</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/275.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_Noticias_Local </link>
-</item>
-<item>
-<title>PT_SIC_MULHER</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1520.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_MULHER </link>
-</item>
-<item>
-<title>PT_SIC_CARAS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1521.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_CARAS </link>
-</item>
-<item>
-<title>PT_SIC_Radical</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/733.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_Radical </link>
-</item>
-<item>
-<title>PT_Fox HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/740.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Fox HD </link>
-</item>
-<item>
-<title>PT_Odisseia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1859.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Odisseia </link>
-</item>
-<item>
-<title>PT_TVI_24_local</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/265.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI_24_local </link>
-</item>
-<item>
-<title>PT_TVI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/266.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI </link>
-</item>
-<item>
-<title>PT_TVCine_1_Local</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/267.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCine_1_Local </link>
-</item>
-<item>
-<title>PT_TVCine_2_Local</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/268.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCine_2_Local </link>
-</item>
-<item>
-<title>PT_TVCine_3_Local</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/269.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCine_3_Local </link>
-</item>
-<item>
-<title>PT_TVCine_4_Local</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/270.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCine_4_Local </link>
-</item>
-<item>
-<title>PT_TV_SERIES_Local</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_SERIES_Local </link>
-</item>
-<item>
-<title>PT_TV_Record_Local</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/273.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_Record_Local </link>
-</item>
-<item>
-<title>PT_TV_Globo_Local</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/274.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_Globo_Local </link>
-</item>
-<item>
-<title>PT_Toros_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/278.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Toros_TV </link>
-</item>
-<item>
-<title>PT_SYFY_Local</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/279.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SYFY_Local </link>
-</item>
-<item>
-<title>PT_MOV_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/272.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_MOV_HD </link>
-</item>
-<item>
-<title>PT_AXN_White_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/289.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN_White_HD </link>
-</item>
-<item>
-<title>PT_AXN_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/288.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN_HD </link>
-</item>
-<item>
-<title>PT_AXN_Black_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/290.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN_Black_HD </link>
-</item>
-<item>
-<title>PT_Porto_Canal</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1515.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Porto_Canal </link>
-</item>
-<item>
-<title>PT_FOX_COMEDY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1517.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FOX_COMEDY </link>
-</item>
-<item>
-<title>PT_Sport_TV+</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2071.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Sport_TV+ </link>
-</item>
-<item>
-<title>PT_SportTV_1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SportTV_1_HD </link>
-</item>
-<item>
-<title>PT_SportTV_2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/281.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SportTV_2_HD </link>
-</item>
-<item>
-<title>PT_SportTV_3_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/282.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SportTV_3_HD </link>
-</item>
-<item>
-<title>PT_SportTV_4_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/283.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SportTV_4_HD </link>
-</item>
-<item>
-<title>PT_SportTV_5_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/284.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SportTV_5_HD </link>
-</item>
-<item>
-<title>PT_Benfica_TV_1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/286.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Benfica_TV_1_HD </link>
-</item>
-<item>
-<title>PT_Benfica_TV_2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/287.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Benfica_TV_2_HD </link>
-</item>
-<item>
-<title>PT_Eurosport_2_Xtra</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2076.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Eurosport_2_Xtra </link>
-</item>
-<item>
-<title>PT_Eurosport_News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2075.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Eurosport_News </link>
-</item>
-<item>
-<title>PT_Sporting_TV_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/285.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Sporting_TV_HD </link>
-</item>
-<item>
-<title>PT_EUROSPORT_1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/276.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_EUROSPORT_1_HD </link>
-</item>
-<item>
-<title>PT_EUROSPORT_2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_EUROSPORT_2_HD </link>
-</item>
-<item>
-<title>PT_NBA_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2072.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_NBA_HD </link>
-</item>
-<item>
-<title>PT_Fight_Network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2079.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Fight_Network </link>
-</item>
-<item>
-<title>PT_Motors_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2073.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Motors_TV </link>
-</item>
-<item>
-<title>PT_Kombat_Sports</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2078.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Kombat_Sports </link>
-</item>
-<item>
-<title>PT_TLC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2091.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TLC </link>
-</item>
-<item>
-<title>PT_A_Bola_TV_Local</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2080.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_A_Bola_TV_Local </link>
-</item>
-<item>
-<title>PT_Fuel_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2077.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Fuel_TV </link>
-</item>
-<item>
-<title>PT_Cançao_Nova</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2074.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Cançao_Nova </link>
-</item>
-<item>
-<title>PT_Caçavision</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2092.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Caçavision </link>
-</item>
-<item>
-<title>PT_Caça_e_Pesca</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2082.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Caça_e_Pesca </link>
-</item>
-<item>
-<title>PT_Bloomberg</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2070.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Bloomberg </link>
-</item>
-<item>
-<title>PT_ARTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2069.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_ARTV </link>
-</item>
-<item>
-<title>PT_AMC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2088.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AMC </link>
-</item>
-<item>
-<title>PT_AandE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2095.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AandE </link>
-</item>
-<item>
-<title>PT_Economico_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2067.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Economico_TV </link>
-</item>
-<item>
-<title>PT_TVI REALITY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/731.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI REALITY </link>
-</item>
-<item>
-<title>PT_VEVO_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1259.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_VEVO_HD </link>
-</item>
-<item>
-<title>PT_VEVO_3_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1257.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_VEVO_3_HD </link>
-</item>
-<item>
-<title>PT_VEVO_2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1258.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_VEVO_2_HD </link>
-</item>
-<item>
-<title>PT_Panda_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2097.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Panda_HD </link>
-</item>
-<item>
-<title>PT_NICKELODEON</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2099.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_NICKELODEON </link>
-</item>
-<item>
-<title>PT_Baby_TV_Local</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2398.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Baby_TV_Local </link>
-</item>
-<item>
-<title>PT_JimJam</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2096.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_JimJam </link>
-</item>
-<item>
-<title>PT_PANDA_BIGGS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1858.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_PANDA_BIGGS </link>
-</item>
-<item>
-<title>PT_Disney junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/742.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Disney junior </link>
-</item>
-<item>
-<title>PT_Trace_Urban_Local</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2395.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Trace_Urban_Local </link>
-</item>
-<item>
-<title>PT_CARTOON_NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1518.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CARTOON_NETWORK </link>
-</item>
-<item>
-<title>PT_SIC KIDS_Local</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/736.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC KIDS_Local </link>
-</item>
-<item>
-<title>PT_Niclelodeon</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1516.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Niclelodeon </link>
-</item>
-<item>
-<title>PT_National_Geographic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2089.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_National_Geographic </link>
-</item>
-<item>
-<title>PT_Motorvision_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2081.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Motorvision_HD </link>
-</item>
-<item>
-<title>PT_CBS_Reality</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2094.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CBS_Reality </link>
-</item>
-<item>
-<title>PT_Discovery_Showcase</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2090.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Discovery_Showcase </link>
-</item>
-<item>
-<title>PT_Record_News_Local</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2389.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Record_News_Local </link>
-</item>
-<item>
-<title>PT_Poker_Central</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2083.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Poker_Central </link>
-</item>
-<item>
-<title>PT_NatGeo_Wild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/738.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_NatGeo_Wild </link>
-</item>
-<item>
-<title>PT_DISCOVERY_CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/743.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_DISCOVERY_CHANNEL </link>
-</item>
-<item>
-<title>PT_RTP_Memoria</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/1856.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_Memoria </link>
-</item>
-<item>
-<title>PT_Travel_Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2093.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Travel_Channel </link>
-</item>
-<item>
-<title>PT_MTV_Local</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2396.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_MTV_Local </link>
-</item>
-<item>
-<title>PT_C-Music_Local</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv-fan-sat.hopto.org:25461/live/maxime/maxime/2397.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_C-Music_Local </link>
-</item>
 
   
 
