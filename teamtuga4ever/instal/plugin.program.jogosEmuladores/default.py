@@ -22,7 +22,7 @@ import backuprestore
 import socket
 import json
 
-AddonTitle="[COLOR cyan]Project X[/COLOR] [COLOR lightsteelblue]Wizard[/COLOR]"
+AddonTitle="[COLOR cyan]Jogos e[/COLOR] [COLOR lightsteelblue]Emuladores[/COLOR]"
 AddonData = xbmc.translatePath('special://userdata/addon_data')
 addon_id = 'plugin.program.jogosEmuladores'
 ADDON = xbmcaddon.Addon(id=addon_id)
@@ -47,7 +47,7 @@ if xbmc.getCondVisibility('system.platform.ios') or xbmc.getCondVisibility('syst
 	BetaVIP = ""
 	BetaKeys = ""
 	SpeedTest = ""
-	AdvancedSettings = "http://projectxwizard.site88.net/jogos/jogosEmuladores.xml"
+	AdvancedSettings = "http://projectxwizard.net16.net/jogos/jogosEmuladores.xml"
 	JarvisOne = ""
 	JarvisTwo = ""
 	KryptonOne = ""
@@ -70,7 +70,7 @@ else:
 	BetaVIP = ""
 	BetaKeys = ""
 	SpeedTest = ""
-	AdvancedSettings = "http://projectxwizard.site88.net/jogos/jogosEmuladores.xml"
+	AdvancedSettings = "http://projectxwizard.net16.net/jogos/jogosEmuladores.xml"
 	JarvisOne = ""
 	JarvisTwo = ""
 	KryptonOne = ""

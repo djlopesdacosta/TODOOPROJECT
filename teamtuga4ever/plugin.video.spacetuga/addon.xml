@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.spacetuga"
        name="Space Tuga"
-       version="1.0.0"
+       version="1.0.1"
        provider-name="katuga">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -24,8 +24,8 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">addon de Filmes, Séries, Rádios, Televisão, etc..</summary>
-    <description lang="en">No addon SpaceTuga podes ver Filmes, Séries, Televisão, Rádios, Play Listas de Músicas da Vevo e YouTube!</description>
+    <summary lang="en">Addon de Filmes, Series, Radios, Televisao, etc..</summary>
+    <description lang="en">No addon Space Tuga podes ver Filmes, Series, Televisao, Radios, Play Listas de Musicas da Vevo e YouTube!</description>
     <platform>all</platform>
   </extension>
 </addon>

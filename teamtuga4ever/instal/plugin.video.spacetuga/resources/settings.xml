@@ -1,26 +1,35 @@
 ﻿<settings>
-  <category label="General">
-    <setting id="save_location" type="folder"  label="Select a download location." default=""/>
-    <setting id="use_thumb" type="bool" label="Use Thumbnails as Fanart" default="false" />
-    <setting id="logo-folderPath" type="folder"  label="Select Directory for logo." default=""/>
-    <setting id="add_playlist" type="bool" label="Add items with multiple links as play lists" default="false"/>
-    <setting id="ask_playlist_items" type="bool" label="Ask playlist items to choose from dialog" default="false" />
-    <setting id="debug" type="bool" label="Enable Add-on Debugging" default="false"/>
-    <setting id="1080pquality" label="Play 1080p video ON demand if available (Not live)" type="bool" default=""/>
-    <setting id="genesisorpulsar" type="enum" values="Genesis|Pulsar" label="Play IMDBid with:" default="Genesis"/>
-    <setting id="donotshowbychannels" label="Do Not show items under channel name" type="bool" default="false"/>
-    
-    <setting id="parentalblockedpin" label="Parental Block Pin" type="text"  option="hidden"  default=""/>
-    <setting id="parentalblocked" label="Is Parental Blocked Applied?" type="bool" default="false" enable="false"/>
+ <category label="General">
+    <setting id="save_location" type="folder"  label="Selecione um local de download." default=""/>
+    <setting id="use_thumb" type="bool" label="Use Miniaturas como Fanart" default="true" />
+    <setting id="logo-folderPath" type="folder"  label="Selecione Directório para logo." default=""/>
+    <setting id="add_playlist" type="bool" label="Adicione itens com vários links como playlists" default="true"/>
+    <setting id="ask_playlist_items" type="bool" label="Peça itens da lista de reprodução para escolher de diálogo" default="true" />
+    <setting id="debug" type="bool" label="Ativar Add-on Depuração" default="true"/>
+    <setting id="1080pquality" label="Play 1080p video ON demand se disponível (não ao vivo)" type="bool" default=""/>
+    <setting id="genesisorpulsar" type="enum" values="Genesis|Pulsar" label="Play IMDBid com:" default="Genesis"/>
+    <setting id="donotshowbychannels" label="Não mostrar itens em nome do canal" type="bool" default="true"/>
+	<setting id="searchotherplugins" label="Procurar Outros Plugins" type="bool" default="false"/>
     
   </category>
-  
-  <category label=".xml Database">
-    <setting id="browse_xml_database" type="bool" label="Browse and play from .xml Database" default="false"/>
-    <setting type="action" label="Add .xml Database Sources" option="close" action="Container.Update(plugin://plugin.video.spacetuga/?mode=14)" />
-  </category>
-  <category label="Community Files">
-    <setting id="browse_community" type="bool" label="Browse and play from Community Files" default="false"/>
-    <setting type="action" label="Add Community File URL as Source" option="close" action="Container.Update(plugin://plugin.video.spacetuga/?mode=10)" />
-  </category>
+   <category label="Bloqueio de conteúdo adulto">
+    	<setting id="parentalblockedpin" label="Parental Código" type="text"  option="hidden"  default="1234"/> 
+    <setting id="parentalblocked" label="Controlo Parental Bloqueio Aplicado?" type="bool" default="true" enable="true"/>
+    </category>
+
+	
+	<category label="Termos e Condições" >
+     	<setting lable="T*C" type="text" label="Nossos Termos:" default="Por favor, seja paciente se um canal ou filme não carregar no único clique. Tente várias vezes. Devido à pesada carga sobre a disponibilidade dos canais servidores podem ser sobrelotado."  />
+   	 <setting id="Terms" type="bool" label="Concordo com os Termos?" default="true" />
+	 	<setting type="lsep" label="2" />
+	 
+   	 	
+    </category>
+	
+	
+	
+	
+	
+	
+	
 </settings>
