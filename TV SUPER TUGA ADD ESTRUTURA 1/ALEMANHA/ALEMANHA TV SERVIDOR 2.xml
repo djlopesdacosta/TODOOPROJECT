@@ -25,7 +25,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 03-10-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 04-10-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
@@ -35,433 +35,556 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <item>
-<title>DE: Sky Sports 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/213.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sports 1 HD </link>
+<title>DE: DAS ERSTE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2406.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: DAS ERSTE HD </link>
 </item>
 <item>
-<title>DE: Sky Sports 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/214.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sports 2 HD </link>
+<title>DE: ZDF HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1869.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF HD </link>
 </item>
 <item>
-<title>DE: Sky Bundesliga 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/215.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 1 </link>
+<title>DE: ARD HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2409.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ARD HD </link>
 </item>
 <item>
-<title>DE: Sky Bundesliga 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1239.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 2 </link>
+<title>DE: HR HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/4204.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: HR HD </link>
 </item>
 <item>
-<title>DE: Sky Bundesliga 3 (offline when no match)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1240.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 3 (offline when no match) </link>
+<title>DE: NDR HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2397.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NDR HD </link>
 </item>
 <item>
-<title>DE: Sky Bundesliga 4 (offline when no match)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1241.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 4 (offline when no match) </link>
-</item>
-<item>
-<title>DE: Sky Bundesliga 5 (offline when no match)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1242.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 5 (offline when no match) </link>
-</item>
-<item>
-<title>DE: Sky Bundesliga 6 (offline when no match)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1243.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 6 (offline when no match) </link>
-</item>
-<item>
-<title>DE: Sky Bundesliga 7 (offline when no match)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1244.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 7 (offline when no match) </link>
-</item>
-<item>
-<title>DE: ORF SPORT+</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/218.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF SPORT+ </link>
-</item>
-<item>
-<title>DE: Spiegel Geschichte HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/216.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Spiegel Geschichte HD </link>
-</item>
-<item>
-<title>DE: Sports1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/217.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sports1 HD </link>
-</item>
-<item>
-<title>DE: Sport 1 + HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/268.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sport 1 + HD </link>
-</item>
-<item>
-<title>DE: Sports1 US HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/269.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sports1 US HD </link>
-</item>
-<item>
-<title>DE: Sky Sports News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/270.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sports News </link>
-</item>
-<item>
-<title>DE: Sky Cinema</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/221.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema </link>
-</item>
-<item>
-<title>DE: Sky Cinema +1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/222.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema +1 </link>
-</item>
-<item>
-<title>DE: Sky Cinema  24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/223.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema  24 </link>
-</item>
-<item>
-<title>DE: Sky Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/224.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Action </link>
-</item>
-<item>
-<title>DE: Sky Comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/225.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Comedy </link>
-</item>
-<item>
-<title>DE: Sky Emotion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/226.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Emotion </link>
-</item>
-<item>
-<title>DE: Sky Hits</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/227.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Hits </link>
-</item>
-<item>
-<title>DE: Sky Atlantic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/228.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Atlantic </link>
-</item>
-<item>
-<title>DE: Sky Nostalgie</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/229.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Nostalgie </link>
-</item>
-<item>
-<title>DE: Sky Krimi</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/220.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Krimi </link>
-</item>
-<item>
-<title>DE: SKY CINEMA 3D</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY CINEMA 3D </link>
-</item>
-<item>
-<title>DE: TNT Serie</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1112.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Serie </link>
-</item>
-<item>
-<title>DE: TNT Film</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1113.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Film </link>
-</item>
-<item>
-<title>DE: AXN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1114.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: AXN </link>
-</item>
-<item>
-<title>DE: MGM HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1115.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: MGM HD </link>
-</item>
-<item>
-<title>DE: SYFY hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1116.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SYFY hd </link>
-</item>
-<item>
-<title>DE: FOX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1109.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: FOX HD </link>
-</item>
-<item>
-<title>DE: Sixx</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/250.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sixx </link>
-</item>
-<item>
-<title>DE: Dmax</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/248.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Dmax </link>
-</item>
-<item>
-<title>DE: RTL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/231.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL </link>
-</item>
-<item>
-<title>DE: RTL2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/232.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL2 </link>
-</item>
-<item>
-<title>DE: Super RTL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/233.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Super RTL </link>
-</item>
-<item>
-<title>DE: RTLNitro</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/234.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTLNitro </link>
-</item>
-<item>
-<title>DE: VOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/230.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VOX </link>
-</item>
-<item>
-<title>DE: ARD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/244.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ARD </link>
-</item>
-<item>
-<title>DE: ZDF</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/238.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF </link>
-</item>
-<item>
-<title>DE: Zdf Kultur</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/272.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Zdf Kultur </link>
-</item>
-<item>
-<title>DE: ZDF Info</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/239.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF Info </link>
-</item>
-<item>
-<title>DE: ORF1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/235.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF1 </link>
-</item>
-<item>
-<title>DE: ORF2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/236.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF2 </link>
+<title>DE: WDR HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2393.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: WDR HD </link>
 </item>
 <item>
 <title>DE: ARTE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/240.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ARTE </link>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2408.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ARTE </link>
 </item>
 <item>
-<title>DE: Pro7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/241.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Pro7 </link>
+<title>DE: HR Fernsehen</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/3918.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: HR Fernsehen </link>
 </item>
 <item>
-<title>DE: Sat1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/242.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sat1 </link>
+<title>DE: Schau TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/3921.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Schau TV </link>
 </item>
 <item>
-<title>DE: 3sat</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/243.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 3sat </link>
+<title>DE: SWR HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2783.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SWR HD </link>
 </item>
 <item>
-<title>DE: MDR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/245.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: MDR </link>
+<title>De: Baden TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/4203.ts&amp;streamtype=TSDOWNLOADER&amp;name=De: Baden TV </link>
 </item>
 <item>
-<title>DE: NDR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/246.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NDR </link>
+<title>DE: JOIZ</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/4206.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: JOIZ </link>
 </item>
 <item>
-<title>DE: WDR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/247.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: WDR </link>
+<title>DE: TECTIME TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/4205.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TECTIME TV </link>
+</item>
+
+<item>
+<title>DE: SAT 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2788.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SAT 1 HD </link>
 </item>
 <item>
-<title>DE: SWR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SWR </link>
+<title>DE: Sat 1 Gold</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/4091.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sat 1 Gold </link>
 </item>
 <item>
-<title>DE: Kabel1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/249.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kabel1 HD </link>
+<title>DE: RTL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2379.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL HD </link>
 </item>
 <item>
-<title>DE: BR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/252.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: BR </link>
+<title>DE: RTL 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1865.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL 2 HD </link>
 </item>
 <item>
-<title>DE: NTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/253.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NTV </link>
+<title>DE: Rtl Nitro</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2378.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Rtl Nitro </link>
 </item>
 <item>
-<title>DE: Phoenix</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/254.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Phoenix </link>
+<title>DE: RTL Crime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/3488.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Crime </link>
 </item>
 <item>
-<title>DE: Viva</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/255.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Viva </link>
+<title>DE: SUPER RTL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1867.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SUPER RTL </link>
 </item>
 <item>
-<title>DE: RBB</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/256.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RBB </link>
+<title>DE: RTL LIVING HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2774.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL LIVING HD </link>
 </item>
 <item>
-<title>DE: Servus TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/258.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Servus TV </link>
+<title>DE: RTL_PASSION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2777.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL_PASSION </link>
 </item>
 <item>
-<title>DE: Welt Der Wunder</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/259.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Welt Der Wunder </link>
+<title>DE: PRO MAX 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1866.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: PRO MAX 7 </link>
 </item>
 <item>
-<title>DE: 13th Street</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/261.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 13th Street </link>
+<title>DE: Kinowelt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/3923.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kinowelt </link>
 </item>
 <item>
-<title>DE: Pro 7 Maxx HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/274.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Pro 7 Maxx HD </link>
+<title>DE: SIXX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2380.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SIXX HD </link>
 </item>
 <item>
-<title>DE: ALEX-BERLIN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1118.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ALEX-BERLIN </link>
+<title>DE: SAT 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2775.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SAT 3 HD </link>
 </item>
 <item>
-<title>DE: Munchen TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/251.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Munchen TV </link>
+<title>DE: KIKA HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2400.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: KIKA HD </link>
 </item>
 <item>
-<title>DE: Franken</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1119.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Franken </link>
+<title>DE: PRO 7 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2396.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: PRO 7 HD </link>
 </item>
 <item>
-<title>DE: HALLE TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1120.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: HALLE TV </link>
+<title>DE: SONY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2820.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SONY HD </link>
 </item>
 <item>
-<title>DE: Joiz</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1121.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Joiz </link>
+<title>DE: KABEL 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2402.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: KABEL 1 HD </link>
 </item>
 <item>
-<title>DE: RTL Passion HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1122.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Passion HD </link>
+<title>DE: ProSieben Max</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2390.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ProSieben Max </link>
 </item>
 <item>
-<title>DE: Family TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1123.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Family TV </link>
+<title>DE: RIC KINDER KANAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2394.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RIC KINDER KANAL </link>
 </item>
 <item>
-<title>DE: ELBEKANAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1125.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ELBEKANAL </link>
+<title>DE: PRO 7 MAXX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2395.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: PRO 7 MAXX </link>
 </item>
 <item>
-<title>DE: Dresden Fernsehen</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1126.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Dresden Fernsehen </link>
+<title>DE: VOX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1874.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VOX HD </link>
 </item>
 <item>
-<title>DE: Light Channel TV Deutschland</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1127.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Light Channel TV Deutschland </link>
-</item>
-<item>
-<title>DE: RBW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1128.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RBW </link>
-</item>
-<item>
-<title>DE: SONNENKLAR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1129.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SONNENKLAR </link>
-</item>
-<item>
-<title>DE: OK Wernigerode</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1130.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: OK Wernigerode </link>
-</item>
-<item>
-<title>DE: OK Stendal</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1131.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: OK Stendal </link>
-</item>
-<item>
-<title>DE: OK SALZWEDEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1132.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: OK SALZWEDEL </link>
-</item>
-<item>
-<title>DE: OK MAGDEBURG</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1133.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: OK MAGDEBURG </link>
-</item>
-<item>
-<title>DE: OK Dessau</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1134.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: OK Dessau </link>
-</item>
-<item>
-<title>DE: Anixe HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1117.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Anixe HD </link>
+<title>DE: N24 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2398.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: N24 HD </link>
 </item>
 <item>
 <title>DE: KIKA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/257.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: KIKA </link>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2391.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: KIKA </link>
 </item>
 <item>
-<title>DE: Disney Cinemagic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1110.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Cinemagic </link>
+<title>DE: ANIMAX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/4208.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ANIMAX </link>
 </item>
 <item>
-<title>DE: Disney Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1111.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Channel </link>
+<title>DE: PROSIEBEN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/4207.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: PROSIEBEN </link>
+</item>
+
+<item>
+<title>------- Sky Kino -------</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/4196.ts&amp;streamtype=TSDOWNLOADER&amp;name=------- Sky Kino ------- </link>
 </item>
 <item>
-<title>DE: Nick</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/262.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Nick </link>
+<title>DE: Sky Germany Cinema  1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/984.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Cinema  1 </link>
 </item>
 <item>
-<title>DE: Nick JR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/266.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Nick JR </link>
+<title>DE: Sky Germany Cinema  24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/982.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Cinema  24 </link>
 </item>
 <item>
-<title>DE: Sky National Geographic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1135.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky National Geographic </link>
+<title>DE: Sky Germany Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/986.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Action </link>
 </item>
 <item>
-<title>DE: Sky Nat Geo wild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1136.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Nat Geo wild </link>
+<title>DE: Sky Germany Atlantic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/985.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Atlantic </link>
 </item>
 <item>
-<title>DE: Motorvision TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1137.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Motorvision TV </link>
+<title>DE: Sky Germany Comedy HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/980.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Comedy HD </link>
+</item>
+<item>
+<title>DE: Sky Germany Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/981.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Comedy </link>
+</item>
+<item>
+<title>DE: Sky Gemany Cinema</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/988.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Gemany Cinema </link>
+</item>
+<item>
+<title>DE: SKY EMOTION HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2819.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY EMOTION HD </link>
+</item>
+<item>
+<title>DE: SKY HITS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/3489.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY HITS HD </link>
+</item>
+<item>
+<title>DE:Sky Nostalgie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/3915.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Nostalgie </link>
+</item>
+<item>
+<title>DE: SKY KRIMI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2389.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY KRIMI </link>
+</item>
+<item>
+<title>DE: SYFY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2782.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SYFY HD </link>
+</item>
+<item>
+<title>DE:MGM HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2000.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:MGM HD </link>
+</item>
+
+<item>
+<title>DE: JUNIOR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/4209.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: JUNIOR </link>
+</item>
+<item>
+<title>DE: DISNEY XD HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/4210.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: DISNEY XD HD </link>
+</item>
+<item>
+<title>DE: NICKLODEON HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2776.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NICKLODEON HD </link>
+</item>
+<item>
+<title>DE: Disney Channel HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1998.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Channel HD </link>
+</item>
+<item>
+<title>DE: DISNEY CINEMAGIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2405.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: DISNEY CINEMAGIC </link>
+</item>
+<item>
+<title>DE: Sky Disney Cinemagic HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2392.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Disney Cinemagic HD </link>
+</item>
+
+<item>
+<title>DE: TNT_SERIE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2780.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT_SERIE HD </link>
+</item>
+<item>
+<title>DE: TNT_FILM HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2781.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT_FILM HD </link>
+</item>
+<item>
+<title>DE: FOX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1048.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: FOX HD </link>
+</item>
+<item>
+<title>DE: SKY AXN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/3922.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY AXN </link>
+</item>
+<item>
+<title>DE: Classica HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2829.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Classica HD </link>
+</item>
+<item>
+<title>DE: Sky Germany 13 Street HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/987.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany 13 Street HD </link>
+</item>
+<item>
+<title>DE: JUKEBOX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/4213.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: JUKEBOX </link>
+</item>
+<item>
+<title>DE: ROMANCE TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/4211.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ROMANCE TV </link>
+</item>
+<item>
+<title>DE: Universal Channel HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/4212.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Universal Channel HD </link>
+</item>
+
+<item>
+<title>DE: DMAX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2387.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: DMAX </link>
+</item>
+<item>
+<title>DE: A$E TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2410.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: A$E TV </link>
 </item>
 <item>
 <title>DE: Discovery HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1138.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Discovery HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1999.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Discovery HD </link>
 </item>
 <item>
-<title>DE: Sky History</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1139.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky History </link>
+<title>DE: Welt der Wunder</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/3925.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Welt der Wunder </link>
 </item>
 <item>
-<title>DE: A and E</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/267.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: A and E </link>
+<title>DE: Spiegel Geschichte</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/3926.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Spiegel Geschichte </link>
 </item>
 <item>
-<title>DE: Deluxe Music</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/273.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Deluxe Music </link>
+<title>DE: NAT GEO WILD HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/4214.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NAT GEO WILD HD </link>
 </item>
 <item>
-<title>DE: Sky Select 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/343.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 1 </link>
+<title>DE: ANIMAL PLANET HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/4216.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ANIMAL PLANET HD </link>
 </item>
 <item>
-<title>DE: Sky Select 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/345.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 2 </link>
+<title>DE: National Geograph HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2787.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: National Geograph HD </link>
 </item>
 <item>
-<title>DE: Sky Select 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/346.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 3 </link>
+<title>DE: HISTORY CHANNEL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2786.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: HISTORY CHANNEL HD </link>
 </item>
 <item>
-<title>DE: Sky Select 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/347.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 4 </link>
+<title>DE: Auto Motor Sport TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/4218.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Auto Motor Sport TV HD </link>
 </item>
 <item>
-<title>DE: Sky Select 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/348.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 5 </link>
+<title>DE: WELT DER WUNDER TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/4217.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: WELT DER WUNDER TV </link>
 </item>
 <item>
-<title>DE: Sky Select 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/349.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 6 </link>
+<title>DE: NATIONAL GEOGRAPHICS PEOPLE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/4215.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NATIONAL GEOGRAPHICS PEOPLE HD </link>
+</item>
+
+<item>
+<title>DE: Sky BundesLiga HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1873.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky BundesLiga HD </link>
 </item>
 <item>
-<title>DE: Sky Select 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/350.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 7 </link>
+<title>DE:Sky Bundesliga 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2386.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Bundesliga 1 HD </link>
 </item>
 <item>
-<title>DE: Sky Select 8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/351.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 8 </link>
+<title>DE: SKY BUNDESLIGA 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2411.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA 1 HD </link>
 </item>
 <item>
-<title>DE: DW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/265.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: DW </link>
+<title>DE: SKY BUNDESLIGA 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2418.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA 2 HD </link>
 </item>
 <item>
-<title>DE: N24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/264.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: N24 </link>
+<title>DE: SKY BUNDESLIGA 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2417.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA 3 HD </link>
+</item>
+<item>
+<title>DE: SKY BUNDESLIGA 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2416.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA 4 HD </link>
+</item>
+<item>
+<title>DE: SKY BUNDESLIGA 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2415.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA 5 HD </link>
+</item>
+<item>
+<title>DE: SKY BUNDESLIGA 6 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2414.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA 6 HD </link>
+</item>
+<item>
+<title>DE: SKY BUNDESLIGA 7 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2413.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA 7 HD </link>
+</item>
+<item>
+<title>DE: SKY BUNDESLIGA 8 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2412.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA 8 HD </link>
+</item>
+
+<item>
+<title>DE: Sky Sports News HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2823.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sports News HD </link>
+</item>
+<item>
+<title>DE: Sky Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/976.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sports 1 HD </link>
+</item>
+<item>
+<title>DE: Sky Sports 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/975.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sports 2 HD </link>
+</item>
+<item>
+<title>DE: Sport digital HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2821.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sport digital HD </link>
+</item>
+<item>
+<title>DE: SPORT 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2822.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SPORT 1 HD </link>
+</item>
+<item>
+<title>DE: SKY SPORT Austria</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/4093.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SPORT Austria </link>
+</item>
+<item>
+<title>DE: EUROSPORT 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2382.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: EUROSPORT 1 </link>
 </item>
 <item>
 <title>DE: EURONEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1124.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: EURONEWS </link>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2785.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: EURONEWS </link>
+</item>
+
+<item>
+<title>DE: Sky Select HD 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/978.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select HD 1 </link>
 </item>
 <item>
-<title>DE: Tagesschau 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/237.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Tagesschau 24 </link>
+<title>DE: SKY SELECT 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/979.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SELECT 2 HD </link>
 </item>
 <item>
-<title>DE: Mini Tv</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Mini Tv </link>
+<title>DE: Sky Select 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1133.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 4 HD </link>
 </item>
 <item>
-<title>DE: Eurosport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/219.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Eurosport </link>
+<title>DE: Sky Select 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1134.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 5 HD </link>
+</item>
+<item>
+<title>DE: Sky Select 8 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1135.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 8 HD </link>
+</item>
+<item>
+<title>DE: Sky Select 9 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1136.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 9 HD </link>
+</item>
+
+<item>
+<title>DE: ORF 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1262.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF 1 HD </link>
+</item>
+<item>
+<title>DE: ORF 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1263.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF 2 HD </link>
+</item>
+<item>
+<title>DE: SRF_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2778.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SRF_1 </link>
+</item>
+<item>
+<title>DE: SRF_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2779.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SRF_2 </link>
+</item>
+<item>
+<title>DE: Munchen TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/3927.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Munchen TV </link>
+</item>
+<item>
+<title>DE:MTV Hits</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/3928.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:MTV Hits </link>
+</item>
+<item>
+<title>DE:MTV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/3929.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:MTV HD </link>
+</item>
+<item>
+<title>DE: VEVO 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2420.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VEVO 4 </link>
+</item>
+<item>
+<title>DE: VEVO EU</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2419.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VEVO EU </link>
+</item>
+<item>
+<title>DE: VIVA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/4092.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VIVA </link>
+</item>
+<item>
+<title>DE: Deluxe Music</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2381.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Deluxe Music </link>
+</item>
+<item>
+<title>Canale 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1609.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canale 5 HD </link>
+</item>
+<item>
+<title>DE: ARD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1868.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ARD </link>
+</item>
+<item>
+<title>DE: SERVUS TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/3673.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SERVUS TV </link>
+</item>
+<item>
+<title>DE: Phoenix</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/3924.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Phoenix </link>
+</item>
+<item>
+<title>DE: Eins Plus</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/3919.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Eins Plus </link>
+</item>
+<item>
+<title>DE: LIGT CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2399.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: LIGT CHANNEL </link>
+</item>
+<item>
+<title>DE: TELE BAERN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2425.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TELE BAERN </link>
+</item>
+<item>
+<title>DE: TELE BASEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2424.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TELE BASEL </link>
+</item>
+<item>
+<title>DE: EINS_FESTIVAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2784.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: EINS_FESTIVAL </link>
+</item>
+
+<item>
+<title>DE: Movies 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2061.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Movies 1 </link>
+</item>
+<item>
+<title>DE: Movies 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2062.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Movies 2 </link>
+</item>
+<item>
+<title>DE: Movies 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2063.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Movies 3 </link>
+</item>
+<item>
+<title>DE: Movies 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2064.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Movies 4 </link>
+</item>
+<item>
+<title>DE: Movies 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2065.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Movies 5 </link>
+</item>
+<item>
+<title>DE: Movies 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2066.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Movies 6 </link>
+</item>
+<item>
+<title>DE: Movies 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2067.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Movies 7 </link>
+</item>
+<item>
+<title>DE: Movies 8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2068.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Movies 8 </link>
 </item>
 
 
