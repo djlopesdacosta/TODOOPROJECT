@@ -164,8 +164,8 @@
 
 <item>
 <title>[COLOR=red][B][I] SIC HD [/I][/B][/COLOR]   [COLOR=cyan]F4MTESTER[/COLOR]</title>
+
 <link>http://live.impresa.pt/live/sic/sic540p.m3u8</link>
-plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1121.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC </link>
 
 
 <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
@@ -457,8 +457,8 @@ plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/Sn
 
 <item>
 <title>[COLOR=cyan][B][I] RTP 3 HD [/I][/B][/COLOR]            [COLOR=orange]F4MTESTER[/COLOR]</title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/425.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_3 </link>
+<link>http://83.78.191.43:2040/</link>
+?plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/425.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_3 </link>
 
 <thumbnail>http://www.thelogodb.com/images/media/logo/rwqqsy1455801826.png</thumbnail>
 <fanart>http://shifter.pt/wp-content/uploads/2015/09/johnolivernartp3_02.jpg</fanart>
