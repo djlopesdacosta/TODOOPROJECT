@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
-
 <!-- START OF HIT COUNTER CODE --><br><script language="JavaScript" src="http://www.counter160.com/js.js?img=6"></script><br><a href="https://www.000webhost.com"><img src="http://www.counter160.com/images/6/left.png" alt="Free web hosting" border="0" align="texttop"></a><a href="http://www.hosting24.com"><img alt="Web hosting" src="http://www.counter160.com/images/6/right.png" border="0" align="texttop"></a><!-- END OF HIT COUNTER CODE -->
 
 
+
+<channels>
 <channel>
-<name>[COLOR white][B]FILMES[/B][/COLOR]</name>
+<name>[COLOR lime] [COLOR white][B] [COLOR lime]|||[/COLOR] Update 18-09-2016 [COLOR red]|||[/COLOR][/B][/COLOR] </name>
+<externallink>http://tv-super-tuga-add-estrutura.comlu.com/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA/Menu%200-%20tvsuper%20tuga.xml</externallink>
+<fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
+<thumbnail>http://www.esar.edu.pt/portal/images/outros/icon.jpg</thumbnail>
+</subitem>
+<channel>
+<name>[COLOR white][B][COLOR red]||||||||||[/COLOR] TV SUPER TUGA [COLOR red]||||||||||[/COLOR][/B][/COLOR] </name>
+<fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
+<thumbnail>http://www.esar.edu.pt/portal/images/outros/icon.jpg</thumbnail>
+<externallink>http://tv-super-tuga-add-estrutura.comlu.com/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA/Menu%200-%20tvsuper%20tuga.xml</externallink>
+</subitem>
+</item>
+</item>
+<item>
+</subchannel>
+</channel>
+<channel>		
+<name>[COLOR white][B]FILMES[/B][/COLOR]</name></name>
 <thumbnail>https://4.bp.blogspot.com/-GqWrOETNsIs/UwXU0_SbDGI/AAAAAAAAALI/KtIzwnVImJc/w426-h427/movies-icon.png</thumbnail>
 <fanart>http://img15.deviantart.net/c2f2/i/2010/251/b/a/sons_of_anarchy_jax_fist_by_shamefhc-d2yaozt.jpg</fanart>
 </subitem>
+</item>
+
 
 <item>
 <title>[COLOR white]NACIONAIS[/COLOR]</title>
@@ -26,11 +46,12 @@
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/FILMES/INTERNACIONAIS.xml</externallink>
 </item>
 
-<channel>
-<name>[COLOR white][B]SÉRIES[/B][/COLOR]</name>
+<channel>		
+<name>[COLOR white][B]SÉRIES[/B][/COLOR] </name>
 <thumbnail>https://lh4.googleusercontent.com/-4O0mEh77I4Y/AAAAAAAAAAI/AAAAAAAAAAc/pHluVjQt0PY/photo.jpg</thumbnail>
 <fanart>http://img15.deviantart.net/c2f2/i/2010/251/b/a/sons_of_anarchy_jax_fist_by_shamefhc-d2yaozt.jpg</fanart>
 </subitem>
+</item>
 
 <item>
 <title>[COLOR white]NACIONAIS[/COLOR]</title>
