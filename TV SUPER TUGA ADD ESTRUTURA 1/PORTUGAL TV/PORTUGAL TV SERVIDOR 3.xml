@@ -36,178 +36,1232 @@
 
 
 
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP 1[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1209.ts;streamtype=TSDOWNLOADER&amp;name=RTP 1 (by TeamBlue)$$lsname=RTP 1 (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1727.ts;streamtype=TSDOWNLOADER&amp;name=RTP 1 (by TeamBlue)$$lsname=RTP 1 (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1744.ts;streamtype=TSDOWNLOADER&amp;name=RTP 1 (by TeamBlue)$$lsname=RTP 1 (F4M) source #3</link>
+<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)$$lsname=RTP 1 (HTTP)</link>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15  $$lsname=RTP 1 (RTMP)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtp.pt/play/direto/rtp1$$lsname=RTP 1 (Sports Devil)</link>
+<thumbnail>http://i.imgur.com/nwF46j7.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP 2[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1210.ts;streamtype=TSDOWNLOADER&amp;name=RTP 2 (by TeamBlue)$$lsname=RTP 2 (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1726.ts;streamtype=TSDOWNLOADER&amp;name=RTP 2 (by TeamBlue)$$lsname=RTP 2 (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1743.ts;streamtype=TSDOWNLOADER&amp;name=RTP 2 (by TeamBlue)$$lsname=RTP 2 (F4M) source #3</link>
+<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)$$lsname=RTP 2 (HTTP)</link>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15  $$lsname=RTP 2 (RTMP)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtp.pt/play/direto/rtp2$$lsname=RTP 2 (Sports Devil)</link>
+<thumbnail>http://i.imgur.com/yAOu09B.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SIC[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1208.ts;streamtype=TSDOWNLOADER&amp;name=SIC (by TeamBlue)$$lsname=SIC (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1725.ts;streamtype=TSDOWNLOADER&amp;name=SIC (by TeamBlue)$$lsname=SIC (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1740.ts;streamtype=TSDOWNLOADER&amp;name=SIC (by TeamBlue)$$lsname=SIC (F4M) source #3</link>
+<link>http://live.impresa.pt/live/sic/sic540p.m3u8$$lsname=SIC (HTTP)</link>
+
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/sic$$lsname=SIC (Sports Devil)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TVI[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1222.ts;streamtype=TSDOWNLOADER&amp;name=TVI (by TeamBlue)$$lsname=TVI (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1674.ts;streamtype=TSDOWNLOADER&amp;name=TVI (by TeamBlue)$$lsname=TVI (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1722.ts;streamtype=TSDOWNLOADER&amp;name=TVI (by TeamBlue)$$lsname=TVI (F4M) source #3</link>
+<link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8$$lsname=TVI (HTTP)</link>
+
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/tvi$$lsname=TVI (Sports Devil)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_pt.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] PORTO CANAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1826.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by TeamBlue)$$lsname=PORTO CANAL (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1660.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by TeamBlue)$$lsname=PORTO CANAL (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1746.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by TeamBlue)$$lsname=PORTO CANAL (F4M) source #3</link>
+<link>rtsp://213.13.26.11:1935/live/portocanal$$lsname=PORTO CANAL (HTTP)</link>
+
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.desportonline.com/index.php?canal=portocanal$$lsname=PORTO CANAL (Sports Devil)</link>
+<thumbnail>http://i.imgur.com/HVBkpWS.png</thumbnail></item>
+
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP ACORES[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1168.ts;streamtype=TSDOWNLOADER&amp;name=RTP ACORES (by TeamBlue)$$lsname=RTP ACORES (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1685.ts;streamtype=TSDOWNLOADER&amp;name=RTP ACORES (by TeamBlue)$$lsname=RTP ACORES (F4M) source #2</link>
+
+<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)$$lsname=RTP ACORES (HTTP)</link>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?mag swfVfy=1 live=1 timeout=15$$lsname=RTP ACORES (RTMP)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtp.pt/play/direto/rtpacores$$lsname=RTP ACORES (Sports Devil)</link>
+<thumbnail>http://i.imgur.com/om9BKuk.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP AFRICA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1167.ts;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA (by TeamBlue)$$lsname=RTP AFRICA (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1684.ts;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA (by TeamBlue)$$lsname=RTP AFRICA (F4M) source #2</link>
+
+<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)$$lsname=RTP AFRICA (HTTP)</link>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15$$lsname=RTP AFRICA (RTMP)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtp.pt/play/direto/rtpafrica$$lsname=RTP AFRICA (Sports Devil)</link>
+<thumbnail>http://i.imgur.com/YWi6NzU.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP INTERNACIONAL[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1658.ts;streamtype=TSDOWNLOADER&amp;name=RTP INTERNACIONAL (by TeamBlue)$$lsname=RTP INTERNACIONAL (F4M) source #2</link>
+
+<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)$$lsname=RTP INTERNACIONAL (HTTP)</link>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15$$lsname=RTP INTERNACIONAL (RTMP)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtp.pt/play/direto/rtpinternacional$$lsname=RTP INTERNACIONAL (Sports Devil)</link>
+<thumbnail>http://i.imgur.com/YPL4ncR.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP MADEIRA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1166.ts;streamtype=TSDOWNLOADER&amp;name=RTP MADEIRA (by TeamBlue)$$lsname=RTP MADEIRA (F4M) source #1</link>
+
+
+<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)$$lsname=RTP MADEIRA (HTTP)</link>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15$$lsname=RTP MADEIRA (RTMP)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtp.pt/play/direto/rtpmadeira$$lsname=RTP MADEIRA (Sports Devil)</link>
+<thumbnail>http://i.imgur.com/EQk4X7n.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CANCAO NOVA[/B][/COLOR]</title>
+
+
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1773.ts;streamtype=TSDOWNLOADER&amp;name=CANCAO NOVA (by TeamBlue)$$lsname=CANCAO NOVA (F4M) source #3</link>
+<link>http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8$$lsname=CANCAO NOVA (HTTP)</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_cancao_nova_pt.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CM TV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1839.ts;streamtype=TSDOWNLOADER&amp;name=CM TV (by TeamBlue)$$lsname=CM TV (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1700.ts;streamtype=TSDOWNLOADER&amp;name=CM TV (by TeamBlue)$$lsname=CM TV (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1767.ts;streamtype=TSDOWNLOADER&amp;name=CM TV (by TeamBlue)$$lsname=CM TV (F4M) source #3</link>
+
+
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/cmtv$$lsname=CM TV (Sports Devil)</link>
+<thumbnail>http://i.imgur.com/dMiWcSV.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CNBC[/B][/COLOR]</title>
+
+
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1766.ts;streamtype=TSDOWNLOADER&amp;name=CNBC (by TeamBlue)$$lsname=CNBC (F4M) source #3</link>
 
 
 
-<item>
-<title>PT: RTP 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3757.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1 </link>
-</item>
-<item>
-<title>PT: RTP 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3758.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2 </link>
-</item>
-<item>
-<title>PT: RTP 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3759.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 3 </link>
-</item>
-<item>
-<title>PT: Record News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3769.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Record News </link>
-</item>
-<item>
-<title>PT: Odesseia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3774.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Odesseia </link>
-</item>
-<item>
-<title>PT: MTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3764.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MTV </link>
-</item>
-<item>
-<title>PT: Motors TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3763.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motors TV </link>
-</item>
-<item>
-<title>PT: Economico TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3776.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Economico TV </link>
-</item>
-<item>
-<title>PT: Cancanova</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3773.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cancanova </link>
-</item>
-<item>
-<title>PT: Canal Hollyood</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3761.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Hollyood </link>
-</item>
-<item>
-<title>PT: Baby TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3775.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Baby TV </link>
-</item>
-<item>
-<title>PT: ARTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3765.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ARTV </link>
-</item>
-<item>
-<title>PT: AMC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3762.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AMC </link>
-</item>
-<item>
-<title>PT: Abola TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3777.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Abola TV </link>
-</item>
-<item>
-<title>PT: Tvi Ficcao</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3766.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Tvi Ficcao </link>
-</item>
-<item>
-<title>PT: TVi 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3767.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVi 24 </link>
-</item>
-<item>
-<title>PT: TV Record</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3768.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Record </link>
-</item>
-<item>
-<title>PT: Sic Noticias</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3772.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Noticias </link>
-</item>
-<item>
-<title>PT: Sic Kids</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3771.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Kids </link>
-</item>
-<item>
-<title>PT: Sic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3770.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic </link>
-</item>
-<item>
-<title>PT: RTP Madeira</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3760.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Madeira </link>
-</item>
-<item>
-<title>PT Sports TV1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3007.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Sports TV1 </link>
-</item>
-<item>
-<title>PT Sports TV2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3003.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Sports TV2 </link>
-</item>
-<item>
-<title>PT Sports TV3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3004.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Sports TV3 </link>
-</item>
-<item>
-<title>PT Sports TV4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3005.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Sports TV4 </link>
-</item>
-<item>
-<title>PT Sports TV5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3006.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Sports TV5 </link>
-</item>
-<item>
-<title>PT - TVCINE 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3056.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 1 HD </link>
-</item>
-<item>
-<title>PT - TVCINE 2HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3057.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 2HD </link>
-</item>
-<item>
-<title>PT - TVCINE 3HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3058.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 3HD </link>
-</item>
-<item>
-<title>PT - TVCINE 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3059.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 4 HD </link>
-</item>
-<item>
-<title>PT - TV SERIES HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3068.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TV SERIES HD </link>
-</item>
-<item>
-<title>PT - TLC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3070.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TLC </link>
-</item>
-<item>
-<title>PT - SYFY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3069.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SYFY </link>
-</item>
-<item>
-<title>PT - FOX NEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3071.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX NEWS </link>
-</item>
-<item>
-<title>PT - FOX MOVIES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3064.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX MOVIES </link>
-</item>
-<item>
-<title>PT - FOX LIFE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3061.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX LIFE </link>
-</item>
-<item>
-<title>PT - FOX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3060.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX HD </link>
-</item>
-<item>
-<title>PT - FOX CRIME</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3063.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX CRIME </link>
-</item>
-<item>
-<title>PT - FOX COMEDY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3062.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX COMEDY </link>
-</item>
-<item>
-<title>PT - AXN WHITE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3066.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - AXN WHITE HD </link>
-</item>
-<item>
-<title>PT - AXN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3065.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - AXN HD </link>
-</item>
-<item>
-<title>PT - AXN BLACK HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re/live/1/1/3067.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - AXN BLACK HD </link>
-</item>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cnbc_europe.png</thumbnail></item>
 
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ECONOMICO TV[/B][/COLOR]</title>
+
+
+
+<link>http://213.13.26.41:1935/live/etv_direto/playlist.m3u8$$lsname=ECONOMICO TV (HTTP)</link>
+
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.tvdesporto.info/economicotv.php$$lsname=ECONOMICO TV (Sports Devil)</link>
+<thumbnail>http://i.imgur.com/EEzmzqY.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] EURONEWS[/B][/COLOR]</title>
+
+
+
+<link>http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_pt.m3u8$$lsname=EURONEWS (HTTP)</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews_fr.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FRANCE 24 (FR)[/B][/COLOR]</title>
+
+
+
+<link>http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8$$lsname=FRANCE 24 (FR) (HTTP)</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/france24_english.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FRANCE 24 (IN)[/B][/COLOR]</title>
+
+
+
+<link>http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8$$lsname=FRANCE 24 (IN) (HTTP)</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/france24_english.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP 3[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1169.ts;streamtype=TSDOWNLOADER&amp;name=RTP 3 (by TeamBlue)$$lsname=RTP 3 (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1715.ts;streamtype=TSDOWNLOADER&amp;name=RTP 3 (by TeamBlue)$$lsname=RTP 3 (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1742.ts;streamtype=TSDOWNLOADER&amp;name=RTP 3 (by TeamBlue)$$lsname=RTP 3 (F4M) source #3</link>
+<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)$$lsname=RTP 3 (HTTP)</link>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15$$lsname=RTP 3 (RTMP)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtp.pt/play/direto/rtp3$$lsname=RTP 3 (Sports Devil)</link>
+<thumbnail>http://i.imgur.com/UqZdQqJ.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SIC NOTICIAS[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1163.ts;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS (by TeamBlue)$$lsname=SIC NOTICIAS (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1657.ts;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS (by TeamBlue)$$lsname=SIC NOTICIAS (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1736.ts;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS (by TeamBlue)$$lsname=SIC NOTICIAS (F4M) source #3</link>
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_noticias.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TVI 24[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1143.ts;streamtype=TSDOWNLOADER&amp;name=TVI 24 (by TeamBlue)$$lsname=TVI 24 (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1673.ts;streamtype=TSDOWNLOADER&amp;name=TVI 24 (by TeamBlue)$$lsname=TVI 24 (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1721.ts;streamtype=TSDOWNLOADER&amp;name=TVI 24 (by TeamBlue)$$lsname=TVI 24 (F4M) source #3</link>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8$$lsname=TVI 24 (HTTP)</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_24.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CANAL PARLAMENTO[/B][/COLOR]</title>
+
+
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1779.ts;streamtype=TSDOWNLOADER&amp;name=CANAL PARLAMENTO (by TeamBlue)$$lsname=CANAL PARLAMENTO (F4M) source #3</link>
+<link>http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/chunklist_w1713826381.m3u8$$lsname=CANAL PARLAMENTO (HTTP)</link>
+
+
+<thumbnail>http://www.lyngsat.com/logo/tv/cc/canal_parlamento_por.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] BLOOMBERG[/B][/COLOR]</title>
+
+
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1776.ts;streamtype=TSDOWNLOADER&amp;name=BLOOMBERG (by TeamBlue)$$lsname=BLOOMBERG (F4M) source #3</link>
+<link>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8$$lsname=BLOOMBERG (HTTP)</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bloomberg_tv_us.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CNN[/B][/COLOR]</title>
+
+
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1765.ts;streamtype=TSDOWNLOADER&amp;name=CNN (by TeamBlue)$$lsname=CNN (F4M) source #3</link>
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cnn_international_global.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX NEWS[/B][/COLOR]</title>
+
+
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1756.ts;streamtype=TSDOWNLOADER&amp;name=FOX NEWS (by TeamBlue)$$lsname=FOX NEWS (F4M) source #3</link>
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_news_channel.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RAI NEWS[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://www.userlogos.org/files/logos/oroboros74/rai_news2.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TVE 24[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tve_canal_24horas.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RECORD NEWS[/B][/COLOR]</title>
+
+
+
+<link>http://107.182.231.88:1935/liverepeater/ch24-1/playlist.m3u8$$lsname=RECORD NEWS (HTTP)</link>
+
+
+<thumbnail>http://i.imgur.com/RWZ8Pdl.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] AeE[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1198.ts;streamtype=TSDOWNLOADER&amp;name=AeE (by TeamBlue)$$lsname=AeE (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1711.ts;streamtype=TSDOWNLOADER&amp;name=AeE (by TeamBlue)$$lsname=AeE (F4M) source #2</link>
+
+
+
+
+<thumbnail>http://i.imgur.com/u7IKaDs.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] BBC ENTERTAINMENT[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bbc_entertainment_uk.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CANAL Q[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1704.ts;streamtype=TSDOWNLOADER&amp;name=CANAL Q (by TeamBlue)$$lsname=CANAL Q (F4M) source #2</link>
+
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/canal_q.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CBS REALITY[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1841.ts;streamtype=TSDOWNLOADER&amp;name=CBS REALITY (by TeamBlue)$$lsname=CBS REALITY (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1703.ts;streamtype=TSDOWNLOADER&amp;name=CBS REALITY (by TeamBlue)$$lsname=CBS REALITY (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1769.ts;streamtype=TSDOWNLOADER&amp;name=CBS REALITY (by TeamBlue)$$lsname=CBS REALITY (F4M) source #3</link>
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_reality_pt.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] E![/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1186.ts;streamtype=TSDOWNLOADER&amp;name=E! (by TeamBlue)$$lsname=E! (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1695.ts;streamtype=TSDOWNLOADER&amp;name=E! (by TeamBlue)$$lsname=E! (F4M) source #2</link>
+
+
+
+
+<thumbnail>http://i.imgur.com/Ta2wvuo.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP MEMORIA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1165.ts;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA (by TeamBlue)$$lsname=RTP MEMORIA (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1683.ts;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA (by TeamBlue)$$lsname=RTP MEMORIA (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1741.ts;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA (by TeamBlue)$$lsname=RTP MEMORIA (F4M) source #3</link>
+<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)$$lsname=RTP MEMORIA (HTTP)</link>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria?mag swfVfy=1 live=1 timeout=15$$lsname=RTP MEMORIA (RTMP)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtp.pt/play/direto/rtpmemoria$$lsname=RTP MEMORIA (Sports Devil)</link>
+<thumbnail>http://i.imgur.com/lWlG90R.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SIC CARAS[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1822.ts;streamtype=TSDOWNLOADER&amp;name=SIC CARAS (by TeamBlue)$$lsname=SIC CARAS (F4M) source #1</link>
+
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1739.ts;streamtype=TSDOWNLOADER&amp;name=SIC CARAS (by TeamBlue)$$lsname=SIC CARAS (F4M) source #3</link>
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_caras.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SIC MULHER[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1164.ts;streamtype=TSDOWNLOADER&amp;name=SIC MULHER (by TeamBlue)$$lsname=SIC MULHER (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1682.ts;streamtype=TSDOWNLOADER&amp;name=SIC MULHER (by TeamBlue)$$lsname=SIC MULHER (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1737.ts;streamtype=TSDOWNLOADER&amp;name=SIC MULHER (by TeamBlue)$$lsname=SIC MULHER (F4M) source #3</link>
+
+<link>rtmp://178.162.199.155/live<playpath>sicm02?id=85250&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 <swfUrl>http://www.embeducaster.com/static/scripts/fplayer.swf <pageUrl>http://www.embeducaster.com/embedplayer/sicm02/1/599/399$$lsname=SIC MULHER (RTMP)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/sicmulher$$lsname=SIC MULHER (Sports Devil)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_mulher.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SIC RADICAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1821.ts;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL (by TeamBlue)$$lsname=SIC RADICAL (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1656.ts;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL (by TeamBlue)$$lsname=SIC RADICAL (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1735.ts;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL (by TeamBlue)$$lsname=SIC RADICAL (F4M) source #3</link>
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_radical.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TVI FICCAO[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1813.ts;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO (by TeamBlue)$$lsname=TVI FICCAO (F4M) source #1</link>
+
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1720.ts;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO (by TeamBlue)$$lsname=TVI FICCAO (F4M) source #3</link>
+
+
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/tvificcao$$lsname=TVI FICCAO (Sports Devil)</link>
+<thumbnail>http://i.imgur.com/1OKBioL.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TVI REALITY[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1812.ts;streamtype=TSDOWNLOADER&amp;name=TVI REALITY (by TeamBlue)$$lsname=TVI REALITY (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1672.ts;streamtype=TSDOWNLOADER&amp;name=TVI REALITY (by TeamBlue)$$lsname=TVI REALITY (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1719.ts;streamtype=TSDOWNLOADER&amp;name=TVI REALITY (by TeamBlue)$$lsname=TVI REALITY (F4M) source #3</link>
+
+
+
+<thumbnail>http://i.imgur.com/D9HZ95f.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TVI REALITY CAM 1[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://i.imgur.com/D9HZ95f.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TVI REALITY CAM 2[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://i.imgur.com/D9HZ95f.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TVI REALITY CAM 3[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://i.imgur.com/D9HZ95f.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TVI REALITY CAM 4[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://i.imgur.com/D9HZ95f.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TVI REALITY MOSAICO[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://i.imgur.com/D9HZ95f.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] +TVI[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://i.imgur.com/XZBNbmj.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] GLOBO PORTUGAL[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1678.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO PORTUGAL (by TeamBlue)$$lsname=GLOBO PORTUGAL (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1755.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO PORTUGAL (by TeamBlue)$$lsname=GLOBO PORTUGAL (F4M) source #3</link>
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_globo_pt.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] GLOBO PREMIUM[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1831.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO PREMIUM (by TeamBlue)$$lsname=GLOBO PREMIUM (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1677.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO PREMIUM (by TeamBlue)$$lsname=GLOBO PREMIUM (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1754.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO PREMIUM (by TeamBlue)$$lsname=GLOBO PREMIUM (F4M) source #3</link>
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_globo_premium.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RECORD[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1676.ts;streamtype=TSDOWNLOADER&amp;name=RECORD (by TeamBlue)$$lsname=RECORD (F4M) source #2</link>
+
+<link>http://107.182.231.88:1935/liverepeater/ch24-1/playlist.m3u8$$lsname=RECORD (HTTP)</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rede_record_br.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] 24 KITCHEN[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1199.ts;streamtype=TSDOWNLOADER&amp;name=24 KITCHEN (by TeamBlue)$$lsname=24 KITCHEN (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1712.ts;streamtype=TSDOWNLOADER&amp;name=24 KITCHEN (by TeamBlue)$$lsname=24 KITCHEN (F4M) source #2</link>
+
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/num/24_kitchen_us.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FTV[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fashion_tv_fr.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FINE LIVING NETWORK[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fine_living_network_emea.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOOD NETWORK[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/food_network_uk.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MCS LIFESTYLE[/B][/COLOR]</title>
+
+
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1716.ts;streamtype=TSDOWNLOADER&amp;name=MCS LIFESTYLE (by TeamBlue)$$lsname=MCS LIFESTYLE (F4M) source #3</link>
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mcs_fr_lifestyle.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TLC[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1155.ts;streamtype=TSDOWNLOADER&amp;name=TLC (by TeamBlue)$$lsname=TLC (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1681.ts;streamtype=TSDOWNLOADER&amp;name=TLC (by TeamBlue)$$lsname=TLC (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1729.ts;streamtype=TSDOWNLOADER&amp;name=TLC (by TeamBlue)$$lsname=TLC (F4M) source #3</link>
+
+
+
+<thumbnail>http://i.imgur.com/ZfEc8g5.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TRAVEL[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1152.ts;streamtype=TSDOWNLOADER&amp;name=TRAVEL (by TeamBlue)$$lsname=TRAVEL (F4M) source #1</link>
+
+
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/travel_channel_asia.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] A BOLA TV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1846.ts;streamtype=TSDOWNLOADER&amp;name=A BOLA TV (by TeamBlue)$$lsname=A BOLA TV (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1710.ts;streamtype=TSDOWNLOADER&amp;name=A BOLA TV (by TeamBlue)$$lsname=A BOLA TV (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1782.ts;streamtype=TSDOWNLOADER&amp;name=A BOLA TV (by TeamBlue)$$lsname=A BOLA TV (F4M) source #3</link>
+
+
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.desportonline.net/index.php?canal=abolatv$$lsname=A BOLA TV (Sports Devil)</link>
+<thumbnail>http://i.imgur.com/aDTQAYr.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] BENFICA TV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1710.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by TeamBlue)$$lsname=BENFICA TV (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1670.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by TeamBlue)$$lsname=BENFICA TV (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1775.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by TeamBlue)$$lsname=BENFICA TV (F4M) source #3</link>
+
+<link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=gergtrg?keys=bgTVSHj_R7k44rqRvZCNUQ&keyt;=1471708579 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=gergtrg$$lsname=BENFICA TV (RTMP)</link>
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] EUROSPORT 1[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1667.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 (by TeamBlue)$$lsname=EUROSPORT 1 (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1761.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 (by TeamBlue)$$lsname=EUROSPORT 1 (F4M) source #3</link>
+
+<link>rtmp://31.220.40.59/privatestream/ playpath=euros1?keys=udtuM0jEV0Kf5-H18JlpZw&keyt;=1473439949 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf$$lsname=EUROSPORT 1 (RTMP)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.europeu2016.net/index.php?canal=eurosport$$lsname=EUROSPORT 1 (Sports Devil)</link>
+<thumbnail>http://i.imgur.com/r1Tu1zq.jpg</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] EUROSPORT 2[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1217.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 (by TeamBlue)$$lsname=EUROSPORT 2 (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1666.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 (by TeamBlue)$$lsname=EUROSPORT 2 (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1760.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 (by TeamBlue)$$lsname=EUROSPORT 2 (F4M) source #3</link>
+
+
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.europeu2016.net/index.php?canal=eurosport2$$lsname=EUROSPORT 2 (Sports Devil)</link>
+<thumbnail>http://i.imgur.com/oRM8F2Y.jpg</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] EUROSPORT 2 XTRA[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://i.imgur.com/0tybBJ0.jpg</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] EUROSPORT NEWS[/B][/COLOR]</title>
+
+
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1759.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT NEWS (by TeamBlue)$$lsname=EUROSPORT NEWS (F4M) source #3</link>
+
+
+
+<thumbnail>http://i.imgur.com/rEq334P.jpg</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FUEL TV[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1693.ts;streamtype=TSDOWNLOADER&amp;name=FUEL TV (by TeamBlue)$$lsname=FUEL TV (F4M) source #2</link>
+
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fuel_tv_eu.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FIGHT NETWORK[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fight_network.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] KOMBAT SPORT[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/kk/kombat_sport.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOTORS TV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1211.ts;streamtype=TSDOWNLOADER&amp;name=MOTORS TV (by TeamBlue)$$lsname=MOTORS TV (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1692.ts;streamtype=TSDOWNLOADER&amp;name=MOTORS TV (by TeamBlue)$$lsname=MOTORS TV (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1748.ts;streamtype=TSDOWNLOADER&amp;name=MOTORS TV (by TeamBlue)$$lsname=MOTORS TV (F4M) source #3</link>
+
+
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.europeu2016.net/index.php?canal=motorstv$$lsname=MOTORS TV (Sports Devil)</link>
+<thumbnail>http://i.imgur.com/uIxVBmG.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOTORVISION TV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1176.ts;streamtype=TSDOWNLOADER&amp;name=MOTORVISION TV (by TeamBlue)$$lsname=MOTORVISION TV (F4M) source #1</link>
+
+
+
+
+
+<thumbnail>http://i.imgur.com/ixMRmkM.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] PFC[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1170.ts;streamtype=TSDOWNLOADER&amp;name=PFC (by TeamBlue)$$lsname=PFC (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1686.ts;streamtype=TSDOWNLOADER&amp;name=PFC (by TeamBlue)$$lsname=PFC (F4M) source #2</link>
+
+<link>http://107.182.231.88:1935/liverepeater/ch84-1/live.m3u8$$lsname=PFC (HTTP)</link>
+
+
+<thumbnail>http://i.imgur.com/j3ZgJkr.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV+[/B][/COLOR]</title>
+
+
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1734.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV+ (by TeamBlue)$$lsname=SPORT TV+ (F4M) source #3</link>
+
+
+
+<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV 1[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1157.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)$$lsname=SPORT TV 1 (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1721.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)$$lsname=SPORT TV 1 (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1714.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)$$lsname=SPORT TV 1 (F4M) source #3</link>
+<link>http://163.172.170.33:8081/live/sporttv1-hq/l_103923_21579000_2674.ts?nimblesessionid=1160952&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDEyOjU4OjU4IFBNJmhhc2hfdmFsdWU9TjJsbTJnb3FhU25uNlN0Nk15VW8zUT09JnZhbGlkbWludXRlcz02MCZpZD0xODguMTE0LjExMS4yMzYmc3RybV9sZW49MTY=$$lsname=SPORT TV 1 (HTTP)</link>
+<link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=fawergge?keys=6FwFzBwoArVD7GnroNTCwg&keyt;=1471185155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge$$lsname=SPORT TV 1 (RTMP)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.tvdesporto.info/sporttv.php$$lsname=SPORT TV 1 (Sports Devil)</link>
+<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail></item>
+
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV 2[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1158.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)$$lsname=SPORT TV 2 (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1722.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)$$lsname=SPORT TV 2 (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1713.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)$$lsname=SPORT TV 2 (F4M) source #3</link>
+<link>http://www.liveonlinetv247.info/embed/sporttv2.php?width=650&height=480$$lsname=SPORT TV 2 (HTTP)</link>
+<link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=zrd8IHbjrxTjmvn9NTCF1A&keyt;=1471185438 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width;=630&height;=510$$lsname=SPORT TV 2 (RTMP)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.tvdesporto.info/sporttv2.php$$lsname=SPORT TV 2 (Sports Devil)</link>
+<thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV 3[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1159.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by TeamBlue)$$lsname=SPORT TV 3 (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1723.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by TeamBlue)$$lsname=SPORT TV 3 (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1712.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by TeamBlue)$$lsname=SPORT TV 3 (F4M) source #3</link>
+<link>http://163.172.150.10:8081/live/sporttv3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDE6MDY6MTQgUE0maGFzaF92YWx1ZT1idlNWZytjcmdnQnQ4dHYvWVZNRW1nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4OC4xMTQuMTExLjIzNiZzdHJtX2xlbj0xNg==$$lsname=SPORT TV 3 (HTTP)</link>
+
+
+<thumbnail>http://i.imgur.com/XvI6JNr.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV 4[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1160.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 (by TeamBlue)$$lsname=SPORT TV 4 (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tvtugaxtream.mine.nu:8000/live/nuno_carvalho78@hotmail.com/36886453/108.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 (by TeamBlue)$$lsname=SPORT TV 4 (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1733.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 (by TeamBlue)$$lsname=SPORT TV 4 (F4M) source #3</link>
+<link>http://163.172.150.10:8081/live/sporttv3-hq/chunks.m3u8?nimblesessionid=24097376&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDE6MDQ6MDcgUE0maGFzaF92YWx1ZT0rSHg0YzRCZkZueUprSU56MVpMVVNRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4OC4xMTQuMTExLjIzNiZzdHJtX2xlbj0xNg==$$lsname=SPORT TV 4 (HTTP)</link>
+
+
+<thumbnail>http://i.imgur.com/IZCGvyl.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV 5[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1161.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by TeamBlue)$$lsname=SPORT TV 5 (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tvtugaxtream.mine.nu:8000/live/nuno_carvalho78@hotmail.com/36886453/28.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by TeamBlue)$$lsname=SPORT TV 5 (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1732.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by TeamBlue)$$lsname=SPORT TV 5 (F4M) source #3</link>
+<link>http://163.172.170.33:8081/live/sporttv5-hq/l_116087_374800_46.ts?nimblesessionid=1162215&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDE6MDU6MjQgUE0maGFzaF92YWx1ZT1CbWtWZllzS25uOVpOYm90U2dmbkt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4OC4xMTQuMTExLjIzNiZzdHJtX2xlbj0xNg==$$lsname=SPORT TV 5 (HTTP)</link>
+
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.tvdesporto.info/sporttv5.php$$lsname=SPORT TV 5 (Sports Devil)</link>
+<thumbnail>http://i.imgur.com/G8yH187.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORTING TV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvtugaxtream.mine.nu:8000/live/nuno_carvalho78@hotmail.com/36886453/26.ts;streamtype=TSDOWNLOADER&amp;name=SPORTING TV (by TeamBlue)$$lsname=SPORTING TV (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1720.ts;streamtype=TSDOWNLOADER&amp;name=SPORTING TV (by TeamBlue)$$lsname=SPORTING TV (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1731.ts;streamtype=TSDOWNLOADER&amp;name=SPORTING TV (by TeamBlue)$$lsname=SPORTING TV (F4M) source #3</link>
+
+
+
+<thumbnail>http://i.imgur.com/KTEBwY0.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TOROS TV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1724.ts;streamtype=TSDOWNLOADER&amp;name=TOROS TV (by TeamBlue)$$lsname=TOROS TV (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1680.ts;streamtype=TSDOWNLOADER&amp;name=TOROS TV (by TeamBlue)$$lsname=TOROS TV (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1728.ts;streamtype=TSDOWNLOADER&amp;name=TOROS TV (by TeamBlue)$$lsname=TOROS TV (F4M) source #3</link>
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/toros_tv.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CACAVISION[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1842.ts;streamtype=TSDOWNLOADER&amp;name=CACAVISION (by TeamBlue)$$lsname=CACAVISION (F4M) source #1</link>
+
+
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cacavision.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CACA & PESCA[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1707.ts;streamtype=TSDOWNLOADER&amp;name=CACA & PESCA (by TeamBlue)$$lsname=CACA & PESCA (F4M) source #2</link>
+
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/caccia_pesca.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] BABY TV[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1708.ts;streamtype=TSDOWNLOADER&amp;name=BABY TV (by TeamBlue)$$lsname=BABY TV (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1778.ts;streamtype=TSDOWNLOADER&amp;name=BABY TV (by TeamBlue)$$lsname=BABY TV (F4M) source #3</link>
+
+
+
+<thumbnail>http://i.imgur.com/xTAptxu.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] BABY FIRST[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/baby_first_tv.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] BIGGS[/B][/COLOR]</title>
+
+
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1777.ts;streamtype=TSDOWNLOADER&amp;name=BIGGS (by TeamBlue)$$lsname=BIGGS (F4M) source #3</link>
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/pp/panda_biggs.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CANAL PANDA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1191.ts;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA (by TeamBlue)$$lsname=CANAL PANDA (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1705.ts;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA (by TeamBlue)$$lsname=CANAL PANDA (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1771.ts;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA (by TeamBlue)$$lsname=CANAL PANDA (F4M) source #3</link>
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/canal_panda_pt.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CARTOON NETWORK[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1190.ts;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK (by TeamBlue)$$lsname=CARTOON NETWORK (F4M) source #1</link>
+
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1770.ts;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK (by TeamBlue)$$lsname=CARTOON NETWORK (F4M) source #3</link>
+
+
+
+<thumbnail>http://i.imgur.com/EuQiOf1.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] DISNEY CHANNEL[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1838.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL (by TeamBlue)$$lsname=DISNEY CHANNEL (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1697.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL (by TeamBlue)$$lsname=DISNEY CHANNEL (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1763.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL (by TeamBlue)$$lsname=DISNEY CHANNEL (F4M) source #3</link>
+
+
+
+<thumbnail>http://i.imgur.com/g0UK661.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] DISNEY JUNIOR[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1187.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR (by TeamBlue)$$lsname=DISNEY JUNIOR (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1696.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR (by TeamBlue)$$lsname=DISNEY JUNIOR (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1762.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR (by TeamBlue)$$lsname=DISNEY JUNIOR (F4M) source #3</link>
+
+
+
+<thumbnail>http://i.imgur.com/CZvsFYH.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] JIMJAM[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1661.ts;streamtype=TSDOWNLOADER&amp;name=JIMJAM (by TeamBlue)$$lsname=JIMJAM (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1751.ts;streamtype=TSDOWNLOADER&amp;name=JIMJAM (by TeamBlue)$$lsname=JIMJAM (F4M) source #3</link>
+
+
+
+<thumbnail>http://i.imgur.com/b6Mhyk9.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] NICKELODEON[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1172.ts;streamtype=TSDOWNLOADER&amp;name=NICKELODEON (by TeamBlue)$$lsname=NICKELODEON (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1688.ts;streamtype=TSDOWNLOADER&amp;name=NICKELODEON (by TeamBlue)$$lsname=NICKELODEON (F4M) source #2</link>
+
+
+
+
+<thumbnail>http://i.imgur.com/8fMIHmp.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SIC K[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1207.ts;streamtype=TSDOWNLOADER&amp;name=SIC K (by TeamBlue)$$lsname=SIC K (F4M) source #1</link>
+
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1738.ts;streamtype=TSDOWNLOADER&amp;name=SIC K (by TeamBlue)$$lsname=SIC K (F4M) source #3</link>
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_k.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SUPER RTL[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/tvchannel/de/Super-RTL-Deutschland.html</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] AMC[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1225.ts;streamtype=TSDOWNLOADER&amp;name=AMC (by TeamBlue)$$lsname=AMC (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1709.ts;streamtype=TSDOWNLOADER&amp;name=AMC (by TeamBlue)$$lsname=AMC (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1780.ts;streamtype=TSDOWNLOADER&amp;name=AMC (by TeamBlue)$$lsname=AMC (F4M) source #3</link>
+
+
+
+<thumbnail>http://i.imgur.com/fHe2vb2.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] AXN[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1714.ts;streamtype=TSDOWNLOADER&amp;name=AXN (by TeamBlue)$$lsname=AXN (F4M) source #2</link>
+
+
+
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/axn$$lsname=AXN (Sports Devil)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_global.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] AXN BLACK[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/2140.ts;streamtype=TSDOWNLOADER&amp;name=AXN BLACK (by TeamBlue)$$lsname=AXN BLACK (F4M) source #2</link>
+
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_black_pt.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] AXN WHITE[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1713.ts;streamtype=TSDOWNLOADER&amp;name=AXN WHITE (by TeamBlue)$$lsname=AXN WHITE (F4M) source #2</link>
+
+
+
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/axnwhite$$lsname=AXN WHITE (Sports Devil)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_white_pt.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CINEMUNDO[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1220.ts;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO (by TeamBlue)$$lsname=CINEMUNDO (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1701.ts;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO (by TeamBlue)$$lsname=CINEMUNDO (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1768.ts;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO (by TeamBlue)$$lsname=CINEMUNDO (F4M) source #3</link>
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cine_mundo_pt.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FX[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://i.imgur.com/ZwvONFh.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1215.ts;streamtype=TSDOWNLOADER&amp;name=FOX (by TeamBlue)$$lsname=FOX (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1663.ts;streamtype=TSDOWNLOADER&amp;name=FOX (by TeamBlue)$$lsname=FOX (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1711.ts;streamtype=TSDOWNLOADER&amp;name=FOX (by TeamBlue)$$lsname=FOX (F4M) source #3</link>
+
+
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/fox$$lsname=FOX (Sports Devil)</link>
+<thumbnail>http://i.imgur.com/X4XkCez.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX COMEDY[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1694.ts;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY (by TeamBlue)$$lsname=FOX COMEDY (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1758.ts;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY (by TeamBlue)$$lsname=FOX COMEDY (F4M) source #3</link>
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_comedy_pt.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX CRIME[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1216.ts;streamtype=TSDOWNLOADER&amp;name=FOX CRIME (by TeamBlue)$$lsname=FOX CRIME (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1665.ts;streamtype=TSDOWNLOADER&amp;name=FOX CRIME (by TeamBlue)$$lsname=FOX CRIME (F4M) source #2</link>
+
+
+
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/foxcrime$$lsname=FOX CRIME (Sports Devil)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_crime_global.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX LIFE[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1181.ts;streamtype=TSDOWNLOADER&amp;name=FOX LIFE (by TeamBlue)$$lsname=FOX LIFE (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1664.ts;streamtype=TSDOWNLOADER&amp;name=FOX LIFE (by TeamBlue)$$lsname=FOX LIFE (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1182.ts;streamtype=TSDOWNLOADER&amp;name=FOX LIFE (by TeamBlue)$$lsname=FOX LIFE (F4M) source #3</link>
+
+
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/foxlife$$lsname=FOX LIFE (Sports Devil)</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rttuur1433432546.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX MOVIES[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1214.ts;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES (by TeamBlue)$$lsname=FOX MOVIES (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1729.ts;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES (by TeamBlue)$$lsname=FOX MOVIES (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1757.ts;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES (by TeamBlue)$$lsname=FOX MOVIES (F4M) source #3</link>
+
+
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/foxmovies$$lsname=FOX MOVIES (Sports Devil)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_movies_pt.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] HOLLYWOOD[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1662.ts;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD (by TeamBlue)$$lsname=HOLLYWOOD (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1710.ts;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD (by TeamBlue)$$lsname=HOLLYWOOD (F4M) source #3</link>
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/canal_hollywood_pt.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1830.ts;streamtype=TSDOWNLOADER&amp;name=MOV (by TeamBlue)$$lsname=MOV (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1728.ts;streamtype=TSDOWNLOADER&amp;name=MOV (by TeamBlue)$$lsname=MOV (F4M) source #2</link>
+
+
+
+
+<thumbnail>http://www.thelogodb.com/images/media/logo/ywpyvx1435102521.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TV CINE 1[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1149.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 1 (by TeamBlue)$$lsname=TV CINE 1 (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1716.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 1 (by TeamBlue)$$lsname=TV CINE 1 (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1726.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 1 (by TeamBlue)$$lsname=TV CINE 1 (F4M) source #3</link>
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvc1.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TV CINE 2[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1145.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 2 (by TeamBlue)$$lsname=TV CINE 2 (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1717.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 2 (by TeamBlue)$$lsname=TV CINE 2 (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1725.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 2 (by TeamBlue)$$lsname=TV CINE 2 (F4M) source #3</link>
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvc2.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TV CINE 3[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1150.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 3 (by TeamBlue)$$lsname=TV CINE 3 (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1718.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 3 (by TeamBlue)$$lsname=TV CINE 3 (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1724.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 3 (by TeamBlue)$$lsname=TV CINE 3 (F4M) source #3</link>
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvc3.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TV CINE 4[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1151.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 4 (by TeamBlue)$$lsname=TV CINE 4 (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1719.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 4 (by TeamBlue)$$lsname=TV CINE 4 (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1723.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 4 (by TeamBlue)$$lsname=TV CINE 4 (F4M) source #3</link>
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvc4.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TV SERIES[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1815.ts;streamtype=TSDOWNLOADER&amp;name=TV SERIES (by TeamBlue)$$lsname=TV SERIES (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1675.ts;streamtype=TSDOWNLOADER&amp;name=TV SERIES (by TeamBlue)$$lsname=TV SERIES (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1718.ts;streamtype=TSDOWNLOADER&amp;name=TV SERIES (by TeamBlue)$$lsname=TV SERIES (F4M) source #3</link>
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_series.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SYFY[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1206.ts;streamtype=TSDOWNLOADER&amp;name=SYFY (by TeamBlue)$$lsname=SYFY (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1655.ts;streamtype=TSDOWNLOADER&amp;name=SYFY (by TeamBlue)$$lsname=SYFY (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1730.ts;streamtype=TSDOWNLOADER&amp;name=SYFY (by TeamBlue)$$lsname=SYFY (F4M) source #3</link>
+
+
+
+<thumbnail>http://www.thelogodb.com/images/media/logo/qxpsqp1433432599.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1189.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY (by TeamBlue)$$lsname=DISCOVERY (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1668.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY (by TeamBlue)$$lsname=DISCOVERY (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1764.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY (by TeamBlue)$$lsname=DISCOVERY (F4M) source #3</link>
+
+
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonline.com/index.php?canal=discovery$$lsname=DISCOVERY (Sports Devil)</link>
+<thumbnail>http://i.imgur.com/OznL5Kq.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY SHOWCASE[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1188.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SHOWCASE (by TeamBlue)$$lsname=DISCOVERY SHOWCASE (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1698.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SHOWCASE (by TeamBlue)$$lsname=DISCOVERY SHOWCASE (F4M) source #2</link>
+
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_hd_showcase_us.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] HISTORIA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1192.ts;streamtype=TSDOWNLOADER&amp;name=HISTORIA (by TeamBlue)$$lsname=HISTORIA (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1706.ts;streamtype=TSDOWNLOADER&amp;name=HISTORIA (by TeamBlue)$$lsname=HISTORIA (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1753.ts;streamtype=TSDOWNLOADER&amp;name=HISTORIA (by TeamBlue)$$lsname=HISTORIA (F4M) source #3</link>
+
+
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonline.com/index.php?canal=historia$$lsname=HISTORIA (Sports Devil)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/hh/historia_pt.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] NAT GEO CHANNEL[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1173.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO CHANNEL (by TeamBlue)$$lsname=NAT GEO CHANNEL (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1690.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO CHANNEL (by TeamBlue)$$lsname=NAT GEO CHANNEL (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1715.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO CHANNEL (by TeamBlue)$$lsname=NAT GEO CHANNEL (F4M) source #3</link>
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nat_geo_us.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] NAT GEO WILD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1174.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD (by TeamBlue)$$lsname=NAT GEO WILD (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1689.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD (by TeamBlue)$$lsname=NAT GEO WILD (F4M) source #2</link>
+
+
+
+
+<thumbnail>http://i.imgur.com/sca81nc.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ODISSEIA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1171.ts;streamtype=TSDOWNLOADER&amp;name=ODISSEIA (by TeamBlue)$$lsname=ODISSEIA (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1687.ts;streamtype=TSDOWNLOADER&amp;name=ODISSEIA (by TeamBlue)$$lsname=ODISSEIA (F4M) source #2</link>
+
+
+
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/embed.php?c=odisseia$$lsname=ODISSEIA (Sports Devil)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/oo/odisseia_pt.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] OUTDOOR CHANNEL[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/outdoor_channel.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] AFRO MUSIC[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1845.ts;streamtype=TSDOWNLOADER&amp;name=AFRO MUSIC (by TeamBlue)$$lsname=AFRO MUSIC (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/2141.ts;streamtype=TSDOWNLOADER&amp;name=AFRO MUSIC (by TeamBlue)$$lsname=AFRO MUSIC (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1781.ts;streamtype=TSDOWNLOADER&amp;name=AFRO MUSIC (by TeamBlue)$$lsname=AFRO MUSIC (F4M) source #3</link>
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/afro_music_channel.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] C MUSIC[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://i.imgur.com/BbypShX.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] iCONCERTS[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/i_concerts.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] DELUXE MUSIQUE[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/m6_fr.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] M6 MUSIQUE[/B][/COLOR]</title>
+
+
+
+<link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8$$lsname=M6 MUSIQUE (HTTP)</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/m6_fr.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MCM POP[/B][/COLOR]</title>
+
+
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1750.ts;streamtype=TSDOWNLOADER&amp;name=MCM POP (by TeamBlue)$$lsname=MCM POP (F4M) source #3</link>
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mcm_pop.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MCM TOP[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/2146.ts;streamtype=TSDOWNLOADER&amp;name=MCM TOP (by TeamBlue)$$lsname=MCM TOP (F4M) source #2</link>
+
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mcm_top_fr.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MTV DANCE[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/2145.ts;streamtype=TSDOWNLOADER&amp;name=MTV DANCE (by TeamBlue)$$lsname=MTV DANCE (F4M) source #2</link>
+
+
+
+
+<thumbnail>http://i.imgur.com/RsNG82a.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MTV HITS[/B][/COLOR]</title>
+
+
+
+<link>http://94.74.65.100:19123/ott/64:1122$$lsname=MTV HITS (HTTP)</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mtv_hits_ce.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MTV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1175.ts;streamtype=TSDOWNLOADER&amp;name=MTV (by TeamBlue)$$lsname=MTV (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1691.ts;streamtype=TSDOWNLOADER&amp;name=MTV (by TeamBlue)$$lsname=MTV (F4M) source #2</link>
+
+
+
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/mtv$$lsname=MTV (Sports Devil)</link>
+<thumbnail>http://i.imgur.com/GyPW7Rw.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TRACE URBAN[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/2142.ts;streamtype=TSDOWNLOADER&amp;name=TRACE URBAN (by TeamBlue)$$lsname=TRACE URBAN (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/enispt/6773hhsh/1727.ts;streamtype=TSDOWNLOADER&amp;name=TRACE URBAN (by TeamBlue)$$lsname=TRACE URBAN (F4M) source #3</link>
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/trace_fr_urban.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] VEVO[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://i.imgur.com/gvrcgs1.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] VEVO 1[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://i.imgur.com/gvrcgs1.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] VEVO 2[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://i.imgur.com/gvrcgs1.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] VEVO 3[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://i.imgur.com/gvrcgs1.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] VH1[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1811.ts;streamtype=TSDOWNLOADER&amp;name=VH1 (by TeamBlue)$$lsname=VH1 (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1671.ts;streamtype=TSDOWNLOADER&amp;name=VH1 (by TeamBlue)$$lsname=VH1 (F4M) source #2</link>
+
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/vv/vh1_global.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] VH1 CLASSIC[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/2144.ts;streamtype=TSDOWNLOADER&amp;name=VH1 CLASSIC (by TeamBlue)$$lsname=VH1 CLASSIC (F4M) source #2</link>
+
+
+
+
+<thumbnail>http://i.imgur.com/DzLrn28.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] BAND[/B][/COLOR]</title>
+
+
+
+<link>http://107.182.231.88:1935/liverepeater/ch22-1/playlist.m3u8$$lsname=BAND (HTTP)</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/band_nacional_br.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] REDE TV[/B][/COLOR]</title>
+
+
+
+<link>http://evp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8$$lsname=REDE TV (HTTP)</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rede_tv_br.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SBT[/B][/COLOR]</title>
+
+
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SBT</title>
+
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SBT[/B][/COLOR]</title>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TPA[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1679.ts;streamtype=TSDOWNLOADER&amp;name=TPA (by TeamBlue)$$lsname=TPA (F4M) source #2</link>
+
+
+
+
+<thumbnail>http://i.imgur.com/ZqfQZuH.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TV5 MONDE[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv5_monde_europe.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TVE INTERNACIONAL[/B][/COLOR]</title>
+
+
+
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/galicia_tv_eu.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TV GALICIA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1817.ts;streamtype=TSDOWNLOADER&amp;name=TV GALICIA (by TeamBlue)$$lsname=TV GALICIA (F4M) source #1</link>
+
+
+<link>http://www.iptvsaga.com/play/tv3/0014.m3u8$$lsname=TV GALICIA (HTTP)</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/galicia_tv_eu.png</thumbnail></item>
 
 <item>       
 <title>[COLOR red]                                                          [/COLOR]</title>
