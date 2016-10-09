@@ -9,31 +9,55 @@
 <thumbnail>https://www.tvaddons.ag/kodi-addons/cache/images/da23d7255f8d09e92a44197b4d7738_icon.png</thumbnail>
 <fanart>https://fosspedro.files.wordpress.com/2016/08/plexus.jpg</fanart>
 </item>
+
+
+
 <item>       
-<title>[COLOR white]PORTUGAL TV WISEPLAY [/COLOR]</title>
+<title>[COLOR orange]ARENAVISION[/COLOR]  [COLOR red]Sopcast[/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/pt-wiseplay.wise</externallink>
-<thumbnail>http://cdn7.staztic.com/app/a/2936/2936166/greece-tv-live-greek-tv-1-7-s-307x512.jpg</thumbnail>
-<fanart>http://www.oas.org/en/ser/dia/perm_observers/Documents/Profiles/Flags/Greece.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/LIVE%20SPORTS%20ADD%20ESTRUTURA/SUB-MENUS/plexus/Arenavision%20Sopcast.xml</externallink>
+<thumbnail>http://i1-news.softpedia-static.com/images/news-hot/SopCast-3-8-2-Released-h2.png</thumbnail>
+<fanart>https://fosspedro.files.wordpress.com/2016/08/plexus.jpg</fanart>
 </item>
 
 <item>       
-<title>[COLOR white]SPORTS TVS [/COLOR] </title>
+<title>[COLOR orange]ARENAVISION[/COLOR]  [COLOR red]vlc[/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/sports.m3u</externallink>
-<thumbnail>http://s3.postimg.org/8ex9f3rwj/bandeira_espanha.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/djlopesdacosta/TV-SUPER-TUGA-ADD-ESTRUTURA/master/tvsupertuga/fanart1.png</fanart>
+<externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/LIVE%20SPORTS%20ADD%20ESTRUTURA/SUB-MENUS/plexus/Arenavision%20VLC%5B.xml</externallink>
+<thumbnail>https://demogh2.files.wordpress.com/2016/04/vlc-logo.jpg</thumbnail>
+<fanart>https://fosspedro.files.wordpress.com/2016/08/plexus.jpg</fanart>
 </item>
 
 
 <item>             
-<title>[COLOR white]MOTORSPORTS TV[/COLOR]  </title>
-<thumbnail>http://www.kuhnglobal.net/wp-content/uploads/2013/01/2009-usa-flag-graphics.jpg</thumbnail>
-<fanart>http://f.fwallpapers.com/images/beautiful-chicago-illinois-usa-4.jpg</fanart>
+<title>[COLOR orange]ARENAVISION[/COLOR]  [COLOR red]Canais[/COLOR]</title>
+<thumbnail>http://playstore.juegos/wp-content/uploads/2015/12/Arenavision-Deporte-en-Directo.jpg</thumbnail>
+<fanart>https://fosspedro.files.wordpress.com/2016/08/plexus.jpg</fanart>
 <link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/motorsports.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/LIVE%20SPORTS%20ADD%20ESTRUTURA/SUB-MENUS/plexus/CANAIS%20ARENAVISION.xml</externallink>
 </subitem>
 </item>
+
+
+ <item>
+<title>[COLOR orange]LIVE TV ACESTREAM SPORTS[/COLOR][COLOR red] Plexus[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<title>makelist</title>
+<listrepeat><![CDATA[<title>[COLOR deepskyblue][makelist.param1][/COLOR]</title><link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;title=Arenavision</link><thumbnail></thumbnail>]]></listrepeat>
+<expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
+<page>http://super-pomoyka.us.to/trash/ttv-list/ttv.sport.player.m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://lh3.googleusercontent.com/gsrMPURBUjEOcNSMk1KQ9yfJxgDMx3y1jJnl6gpVie3tF1PshEFFqkpTxhQDMvG0gTQ=w300</thumbnail>
+</item>
+
+
+
+
+
+
+
 
 <item>             
 <title>[COLOR white][I]AGENDA ARENAVISION[/I] [/COLOR]  </title>
@@ -41,121 +65,6 @@
 <fanart>http://static1.squarespace.com/static/54e6a8f5e4b012d86510a340/t/55ea0aede4b09394880674c3/1441401584057/united-kingdom+image+for+web.jpg?format=1500w</fanart>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/agenda_arenavision.xml</externallink>
-</subitem>
-</item>
-
-
-<item>       
-<title>[COLOR white]INTERNATIONAL TV[/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/international.m3u</externallink>
-<thumbnail>http://s3.postimg.org/8ex9f3rwj/bandeira_espanha.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/djlopesdacosta/TV-SUPER-TUGA-ADD-ESTRUTURA/master/tvsupertuga/fanart1.png</fanart>
-</item>
-
-
-<item>
-<title>[COLOR white]MUSIC TV [/COLOR]  </title>
-<thumbnail>https://catherinephotographyblog.files.wordpress.com/2015/07/ducati-weekend-at-calabogie-motorsports-park-june-27-2015-_dsc4708.jpg</thumbnail>
-<fanart>http://autoaction.com.au/wp-content/uploads/2015/01/J5R8719.jpg</fanart>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/music.m3u</externallink>
-</item>
-
-
-<item>               
-<title>[COLOR white]KIDS TV [/COLOR]  </title>
-<thumbnail>http://jaquikarr.com/members/wp-content/uploads/2015/07/Flag-Canadian.jpg</thumbnail>
-<fanart>http://whenonearth.net/wp-content/uploads/2015/02/Beautiful-Niagara-Falls-Ontario-Canada.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/kids.m3u</externallink>
-</subitem>
-</item>
-
-
-<item>              
-<title>[COLOR white][I]MOVIES [/COLOR]  [/I] </title>
-<thumbnail>http://cdn7.staztic.com/app/a/2936/2936151/italy-tv-live-italian-italia-1-0-s-307x512.jpg</thumbnail>
-<fanart>http://cdn7.staztic.com/app/a/2936/2936151/italy-tv-live-italian-italia-1-0-s-307x512.jpg</fanart>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/movies.m3u</externallink>
-</subitem>
-</item>
-
-<item>              
-<title>[COLOR white][I]TVSHOWS[/I] [/COLOR]  </title>
-<thumbnail>http://onedayinitaly.com/wp-content/uploads/2014/05/italian-flag.jpg</thumbnail>
-<fanart>https://walkingtree.org/wp-content/uploads/2015/09/Elia-Locardi-Whispers-From-The-Past-The-Colosseum-Rome-Italy-1280-WM.jpg</fanart>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/tvshows.m3u</externallink>
-</subitem>
-</item>
-
-<item>              
-<title>[COLOR white][I]NEWS[/I] [/COLOR] </title>
-<thumbnail>http://cdn8.staztic.com/app/a/2924/2924321/france-tv-live-french-tv-free-1-0-s-307x512.jpg</thumbnail>
-<fanart>http://cdn8.staztic.com/app/a/2924/2924321/france-tv-live-french-tv-free-1-0-s-307x512.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/news.m3u</externallink>
-</item>
-
-
-<item>              
-<title>[COLOR white][I]NASA TV[/I] [/COLOR]   </title>
-<thumbnail>http://www.pieniadz.pl/archiwum/geografia/flagi_godla_itp/francja_flaga_1.jpg</thumbnail>
-<fanart>http://edmontonwho.org/wp-content/uploads/2014/12/paris-france.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/nasa.m3u</externallink>
-</item>
-
-<item>               
-<title>[COLOR white][I]SMART-TV[/I] [/COLOR]   </title>
-<thumbnail>http://t15.deviantart.net/EBc7dtFyj0XQSAAUQ4K_RGJ6Kjk=/300x200/filters:fixed_height(100,100):origin()/pre07/7550/th/pre/i/2015/103/6/6/romania_realistic_flag_by_judalei2k11-d8o5kf0.png</thumbnail>
-<fanart>https://romaniadacia.files.wordpress.com/2012/08/timisoara-2-romanian-cities-beautiful-european-cities-beautiful-romanian-landscapes.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/smart-tv.m3u</externallink>
-</item>
-
-<item>             
-<title>[COLOR white][I]WEB CAMS MUNDO E PRAIAS[/I] [/COLOR]  </title>
-<thumbnail>http://orig01.deviantart.net/e8c8/f/2009/171/d/3/realistic_philippine_flag_by_shintalz.jpg</thumbnail>
-<fanart>http://paktravel.net/wp-content/uploads/2015/01/Philippines.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>http://pastebin.com/raw/wtyb4YC0</externallink>
-</item>
-
-
-<item>       
-<title>[COLOR white][I]ADULT TV[/I] [/COLOR]  </title>
-<link>http://Ignorame</link>
-<externallink>https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/adult.m3u</externallink>
-<thumbnail>http://hookedoneverything.com/wp-content/uploads/2015/08/Kevin-Hart-standup.jpg</thumbnail>
-</item>
-
-
-<item>       
-<title>[COLOR red]                                                          [/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink></externallink>
-<thumbnail>http://4.bp.blogspot.com/_WOXrl5Nlxfk/ShcHx8VXFNI/AAAAAAAAAv0/0Shv7KRuRPc/S1600-R/Voltar+ao+Menu+Principal.gif</thumbnail>
-<fanart></fanart>
-</item>
-
-
-
-
-
-
-
-
-
-
-<item>       
-<title>[COLOR red] [I]                                           VOLTAR AO MENU PRINCIPAL[/I] [/COLOR] </title>
-<link>http://ignorame</link>
-<externallink>http://bit.ly/1YGUSsjkjnncggggggggffffffrrrtyyytddw222ssssssssssssssssssddddddffedmnncnnvnbjuhhruituryueuyyrtgsgdgfggkjjggdskgkggkggueruaiiyrgueUSsghsjhgununjnjnvnnjsjnbvbnjsnjnmnnnbkfkjkjkjnncmnncnnvnbjuhhruituryueuyyrtgsgdgfggkjjggdskgkggkggueruaiiyrruaiiyr1iwu</externallink>
-<thumbnail>http://4.bp.blogspot.com/_WOXrl5Nlxfk/ShcHx8VXFNI/AAAAAAAAAv0/0Shv7KRuRPc/S1600-R/Voltar+ao+Menu+Principal.gif</thumbnail>
-<fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
 </subitem>
 </item>
 
