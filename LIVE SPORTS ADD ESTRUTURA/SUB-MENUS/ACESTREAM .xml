@@ -1,10 +1,13 @@
- <channel>
-<name>[COLOR orange]ARENAVISION[/COLOR]  [COLOR red] Plexus[/COLOR]</name>
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+ 
+ <item>
+<title>[COLOR orange]ARENAVISION[/COLOR]  [COLOR red] Plexus[/COLOR]</title>
 <thumbnail>https://www.tvaddons.ag/kodi-addons/cache/images/da23d7255f8d09e92a44197b4d7738_icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/LIVE%20SPORTS%20ADD%20ESTRUTURA/SUB-MENUS/plexus/Arenavision%20Plexus.xml</externallink>
 <fanart>https://fosspedro.files.wordpress.com/2016/08/plexus.jpg</fanart>
 <info></info>
-</channel>
+</item>
 
  <channel>
 <name>[COLOR orange]ARENAVISION[/COLOR]  [COLOR red]Sopcast[/COLOR]</name>
