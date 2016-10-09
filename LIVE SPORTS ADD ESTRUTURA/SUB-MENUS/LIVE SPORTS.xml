@@ -2,7 +2,16 @@
 
 
 <item>
-<title>[COLOR gold][B][COLOR green][/COLOR] PAKTV SPORTS [COLOR green][/COLOR][COLOR magenta] [/COLOR][/B]</title>
+<title>[COLOR orange]SPORTS ON TV NOW[/COLOR]</title>
+<link>http://MENU3</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dRojaDirecta.me%26url%3dlivesports%252Frojadirecta.me.cfg%26definedIn%3dlivesports.cfg%26director%3dRojaDirecta.me%26genre%3dLive%2bSports%26type%3drss%26icon%3dC%253A%255CUsers%255Czuca_%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Croja.jpg&amp;mode=1&quotNavigator</jsonrpc>
+<fanart>http://www.localfm.nl/wp-content/uploads/2015/05/all-sports-banner.png</fanart>
+<thumbnail>http://cdn.coresites.factorymedia.com/freedombmx/wp-content/uploads/2013/01/Sports-Now-2013-BMX-Hannover.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR gold][B][COLOR green][/COLOR] PAKTV SPORTS [COLOR green][/COLOR][COLOR ] [/COLOR][/B]</title>
 <link>http://fui.me</link>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=52&amp;name=PAKTVSPORTS&amp;url=sss</jsonrpc>
 <thumbnail>http://s32.postimg.org/9h6gqq5xh/zemtv.jpg</thumbnail>
@@ -10,14 +19,14 @@
 </item>
 
 <item> 
-<title>[COLOR gold][B][COLOR green][/COLOR] SPORTS 365 LIVE [COLOR green][/COLOR][COLOR magenta]  [/COLOR][/B]</title> 
+<title>[COLOR gold][B][COLOR green][/COLOR] SPORTS 365 LIVE [COLOR green][/COLOR][COLOR ]  [/COLOR][/B]</title> 
 <link>http://fui.me</link> 
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc> 
 <thumbnail>http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/66-300x287.jpg</thumbnail> 
 </item>
 
 <item>
-<title>[COLOR gold][B][COLOR green][/COLOR] ARENAVISION.IN [COLOR green][/COLOR][COLOR magenta]  [/COLOR][/B]</title>
+<title>[COLOR gold][B][COLOR green][/COLOR] ARENAVISION.IN [COLOR green][/COLOR][COLOR ]  [/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -46,13 +55,13 @@
 
 
 <item>
-<title>[COLOR gold][B][COLOR green][/COLOR] WIZHDSPORTS [COLOR green][/COLOR] [COLOR magenta]  [/B][/COLOR]</title>
+<title>[COLOR gold][B][COLOR green][/COLOR] WIZHDSPORTS [COLOR green][/COLOR] [COLOR ]  [/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-  <title>[COLOR gold][makelist.param2][/COLOR][COLOR magenta]-[/COLOR][COLOR magenta]-[/COLOR][COLOR green][makelist.param1][/COLOR]</title>
+  <title>[COLOR gold][makelist.param2][/COLOR][COLOR ]-[/COLOR][COLOR ]-[/COLOR][COLOR green][makelist.param1][/COLOR]</title>
   <link>$doregex[makelist2]</link>
   <referer>http://wizhdsports.com</referer>
 ]]></listrepeat>
@@ -164,14 +173,14 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 
 <item>
-<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV1 [COLOR green][/COLOR][COLOR magenta] [/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV1 [COLOR green][/COLOR][COLOR ] [/COLOR][/B]</title>
 <link>http://83.78.191.43:2065/</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/564x/53/c5/fd/53c5fdb9a48560eaf89fad665b6f2345.jpg</thumbnail>
 </item>
 
 
 <item> 
-<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV1 [COLOR green][/COLOR][COLOR magenta] [Sport Devil/P2P][/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV1 [COLOR green][/COLOR][COLOR ] [Sport Devil/P2P][/COLOR][/B]</title>
 <sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil>
 <referer>http://cdn2.zuuk.org/</referer>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/564x/53/c5/fd/53c5fdb9a48560eaf89fad665b6f2345.jpg</thumbnail>
@@ -179,7 +188,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 
 <item>  
-<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV1 [COLOR green][/COLOR][COLOR magenta] [Sport Devil/P2P][/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV1 [COLOR green][/COLOR][COLOR ] [Sport Devil/P2P][/COLOR][/B]</title>
 <link>$doregex[get-rtmp]/privatestream/ app=privatestream/ playpath=$doregex[path] swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge</link>
 <regex>
 <name>get-rtmp</name>
@@ -220,7 +229,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 </item>
 
 <item> 
-<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV1 [COLOR green][/COLOR][COLOR magenta] [Sport Devil/P2P][/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV1 [COLOR green][/COLOR][COLOR ] [Sport Devil/P2P][/COLOR][/B]</title>
 <sportsdevil>http://wizhdsports.to/live/stream20.php?width=650&height=480</sportsdevil>
 <referer>http://wizhdsports.to/live/stream20.php?width=650&height=480</referer>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/564x/53/c5/fd/53c5fdb9a48560eaf89fad665b6f2345.jpg</thumbnail>
@@ -228,60 +237,60 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 
 
 <item>
-<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV1 [COLOR green][/COLOR][COLOR magenta] [rtmp] [/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV1 [COLOR green][/COLOR][COLOR ] [rtmp] [/COLOR][/B]</title>
 <link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=fawergge?keys=6FwFzBwoArVD7GnroNTCwg&keyt=1471185155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/564x/53/c5/fd/53c5fdb9a48560eaf89fad665b6f2345.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV2 [COLOR green][/COLOR][COLOR magenta] [/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV2 [COLOR green][/COLOR][COLOR ] [/COLOR][/B]</title>
 <link>http://83.78.191.43:2066/</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/564x/fc/62/4c/fc624c6750899f160eb25e450fb0832e.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV2 [COLOR green][/COLOR][COLOR magenta] [Sport Devil/P2P][/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV2 [COLOR green][/COLOR][COLOR ] [Sport Devil/P2P][/COLOR][/B]</title>
 <sportsdevil>http://www.desportonline.com/index.php?canal=sporttv2</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/564x/fc/62/4c/fc624c6750899f160eb25e450fb0832e.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV3 [COLOR green][/COLOR][COLOR magenta] [/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV3 [COLOR green][/COLOR][COLOR ] [/COLOR][/B]</title>
 <link>http://83.78.191.43:2067/</link>
 <thumbnail>http://allfootballvideo.com/images/channel-logo/SPORT.TV3_.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV4 [COLOR green][/COLOR][COLOR magenta] [Sport Devil/P2P][/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV4 [COLOR green][/COLOR][COLOR ] [Sport Devil/P2P][/COLOR][/B]</title>
 <sportsdevil>http://www.desportonline.com/index.php?canal=sporttv4-2</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
 <thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv4_pt.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV5 [COLOR green][/COLOR][COLOR magenta] [Sport Devil/P2P][/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV5 [COLOR green][/COLOR][COLOR ] [Sport Devil/P2P][/COLOR][/B]</title>
 <sportsdevil>http://www.desportonline.com/index.php?canal=sporttv5</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV5 [COLOR green][/COLOR][COLOR magenta] [Sport Devil/P2P][/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV5 [COLOR green][/COLOR][COLOR ] [Sport Devil/P2P][/COLOR][/B]</title>
 <sportsdevil>http://www.sporttvsonline.net/index.php?canal=sporttv5</sportsdevil>
 <referer>http://www.sporttvsonline.net</referer>
 <thumbnail>https://soombo.com/assets/images/200_1459188732.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV5 [COLOR green][/COLOR][COLOR magenta] [Sport Devil/P2P][/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV5 [COLOR green][/COLOR][COLOR ] [Sport Devil/P2P][/COLOR][/B]</title>
 <sportsdevil>http://www.europeu2016.net/index.php?canal=sporttv5</sportsdevil>
 <referer>http://www.europeu2016.com</referer>
 <thumbnail>https://soombo.com/assets/images/200_1459188732.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR green][/COLOR] BTV [COLOR green][/COLOR][COLOR magenta] [/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] BTV [COLOR green][/COLOR][COLOR ] [/COLOR][/B]</title>
 <link>http://83.78.191.43:2008</link>
 <thumbnail>http://benficanoticias.altervista.org/wp-content/uploads/2015/11/CanaisPremium_BenficaTV.png</thumbnail>
 </item>
@@ -289,28 +298,28 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 
 
 <item>
-<title>[COLOR lime][B][COLOR green][/COLOR] BTV [COLOR green][/COLOR][COLOR magenta] [Sport Devil/P2P][/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] BTV [COLOR green][/COLOR][COLOR ] [Sport Devil/P2P][/COLOR][/B]</title>
 <sportsdevil>http://cdn2.zuuk.org/benficatv.php</sportsdevil>
 <referer>http://cdn2.zuuk.org/</referer>
 <thumbnail>http://benficanoticias.altervista.org/wp-content/uploads/2015/11/CanaisPremium_BenficaTV.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR green][/COLOR] BTV [COLOR green][/COLOR][COLOR magenta] [Sport Devil/P2P][/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] BTV [COLOR green][/COLOR][COLOR ] [Sport Devil/P2P][/COLOR][/B]</title>
 <sportsdevil>http://www.desportonline.com/index.php?canal=benficatv</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
 <thumbnail>http://benficanoticias.altervista.org/wp-content/uploads/2015/11/CanaisPremium_BenficaTV.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR green][/COLOR] BTV [COLOR green][/COLOR][COLOR magenta] [Sport Devil/P2P][/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] BTV [COLOR green][/COLOR][COLOR ] [Sport Devil/P2P][/COLOR][/B]</title>
 <sportsdevil>http://www.estadiofutebol.com/gratis/benficatv</sportsdevil>
 <referer>http://flashplayer.com</referer>
 <thumbnail>http://benficanoticias.altervista.org/wp-content/uploads/2015/11/CanaisPremium_BenficaTV.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR green][/COLOR] BTV [COLOR green][/COLOR][COLOR magenta] [RTMP][/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] BTV [COLOR green][/COLOR][COLOR ] [RTMP][/COLOR][/B]</title>
 <link>rtmp://31.220.0.187/privatestream/gergtrg?keys=NU4qltlc2xuy7XAZt7hg3A&keyt=1470068995 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=gergtrg&width=630&height=510&amp;name=INSPIR@TION</link>
 <thumbnail>http://benficanoticias.altervista.org/wp-content/uploads/2015/11/CanaisPremium_BenficaTV.png</thumbnail>
 </item>
@@ -322,19 +331,19 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 
 
 <item>
-<title>[COLOR lime][B][COLOR green][/COLOR] Super Sporlig [COLOR green][/COLOR][COLOR magenta] [Varias ligas europeias][/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] Super Sporlig [COLOR green][/COLOR][COLOR ] [Varias ligas europeias][/COLOR][/B]</title>
 <link>http://92.222.205.40:8085/lighd</link>
 <thumbnail>http://www.gaziantepspor.org.tr/admin/upload/stsl-logo-03.png</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR lime][B][COLOR green][/COLOR] l'Equipe 21 [COLOR green][/COLOR][COLOR magenta] [FR][/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] l'Equipe 21 [COLOR green][/COLOR][COLOR ] [FR][/COLOR][/B]</title>
 <link>http://streaming-hub.com/stream/lequipe21.m3u8</link>
 <thumbnail>http://www.ledirect.fr/images/lequipe21.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B][COLOR green][/COLOR] l'Equipe 21 [COLOR green][/COLOR][COLOR magenta] [FR][/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] l'Equipe 21 [COLOR green][/COLOR][COLOR ] [FR][/COLOR][/B]</title>
 <link>http://streaming-hub.com/stream/lequipe21.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101</link>
 <thumbnail>http://www.ledirect.fr/images/lequipe21.png</thumbnail>
 </item>
@@ -396,33 +405,33 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR green][/COLOR] Eurosport 1 [COLOR green][/COLOR][COLOR magenta] [UK][/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] Eurosport 1 [COLOR green][/COLOR][COLOR ] [UK][/COLOR][/B]</title>
 <link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8</link>
 <thumbnail>https://4.bp.blogspot.com/-kd23lnROuzY/V3USU1V1TlI/AAAAAAAAAHo/1zndCh3TbrQQYfN3D_ZdIOYyzbwODFZ2wCKgB/s1600/Eurosport1-720x380.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B][COLOR green][/COLOR] Eurosport 2 [COLOR green][/COLOR][COLOR magenta] [RU][/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] Eurosport 2 [COLOR green][/COLOR][COLOR ] [RU][/COLOR][/B]</title>
 <link>http://www.sport24.pw/hls/Eurosport2.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/85/Eurosport2.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B][COLOR green][/COLOR] Real Madrid [COLOR green][/COLOR][COLOR magenta] [ESP][/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] Real Madrid [COLOR green][/COLOR][COLOR ] [ESP][/COLOR][/B]</title>
 <link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
 <thumbnail>http://primeevil.altervista.org/images/Senderlogos/Real%20Madrid%20TV.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B][COLOR green][/COLOR] Versus Tv [COLOR green][/COLOR][COLOR magenta]   [/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] Versus Tv [COLOR green][/COLOR][COLOR ]   [/COLOR][/B]</title>
 <link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
 <thumbnail>http://news.formulad.com/wordpress/wp-content/uploads/2011/06/Versus-Logo1.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR green][/COLOR] POKER CENTRAL [COLOR green][/COLOR][COLOR magenta]   [/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] POKER CENTRAL [COLOR green][/COLOR][COLOR ]   [/COLOR][/B]</title>
 <link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8?sd=10&amp;rebase=on</link>
 <thumbnail>http://media.cardplayer.com/assets/000/016/219/poker_central.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B][COLOR green][/COLOR] green BULL TV [COLOR green][/COLOR][COLOR magenta]   [/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] green BULL TV [COLOR green][/COLOR][COLOR ]   [/COLOR][/B]</title>
 <link>http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master_fb1660.m3u8</link>
 <thumbnail>http://i.cdn.turner.com/drp/nba/bulls/sites/default/files/bullstvlogo_1415.png</thumbnail>
 </item>
@@ -451,13 +460,13 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 
 
 <item>
-<title>[COLOR lime][B][COLOR green][/COLOR] SPORT2 [COLOR green][/COLOR][COLOR magenta] [CHE][/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] SPORT2 [COLOR green][/COLOR][COLOR ] [CHE][/COLOR][/B]</title>
 <link>http://213.81.153.243/live003/channel045_p5.stream/DVR.m3u8</link>
 <thumbnail>http://on-line-televize.cz/wp-content/uploads/2015/10/sport2.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR green][/COLOR] Idman Tv [COLOR green][/COLOR][COLOR magenta] [AZE][/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] Idman Tv [COLOR green][/COLOR][COLOR ] [AZE][/COLOR][/B]</title>
 <link>http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/master.m3u8</link>
 <thumbnail>http://s32.postimg.org/f68j9p3t1/idman.png</thumbnail>
 </item>
