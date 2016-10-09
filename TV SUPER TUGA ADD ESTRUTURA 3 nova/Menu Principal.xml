@@ -1,0 +1,76 @@
+#######################################################################################################################################
+<poster>Bob</poster>
+<fanart>http://www.norestrictions.club/main/mainicons/fanart.jpg</fanart>
+#######################################################################################################################################
+
+<dir>
+<name>New Releases</name>
+<link>http://www.norestrictions.club/main/newreleases.xml</link>
+<thumbnail>http://www.norestrictions.club/main/mainicons/NewReleases.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Amazing TV</name>
+<link>http://www.norestrictions.club/blue/tvshows/Shows.xml</link>
+<thumbnail>http://www.norestrictions.club/main/mainicons/AmazingTV.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Bob Sports</name>
+<link>http://www.norestrictions.club/main/sports.xml</link>
+<thumbnail>http://www.norestrictions.club/main/mainicons/Sports.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Blue's Place</name>
+<link>http://www.norestrictions.club/blue/bluemain/bluemain.xml</link>
+<thumbnail>http://www.norestrictions.club/main/mainicons/Blue.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Costa</name>
+<link>http://www.norestrictions.club/costa/Main.xml</link>
+<thumbnail>http://www.norestrictions.club/main/mainicons/Costa.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>T.A. Streams</name>
+<link>http://www.norestrictions.club/tastreams/files/tastreams.xml</link>
+<thumbnail>http://www.norestrictions.club/main/mainicons/TAStreams.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>TNPB</name>
+<link>http://www.norestrictions.club/tnpb/maindir/main.xml</link>
+<thumbnail>http://www.norestrictions.club/main/mainicons/TNPB%20%282%29.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Valhalla</name>
+<link>http://www.norestrictions.club/valhalla/maindir/main.xml</link>
+<thumbnail>http://www.norestrictions.club/main/mainicons/Valhalla.jpg</thumbnail>
+</dir>
+
+<plugin>
+<name>30701</name>
+<link>plugin://plugin.video.bob/?action=openSettings</link>
+<thumbnail>http://www.norestrictions.club/main/mainicons/Settings.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>30702</name>
+<link>plugin://plugin.video.bob/?action=search</link>
+<thumbnail>http://www.norestrictions.club/main/mainicons/Search.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Clear Cache</name>
+<link>plugin://plugin.video.bob/?action=clearCache</link>
+<thumbnail>http://www.norestrictions.club/main/mainicons/Search.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>Testings</name>
+<link>plugin://plugin.video.bob/?action=developer</link>
+<thumbnail></thumbnail>
+</plugin>

@@ -1,0 +1,77 @@
+#######################################################################################################################################
+<poster>costa</poster>
+<fanart>http://norestrictions.club/costa/art/fanart.jpg</fanart>
+#######################################################################################################################################
+
+
+<item>                                       
+<title>[COLOR red][B]W E L C O M E [/COLOR][COLOR gold] TO [/B][/COLOR][COLOR green][B] B O B[/COLOR][COLOR ][/B][/COLOR]</title>
+<link>http://nolink.com</link>
+<thumbnail>http://norestrictions.club/costa/art/icon%20gf.jpg</thumbnail>
+<fanart>http://norestrictions.club/costa/art/fanart.jpg</fanart>
+</item>
+
+
+
+<dir>
+<name>[COLOR gold]Christmas Movies[/COLOR]</name>
+<link>http://norestrictions.club/costa/movies/xmas/xmas.xml</link>
+<thumbnail>http://norestrictions.club/costa/art/Icon/xmas.jpg</thumbnail>
+</dir>  
+
+
+<dir>
+<name>[COLOR green]Movies[/COLOR]</name>
+<link>http://norestrictions.club/costa/movies/movies/movies.xml</link>
+<thumbnail>http://norestrictions.club/costa/art/Icon/Movies.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR red]90's Movies[/COLOR]</name>
+<link>http://norestrictions.club/costa//movies/90%27s/90%27s%20movies.xml</link>
+<thumbnail>http://norestrictions.club/costa//art/90%27s.jpg</thumbnail>
+</dir>
+
+
+<dir>
+<name>[COLOR gold]80's Movies[/COLOR]</name>
+<link>http://norestrictions.club/costa//movies/80s/80%27s.xml</link>
+<thumbnail>http://norestrictions.club/costa/art/80s.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR green]Box Set[/COLOR]</name>
+<link>http://norestrictions.club/costa/movies/movies/box%20Sets/box%20set.xml</link>
+<thumbnail>http://norestrictions.club/costa/art/Icon/Movies.jpg</thumbnail>
+</dir>
+
+ 
+<dir>
+<name>[COLOR red]Kids Movies[/COLOR]</name>
+<link>http://norestrictions.club/costa/movies/kids/kids.xml</link>
+<thumbnail>http://norestrictions.club/costa/art/Icon/Kids%20Movies.jpg</thumbnail>
+</dir>
+
+dir>
+<name>[COLOR gold]Moto Gp[/COLOR]</name>
+<link>http://norestrictions.club/costa/Moto%20gp%20Race%20Day/Moto%20Gp%20Event.xml</link>
+<thumbnail>http://norestrictions.club/costa/art/Icon/Mo%20gp.jpg</thumbnail>   
+</dir>
+       
+<dir>
+<name>[COLOR green]Boxing Replay's[/COLOR]</name>
+<link>http://norestrictions.club/costa/Replays/boxing/boxing%20Replays.xml</link>
+<thumbnail>http://norestrictions.club/costa/art/Icon/Box%20rep.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR red]Minecraft[/COLOR]</name>
+<link>http://norestrictions.club/costa/Mis//minecraft.xml</link>
+<thumbnail>http://norestrictions.club/costa/art/Icon/Min.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR green]Filmon[/COLOR]</name>
+<link>http://norestrictions.club/costa/Filmon/Filmon.xml</link>
+<thumbnail>http://norestrictions.club/costa/art/Icon/filmon.jpg</thumbnail>
+</dir>
