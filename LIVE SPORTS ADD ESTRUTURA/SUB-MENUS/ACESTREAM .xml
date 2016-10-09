@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
+<item>
+<title>[COLOR orange]SPORTS ON TV NOW[/COLOR]</title>
+<link>http://MENU3</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dRojaDirecta.me%26url%3dlivesports%252Frojadirecta.me.cfg%26definedIn%3dlivesports.cfg%26director%3dRojaDirecta.me%26genre%3dLive%2bSports%26type%3drss%26icon%3dC%253A%255CUsers%255Czuca_%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Croja.jpg&amp;mode=1&quotNavigator</jsonrpc>
+<fanart>http://www.localfm.nl/wp-content/uploads/2015/05/all-sports-banner.png</fanart>
+<thumbnail>http://cdn.coresites.factorymedia.com/freedombmx/wp-content/uploads/2013/01/Sports-Now-2013-BMX-Hannover.jpg</thumbnail>
+</item>
 
 <item>       
 <title>[COLOR orange]ARENAVISION[/COLOR]  [COLOR red] Plexus[/COLOR]</title>
