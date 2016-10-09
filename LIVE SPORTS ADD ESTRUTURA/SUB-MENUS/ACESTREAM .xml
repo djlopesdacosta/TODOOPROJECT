@@ -1,31 +1,44 @@
  <channel>
-<name>[COLOR red]ARENAVISION[/COLOR]  [COLOR red] Plexus[/COLOR]</name>
-<thumbnail>https://lh3.googleusercontent.com/gsrMPURBUjEOcNSMk1KQ9yfJxgDMx3y1jJnl6gpVie3tF1PshEFFqkpTxhQDMvG0gTQ=w300</thumbnail>
-<externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/LIVE%20SPORTS%20ADD%20ESTRUTURA/SUB-MENUS/LIVE%20SPORTS.xml</externallink>
-<fanart>https://amhallblog.files.wordpress.com/2013/04/20130402_233917.jpg</fanart>
+<name>[COLOR orange]ARENAVISION[/COLOR]  [COLOR red] Plexus[/COLOR]</name>
+<thumbnail>https://www.tvaddons.ag/kodi-addons/cache/images/da23d7255f8d09e92a44197b4d7738_icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/LIVE%20SPORTS%20ADD%20ESTRUTURA/SUB-MENUS/plexus/Arenavision%20Plexus.xml</externallink>
+<fanart>https://fosspedro.files.wordpress.com/2016/08/plexus.jpg</fanart>
 <info></info>
 </channel>
 
  <channel>
-<name>[COLOR red]ARENAVISION[/COLOR]  [COLOR red]Sopcast[/COLOR]</name>
-<thumbnail>https://lh3.googleusercontent.com/gsrMPURBUjEOcNSMk1KQ9yfJxgDMx3y1jJnl6gpVie3tF1PshEFFqkpTxhQDMvG0gTQ=w300</thumbnail>
-<externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/LIVE%20SPORTS%20ADD%20ESTRUTURA/SUB-MENUS/LIVE%20SPORTS.xml</externallink>
-<fanart>https://amhallblog.files.wordpress.com/2013/04/20130402_233917.jpg</fanart>
+<name>[COLOR orange]ARENAVISION[/COLOR]  [COLOR red]Sopcast[/COLOR]</name>
+<thumbnail>http://i1-news.softpedia-static.com/images/news-hot/SopCast-3-8-2-Released-h2.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/LIVE%20SPORTS%20ADD%20ESTRUTURA/SUB-MENUS/plexus/Arenavision%20Sopcast.xml</externallink>
+<fanart>https://fosspedro.files.wordpress.com/2016/08/plexus.jpg</fanart>
 <info></info>
 </channel>
 
  <channel>
-<name>[COLOR red]ARENAVISION[/COLOR]  [COLOR red]vlc[/COLOR]</name>
-<thumbnail>https://lh3.googleusercontent.com/gsrMPURBUjEOcNSMk1KQ9yfJxgDMx3y1jJnl6gpVie3tF1PshEFFqkpTxhQDMvG0gTQ=w300</thumbnail>
-<externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/LIVE%20SPORTS%20ADD%20ESTRUTURA/SUB-MENUS/LIVE%20SPORTS.xml</externallink>
-<fanart>https://amhallblog.files.wordpress.com/2013/04/20130402_233917.jpg</fanart>
+<name>[COLOR orange]ARENAVISION[/COLOR]  [COLOR red]vlc[/COLOR]</name>
+<thumbnail>https://demogh2.files.wordpress.com/2016/04/vlc-logo.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/LIVE%20SPORTS%20ADD%20ESTRUTURA/SUB-MENUS/plexus/Arenavision%20VLC%5B.xml</externallink>
+<fanart>https://fosspedro.files.wordpress.com/2016/08/plexus.jpg</fanart>
 <info></info>
 </channel>
 
  <channel>
-<name>[COLOR red]ARENAVISION[/COLOR]  [COLOR red]Canais[/COLOR]</name>
-<thumbnail>https://lh3.googleusercontent.com/gsrMPURBUjEOcNSMk1KQ9yfJxgDMx3y1jJnl6gpVie3tF1PshEFFqkpTxhQDMvG0gTQ=w300</thumbnail>
-<externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/LIVE%20SPORTS%20ADD%20ESTRUTURA/SUB-MENUS/LIVE%20SPORTS.xml</externallink>
-<fanart>https://amhallblog.files.wordpress.com/2013/04/20130402_233917.jpg</fanart>
+<name>[COLOR orange]ARENAVISION[/COLOR]  [COLOR red]Canais[/COLOR]</name>
+<thumbnail>http://playstore.juegos/wp-content/uploads/2015/12/Arenavision-Deporte-en-Directo.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/LIVE%20SPORTS%20ADD%20ESTRUTURA/SUB-MENUS/plexus/CANAIS%20ARENAVISION.xml</externallink>
+<fanart>https://fosspedro.files.wordpress.com/2016/08/plexus.jpg</fanart>
 <info></info>
+</channel>
+
+ <channel>
+<name>[COLOR orange]LIVE TV ACESTREAM SPORTS[/COLOR][COLOR red] Plexus[/COLOR]</name>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[<title>[COLOR deepskyblue][makelist.param1][/COLOR]</title><link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=Arenavision</link><thumbnail></thumbnail>]]></listrepeat>
+<expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
+<page>http://super-pomoyka.us.to/trash/ttv-list/ttv.sport.player.m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://lh3.googleusercontent.com/gsrMPURBUjEOcNSMk1KQ9yfJxgDMx3y1jJnl6gpVie3tF1PshEFFqkpTxhQDMvG0gTQ=w300</thumbnail>
 </channel>
