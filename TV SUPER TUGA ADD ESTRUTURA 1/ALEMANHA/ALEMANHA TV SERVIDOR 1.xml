@@ -25,7 +25,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 04-10-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 15-10-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
@@ -37,383 +37,433 @@
 
 
 <item>
-<title>DE_SKY_SELECT1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/4675.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SELECT1_HD </link>
+<title>DE: Sky Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/213.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sports 1 HD </link>
 </item>
 <item>
-<title>DE_SKY_SELECT2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/4676.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SELECT2_HD </link>
+<title>DE: Sky Sports 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/214.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sports 2 HD </link>
 </item>
 <item>
-<title>DE_SKY_SELECT3_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/4677.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SELECT3_HD </link>
+<title>DE: Sky Bundesliga 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/215.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 1 </link>
 </item>
 <item>
-<title>DE_SKY_SELECT4_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/4678.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SELECT4_HD </link>
+<title>DE: Sky Bundesliga 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1239.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 2 </link>
 </item>
 <item>
-<title>DE_SKY_SELECT5_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/4679.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SELECT5_HD </link>
+<title>DE: Sky Bundesliga 3 (offline when no match)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1240.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 3 (offline when no match) </link>
 </item>
 <item>
-<title>DE_SKY_SELECT6_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/4680.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SELECT6_HD </link>
+<title>DE: Sky Bundesliga 4 (offline when no match)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1241.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 4 (offline when no match) </link>
 </item>
 <item>
-<title>DE_SKY_SELECT7_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/4681.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SELECT7_HD </link>
+<title>DE: Sky Bundesliga 5 (offline when no match)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1242.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 5 (offline when no match) </link>
 </item>
 <item>
-<title>DE_SKY_SELECT8_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/4682.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SELECT8_HD </link>
+<title>DE: Sky Bundesliga 6 (offline when no match)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1243.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 6 (offline when no match) </link>
 </item>
 <item>
-<title>DE_FILM_GOLD5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/7511.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_FILM_GOLD5 </link>
+<title>DE: Sky Bundesliga 7 (offline when no match)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1244.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 7 (offline when no match) </link>
 </item>
 <item>
-<title>DE_FILM_GOLD4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/7512.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_FILM_GOLD4 </link>
+<title>DE: ORF SPORT+</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/218.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF SPORT+ </link>
 </item>
 <item>
-<title>DE_FILM_GOLD3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/7513.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_FILM_GOLD3 </link>
+<title>DE: Spiegel Geschichte HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/216.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Spiegel Geschichte HD </link>
 </item>
 <item>
-<title>DE_FILM_GOLD2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/7514.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_FILM_GOLD2 </link>
+<title>DE: Sports1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/217.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sports1 HD </link>
 </item>
 <item>
-<title>DE_FILM_GOLD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/7515.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_FILM_GOLD </link>
+<title>DE: Sport 1 + HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/268.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sport 1 + HD </link>
 </item>
 <item>
-<title>DE_SKY_BUNDESLIGA1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/4685.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_BUNDESLIGA1_HD </link>
+<title>DE: Sports1 US HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/269.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sports1 US HD </link>
 </item>
 <item>
-<title>DE_SKY_BUNDESLIGA2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/9795.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_BUNDESLIGA2_HD </link>
+<title>DE: Sky Sports News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/270.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sports News </link>
 </item>
 <item>
-<title>DE_SKY_BUNDESLIGA3_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/9796.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_BUNDESLIGA3_HD </link>
+<title>DE: Sky Cinema</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/221.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema </link>
 </item>
 <item>
-<title>DE_SKY_NICKELEODEON_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/9797.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_NICKELEODEON_HD </link>
+<title>DE: Sky Cinema +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/222.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema +1 </link>
 </item>
 <item>
-<title>DE_Sky_Sport1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/4686.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Sport1_HD </link>
+<title>DE: Sky Cinema  24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/223.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema  24 </link>
 </item>
 <item>
-<title>DE_Sky_Sport2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5151.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Sport2_HD </link>
+<title>DE: Sky Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/224.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Action </link>
 </item>
 <item>
-<title>DE_Sky_Hits_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/4687.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Hits_HD </link>
+<title>DE: Sky Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/225.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Comedy </link>
 </item>
 <item>
-<title>DE_SKY_Emotion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/4688.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_Emotion </link>
+<title>DE: Sky Emotion</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/226.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Emotion </link>
 </item>
 <item>
-<title>DE_Sky_Comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/4689.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Comedy </link>
+<title>DE: Sky Hits</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/227.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Hits </link>
 </item>
 <item>
-<title>DE_Sky_Atlantic_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/4683.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Atlantic_HD </link>
+<title>DE: Sky Atlantic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/228.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Atlantic </link>
 </item>
 <item>
-<title>DE_SKY_Action_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/4684.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_Action_HD </link>
+<title>DE: Sky Nostalgie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/229.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Nostalgie </link>
 </item>
 <item>
-<title>DE_TNT_Film_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/4690.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_TNT_Film_HD </link>
+<title>DE: Sky Krimi</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/220.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Krimi </link>
 </item>
 <item>
-<title>DE_Sky_Germany_Cinema1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5176.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Germany_Cinema1_HD </link>
+<title>DE: SKY CINEMA 3D</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY CINEMA 3D </link>
 </item>
 <item>
-<title>DE_sky_cinema+1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/8602.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_sky_cinema+1 </link>
+<title>DE: TNT Serie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1112.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Serie </link>
 </item>
 <item>
-<title>DE_Sky_Cinema24_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5173.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Cinema24_HD </link>
+<title>DE: TNT Film</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1113.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Film </link>
 </item>
 <item>
-<title>DE_Sky13_Street_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5174.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky13_Street_HD </link>
+<title>DE: AXN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1114.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: AXN </link>
 </item>
 <item>
-<title>DE_Sky_TNT_Serie_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5179.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_TNT_Serie_HD </link>
+<title>DE: MGM HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1115.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: MGM HD </link>
 </item>
 <item>
-<title>DE_SKY_SPORT_NEWS24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5180.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SPORT_NEWS24 </link>
+<title>DE: SYFY hd</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1116.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SYFY hd </link>
 </item>
 <item>
-<title>DE_Sky_National_Geographic_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5184.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_National_Geographic_HD </link>
+<title>DE: FOX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1109.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: FOX HD </link>
 </item>
 <item>
-<title>DE_Pro7_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/3559.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Pro7_HD </link>
+<title>DE: Sixx</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/250.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sixx </link>
 </item>
 <item>
-<title>DE_KIKA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/3562.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_KIKA </link>
+<title>DE: Dmax</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/248.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Dmax </link>
 </item>
 <item>
-<title>DE_Fox_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/3565.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Fox_HD </link>
+<title>DE: RTL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/231.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL </link>
 </item>
 <item>
-<title>WELT_DER_WUNDER_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5250.ts&amp;streamtype=TSDOWNLOADER&amp;name=WELT_DER_WUNDER_TV </link>
+<title>DE: RTL2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/232.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL2 </link>
 </item>
 <item>
-<title>DE_Das_Erste</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5247.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Das_Erste </link>
+<title>DE: Super RTL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/233.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Super RTL </link>
 </item>
 <item>
-<title>DE_Sky_Discovery_Channel_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5152.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Discovery_Channel_HD </link>
+<title>DE: RTLNitro</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/234.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTLNitro </link>
 </item>
 <item>
-<title>DE_Eurosport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5150.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Eurosport </link>
+<title>DE: VOX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/230.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VOX </link>
 </item>
 <item>
-<title>DE_NICK_JR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/8604.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_NICK_JR </link>
+<title>DE: ARD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/244.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ARD </link>
 </item>
 <item>
-<title>DE_DISNEY_XD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/8601.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_DISNEY_XD </link>
+<title>DE: ZDF</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/238.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF </link>
 </item>
 <item>
-<title>DE_DISNEY_JUNIOR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/8605.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_DISNEY_JUNIOR </link>
+<title>DE: Zdf Kultur</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/272.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Zdf Kultur </link>
 </item>
 <item>
-<title>DE_Ae_DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/8603.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Ae_DE </link>
+<title>DE: ZDF Info</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/239.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF Info </link>
 </item>
 <item>
-<title>DE_ZDF</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5155.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_ZDF </link>
+<title>DE: ORF1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/235.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF1 </link>
 </item>
 <item>
-<title>DE_WDR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5172.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_WDR </link>
+<title>DE: ORF2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/236.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF2 </link>
 </item>
 <item>
-<title>DE_VOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5153.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_VOX </link>
+<title>DE: ARTE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/240.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ARTE </link>
 </item>
 <item>
-<title>DE_SAT1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5156.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SAT1 </link>
+<title>DE: Pro7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/241.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Pro7 </link>
 </item>
 <item>
-<title>DE_RTL2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5158.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_RTL2 </link>
+<title>DE: Sat1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/242.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sat1 </link>
 </item>
 <item>
-<title>DE_RTL_Nitro</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5157.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_RTL_Nitro </link>
+<title>DE: 3sat</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/243.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 3sat </link>
 </item>
 <item>
-<title>DE_RTL_hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5178.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_RTL_hd </link>
+<title>DE: MDR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/245.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: MDR </link>
 </item>
 <item>
-<title>DE_Phoenix</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5160.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Phoenix </link>
+<title>DE: NDR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/246.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NDR </link>
 </item>
 <item>
-<title>DE_ORF1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5162.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_ORF1_HD </link>
+<title>DE: WDR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/247.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: WDR </link>
 </item>
 <item>
-<title>DE_NTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5164.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_NTV </link>
+<title>DE: SWR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SWR </link>
 </item>
 <item>
-<title>DE_Sky_Discovery_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5181.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Discovery_HD </link>
+<title>DE: Kabel1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/249.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kabel1 HD </link>
 </item>
 <item>
-<title>DE_N24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5165.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_N24 </link>
+<title>DE: BR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/252.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: BR </link>
 </item>
 <item>
-<title>DE_Kika_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5166.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Kika_HD </link>
+<title>DE: NTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/253.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NTV </link>
 </item>
 <item>
-<title>DE_KABEL1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5167.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_KABEL1 </link>
+<title>DE: Phoenix</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/254.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Phoenix </link>
 </item>
 <item>
-<title>DE_pro_seibrn_max_hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5168.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_pro_seibrn_max_hd </link>
+<title>DE: Viva</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/255.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Viva </link>
 </item>
 <item>
-<title>DE_sky_family</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/9790.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_sky_family </link>
+<title>DE: RBB</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/256.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RBB </link>
 </item>
 <item>
-<title>DE_eins_plus</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/9792.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_eins_plus </link>
+<title>DE: Servus TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/258.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Servus TV </link>
 </item>
 <item>
-<title>DE_eins_festival</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/9793.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_eins_festival </link>
+<title>DE: Welt Der Wunder</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/259.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Welt Der Wunder </link>
 </item>
 <item>
-<title>DE_anixe</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/9791.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_anixe </link>
+<title>DE: 13th Street</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/261.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 13th Street </link>
 </item>
 <item>
-<title>DE2_AXN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/9794.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE2_AXN </link>
+<title>DE: Pro 7 Maxx HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/274.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Pro 7 Maxx HD </link>
 </item>
 <item>
-<title>DE_zdf_info</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/8636.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_zdf_info </link>
+<title>DE: ALEX-BERLIN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1118.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ALEX-BERLIN </link>
 </item>
 <item>
-<title>DE_Dmax</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5169.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Dmax </link>
+<title>DE: Munchen TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/251.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Munchen TV </link>
 </item>
 <item>
-<title>DE_Disney_Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5177.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Disney_Channel </link>
+<title>DE: Franken</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1119.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Franken </link>
 </item>
 <item>
-<title>DE_DISCOVERY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5183.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_DISCOVERY </link>
+<title>DE: HALLE TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1120.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: HALLE TV </link>
 </item>
 <item>
-<title>DE_SPORTS1_USA_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/5170.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SPORTS1_USA_HD </link>
+<title>DE: Joiz</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1121.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Joiz </link>
 </item>
 <item>
-<title>DE_heimet_canal</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/6801.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_heimet_canal </link>
+<title>DE: RTL Passion HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1122.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Passion HD </link>
 </item>
 <item>
-<title>DE3_Sat1_gold</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/6795.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE3_Sat1_gold </link>
+<title>DE: Family TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1123.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Family TV </link>
 </item>
 <item>
-<title>DE_super_rtl</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/6794.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_super_rtl </link>
+<title>DE: ELBEKANAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1125.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ELBEKANAL </link>
 </item>
 <item>
-<title>DE3_SPORTS1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/6791.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE3_SPORTS1_HD </link>
+<title>DE: Dresden Fernsehen</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1126.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Dresden Fernsehen </link>
 </item>
 <item>
-<title>DE3_sky_crimi</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/6793.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE3_sky_crimi </link>
+<title>DE: Light Channel TV Deutschland</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1127.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Light Channel TV Deutschland </link>
 </item>
 <item>
-<title>DE_sixx</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/6798.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_sixx </link>
+<title>DE: RBW</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1128.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RBW </link>
 </item>
 <item>
-<title>DE3_SERVUS_TV_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/6796.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE3_SERVUS_TV_HD </link>
+<title>DE: SONNENKLAR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1129.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SONNENKLAR </link>
 </item>
 <item>
-<title>DE_national_geo_wid</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/6792.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_national_geo_wid </link>
+<title>DE: OK Wernigerode</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1130.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: OK Wernigerode </link>
 </item>
 <item>
-<title>DE3_SKY_MGM_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/6802.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE3_SKY_MGM_HD </link>
+<title>DE: OK Stendal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1131.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: OK Stendal </link>
 </item>
 <item>
-<title>DE3_SKY_FOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/6803.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE3_SKY_FOX </link>
+<title>DE: OK SALZWEDEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1132.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: OK SALZWEDEL </link>
 </item>
 <item>
-<title>DE_ARD1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/6804.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_ARD1 </link>
+<title>DE: OK MAGDEBURG</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1133.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: OK MAGDEBURG </link>
 </item>
 <item>
-<title>DE_Syfy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/8594.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Syfy </link>
+<title>DE: OK Dessau</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1134.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: OK Dessau </link>
 </item>
 <item>
-<title>DE_SPORTS1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/8587.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SPORTS1_HD </link>
+<title>DE: Anixe HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1117.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Anixe HD </link>
 </item>
 <item>
-<title>DE_SKY_SPORTS_AUSTRIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/8588.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SPORTS_AUSTRIA </link>
+<title>DE: KIKA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/257.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: KIKA </link>
 </item>
 <item>
-<title>DE_SKYDE_NOSTALGIE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/8596.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKYDE_NOSTALGIE </link>
+<title>DE: Disney Cinemagic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1110.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Cinemagic </link>
 </item>
 <item>
-<title>DE_SKYDE_TLC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/8595.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKYDE_TLC </link>
+<title>DE: Disney Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1111.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Channel </link>
 </item>
 <item>
-<title>DE_RTL_PASSION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/8586.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_RTL_PASSION </link>
+<title>DE: Nick</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/262.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Nick </link>
 </item>
 <item>
-<title>DE_ROMANCE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/8597.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_ROMANCE </link>
+<title>DE: Nick JR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/266.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Nick JR </link>
 </item>
 <item>
-<title>DE_NTV_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/8589.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_NTV_HD </link>
+<title>DE: Sky National Geographic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1135.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky National Geographic </link>
 </item>
 <item>
-<title>DE_MOTORVISION_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/8590.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_MOTORVISION_TV </link>
+<title>DE: Sky Nat Geo wild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1136.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Nat Geo wild </link>
 </item>
 <item>
-<title>DE_Kinowelt_tv</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/8598.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Kinowelt_tv </link>
+<title>DE: Motorvision TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1137.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Motorvision TV </link>
 </item>
 <item>
-<title>DE_GOLDSTAR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/8599.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_GOLDSTAR </link>
+<title>DE: Discovery HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1138.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Discovery HD </link>
 </item>
 <item>
-<title>DE_FOX_SERIE_DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/8600.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_FOX_SERIE_DE </link>
+<title>DE: Sky History</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1139.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky History </link>
 </item>
 <item>
-<title>DE_SPORT_DIGITAL_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/8591.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SPORT_DIGITAL_HD </link>
+<title>DE: A and E</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/267.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: A and E </link>
 </item>
 <item>
-<title>DE_Delux_MUSIC_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/8592.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Delux_MUSIC_HD </link>
+<title>DE: Deluxe Music</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/273.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Deluxe Music </link>
 </item>
 <item>
-<title>DE_CLASSICA_DEUTSHLAND</title>
-<link>plugin://plugin.video.f4mTester/?url=http://176.31.237.104:7040/live/157000/22432/8593.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_CLASSICA_DEUTSHLAND </link>
+<title>DE: Sky Select 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/343.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 1 </link>
 </item>
-
-
+<item>
+<title>DE: Sky Select 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/345.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 2 </link>
+</item>
+<item>
+<title>DE: Sky Select 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/346.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 3 </link>
+</item>
+<item>
+<title>DE: Sky Select 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/347.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 4 </link>
+</item>
+<item>
+<title>DE: Sky Select 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/348.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 5 </link>
+</item>
+<item>
+<title>DE: Sky Select 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/349.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 6 </link>
+</item>
+<item>
+<title>DE: Sky Select 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/350.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 7 </link>
+</item>
+<item>
+<title>DE: Sky Select 8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/351.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 8 </link>
+</item>
+<item>
+<title>DE: DW</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/265.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: DW </link>
+</item>
+<item>
+<title>DE: N24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/264.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: N24 </link>
+</item>
+<item>
+<title>DE: EURONEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1124.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: EURONEWS </link>
+</item>
+<item>
+<title>DE: Tagesschau 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/237.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Tagesschau 24 </link>
+</item>
+<item>
+<title>DE: Mini Tv</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Mini Tv </link>
+</item>
+<item>
+<title>DE: Eurosport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/219.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Eurosport </link>
+</item>
 
 
   
