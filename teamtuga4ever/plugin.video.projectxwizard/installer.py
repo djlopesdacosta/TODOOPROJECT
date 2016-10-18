@@ -67,9 +67,9 @@ def INSTALL(name,url,description):
 			dialog.ok(AddonTitle,'Sorry, you are not using a Project X Build.','This pack is only available for Project X Build users.')
 			sys.exit(1)
 			
-	if name == "EMBER":
+	if name == "PIRATA DAS CARAIBAS":
 		wipeme = 1
-		choice = xbmcgui.Dialog().yesno(AddonTitle, 'Ember is a BETA build that needs testing.','Recomended: Dual Core CPU | 2GB RAM or more','[I][COLOR lightsteelblue]Would you like to download this build now?[/I][/COLOR]', yeslabel='[B][COLOR green]YES[/COLOR][/B]',nolabel='[B][COLOR red]NO[/COLOR][/B]')
+		choice = xbmcgui.Dialog().yesno(AddonTitle, 'PIRATA DAS CARAIBAS was designed for high end machines like Firesticks Amazon Fire TV & Nvidia Shield.','Recomended: Single Core CPU | 1GB RAM or more','[I][COLOR lightsteelblue]Would you like to download this build now?[/I][/COLOR]',nolabel='[B][COLOR red]NO[/COLOR][/B]')
 		if choice == 0:
 			sys.exit(1)
 	
