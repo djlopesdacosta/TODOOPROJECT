@@ -17,7 +17,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 15-10-16 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 21-10-16 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -44,339 +44,182 @@
 
 
 
-
-
-
-
 <item>
-<title>UK_MOTORS_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1711.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_MOTORS_TV </link>
+<title>EN-BBC 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/648.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-BBC 1 </link>
 </item>
 <item>
-<title>UK_EUROSPORT_1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1050.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_EUROSPORT_1_HD </link>
+<title>EN-BBC 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/649.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-BBC 2 </link>
 </item>
 <item>
-<title>UK_EUROSPORT_2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1113.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_EUROSPORT_2_HD </link>
+<title>EN-BBC 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/650.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-BBC 3 </link>
 </item>
 <item>
-<title>UK_SKY_SPORT_F1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1039.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORT_F1 </link>
+<title>EN-BBC 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/651.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-BBC 4 </link>
 </item>
 <item>
-<title>UK_SKY_SPORTS_NEWS_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1112.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORTS_NEWS_HD </link>
+<title>EN-ITV 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/655.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-ITV 2 HD </link>
 </item>
 <item>
-<title>UK_SKY_SPORT_1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1104.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORT_1_HD </link>
+<title>EN-ITV 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/656.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-ITV 3 HD </link>
 </item>
 <item>
-<title>UK_SKY_SPORTS_1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1044.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORTS_1_HD </link>
+<title>EN-SKY ONE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/652.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-SKY ONE </link>
 </item>
 <item>
-<title>UK_SKY_SPORTS_2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1043.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORTS_2_HD </link>
+<title>EN-SKY TWO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/653.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-SKY TWO </link>
 </item>
 <item>
-<title>UK_SKY_SPORTS_3_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1042.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORTS_3_HD </link>
+<title>EN-SKY MOVIES SHOWCASE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/661.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-SKY MOVIES SHOWCASE HD </link>
 </item>
 <item>
-<title>UK_SKY_SPORTS_4_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1041.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORTS_4_HD </link>
+<title>EN-SKY MOVIES PREMIERE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/657.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-SKY MOVIES PREMIERE HD </link>
 </item>
 <item>
-<title>UK_SKY_SPORTS_5_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1040.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORTS_5_HD </link>
+<title>EN-SKY MOVIES MODERN GREATS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/662.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-SKY MOVIES MODERN GREATS </link>
 </item>
 <item>
-<title>UK_SKY_SPORT_2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1097.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORT_2_HD </link>
+<title>EN-SKY MOVIES ACTION HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/658.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-SKY MOVIES ACTION HD </link>
 </item>
 <item>
-<title>UK_SKY_SPORT_3_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1096.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORT_3_HD </link>
+<title>EN-SKY MOVIES COMEDY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/663.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-SKY MOVIES COMEDY HD </link>
 </item>
 <item>
-<title>UK_SKY_SPORT_4_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1094.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORT_4_HD </link>
+<title>EN-MTV MUSIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/666.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-MTV MUSIC </link>
 </item>
 <item>
-<title>UK_SKY_SPORT_5_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1093.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORT_5_HD </link>
+<title>EN-MTV HITS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/665.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-MTV HITS </link>
 </item>
 <item>
-<title>UK_SPORT_TIME_1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/3944.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SPORT_TIME_1_HD </link>
+<title>EN-MTV DANCE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/667.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-MTV DANCE </link>
 </item>
 <item>
-<title>UK_SPORT_TIME_3_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/3945.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SPORT_TIME_3_HD </link>
+<title>EN-MTV CLASSIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/668.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-MTV CLASSIC </link>
 </item>
 <item>
-<title>UK_SPORT_KLUB_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/3946.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SPORT_KLUB_1 </link>
+<title>EN-MTV BASE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/664.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-MTV BASE </link>
 </item>
 <item>
-<title>UK_SPORT_KLUB_3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/3947.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SPORT_KLUB_3 </link>
+<title>EN- DISCOVERY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/1017.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN- DISCOVERY </link>
 </item>
 <item>
-<title>UK_BT_SPORT_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1118.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BT_SPORT_1 </link>
+<title>EN-SKY MOVIES SELECT HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/1009.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-SKY MOVIES SELECT HD </link>
 </item>
 <item>
-<title>UK_BT_SPORT_2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1117.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BT_SPORT_2 </link>
+<title>EN-SKY MOVIES DISNEY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/1012.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-SKY MOVIES DISNEY </link>
 </item>
 <item>
-<title>UK_SKY_ONE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1095.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_ONE </link>
+<title>EN-SKY MOVIES ATLANTIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/1011.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-SKY MOVIES ATLANTIC </link>
 </item>
 <item>
-<title>UK_SKY_DRAMA_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1055.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_DRAMA_HD </link>
+<title>EN-SKY MOVIES ACTION ADVENTURE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/1010.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-SKY MOVIES ACTION ADVENTURE HD </link>
 </item>
 <item>
-<title>UK_SKY_ART_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1075.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_ART_1 </link>
+<title>EN-NATIONAL GEOGRAPHIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/1019.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-NATIONAL GEOGRAPHIC </link>
 </item>
 <item>
-<title>UK_SKY_MOVIES_DISNEY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1056.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_MOVIES_DISNEY </link>
+<title>EN-HISTORY 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/1021.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-HISTORY 2 </link>
 </item>
 <item>
-<title>UK_SKY_MOVIES_SELECT_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1114.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_MOVIES_SELECT_HD </link>
+<title>EN-HISTORY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/1020.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-HISTORY </link>
 </item>
 <item>
-<title>UK_SKY_MOVIES_PREMIERE_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1054.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_MOVIES_PREMIERE_HD </link>
+<title>EN-FOX SPORT US 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/1024.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-FOX SPORT US 2 </link>
 </item>
 <item>
-<title>UK_SKY_MOVIES_MODEM_GREATS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1045.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_MOVIES_MODEM_GREATS </link>
+<title>EN-FOX SPORT US 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/1023.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-FOX SPORT US 1 </link>
 </item>
 <item>
-<title>UK_SKY_MOVIES_COMEDY_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1038.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_MOVIES_COMEDY_HD </link>
+<title>EN-DISCOVERY HISTORY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/1018.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-DISCOVERY HISTORY </link>
 </item>
 <item>
-<title>UK_SKY_MOVIES_ACTION_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1035.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_MOVIES_ACTION_HD </link>
+<title>EN-CBS REALTY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/1015.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-CBS REALTY </link>
 </item>
 <item>
-<title>UK_SKY_MOVIES_ATLANTIC_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1115.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_MOVIES_ATLANTIC_HD </link>
+<title>EN-CBS DRAMA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/1014.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-CBS DRAMA </link>
 </item>
 <item>
-<title>UK_SKY_MOVIES_SHOWCASE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1062.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_MOVIES_SHOWCASE </link>
+<title>EN-CBS ACTION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/1013.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-CBS ACTION </link>
 </item>
 <item>
-<title>UK_SKY_MOVIES_THRILLER</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1061.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_MOVIES_THRILLER </link>
+<title>EN-BT SPORTS 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/1022.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-BT SPORTS 2 </link>
 </item>
 <item>
-<title>UK_SKY_MOVIES_SCI_FI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1105.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_MOVIES_SCI_FI </link>
+<title>EN-BBC NEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/1008.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-BBC NEWS </link>
 </item>
 <item>
-<title>UK_MOVIES_FAMILY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1064.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_MOVIES_FAMILY </link>
+<title>EN-5 USA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/1016.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-5 USA </link>
 </item>
 <item>
-<title>UK_MOVIES_4_MEN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1107.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_MOVIES_4_MEN </link>
+<title>EN-BT SPORT 1 EUROPE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/671.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-BT SPORT 1 EUROPE </link>
 </item>
 <item>
-<title>UK_FILM_4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1714.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_FILM_4 </link>
+<title>EN-BT SPORT EUROPE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/669.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-BT SPORT EUROPE </link>
 </item>
 <item>
-<title>UK_MTV_BASE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1087.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_MTV_BASE </link>
+<title>EN-SKY SPORT F1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/678.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-SKY SPORT F1 </link>
 </item>
 <item>
-<title>UK_FOX_SPORT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1086.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_FOX_SPORT </link>
+<title>EN-SKY PREMIER SPORT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/672.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-SKY PREMIER SPORT </link>
 </item>
 <item>
-<title>UK_FOOD_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1069.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_FOOD_HD </link>
+<title>EN-SKY SPORT 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-SKY SPORT 1 HD </link>
 </item>
 <item>
-<title>UK_BABY_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BABY_TV </link>
+<title>EN-SKY SPORT 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/674.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-SKY SPORT 2 HD </link>
 </item>
 <item>
-<title>UK_MTV_CLASSIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1085.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_MTV_CLASSIC </link>
+<title>EN-SKY SPORT 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/675.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-SKY SPORT 3 HD </link>
 </item>
 <item>
-<title>UK_DEVA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1100.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_DEVA </link>
+<title>EN-SKY SPORT 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/676.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-SKY SPORT 4 HD </link>
 </item>
 <item>
-<title>UK_BBC_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1081.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC_1 </link>
+<title>EN-BT SPORT ESPN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/677.ts&amp;streamtype=TSDOWNLOADER&amp;name=EN-BT SPORT ESPN </link>
 </item>
-<item>
-<title>UK_BBC_2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1080.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC_2 </link>
-</item>
-<item>
-<title>UK_BBC_3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1079.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC_3 </link>
-</item>
-<item>
-<title>UK_BBC_4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1078.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC_4 </link>
-</item>
-<item>
-<title>UK_RTE_1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1710.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_RTE_1_HD </link>
-</item>
-<item>
-<title>UK_RTE_2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1709.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_RTE_2_HD </link>
-</item>
-<item>
-<title>UK_ITV_1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1099.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV_1_HD </link>
-</item>
-<item>
-<title>UK_ITV_2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1098.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV_2_HD </link>
-</item>
-<item>
-<title>UK_ITV_3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1719.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV_3 </link>
-</item>
-<item>
-<title>UK_ITV_4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1718.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV_4 </link>
-</item>
-<item>
-<title>UK_GOLD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1712.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_GOLD </link>
-</item>
-<item>
-<title>UK_GOOD_FOOD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1713.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_GOOD_FOOD </link>
-</item>
-<item>
-<title>UK_CBS_DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1108.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CBS_DRAMA </link>
-</item>
-<item>
-<title>UK_CBS_REALITY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1715.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CBS_REALITY </link>
-</item>
-<item>
-<title>UK_CBS_ACTION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1716.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CBS_ACTION </link>
-</item>
-<item>
-<title>UK_MTV_HITS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1083.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_MTV_HITS </link>
-</item>
-<item>
-<title>UK_MTV_MUSIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1084.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_MTV_MUSIC </link>
-</item>
-<item>
-<title>UK_MTV_ROCKS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1077.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_MTV_ROCKS </link>
-</item>
-<item>
-<title>UK_NICK_JUNIOR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1101.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_NICK_JUNIOR </link>
-</item>
-<item>
-<title>UK_DISNEY_XD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1090.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_DISNEY_XD </link>
-</item>
-<item>
-<title>UK_DISNEY_JUNIOR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1088.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_DISNEY_JUNIOR </link>
-</item>
-<item>
-<title>UK_DISNEY_CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1111.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_DISNEY_CHANNEL </link>
-</item>
-<item>
-<title>UK_DISCOVERY_ID</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1089.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_DISCOVERY_ID </link>
-</item>
-<item>
-<title>UK_DISCOVERY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1046.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_DISCOVERY </link>
-</item>
-<item>
-<title>UK_DISCOVERY_SCIENCE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1103.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_DISCOVERY_SCIENCE </link>
-</item>
-<item>
-<title>UK_DISCOVERY_TURBO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1058.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_DISCOVERY_TURBO </link>
-</item>
-<item>
-<title>UK_DISCOVERY_INVESTIGATION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1037.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_DISCOVERY_INVESTIGATION </link>
-</item>
-<item>
-<title>UK_DISCOVERY_HOME_HEALTH</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1063.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_DISCOVERY_HOME_HEALTH </link>
-</item>
-<item>
-<title>UK_DISCOVERY_HISTORY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1076.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_DISCOVERY_HISTORY </link>
-</item>
-<item>
-<title>UK_HISTORY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_HISTORY </link>
-</item>
-<item>
-<title>UK_ANIMAL_PLANET</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1082.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ANIMAL_PLANET </link>
-</item>
-<item>
-<title>UK_NATIONAL_GEOGRAPHY_WILD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1102.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_NATIONAL_GEOGRAPHY_WILD </link>
-</item>
-<item>
-<title>UK_COMEDY_CENTRAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1065.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_COMEDY_CENTRAL </link>
-</item>
-<item>
-<title>UK_CARTOON_NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1092.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CARTOON_NETWORK </link>
-</item>
-<item>
-<title>UK_COLORS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1091.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_COLORS </link>
-</item>
-<item>
-<title>UK_FIVE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1106.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_FIVE </link>
-</item>
-<item>
-<title>UK_CHELSEA_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1074.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CHELSEA_TV </link>
-</item>
-<item>
-<title>UK_BOXNATION_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1717.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BOXNATION_HD </link>
-</item>
-<item>
-<title>UK_ESPN_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1010/1010/1059.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ESPN_HD </link>
-</item>
-
 
 <item>       
 <title>[COLOR red][/COLOR]</title>
