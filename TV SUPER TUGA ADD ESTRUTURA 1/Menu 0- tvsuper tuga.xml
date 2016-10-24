@@ -1439,7 +1439,7 @@ http://tvxat.info/tvi-reality-24
 
 
 <title>[COLOR=white][B][I] TVI REALITY [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
-<link>rtmp://$OPT:rtmp-raw=rtmp://178.162.199.138/live playpath=ss6sser?id=89027&pk=ce9ee1cb6fe700d84c0f89599bcd244fb58236a76b868b54c347120c8abab900 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/ss6sser/1/565/440</link>
+<link>http://163.172.217.53:8000/live/5grandiptv915/67863345/1656.m3u8</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
