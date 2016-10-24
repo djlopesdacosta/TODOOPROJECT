@@ -135,8 +135,8 @@
 <item>
 <title>[COLOR=red][B][I] SIC [/I][/B][/COLOR]   [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.estadiofutebol.com/gratis/sic</sportsdevil>
-<sportsdevil>http://www.desportonline.net/index.php?canal=sic</sportsdevil>
-<sportsdevil>http://mytvfree2.me/sic-pt-online</sportsdevil>
+<sportsdevil>http://www.sporttvonlinehd.com/index.php?canal=sic</sportsdevil>
+<sportsdevil>http://ontvfree2.me/sic-pt-online</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sic.png</thumbnail>
 </item>
@@ -177,7 +177,7 @@
 <item>
 <title>[COLOR=red][B][I] TVI [/I][/B][/COLOR]  [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.estadiofutebol.com/gratis/tvi</sportsdevil>
-<sportsdevil>http://mytvfree2.me/tvi-directo-online</sportsdevil>
+<sportsdevil>http://ontvfree2.me/tvi-directo-online</sportsdevil>
 <sportsdevil>http://www.desportonline.net/index.php?canal=tvi</sportsdevil>
 <sportsdevil></sportsdevil>
 <referer>http://ezcast.tv/</referer>
@@ -657,6 +657,7 @@
 <sportsdevil>http://www.desportonline.net/index.php?canal=abolatv</sportsdevil>
 <sportsdevil>http://www.estadiofutebol.com/gratis/abolatv</sportsdevil>
 <sportsdevil>http://mytvfree2.me/a-bola-emissao-web</sportsdevil>
+<sportsdevil>http://tvtuga.tk/a-bola-tv/</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>http://s20.postimg.org/u3s3bcbb1/a_bola_tv.jpg</thumbnail>
 </item>
@@ -1438,18 +1439,11 @@ http://tvxat.info/tvi-reality-24
 
 
 
-<title>[COLOR=white][B][I] TVI REALITY [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
+
+<item>
+<title>[COLOR=white][B][I] TVI REALITY SD [/I][/B][/COLOR]</title>
+
 <link>http://163.172.217.53:8000/live/5grandiptv915/67863345/1656.m3u8</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.streamifypublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>pk</name>
-<expres>ea=(.*)'</expres>
-<page>http://www.streamifyplayer.com/embedplayer/TviReality2/1/545/440</page>
-<referer>http://www.streamifyplayer.com</referer>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
 </item>
 
@@ -1457,10 +1451,9 @@ http://tvxat.info/tvi-reality-24
 <item>
 <title>[COLOR=white][B][I] TVI REALITY HD [/I][/B][/COLOR]   [COLOR lime]F4MTESTER[/COLOR]</title>
 
-<link>http://163.172.217.53:8000/live/5grandiptv915/67863345/1656.m3u8</link>
+
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
 </item>
-
 
 
 <item>
