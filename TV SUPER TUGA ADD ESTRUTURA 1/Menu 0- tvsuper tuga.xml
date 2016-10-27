@@ -1426,7 +1426,7 @@
 
 <item>
 <title>[COLOR=white][B][I] TVI REALITY [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
-<link>rtmp://$OPT:rtmp-raw=rtmp://178.162.199.138/live playpath=ss6sser?id=89027&pk=ce9ee1cb6fe700d84c0f89599bcd244fb58236a76b868b54c347120c8abab900 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/ss6sser/1/565/440</link><regex><name>ip</name><expres>redirect=(.*)<expres>
+<link>rtmp://178.162.199.155/live/ playPath=sdddss?id=89130&pk=64b4d04da4876278062c10a1868076df3844fe92c1bf10d81b6c29c2e1e41d3d swfVfy=1 timeout=10 conn=S:OK live=true swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2022,0,0,209 pageUrl=http://www.embeducaster.com/embedplayer/sdddss/1/730/430</link><regex><name>ip</name><expres>redirect=(.*)<expres>
 <page>http://cdn.mipspublisher.com:1935/loadbalancer</page></regex><regex><name>pk</name><expres>ea=(.*)'</expres>
 <page>http://www.mipsplayer.com/embedplayer/ss6estreia/1/545/380</page>
 <referer>http://www.mipsplayer.com/</referer></regex>
