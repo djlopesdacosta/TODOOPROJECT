@@ -25,7 +25,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 22-10-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 28-10-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
@@ -43,299 +43,573 @@
 
 
 
-
-
 <item>
-<title>M6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/564.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6 </link>
+<title>FR_A_LA_CARTE1/GHOSTBUSTERS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/4660.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A_LA_CARTE1/GHOSTBUSTERS </link>
 </item>
 <item>
-<title>TF1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/563.ts&amp;streamtype=TSDOWNLOADER&amp;name=TF1 </link>
+<title>FR_A_LA_CARTE2/VICHY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/4657.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A_LA_CARTE2/VICHY </link>
 </item>
 <item>
-<title>W9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/566.ts&amp;streamtype=TSDOWNLOADER&amp;name=W9 </link>
+<title>FR_A_LA_CARTE3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/4658.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A_LA_CARTE3 </link>
 </item>
 <item>
-<title>NT1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/878.ts&amp;streamtype=TSDOWNLOADER&amp;name=NT1 </link>
+<title>FR_A_LA_CARTE4/ALICE_THROUGH</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6247.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A_LA_CARTE4/ALICE_THROUGH </link>
 </item>
 <item>
-<title>NRJ12</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/877.ts&amp;streamtype=TSDOWNLOADER&amp;name=NRJ12 </link>
+<title>FR_A_LA_CARTE5/STARTRACK_BEYOND</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6248.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A_LA_CARTE5/STARTRACK_BEYOND </link>
 </item>
 <item>
-<title>HD1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/1270.ts&amp;streamtype=TSDOWNLOADER&amp;name=HD1 </link>
+<title>FR_A_LA_CARTE6/JULIETA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6497.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A_LA_CARTE6/JULIETA </link>
 </item>
 <item>
-<title>TMC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/1272.ts&amp;streamtype=TSDOWNLOADER&amp;name=TMC </link>
+<title>FR_A_LA_CARTE7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6250.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A_LA_CARTE7 </link>
 </item>
 <item>
-<title>Disney-channel-fr</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/1271.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney-channel-fr </link>
+<title>FR_A_LA_CARTE8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6498.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A_LA_CARTE8 </link>
 </item>
 <item>
-<title>Kombat-Sport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/1269.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kombat-Sport </link>
+<title>FR_A_LA_CARTE9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6499.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A_LA_CARTE9 </link>
 </item>
 <item>
-<title>Canal</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/548.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal </link>
+<title>FR_A_LA_CARTE10</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6258.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A_LA_CARTE10 </link>
 </item>
 <item>
-<title>Canal-Cinema</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/549.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Cinema </link>
+<title>FR_A_LA_CARTE11</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6500.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A_LA_CARTE11 </link>
 </item>
 <item>
-<title>Canal-Family</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/551.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Family </link>
+<title>FR_A_LA_CARTE12/AGENTS_presque_secret</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/4210.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A_LA_CARTE12/AGENTS_presque_secret </link>
 </item>
 <item>
-<title>Canal-Sport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/602.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Sport </link>
+<title>FR_A_LA_CARTE13/ARQ</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/4211.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A_LA_CARTE13/ARQ </link>
 </item>
 <item>
-<title>Canal-Series</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/552.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Series </link>
+<title>----------------CANALSAT_FR/ALACARTE15_APOCALYPSE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/8630.ts&amp;streamtype=TSDOWNLOADER&amp;name=----------------CANALSAT_FR/ALACARTE15_APOCALYPSE </link>
 </item>
 <item>
-<title>Canal-Decale</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/550.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Decale </link>
+<title>----- CANAL+ -----</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/10170.ts&amp;streamtype=TSDOWNLOADER&amp;name=----- CANAL+ ----- </link>
 </item>
 <item>
-<title>Cine-Premier</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/554.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine-Premier </link>
+<title>CANALHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/50.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALHD </link>
 </item>
 <item>
-<title>Cine-Frisson</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/553.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine-Frisson </link>
+<title>CANALSPORTHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/51.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALSPORTHD </link>
 </item>
 <item>
-<title>Cine-Famiz</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/557.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine-Famiz </link>
+<title>CANALCINEMAHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALCINEMAHD </link>
 </item>
 <item>
-<title>Cine-Emotion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/555.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine-Emotion </link>
+<title>CANALFAMILYHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/53.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALFAMILYHD </link>
 </item>
 <item>
-<title>Cine-Classic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/556.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine-Classic </link>
+<title>CANALSERIESHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/54.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALSERIESHD </link>
 </item>
 <item>
-<title>TEVA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/583.ts&amp;streamtype=TSDOWNLOADER&amp;name=TEVA </link>
+<title>CanalDecale</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/52.ts&amp;streamtype=TSDOWNLOADER&amp;name=CanalDecale </link>
 </item>
 <item>
-<title>VOYAGE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/592.ts&amp;streamtype=TSDOWNLOADER&amp;name=VOYAGE </link>
+<title>----- CSAT_CINE-----</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/10174.ts&amp;streamtype=TSDOWNLOADER&amp;name=----- CSAT_CINE----- </link>
 </item>
 <item>
-<title>USHUAIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/593.ts&amp;streamtype=TSDOWNLOADER&amp;name=USHUAIA </link>
+<title>cinefrisson</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/56.ts&amp;streamtype=TSDOWNLOADER&amp;name=cinefrisson </link>
 </item>
 <item>
-<title>Chasse-Peche</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/883.ts&amp;streamtype=TSDOWNLOADER&amp;name=Chasse-Peche </link>
+<title>cinefamiz</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/58.ts&amp;streamtype=TSDOWNLOADER&amp;name=cinefamiz </link>
 </item>
 <item>
-<title>Animaux</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/853.ts&amp;streamtype=TSDOWNLOADER&amp;name=Animaux </link>
+<title>cineclassic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/55.ts&amp;streamtype=TSDOWNLOADER&amp;name=cineclassic </link>
 </item>
 <item>
-<title>TV5-Monde</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/401.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV5-Monde </link>
+<title>CINEEMOTION_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/4371.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEEMOTION_HD </link>
 </item>
 <item>
-<title>Tv-Breizh</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/575.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tv-Breizh </link>
+<title>FR_CINE+_PREMIER</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6458.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CINE+_PREMIER </link>
 </item>
 <item>
-<title>TELETOONplus</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/620.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELETOONplus </link>
+<title>OCSCityHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/216.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCSCityHD </link>
 </item>
 <item>
-<title>TIJI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/614.ts&amp;streamtype=TSDOWNLOADER&amp;name=TIJI </link>
-</item>
-<item>
-<title>Serie-Club</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/579.ts&amp;streamtype=TSDOWNLOADER&amp;name=Serie-Club </link>
-</item>
-<item>
-<title>SYFY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/584.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY </link>
-</item>
-<item>
-<title>SRF-Zwei</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/623.ts&amp;streamtype=TSDOWNLOADER&amp;name=SRF-Zwei </link>
-</item>
-<item>
-<title>SRF</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/622.ts&amp;streamtype=TSDOWNLOADER&amp;name=SRF </link>
-</item>
-<item>
-<title>RTS-Un</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/624.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTS-Un </link>
-</item>
-<item>
-<title>RTS-Deux</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/625.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTS-Deux </link>
-</item>
-<item>
-<title>SPORT365</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/606.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT365 </link>
-</item>
-<item>
-<title>PLANETE-AE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/588.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLANETE-AE </link>
-</item>
-<item>
-<title>PLANETE-CI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/587.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLANETE-CI </link>
-</item>
-<item>
-<title>PlANETE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/586.ts&amp;streamtype=TSDOWNLOADER&amp;name=PlANETE </link>
-</item>
-<item>
-<title>Paris-Premiere</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/576.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paris-Premiere </link>
-</item>
-<item>
-<title>Ocs-Max</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/561.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ocs-Max </link>
+<title>FR_OCS_MAX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/4205.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_OCS_MAX </link>
 </item>
 <item>
 <title>Ocs-Geant</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/560.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ocs-Geant </link>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/4204.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ocs-Geant </link>
 </item>
 <item>
-<title>Ocs-City</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/558.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ocs-City </link>
+<title>FR_OCS_CHOC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/4202.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_OCS_CHOC </link>
 </item>
 <item>
-<title>Ocs-CHoc</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/559.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ocs-CHoc </link>
+<title>FR_POLAR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6462.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_POLAR </link>
 </item>
 <item>
-<title>NATIONAL-GEO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/598.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL-GEO </link>
+<title>FR_CINE_FX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6465.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CINE_FX </link>
 </item>
 <item>
-<title>France24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/397.ts&amp;streamtype=TSDOWNLOADER&amp;name=France24 </link>
+<title>FR_ACTION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6461.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_ACTION </link>
 </item>
 <item>
-<title>JUNE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/585.ts&amp;streamtype=TSDOWNLOADER&amp;name=JUNE </link>
+<title>----- CSAT_SPORT-----</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/10178.ts&amp;streamtype=TSDOWNLOADER&amp;name=----- CSAT_SPORT----- </link>
 </item>
 <item>
-<title>HISTOIRE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/597.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTOIRE </link>
+<title>infosport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/205.ts&amp;streamtype=TSDOWNLOADER&amp;name=infosport </link>
 </item>
 <item>
-<title>France2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/569.ts&amp;streamtype=TSDOWNLOADER&amp;name=France2 </link>
+<title>Foot24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/208.ts&amp;streamtype=TSDOWNLOADER&amp;name=Foot24 </link>
+</item>
+<item>
+<title>eurofr1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/223.ts&amp;streamtype=TSDOWNLOADER&amp;name=eurofr1 </link>
+</item>
+<item>
+<title>eurofr2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/224.ts&amp;streamtype=TSDOWNLOADER&amp;name=eurofr2 </link>
+</item>
+<item>
+<title>BeIN_SPORTS1_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/4209.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeIN_SPORTS1_HD </link>
+</item>
+<item>
+<title>BEIN_SPORT2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/4207.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN_SPORT2_HD </link>
+</item>
+<item>
+<title>BEIN_SPORT3_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/4208.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN_SPORT3_HD </link>
+</item>
+<item>
+<title>BEIN_GAME_ONE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/4213.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN_GAME_ONE </link>
+</item>
+<item>
+<title>FR_L'EQUIPE21</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6446.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_L'EQUIPE21 </link>
+</item>
+<item>
+<title>FR_ABMOTEUR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6486.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_ABMOTEUR </link>
+</item>
+<item>
+<title>FR_EQUIDIA_LIVE_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6485.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_EQUIDIA_LIVE_HD </link>
+</item>
+<item>
+<title>FR_OL_TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6496.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_OL_TV </link>
+</item>
+<item>
+<title>----- CSAT_GENERAL-----</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/10177.ts&amp;streamtype=TSDOWNLOADER&amp;name=----- CSAT_GENERAL----- </link>
+</item>
+<item>
+<title>tf1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/193.ts&amp;streamtype=TSDOWNLOADER&amp;name=tf1 </link>
+</item>
+<item>
+<title>m6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/192.ts&amp;streamtype=TSDOWNLOADER&amp;name=m6 </link>
+</item>
+<item>
+<title>France2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/194.ts&amp;streamtype=TSDOWNLOADER&amp;name=France2HD </link>
 </item>
 <item>
 <title>France3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/570.ts&amp;streamtype=TSDOWNLOADER&amp;name=France3 </link>
-</item>
-<item>
-<title>France4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/571.ts&amp;streamtype=TSDOWNLOADER&amp;name=France4 </link>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/195.ts&amp;streamtype=TSDOWNLOADER&amp;name=France3 </link>
 </item>
 <item>
 <title>France5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/572.ts&amp;streamtype=TSDOWNLOADER&amp;name=France5 </link>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/197.ts&amp;streamtype=TSDOWNLOADER&amp;name=France5 </link>
 </item>
 <item>
-<title>France0</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/573.ts&amp;streamtype=TSDOWNLOADER&amp;name=France0 </link>
+<title>FRANCEO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/198.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCEO </link>
 </item>
 <item>
-<title>FOOT24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/607.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOOT24 </link>
+<title>France4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/196.ts&amp;streamtype=TSDOWNLOADER&amp;name=France4 </link>
 </item>
 <item>
-<title>Eurosport2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/608.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport2 </link>
+<title>FR_ARTE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6460.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_ARTE </link>
 </item>
 <item>
-<title>NFOSPORTPLUS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/1273.ts&amp;streamtype=TSDOWNLOADER&amp;name=NFOSPORTPLUS </link>
+<title>----- CSAT_ENTERTAINMENT----</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/10175.ts&amp;streamtype=TSDOWNLOADER&amp;name=----- CSAT_ENTERTAINMENT---- </link>
 </item>
 <item>
-<title>Eurosport1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/609.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport1 </link>
+<title>FR_teletoon+1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6483.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_teletoon+1 </link>
 </item>
 <item>
-<title>EQUIDIA-LIFE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/610.ts&amp;streamtype=TSDOWNLOADER&amp;name=EQUIDIA-LIFE </link>
+<title>C8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/199.ts&amp;streamtype=TSDOWNLOADER&amp;name=C8 </link>
 </item>
 <item>
-<title>DISNEY-CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/619.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY-CHANNEL </link>
+<title>CSTAR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/221.ts&amp;streamtype=TSDOWNLOADER&amp;name=CSTAR </link>
 </item>
 <item>
-<title>DISCOVERY-SCIENCE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/601.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY-SCIENCE </link>
+<title>--------- Divertissement TVA---------</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/4219.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------- Divertissement TVA--------- </link>
 </item>
 <item>
-<title>D8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/567.ts&amp;streamtype=TSDOWNLOADER&amp;name=D8 </link>
+<title>13eme_Rue</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/215.ts&amp;streamtype=TSDOWNLOADER&amp;name=13eme_Rue </link>
 </item>
 <item>
-<title>D17</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/568.ts&amp;streamtype=TSDOWNLOADER&amp;name=D17 </link>
+<title>SerieClub</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/222.ts&amp;streamtype=TSDOWNLOADER&amp;name=SerieClub </link>
+</item>
+<item>
+<title>Teva_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/4653.ts&amp;streamtype=TSDOWNLOADER&amp;name=Teva_HD </link>
+</item>
+<item>
+<title>SY-FY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/5196.ts&amp;streamtype=TSDOWNLOADER&amp;name=SY-FY </link>
+</item>
+<item>
+<title>FR_PARAMOUNT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6254.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_PARAMOUNT </link>
+</item>
+<item>
+<title>FR_PARIS_PREMIERE_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6475.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_PARIS_PREMIERE_HD </link>
+</item>
+<item>
+<title>FR_E_ENTERTAINMENT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6468.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_E_ENTERTAINMENT </link>
+</item>
+<item>
+<title>FR_NOLLYWOOD_MOVIES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6464.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NOLLYWOOD_MOVIES </link>
+</item>
+<item>
+<title>Comidia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/4648.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comidia </link>
+</item>
+<item>
+<title>TMC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/5208.ts&amp;streamtype=TSDOWNLOADER&amp;name=TMC </link>
+</item>
+<item>
+<title>RTL9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/5082.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL9 </link>
+</item>
+<item>
+<title>W9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/323.ts&amp;streamtype=TSDOWNLOADER&amp;name=W9 </link>
+</item>
+<item>
+<title>6ter_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/324.ts&amp;streamtype=TSDOWNLOADER&amp;name=6ter_HD </link>
+</item>
+<item>
+<title>FR_HD1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6470.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_HD1 </link>
+</item>
+<item>
+<title>RTS_Deux</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/5116.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTS_Deux </link>
+</item>
+<item>
+<title>RTS-Un_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/5115.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTS-Un_HD </link>
+</item>
+<item>
+<title>TCM_CINEMA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/5108.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM_CINEMA </link>
+</item>
+<item>
+<title>FR_W9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/5090.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_W9 </link>
+</item>
+<item>
+<title>FR_weo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6493.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_weo </link>
+</item>
+<item>
+<title>FR_NT1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6473.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NT1 </link>
+</item>
+<item>
+<title>FR_GONG</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6469.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_GONG </link>
+</item>
+<item>
+<title>FR_cherie25</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6466.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_cherie25 </link>
+</item>
+<item>
+<title>FR_TV BRISHZ HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6495.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TV BRISHZ HD </link>
+</item>
+<item>
+<title>FR_canal_play1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/4643.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_canal_play1 </link>
+</item>
+<item>
+<title>FR_canal_play2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/217.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_canal_play2 </link>
+</item>
+<item>
+<title>----- CSAT_DOCUMENT-----</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/10173.ts&amp;streamtype=TSDOWNLOADER&amp;name=----- CSAT_DOCUMENT----- </link>
+</item>
+<item>
+<title>VOYAGEHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/212.ts&amp;streamtype=TSDOWNLOADER&amp;name=VOYAGEHD </link>
+</item>
+<item>
+<title>FR_DISCOVERY_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6467.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_DISCOVERY_HD </link>
+</item>
+<item>
+<title>SEASONS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/4212.ts&amp;streamtype=TSDOWNLOADER&amp;name=SEASONS </link>
+</item>
+<item>
+<title>USHUAIATVHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/206.ts&amp;streamtype=TSDOWNLOADER&amp;name=USHUAIATVHD </link>
+</item>
+<item>
+<title>PLANETEHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/207.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLANETEHD </link>
+</item>
+<item>
+<title>Planete_Ci_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/4644.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planete_Ci_HD </link>
+</item>
+<item>
+<title>Planete_A&E</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/4645.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planete_A&E </link>
+</item>
+<item>
+<title>NATIONALGEOHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/210.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONALGEOHD </link>
+</item>
+<item>
+<title>Nationale_geography</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/130.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nationale_geography </link>
+</item>
+<item>
+<title>DiscoverySience</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/219.ts&amp;streamtype=TSDOWNLOADER&amp;name=DiscoverySience </link>
+</item>
+<item>
+<title>Animaux</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/218.ts&amp;streamtype=TSDOWNLOADER&amp;name=Animaux </link>
+</item>
+<item>
+<title>rrmc_decouverte</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/4646.ts&amp;streamtype=TSDOWNLOADER&amp;name=rrmc_decouverte </link>
+</item>
+<item>
+<title>Planete</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/4647.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planete </link>
+</item>
+<item>
+<title>FR_NATGEO_WILD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6445.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NATGEO_WILD </link>
+</item>
+<item>
+<title>FRTOUTE L HISTOIRE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6481.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRTOUTE L HISTOIRE </link>
+</item>
+<item>
+<title>FR_Chasse_&_Peche_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6459.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Chasse_&_Peche_HD </link>
+</item>
+<item>
+<title>FR_science&vie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6480.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_science&vie </link>
+</item>
+<item>
+<title>FR_RMC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6492.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_RMC </link>
+</item>
+<item>
+<title>--------- Culture FR_SEASON---------</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6437.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------- Culture FR_SEASON--------- </link>
+</item>
+<item>
+<title>----- CSAT_ENFANT-----</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/10172.ts&amp;streamtype=TSDOWNLOADER&amp;name=----- CSAT_ENFANT----- </link>
+</item>
+<item>
+<title>FR_CARTOON_NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6448.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CARTOON_NETWORK </link>
+</item>
+<item>
+<title>TeleToonHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/209.ts&amp;streamtype=TSDOWNLOADER&amp;name=TeleToonHD </link>
+</item>
+<item>
+<title>DisneyJunior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/220.ts&amp;streamtype=TSDOWNLOADER&amp;name=DisneyJunior </link>
+</item>
+<item>
+<title>DISNEYCHANNELHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/213.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEYCHANNELHD </link>
+</item>
+<item>
+<title>Disney_channel1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6438.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney_channel1 </link>
+</item>
+<item>
+<title>FR_Disney_Cinema</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6447.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Disney_Cinema </link>
+</item>
+<item>
+<title>FR_DISNEY_XD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6484.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_DISNEY_XD </link>
+</item>
+<item>
+<title>FR_Disney_junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6478.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Disney_junior </link>
+</item>
+<item>
+<title>FR_BOING</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6476.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_BOING </link>
+</item>
+<item>
+<title>FR_nickeleodeon_junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6479.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_nickeleodeon_junior </link>
+</item>
+<item>
+<title>FR_J_ONE_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6477.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_J_ONE_HD </link>
+</item>
+<item>
+<title>Boomerang_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/4652.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boomerang_HD </link>
+</item>
+<item>
+<title>FR_ZOUZOU</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/8258.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_ZOUZOU </link>
+</item>
+<item>
+<title>FR_DISNEYXD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6457.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_DISNEYXD </link>
+</item>
+<item>
+<title>FR_CANAL_J</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6449.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL_J </link>
+</item>
+<item>
+<title>FR_MANGAS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6451.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_MANGAS </link>
 </item>
 <item>
 <title>Piwi</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/882.ts&amp;streamtype=TSDOWNLOADER&amp;name=Piwi </link>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/4641.ts&amp;streamtype=TSDOWNLOADER&amp;name=Piwi </link>
 </item>
 <item>
-<title>BOOMERANG</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/613.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOOMERANG </link>
+<title>FR_TIJI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/9333.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TIJI </link>
 </item>
 <item>
-<title>6Ter</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/565.ts&amp;streamtype=TSDOWNLOADER&amp;name=6Ter </link>
+<title>----- CSAT_NEWS-----</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/10176.ts&amp;streamtype=TSDOWNLOADER&amp;name=----- CSAT_NEWS----- </link>
 </item>
 <item>
-<title>13Eme-RUE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/578.ts&amp;streamtype=TSDOWNLOADER&amp;name=13Eme-RUE </link>
+<title>Hi_itele</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/204.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hi_itele </link>
 </item>
 <item>
-<title>CANALJ</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/612.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALJ </link>
+<title>euronews</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/123.ts&amp;streamtype=TSDOWNLOADER&amp;name=euronews </link>
 </item>
 <item>
-<title>RTL-TVI-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/1215.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL-TVI-HD </link>
+<title>FR_DISNEY_CINEMAGIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6454.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_DISNEY_CINEMAGIC </link>
 </item>
 <item>
-<title>PLUG-RTL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/1216.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLUG-RTL </link>
+<title>FR_france_24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6453.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_france_24 </link>
 </item>
 <item>
-<title>LA-UNE-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/1217.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA-UNE-HD </link>
+<title>FR_FRANCE24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6431.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_FRANCE24 </link>
 </item>
 <item>
-<title>LA-DEUX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/1219.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA-DEUX </link>
+<title>FR_EURONEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6456.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_EURONEWS </link>
 </item>
 <item>
-<title>LA-TROIS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/1218.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA-TROIS </link>
+<title>FR_LCI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6489.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_LCI </link>
 </item>
 <item>
-<title>CLUB-RTL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/ad1/ad1/1220.ts&amp;streamtype=TSDOWNLOADER&amp;name=CLUB-RTL </link>
+<title>FR_nickeleodeon</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6487.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_nickeleodeon </link>
+</item>
+<item>
+<title>FR_BFM_Business</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6488.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_BFM_Business </link>
+</item>
+<item>
+<title>----- CSAT_MUSIC-----</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/10179.ts&amp;streamtype=TSDOWNLOADER&amp;name=----- CSAT_MUSIC----- </link>
+</item>
+<item>
+<title>--------- Music FR_canal_play--------</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6436.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------- Music FR_canal_play-------- </link>
+</item>
+<item>
+<title>FR_NRJ12_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6450.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NRJ12_HD </link>
+</item>
+<item>
+<title>M6_MUSIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/325.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6_MUSIC </link>
+</item>
+<item>
+<title>NUMERO23</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/4656.ts&amp;streamtype=TSDOWNLOADER&amp;name=NUMERO23 </link>
+</item>
+<item>
+<title>FR_MTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/4414.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_MTV </link>
+</item>
+<item>
+<title>FR_gulli</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/6452.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_gulli </link>
 </item>
 
 
