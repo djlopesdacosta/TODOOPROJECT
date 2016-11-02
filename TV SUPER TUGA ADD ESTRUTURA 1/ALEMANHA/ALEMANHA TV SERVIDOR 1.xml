@@ -25,7 +25,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 23-10-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 02-11-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
@@ -34,556 +34,324 @@
 
 
 
+
+
+
+
+
 <item>
-<title>DE:TAGESSCHAU 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2712.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:TAGESSCHAU 24 </link>
+<title>DE: Sky Sport News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/759.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport News </link>
 </item>
 <item>
-<title>DE: Sky TNT Serie HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2715.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky TNT Serie HD </link>
+<title>DE: Sky Sport +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/761.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport +1 </link>
+</item>
+<item>
+<title>DE: Sky Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/829.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 1 HD </link>
+</item>
+<item>
+<title>DE: Sky Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/826.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 2 HD </link>
+</item>
+<item>
+<title>DE: Sky Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/827.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 1 </link>
+</item>
+<item>
+<title>DE: Sky Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/828.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 2 </link>
+</item>
+<item>
+<title>DE: Sky Eurosport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/809.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Eurosport </link>
+</item>
+<item>
+<title>DE: Sky Bundesliga HD 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/810.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga HD 1 </link>
+</item>
+<item>
+<title>DE: Sky Sport Austria</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/807.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport Austria </link>
+</item>
+<item>
+<title>DE: Sky Select 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/825.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 1 </link>
+</item>
+<item>
+<title>DE: Sky Select 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/824.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 2 </link>
+</item>
+<item>
+<title>DE: Sky Select 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/823.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 3 </link>
+</item>
+<item>
+<title>DE: Sky Select 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/822.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 4 </link>
+</item>
+<item>
+<title>DE: Sky Select 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/821.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 5 </link>
+</item>
+<item>
+<title>DE: Sky Select 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/820.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 6 </link>
+</item>
+<item>
+<title>DE: Sky Select 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/819.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 7 </link>
+</item>
+<item>
+<title>DE: Sky Select 8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/818.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 8 </link>
+</item>
+<item>
+<title>DE: Sky Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/804.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Action </link>
+</item>
+<item>
+<title>DE: Sky Cinema</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/808.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema </link>
+</item>
+<item>
+<title>DE: Sky Cinema +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/806.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema +1 </link>
+</item>
+<item>
+<title>DE: Sky Cinema +24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/805.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema +24 </link>
+</item>
+<item>
+<title>DE: Sky Emotion</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/801.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Emotion </link>
+</item>
+<item>
+<title>DE: Sky Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/799.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Comedy </link>
+</item>
+<item>
+<title>DE: Sky HITS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/802.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky HITS </link>
+</item>
+<item>
+<title>DE: Sky Comedy Central</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/786.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Comedy Central </link>
+</item>
+<item>
+<title>DE: Sky Teleclub Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/751.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Teleclub Sport 1 </link>
+</item>
+<item>
+<title>DE: Sky Teleclub Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/750.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Teleclub Sport 2 </link>
+</item>
+<item>
+<title>DE: Sky Teleclub Sport 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/749.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Teleclub Sport 3 </link>
+</item>
+<item>
+<title>DE: Sky Teleclub Crime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/748.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Teleclub Crime </link>
+</item>
+<item>
+<title>DE: Sky Teleclub Cinema</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/747.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Teleclub Cinema </link>
+</item>
+<item>
+<title>DE: Sky Teleclub Star</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/746.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Teleclub Star </link>
+</item>
+<item>
+<title>DE: Sky RTL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/779.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky RTL </link>
+</item>
+<item>
+<title>DE: Sky RTL 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/778.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky RTL 2 </link>
+</item>
+<item>
+<title>DE: Sky RTL Crime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/752.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky RTL Crime </link>
+</item>
+<item>
+<title>DE: Sky RTL Nitro</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/776.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky RTL Nitro </link>
+</item>
+<item>
+<title>DE: Sky RTL Super</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/800.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky RTL Super </link>
+</item>
+<item>
+<title>DE: Sky Nostalgie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/784.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Nostalgie </link>
+</item>
+<item>
+<title>DE: Sky Sat1 Gold</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/777.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sat1 Gold </link>
+</item>
+<item>
+<title>DE: Sky Zdf Kultur</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/791.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Zdf Kultur </link>
+</item>
+<item>
+<title>DE: Sky ZDF Info</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/790.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky ZDF Info </link>
+</item>
+<item>
+<title>DE: Sky SRF 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/783.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky SRF 1 </link>
+</item>
+<item>
+<title>DE: Sky SRF 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/782.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky SRF 2 </link>
+</item>
+<item>
+<title>DE: Sky ORF 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/772.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky ORF 2 </link>
+</item>
+<item>
+<title>DE: Sky ORF Enis</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/771.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky ORF Enis </link>
+</item>
+<item>
+<title>DE: Sky VOX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/788.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky VOX </link>
+</item>
+<item>
+<title>DE: Sky FOX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/787.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky FOX </link>
+</item>
+<item>
+<title>DE: Sky Austria 24 TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/796.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Austria 24 TV </link>
+</item>
+<item>
+<title>DE: Sky HR HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/754.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky HR HD </link>
+</item>
+<item>
+<title>DE: Sky Joiz</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/753.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Joiz </link>
+</item>
+<item>
+<title>DE: Sky Disney Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/795.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Disney Channel </link>
+</item>
+<item>
+<title>DE: Sky TNT Comedy HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/811.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky TNT Comedy HD </link>
+</item>
+<item>
+<title>DE: Sky TNT Serie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/794.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky TNT Serie </link>
+</item>
+<item>
+<title>DE: Sky TNT Film</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/758.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky TNT Film </link>
+</item>
+<item>
+<title>DE: Sky Nickelodeon</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/797.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Nickelodeon </link>
+</item>
+<item>
+<title>DE: Sky National Geographic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/792.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky National Geographic </link>
+</item>
+<item>
+<title>DE: Sky Nat Geo wild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/793.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Nat Geo wild </link>
+</item>
+<item>
+<title>DE: Sky History</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/762.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky History </link>
+</item>
+<item>
+<title>DE: Sky AXN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/760.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky AXN HD </link>
+</item>
+<item>
+<title>DE: Sky 13th Street</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/780.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky 13th Street </link>
+</item>
+<item>
+<title>DE: Sky BR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/774.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky BR </link>
+</item>
+<item>
+<title>DE: Sky RBB Berlin</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/775.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky RBB Berlin </link>
+</item>
+<item>
+<title>DE: Sky Phoenix</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/769.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Phoenix </link>
+</item>
+<item>
+<title>DE: Sky Atlantic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/798.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Atlantic </link>
+</item>
+<item>
+<title>DE: Sky Wdr</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/789.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Wdr </link>
+</item>
+<item>
+<title>DE: Sky Sixx</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/785.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sixx </link>
+</item>
+<item>
+<title>DE: Sky Pro 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/773.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Pro 7 </link>
+</item>
+<item>
+<title>DE: Sky NDR HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/768.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky NDR HD </link>
+</item>
+<item>
+<title>DE: Sky N24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/767.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky N24 </link>
+</item>
+<item>
+<title>DE: Sky N-TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/766.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky N-TV </link>
+</item>
+<item>
+<title>DE: Sky MDR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/765.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky MDR </link>
 </item>
 <item>
 <title>DE: Sky Krimi</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2718.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Krimi </link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/803.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Krimi </link>
 </item>
 <item>
-<title>DE: Sky Comedy HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2720.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Comedy HD </link>
+<title>DE: Sky Kika</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/764.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Kika </link>
 </item>
 <item>
-<title>DE: SAT 1 EMOTIONS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2716.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SAT 1 EMOTIONS </link>
+<title>DE: Sky Kabel 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/763.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Kabel 1 </link>
 </item>
 <item>
-<title>DE: Sat 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2717.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sat 1 </link>
+<title>DE: Sky Dmax</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/770.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Dmax </link>
 </item>
 <item>
-<title>DE: Phoenix</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2714.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Phoenix </link>
+<title>DE: Sky Pro 7 Max</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/757.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Pro 7 Max </link>
 </item>
 <item>
-<title>DE: ORF 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2713.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF 1 </link>
+<title>DE: Sky Arte</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/756.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Arte </link>
 </item>
 <item>
-<title>DE_ORF_2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/396.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_ORF_2 </link>
+<title>DE: Sky ARD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/755.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky ARD </link>
 </item>
 <item>
-<title>DE_Cartoon Network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3353.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Cartoon Network </link>
-</item>
-<item>
-<title>DE_TLC HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3347.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_TLC HD </link>
-</item>
-<item>
-<title>DE_PRO_MAXX_7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3348.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_PRO_MAXX_7 </link>
-</item>
-<item>
-<title>DE_SWR_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3354.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SWR_HD </link>
-</item>
-<item>
-<title>DE_SIXX_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3356.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SIXX_HD </link>
-</item>
-<item>
-<title>DE_Romance TV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3357.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Romance TV HD </link>
-</item>
-<item>
-<title>DE_RBB_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3358.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_RBB_HD </link>
-</item>
-<item>
-<title>DE_NDR_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3359.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_NDR_HD </link>
-</item>
-<item>
-<title>DE_N TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3360.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_N TV </link>
-</item>
-<item>
-<title>DE_KINOWELT TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3346.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_KINOWELT TV </link>
-</item>
-<item>
-<title>DE_GOLD STAR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3361.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_GOLD STAR </link>
-</item>
-<item>
-<title>DE_PROSIEBEN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3352.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_PROSIEBEN HD </link>
-</item>
-<item>
-<title>DE_DW TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3349.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_DW TV </link>
-</item>
-<item>
-<title>DE_BOOMERANG</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3362.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_BOOMERANG </link>
-</item>
-<item>
-<title>DE_DAS_ERSTE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3364.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_DAS_ERSTE </link>
-</item>
-<item>
-<title>DE_3 SAT HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3363.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_3 SAT HD </link>
-</item>
-<item>
-<title>DE_WDR_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/410.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_WDR_HD </link>
-</item>
-<item>
-<title>DE_Sky_Pro_7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1051.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Pro_7 </link>
-</item>
-<item>
-<title>DE_ZDF_NEO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1046.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_ZDF_NEO </link>
-</item>
-<item>
-<title>DE_ZDF</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/438.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_ZDF </link>
-</item>
-<item>
-<title>DE_VOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/433.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_VOX </link>
-</item>
-<item>
-<title>DE_RTLCRIME</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1608.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_RTLCRIME </link>
-</item>
-<item>
-<title>DE_KIKA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1607.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_KIKA </link>
-</item>
-<item>
-<title>DE_SUPER_RTL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1605.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SUPER_RTL </link>
-</item>
-<item>
-<title>DE_SKY_FOX_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1602.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_FOX_HD </link>
-</item>
-<item>
-<title>DE_SYFY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1604.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SYFY </link>
-</item>
-<item>
-<title>DE_TNTFilm</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/432.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_TNTFilm </link>
-</item>
-<item>
-<title>DE_Sky_MGM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/372.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_MGM </link>
-</item>
-<item>
-<title>DE_Eins_Plus</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/381.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Eins_Plus </link>
-</item>
-<item>
-<title>DE_SKY_CINEMA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/878.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_CINEMA </link>
-</item>
-<item>
-<title>DE_Sky _Cinema_1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1048.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky _Cinema_1_HD </link>
-</item>
-<item>
-<title>DE_Sky-Cinema-24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1047.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky-Cinema-24 </link>
-</item>
-<item>
-<title>DE_Sky-Action-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1049.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky-Action-HD </link>
-</item>
-<item>
-<title>DE_Sky_Emotion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/379.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Emotion </link>
-</item>
-<item>
-<title>DE_NationalGeographicWildHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/397.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_NationalGeographicWildHD </link>
-</item>
-<item>
-<title>DE_Nat-Geog-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/398.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Nat-Geog-HD </link>
-</item>
-<item>
-<title>DE_MDR_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/407.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_MDR_HD </link>
-</item>
-<item>
-<title>DE_Sky_Discovery_ChannelHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/418.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Discovery_ChannelHD </link>
-</item>
-<item>
-<title>DE_Sky-Sat1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/385.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky-Sat1 </link>
-</item>
-<item>
-<title>DE_Sky_Select_3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1053.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Select_3 </link>
-</item>
-<item>
-<title>DE_RTL-NITRO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/374.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_RTL-NITRO </link>
-</item>
-<item>
-<title>DE_RTL Passion HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/387.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_RTL Passion HD </link>
-</item>
-<item>
-<title>DE_RTL-2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/388.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_RTL-2 </link>
-</item>
-<item>
-<title>DE_N24HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/401.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_N24HD </link>
-</item>
-<item>
-<title>DE_Kabel_Eins_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/405.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Kabel_Eins_HD </link>
-</item>
-<item>
-<title>DE_D_MAX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/409.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_D_MAX </link>
-</item>
-<item>
-<title>DE_ARD_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/430.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_ARD_HD </link>
-</item>
-<item>
-<title>DE_Sky_Select_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/460.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Select_1 </link>
-</item>
-<item>
-<title>DE_Sky_Select_2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/459.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Select_2 </link>
-</item>
-<item>
-<title>DE_Sky_Select_4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/457.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Select_4 </link>
-</item>
-<item>
-<title>DE_Sky_Select_5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/456.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Select_5 </link>
-</item>
-<item>
-<title>DE_Sky_Select_6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/455.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Select_6 </link>
-</item>
-<item>
-<title>Germany Cinema 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3408.ts&amp;streamtype=TSDOWNLOADER&amp;name=Germany Cinema 1 </link>
-</item>
-<item>
-<title>Germany Cinema 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3409.ts&amp;streamtype=TSDOWNLOADER&amp;name=Germany Cinema 2 </link>
-</item>
-<item>
-<title>Germany Cinema 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3410.ts&amp;streamtype=TSDOWNLOADER&amp;name=Germany Cinema 3 </link>
-</item>
-<item>
-<title>(DE) Sky Sport News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3578.ts&amp;streamtype=TSDOWNLOADER&amp;name=(DE) Sky Sport News </link>
-</item>
-<item>
-<title>(DE) Sport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3577.ts&amp;streamtype=TSDOWNLOADER&amp;name=(DE) Sport 1 HD </link>
-</item>
-<item>
-<title>(DE) Sky Sport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3590.ts&amp;streamtype=TSDOWNLOADER&amp;name=(DE) Sky Sport 1 </link>
-</item>
-<item>
-<title>(DE) Sky Sport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3588.ts&amp;streamtype=TSDOWNLOADER&amp;name=(DE) Sky Sport 2 </link>
-</item>
-<item>
-<title>(DE) Sky Sport HD 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3580.ts&amp;streamtype=TSDOWNLOADER&amp;name=(DE) Sky Sport HD 1 </link>
-</item>
-<item>
-<title>(DE) Sky Sport HD 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3579.ts&amp;streamtype=TSDOWNLOADER&amp;name=(DE) Sky Sport HD 2 </link>
-</item>
-<item>
-<title>(DE) Sky Sport 3 (Match Time)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3587.ts&amp;streamtype=TSDOWNLOADER&amp;name=(DE) Sky Sport 3 (Match Time) </link>
-</item>
-<item>
-<title>(DE) Sky Sport 4 (Match Time)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3586.ts&amp;streamtype=TSDOWNLOADER&amp;name=(DE) Sky Sport 4 (Match Time) </link>
-</item>
-<item>
-<title>(DE) Sky Sport 5 (Match Time)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3585.ts&amp;streamtype=TSDOWNLOADER&amp;name=(DE) Sky Sport 5 (Match Time) </link>
-</item>
-<item>
-<title>(DE) Sky Sport 6 (Match Time)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3584.ts&amp;streamtype=TSDOWNLOADER&amp;name=(DE) Sky Sport 6 (Match Time) </link>
-</item>
-<item>
-<title>(DE) Sky Sport 7 (Match Time)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3583.ts&amp;streamtype=TSDOWNLOADER&amp;name=(DE) Sky Sport 7 (Match Time) </link>
-</item>
-<item>
-<title>(DE) Sky Sport 8 (Match Time)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3582.ts&amp;streamtype=TSDOWNLOADER&amp;name=(DE) Sky Sport 8 (Match Time) </link>
-</item>
-<item>
-<title>(DE) Sky Sport 9 (Match Time)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3581.ts&amp;streamtype=TSDOWNLOADER&amp;name=(DE) Sky Sport 9 (Match Time) </link>
-</item>
-<item>
-<title>(DE) Sky Sport 10 (Match Time)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3589.ts&amp;streamtype=TSDOWNLOADER&amp;name=(DE) Sky Sport 10 (Match Time) </link>
-</item>
-<item>
-<title>DE:Sky Bundesliga 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3559.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Bundesliga 1 HD </link>
-</item>
-<item>
-<title>DE:Sky Bundesliga 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3576.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Bundesliga 1 </link>
-</item>
-<item>
-<title>DE:Sky Bundesliga 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3560.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Bundesliga 2 </link>
-</item>
-<item>
-<title>DE:Sky Bundesliga 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3561.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Bundesliga 3 </link>
-</item>
-<item>
-<title>DE:Sky Bundesliga 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3562.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Bundesliga 4 </link>
-</item>
-<item>
-<title>DE:Sky Bundesliga 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3563.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Bundesliga 5 </link>
-</item>
-<item>
-<title>DE:Sky Bundesliga 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3564.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Bundesliga 6 </link>
-</item>
-<item>
-<title>DE:Sky Bundesliga 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3565.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Bundesliga 7 </link>
-</item>
-<item>
-<title>DE:Sky Bundesliga 8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3566.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Bundesliga 8 </link>
-</item>
-<item>
-<title>DE:Sky Bundesliga 9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3567.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Bundesliga 9 </link>
-</item>
-<item>
-<title>DE:SKY Bundesliga 10</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3568.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Bundesliga 10 </link>
-</item>
-<item>
-<title>DE_SKY_SPORT_NEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1606.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SPORT_NEWS </link>
-</item>
-<item>
-<title>DE_SKY_SPORT_AUSTRIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1616.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SPORT_AUSTRIA </link>
+<title>DE: Sky 3sat</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/781.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky 3sat </link>
 </item>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>DE-DAS ERSTE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-DAS ERSTE </link>
-</item>
-<item>
-<title>DE-ZDF</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-ZDF </link>
-</item>
-<item>
-<title>DE-VOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-VOX </link>
-</item>
-<item>
-<title>DE-SAT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/72.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SAT 1 </link>
-</item>
-<item>
-<title>DE-RTL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-RTL </link>
-</item>
-<item>
-<title>DE-RTL 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-RTL 2 </link>
-</item>
-<item>
-<title>DE-SUPER RTL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/304.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SUPER RTL </link>
-</item>
-<item>
-<title>DE-RTL PASSION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/507.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-RTL PASSION </link>
-</item>
-<item>
-<title>DE-PRO 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/732.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-PRO 7 </link>
-</item>
-<item>
-<title>DE-WDR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-WDR </link>
-</item>
-<item>
-<title>RBW TV -DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/121.ts&amp;streamtype=TSDOWNLOADER&amp;name=RBW TV -DE </link>
-</item>
-<item>
-<title>VIRGIN TV- DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/278.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIRGIN TV- DE </link>
-</item>
-<item>
-<title>NGC HD-DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/445.ts&amp;streamtype=TSDOWNLOADER&amp;name=NGC HD-DE </link>
-</item>
-<item>
-<title>NATIONAL GEO WILD -DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/447.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEO WILD -DE </link>
-</item>
-<item>
-<title>DISCOVERY CHANNEL-DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/446.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL-DE </link>
-</item>
-<item>
-<title>EURONEWS DEUTSCH -GERMAN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/163.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURONEWS DEUTSCH -GERMAN </link>
-</item>
-<item>
-<title>EURO NEWS DE-GERMAN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/172.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURO NEWS DE-GERMAN </link>
-</item>
-<item>
-<title>AUSTRIA 24 -GERMAN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/164.ts&amp;streamtype=TSDOWNLOADER&amp;name=AUSTRIA 24 -GERMAN </link>
-</item>
-<item>
-<title>ANEXIE HD-GERMAN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/169.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANEXIE HD-GERMAN </link>
-</item>
-<item>
-<title>SKY KRIME-DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/437.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY KRIME-DE </link>
-</item>
-<item>
-<title>DE-SKY EMOTION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/435.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SKY EMOTION </link>
-</item>
-<item>
-<title>SKY COMEDY -DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/302.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY COMEDY -DE </link>
-</item>
-<item>
-<title>DE-SKY CINEMA 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/433.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SKY CINEMA 24 </link>
-</item>
-<item>
-<title>SKY GERMANY-DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/591.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY GERMANY-DE </link>
-</item>
-<item>
-<title>DE-SKY ATLANTIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/436.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SKY ATLANTIC </link>
-</item>
-<item>
-<title>DE-SKY ACTION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/305.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SKY ACTION </link>
-</item>
-<item>
-<title>DE-SKY CINEMA HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/722.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SKY CINEMA HD </link>
-</item>
-<item>
-<title>DE-SKY NOSTALGIE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/773.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SKY NOSTALGIE </link>
-</item>
-<item>
-<title>DE-HEIMAT KANAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/718.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-HEIMAT KANAL </link>
-</item>
-<item>
-<title>DE-SKY SELECT 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/504.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SKY SELECT 1 HD </link>
-</item>
-<item>
-<title>DE-SKY SELECT 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/505.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SKY SELECT 2 HD </link>
-</item>
-<item>
-<title>DE-SKY SELECT 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/506.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SKY SELECT 3 HD </link>
-</item>
-<item>
-<title>DE-SIXX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/707.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SIXX HD </link>
-</item>
-<item>
-<title>DE-DISNEY XD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/739.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-DISNEY XD </link>
-</item>
-<item>
-<title>DE-SYFY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/774.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SYFY </link>
-</item>
-<item>
-<title>DE-MGM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/772.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-MGM </link>
-</item>
-<item>
-<title>DE-GOLDSTAR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/770.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-GOLDSTAR </link>
-</item>
-<item>
-<title>DE-ORF 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/73.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-ORF 1 </link>
-</item>
-<item>
-<title>DE-SRF 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/74.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SRF 1 </link>
-</item>
-<item>
-<title>DE-SKY HITS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/573.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SKY HITS </link>
-</item>
-<item>
-<title>DE-PRO7 MAXX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/964.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-PRO7 MAXX </link>
-</item>
-<item>
-<title>DE-FOX SERIE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nl.starboxone.com:9090/live/peker/omer/963.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-FOX SERIE </link>
-</item>
 
   
 <item>       

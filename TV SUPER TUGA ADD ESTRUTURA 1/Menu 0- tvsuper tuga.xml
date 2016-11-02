@@ -5,7 +5,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime] [COLOR white][B] [COLOR lime]|||[/COLOR] Update 22-10-2016 [COLOR red]|||[/COLOR][/B][/COLOR] </name>
+<name>[COLOR lime] [COLOR white][B] [COLOR lime]|||[/COLOR] Update 02-11-2016 [COLOR red]|||[/COLOR][/B][/COLOR] </name>
 <externallink>http://tv-super-tuga-add-estrutura.comlu.com/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA/Menu%200-%20tvsuper%20tuga.xml</externallink>
 <fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
 <thumbnail>http://www.esar.edu.pt/portal/images/outros/icon.jpg</thumbnail>
@@ -166,13 +166,13 @@
 <title>[COLOR=red][B][I] SIC HD [/I][/B][/COLOR]   [COLOR=cyan]F4MTESTER[/COLOR]</title>
 
 <link>http://live.impresa.pt/live/sic/sic540p.m3u8</link>
-<link>http://213.13.26.11:1935/live/sic/SIC.m3u8</link>
+
 
 
 <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
 <fanart>http://iptv.cline.in:80/live/greg/greg/1166.m3u8</fanart>
 </item>
-
+ SPORTING TV
 
 <item>
 <title>[COLOR=red][B][I] TVI [/I][/B][/COLOR]  [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
@@ -591,7 +591,7 @@
 </item>
 
 
-
+SIC NOTICIAS
 
 <item>
 <title>[COLOR cyan] [I]SPORTING TV  [/I] [/COLOR][COLOR=red](WebTV)[/COLOR]</title> 

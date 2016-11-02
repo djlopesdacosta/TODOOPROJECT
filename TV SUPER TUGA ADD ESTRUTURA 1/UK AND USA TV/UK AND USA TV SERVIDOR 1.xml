@@ -17,7 +17,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 28-10-16 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 02-11-16 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -35,528 +35,697 @@
 
 
 
+<item>
+<title>UK: Sky News HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/550.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky News HD </link>
+</item>
+<item>
+<title>UK: Sky Sports News HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/549.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports News HD </link>
+</item>
+<item>
+<title>UK: Sky Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/548.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 1 HD </link>
+</item>
+<item>
+<title>UK: Sky Sport 1 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/533.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 1 SD </link>
+</item>
+<item>
+<title>UK: Sky Sports 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/547.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 2 HD </link>
+</item>
+<item>
+<title>UK: Sky Sport 2 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/532.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 2 SD </link>
+</item>
+<item>
+<title>UK: Sky Sports 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/546.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 3 HD </link>
+</item>
+<item>
+<title>UK: Sky Sport 3 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/531.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 3 SD </link>
+</item>
+<item>
+<title>UK: Sky Sports 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/545.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 4 HD </link>
+</item>
+<item>
+<title>UK: Sky Sport 4 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/530.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 4 SD </link>
+</item>
+<item>
+<title>UK: Sky Sports 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 5 HD </link>
+</item>
+<item>
+<title>UK: Sky Sport 5 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/529.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 5 SD </link>
+</item>
+<item>
+<title>UK: Sky Sports F1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/539.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports F1 </link>
+</item>
+<item>
+<title>UK: Sky Premier Sports HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/513.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Premier Sports HD </link>
+</item>
+<item>
+<title>UK: Sky Setanta Sports</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/484.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Setanta Sports </link>
+</item>
+<item>
+<title>UK: Sky Eurosport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/541.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Eurosport 1 HD </link>
+</item>
+<item>
+<title>UK: Sky Eurosport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/540.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Eurosport 2 HD </link>
+</item>
+<item>
+<title>UK: Sky BT Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/543.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BT Sport 1 </link>
+</item>
+<item>
+<title>UK: Sky BT Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/542.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BT Sport 2 </link>
+</item>
+<item>
+<title>UK: Sky BT Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/528.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BT Sport 1 HD </link>
+</item>
+<item>
+<title>UK: Sky BT Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/527.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BT Sport 2 HD </link>
+</item>
+<item>
+<title>UK: Sky BT Sport Europe</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/453.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BT Sport Europe </link>
+</item>
+<item>
+<title>UK: Sky BT Sport Extra</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/479.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BT Sport Extra </link>
+</item>
+<item>
+<title>UK: Sky Liverpool FC TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/536.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Liverpool FC TV HD </link>
+</item>
+<item>
+<title>UK: Sky Chelsea TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/537.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Chelsea TV HD </link>
+</item>
+<item>
+<title>UK: Sky MUTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/535.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MUTV </link>
+</item>
+<item>
+<title>Uk: Sky At the Races</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/461.ts&amp;streamtype=TSDOWNLOADER&amp;name=Uk: Sky At the Races </link>
+</item>
+<item>
+<title>UK: Sky Movies Premiere HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/519.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Premiere HD </link>
+</item>
+<item>
+<title>UK: Sky Movies Disney</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/516.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Disney </link>
+</item>
+<item>
+<title>UK: Sky Movies Select HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/517.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Select HD </link>
+</item>
+<item>
+<title>UK: Sky Movies Action HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/511.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Action HD </link>
+</item>
+<item>
+<title>UK: Sky Movies Greats</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/518.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Greats </link>
+</item>
+<item>
+<title>UK: Sky Movies Family HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/520.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Family HD </link>
+</item>
+<item>
+<title>UK: Sky Movies Drama HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/521.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Drama HD </link>
+</item>
+<item>
+<title>UK: Sky Movies Comedy HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/524.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Comedy HD </link>
+</item>
+<item>
+<title>UK: Sky Movies Crime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/512.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Crime </link>
+</item>
+<item>
+<title>UK: Sky Movies Sci-Fi+</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/515.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Sci-Fi+ </link>
+</item>
+<item>
+<title>UK: Sky Movies 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/523.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies 24 </link>
+</item>
+<item>
+<title>UK: Sky True Movies 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/472.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky True Movies 1 </link>
+</item>
+<item>
+<title>UK: Sky True Movies 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky True Movies 2 </link>
+</item>
+<item>
+<title>UK: Sky More 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/504.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky More 4 HD </link>
+</item>
+<item>
+<title>UK: Sky Film 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/505.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Film 4 HD </link>
+</item>
+<item>
+<title>UK: Sky ITV 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/471.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky ITV 1 </link>
+</item>
+<item>
+<title>UK: Sky ITV 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/470.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky ITV 2 </link>
+</item>
+<item>
+<title>UK: Sky ITV 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/469.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky ITV 3 </link>
+</item>
+<item>
+<title>UK: Sky ITV 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/468.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky ITV 4 </link>
+</item>
+<item>
+<title>UK: Sky ITV Encore</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/467.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky ITV Encore </link>
+</item>
+<item>
+<title>UK: Sky Cbs Drama</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/482.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cbs Drama </link>
+</item>
+<item>
+<title>UK: Sky Cbs Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/481.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cbs Action </link>
+</item>
+<item>
+<title>UK: Sky CBS Reality</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/510.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky CBS Reality </link>
+</item>
+<item>
+<title>UK: Sky BBC One HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/488.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BBC One HD </link>
+</item>
+<item>
+<title>UK: Sky BBC Two HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/487.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BBC Two HD </link>
+</item>
+<item>
+<title>UK: Sky BBC Three HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/486.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BBC Three HD </link>
+</item>
+<item>
+<title>UK: Sky BBC Four HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/485.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BBC Four HD </link>
+</item>
+<item>
+<title>UK: Sky Comedy Central</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/463.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Comedy Central </link>
+</item>
+<item>
+<title>UK: Sky Comedy Central Ex</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/462.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Comedy Central Ex </link>
+</item>
+<item>
+<title>UK: Sky Food Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/495.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Food Network </link>
+</item>
+<item>
+<title>UK: Sky Good Food HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/501.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Good Food HD </link>
+</item>
+<item>
+<title>UK: Sky Bloomberg HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/457.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Bloomberg HD </link>
+</item>
+<item>
+<title>UK: Sky Boomerang</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/444.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Boomerang </link>
+</item>
+<item>
+<title>UK: Sky Nickelodeon</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Nickelodeon </link>
+</item>
+<item>
+<title>UK: Sky Cartoon Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/522.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cartoon Network </link>
+</item>
+<item>
+<title>UK: Sky NickToons</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/446.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky NickToons </link>
+</item>
+<item>
+<title>UK: Sky Disney XD HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/493.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Disney XD HD </link>
+</item>
+<item>
+<title>UK: Sky Disney Junior HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/494.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Disney Junior HD </link>
+</item>
+<item>
+<title>UK: Sky Disney Chaneel HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/492.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Disney Chaneel HD </link>
+</item>
+<item>
+<title>UK: Sky Discovery Science</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/526.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Discovery Science </link>
+</item>
+<item>
+<title>UK: Sky Discovery History</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/491.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Discovery History </link>
+</item>
+<item>
+<title>UK: Sky Discovery Turbo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/465.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Discovery Turbo </link>
+</item>
+<item>
+<title>UK: Sky Discovery Shed</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/445.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Discovery Shed </link>
+</item>
+<item>
+<title>UK: Sky Discovery</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/464.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Discovery </link>
+</item>
+<item>
+<title>UK: Sky National Geographic HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/499.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky National Geographic HD </link>
+</item>
+<item>
+<title>UK: Sky Nat Geo Wild HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/498.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Nat Geo Wild HD </link>
+</item>
+<item>
+<title>UK: Sky Animal Planet HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/497.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Animal Planet HD </link>
+</item>
+<item>
+<title>UK: Sky History HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/496.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky History HD </link>
+</item>
+<item>
+<title>UK: Sky History 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/452.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky History 2 </link>
+</item>
+<item>
+<title>UK: Sky Ci</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/514.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Ci </link>
+</item>
+<item>
+<title>UK: Sky 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/475.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky 1 </link>
+</item>
+<item>
+<title>UK: Sky 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/507.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky 2 </link>
+</item>
+<item>
+<title>UK: Sky Atlantic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/483.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Atlantic </link>
+</item>
+<item>
+<title>UK: Sky E!</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/447.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky E! </link>
+</item>
+<item>
+<title>UK: Sky VH1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/449.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky VH1 </link>
+</item>
+<item>
+<title>UK: Sky E4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/451.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky E4 </link>
+</item>
+<item>
+<title>UK: Sky Syfy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/538.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Syfy </link>
+</item>
+<item>
+<title>UK: Sky CNBC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/466.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky CNBC </link>
+</item>
+<item>
+<title>UK: Sky Dave HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/506.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Dave HD </link>
+</item>
+<item>
+<title>UK: Sky RTE One</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/474.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky RTE One </link>
+</item>
+<item>
+<title>UK: Sky RTE Two</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/478.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky RTE Two </link>
+</item>
+<item>
+<title>UK: SKY Fox</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/460.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY Fox </link>
+</item>
+<item>
+<title>UK: Sky Five</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/473.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Five </link>
+</item>
+<item>
+<title>UK: Sky Arts 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/489.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Arts 1 HD </link>
+</item>
+<item>
+<title>UK: Sky Alibi</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/509.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Alibi </link>
+</item>
+<item>
+<title>UK: Sky Living HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/502.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Living HD </link>
+</item>
+<item>
+<title>UK: Sky BoxNation</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/490.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BoxNation </link>
+</item>
+<item>
+<title>UK: Sky Racing</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/458.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Racing </link>
+</item>
+<item>
+<title>UK: Sky Gold</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/508.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Gold </link>
+</item>
+<item>
+<title>UK: Sky 5 USA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/480.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky 5 USA </link>
+</item>
+<item>
+<title>UK: Sky 5 star</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/477.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky 5 star </link>
+</item>
+<item>
+<title>UK: Sky life Time</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/476.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky life Time </link>
+</item>
+<item>
+<title>UK: Sky E4+1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/525.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky E4+1 </link>
+</item>
+<item>
+<title>UK: Sky TCM</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/459.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky TCM </link>
+</item>
+<item>
+<title>UK: Sky CNN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/454.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky CNN </link>
+</item>
+<item>
+<title>UK: Sky Dmax</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/456.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Dmax </link>
+</item>
+<item>
+<title>UK: Sky TLC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/455.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky TLC </link>
+</item>
+<item>
+<title>UK: Sky STV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/448.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky STV </link>
+</item>
+<item>
+<title>UK: Sky MTV Rocks</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/450.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Rocks </link>
+</item>
+<item>
+<title>UK: Sky MTV Rocks HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/442.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Rocks HD </link>
+</item>
+<item>
+<title>UK: Sky MTV Hits HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/443.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Hits HD </link>
+</item>
+<item>
+<title>UK: Sky MTV Dance HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/441.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Dance HD </link>
+</item>
+<item>
+<title>UK: Sky MTV Live HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/439.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Live HD </link>
+</item>
+<item>
+<title>UK: Sky MTV Classic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Classic </link>
+</item>
+<item>
+<title>UK: Sky MTV Base</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/440.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Base </link>
+</item>
+<item>
+<title>US: Famly HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1161.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Famly HD </link>
+</item>
+<item>
+<title>US: Sport Pag TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1442.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport Pag TV </link>
+</item>
+<item>
+<title>US: Sport Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1172.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport Network </link>
+</item>
+<item>
+<title>US: Sports Versus HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1431.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sports Versus HD </link>
+</item>
+<item>
+<title>US: World Fashion TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1432.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: World Fashion TV </link>
+</item>
+<item>
+<title>US: Sports NFL Now HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1434.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sports NFL Now HD </link>
+</item>
+<item>
+<title>US: HBO 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1433.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: HBO 1 </link>
+</item>
+<item>
+<title>US: Sports MLS Soccer</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1151.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sports MLS Soccer </link>
+</item>
+<item>
+<title>US: Sports Tonight</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1158.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sports Tonight </link>
+</item>
+<item>
+<title>US: Sports Fight Sports</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1436.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sports Fight Sports </link>
+</item>
+<item>
+<title>US: Sports HI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1435.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sports HI </link>
+</item>
+<item>
+<title>US: Sport LTVE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1153.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport LTVE HD </link>
+</item>
+<item>
+<title>US: Starz Edge</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1451.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Starz Edge </link>
+</item>
+<item>
+<title>US: C-Span 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1148.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: C-Span 1 HD </link>
+</item>
+<item>
+<title>US: C-Span 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1160.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: C-Span 2 HD </link>
+</item>
+<item>
+<title>US: C-Span 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1162.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: C-Span 3 HD </link>
+</item>
+<item>
+<title>US: Sport TSN 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1177.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport TSN 1 </link>
+</item>
+<item>
+<title>US: Sport TSN 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1438.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport TSN 2 </link>
+</item>
+<item>
+<title>US: Sport TSN 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1169.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport TSN 3 </link>
+</item>
+<item>
+<title>US: Sport TSN 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1175.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport TSN 4 </link>
+</item>
+<item>
+<title>US: Sport TSN 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1176.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport TSN 5 </link>
+</item>
+<item>
+<title>US: Sport Snet 360</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1441.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport Snet 360 </link>
+</item>
+<item>
+<title>US: NHL Network HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1429.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NHL Network HD </link>
+</item>
+<item>
+<title>US: Sport Snet Central</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1430.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport Snet Central </link>
+</item>
+<item>
+<title>US: Espn Sport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1164.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Espn Sport </link>
+</item>
+<item>
+<title>US: AFN Movies HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1146.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: AFN Movies HD </link>
+</item>
+<item>
+<title>US: Thai CH8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1168.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Thai CH8 </link>
+</item>
+<item>
+<title>US: AMC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1157.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: AMC </link>
+</item>
+<item>
+<title>US: Djing 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1447.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Djing 2 </link>
+</item>
+<item>
+<title>US: Super Channle 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1448.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Super Channle 3 </link>
+</item>
+<item>
+<title>US: Amazing Music</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1446.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Amazing Music </link>
+</item>
+<item>
+<title>US: TBS Channle</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1449.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TBS Channle </link>
+</item>
+<item>
+<title>US: Starz East</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1450.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Starz East </link>
+</item>
+<item>
+<title>US: NFL Live HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1178.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NFL Live HD </link>
+</item>
+<item>
+<title>US: ShowTime HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1439.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ShowTime HD </link>
+</item>
+<item>
+<title>US: A&E Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1173.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: A&E Network </link>
+</item>
+<item>
+<title>US: BeIN Sports US</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1166.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: BeIN Sports US </link>
+</item>
+<item>
+<title>US: SYFY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1154.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: SYFY HD </link>
+</item>
+<item>
+<title>US: Bravo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1165.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Bravo </link>
+</item>
+<item>
+<title>US: Encro Sport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1443.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Encro Sport </link>
+</item>
+<item>
+<title>US: Disccovery HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1150.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Disccovery HD </link>
+</item>
+<item>
+<title>US: FX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1149.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: FX HD </link>
+</item>
+<item>
+<title>US: TMN 1 Moves</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1152.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TMN 1 Moves </link>
+</item>
+<item>
+<title>US: AMG Entertainment</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1437.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: AMG Entertainment </link>
+</item>
+<item>
+<title>US: Daystart</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1145.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Daystart </link>
+</item>
+<item>
+<title>US: Hallmark HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1159.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Hallmark HD </link>
+</item>
+<item>
+<title>US: HSN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1170.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: HSN </link>
+</item>
+<item>
+<title>US: HSN 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1163.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: HSN 2 </link>
+</item>
+<item>
+<title>US: TNT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1156.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TNT </link>
+</item>
+<item>
+<title>US: NBA TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1174.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NBA TV </link>
+</item>
+<item>
+<title>US: ABC NEWS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1179.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ABC NEWS HD </link>
+</item>
+<item>
+<title>US: Poker Central</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1155.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Poker Central </link>
+</item>
+<item>
+<title>US: California TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1171.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: California TV </link>
+</item>
+<item>
+<title>US: Bloomberg</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1180.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Bloomberg </link>
+</item>
+<item>
+<title>US: Amazing Discoveries</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1181.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Amazing Discoveries </link>
+</item>
+<item>
+<title>US: BYU</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/amigo/amigo/1147.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: BYU </link>
+</item>
 
 
-<item>
-<title>UK_Sky_Sports1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7189.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sports1_HD </link>
-</item>
-<item>
-<title>UK_Sky_Sports2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7190.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sports2_HD </link>
-</item>
-<item>
-<title>UK_Sky_Sports3_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7191.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sports3_HD </link>
-</item>
-<item>
-<title>UK_Sky_Sports4_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7192.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sports4_HD </link>
-</item>
-<item>
-<title>UK_Sky_Sports5_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7193.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sports5_HD </link>
-</item>
-<item>
-<title>UK_Sky_Sports_News_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7222.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sports_News_HD </link>
-</item>
-<item>
-<title>UK_Sky_BT_Sport1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7195.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_BT_Sport1_HD </link>
-</item>
-<item>
-<title>UK_Sky_BT_Sport2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7196.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_BT_Sport2_HD </link>
-</item>
-<item>
-<title>UK_Sky_Setanta_Sports</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7206.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Setanta_Sports </link>
-</item>
-<item>
-<title>UK_Sky_Premier_Sports</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7207.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Premier_Sports </link>
-</item>
-<item>
-<title>UK_Sky_Sport_ F1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7223.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sport_ F1_HD </link>
-</item>
-<item>
-<title>UK_Sky_MUTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7212.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_MUTV </link>
-</item>
-<item>
-<title>UK_Sky_Liverpool_FC_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7224.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Liverpool_FC_TV </link>
-</item>
-<item>
-<title>UK_Sky_Chelsea_TV_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7238.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Chelsea_TV_HD </link>
-</item>
-<item>
-<title>UK_boxnation</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7218.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_boxnation </link>
-</item>
-<item>
-<title>UK_Sky_Movies_Sci-Fi</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7214.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Sci-Fi </link>
-</item>
-<item>
-<title>UK_Sky_Movies_Premiere_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7199.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Premiere_HD </link>
-</item>
-<item>
-<title>UK_Sky_Movies_Greats</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7215.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Greats </link>
-</item>
-<item>
-<title>UK_Sky_Movies_Family_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7216.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Family_HD </link>
-</item>
-<item>
-<title>UK_Sky_Movies_Drama_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7217.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Drama_HD </link>
-</item>
-<item>
-<title>UK_Sky_Movies_Action_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7220.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Action_HD </link>
-</item>
-<item>
-<title>UK_good_food</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/8637.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_good_food </link>
-</item>
-<item>
-<title>UK_Sky_True_Movies2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7198.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_True_Movies2 </link>
-</item>
-<item>
-<title>UK_Sky_Syfy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7221.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Syfy </link>
-</item>
-<item>
-<title>UK_RTE_jr</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7208.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_RTE_jr </link>
-</item>
-<item>
-<title>UK_Sky_News_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7209.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_News_HD </link>
-</item>
-<item>
-<title>UK_Sky_National_Geographic_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7210.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_National_Geographic_HD </link>
-</item>
-<item>
-<title>UK_Sky_Nat_Geo_Wild_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7211.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Nat_Geo_Wild_HD </link>
-</item>
-<item>
-<title>UK_Sky_Movies_Select</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7213.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Select </link>
-</item>
-<item>
-<title>UK_Sky_Movies_Comedy_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7219.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Comedy_HD </link>
-</item>
-<item>
-<title>UK_Sky_movies_Thriller</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7163.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_movies_Thriller </link>
-</item>
-<item>
-<title>UK_Sky_Movies_Showcase</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7164.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Showcase </link>
-</item>
-<item>
-<title>UK_Sky_12</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7165.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_12 </link>
-</item>
-<item>
-<title>UK_Sky_movies_disney</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7203.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_movies_disney </link>
-</item>
-<item>
-<title>UK_Sky_ITV_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7225.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_ITV_1 </link>
-</item>
-<item>
-<title>UK_Sky_ITV_2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7226.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_ITV_2 </link>
-</item>
-<item>
-<title>UK_Sky_ITV_3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7227.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_ITV_3 </link>
-</item>
-<item>
-<title>UK_Sky_ITV_4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7228.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_ITV_4 </link>
-</item>
-<item>
-<title>UK_Sky_BBC_One_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7202.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_BBC_One_HD </link>
-</item>
-<item>
-<title>UK_Sky_BBC_Two_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7200.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_BBC_Two_HD </link>
-</item>
-<item>
-<title>UK_Sky_BBC_Three_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7201.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_BBC_Three_HD </link>
-</item>
-<item>
-<title>UK_BBC4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7783.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC4 </link>
-</item>
-<item>
-<title>UK_BBC_News_Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7177.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC_News_Channel </link>
-</item>
-<item>
-<title>UK_Comedy_Extra</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7185.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Comedy_Extra </link>
-</item>
-<item>
-<title>UK_Comedy_Central_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7186.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Comedy_Central_1 </link>
-</item>
-<item>
-<title>UK_Sky_Comedy_Central</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7237.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Comedy_Central </link>
-</item>
-<item>
-<title>UK_Sky_Atlantic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7204.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Atlantic </link>
-</item>
-<item>
-<title>UK_Sky_Disney_Chaneel_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7232.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Disney_Chaneel_HD </link>
-</item>
-<item>
-<title>UK_Sky_Film_4_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7230.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Film_4_HD </link>
-</item>
-<item>
-<title>UK_Sky_ONE_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7233.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_ONE_HD </link>
-</item>
-<item>
-<title>UK_FOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7178.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_FOX </link>
-</item>
-<item>
-<title>UK_DMAX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7179.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_DMAX </link>
-</item>
-<item>
-<title>UK_RTE2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7772.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_RTE2 </link>
-</item>
-<item>
-<title>UK_RTE1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7771.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_RTE1 </link>
-</item>
-<item>
-<title>UK_UTV_Ireland</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7160.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_UTV_Ireland </link>
-</item>
-<item>
-<title>UK_TLC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7161.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_TLC </link>
-</item>
-<item>
-<title>UK_film4_uk</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7162.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_film4_uk </link>
-</item>
-<item>
-<title>UK_Sky_Living</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7166.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Living </link>
-</item>
-<item>
-<title>UK_Sky_Arts1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7167.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Arts1 </link>
-</item>
-<item>
-<title>UK_sky_2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7168.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_sky_2 </link>
-</item>
-<item>
-<title>UK_Real_Lives</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7169.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Real_Lives </link>
-</item>
-<item>
-<title>UK_QUEST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7170.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_QUEST </link>
-</item>
-<item>
-<title>UK_Sky_Discovery_Science</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7234.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Discovery_Science </link>
-</item>
-<item>
-<title>UK_Sky_Discovery_turbo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7235.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Discovery_turbo </link>
-</item>
-<item>
-<title>UK_Sky_Discovery</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7236.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Discovery </link>
-</item>
-<item>
-<title>UK_food_network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7175.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_food_network </link>
-</item>
-<item>
-<title>UK_Discovery_Shed</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7182.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Discovery_Shed </link>
-</item>
-<item>
-<title>UK_boomerang</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7183.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_boomerang </link>
-</item>
-<item>
-<title>UK_Crime_&_Investigation_Network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7184.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Crime_&_Investigation_Network </link>
-</item>
-<item>
-<title>UK_Sky_Animal_Planet</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7205.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Animal_Planet </link>
-</item>
-<item>
-<title>UK_Investigation_Discovery</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7174.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Investigation_Discovery </link>
-</item>
-<item>
-<title>UK_Sky_History_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7229.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_History_HD </link>
-</item>
-<item>
-<title>UK_Sky_Cartoon_Network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7194.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Cartoon_Network </link>
-</item>
-<item>
-<title>UK_Nicktoons_Ireland</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7171.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Nicktoons_Ireland </link>
-</item>
-<item>
-<title>UK_Nick_Jr_Too</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7172.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Nick_Jr_Too </link>
-</item>
-<item>
-<title>UK_Nick_Jr_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7173.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Nick_Jr_1 </link>
-</item>
-<item>
-<title>UK_History_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7176.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_History_1 </link>
-</item>
-<item>
-<title>UK_Disney_XD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7180.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Disney_XD </link>
-</item>
-<item>
-<title>UK_Disney_Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7181.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Disney_Junior </link>
-</item>
-<item>
-<title>UK_At_The_Races</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7187.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_At_The_Races </link>
-</item>
-<item>
-<title>UK_At_The_Races_UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7231.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_At_The_Races_UK </link>
-</item>
-<item>
-<title>UK_eurosport1_hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7792.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_eurosport1_hd </link>
-</item>
-<item>
-<title>UK_ESPN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7791.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ESPN HD </link>
-</item>
-<item>
-<title>UK_dave</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7790.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_dave </link>
-</item>
-<item>
-<title>UK_colors</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7788.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_colors </link>
-</item>
-<item>
-<title>UK_5star</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7794.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_5star </link>
-</item>
-<item>
-<title>UK_e4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7795.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_e4 </link>
-</item>
-<item>
-<title>UK_racing_uk</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7793.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_racing_uk </link>
-</item>
-<item>
-<title>UK_SCI_FI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7796.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SCI_FI </link>
-</item>
-<item>
-<title>UK_SKY_SPORTS_extra_OFFICE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7798.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORTS_extra_OFFICE </link>
-</item>
-<item>
-<title>UK_PICK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7799.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_PICK </link>
-</item>
-<item>
-<title>UK_B4U</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7810.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_B4U </link>
-</item>
-<item>
-<title>UK_CHANNEL_FOUR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7800.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CHANNEL_FOUR </link>
-</item>
-<item>
-<title>UK_CHANNEL_FIVE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7801.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CHANNEL_FIVE </link>
-</item>
-<item>
-<title>uk_sony_movies1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7802.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_sony_movies1 </link>
-</item>
-<item>
-<title>UK_CBS_REALITY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7803.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CBS_REALITY </link>
-</item>
-<item>
-<title>UK_CBS_DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7804.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CBS_DRAMA </link>
-</item>
-<item>
-<title>UK_CBC_ACTION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/8668.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CBC_ACTION </link>
-</item>
-<item>
-<title>UK_5usa</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7805.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_5usa </link>
-</item>
-<item>
-<title>UK_Tcm</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/8669.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Tcm </link>
-</item>
-<item>
-<title>UK_TRUE_MOVIES1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7838.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_TRUE_MOVIES1 </link>
-</item>
-<item>
-<title>UK_3E</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/8670.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_3E </link>
-</item>
-<item>
-<title>UK_HISTORY2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7806.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_HISTORY2 </link>
-</item>
-<item>
-<title>UK_ALIBI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7797.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ALIBI </link>
-</item>
-<item>
-<title>UK_eir_sport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7807.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_eir_sport </link>
-</item>
-<item>
-<title>UK_BT_SPORT_EXTRA1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7808.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BT_SPORT_EXTRA1 </link>
-</item>
-<item>
-<title>UK_dicovery_history</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7809.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_dicovery_history </link>
-</item>
-<item>
-<title>UK_bt_sports_extra</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7835.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_bt_sports_extra </link>
-</item>
-<item>
-<title>uk_movies4_men</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7833.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_movies4_men </link>
-</item>
-<item>
-<title>uk_more4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7832.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_more4 </link>
-</item>
-<item>
-<title>uk_gold</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7830.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_gold </link>
-</item>
-<item>
-<title>UK_eurosport2_hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7834.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_eurosport2_hd </link>
-</item>
-<item>
-<title>UK_CNN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7828.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CNN </link>
-</item>
-<item>
-<title>UK_CBBC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/7827.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CBBC </link>
-</item>
-<item>
-<title>UK_BT_SPORT_EXTRA2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/9583.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BT_SPORT_EXTRA2 </link>
-</item>
-<item>
-<title>uk_sony_movies</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/9581.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_sony_movies </link>
-</item>
-<item>
-<title>UK_BT_SPORT_EXTRA5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/9589.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BT_SPORT_EXTRA5 </link>
-</item>
-<item>
-<title>uk_tcm+1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/9591.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_tcm+1 </link>
-</item>
-<item>
-<title>UK_BT_MOSAIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/9578.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BT_MOSAIC </link>
-</item>
-<item>
-<title>UK_baby</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/9580.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_baby </link>
-</item>
-<item>
-<title>uk_id</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/9588.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_id </link>
-</item>
-<item>
-<title>uk_horror</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/9586.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_horror </link>
-</item>
-<item>
-<title>UK_HOME1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/9584.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_HOME1 </link>
-</item>
-<item>
-<title>UK_BT_SPORT_EXTRA4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/9587.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BT_SPORT_EXTRA4 </link>
-</item>
-<item>
-<title>UK_yesterday</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/9585.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_yesterday </link>
-</item>
-<item>
-<title>UK_BT_SPORT_EXTRA3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/9582.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BT_SPORT_EXTRA3 </link>
-</item>
-<item>
-<title>uk_cartoon_network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/9593.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_cartoon_network </link>
-</item>
-<item>
-<title>UK_BT_Sport_Europe</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/9577.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BT_Sport_Europe </link>
-</item>
-<item>
-<title>uk_nickleodeon</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/9592.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_nickleodeon </link>
-</item>
-<item>
-<title>uk_E</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/283300/40474/9590.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk_E </link>
-</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <item>       
 <title>[COLOR red][/COLOR]</title>
