@@ -24,7 +24,7 @@ http://jerrymoz.wordpress.com
 
 ###########################################################################################################################################################
  
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||||||[/COLOR] Update 06-11-16 [COLOR red]|||||||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|[/COLOR] Update 06-11-16 [COLOR red]|[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green] [COLOR yellow][B][COLOR red] MAIS INF. ENVIE EMAIL:[/COLOR] tvsupertuga@gmail.com [/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -1331,7 +1331,7 @@ http://46.166.162.35:9090/load/b0922f3fa8aa/56.mpegts
 
 
 
-#EXTINF:-1,                  ***** ||| PORTUGAL ||| *****
+#EXTINF:-1,                    PORTUGAL 
 https://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
 
 
@@ -1349,21 +1349,21 @@ https://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
 
 
 
-#EXTINF:-1, |PT| RTP 1 (*)
+#EXTINF:-1, |PT| RTP 1 
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
-#EXTINF:-1, |PT| RTP 2 (*)
+#EXTINF:-1, |PT| RTP 2 
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
-#EXTINF:-1, |PT| RTP 3 (*)
+#EXTINF:-1, |PT| RTP 3 
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
-#EXTINF:-1, |PT| RTP ACORES (*)
+#EXTINF:-1, |PT| RTP ACORES 
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)  
-#EXTINF:-1, |PT| RTP AFRICA (*)
+#EXTINF:-1, |PT| RTP AFRICA 
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb) 
-#EXTINF:-1, |PT| RTP INTERNACIONAL (*)
+#EXTINF:-1, |PT| RTP INTERNACIONAL 
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
-#EXTINF:-1, |PT| RTP MADEIRA (*)
+#EXTINF:-1, |PT| RTP MADEIRA 
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
-#EXTINF:-1, |PT| RTP MEMORIA (*)
+#EXTINF:-1, |PT| RTP MEMORIA 
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
 
 #EXTINF:-1, |PT| RTP 1 [rtmp]
@@ -1441,9 +1441,9 @@ http://
 
 
 
-#EXTINF:-1,                     ||| FULL CANAIS TUGA ||| 
+#EXTINF:-1,                      FULL CANAIS TUGA  
 http://s4.postimg.org/ajh3gsu8t/screenshot_31.png
-#EXTINF:-1,                     ||| BLOQUEIAM O CANAL PRINT »» http://s4.postimg.org/ajh3gsu8t/screenshot_31.png «« ||| 
+#EXTINF:-1,                      BLOQUEIAM O CANAL PRINT »» http://s4.postimg.org/ajh3gsu8t/screenshot_31.png ««  
 http://s4.postimg.org/ajh3gsu8t/screenshot_31.png
 
 
@@ -1451,236 +1451,9 @@ http://s4.postimg.org/ajh3gsu8t/screenshot_31.png
 
 
 
-#EXTINF:-1,
-http://
 
 
-#EXTINF:-1, |PT| RTP 1 HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/750.ts
-#EXTINF:-1, |PT| RTP 1 HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1600.ts
-#EXTINF:-1, |PT| PORTO CANAL
-http://163.172.217.53:8000/live/5grandiptv915/67863345/785.ts
-#EXTINF:-1, |PT| SIC RADICAL
-http://163.172.217.53:8000/live/5grandiptv915/67863345/759.ts
-#EXTINF:-1, |PT| SIC NOTICIAS
-http://163.172.217.53:8000/live/5grandiptv915/67863345/773.ts
-#EXTINF:-1, |PT| SIC MULHER
-http://163.172.217.53:8000/live/5grandiptv915/67863345/758.ts
-#EXTINF:-1, |PT| SIC KIDS
-http://163.172.217.53:8000/live/5grandiptv915/67863345/827.ts
-#EXTINF:-1, |PT| SIC
-http://163.172.217.53:8000/live/5grandiptv915/67863345/757.ts
-#EXTINF:-1, |PT| SIC CARAS
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1654.ts
-#EXTINF:-1, |PT| TVI24
-http://163.172.217.53:8000/live/5grandiptv915/67863345/775.ts
-#EXTINF:-1, |PT| TVI FICCAO
-http://163.172.217.53:8000/live/5grandiptv915/67863345/762.ts
-#EXTINF:-1, |PT| TVI
-http://163.172.217.53:8000/live/5grandiptv915/67863345/760.ts
-#EXTINF:-1, |PT| RTP 3
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1665.ts
-#EXTINF:-1, |PT| RTP MEMORIA
-http://163.172.217.53:8000/live/5grandiptv915/67863345/756.ts
-#EXTINF:-1, |PT| RTP MADEIRA
-http://163.172.217.53:8000/live/5grandiptv915/67863345/755.ts
-#EXTINF:-1, |PT| RTP INTERNACIONAL
-http://163.172.217.53:8000/live/5grandiptv915/67863345/754.ts
-#EXTINF:-1, |PT| RTP AFRICA
-http://163.172.217.53:8000/live/5grandiptv915/67863345/753.ts
-#EXTINF:-1, |PT| RTP ACORES
-http://163.172.217.53:8000/live/5grandiptv915/67863345/752.ts
-#EXTINF:-1, |PT| RTP 2
-http://163.172.217.53:8000/live/5grandiptv915/67863345/751.ts
-#EXTINF:-1, |PT| RTP 1
-http://163.172.217.53:8000/live/5grandiptv915/67863345/749.ts
-#EXTINF:-1, |PT| TVI REALITY
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1656.ts
-
-#EXTINF:-1, |PT| MOTORVISION
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1648.ts
-#EXTINF:-1, |PT| FUEL TV
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1645.ts
-
-#EXTINF:-1, |PT| TRAVEL CHANNEL HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1681.ts
-#EXTINF:-1, |PT| TRACE URBAN
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1679.ts
-#EXTINF:-1, |PT| REDE TV
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1662.ts
-#EXTINF:-1, |PT| Q CANAL
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1659.ts
-#EXTINF:-1, |PT| MTV PORTUGAL
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1678.ts
-#EXTINF:-1, |PT| FOX LIFE HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1594.ts
-#EXTINF:-1, |PT| VH1 CLASSIC
-http://163.172.217.53:8000/live/5grandiptv915/67863345/831.ts
-#EXTINF:-1, |PT| VH1
-http://163.172.217.53:8000/live/5grandiptv915/67863345/830.ts
-#EXTINF:-1, |PT| GLOBO
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1660.ts
-#EXTINF:-1, |PT| CACAVISION HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1680.ts
-#EXTINF:-1, |PT| CBS REALITY
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1651.ts
-#EXTINF:-1, |PT| BBC ENTERTAINMENT
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1650.ts
-#EXTINF:-1, |PT| SYFY
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1599.ts
-#EXTINF:-1, |PT| NICKELODEON
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1589.ts
-#EXTINF:-1, |PT| DISNEY JUNIOR
-http://163.172.217.53:8000/live/5grandiptv915/67863345/825.ts
-#EXTINF:-1, |PT| DISNEY CHANNEL
-http://163.172.217.53:8000/live/5grandiptv915/67863345/824.ts
-#EXTINF:-1, |PT| CANAL PANDA HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/823.ts
-#EXTINF:-1, |PT| BIGGS
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1590.ts
-#EXTINF:-1, |PT| PANDA BIGGS
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1676.ts
-
-
-#EXTINF:-1, |PT| TVCINE 4 HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/806.ts
-#EXTINF:-1, |PT| TVCINE 3 HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/805.ts
-#EXTINF:-1, |PT| TVCINE 2 HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/804.ts
-#EXTINF:-1, |PT| TVCINE 1 HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/803.ts
-#EXTINF:-1, |PT| TVC SERIES
-http://163.172.217.53:8000/live/5grandiptv915/67863345/807.ts
-#EXTINF:-1, |PT| HOLLYWOOD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1652.ts
-#EXTINF:-1, |PT| TVC SERIES HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1672.ts
-#EXTINF:-1, |PT| TV SERIES
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1673.ts
-#EXTINF:-1, |PT| TV RECORD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/766.ts
-#EXTINF:-1, |PT| TV GALICIA
-http://163.172.217.53:8000/live/5grandiptv915/67863345/768.ts
-#EXTINF:-1, |PT| TRAVEL CHANNEL
-http://163.172.217.53:8000/live/5grandiptv915/67863345/841.ts
-#EXTINF:-1, |PT| TOROS TV
-http://163.172.217.53:8000/live/5grandiptv915/67863345/797.ts
-#EXTINF:-1, |PT| SYFY HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/820.ts
-
-#EXTINF:-1, |PT| CMTV
-http://163.172.217.53:8000/live/5grandiptv915/67863345/771.ts
-#EXTINF:-1, |PT| ABOLA TV
-http://163.172.217.53:8000/live/5grandiptv915/67863345/781.ts
-#EXTINF:-1, |PT| SPORT TV1
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1601.ts
-#EXTINF:-1, |PT| SPORT TV2
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1602.ts
-#EXTINF:-1, |PT| SPORT TV3
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1603.ts
-#EXTINF:-1, |PT| SPORT TV4
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1604.ts
-#EXTINF:-1, |PT| SPORT TV5
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1605.ts
-#EXTINF:-1, |PT| SPORTTV 5 HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/792.ts
-#EXTINF:-1, |PT| SPORTTV 4 HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/791.ts
-#EXTINF:-1, |PT| SPORTTV 3 HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/790.ts
-#EXTINF:-1, |PT| SPORTTV 2 HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/789.ts
-#EXTINF:-1, |PT| SPORTTV 1 HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/788.ts
-#EXTINF:-1, |PT| SPORTING TV HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/787.ts
-#EXTINF:-1, |PT| SPORTING TV
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1668.ts
-#EXTINF:-1, |PT| BTV 1 HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/782.ts
-#EXTINF:-1, |PT| BTV 1
-http://163.172.217.53:8000/live/5grandiptv915/67863345/783.ts
-#EXTINF:-1, |PT| MOTORVISION HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1671.ts
-#EXTINF:-1, |PT| BARÇA TV
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1669.ts
-#EXTINF:-1, |PT| EUROSPORT
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1647.ts
-#EXTINF:-1, |PT| EUROSPORT NEWS
-http://163.172.217.53:8000/live/5grandiptv915/67863345/798.ts
-#EXTINF:-1, |PT| EUROSPORT HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/799.ts
-#EXTINF:-1, |PT| EUROSPORT 2
-http://163.172.217.53:8000/live/5grandiptv915/67863345/800.ts
-#EXTINF:-1, |PT| MOTORS TV
-http://163.172.217.53:8000/live/5grandiptv915/67863345/801.ts
-#EXTINF:-1, |PT| REAL MADRID TV HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/802.ts
-#EXTINF:-1, |PT| PFC
-http://163.172.217.53:8000/live/5grandiptv915/67863345/796.ts
-#EXTINF:-1, |PT| ODISSEIA
-http://163.172.217.53:8000/live/5grandiptv915/67863345/837.ts
-
-#EXTINF:-1, |PT| NAT GEO WILD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/840.ts
-#EXTINF:-1, |PT| NAT GEO HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/839.ts
-#EXTINF:-1, |PT| MOV HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/818.ts
-#EXTINF:-1, |PT| HOLLYWOOD HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/817.ts
-#EXTINF:-1, |PT| HISTORIA HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/836.ts
-#EXTINF:-1, |PT| GLOBO PREMIUM
-http://163.172.217.53:8000/live/5grandiptv915/67863345/764.ts
-#EXTINF:-1, |PT| GLOBO PORTUGAL
-http://163.172.217.53:8000/live/5grandiptv915/67863345/763.ts
-#EXTINF:-1, |PT| FOX MOVIES HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/814.ts
-#EXTINF:-1, |PT| FOX LIFE
-http://163.172.217.53:8000/live/5grandiptv915/67863345/815.ts
-#EXTINF:-1, |PT| FOX HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/812.ts
-#EXTINF:-1, |PT| FOX CRIME HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/813.ts
-#EXTINF:-1, |PT| FASHION HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/835.ts
-#EXTINF:-1, |PT| E! ENTERTAINMENT
-http://163.172.217.53:8000/live/5grandiptv915/67863345/821.ts
-#EXTINF:-1, |PT| DISCOVERY HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/838.ts
-#EXTINF:-1, |PT| CLUBLAND
-http://163.172.217.53:8000/live/5grandiptv915/67863345/828.ts
-#EXTINF:-1, |PT| CINEMUNDO
-http://163.172.217.53:8000/live/5grandiptv915/67863345/808.ts
-#EXTINF:-1, |PT| CACAVISION
-http://163.172.217.53:8000/live/5grandiptv915/67863345/794.ts
-#EXTINF:-1, |PT| AXN WHITE HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/811.ts
-#EXTINF:-1, |PT| AXN HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/809.ts
-#EXTINF:-1, |PT| AXN BLACK HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/810.ts
-#EXTINF:-1, |PT| AMC
-http://163.172.217.53:8000/live/5grandiptv915/67863345/819.ts
-
-#EXTINF:-1, |PT| HOT
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1585.ts
-#EXTINF:-1, |PT| VENUS TV
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1586.ts
-#EXTINF:-1, |PT| PLAYBOY TV
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1584.ts
-
-
-
-
-#EXTINF:-1,
-http://
-
-
-#EXTINF:-1,                  ***** ||| DESPORTO ||| *****
+#EXTINF:-1,                   DESPORTO 
 https://www.fb.com/inpirationlinks
 
 #EXTINF:-1,
@@ -1817,7 +1590,7 @@ http://183.207.255.190:80/live/program/live/hdnba8/1300000/mnf.m3u8
 
 #EXTINF:-1,
 http://
-#EXTINF:-1,                     ||| FILMON CHANNELS ||| 
+#EXTINF:-1,                      FILMON CHANNELS  
 https://www.fb.com/inpirationlinks
 #EXTINF:-1,
 http://
@@ -2069,7 +1842,7 @@ http://199.217.118.90:1935/smotv/stream/playlist.m3u8
 
 #EXTINF:-1,
 http://
-#EXTINF:-1,                  ***** ||| BRASIL ||| *****
+#EXTINF:-1,                    BRASIL 
 https://www.fb.com/inpirationlinks
 #EXTINF:-1,
 http://
@@ -2219,7 +1992,7 @@ http://104.156.60.74:1935/canaltvrio/canaltvrio/live.m3u8
 
 #EXTINF:-1,
 http://
-#EXTINF:-1,                  ***** ||| ESPANHA ||| *****
+#EXTINF:-1,                    ESPANHA 
 https://www.fb.com/inpirationlinks
 #EXTINF:-1,
 http://
@@ -2311,7 +2084,7 @@ http://byuhd2-lh.akamaihd.net:80/i/byutvintspanhd2_live@103133/index_840_av-p.m3
 
 #EXTINF:-1,
 http://
-#EXTINF:-1,                  ***** ||| INGLATERRA ||| *****
+#EXTINF:-1,                    INGLATERRA 
 https://www.fb.com/inpirationlinks
 #EXTINF:-1,
 http://
@@ -2373,7 +2146,7 @@ http://ktv030.cdnak.ds.kylintv.net/nlds/kylin/cctv9/as/live/cctv9_4.m3u8
 
 #EXTINF:-1,
 http://
-#EXTINF:-1,                  ***** ||| ITALIA ||| *****
+#EXTINF:-1,                    ITALIA 
 https://www.fb.com/inpirationlinks
 #EXTINF:-1,
 http://
@@ -2496,7 +2269,7 @@ http://la7live-lh.akamaihd.net/i/test_1@143593/master.m3u8
 
 #EXTINF:-1,
 http://
-#EXTINF:-1,                  ***** ||| FRANÇA ||| *****
+#EXTINF:-1,                    FRANÇA 
 https://www.fb.com/inpirationlinks
 #EXTINF:-1,
 http://
@@ -2573,7 +2346,7 @@ http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8
 
 #EXTINF:-1,
 http://
-#EXTINF:-1,                  ***** ||| MUSICA ||| *****
+#EXTINF:-1,                    MUSICA 
 https://www.fb.com/inpirationlinks
 #EXTINF:-1,
 http://
@@ -2633,7 +2406,7 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 
 #EXTINF:-1,
 http://
-#EXTINF:-1,                  ***** ||| +18 ||| *****
+#EXTINF:-1,                    +18 
 https://www.fb.com/inpirationlinks
 
 #EXTINF:-1,
@@ -4087,201 +3860,7 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
 #EXTINF:-1, ECONOMICA TV
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 
-#EXTINF:-1,CM TV HD
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/67.ts
 
-#EXTINF:-1,MOV
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/466.ts
-
-
-
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1721.ts
-
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1722.ts
-
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1723.ts
-
-#EXTINF:-1,PT: SPORT TV 4 HD
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1724.ts
-
-
-
-#EXTINF:-1,PT: BENFICA TV 1
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1670.ts
-
-#EXTINF:-1,PT: BENFICA TV 2
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1669.ts
-
-#EXTINF:-1,PT: SPORTING TV
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1720.ts
-
-#EXTINF:-1,PT: A BOLA TV
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1710.ts
-
-
-
-
-#EXTINF:-1,PT: TVI Reality (A Quinta)
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1672.ts
-
-
-
-
-
-
-#EXTINF:-1,PT: TV RECORD
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1676.ts
-#EXTINF:-1,PT: TV Globo Premium
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1677.ts
-#EXTINF:-1,PT: TV GLOBO
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1678.ts
-
-
-
-
-
-#EXTINF:-1,BENFICA TV 1 HD
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/215.ts
-
-#EXTINF:-1,BENFICA TV 1
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/50.ts
-
-#EXTINF:-1,PT: TOUROS TV
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1680.ts
-
-#EXTINF:-1,TOROS TV
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/7.ts
-
-#EXTINF:-1,CACA E PESCA
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/6.ts
-
-#EXTINF:-1,Eurosport 2 Xtra HD
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/492.ts
-
-#EXTINF:0 type="stream" , SIC K
-http://freeiptv-tuga.zapto.org/live/free/iptv/30.ts
-
-#EXTINF:-1,DISNEY CHANNEL
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/46.ts
-
-#EXTINF:-1,DISNEY JUNIOR
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/42.ts
-
-#EXTINF:-1,CANAL PANDA
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/45.ts
-
-#EXTINF:-1,JIM JAM
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/38.ts
-
-#EXTINF:-1,Nickelodeon
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/44.ts
-
-#EXTINF:-1,CARTOON NETWORK
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/39.ts
-
-#EXTINF:-1,BIGGS
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/178.ts
-
-
-
-
-
-#EXTINF:-1,AR:BEINSPORT-4HD
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/356.ts
-
-#EXTINF:-1,AR:BEINSPORT-5HD
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/357.ts
-
-#EXTINF:-1,AR:BEINSPORT-6HD
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/358.ts
-
-#EXTINF:-1,AR:BEINSPORT-7HD
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/359.ts
-
-#EXTINF:-1,AR:BEINSPORT-8HD
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/360.ts
-
-#EXTINF:-1,AR:BEINSPORT-9HD
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/361.ts
-
-#EXTINF:-1,AR:BEINSPORT-10HD
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/362.ts
-
-#EXTINF:-1,AR:BEINSPORT-11HD
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/363.ts
-
-#EXTINF:-1,AR:BEINSPORT-12HD
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/364.ts
-
-#EXTINF:-1,AR:BEINSPORT-13HD
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/365.ts
-
-#EXTINF:-1,AR:BEINSPORT-14HD
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/366.ts
-
-#EXTINF:-1,AR:BEINSPORT-15HD
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/367.ts
-
-#EXTINF:-1,NL - Fox Sports 1
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/331.ts
-
-#EXTINF:-1,NL - Fox Sports 2
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/332.ts
-
-#EXTINF:-1,NL - Fox Sports 3
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/333.ts
-
-#EXTINF:-1,NL - Fox Sport 4
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/346.ts
-
-#EXTINF:-1,NL - Fox Sports 5
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/344.ts
-
-#EXTINF:-1,NL - Fox Sport 6
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/345.ts
-
-#EXTINF:-1,FR - Bein Sports 1
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/334.ts
-
-#EXTINF:-1,FR - Bein Sports 2
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/335.ts
-
-#EXTINF:-1,FR - Bein Sports 3
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/336.ts
-
-#EXTINF:-1,US - Sport 1+
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/340.ts
-
-#EXTINF:-1,US - Sport 1
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/339.ts
-
-#EXTINF:-1,DE - Sky Sport 1
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/337.ts
-
-#EXTINF:-1,DE - Sky Sport 2
-http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/338.ts
-
-
-
-
-
-#EXTINF:0,TV CINE 1
-http://83.78.191.43:2053/
-
-#EXTINF:0,TV CINE 2
-http://83.78.191.43:2054/
-
-#EXTINF:0,TV CINE 3
-http://83.78.191.43:2055/
-
-#EXTINF:0,TV CINE 4
-http://83.78.191.43:2056/
-
-
-#EXTM3U
 
 #EXTINF:-1,Globo
 http://83.78.44.14:9981/stream/channelid/671568849?ticket=33FBDBECFDAD009F7C0303C53164FB45E948AC3B&profile=pass
@@ -4302,104 +3881,6 @@ http://213.163.65.9:8081/live/combatez/playlist.m3u8
 
 #EXTINF:-1,AXN HD
 http://83.78.191.43:2065/
-
-
-#EXTM3U
-
-#EXTINF:-1,IT: Premium EuroSport 1 HD
-http://globiptv.com:8000/live/cardsharing/yg4tdh/2131.ts
-
-#EXTINF:-1,IT: La 7d
-http://globiptv.com:8000/live/cardsharing/yg4tdh/2205.ts
-
-#EXTINF:-1,IT: K2
-http://globiptv.com:8000/live/cardsharing/yg4tdh/2209.ts
-
-#EXTINF:-1,IT: Inter Channel
-http://globiptv.com:8000/live/cardsharing/yg4tdh/2201.ts
-
-
-
-#EXTINF:-1,FR: BEINSPORT 1 HD.
-http://globiptv.com:8000/live/cardsharing/yg4tdh/2571.ts
-
-
-#EXTINF:-1,ES: BeinSport
-http://globiptv.com:8000/live/cardsharing/yg4tdh/2184.ts
-
-
-#EXTINF:-1,UK: BT Sport Extra
-http://globiptv.com:8000/live/cardsharing/yg4tdh/2083.ts
-
-
-#EXTINF:-1,PT: TVI REALITY
-http://globiptv.com:8000/live/cardsharing/yg4tdh/2050.ts
-
-
-#EXTINF:-1,AL: Eurosport 2
-http://globiptv.com:8000/live/cardsharing/yg4tdh/1921.ts
-
-#EXTINF:-1,AL: Eurosport 1
-http://globiptv.com:8000/live/cardsharing/yg4tdh/1920.ts
-
-#EXTINF:-1,UK: Sky Two
-http://globiptv.com:8000/live/cardsharing/yg4tdh/1127.ts
-#EXTINF:-1,UK: Sky Sports News HQ
-http://globiptv.com:8000/live/cardsharing/yg4tdh/481.ts
-#EXTINF:-1,UK: Sky Sports F1
-http://globiptv.com:8000/live/cardsharing/yg4tdh/480.ts
-#EXTINF:-1,UK: Sky Sports 5
-http://globiptv.com:8000/live/cardsharing/yg4tdh/479.ts
-
-#EXTINF:-1,UK: Sky Sports 3
-http://globiptv.com:8000/live/cardsharing/yg4tdh/477.ts
-#EXTINF:-1,UK: Sky Sports 2
-http://globiptv.com:8000/live/cardsharing/yg4tdh/476.ts
-#EXTINF:-1,UK: Sky Sports 1
-http://globiptv.com:8000/live/cardsharing/yg4tdh/475.ts
-#EXTINF:-1,UK: Sky One
-http://globiptv.com:8000/live/cardsharing/yg4tdh/474.ts
-
-
-
-
-#EXTINF:-1,ES: TCM TV
-http://globiptv.com:8000/live/cardsharing/yg4tdh/1673.ts
-
-
-#EXTINF:-1,AR: Bein Sports 9 HD
-http://globiptv.com:8000/live/cardsharing/yg4tdh/768.ts
-
-#EXTINF:-1,AR: Bein Sports 7 HD
-http://globiptv.com:8000/live/cardsharing/yg4tdh/770.ts
-#EXTINF:-1,AR: Bein Sports 6 HD
-http://globiptv.com:8000/live/cardsharing/yg4tdh/771.ts
-
-#EXTINF:-1,AR: Bein Sports 4 HD
-http://globiptv.com:8000/live/cardsharing/yg4tdh/773.ts
-
-#EXTINF:-1,AR: Bein Sports 2 HD
-http://globiptv.com:8000/live/cardsharing/yg4tdh/775.ts
-#EXTINF:-1,AR: Bein Sports 12 HD
-http://globiptv.com:8000/live/cardsharing/yg4tdh/776.ts
-#EXTINF:-1,AR: Bein Sports 11 HD
-http://globiptv.com:8000/live/cardsharing/yg4tdh/777.ts
-#EXTINF:-1,AR: Bein Sports 10 HD
-http://globiptv.com:8000/live/cardsharing/yg4tdh/778.ts
-#EXTINF:-1,AR: Bein Sports 1 HD
-http://globiptv.com:8000/live/cardsharing/yg4tdh/779.ts
-
-
-
-#EXTINF:-1,AL: Super sport 2 HD
-http://globiptv.com:8000/live/cardsharing/yg4tdh/205.ts
-#EXTINF:-1,AL: super sport 1 HD
-http://globiptv.com:8000/live/cardsharing/yg4tdh/208.ts
-
-#EXTINF:-1,AL: Super Sports 4
-http://globiptv.com:8000/live/cardsharing/yg4tdh/284.ts
-#EXTINF:-1,AL: Super Sports 3
-http://globiptv.com:8000/live/cardsharing/yg4tdh/283.ts
 
 
 
