@@ -2870,7 +2870,7 @@ SIC NOTICIAS
 
 
 
-
+<item>
 <title>[COLOR=white][B][I] SPORT TV 1 HD [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
 <link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=fawergge?keys=6FwFzBwoArVD7GnroNTCwg&keyt=1471185155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 </link>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
@@ -2901,7 +2901,7 @@ SIC NOTICIAS
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 
-
+<item>
 <title>[COLOR=white][B][I] SPORT TV 2 HD [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
 <link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=QQfJ2QkV5FjgeFJEBoHScw&keyt=1472850809 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 </link>
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
@@ -2933,6 +2933,8 @@ SIC NOTICIAS
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
 </item>
 
+
+<item>
 <title>[COLOR=white][B][I] SPORT TV 3 HD [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
 <link>rtmp://79.124.59.218/ovc/ swfUrl=http://akamaistreaming.com/YjFlMTI0MT/skyjwplayer.flash.swf pageUrl=http://akamaistreaming.com/zn.php?id=29324&width=100%&height=100% playpath=fod3813?ptvskypastv token=d.r.o.p.S.t.r.e.a.m </link>
 <thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
@@ -2960,7 +2962,9 @@ SIC NOTICIAS
 <thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
 </item>
 
-<title>[COLOR=white][B][I] SPORT TV 3 HD [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
+
+<item>
+<title>[COLOR=white][B][I] SPORT TV 4 HD [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
 <link>rtmp://31.220.40.61/privatestream/ playpath=dddd4uedifoekds?keys=-mk38EysabgrlvA1TTGvWA&keyt;=1471232732 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=dddd4uedifoekds&width;=555&height;=440 timeout=10</link>
 <thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
 </item>
