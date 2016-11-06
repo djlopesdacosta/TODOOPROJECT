@@ -25,7 +25,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 06-11-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 07-11-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
@@ -38,507 +38,370 @@
 
 
 
+<item>
+<title>FR | A LA CARTE 10</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/889.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 10 </link>
+</item>
+<item>
+<title>FR | CINE CLASSIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/879.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CINE CLASSIC </link>
+</item>
+<item>
+<title>FR | Cine Polar</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/878.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Cine Polar </link>
+</item>
+<item>
+<title>FR | TF1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/882.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | TF1 HD </link>
+</item>
+<item>
+<title>FR | A LA CARTE 9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/890.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 9 </link>
+</item>
+<item>
+<title>FR | OCS MAX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/888.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | OCS MAX HD </link>
+</item>
+<item>
+<title>FR | A LA CARTE 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/892.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 7 </link>
+</item>
+<item>
+<title>FR | InfoSport+</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/857.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | InfoSport+ </link>
+</item>
+<item>
+<title>FR | M6 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/858.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | M6 HD </link>
+</item>
+<item>
+<title>FR | SERIE CLUB HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/859.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | SERIE CLUB HD </link>
+</item>
+<item>
+<title>FR | CANAL J</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/868.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CANAL J </link>
+</item>
+<item>
+<title>FR | FRANCE O HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/903.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | FRANCE O HD </link>
+</item>
+<item>
+<title>FR | FRANCE 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/902.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | FRANCE 2 HD </link>
+</item>
+<item>
+<title>FR | FRANCE 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/901.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | FRANCE 3 HD </link>
+</item>
+<item>
+<title>FR | FRANCE 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/900.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | FRANCE 4 HD </link>
+</item>
+<item>
+<title>FR | FRANCE 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/899.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | FRANCE 5 </link>
+</item>
+<item>
+<title>FR | A LA CARTE 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/898.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 1 </link>
+</item>
+<item>
+<title>FR | A LA CARTE 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/897.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 2 </link>
+</item>
+<item>
+<title>FR | TMC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/860.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | TMC </link>
+</item>
+<item>
+<title>FR | CINE  FRISSON HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/873.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CINE  FRISSON HD </link>
+</item>
+<item>
+<title>FR | D17 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/880.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | D17 HD </link>
+</item>
+<item>
+<title>FR | A LA CARTE 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/896.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 3 </link>
+</item>
+<item>
+<title>FR | A LA CARTE 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/895.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 4 </link>
+</item>
+<item>
+<title>FR | A LA CARTE 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/894.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 5 </link>
+</item>
+<item>
+<title>FR | CINE+ FAMILY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/874.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CINE+ FAMILY HD </link>
+</item>
+<item>
+<title>FR | NRJ 12 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/866.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | NRJ 12 HD </link>
+</item>
+<item>
+<title>FR | Voyage</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/867.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Voyage </link>
+</item>
+<item>
+<title>FR | Foot+ 24 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/861.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Foot+ 24 HD </link>
+</item>
+<item>
+<title>FR | NT 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/863.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | NT 1 </link>
+</item>
+<item>
+<title>FR | DÄ°SCOVERY SCÄ°ENCE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/884.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | DÄ°SCOVERY SCÄ°ENCE HD </link>
+</item>
+<item>
+<title>FR | CINE FX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/876.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CINE FX </link>
+</item>
+<item>
+<title>FR | ANIMAUX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/862.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | ANIMAUX HD </link>
+</item>
+<item>
+<title>FR | DISNEY JUNIOR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/885.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | DISNEY JUNIOR </link>
+</item>
+<item>
+<title>FR | CINE+ PREMIER HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/877.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CINE+ PREMIER HD </link>
+</item>
+<item>
+<title>FR | RTL9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/881.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | RTL9 </link>
+</item>
+<item>
+<title>FR | ARTE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/872.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | ARTE HD </link>
+</item>
+<item>
+<title>FR | CHERÄ°E 25</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/871.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CHERÄ°E 25 </link>
+</item>
+<item>
+<title>FR | OCS City</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/887.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | OCS City </link>
+</item>
+<item>
+<title>FR | OCS CHOC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/886.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | OCS CHOC HD </link>
+</item>
+<item>
+<title>FR | CINE+ Emotion HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/875.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CINE+ Emotion HD </link>
+</item>
+<item>
+<title>FR | A LA CARTE 8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/891.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 8 </link>
+</item>
+<item>
+<title>FR | Cartoon NetWork</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/865.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Cartoon NetWork </link>
+</item>
+<item>
+<title>FR | Teva HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/855.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Teva HD </link>
+</item>
+<item>
+<title>FR | AB1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/856.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | AB1 HD </link>
+</item>
+<item>
+<title>FR | Discovery HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/854.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Discovery HD </link>
+</item>
+<item>
+<title>FR | L'EQUIPE 21</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/883.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | L'EQUIPE 21 </link>
+</item>
+<item>
+<title>FR | A LA CARTE 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/893.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 6 </link>
+</item>
+<item>
+<title>FR | HD1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/835.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | HD1 </link>
+</item>
+<item>
+<title>FR | WEO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2523.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | WEO </link>
+</item>
+<item>
+<title>FR | W9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2500.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | W9 </link>
+</item>
+<item>
+<title>FR | USHUAIA HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2519.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | USHUAIA HD </link>
+</item>
+<item>
+<title>FR | TV BREITZ</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2521.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | TV BREITZ </link>
+</item>
+<item>
+<title>FR | TELETOON HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2515.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | TELETOON HD </link>
+</item>
+<item>
+<title>FR | SYFY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2537.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | SYFY HD </link>
+</item>
+<item>
+<title>FR | RMC DECOUVERTE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2527.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | RMC DECOUVERTE </link>
+</item>
+<item>
+<title>FR | PLANETE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2526.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | PLANETE HD </link>
+</item>
+<item>
+<title>FR | PLANETE  CI HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2525.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | PLANETE  CI HD </link>
+</item>
+<item>
+<title>FR | PIWI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2518.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | PIWI </link>
+</item>
+<item>
+<title>FR | NAT GEO WILD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2524.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | NAT GEO WILD </link>
+</item>
+<item>
+<title>FR | MANGAS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2508.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | MANGAS </link>
+</item>
+<item>
+<title>FR | M6 MUSIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2502.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | M6 MUSIC </link>
+</item>
+<item>
+<title>FR | I TELE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2528.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | I TELE </link>
+</item>
+<item>
+<title>FR | GULLI HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2511.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | GULLI HD </link>
+</item>
+<item>
+<title>FR | GONG</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2514.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | GONG </link>
+</item>
+<item>
+<title>FR | FRANCE 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2529.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | FRANCE 24 </link>
+</item>
+<item>
+<title>FR | EQUIDIA LIVE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2532.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | EQUIDIA LIVE HD </link>
+</item>
+<item>
+<title>FR | DISNEY XD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2513.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | DISNEY XD </link>
+</item>
+<item>
+<title>FR | DISNEY Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2509.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | DISNEY Channel </link>
+</item>
+<item>
+<title>FR | D8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2501.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | D8 </link>
+</item>
+<item>
+<title>FR | CHASSE ET PECHE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2504.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CHASSE ET PECHE </link>
+</item>
+<item>
+<title>FR | CANAL SPORT HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2539.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CANAL SPORT HD </link>
+</item>
+<item>
+<title>FR | CANAL PLAY 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2550.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CANAL PLAY 4 </link>
+</item>
+<item>
+<title>FR | CANAL PLAY 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2549.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CANAL PLAY 3 </link>
+</item>
+<item>
+<title>FR | CANAL PLAY 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2548.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CANAL PLAY 2 </link>
+</item>
+<item>
+<title>FR | CANAL PLAY 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2547.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CANAL PLAY 1 </link>
+</item>
+<item>
+<title>FR | CANAL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2540.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CANAL HD </link>
+</item>
+<item>
+<title>FR | CANAL DECALE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2538.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CANAL DECALE HD </link>
+</item>
+<item>
+<title>FR | BFM TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2530.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | BFM TV </link>
+</item>
+<item>
+<title>FR | ACTION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2536.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | ACTION </link>
+</item>
+<item>
+<title>FR | AB3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2544.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | AB3 </link>
+</item>
+<item>
+<title>FR | AB MOTEURS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2533.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | AB MOTEURS HD </link>
+</item>
+<item>
+<title>FR | 6TER HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2546.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | 6TER HD </link>
+</item>
+<item>
+<title>FR | 13 EME RUE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/2543.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | 13 EME RUE </link>
+</item>
+
+
+
+
+
+
 
 <item>
-<title>FR: France O</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2163.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France O </link>
+<title>FR | A LA CARTE 10</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/889.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 10 </link>
 </item>
 <item>
-<title>FR: France 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/949.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 2 HD </link>
+<title>FR | CINE CLASSIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/879.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CINE CLASSIC </link>
 </item>
 <item>
-<title>FR: France 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/950.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 3 HD </link>
+<title>FR | Cine Polar</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/878.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Cine Polar </link>
 </item>
 <item>
-<title>FR: France 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/951.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 4 HD </link>
+<title>FR | TF1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.78.137:8080/live/5454/5454/882.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | TF1 HD </link>
 </item>
-<item>
-<title>FR: France 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/952.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 5 HD </link>
-</item>
-<item>
-<title>FR: iTele</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3834.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: iTele </link>
-</item>
-<item>
-<title>FR: AB1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3802.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: AB1 </link>
-</item>
-<item>
-<title>FR: TF1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1159.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TF1 HD </link>
-</item>
-<item>
-<title>FR: W9 Music</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3804.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: W9 Music </link>
-</item>
-<item>
-<title>FR: TV 5 Monde</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3833.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TV 5 Monde </link>
-</item>
-<item>
-<title>FR: France 24 News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3803.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 24 News </link>
-</item>
-<item>
-<title>FR: Euronews fr</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3805.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Euronews fr </link>
-</item>
-<item>
-<title>FR: RTS LA UN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3835.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RTS LA UN HD </link>
-</item>
-<item>
-<title>FR: RTS LA DEUX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3836.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RTS LA DEUX HD </link>
-</item>
-<item>
-<title>FR: PARAMOUNT CHANNEL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2719.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PARAMOUNT CHANNEL HD </link>
-</item>
-<item>
-<title>FR: 13eme Rue HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1211.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 13eme Rue HD </link>
-</item>
-<item>
-<title>FR: TMC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1294.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TMC </link>
-</item>
-<item>
-<title>FR: Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1299.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Action </link>
-</item>
-<item>
-<title>FR: Canal+ HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1639.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal+ HD </link>
-</item>
-<item>
-<title>FR: Paris Premiere HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2718.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Paris Premiere HD </link>
-</item>
-<item>
-<title>FR: Canal Series HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1279.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal Series HD </link>
-</item>
-<item>
-<title>FR: Canal+ Cinema HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1209.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal+ Cinema HD </link>
-</item>
-<item>
-<title>FR: CANAL+ FAMILY HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1924.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL+ FAMILY HD </link>
-</item>
-<item>
-<title>FR: Canal+ Decale HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1282.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal+ Decale HD </link>
-</item>
-<item>
-<title>FR: Canal+ Series HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3036.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal+ Series HD </link>
-</item>
-<item>
-<title>FR: Cine+ Premier HD.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3028.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine+ Premier HD. </link>
-</item>
-<item>
-<title>FR: Cine+ Frisson HD.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3029.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine+ Frisson HD. </link>
-</item>
-<item>
-<title>FR: Cine+ Emotion HD.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3031.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine+ Emotion HD. </link>
-</item>
-<item>
-<title>FR: Cine+ Famiz HD.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3030.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine+ Famiz HD. </link>
-</item>
-<item>
-<title>FR: Cine+ Club HD.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/910.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine+ Club HD. </link>
-</item>
-<item>
-<title>FR: Cine+ Classic HD.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3032.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine+ Classic HD. </link>
-</item>
-<item>
-<title>FR: Cine+ Star HD.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1283.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine+ Star HD. </link>
-</item>
-<item>
-<title>FR: Cine+ FX HD.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3050.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine+ FX HD. </link>
-</item>
-<item>
-<title>FR: Cine+ Polar HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1281.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine+ Polar HD </link>
-</item>
-<item>
-<title>FR:Cine Comedie HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2721.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Cine Comedie HD </link>
-</item>
-<item>
-<title>FR: Cine Frisson</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1278.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine Frisson </link>
-</item>
-<item>
-<title>FR:Cine Action HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2722.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Cine Action HD </link>
-</item>
-<item>
-<title>FR:  Cine horreur HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2720.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:  Cine horreur HD </link>
-</item>
-<item>
-<title>FR: CinÃ© Plus Emotion HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/908.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CinÃ© Plus Emotion HD </link>
-</item>
-<item>
-<title>FR: OCS MAX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1291.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS MAX HD </link>
-</item>
-<item>
-<title>FR: OCS GEANTS HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1292.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS GEANTS HD </link>
-</item>
-<item>
-<title>FR: OCS CITY HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1923.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS CITY HD </link>
-</item>
-<item>
-<title>FR: OCS CHOC HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2723.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS CHOC HD </link>
-</item>
-<item>
-<title>FR: Disney Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1286.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney Channel </link>
-</item>
-<item>
-<title>FR: Disney Cinema HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1285.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney Cinema HD </link>
-</item>
-<item>
-<title>FR: Piwi +</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1289.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Piwi + </link>
-</item>
-<item>
-<title>FR: ZOUZOU TV (petite)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3831.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: ZOUZOU TV (petite) </link>
-</item>
-<item>
-<title>FR: Canal J</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1287.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal J </link>
-</item>
-<item>
-<title>FR: TIJI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3832.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TIJI </link>
-</item>
-<item>
-<title>FR: TeleToon+</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3799.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TeleToon+ </link>
-</item>
-<item>
-<title>FR: Nickelodeon Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3793.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Nickelodeon Junior </link>
-</item>
-<item>
-<title>FR: Nickelodeon</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3794.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Nickelodeon </link>
-</item>
-<item>
-<title>FR: Mangas</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3800.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Mangas </link>
-</item>
-<item>
-<title>FR: Gulli</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3795.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Gulli </link>
-</item>
-<item>
-<title>FR: Disney XD HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3792.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney XD HD </link>
-</item>
-<item>
-<title>FR: Disney Junior HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3791.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney Junior HD </link>
-</item>
-<item>
-<title>FR: Cartoon Network HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3798.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cartoon Network HD </link>
-</item>
-<item>
-<title>FR: Boomerang HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3796.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Boomerang HD </link>
-</item>
-<item>
-<title>FR: Boing HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3797.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Boing HD </link>
-</item>
-<item>
-<title>FR: SFR CINE A LA DEMANDE 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3287.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR CINE A LA DEMANDE 1 </link>
-</item>
-<item>
-<title>FR: SFR CINE A LA DEMANDE 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3288.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR CINE A LA DEMANDE 2 </link>
-</item>
-<item>
-<title>FR: SFR CINE A LA DEMANDE 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3806.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR CINE A LA DEMANDE 3 </link>
-</item>
-<item>
-<title>FR: MegaBox 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3807.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: MegaBox 1 </link>
-</item>
-<item>
-<title>FR: MegaBox 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3808.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: MegaBox 2 </link>
-</item>
-<item>
-<title>FR: MegaBox 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3809.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: MegaBox 3 </link>
-</item>
-<item>
-<title>FR: MegaBox 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3810.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: MegaBox 4 </link>
-</item>
-<item>
-<title>FR: MegaBox 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3811.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: MegaBox 5 </link>
-</item>
-<item>
-<title>FR: MegaBox 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3812.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: MegaBox 6 </link>
-</item>
-<item>
-<title>FR: MegaBox 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3813.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: MegaBox 7 </link>
-</item>
-<item>
-<title>FR: MegaBox 8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3814.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: MegaBox 8 </link>
-</item>
-<item>
-<title>FR: MegaBox 9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3815.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: MegaBox 9 </link>
-</item>
-<item>
-<title>FR: BoxOffice 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3816.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BoxOffice 1 </link>
-</item>
-<item>
-<title>FR: BoxOffice 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3817.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BoxOffice 2 </link>
-</item>
-<item>
-<title>FR: BoxOffice 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3818.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BoxOffice 3 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3828.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 1 </link>
-</item>
-<item>
-<title>FR: CANALPLAY-2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3035.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANALPLAY-2 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3043.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 2 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3042.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 3 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3041.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 4 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3040.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 5 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3039.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 6 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3829.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 7 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3830.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 8 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3038.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 9 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 10</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3049.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 10 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 11</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3048.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 11 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 12</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3047.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 12 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 13</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3046.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 13 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 14</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3045.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 14 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 15</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3044.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 15 </link>
-</item>
-<item>
-<title>FR: A LA CARTE 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3058.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A LA CARTE 1 HD </link>
-</item>
-<item>
-<title>FR: A LA CARTE 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3626.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A LA CARTE 2 HD </link>
-</item>
-<item>
-<title>FR: A LA CARTE 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3057.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A LA CARTE 3 HD </link>
-</item>
-<item>
-<title>FR: A LA CARTE 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3056.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A LA CARTE 4 HD </link>
-</item>
-<item>
-<title>FR: A LA CARTE 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3055.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A LA CARTE 5 HD </link>
-</item>
-<item>
-<title>FR: A LA CARTE 6 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3054.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A LA CARTE 6 HD </link>
-</item>
-<item>
-<title>FR: A LA CARTE 7 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3053.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A LA CARTE 7 HD </link>
-</item>
-<item>
-<title>FR: A LA CARTE 8 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3052.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A LA CARTE 8 HD </link>
-</item>
-<item>
-<title>FR: A LA CARTE 9 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3051.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A LA CARTE 9 HD </link>
-</item>
-<item>
-<title>FR: A LA CARTE 11 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3819.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A LA CARTE 11 HD </link>
-</item>
-<item>
-<title>FR: A LA CARTE 12 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3820.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A LA CARTE 12 HD </link>
-</item>
-<item>
-<title>FR: A LA CARTE 13 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3821.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A LA CARTE 13 HD </link>
-</item>
-<item>
-<title>FR: A LA CARTE 14 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3822.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A LA CARTE 14 HD </link>
-</item>
-<item>
-<title>FR: A LA CARTE 15 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3823.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A LA CARTE 15 HD </link>
-</item>
-<item>
-<title>FR: A LA CARTE 16 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3824.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A LA CARTE 16 HD </link>
-</item>
-<item>
-<title>FR: A LA CARTE 17 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3825.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A LA CARTE 17 HD </link>
-</item>
-<item>
-<title>FR: A LA CARTE 18 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3826.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A LA CARTE 18 HD </link>
-</item>
-<item>
-<title>FR: A LA CARTE 19 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3827.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A LA CARTE 19 HD </link>
-</item>
-<item>
-<title>FR: M6 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/985.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6 HD </link>
-</item>
-<item>
-<title>FR: NT1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1296.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NT1 </link>
-</item>
-<item>
-<title>FR: Nrj12</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1297.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Nrj12 </link>
-</item>
-<item>
-<title>FR: M6 Music</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3801.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6 Music </link>
-</item>
-<item>
-<title>FR: Arte</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1298.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Arte </link>
-</item>
-<item>
-<title>FR: Animaux</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1300.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Animaux </link>
-</item>
-<item>
-<title>FR: Planete-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2716.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Planete-HD </link>
-</item>
-<item>
-<title>FR: Planete-A-and-E-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2717.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Planete-A-and-E-HD </link>
-</item>
-<item>
-<title>FR: National Geo Wild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3023.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: National Geo Wild </link>
-</item>
-<item>
-<title>FR: National Geo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3024.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: National Geo </link>
-</item>
-<item>
-<title>FR: Chasse & Peche</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3034.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Chasse & Peche </link>
-</item>
-<item>
-<title>FR: HISTOIRE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3026.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: HISTOIRE </link>
-</item>
-<item>
-<title>FR: DISCOVERY HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3025.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISCOVERY HD </link>
-</item>
-<item>
-<title>FR: HD1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3027.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: HD1 </link>
-</item>
-<item>
-<title>FR: CHERIE 25</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3033.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CHERIE 25 </link>
-</item>
-<item>
-<title>FR: Canal Plus Sport HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3037.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal Plus Sport HD </link>
-</item>
-<item>
-<title>FR: Foot + 24 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1478.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Foot + 24 HD </link>
-</item>
+
+
+
+
+
+
+
+
+
 
 
 <item>       

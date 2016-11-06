@@ -17,7 +17,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 06-11-16 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 07-11-16 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -37,249 +37,3039 @@
 
 
 
-
-
-
-
 <item>
-<title>UK-SkySports1HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9679.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-SkySports1HD </link>
+<item>
+<title>UK: BBC1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6986.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC1 HD </link>
 </item>
 <item>
-<title>UK-SkySports2HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9678.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-SkySports2HD </link>
+<title>UK: BBC One NI HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13488.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC One NI HD </link>
 </item>
 <item>
-<title>UK-SkySports3HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9677.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-SkySports3HD </link>
+<title>UK: BBC RB 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13487.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC RB 1 </link>
 </item>
 <item>
-<title>UK-SkySports4HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9676.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-SkySports4HD </link>
+<title>UK: BBC2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8363.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC2 HD </link>
 </item>
 <item>
-<title>UK-TrueMovies-1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9673.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-TrueMovies-1 </link>
+<title>UK: BBC2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6987.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC2 </link>
 </item>
 <item>
-<title>UK-TrueMovies-2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9672.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-TrueMovies-2 </link>
+<title>UK: Channel 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13712.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 4 HD </link>
 </item>
 <item>
-<title>UK-TLC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9674.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-TLC </link>
+<title>UK: CHANNEL 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6995.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CHANNEL 4 </link>
 </item>
 <item>
-<title>UK-SkySportsNewsHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9675.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-SkySportsNewsHD </link>
+<title>UK: Channel 4 +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13558.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 4 +1 </link>
 </item>
 <item>
-<title>UK-Sky-News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9680.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-News </link>
+<title>UK: Channel 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6998.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 5 HD </link>
 </item>
 <item>
-<title>UK-Sky-Movies-Select-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9681.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Movies-Select-HD </link>
+<title>UK: Channel 5 +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13557.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 5 +1 </link>
 </item>
 <item>
-<title>UK-Sky-Movies-Sci-Fi&Horror-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9682.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Movies-Sci-Fi&Horror-HD </link>
+<title>UK: Channel 5Star</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9560.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 5Star </link>
 </item>
 <item>
-<title>UK-Sky-Movies-Premiere-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9683.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Movies-Premiere-HD </link>
+<title>UK: Sky One</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7365.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky One </link>
 </item>
 <item>
-<title>UK-Sky-Movies-Family-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9684.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Movies-Family-HD </link>
+<title>UK: Sky One +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12365.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky One +1 </link>
 </item>
 <item>
-<title>UK-Sky-Movies-Drama-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9685.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Movies-Drama-HD </link>
+<title>UK: Sky Two</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7373.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Two </link>
 </item>
 <item>
-<title>UK-Sky-Movies-Comedy-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9686.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Movies-Comedy-HD </link>
+<title>UK: Pick</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7054.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Pick </link>
 </item>
 <item>
-<title>UK-Sky-Movies-Action-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9687.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Movies-Action-HD </link>
+<title>UK: Pick 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13519.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Pick 1 </link>
 </item>
 <item>
-<title>UK-Nick-Jr-Too</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9688.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Nick-Jr-Too </link>
+<title>UK: My5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13556.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: My5 </link>
 </item>
 <item>
-<title>UK-ITV2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9690.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-ITV2 </link>
+<title>UK: DAVE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7072.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DAVE </link>
 </item>
 <item>
-<title>UK-ITV1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9691.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-ITV1 </link>
+<title>UK: SKY LIVING</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7024.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY LIVING </link>
 </item>
 <item>
-<title>UK-Food</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9692.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Food </link>
+<title>UK: SKY LIVING +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12369.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY LIVING +1 </link>
 </item>
 <item>
-<title>UK-EUROSPORT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9693.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-EUROSPORT </link>
+<title>UK: BBC3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7084.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC3 </link>
 </item>
 <item>
-<title>UK-CNN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9695.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-CNN </link>
+<title>UK: BBC4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8364.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC4 HD </link>
 </item>
 <item>
-<title>UK-CBS-DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9696.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-CBS-DRAMA </link>
+<title>UK: ITV Encore</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13532.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV Encore </link>
 </item>
 <item>
-<title>UK-CBS-ACTION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9697.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-CBS-ACTION </link>
+<title>UK: ITV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6990.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV </link>
 </item>
 <item>
-<title>UK-BBCWORLD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9698.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BBCWORLD </link>
+<title>UK: ITV +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9550.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV +1 </link>
 </item>
 <item>
-<title>UK-BBC-News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9699.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BBC-News </link>
+<title>UK: ITV1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8357.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV1 HD </link>
 </item>
 <item>
-<title>UK-BBC-1-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9703.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BBC-1-HD </link>
+<title>UK: ITV2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8356.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV2 HD </link>
 </item>
 <item>
-<title>UK-BBC-2-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9702.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BBC-2-HD </link>
+<title>UK: ITV2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6991.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV2 </link>
 </item>
 <item>
-<title>UK-BBC-3-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9701.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BBC-3-HD </link>
+<title>UK: ITV2 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13531.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV2 1 </link>
 </item>
 <item>
-<title>UK-BBC-4-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9700.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BBC-4-HD </link>
+<title>UK: ITV3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8354.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV3 HD </link>
 </item>
 <item>
-<title>UK-NatGeo-Wild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9689.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-NatGeo-Wild </link>
+<title>UK: ITV3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6992.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV3 </link>
 </item>
 <item>
-<title>UK-ANIMALPLANET</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9704.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-ANIMALPLANET </link>
+<title>UK: ITV4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8355.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV4 HD </link>
 </item>
 <item>
-<title>UK-DISCOVERYCHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9694.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-DISCOVERYCHANNEL </link>
+<title>UK: ITV4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6993.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV4 </link>
 </item>
 <item>
-<title>IL: ZONE HD IL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9290.ts&amp;streamtype=TSDOWNLOADER&amp;name=IL: ZONE HD IL </link>
+<title>UK: ITV4 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13530.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV4 1 </link>
 </item>
 <item>
-<title>IL: PLUS  HD IL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9291.ts&amp;streamtype=TSDOWNLOADER&amp;name=IL: PLUS  HD IL </link>
+<title>UK: Comedy Central</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7033.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Comedy Central </link>
 </item>
 <item>
-<title>IL: ONE HD IL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9292.ts&amp;streamtype=TSDOWNLOADER&amp;name=IL: ONE HD IL </link>
+<title>UK: Comedy Central +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13591.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Comedy Central +1 </link>
 </item>
 <item>
-<title>IL: Nick Jr IL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9294.ts&amp;streamtype=TSDOWNLOADER&amp;name=IL: Nick Jr IL </link>
+<title>UK: Comedy Central Extra</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8255.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Comedy Central Extra </link>
 </item>
 <item>
-<title>IL: HOT3 HD IL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9295.ts&amp;streamtype=TSDOWNLOADER&amp;name=IL: HOT3 HD IL </link>
+<title>UK: ComedyCentral Xtra +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13590.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ComedyCentral Xtra +1 </link>
 </item>
 <item>
-<title>IL: hop IL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9296.ts&amp;streamtype=TSDOWNLOADER&amp;name=IL: hop IL </link>
+<title>UK: Sci-Fi</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7049.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sci-Fi </link>
 </item>
 <item>
-<title>IL: GOLD HD IL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9297.ts&amp;streamtype=TSDOWNLOADER&amp;name=IL: GOLD HD IL </link>
+<title>UK: ALIBI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7085.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ALIBI </link>
 </item>
 <item>
-<title>IL: DRAMA HD IL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9298.ts&amp;streamtype=TSDOWNLOADER&amp;name=IL: DRAMA HD IL </link>
+<title>UK: Alibi +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12364.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Alibi +1 </link>
 </item>
 <item>
-<title>IL: ACTION HD IL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9299.ts&amp;streamtype=TSDOWNLOADER&amp;name=IL: ACTION HD IL </link>
+<title>UK: E4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7068.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: E4 </link>
 </item>
 <item>
-<title>US:WWE-Network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9339.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:WWE-Network </link>
+<title>UK: S4C</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13514.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: S4C </link>
 </item>
 <item>
-<title>US:VERSUS_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9355.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:VERSUS_HD </link>
+<title>UK: MORE4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7062.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MORE4 </link>
 </item>
 <item>
-<title>US:TSN-2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9343.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:TSN-2 </link>
+<title>UK: More4 +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13583.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: More4 +1 </link>
 </item>
 <item>
-<title>US:TSN-3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9342.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:TSN-3 </link>
+<title>UK: CBS REALITY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7076.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS REALITY </link>
 </item>
 <item>
-<title>US:TSN-4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9341.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:TSN-4 </link>
+<title>UK: CBS REALITY +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7075.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS REALITY +1 </link>
 </item>
 <item>
-<title>US:Travel-Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9344.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:Travel-Channel </link>
+<title>UK: CBS Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7078.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS Action </link>
 </item>
 <item>
-<title>US:SPORTS_TVHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9357.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:SPORTS_TVHD </link>
+<title>UK: CBS DRAMA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7077.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS DRAMA </link>
 </item>
 <item>
-<title>US:HSN-2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9346.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:HSN-2 </link>
+<title>UK: Sony Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13512.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sony Channel </link>
 </item>
 <item>
-<title>US:HSN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9347.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:HSN </link>
+<title>UK: Sony Chnl 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13511.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sony Chnl 1 </link>
 </item>
 <item>
-<title>US:Fox-Sports2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9348.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:Fox-Sports2 </link>
+<title>UK: Flava</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13587.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Flava </link>
 </item>
 <item>
-<title>US:Fox-Sports1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9349.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:Fox-Sports1 </link>
+<title>UK: E!</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7069.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: E! </link>
 </item>
 <item>
-<title>US:National-Geo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9358.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:National-Geo </link>
+<title>UK: E! 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13549.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: E! 1 </link>
 </item>
 <item>
-<title>US:Discovery-Science</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9351.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:Discovery-Science </link>
+<title>UK: Quest</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7053.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Quest </link>
 </item>
 <item>
-<title>US:DISCOVERY-CHANNEL_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9356.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:DISCOVERY-CHANNEL_HD </link>
+<title>UK: QUEST 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13518.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: QUEST 1 </link>
 </item>
 <item>
-<title>US:CBSN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9352.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:CBSN </link>
+<title>UK: SHOWCASE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7048.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SHOWCASE </link>
 </item>
 <item>
-<title>US:Astro-SuperSport1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9353.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:Astro-SuperSport1 </link>
+<title>UK: 3e</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7372.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 3e </link>
 </item>
 <item>
-<title>US:ABC-News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/adam123/adam123/9354.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:ABC-News </link>
+<title>UK: UTV IE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6996.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: UTV IE </link>
 </item>
-
-
-
+<item>
+<title>UK: TV3 IE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6997.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TV3 IE </link>
+</item>
+<item>
+<title>UK: TV3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7001.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TV3 </link>
+</item>
+<item>
+<title>UK: TV3 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13497.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TV3 1 </link>
+</item>
+<item>
+<title>UK: TLC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7003.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TLC </link>
+</item>
+<item>
+<title>UK: TG4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7004.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TG4 </link>
+</item>
+<item>
+<title>UK: RTE One</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7050.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RTE One </link>
+</item>
+<item>
+<title>UK: RTE Two</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7051.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RTE Two </link>
+</item>
+<item>
+<title>UK: ITVBE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6994.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITVBE </link>
+</item>
+<item>
+<title>UK: ITVBe 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13529.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITVBe 1 </link>
+</item>
+<item>
+<title>UK: Community Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13554.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Community Channel </link>
+</item>
+<item>
+<title>UK: AMC From BT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13567.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: AMC From BT </link>
+</item>
+<item>
+<title>UK: ID</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7063.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ID </link>
+</item>
+<item>
+<title>UK: ID 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13533.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ID 1 </link>
+</item>
+<item>
+<title>UK: Horror Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13585.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Horror Channel </link>
+</item>
+<item>
+<title>UK: Horror Channel +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13586.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Horror Channel +1 </link>
+</item>
+<item>
+<title>UK: Fox</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7089.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Fox </link>
+</item>
+<item>
+<title>UK: Challenge</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13560.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Challenge </link>
+</item>
+<item>
+<title>UK: Challenge +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13559.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Challenge +1 </link>
+</item>
+<item>
+<title>UK: 5USA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7071.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 5USA </link>
+</item>
+<item>
+<title>UK: 5 USA +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13569.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 5 USA +1 </link>
+</item>
+<item>
+<title>UK: 5STAR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7086.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 5STAR </link>
+</item>
+<item>
+<title>UK: 5STAR +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13568.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 5STAR +1 </link>
+</item>
+<item>
+<title>UK: Lifetime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8256.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Lifetime </link>
+</item>
+<item>
+<title>UK: Vintage TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9552.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Vintage TV </link>
+</item>
+<item>
+<title>UK: FineLiving</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9388.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: FineLiving </link>
+</item>
+<item>
+<title>UK: Gold</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12371.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Gold </link>
+</item>
+<item>
+<title>UK: GOLD 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13543.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: GOLD 1 </link>
+</item>
+<item>
+<title>UK: Eden</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12460.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Eden </link>
+</item>
+<item>
+<title>UK: Eden +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12366.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Eden +1 </link>
+</item>
+<item>
+<title>UK: True Drama</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13574.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Drama </link>
+</item>
+<item>
+<title>UK: True Crime 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13498.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Crime 1 </link>
+</item>
+<item>
+<title>UK: tru TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13500.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: tru TV </link>
+</item>
+<item>
+<title>UK: tru TV 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13499.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: tru TV 1 </link>
+</item>
+<item>
+<title>UK: TLC 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13501.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TLC 1 </link>
+</item>
+<item>
+<title>UK: TLC 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13502.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TLC 2 </link>
+</item>
+<item>
+<title>UK: Dunya News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13486.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Dunya News </link>
+</item>
+<item>
+<title>UK: Drama</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13550.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Drama </link>
+</item>
+<item>
+<title>UK: Dmax</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12458.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Dmax </link>
+</item>
+<item>
+<title>UK: Dmax +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12459.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Dmax +1 </link>
+</item>
+<item>
+<title>UK: De Ja Vu</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/11779.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: De Ja Vu </link>
+</item>
+<item>
+<title>UK: W 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13494.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: W 1 </link>
+</item>
+<item>
+<title>UK: W</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13495.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: W </link>
+</item>
+<item>
+<title>UK: Universal +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13571.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Universal +1 </link>
+</item>
+<item>
+<title>UK: Universal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13572.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Universal </link>
+</item>
+<item>
+<title>UK: True Entertainment</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13573.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Entertainment </link>
+</item>
+<item>
+<title>UK: Sky News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9551.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky News </link>
+</item>
+<item>
+<title>UK: Real Lives 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13516.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Real Lives 1 </link>
+</item>
+<item>
+<title>UK: Real Lives</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13517.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Real Lives </link>
+</item>
+<item>
+<title>UK: Tiny Pop +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13575.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Tiny Pop +1 </link>
+</item>
+<item>
+<title>UK: Tiny Pop</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13576.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Tiny Pop </link>
+</item>
+<item>
+<title>UK: The Vault</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13577.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: The Vault </link>
+</item>
+<item>
+<title>UK: Spike</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13508.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Spike </link>
+</item>
+<item>
+<title>UK: RT. News Now</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13515.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RT. News Now </link>
+</item>
+<item>
+<title>UK: PBS America</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13520.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: PBS America </link>
+</item>
+<item>
+<title>UK: Discovery Shed</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6977.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Shed </link>
+</item>
+<item>
+<title>UK: Travel Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7002.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Travel Channel </link>
+</item>
+<item>
+<title>UK: Travel Channel +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/10162.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Travel Channel +1 </link>
+</item>
+<item>
+<title>UK: Really</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7052.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Really </link>
+</item>
+<item>
+<title>UK: Home & Health</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7369.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Home & Health </link>
+</item>
+<item>
+<title>UK: Food Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8392.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Food Network </link>
+</item>
+<item>
+<title>UK: SKY ARTS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7046.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY ARTS </link>
+</item>
+<item>
+<title>UK: Good Food</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13542.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Good Food </link>
+</item>
+<item>
+<title>UK: Good Food 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13541.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Good Food 1 </link>
+</item>
+<item>
+<title>UK: Food Netwrk 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13547.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Food Netwrk 1 </link>
+</item>
+<item>
+<title>UK: Home&Health</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13536.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Home&Health </link>
+</item>
+<item>
+<title>UK: Home</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13537.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Home </link>
+</item>
+<item>
+<title>UK: Home 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13535.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Home 1 </link>
+</item>
+<item>
+<title>UK: Sky Cinema Premiere HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7008.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Premiere HD </link>
+</item>
+<item>
+<title>UK: Sky Cinema Premiere</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7007.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Premiere </link>
+</item>
+<item>
+<title>UK: Sky Cinema Premier +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9557.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Premier +1 </link>
+</item>
+<item>
+<title>UK: Sky Movies Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7012.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Comedy </link>
+</item>
+<item>
+<title>UK: Sky Cinema Action & Adventure</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7013.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Action & Adventure </link>
+</item>
+<item>
+<title>UK: Sky Cinema Family</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7009.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Family </link>
+</item>
+<item>
+<title>UK: Sky Cinema Drama & Romance</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7011.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Drama & Romance </link>
+</item>
+<item>
+<title>UK: Sky Movies Sci-Fi Horror HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7015.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Sci-Fi Horror HD </link>
+</item>
+<item>
+<title>UK: Sky Movies ScFi-Horror</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6975.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies ScFi-Horror </link>
+</item>
+<item>
+<title>UK: Sky Film 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7030.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Film 4 HD </link>
+</item>
+<item>
+<title>UK: Film4 +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13588.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Film4 +1 </link>
+</item>
+<item>
+<title>UK: Sky Cinema Select</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7014.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Select </link>
+</item>
+<item>
+<title>UK: Sky Cinema Disney</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7017.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Disney </link>
+</item>
+<item>
+<title>UK: Sky Universal +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9559.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Universal +1 </link>
+</item>
+<item>
+<title>UK: Sony Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13510.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sony Movies </link>
+</item>
+<item>
+<title>UK: Sony Movies 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13509.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sony Movies 1 </link>
+</item>
+<item>
+<title>UK: TCM</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7006.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TCM </link>
+</item>
+<item>
+<title>UK: Starz TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13578.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Starz TV </link>
+</item>
+<item>
+<title>UK: Star Life OK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13505.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Star Life OK </link>
+</item>
+<item>
+<title>UK: Star Jalsha</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13506.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Star Jalsha </link>
+</item>
+<item>
+<title>UK: Star GOLD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13507.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Star GOLD </link>
+</item>
+<item>
+<title>UK: TCM 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13504.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TCM 1 </link>
+</item>
+<item>
+<title>UK: FILM 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7066.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: FILM 4 </link>
+</item>
+<item>
+<title>UK: True Movies 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6976.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Movies 1 </link>
+</item>
+<item>
+<title>UK: True Movies 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7375.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Movies 2 </link>
+</item>
+<item>
+<title>UK: Movies4Men</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8258.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Movies4Men </link>
+</item>
+<item>
+<title>UK: Movies 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13525.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Movies 24 </link>
+</item>
+<item>
+<title>UK: mov4men 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13526.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: mov4men 1 </link>
+</item>
+<item>
+<title>UK: MOVIES CRIME & THRILLER</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7019.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MOVIES CRIME & THRILLER </link>
+</item>
+<item>
+<title>UK: MOVIES DISNEY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7021.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MOVIES DISNEY </link>
+</item>
+<item>
+<title>UK: MOVIES COMEDY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7022.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MOVIES COMEDY </link>
+</item>
+<item>
+<title>UK:  Sky Cinema Action & Adventure</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7023.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:  Sky Cinema Action & Adventure </link>
+</item>
+<item>
+<title>UK: Syfy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7005.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Syfy </link>
+</item>
+<item>
+<title>UK: Syfy +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9556.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Syfy +1 </link>
+</item>
+<item>
+<title>UK: Sky Atlantic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7045.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Atlantic </link>
+</item>
+<item>
+<title>UK: Sky Atlantic +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9558.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Atlantic +1 </link>
+</item>
+<item>
+<title>UK: SKY SPORTS NEWS HQ HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6981.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS NEWS HQ HD </link>
+</item>
+<item>
+<title>UK: Sky Sports News HQ</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8391.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports News HQ </link>
+</item>
+<item>
+<title>UK: Sky Sports Mix HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13713.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports Mix HD </link>
+</item>
+<item>
+<title>UK: Sky Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8352.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 1 HD </link>
+</item>
+<item>
+<title>UK: Sky Sports 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7035.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 1 </link>
+</item>
+<item>
+<title>UK: Sky Sports 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8351.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 2 HD </link>
+</item>
+<item>
+<title>UK: Sky Sports 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7036.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 2 </link>
+</item>
+<item>
+<title>UK: Sky Sports 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8350.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 3 HD </link>
+</item>
+<item>
+<title>UK: Sky Sports 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7037.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 3 </link>
+</item>
+<item>
+<title>UK: Sky Sports 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9549.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 4 HD </link>
+</item>
+<item>
+<title>UK: Sky Sports 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7038.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 4 </link>
+</item>
+<item>
+<title>UK: Sky Sports 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8349.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 5 HD </link>
+</item>
+<item>
+<title>UK: Sky Sports 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7039.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 5 </link>
+</item>
+<item>
+<title>UK: Sky Sports F1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7987.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports F1 HD </link>
+</item>
+<item>
+<title>UK: SKY SPORTS  F1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7067.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS  F1 </link>
+</item>
+<item>
+<title>UK: Eurosport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7031.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Eurosport 1 </link>
+</item>
+<item>
+<title>UK: Eurosport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7374.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Eurosport 2 </link>
+</item>
+<item>
+<title>UK: Premier Sports</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/10163.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Premier Sports </link>
+</item>
+<item>
+<title>UK: Premier Sport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12498.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Premier Sport </link>
+</item>
+<item>
+<title>UK: Motors TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8257.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Motors TV </link>
+</item>
+<item>
+<title>UK: Horse & Country</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13534.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Horse & Country </link>
+</item>
+<item>
+<title>UK: AT THE RACES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6984.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: AT THE RACES </link>
+</item>
+<item>
+<title>UK: Racing UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7376.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Racing UK </link>
+</item>
+<item>
+<title>UK: Bike</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13599.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Bike </link>
+</item>
+<item>
+<title>UK: BT Sport Mosaic HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9149.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport Mosaic HD </link>
+</item>
+<item>
+<title>UK: BT SPORTS MOSAIC 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12531.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT SPORTS MOSAIC 2 </link>
+</item>
+<item>
+<title>UK: BT Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7041.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport 1 HD </link>
+</item>
+<item>
+<title>UK: BT Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7042.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport 2 HD </link>
+</item>
+<item>
+<title>UK: BT Sport/ESPN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8358.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport/ESPN HD </link>
+</item>
+<item>
+<title>UK: BT Sport ESPN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6985.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport ESPN </link>
+</item>
+<item>
+<title>UK: BT Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8361.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport 2 </link>
+</item>
+<item>
+<title>UK: BT Sport Europe/3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8360.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport Europe/3 HD </link>
+</item>
+<item>
+<title>UK: BT SPORTS EUROPE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7081.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT SPORTS EUROPE </link>
+</item>
+<item>
+<title>UK: BT Sports Extra 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7370.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sports Extra 1 </link>
+</item>
+<item>
+<title>UK: BT Sport Extra 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13565.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport Extra 2 </link>
+</item>
+<item>
+<title>UK: BT Sport Extra 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13564.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport Extra 3 </link>
+</item>
+<item>
+<title>UK: BT Sport Extra 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13563.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport Extra 4 </link>
+</item>
+<item>
+<title>UK: BT Sport Extra 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13562.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport Extra 5 </link>
+</item>
+<item>
+<title>UK: BT Sport Extra 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13561.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport Extra 6 </link>
+</item>
+<item>
+<title>UK: BET</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9148.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BET </link>
+</item>
+<item>
+<title>UK: Setanta HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8241.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Setanta HD </link>
+</item>
+<item>
+<title>UK: Sky Setanta Sports</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7040.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Setanta Sports </link>
+</item>
+<item>
+<title>UK: BOX NATION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7082.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BOX NATION </link>
+</item>
+<item>
+<title>UK: Sky BoxOff (PPV Events Only)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7979.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BoxOff (PPV Events Only) </link>
+</item>
+<item>
+<title>UK: MUTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7043.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MUTV </link>
+</item>
+<item>
+<title>UK: Chelsea TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7044.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Chelsea TV HD </link>
+</item>
+<item>
+<title>UK: Chelsea TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8359.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Chelsea TV </link>
+</item>
+<item>
+<title>UK: Liverpool LFCTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9553.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Liverpool LFCTV </link>
+</item>
+<item>
+<title>UK: Rangers TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12482.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Rangers TV </link>
+</item>
+<item>
+<title>UK: Everton FC TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12484.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Everton FC TV </link>
+</item>
+<item>
+<title>UK: Celtic FC TV (Live for Matches )</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12457.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Celtic FC TV (Live for Matches ) </link>
+</item>
+<item>
+<title>UK: MIO SPORTS 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9299.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MIO SPORTS 1 </link>
+</item>
+<item>
+<title>UK: Mio Sports 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9300.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Mio Sports 2 </link>
+</item>
+<item>
+<title>UK: Mio Sports 3 (Eleven Plus)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9301.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Mio Sports 3 (Eleven Plus) </link>
+</item>
+<item>
+<title>UK: Mio Sports 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9302.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Mio Sports 4 </link>
+</item>
+<item>
+<title>UK: Mio Sports 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9303.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Mio Sports 5 </link>
+</item>
+<item>
+<title>UK: Mio Sports 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9304.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Mio Sports 6 </link>
+</item>
+<item>
+<title>UK: Mio Sports 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9305.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Mio Sports 7 </link>
+</item>
+<item>
+<title>UK: Mio Sports 8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9306.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Mio Sports 8 </link>
+</item>
+<item>
+<title>=======   UK:NEWS   =======</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8246.ts&amp;streamtype=TSDOWNLOADER&amp;name========   UK:NEWS   ======= </link>
+</item>
+<item>
+<title>UK: BBC News HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8362.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC News HD </link>
+</item>
+<item>
+<title>UK: BBC News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7371.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC News </link>
+</item>
+<item>
+<title>UK: NHK World Ja EN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/2900.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: NHK World Ja EN </link>
+</item>
+<item>
+<title>=======   UK:DOCUMENTARIES   =======</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8247.ts&amp;streamtype=TSDOWNLOADER&amp;name========   UK:DOCUMENTARIES   ======= </link>
+</item>
+<item>
+<title>UK: Discovery Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7026.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Channel </link>
+</item>
+<item>
+<title>Uk: Discovery Channel +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/10161.ts&amp;streamtype=TSDOWNLOADER&amp;name=Uk: Discovery Channel +1 </link>
+</item>
+<item>
+<title>UK: Discovery Turbo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6979.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Turbo </link>
+</item>
+<item>
+<title>UK: Discovery Science</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7028.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Science </link>
+</item>
+<item>
+<title>UK: Disc.Sci 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13551.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disc.Sci 1 </link>
+</item>
+<item>
+<title>UK: Animal Planet</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7047.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Animal Planet </link>
+</item>
+<item>
+<title>UK: Animal Planet +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13566.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Animal Planet +1 </link>
+</item>
+<item>
+<title>UK: Nat Geo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7367.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nat Geo </link>
+</item>
+<item>
+<title>UK: Nat Geo Wild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7025.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nat Geo Wild </link>
+</item>
+<item>
+<title>UK: Discovery History HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7029.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery History HD </link>
+</item>
+<item>
+<title>UK: Disc.History 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13552.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disc.History 1 </link>
+</item>
+<item>
+<title>UK: YESTERDAY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6999.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: YESTERDAY </link>
+</item>
+<item>
+<title>UK: Yesterday +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12375.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Yesterday +1 </link>
+</item>
+<item>
+<title>UK: Investigation Discovery</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7368.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Investigation Discovery </link>
+</item>
+<item>
+<title>UK: CRIME & THRILLER</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7073.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CRIME & THRILLER </link>
+</item>
+<item>
+<title>UK: Crime & Investigation</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7074.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Crime & Investigation </link>
+</item>
+<item>
+<title>UK: Crime Inv  1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13553.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Crime Inv  1 </link>
+</item>
+<item>
+<title>UK: H2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13540.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: H2 </link>
+</item>
+<item>
+<title>UK: History</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13539.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: History </link>
+</item>
+<item>
+<title>UK: History 1 hour</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13538.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: History 1 hour </link>
+</item>
+<item>
+<title>UK: GEO TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13544.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: GEO TV </link>
+</item>
+<item>
+<title>=======   UK:CHILDREN’S   =======</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8251.ts&amp;streamtype=TSDOWNLOADER&amp;name========   UK:CHILDREN’S   ======= </link>
+</item>
+<item>
+<title>UK: Nickelodeon 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13521.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nickelodeon 1 </link>
+</item>
+<item>
+<title>UK: Baby TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/11778.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Baby TV </link>
+</item>
+<item>
+<title>UK: Kix</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/11469.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Kix </link>
+</item>
+<item>
+<title>UK: Kix +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13584.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Kix +1 </link>
+</item>
+<item>
+<title>UK: Cartoon Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7034.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Cartoon Network </link>
+</item>
+<item>
+<title>UK: NickJr Too</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7543.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: NickJr Too </link>
+</item>
+<item>
+<title>UK: Nick Jr  +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7544.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nick Jr  +1 </link>
+</item>
+<item>
+<title>UK: Nicktoons</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7055.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nicktoons </link>
+</item>
+<item>
+<title>UK: Disney Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7542.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney Junior </link>
+</item>
+<item>
+<title>UK: Disney Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7032.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney Channel </link>
+</item>
+<item>
+<title>UK: Disney Channel +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9555.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney Channel +1 </link>
+</item>
+<item>
+<title>UK: Nickelodeon</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7366.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nickelodeon </link>
+</item>
+<item>
+<title>UK: Nickelodeon +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12368.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nickelodeon +1 </link>
+</item>
+<item>
+<title>UK: DISNEY XD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7070.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISNEY XD </link>
+</item>
+<item>
+<title>UK: DISNEY XD +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12370.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISNEY XD +1 </link>
+</item>
+<item>
+<title>UK: CBEEBIES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7079.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBEEBIES </link>
+</item>
+<item>
+<title>UK: CBBC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7080.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBBC </link>
+</item>
+<item>
+<title>UK: Cartoonito</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8254.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Cartoonito </link>
+</item>
+<item>
+<title>UK: Boomerang +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13597.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Boomerang +1 </link>
+</item>
+<item>
+<title>UK: Boomerang</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13598.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Boomerang </link>
+</item>
+<item>
+<title>=======   UK:MUSIC  =======</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8253.ts&amp;streamtype=TSDOWNLOADER&amp;name========   UK:MUSIC  ======= </link>
+</item>
+<item>
+<title>UK: MTV Music</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13582.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Music </link>
+</item>
+<item>
+<title>UK: MTV 90s</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13485.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV 90s </link>
+</item>
+<item>
+<title>UK: MTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7061.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV </link>
+</item>
+<item>
+<title>UK: MTV +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13523.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV +1 </link>
+</item>
+<item>
+<title>UK: MTV Base</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7060.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Base </link>
+</item>
+<item>
+<title>UK: MTV Hits</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7057.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Hits </link>
+</item>
+<item>
+<title>UK: MTV Dance</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7058.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Dance </link>
+</item>
+<item>
+<title>UK: MTV Rocks</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7056.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Rocks </link>
+</item>
+<item>
+<title>UK: MTV Classic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7059.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Classic </link>
+</item>
+<item>
+<title>UK: VH1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7000.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: VH1 </link>
+</item>
+<item>
+<title>UK: VIVA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8259.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: VIVA </link>
+</item>
+<item>
+<title>UK: Scuzz</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13579.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Scuzz </link>
+</item>
+<item>
+<title>UK: 4Music</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13570.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 4Music </link>
+</item>
+<item>
+<title>UK: POP +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13580.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: POP +1 </link>
+</item>
+<item>
+<title>UK: POP</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13581.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: POP </link>
+</item>
+<item>
+<title>USA: TNT HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13180.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TNT HD </link>
+</item>
+<item>
+<title>USA: Sportsnet West HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13232.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Sportsnet West HD </link>
+</item>
+<item>
+<title>USA: Spike HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13179.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Spike HD </link>
+</item>
+<item>
+<title>USA: ESPN U HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13229.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: ESPN U HD </link>
+</item>
+<item>
+<title>USA: ESPN 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13230.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: ESPN 2 HD </link>
+</item>
+<item>
+<title>USA: BeIN Sports USA HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13227.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: BeIN Sports USA HD </link>
+</item>
+<item>
+<title>USA: StarzZ  Edge</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/10171.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: StarzZ  Edge </link>
+</item>
+<item>
+<title>USA: NHL Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12479.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NHL Network </link>
+</item>
+<item>
+<title>USA: Fox</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/10174.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Fox </link>
+</item>
+<item>
+<title>USA: AFN SPECTRUM</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/10166.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: AFN SPECTRUM </link>
+</item>
+<item>
+<title>USA: AFN Prime Atlantic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/10167.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: AFN Prime Atlantic </link>
+</item>
+<item>
+<title>USA: Star Z Cinema</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9832.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Star Z Cinema </link>
+</item>
+<item>
+<title>USA: PAC-12 Washington HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/10143.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: PAC-12 Washington HD </link>
+</item>
+<item>
+<title>USA: HBO Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9831.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: HBO Comedy </link>
+</item>
+<item>
+<title>USA: DTX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9547.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: DTX </link>
+</item>
+<item>
+<title>USA: Discovery Science</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9546.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Discovery Science </link>
+</item>
+<item>
+<title>USA: TBN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9542.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TBN </link>
+</item>
+<item>
+<title>USA: Church Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9536.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Church Channel </link>
+</item>
+<item>
+<title>USA: A&E</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9315.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: A&E </link>
+</item>
+<item>
+<title>USA: AFN MOVIE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9488.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: AFN MOVIE </link>
+</item>
+<item>
+<title>USA: AFN SPORTS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9516.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: AFN SPORTS </link>
+</item>
+<item>
+<title>USA: AFN SPORTS 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9517.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: AFN SPORTS 2 </link>
+</item>
+<item>
+<title>USA: AMG TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9511.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: AMG TV </link>
+</item>
+<item>
+<title>USA: Astro SUPERSPORT 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9518.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Astro SUPERSPORT 1 </link>
+</item>
+<item>
+<title>USA: Astro SUPERSPORT 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9519.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Astro SUPERSPORT 2 </link>
+</item>
+<item>
+<title>USA: Astro SUPERSPORT 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9520.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Astro SUPERSPORT 3 </link>
+</item>
+<item>
+<title>USA: Bloomberg</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9510.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Bloomberg </link>
+</item>
+<item>
+<title>USA: Boston City TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9509.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Boston City TV </link>
+</item>
+<item>
+<title>USA: BYU Sports TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9529.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: BYU Sports TV HD </link>
+</item>
+<item>
+<title>USA: CBS Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9340.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: CBS Action </link>
+</item>
+<item>
+<title>USA: CBS DRAMA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9339.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: CBS DRAMA </link>
+</item>
+<item>
+<title>USA: CBS News HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9508.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: CBS News HD </link>
+</item>
+<item>
+<title>USA: CBS Reality</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9338.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: CBS Reality </link>
+</item>
+<item>
+<title>USA: C-SPAN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9318.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: C-SPAN </link>
+</item>
+<item>
+<title>USA: CSPAN 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9319.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: CSPAN 2 </link>
+</item>
+<item>
+<title>USA: C-SPAN 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9320.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: C-SPAN 3 </link>
+</item>
+<item>
+<title>USA: E! Network HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9321.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: E! Network HD </link>
+</item>
+<item>
+<title>USA: Food Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9337.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Food Network </link>
+</item>
+<item>
+<title>USA: Fox Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9391.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Fox Sport 2 </link>
+</item>
+<item>
+<title>USA: Fox Sports 506 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9528.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Fox Sports 506 HD </link>
+</item>
+<item>
+<title>USA: HSN 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9512.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: HSN 1 </link>
+</item>
+<item>
+<title>USA: HSN 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9513.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: HSN 2 </link>
+</item>
+<item>
+<title>USA: Mello TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9502.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Mello TV </link>
+</item>
+<item>
+<title>USA: Mute TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9487.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Mute TV </link>
+</item>
+<item>
+<title>USA: NASA TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9324.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NASA TV </link>
+</item>
+<item>
+<title>USA: Nasa TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9499.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Nasa TV HD </link>
+</item>
+<item>
+<title>USA: NBC Golf HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9526.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBC Golf HD </link>
+</item>
+<item>
+<title>USA: NBC SN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9523.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBC SN </link>
+</item>
+<item>
+<title>USA: Nick</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9333.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Nick </link>
+</item>
+<item>
+<title>USA: Poker Central</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9326.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Poker Central </link>
+</item>
+<item>
+<title>USA: RT America HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9498.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: RT America HD </link>
+</item>
+<item>
+<title>USA: RT Documentary</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9497.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: RT Documentary </link>
+</item>
+<item>
+<title>USA: The Florida Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9495.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: The Florida Channel </link>
+</item>
+<item>
+<title>USA: TLC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9480.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TLC HD </link>
+</item>
+<item>
+<title>USA: Travel Channel HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9476.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Travel Channel HD </link>
+</item>
+<item>
+<title>USA: Tru TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9330.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Tru TV HD </link>
+</item>
+<item>
+<title>USA: Twit TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9485.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Twit TV </link>
+</item>
+<item>
+<title>USA: UC TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9492.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: UC TV </link>
+</item>
+<item>
+<title>USA: USA Network HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9329.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: USA Network HD </link>
+</item>
+<item>
+<title>USA: Versus NBA HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9524.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Versus NBA HD </link>
+</item>
+<item>
+<title>USA: WHDH</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9491.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: WHDH </link>
+</item>
+<item>
+<title>USA: Willow HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9328.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Willow HD </link>
+</item>
+<item>
+<title>USA: WWE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9530.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: WWE </link>
+</item>
+<item>
+<title>USA: BLOOMBERG U.S.A.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9472.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: BLOOMBERG U.S.A. </link>
+</item>
+<item>
+<title>USA: DTX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9475.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: DTX HD </link>
+</item>
+<item>
+<title>USA: Bravo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8691.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Bravo </link>
+</item>
+<item>
+<title>USA: CNN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8692.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: CNN HD </link>
+</item>
+<item>
+<title>USA: FOX Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8681.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: FOX Sport 1 </link>
+</item>
+<item>
+<title>USA: LIFE TIME</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8687.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: LIFE TIME </link>
+</item>
+<item>
+<title>USA: NFL Network HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8693.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NFL Network HD </link>
+</item>
+<item>
+<title>USA: TBS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8685.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TBS HD </link>
+</item>
+<item>
+<title>USA: HBO ZONE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8412.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: HBO ZONE </link>
+</item>
+<item>
+<title>USA: HBO HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8411.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: HBO HD </link>
+</item>
+<item>
+<title>USA: HBO FAMILY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8414.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: HBO FAMILY </link>
+</item>
+<item>
+<title>USA: E!</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8417.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: E! </link>
+</item>
+<item>
+<title>USA: AMC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8415.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: AMC HD </link>
+</item>
+<item>
+<title>USA: Tsn Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8293.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Tsn Sport 1 HD </link>
+</item>
+<item>
+<title>USA: Tsn Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8292.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Tsn Sport 2 HD </link>
+</item>
+<item>
+<title>USA: Tsn Sport 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8291.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Tsn Sport 3 HD </link>
+</item>
+<item>
+<title>USA: Tsn Sport 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8290.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Tsn Sport 4 HD </link>
+</item>
+<item>
+<title>USA: Tsn-Sport 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8289.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Tsn-Sport 5 HD </link>
+</item>
+<item>
+<title>USA: Tsn Sport 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12547.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Tsn Sport 5 HD </link>
+</item>
+<item>
+<title>USA: WWE Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8410.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: WWE Network </link>
+</item>
+<item>
+<title>OSN: PPV WWE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9151.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN: PPV WWE HD </link>
+</item>
+<item>
+<title>USA: NBA TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8309.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBA TV </link>
+</item>
+<item>
+<title>USA: Fight Sport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8308.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Fight Sport </link>
+</item>
+<item>
+<title>USA: UALR TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/3865.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: UALR TV </link>
+</item>
+<item>
+<title>USA: NBC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8393.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBC </link>
+</item>
+<item>
+<title>USA: Country Music Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/3859.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Country Music Channel </link>
+</item>
+<item>
+<title>USA: Channel 11</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/3860.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Channel 11 </link>
+</item>
+<item>
+<title>USA: CBN News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/3872.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: CBN News </link>
+</item>
+<item>
+<title>USA: ASD TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/3861.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: ASD TV </link>
+</item>
+<item>
+<title>USA: 360 North</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/3863.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: 360 North </link>
+</item>
+<item>
+<title>USA: Versus</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/2904.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Versus </link>
+</item>
+<item>
+<title>USA: ABC News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/2931.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: ABC News </link>
+</item>
+<item>
+<title>UK: BBC1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6986.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC1 HD </link>
+</item>
+<item>
+<title>UK: BBC One NI HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13488.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC One NI HD </link>
+</item>
+<item>
+<title>UK: BBC RB 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13487.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC RB 1 </link>
+</item>
+<item>
+<title>UK: BBC2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8363.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC2 HD </link>
+</item>
+<item>
+<title>UK: BBC2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6987.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC2 </link>
+</item>
+<item>
+<title>UK: Channel 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13712.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 4 HD </link>
+</item>
+<item>
+<title>UK: CHANNEL 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6995.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CHANNEL 4 </link>
+</item>
+<item>
+<title>UK: Channel 4 +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13558.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 4 +1 </link>
+</item>
+<item>
+<title>UK: Channel 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6998.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 5 HD </link>
+</item>
+<item>
+<title>UK: Channel 5 +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13557.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 5 +1 </link>
+</item>
+<item>
+<title>UK: Channel 5Star</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9560.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 5Star </link>
+</item>
+<item>
+<title>UK: Sky One</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7365.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky One </link>
+</item>
+<item>
+<title>UK: Sky One +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12365.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky One +1 </link>
+</item>
+<item>
+<title>UK: Sky Two</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7373.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Two </link>
+</item>
+<item>
+<title>UK: Pick</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7054.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Pick </link>
+</item>
+<item>
+<title>UK: Pick 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13519.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Pick 1 </link>
+</item>
+<item>
+<title>UK: My5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13556.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: My5 </link>
+</item>
+<item>
+<title>UK: DAVE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7072.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DAVE </link>
+</item>
+<item>
+<title>UK: SKY LIVING</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7024.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY LIVING </link>
+</item>
+<item>
+<title>UK: SKY LIVING +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12369.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY LIVING +1 </link>
+</item>
+<item>
+<title>UK: BBC3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7084.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC3 </link>
+</item>
+<item>
+<title>UK: BBC4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8364.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC4 HD </link>
+</item>
+<item>
+<title>UK: ITV Encore</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13532.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV Encore </link>
+</item>
+<item>
+<title>UK: ITV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6990.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV </link>
+</item>
+<item>
+<title>UK: ITV +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9550.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV +1 </link>
+</item>
+<item>
+<title>UK: ITV1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8357.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV1 HD </link>
+</item>
+<item>
+<title>UK: ITV2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8356.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV2 HD </link>
+</item>
+<item>
+<title>UK: ITV2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6991.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV2 </link>
+</item>
+<item>
+<title>UK: ITV2 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13531.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV2 1 </link>
+</item>
+<item>
+<title>UK: ITV3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8354.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV3 HD </link>
+</item>
+<item>
+<title>UK: ITV3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6992.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV3 </link>
+</item>
+<item>
+<title>UK: ITV4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8355.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV4 HD </link>
+</item>
+<item>
+<title>UK: ITV4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6993.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV4 </link>
+</item>
+<item>
+<title>UK: ITV4 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13530.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV4 1 </link>
+</item>
+<item>
+<title>UK: Comedy Central</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7033.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Comedy Central </link>
+</item>
+<item>
+<title>UK: Comedy Central +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13591.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Comedy Central +1 </link>
+</item>
+<item>
+<title>UK: Comedy Central Extra</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8255.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Comedy Central Extra </link>
+</item>
+<item>
+<title>UK: ComedyCentral Xtra +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13590.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ComedyCentral Xtra +1 </link>
+</item>
+<item>
+<title>UK: Sci-Fi</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7049.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sci-Fi </link>
+</item>
+<item>
+<title>UK: ALIBI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7085.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ALIBI </link>
+</item>
+<item>
+<title>UK: Alibi +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12364.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Alibi +1 </link>
+</item>
+<item>
+<title>UK: E4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7068.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: E4 </link>
+</item>
+<item>
+<title>UK: S4C</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13514.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: S4C </link>
+</item>
+<item>
+<title>UK: MORE4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7062.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MORE4 </link>
+</item>
+<item>
+<title>UK: More4 +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13583.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: More4 +1 </link>
+</item>
+<item>
+<title>UK: CBS REALITY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7076.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS REALITY </link>
+</item>
+<item>
+<title>UK: CBS REALITY +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7075.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS REALITY +1 </link>
+</item>
+<item>
+<title>UK: CBS Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7078.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS Action </link>
+</item>
+<item>
+<title>UK: CBS DRAMA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7077.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS DRAMA </link>
+</item>
+<item>
+<title>UK: Sony Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13512.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sony Channel </link>
+</item>
+<item>
+<title>UK: Sony Chnl 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13511.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sony Chnl 1 </link>
+</item>
+<item>
+<title>UK: Flava</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13587.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Flava </link>
+</item>
+<item>
+<title>UK: E!</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7069.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: E! </link>
+</item>
+<item>
+<title>UK: E! 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13549.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: E! 1 </link>
+</item>
+<item>
+<title>UK: Quest</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7053.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Quest </link>
+</item>
+<item>
+<title>UK: QUEST 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13518.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: QUEST 1 </link>
+</item>
+<item>
+<title>UK: SHOWCASE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7048.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SHOWCASE </link>
+</item>
+<item>
+<title>UK: 3e</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7372.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 3e </link>
+</item>
+<item>
+<title>UK: UTV IE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6996.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: UTV IE </link>
+</item>
+<item>
+<title>UK: TV3 IE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6997.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TV3 IE </link>
+</item>
+<item>
+<title>UK: TV3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7001.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TV3 </link>
+</item>
+<item>
+<title>UK: TV3 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13497.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TV3 1 </link>
+</item>
+<item>
+<title>UK: TLC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7003.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TLC </link>
+</item>
+<item>
+<title>UK: TG4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7004.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TG4 </link>
+</item>
+<item>
+<title>UK: RTE One</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7050.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RTE One </link>
+</item>
+<item>
+<title>UK: RTE Two</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7051.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RTE Two </link>
+</item>
+<item>
+<title>UK: ITVBE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6994.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITVBE </link>
+</item>
+<item>
+<title>UK: ITVBe 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13529.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITVBe 1 </link>
+</item>
+<item>
+<title>UK: Community Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13554.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Community Channel </link>
+</item>
+<item>
+<title>UK: AMC From BT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13567.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: AMC From BT </link>
+</item>
+<item>
+<title>UK: ID</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7063.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ID </link>
+</item>
+<item>
+<title>UK: ID 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13533.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ID 1 </link>
+</item>
+<item>
+<title>UK: Horror Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13585.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Horror Channel </link>
+</item>
+<item>
+<title>UK: Horror Channel +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13586.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Horror Channel +1 </link>
+</item>
+<item>
+<title>UK: Fox</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7089.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Fox </link>
+</item>
+<item>
+<title>UK: Challenge</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13560.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Challenge </link>
+</item>
+<item>
+<title>UK: Challenge +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13559.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Challenge +1 </link>
+</item>
+<item>
+<title>UK: 5USA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7071.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 5USA </link>
+</item>
+<item>
+<title>UK: 5 USA +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13569.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 5 USA +1 </link>
+</item>
+<item>
+<title>UK: 5STAR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7086.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 5STAR </link>
+</item>
+<item>
+<title>UK: 5STAR +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13568.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 5STAR +1 </link>
+</item>
+<item>
+<title>UK: Lifetime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8256.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Lifetime </link>
+</item>
+<item>
+<title>UK: Vintage TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9552.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Vintage TV </link>
+</item>
+<item>
+<title>UK: FineLiving</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9388.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: FineLiving </link>
+</item>
+<item>
+<title>UK: Gold</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12371.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Gold </link>
+</item>
+<item>
+<title>UK: GOLD 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13543.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: GOLD 1 </link>
+</item>
+<item>
+<title>UK: Eden</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12460.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Eden </link>
+</item>
+<item>
+<title>UK: Eden +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12366.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Eden +1 </link>
+</item>
+<item>
+<title>UK: True Drama</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13574.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Drama </link>
+</item>
+<item>
+<title>UK: True Crime 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13498.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Crime 1 </link>
+</item>
+<item>
+<title>UK: tru TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13500.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: tru TV </link>
+</item>
+<item>
+<title>UK: tru TV 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13499.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: tru TV 1 </link>
+</item>
+<item>
+<title>UK: TLC 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13501.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TLC 1 </link>
+</item>
+<item>
+<title>UK: TLC 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13502.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TLC 2 </link>
+</item>
+<item>
+<title>UK: Dunya News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13486.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Dunya News </link>
+</item>
+<item>
+<title>UK: Drama</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13550.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Drama </link>
+</item>
+<item>
+<title>UK: Dmax</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12458.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Dmax </link>
+</item>
+<item>
+<title>UK: Dmax +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12459.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Dmax +1 </link>
+</item>
+<item>
+<title>UK: De Ja Vu</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/11779.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: De Ja Vu </link>
+</item>
+<item>
+<title>UK: W 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13494.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: W 1 </link>
+</item>
+<item>
+<title>UK: W</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13495.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: W </link>
+</item>
+<item>
+<title>UK: Universal +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13571.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Universal +1 </link>
+</item>
+<item>
+<title>UK: Universal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13572.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Universal </link>
+</item>
+<item>
+<title>UK: True Entertainment</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13573.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Entertainment </link>
+</item>
+<item>
+<title>UK: Sky News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9551.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky News </link>
+</item>
+<item>
+<title>UK: Real Lives 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13516.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Real Lives 1 </link>
+</item>
+<item>
+<title>UK: Real Lives</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13517.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Real Lives </link>
+</item>
+<item>
+<title>UK: Tiny Pop +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13575.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Tiny Pop +1 </link>
+</item>
+<item>
+<title>UK: Tiny Pop</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13576.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Tiny Pop </link>
+</item>
+<item>
+<title>UK: The Vault</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13577.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: The Vault </link>
+</item>
+<item>
+<title>UK: Spike</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13508.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Spike </link>
+</item>
+<item>
+<title>UK: RT. News Now</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13515.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RT. News Now </link>
+</item>
+<item>
+<title>UK: PBS America</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13520.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: PBS America </link>
+</item>
+<item>
+<title>UK: Discovery Shed</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6977.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Shed </link>
+</item>
+<item>
+<title>UK: Travel Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7002.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Travel Channel </link>
+</item>
+<item>
+<title>UK: Travel Channel +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/10162.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Travel Channel +1 </link>
+</item>
+<item>
+<title>UK: Really</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7052.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Really </link>
+</item>
+<item>
+<title>UK: Home & Health</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7369.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Home & Health </link>
+</item>
+<item>
+<title>UK: Food Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8392.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Food Network </link>
+</item>
+<item>
+<title>UK: SKY ARTS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7046.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY ARTS </link>
+</item>
+<item>
+<title>UK: Good Food</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13542.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Good Food </link>
+</item>
+<item>
+<title>UK: Good Food 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13541.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Good Food 1 </link>
+</item>
+<item>
+<title>UK: Food Netwrk 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13547.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Food Netwrk 1 </link>
+</item>
+<item>
+<title>UK: Home&Health</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13536.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Home&Health </link>
+</item>
+<item>
+<title>UK: Home</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13537.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Home </link>
+</item>
+<item>
+<title>UK: Home 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13535.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Home 1 </link>
+</item>
+<item>
+<title>UK: Sky Cinema Premiere HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7008.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Premiere HD </link>
+</item>
+<item>
+<title>UK: Sky Cinema Premiere</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7007.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Premiere </link>
+</item>
+<item>
+<title>UK: Sky Cinema Premier +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9557.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Premier +1 </link>
+</item>
+<item>
+<title>UK: Sky Movies Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7012.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Comedy </link>
+</item>
+<item>
+<title>UK: Sky Cinema Action & Adventure</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7013.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Action & Adventure </link>
+</item>
+<item>
+<title>UK: Sky Cinema Family</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7009.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Family </link>
+</item>
+<item>
+<title>UK: Sky Cinema Drama & Romance</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7011.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Drama & Romance </link>
+</item>
+<item>
+<title>UK: Sky Movies Sci-Fi Horror HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7015.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Sci-Fi Horror HD </link>
+</item>
+<item>
+<title>UK: Sky Movies ScFi-Horror</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6975.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies ScFi-Horror </link>
+</item>
+<item>
+<title>UK: Sky Film 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7030.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Film 4 HD </link>
+</item>
+<item>
+<title>UK: Film4 +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13588.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Film4 +1 </link>
+</item>
+<item>
+<title>UK: Sky Cinema Select</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7014.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Select </link>
+</item>
+<item>
+<title>UK: Sky Cinema Disney</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7017.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Disney </link>
+</item>
+<item>
+<title>UK: Sky Universal +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9559.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Universal +1 </link>
+</item>
+<item>
+<title>UK: Sony Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13510.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sony Movies </link>
+</item>
+<item>
+<title>UK: Sony Movies 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13509.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sony Movies 1 </link>
+</item>
+<item>
+<title>UK: TCM</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7006.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TCM </link>
+</item>
+<item>
+<title>UK: Starz TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13578.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Starz TV </link>
+</item>
+<item>
+<title>UK: Star Life OK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13505.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Star Life OK </link>
+</item>
+<item>
+<title>UK: Star Jalsha</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13506.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Star Jalsha </link>
+</item>
+<item>
+<title>UK: Star GOLD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13507.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Star GOLD </link>
+</item>
+<item>
+<title>UK: TCM 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13504.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TCM 1 </link>
+</item>
+<item>
+<title>UK: FILM 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7066.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: FILM 4 </link>
+</item>
+<item>
+<title>UK: True Movies 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6976.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Movies 1 </link>
+</item>
+<item>
+<title>UK: True Movies 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7375.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Movies 2 </link>
+</item>
+<item>
+<title>UK: Movies4Men</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8258.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Movies4Men </link>
+</item>
+<item>
+<title>UK: Movies 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13525.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Movies 24 </link>
+</item>
+<item>
+<title>UK: mov4men 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13526.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: mov4men 1 </link>
+</item>
+<item>
+<title>UK: MOVIES CRIME & THRILLER</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7019.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MOVIES CRIME & THRILLER </link>
+</item>
+<item>
+<title>UK: MOVIES DISNEY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7021.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MOVIES DISNEY </link>
+</item>
+<item>
+<title>UK: MOVIES COMEDY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7022.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MOVIES COMEDY </link>
+</item>
+<item>
+<title>UK:  Sky Cinema Action & Adventure</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7023.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:  Sky Cinema Action & Adventure </link>
+</item>
+<item>
+<title>UK: Syfy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7005.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Syfy </link>
+</item>
+<item>
+<title>UK: Syfy +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9556.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Syfy +1 </link>
+</item>
+<item>
+<title>UK: Sky Atlantic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7045.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Atlantic </link>
+</item>
+<item>
+<title>UK: Sky Atlantic +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9558.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Atlantic +1 </link>
+</item>
+<item>
+<title>UK: SKY SPORTS NEWS HQ HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6981.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS NEWS HQ HD </link>
+</item>
+<item>
+<title>UK: Sky Sports News HQ</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8391.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports News HQ </link>
+</item>
+<item>
+<title>UK: Sky Sports Mix HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13713.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports Mix HD </link>
+</item>
+<item>
+<title>UK: Sky Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8352.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 1 HD </link>
+</item>
+<item>
+<title>UK: Sky Sports 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7035.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 1 </link>
+</item>
+<item>
+<title>UK: Sky Sports 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8351.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 2 HD </link>
+</item>
+<item>
+<title>UK: Sky Sports 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7036.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 2 </link>
+</item>
+<item>
+<title>UK: Sky Sports 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8350.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 3 HD </link>
+</item>
+<item>
+<title>UK: Sky Sports 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7037.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 3 </link>
+</item>
+<item>
+<title>UK: Sky Sports 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9549.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 4 HD </link>
+</item>
+<item>
+<title>UK: Sky Sports 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7038.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 4 </link>
+</item>
+<item>
+<title>UK: Sky Sports 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8349.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 5 HD </link>
+</item>
+<item>
+<title>UK: Sky Sports 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7039.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 5 </link>
+</item>
+<item>
+<title>UK: Sky Sports F1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7987.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports F1 HD </link>
+</item>
+<item>
+<title>UK: SKY SPORTS  F1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7067.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS  F1 </link>
+</item>
+<item>
+<title>UK: Eurosport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7031.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Eurosport 1 </link>
+</item>
+<item>
+<title>UK: Eurosport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7374.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Eurosport 2 </link>
+</item>
+<item>
+<title>UK: Premier Sports</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/10163.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Premier Sports </link>
+</item>
+<item>
+<title>UK: Premier Sport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12498.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Premier Sport </link>
+</item>
+<item>
+<title>UK: Motors TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8257.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Motors TV </link>
+</item>
+<item>
+<title>UK: Horse & Country</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13534.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Horse & Country </link>
+</item>
+<item>
+<title>UK: AT THE RACES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6984.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: AT THE RACES </link>
+</item>
+<item>
+<title>UK: Racing UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7376.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Racing UK </link>
+</item>
+<item>
+<title>UK: Bike</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13599.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Bike </link>
+</item>
+<item>
+<title>UK: BT Sport Mosaic HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9149.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport Mosaic HD </link>
+</item>
+<item>
+<title>UK: BT SPORTS MOSAIC 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12531.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT SPORTS MOSAIC 2 </link>
+</item>
+<item>
+<title>UK: BT Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7041.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport 1 HD </link>
+</item>
+<item>
+<title>UK: BT Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7042.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport 2 HD </link>
+</item>
+<item>
+<title>UK: BT Sport/ESPN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8358.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport/ESPN HD </link>
+</item>
+<item>
+<title>UK: BT Sport ESPN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6985.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport ESPN </link>
+</item>
+<item>
+<title>UK: BT Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8361.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport 2 </link>
+</item>
+<item>
+<title>UK: BT Sport Europe/3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8360.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport Europe/3 HD </link>
+</item>
+<item>
+<title>UK: BT SPORTS EUROPE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7081.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT SPORTS EUROPE </link>
+</item>
+<item>
+<title>UK: BT Sports Extra 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7370.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sports Extra 1 </link>
+</item>
+<item>
+<title>UK: BT Sport Extra 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13565.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport Extra 2 </link>
+</item>
+<item>
+<title>UK: BT Sport Extra 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13564.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport Extra 3 </link>
+</item>
+<item>
+<title>UK: BT Sport Extra 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13563.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport Extra 4 </link>
+</item>
+<item>
+<title>UK: BT Sport Extra 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13562.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport Extra 5 </link>
+</item>
+<item>
+<title>UK: BT Sport Extra 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13561.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport Extra 6 </link>
+</item>
+<item>
+<title>UK: BET</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9148.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BET </link>
+</item>
+<item>
+<title>UK: Setanta HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8241.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Setanta HD </link>
+</item>
+<item>
+<title>UK: Sky Setanta Sports</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7040.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Setanta Sports </link>
+</item>
+<item>
+<title>UK: BOX NATION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7082.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BOX NATION </link>
+</item>
+<item>
+<title>UK: Sky BoxOff (PPV Events Only)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7979.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BoxOff (PPV Events Only) </link>
+</item>
+<item>
+<title>UK: MUTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7043.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MUTV </link>
+</item>
+<item>
+<title>UK: Chelsea TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7044.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Chelsea TV HD </link>
+</item>
+<item>
+<title>UK: Chelsea TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8359.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Chelsea TV </link>
+</item>
+<item>
+<title>UK: Liverpool LFCTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9553.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Liverpool LFCTV </link>
+</item>
+<item>
+<title>UK: Rangers TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12482.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Rangers TV </link>
+</item>
+<item>
+<title>UK: Everton FC TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12484.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Everton FC TV </link>
+</item>
+<item>
+<title>UK: Celtic FC TV (Live for Matches )</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12457.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Celtic FC TV (Live for Matches ) </link>
+</item>
+<item>
+<title>UK: MIO SPORTS 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9299.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MIO SPORTS 1 </link>
+</item>
+<item>
+<title>UK: Mio Sports 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9300.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Mio Sports 2 </link>
+</item>
+<item>
+<title>UK: Mio Sports 3 (Eleven Plus)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9301.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Mio Sports 3 (Eleven Plus) </link>
+</item>
+<item>
+<title>UK: Mio Sports 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9302.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Mio Sports 4 </link>
+</item>
+<item>
+<title>UK: Mio Sports 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9303.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Mio Sports 5 </link>
+</item>
+<item>
+<title>UK: Mio Sports 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9304.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Mio Sports 6 </link>
+</item>
+<item>
+<title>UK: Mio Sports 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9305.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Mio Sports 7 </link>
+</item>
+<item>
+<title>UK: Mio Sports 8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9306.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Mio Sports 8 </link>
+</item>
+<item>
+<title>=======   UK:NEWS   =======</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8246.ts&amp;streamtype=TSDOWNLOADER&amp;name========   UK:NEWS   ======= </link>
+</item>
+<item>
+<title>UK: BBC News HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8362.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC News HD </link>
+</item>
+<item>
+<title>UK: BBC News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7371.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC News </link>
+</item>
+<item>
+<title>UK: NHK World Ja EN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/2900.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: NHK World Ja EN </link>
+</item>
+<item>
+<title>=======   UK:DOCUMENTARIES   =======</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8247.ts&amp;streamtype=TSDOWNLOADER&amp;name========   UK:DOCUMENTARIES   ======= </link>
+</item>
+<item>
+<title>UK: Discovery Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7026.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Channel </link>
+</item>
+<item>
+<title>Uk: Discovery Channel +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/10161.ts&amp;streamtype=TSDOWNLOADER&amp;name=Uk: Discovery Channel +1 </link>
+</item>
+<item>
+<title>UK: Discovery Turbo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6979.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Turbo </link>
+</item>
+<item>
+<title>UK: Discovery Science</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7028.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Science </link>
+</item>
+<item>
+<title>UK: Disc.Sci 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13551.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disc.Sci 1 </link>
+</item>
+<item>
+<title>UK: Animal Planet</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7047.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Animal Planet </link>
+</item>
+<item>
+<title>UK: Animal Planet +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13566.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Animal Planet +1 </link>
+</item>
+<item>
+<title>UK: Nat Geo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7367.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nat Geo </link>
+</item>
+<item>
+<title>UK: Nat Geo Wild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7025.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nat Geo Wild </link>
+</item>
+<item>
+<title>UK: Discovery History HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7029.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery History HD </link>
+</item>
+<item>
+<title>UK: Disc.History 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13552.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disc.History 1 </link>
+</item>
+<item>
+<title>UK: YESTERDAY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/6999.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: YESTERDAY </link>
+</item>
+<item>
+<title>UK: Yesterday +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12375.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Yesterday +1 </link>
+</item>
+<item>
+<title>UK: Investigation Discovery</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7368.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Investigation Discovery </link>
+</item>
+<item>
+<title>UK: CRIME & THRILLER</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7073.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CRIME & THRILLER </link>
+</item>
+<item>
+<title>UK: Crime & Investigation</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7074.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Crime & Investigation </link>
+</item>
+<item>
+<title>UK: Crime Inv  1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13553.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Crime Inv  1 </link>
+</item>
+<item>
+<title>UK: H2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13540.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: H2 </link>
+</item>
+<item>
+<title>UK: History</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13539.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: History </link>
+</item>
+<item>
+<title>UK: History 1 hour</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13538.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: History 1 hour </link>
+</item>
+<item>
+<title>UK: GEO TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13544.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: GEO TV </link>
+</item>
+<item>
+<title>=======   UK:CHILDREN’S   =======</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8251.ts&amp;streamtype=TSDOWNLOADER&amp;name========   UK:CHILDREN’S   ======= </link>
+</item>
+<item>
+<title>UK: Nickelodeon 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13521.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nickelodeon 1 </link>
+</item>
+<item>
+<title>UK: Baby TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/11778.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Baby TV </link>
+</item>
+<item>
+<title>UK: Kix</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/11469.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Kix </link>
+</item>
+<item>
+<title>UK: Kix +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13584.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Kix +1 </link>
+</item>
+<item>
+<title>UK: Cartoon Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7034.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Cartoon Network </link>
+</item>
+<item>
+<title>UK: NickJr Too</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7543.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: NickJr Too </link>
+</item>
+<item>
+<title>UK: Nick Jr  +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7544.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nick Jr  +1 </link>
+</item>
+<item>
+<title>UK: Nicktoons</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7055.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nicktoons </link>
+</item>
+<item>
+<title>UK: Disney Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7542.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney Junior </link>
+</item>
+<item>
+<title>UK: Disney Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7032.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney Channel </link>
+</item>
+<item>
+<title>UK: Disney Channel +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9555.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney Channel +1 </link>
+</item>
+<item>
+<title>UK: Nickelodeon</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7366.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nickelodeon </link>
+</item>
+<item>
+<title>UK: Nickelodeon +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12368.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nickelodeon +1 </link>
+</item>
+<item>
+<title>UK: DISNEY XD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7070.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISNEY XD </link>
+</item>
+<item>
+<title>UK: DISNEY XD +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12370.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISNEY XD +1 </link>
+</item>
+<item>
+<title>UK: CBEEBIES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7079.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBEEBIES </link>
+</item>
+<item>
+<title>UK: CBBC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7080.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBBC </link>
+</item>
+<item>
+<title>UK: Cartoonito</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8254.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Cartoonito </link>
+</item>
+<item>
+<title>UK: Boomerang +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13597.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Boomerang +1 </link>
+</item>
+<item>
+<title>UK: Boomerang</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13598.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Boomerang </link>
+</item>
+<item>
+<title>=======   UK:MUSIC  =======</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8253.ts&amp;streamtype=TSDOWNLOADER&amp;name========   UK:MUSIC  ======= </link>
+</item>
+<item>
+<title>UK: MTV Music</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13582.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Music </link>
+</item>
+<item>
+<title>UK: MTV 90s</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13485.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV 90s </link>
+</item>
+<item>
+<title>UK: MTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7061.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV </link>
+</item>
+<item>
+<title>UK: MTV +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13523.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV +1 </link>
+</item>
+<item>
+<title>UK: MTV Base</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7060.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Base </link>
+</item>
+<item>
+<title>UK: MTV Hits</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7057.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Hits </link>
+</item>
+<item>
+<title>UK: MTV Dance</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7058.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Dance </link>
+</item>
+<item>
+<title>UK: MTV Rocks</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7056.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Rocks </link>
+</item>
+<item>
+<title>UK: MTV Classic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7059.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Classic </link>
+</item>
+<item>
+<title>UK: VH1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/7000.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: VH1 </link>
+</item>
+<item>
+<title>UK: VIVA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8259.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: VIVA </link>
+</item>
+<item>
+<title>UK: Scuzz</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13579.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Scuzz </link>
+</item>
+<item>
+<title>UK: 4Music</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13570.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 4Music </link>
+</item>
+<item>
+<title>UK: POP +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13580.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: POP +1 </link>
+</item>
+<item>
+<title>UK: POP</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13581.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: POP </link>
+</item>
+<item>
+<title>USA: TNT HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13180.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TNT HD </link>
+</item>
+<item>
+<title>USA: Sportsnet West HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13232.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Sportsnet West HD </link>
+</item>
+<item>
+<title>USA: Spike HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13179.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Spike HD </link>
+</item>
+<item>
+<title>USA: ESPN U HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13229.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: ESPN U HD </link>
+</item>
+<item>
+<title>USA: ESPN 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13230.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: ESPN 2 HD </link>
+</item>
+<item>
+<title>USA: BeIN Sports USA HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/13227.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: BeIN Sports USA HD </link>
+</item>
+<item>
+<title>USA: StarzZ  Edge</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/10171.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: StarzZ  Edge </link>
+</item>
+<item>
+<title>USA: NHL Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12479.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NHL Network </link>
+</item>
+<item>
+<title>USA: Fox</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/10174.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Fox </link>
+</item>
+<item>
+<title>USA: AFN SPECTRUM</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/10166.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: AFN SPECTRUM </link>
+</item>
+<item>
+<title>USA: AFN Prime Atlantic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/10167.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: AFN Prime Atlantic </link>
+</item>
+<item>
+<title>USA: Star Z Cinema</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9832.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Star Z Cinema </link>
+</item>
+<item>
+<title>USA: PAC-12 Washington HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/10143.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: PAC-12 Washington HD </link>
+</item>
+<item>
+<title>USA: HBO Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9831.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: HBO Comedy </link>
+</item>
+<item>
+<title>USA: DTX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9547.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: DTX </link>
+</item>
+<item>
+<title>USA: Discovery Science</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9546.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Discovery Science </link>
+</item>
+<item>
+<title>USA: TBN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9542.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TBN </link>
+</item>
+<item>
+<title>USA: Church Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9536.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Church Channel </link>
+</item>
+<item>
+<title>USA: A&E</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9315.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: A&E </link>
+</item>
+<item>
+<title>USA: AFN MOVIE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9488.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: AFN MOVIE </link>
+</item>
+<item>
+<title>USA: AFN SPORTS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9516.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: AFN SPORTS </link>
+</item>
+<item>
+<title>USA: AFN SPORTS 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9517.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: AFN SPORTS 2 </link>
+</item>
+<item>
+<title>USA: AMG TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9511.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: AMG TV </link>
+</item>
+<item>
+<title>USA: Astro SUPERSPORT 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9518.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Astro SUPERSPORT 1 </link>
+</item>
+<item>
+<title>USA: Astro SUPERSPORT 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9519.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Astro SUPERSPORT 2 </link>
+</item>
+<item>
+<title>USA: Astro SUPERSPORT 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9520.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Astro SUPERSPORT 3 </link>
+</item>
+<item>
+<title>USA: Bloomberg</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9510.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Bloomberg </link>
+</item>
+<item>
+<title>USA: Boston City TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9509.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Boston City TV </link>
+</item>
+<item>
+<title>USA: BYU Sports TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9529.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: BYU Sports TV HD </link>
+</item>
+<item>
+<title>USA: CBS Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9340.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: CBS Action </link>
+</item>
+<item>
+<title>USA: CBS DRAMA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9339.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: CBS DRAMA </link>
+</item>
+<item>
+<title>USA: CBS News HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9508.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: CBS News HD </link>
+</item>
+<item>
+<title>USA: CBS Reality</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9338.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: CBS Reality </link>
+</item>
+<item>
+<title>USA: C-SPAN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9318.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: C-SPAN </link>
+</item>
+<item>
+<title>USA: CSPAN 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9319.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: CSPAN 2 </link>
+</item>
+<item>
+<title>USA: C-SPAN 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9320.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: C-SPAN 3 </link>
+</item>
+<item>
+<title>USA: E! Network HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9321.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: E! Network HD </link>
+</item>
+<item>
+<title>USA: Food Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9337.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Food Network </link>
+</item>
+<item>
+<title>USA: Fox Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9391.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Fox Sport 2 </link>
+</item>
+<item>
+<title>USA: Fox Sports 506 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9528.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Fox Sports 506 HD </link>
+</item>
+<item>
+<title>USA: HSN 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9512.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: HSN 1 </link>
+</item>
+<item>
+<title>USA: HSN 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9513.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: HSN 2 </link>
+</item>
+<item>
+<title>USA: Mello TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9502.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Mello TV </link>
+</item>
+<item>
+<title>USA: Mute TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9487.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Mute TV </link>
+</item>
+<item>
+<title>USA: NASA TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9324.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NASA TV </link>
+</item>
+<item>
+<title>USA: Nasa TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9499.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Nasa TV HD </link>
+</item>
+<item>
+<title>USA: NBC Golf HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9526.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBC Golf HD </link>
+</item>
+<item>
+<title>USA: NBC SN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9523.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBC SN </link>
+</item>
+<item>
+<title>USA: Nick</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9333.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Nick </link>
+</item>
+<item>
+<title>USA: Poker Central</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9326.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Poker Central </link>
+</item>
+<item>
+<title>USA: RT America HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9498.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: RT America HD </link>
+</item>
+<item>
+<title>USA: RT Documentary</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9497.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: RT Documentary </link>
+</item>
+<item>
+<title>USA: The Florida Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9495.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: The Florida Channel </link>
+</item>
+<item>
+<title>USA: TLC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9480.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TLC HD </link>
+</item>
+<item>
+<title>USA: Travel Channel HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9476.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Travel Channel HD </link>
+</item>
+<item>
+<title>USA: Tru TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9330.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Tru TV HD </link>
+</item>
+<item>
+<title>USA: Twit TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9485.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Twit TV </link>
+</item>
+<item>
+<title>USA: UC TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9492.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: UC TV </link>
+</item>
+<item>
+<title>USA: USA Network HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9329.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: USA Network HD </link>
+</item>
+<item>
+<title>USA: Versus NBA HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9524.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Versus NBA HD </link>
+</item>
+<item>
+<title>USA: WHDH</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9491.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: WHDH </link>
+</item>
+<item>
+<title>USA: Willow HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9328.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Willow HD </link>
+</item>
+<item>
+<title>USA: WWE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9530.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: WWE </link>
+</item>
+<item>
+<title>USA: BLOOMBERG U.S.A.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9472.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: BLOOMBERG U.S.A. </link>
+</item>
+<item>
+<title>USA: DTX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9475.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: DTX HD </link>
+</item>
+<item>
+<title>USA: Bravo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8691.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Bravo </link>
+</item>
+<item>
+<title>USA: CNN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8692.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: CNN HD </link>
+</item>
+<item>
+<title>USA: FOX Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8681.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: FOX Sport 1 </link>
+</item>
+<item>
+<title>USA: LIFE TIME</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8687.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: LIFE TIME </link>
+</item>
+<item>
+<title>USA: NFL Network HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8693.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NFL Network HD </link>
+</item>
+<item>
+<title>USA: TBS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8685.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TBS HD </link>
+</item>
+<item>
+<title>USA: HBO ZONE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8412.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: HBO ZONE </link>
+</item>
+<item>
+<title>USA: HBO HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8411.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: HBO HD </link>
+</item>
+<item>
+<title>USA: HBO FAMILY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8414.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: HBO FAMILY </link>
+</item>
+<item>
+<title>USA: E!</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8417.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: E! </link>
+</item>
+<item>
+<title>USA: AMC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8415.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: AMC HD </link>
+</item>
+<item>
+<title>USA: Tsn Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8293.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Tsn Sport 1 HD </link>
+</item>
+<item>
+<title>USA: Tsn Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8292.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Tsn Sport 2 HD </link>
+</item>
+<item>
+<title>USA: Tsn Sport 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8291.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Tsn Sport 3 HD </link>
+</item>
+<item>
+<title>USA: Tsn Sport 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8290.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Tsn Sport 4 HD </link>
+</item>
+<item>
+<title>USA: Tsn-Sport 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8289.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Tsn-Sport 5 HD </link>
+</item>
+<item>
+<title>USA: Tsn Sport 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/12547.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Tsn Sport 5 HD </link>
+</item>
+<item>
+<title>USA: WWE Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8410.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: WWE Network </link>
+</item>
+<item>
+<title>OSN: PPV WWE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/9151.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN: PPV WWE HD </link>
+</item>
+<item>
+<title>USA: NBA TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8309.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBA TV </link>
+</item>
+<item>
+<title>USA: Fight Sport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8308.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Fight Sport </link>
+</item>
+<item>
+<title>USA: UALR TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/3865.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: UALR TV </link>
+</item>
+<item>
+<title>USA: NBC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/8393.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBC </link>
+</item>
+<item>
+<title>USA: Country Music Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/3859.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Country Music Channel </link>
+</item>
+<item>
+<title>USA: Channel 11</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/3860.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Channel 11 </link>
+</item>
+<item>
+<title>USA: CBN News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/3872.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: CBN News </link>
+</item>
+<item>
+<title>USA: ASD TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/3861.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: ASD TV </link>
+</item>
+<item>
+<title>USA: 360 North</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/3863.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: 360 North </link>
+</item>
+<item>
+<title>USA: Versus</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/2904.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Versus </link>
+</item>
+<item>
+<title>USA: ABC News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/albanez/albanez/2931.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: ABC News </link>
+</item>
 
 
 
