@@ -134,13 +134,21 @@
 
 <item>
 <title>[COLOR=red][B][I] SIC [/I][/B][/COLOR]   [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.sporttvgratishd.com/index.php?canal=sic</sportsdevil>
 <sportsdevil>http://www.estadiofutebol.com/gratis/sic</sportsdevil>
-<sportsdevil>http://www.sporttvonlinehd.com/index.php?canal=sic</sportsdevil>
 <sportsdevil>http://ontvfree2.me/sic-pt-online</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sic.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR=red][B][I] SIC SD [/I][/B][/COLOR]    [COLOR=orange](WebTV)[/COLOR]</title>
+
+<link>http://live.impresa.pt/live/sic/sic540p.m3u8</link>
+
+<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
+<fanart>http://iptv.cline.in:80/live/greg/greg/1166.m3u8</fanart>
+</item>
 
 <item> 
 <title>[COLOR=red][B][I] SIC  [/I][/B][/COLOR]   [COLOR=orange](WebTV)[/COLOR]</title>
@@ -165,10 +173,10 @@
 <item>
 <title>[COLOR=red][B][I] SIC HD [/I][/B][/COLOR]   [COLOR=cyan]F4MTESTER[/COLOR]</title>
 
-<link>http://live.impresa.pt/live/sic/sic540p.m3u8</link>
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/1964.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SIC HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/760.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC </link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1068.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC SD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/825.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC HD </link>
 <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
 <fanart>http://iptv.cline.in:80/live/greg/greg/1166.m3u8</fanart>
 </item>
@@ -1453,8 +1461,8 @@ SIC NOTICIAS
 
 <item>
 <title>[COLOR=white][B][I] TVI REALITY HD [/I][/B][/COLOR]   [COLOR lime]F4MTESTER[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/5/www.iptvrestream.net/3974.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVsupertuga </link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/5/www.iptvrestream.net/3946.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVsupertuga </link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/710.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVI REALITY </link>
+
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
 </item>
 
@@ -2306,9 +2314,12 @@ SIC NOTICIAS
 <item>
 <title>[COLOR magenta] [I] TV CINE 1 HD [/I] [/COLOR]  [COLOR=lime]F4MTESTER[/COLOR] </title>
 
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/743.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 1 HD </link>
+
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/744.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 1 </link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1145.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCINE_1_HD </link>
 
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3056.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 1 HD </link>
 
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine1.png</thumbnail>
 </regex>
@@ -2327,10 +2338,11 @@ SIC NOTICIAS
 <item>
 <title>[COLOR magenta] [I] TV CINE 2 HD [/I] [/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
 
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/712.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 2 HD </link>
+
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/742.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 2 </link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1146.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCINE_2_HD </link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3057.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 2HD </link>
-
 
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine2.png</thumbnail>
 </regex>
@@ -2346,10 +2358,11 @@ SIC NOTICIAS
 <item>
 <title>[COLOR magenta] [I] TV CINE 3 [/I] [/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
 
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/711.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 3 HD </link>
+
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/741.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 3 </link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/886.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCINE_3_HD </link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3058.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 3HD </link>
-
 
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine3.png</thumbnail>
 </regex>
@@ -2366,10 +2379,12 @@ SIC NOTICIAS
 <item>
 <title>[COLOR magenta] [I] TV CINE 4 [/I] [/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
 
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/841.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 4 HD </link>
+
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/740.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 4 </link>
+
+
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1147.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCINE_4_HD </link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3059.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 4 HD </link>
-
 
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine4.png</thumbnail>
 </regex>
@@ -2386,12 +2401,13 @@ SIC NOTICIAS
 <item>
 <title>[COLOR magenta] [I] TV SERIES [/I] [/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
 
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/709.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV SERIES HD </link>
+
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/736.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV SERIES </link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1152.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_SERIES </link>
 
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3068.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TV SERIES HD </link>
-
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1395.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCINE_5_HD </link>
-
 
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvseries.png</thumbnail>
 </regex>
@@ -2399,6 +2415,8 @@ SIC NOTICIAS
 
 <item>
 <title>[COLOR magenta] [I] CINEMUNDO [/I] [/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/801.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO </link>
 
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/507.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CINEMUNDO </link>
 
@@ -2866,7 +2884,15 @@ SIC NOTICIAS
 </item>
 
 
+<item>
+<title>[COLOR blue] [I]SPORT TV +[/I] [/COLOR] [COLOR orange]F4MTESTER[/COLOR]</title>
 
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/970.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV + </link>
+
+
+<thumbnail>http://www.onlinenatv.com/wp-content/uploads/2016/10/sport.tv_.portugal.jpg?x78568</thumbnail>
+<fanart></fanart>
+</item>
 
 
 
@@ -2881,8 +2907,12 @@ SIC NOTICIAS
 
 <item>
 <title>[COLOR blue] [I]SPORT TV 1 HD[/I] [/COLOR] [COLOR orange]F4MTESTER[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1072.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1442.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 HD
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1617.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTTV1 LOW </link>
 
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3007.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Sports TV1 </link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/755.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1066.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 SD </link>
 
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/501.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORT_TV_1 </link>
 
@@ -2911,10 +2941,13 @@ SIC NOTICIAS
 
 <item>
 <title>[COLOR blue] [I]SPORT TV 2 HD[/I] [/COLOR] [COLOR orange]F4MTESTER[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/752.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 HD </link>
+
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 </link>
+
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/753.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 </link>
 
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORT_TV_2_HD </link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3003.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Sports TV2 </link>
 
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORT_TV_2 </link>
 
@@ -2943,10 +2976,12 @@ SIC NOTICIAS
 
 <item>
 <title>[COLOR blue] [I]SPORT TV 3 HD[/I] [/COLOR] [COLOR orange]F4MTESTER[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/824.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 HD </link>
+
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/751.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 </link>
 
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1135.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORT_TV_3 </link>
 
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3004.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Sports TV3 </link>
 		
 <thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
 <fanart></fanart>
@@ -2973,11 +3008,11 @@ SIC NOTICIAS
 <item>
 <title>[COLOR blue] [I]SPORT TV 4 HD[/I] [/COLOR] [COLOR orange]F4MTESTER[/COLOR]</title>
 
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1441.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 HD </link>
+
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/750.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 </link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1136.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORT_TV_4 </link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3005.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Sports TV4 </link>
-
-
 
 <thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
 <fanart></fanart>
@@ -2996,10 +3031,10 @@ SIC NOTICIAS
 
 <item>
 <title>[COLOR blue][B][I]SPORT TV 5 HD [/I][/B][/COLOR] [COLOR orange]F4MTESTER[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/717.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 </link>
 
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1137.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORT_TV_5 </link>
 
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3006.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Sports TV5 </link>
 
 
 <thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
@@ -3698,11 +3733,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR blue] [I]EUROSPORT 1 HD[/COLOR][/I]  [COLOR orange]F4MTESTER[/COLOR]</title>
 
- <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/170216/170216/928.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSport</link> 
-
-  <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/62.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1 HD</link> 
-
-<link>plugin://plugin.video.f4mTester/?url=http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/60.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1</link> 
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/725.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 HD </link>
 
 <link>http://85.25.43.23:8080/hls/volex_04.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport.png</thumbnail>
@@ -3718,11 +3749,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR blue] [I]EUROSPORT 2 HD[/COLOR][/I]  [COLOR orange]F4MTESTER[/COLOR]</title>
 
- <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/170216/170216/927.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSport 2</link> 
-
-  <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/726.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 2 Xtra HD</link> 
-
- <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/61.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 2</link> 
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/793.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 </link>
 
 <link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/british_eurosport_2.png</thumbnail>
@@ -3731,6 +3758,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>[COLOR blue] [I]EUROSPORT 2 XTRA HD[/COLOR][/I]  [COLOR orange]F4MTESTER[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/792.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 XTRA HD </link>
 
  <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/8911.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSport 2</link> 
 
