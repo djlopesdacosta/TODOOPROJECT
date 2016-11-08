@@ -37,314 +37,157 @@
 
 
 
-
 <item>
-<title>PT: TVI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/1055.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI </link>
+<title> RTP 1</title>
+<link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rtp_1_pt.png" group-title="Generalistas", RTP 1&amp;streamtype=TSDOWNLOADER&amp;name= RTP 1 </link>
 </item>
-<item>
-<title>PT: TVI 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/1054.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24 </link>
-</item>
-<item>
-<title>PT: TVI REALITY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2050.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI REALITY </link>
-</item>
-<item>
-<title>PT: TVI FICCAO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2051.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI FICCAO </link>
-</item>
-<item>
-<title>PT: Plus TVI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2478.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Plus TVI </link>
-</item>
-<item>
-<title>PT: SIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/1964.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC </link>
-</item>
-<item>
-<title>PT: SIC NOTICIAS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2053.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC NOTICIAS </link>
-</item>
-<item>
-<title>PT: SIC MULHER</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2054.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC MULHER </link>
-</item>
-<item>
-<title>PT: SIC K</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2052.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC K </link>
-</item>
-<item>
-<title>PT: SyFy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2474.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SyFy </link>
-</item>
-<item>
-<title>PT: HollyWood SD/HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2479.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: HollyWood SD/HD </link>
-</item>
-<item>
-<title>PT: Economico TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2482.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Economico TV </link>
-</item>
-<item>
-<title>PT: Caca & Pesca</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2485.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Caca & Pesca </link>
-</item>
-<item>
-<title>PT: Abola TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2486.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Abola TV </link>
-</item>
-<item>
-<title>PT: 24 Kitchen</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2487.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: 24 Kitchen </link>
-</item>
-<item>
-<title>PT: CM TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2078.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CM TV </link>
-</item>
-<item>
-<title>PT: PFC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2069.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PFC </link>
-</item>
-<item>
-<title>PT: TLC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2389.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TLC </link>
-</item>
-<item>
-<title>PT: Odisseia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2433.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Odisseia </link>
-</item>
-<item>
-<title>PT: MOV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2432.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD </link>
-</item>
-<item>
-<title>PT: Historia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2431.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Historia </link>
+<link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/1&amp;streamtype=TSDOWNLOADER&amp;name= RTP 1 </link>
 </item>
 <item>
-<title>PT: Porto Canal</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2072.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Porto Canal </link>
+<title> RTP 2</title>
+<link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rtp_2_pt.png" group-title="Generalistas", RTP 2&amp;streamtype=TSDOWNLOADER&amp;name= RTP 2 </link>
 </item>
-<item>
-<title>PT: REAL MADRID TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2079.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: REAL MADRID TV </link>
-</item>
-<item>
-<title>PT: E! Entertaunment</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2483.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: E! Entertaunment </link>
-</item>
-<item>
-<title>PT: Cancao Nova</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2753.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cancao Nova </link>
-</item>
-<item>
-<title>PT: Cartoon NetWork</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2484.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cartoon NetWork </link>
-</item>
-<item>
-<title>PT: PANDA BIGGS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2073.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PANDA BIGGS </link>
+<link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/2&amp;streamtype=TSDOWNLOADER&amp;name= RTP 2 </link>
 </item>
 <item>
-<title>PT: Nickelodeon</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2074.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nickelodeon </link>
+<title> SIC</title>
+<link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sic_pt.png" group-title="Generalistas", SIC&amp;streamtype=TSDOWNLOADER&amp;name= SIC </link>
 </item>
-<item>
-<title>PT: Canal Panda</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2075.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Panda </link>
-</item>
-<item>
-<title>PT: BABY TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2077.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BABY TV </link>
-</item>
-<item>
-<title>PT: Disney Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2071.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Junior </link>
+<link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/3&amp;streamtype=TSDOWNLOADER&amp;name= SIC </link>
 </item>
 <item>
-<title>PT: Disney Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2070.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel </link>
+<title> TVI</title>
+<link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tvi_pt.png" group-title="Generalistas", TVI&amp;streamtype=TSDOWNLOADER&amp;name= TVI </link>
 </item>
-<item>
-<title>PT: CINEMUNDO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2059.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CINEMUNDO </link>
-</item>
-<item>
-<title>PT: AMC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2076.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AMC </link>
-</item>
-<item>
-<title>PT: CBS Reality</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2066.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CBS Reality </link>
+<link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/4&amp;streamtype=TSDOWNLOADER&amp;name= TVI </link>
 </item>
 <item>
-<title>PT: TV record</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/1967.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV record </link>
+<title> SIC Notícias</title>
+<link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sic_pt_noticias.png" group-title="Generalistas", SIC Notícias&amp;streamtype=TSDOWNLOADER&amp;name= SIC Notícias </link>
 </item>
-<item>
-<title>PT: TV Globo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2062.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo </link>
+<link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/5&amp;streamtype=TSDOWNLOADER&amp;name= SIC Notícias </link>
 </item>
 <item>
-<title>PT: TV GLOBO PREMIUM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/1968.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO PREMIUM </link>
+<title> CMTV</title>
+<link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cm_tv_pt.png" group-title="Generalistas", CMTV&amp;streamtype=TSDOWNLOADER&amp;name= CMTV </link>
 </item>
-<item>
-<title>PT: RTP 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/1971.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1 </link>
+<link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/6&amp;streamtype=TSDOWNLOADER&amp;name= CMTV </link>
 </item>
 <item>
-<title>PT: RTP 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/1970.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2 </link>
+<title> TVI 24</title>
+<link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tvi_24.png" group-title="Generalistas", TVI 24&amp;streamtype=TSDOWNLOADER&amp;name= TVI 24 </link>
 </item>
-<item>
-<title>PT: RTP 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/1969.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 3 </link>
+<link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/9&amp;streamtype=TSDOWNLOADER&amp;name= TVI 24 </link>
 </item>
 <item>
-<title>PT: RTP MEMORIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2056.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP MEMORIA </link>
+<title> RTP 3</title>
+<link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="RTPNinformacao.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rtp_3_pt.png" group-title="Generalistas", RTP 3&amp;streamtype=TSDOWNLOADER&amp;name= RTP 3 </link>
 </item>
-<item>
-<title>PT: RTP MADEIRA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2055.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP MADEIRA </link>
+<link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/10&amp;streamtype=TSDOWNLOADER&amp;name= RTP 3 </link>
 </item>
 <item>
-<title>PT: RTP AFRICA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2057.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP AFRICA </link>
+<title> Porto Canal</title>
+<link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="RTPNinformacao.pt" tvg-logo="http://www.lyngsat-logo.com/hires/pp/porto_canal.png" group-title="Generalistas", Porto Canal&amp;streamtype=TSDOWNLOADER&amp;name= Porto Canal </link>
 </item>
-<item>
-<title>PT: RTP ACORES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2058.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP ACORES </link>
+<link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/11&amp;streamtype=TSDOWNLOADER&amp;name= Porto Canal </link>
 </item>
 <item>
-<title>PT: NATIONAL GEOGRAPHIC HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/1972.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NATIONAL GEOGRAPHIC HD </link>
+<title> TVI Reality</title>
+<link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="TVIdirect.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tvi_reality_pt.png" group-title="Generalistas", TVI Reality&amp;streamtype=TSDOWNLOADER&amp;name= TVI Reality </link>
 </item>
-<item>
-<title>PT: Nat Geographic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2067.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nat Geographic </link>
+<link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23&amp;streamtype=TSDOWNLOADER&amp;name= TVI Reality </link>
 </item>
 <item>
-<title>PT: Nat Geo Wild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2068.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nat Geo Wild </link>
+<title>Globo Premium</title>
+<link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/40&amp;streamtype=TSDOWNLOADER&amp;name=Globo Premium </link>
 </item>
 <item>
-<title>PT: Discovery HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2065.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery HD </link>
+<title> Record</title>
+<link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="tvrecord.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rede_record_br.png" group-title="Generalistas", Record&amp;streamtype=TSDOWNLOADER&amp;name= Record </link>
 </item>
-<item>
-<title>PT: CMTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/1965.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CMTV </link>
+<link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/31&amp;streamtype=TSDOWNLOADER&amp;name= Record </link>
 </item>
 <item>
-<title>PT: TVCine 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/1059.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 1 HD </link>
+<title> Cartoon Network</title>
+<link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="cartoon.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="Animação, Cartoon Network&amp;streamtype=TSDOWNLOADER&amp;name= Cartoon Network </link>
 </item>
-<item>
-<title>PT: TVCine 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/1058.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 2 HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/39&amp;streamtype=TSDOWNLOADER&amp;name= Cartoon Network </link>
 </item>
 <item>
-<title>PT: TVCine 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/1057.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 3 HD </link>
+<title> Disney Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="DisneyJunior.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="Animação", Disney Junior&amp;streamtype=TSDOWNLOADER&amp;name= Disney Junior </link>
 </item>
-<item>
-<title>PT: TVCine 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/1056.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 4 HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/42&amp;streamtype=TSDOWNLOADER&amp;name= Disney Junior </link>
 </item>
 <item>
-<title>PT: TV Series</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/1693.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Series </link>
+<title> Canal Panda</title>
+<link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="canalpanda.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/canal_panda_pt.png" group-title="Animação", Canal Panda&amp;streamtype=TSDOWNLOADER&amp;name= Canal Panda </link>
 </item>
-<item>
-<title>PT: FOX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/1694.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/43&amp;streamtype=TSDOWNLOADER&amp;name= Canal Panda </link>
 </item>
 <item>
-<title>PT: FOX Movies</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2063.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX Movies </link>
+<title> BIGGS</title>
+<link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="PandaBiggs.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/panda_biggs.png" group-title="Animação", BIGGS&amp;streamtype=TSDOWNLOADER&amp;name= BIGGS </link>
 </item>
-<item>
-<title>PT: Fox Comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2144.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Comedy </link>
+<link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/44&amp;streamtype=TSDOWNLOADER&amp;name= BIGGS </link>
 </item>
 <item>
-<title>PT: FOX Crime HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2480.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX Crime HD </link>
+<title> Hollywood</title>
+<link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="hollywood.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/canal_hollywood_pt.png" group-title="Cinema", Hollywood&amp;streamtype=TSDOWNLOADER&amp;name= Hollywood </link>
 </item>
-<item>
-<title>PT: FOX Crime</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2754.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX Crime </link>
+<link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/66&amp;streamtype=TSDOWNLOADER&amp;name= Hollywood </link>
 </item>
 <item>
-<title>PT: FOX LIFE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2064.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX LIFE HD </link>
+<title> FOX Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ff/fox_movies_pt.png" group-title="Cinema", FOX Movies&amp;streamtype=TSDOWNLOADER&amp;name= FOX Movies </link>
 </item>
-<item>
-<title>PT: AXN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/1046.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/71&amp;streamtype=TSDOWNLOADER&amp;name= FOX Movies </link>
 </item>
 <item>
-<title>PT: AXN WHITE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2061.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN WHITE HD </link>
+<title> Sport TV+</title>
+<link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sport_tv1_pt.png" group-title="Desporto", Sport TV+&amp;streamtype=TSDOWNLOADER&amp;name= Sport TV+ </link>
 </item>
-<item>
-<title>PT: AXN BLACK HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2060.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN BLACK HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/78&amp;streamtype=TSDOWNLOADER&amp;name= Sport TV+ </link>
 </item>
 <item>
-<title>PT: SPORT TV AMERICA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2477.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV AMERICA </link>
+<title> Sport TV 1</title>
+<link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sport_tv1_pt.png" group-title="Desporto", Sport TV 1&amp;streamtype=TSDOWNLOADER&amp;name= Sport TV 1 </link>
 </item>
-<item>
-<title>PT: Benfica TV 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/1090.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica TV 1 HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/79&amp;streamtype=TSDOWNLOADER&amp;name= Sport TV 1 </link>
 </item>
 <item>
-<title>PT: Benfica TV 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2542.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica TV 1 </link>
+<title> Sport TV 2</title>
+<link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sport_tv2_pt.png" group-title="Desporto", Sport TV 2&amp;streamtype=TSDOWNLOADER&amp;name= Sport TV 2 </link>
 </item>
-<item>
-<title>PT: Benfica TV 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/1966.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica TV 2 </link>
+<link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/81&amp;streamtype=TSDOWNLOADER&amp;name= Sport TV 2 </link>
 </item>
 <item>
-<title>PT: Sport TV 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/1797.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV 1 HD </link>
+<title> Sport TV 3</title>
+<link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sport_tv3_pt.png" group-title="Desporto", Sport TV 3&amp;streamtype=TSDOWNLOADER&amp;name= Sport TV 3 </link>
 </item>
-<item>
-<title>PT: Sport TV 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/858.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV 1 </link>
+<link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/83&amp;streamtype=TSDOWNLOADER&amp;name= Sport TV 3 </link>
 </item>
 <item>
-<title>PT: Sport TV 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/857.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV 2 </link>
+<title> Sport TV 4</title>
+<link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sport_tv4_pt.png" group-title="Desporto", Sport TV 4&amp;streamtype=TSDOWNLOADER&amp;name= Sport TV 4 </link>
 </item>
-<item>
-<title>PT: Sport TV 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/856.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV 3 </link>
+<link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/84&amp;streamtype=TSDOWNLOADER&amp;name= Sport TV 4 </link>
 </item>
 <item>
-<title>PT: Sport TV 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/855.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV 4 </link>
+<title> Sport TV 5</title>
+<link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="https://soombo.com/assets/images/200_1459188732.png" group-title="Desporto", Sport TV 5&amp;streamtype=TSDOWNLOADER&amp;name= Sport TV 5 </link>
 </item>
-<item>
-<title>PT: Sport TV 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2475.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV 5 </link>
+<link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/86&amp;streamtype=TSDOWNLOADER&amp;name= Sport TV 5 </link>
 </item>
 <item>
-<title>PT: Sporting TV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2476.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sporting TV HD </link>
+<title> BTV 1</title>
+<link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png" group-title="Desporto", BTV 1&amp;streamtype=TSDOWNLOADER&amp;name= BTV 1 </link>
 </item>
-<item>
-<title>PT: EuroSport 1 HD/SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/2481.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSport 1 HD/SD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/88&amp;streamtype=TSDOWNLOADER&amp;name= BTV 1 </link>
 </item>
 <item>
-<title>PT: EUROSPORT HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.189.187.55:8000/live/CLIENTZ349/w9xdlqNO0A/1973.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUROSPORT HD </link>
+<title>Sporting TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/91&amp;streamtype=TSDOWNLOADER&amp;name=Sporting TV </link>
 </item>
 
 
