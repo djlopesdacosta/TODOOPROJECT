@@ -1,52 +1,57 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-
-<item>
-<title>[COLOR] [COLOR red][/COLOR][B][COLOR red][B]P[/B][/COLOR][COLOR green][B]L[/B][/COLOR][COLOR orange][B]A[/B][/COLOR][COLOR red][B]Y[/B][/COLOR] [COLOR cyan]TV NEEDED [/COLOR][COLOR magenta]EXTRA ADDON [/COLOR][COLOR yellow]F4MTESTER [/COLOR]</title>
-<link>http://Movies.me</link>
-<jsonrpc>plugin://plugin.video.f4mTester/</jsonrpc>
-<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
-<fanart>https://goo.gl/9oQCFk</fanart>
-</item>
-
-<item>       
-<title>            [COLOR red] PORTUGAL TV [/COLOR]  [COLOR lime]SERVIDOR 1[/COLOR]  </title>
-<link>http://Ignoreme</link>
-<externallink></externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 08-11-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
-<link>http://Ignoreme</link>
-<externallink></externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>       
-<title>[COLOR red] [/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink></externallink>
-<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-
-
-
-
-
-<item>
-<title> RTP 1</title>
-<link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rtp_1_pt.png" group-title="Generalistas", RTP 1&amp;streamtype=TSDOWNLOADER&amp;name= RTP 1 </link>
-</item>
-<link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/1&amp;streamtype=TSDOWNLOADER&amp;name= RTP 1 </link>
-</item>
-<item>
-<title> RTP 2</title>
-<link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rtp_2_pt.png" group-title="Generalistas", RTP 2&amp;streamtype=TSDOWNLOADER&amp;name= RTP 2 </link>
-</item>
+#EXTM3U
+ 
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rtp_1_pt.png" group-title="Generalistas", RTP 1
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/1
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rtp_2_pt.png" group-title="Generalistas", RTP 2
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/2
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sic_pt.png" group-title="Generalistas", SIC
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/3
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tvi_pt.png" group-title="Generalistas", TVI
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/4
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sic_pt_noticias.png" group-title="Generalistas", SIC Notícias
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/5
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cm_tv_pt.png" group-title="Generalistas", CMTV
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/6
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tvi_24.png" group-title="Generalistas", TVI 24
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/9
+#EXTINF:-1 tvg-id="RTPNinformacao.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rtp_3_pt.png" group-title="Generalistas", RTP 3
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/10
+#EXTINF:-1 tvg-id="RTPNinformacao.pt" tvg-logo="http://www.lyngsat-logo.com/hires/pp/porto_canal.png" group-title="Generalistas", Porto Canal
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/11
+#EXTINF:-1 tvg-id="TVIdirect.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tvi_reality_pt.png" group-title="Generalistas", TVI Reality
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
+#EXTINF:0,Globo Premium
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/40
+#EXTINF:-1 tvg-id="tvrecord.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rede_record_br.png" group-title="Generalistas", Record
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/31
+#EXTINF:-1 tvg-id="cartoon.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="Animação, Cartoon Network
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/39
+#EXTINF:-1 tvg-id="DisneyJunior.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="Animação", Disney Junior
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/42
+#EXTINF:-1 tvg-id="canalpanda.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/canal_panda_pt.png" group-title="Animação", Canal Panda
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/43
+#EXTINF:-1 tvg-id="PandaBiggs.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/panda_biggs.png" group-title="Animação", BIGGS
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/44
+#EXTINF:-1 tvg-id="hollywood.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/canal_hollywood_pt.png" group-title="Cinema", Hollywood
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/66
+#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ff/fox_movies_pt.png" group-title="Cinema", FOX Movies
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/71
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sport_tv1_pt.png" group-title="Desporto", Sport TV+
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/78
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sport_tv1_pt.png" group-title="Desporto", Sport TV 1
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/79
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sport_tv2_pt.png" group-title="Desporto", Sport TV 2
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/81
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sport_tv3_pt.png" group-title="Desporto", Sport TV 3
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/83
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sport_tv4_pt.png" group-title="Desporto", Sport TV 4
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/84
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="https://soombo.com/assets/images/200_1459188732.png" group-title="Desporto", Sport TV 5
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/86
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png" group-title="Desporto", BTV 1
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/88
+#EXTINF:0,Sporting TV
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/91
 <link>plugin://plugin.video.f4mTester/?url=http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/2&amp;streamtype=TSDOWNLOADER&amp;name= RTP 2 </link>
 </item>
 <item>
