@@ -3730,6 +3730,16 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
+<title>[COLOR blue] [I]EUROSPORT 2 XTRA HD[/COLOR][/I]  [COLOR orange]F4MTESTER[/COLOR]</title>
+
+ <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/8911.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSport 2</link> 
+
+<thumbnail>http://www.vodafone.pt/NR/rdonlyres/B0CCE754-2510-4344-9736-A8F57DCB51D8/0/new_logo_eurosport_932x196.png</thumbnail>
+</item>
+
+
+
+<item>
 <title>[COLOR blue] [I]EUROSPORT NEWS HD[/COLOR][/I]  [COLOR orange]F4MTESTER[/COLOR]</title>
 
  <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/170216/170216/922.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSpor News</link> 
