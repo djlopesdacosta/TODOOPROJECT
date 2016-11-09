@@ -30,6 +30,13 @@
 
 
 <item>
+<title>[COLOR=red][B][I] RTP 1 [/I][/B][/COLOR][COLOR=orange](SD)[/COLOR]</title>
+<link>http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/1</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
+<fanart>http://4.fotos.web.sapo.io/i/oc913ed30/18864727_W0533.png</fanart>
+</item>
+
+<item>
 <title>[COLOR=red][B][I] RTP 1 [/I][/B][/COLOR][COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.rtp.pt/play/direto/rtp1</sportsdevil>
 <sportsdevil>http://www.estadiofutebol.com/gratis/rtp</sportsdevil>
@@ -65,6 +72,12 @@
 <fanart>http://4.fotos.web.sapo.io/i/oc913ed30/18864727_W0533.png</fanart>
 </item>
 
+<item>
+<title>[COLOR=red][B][I] RTP 2 [/I][/B][/COLOR] [COLOR=orange](SD)[/COLOR]</title>
+<link>http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/2</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>
+<fanart>http://media.rtp.pt/extra/wp-content/uploads/sites/22/2015/05/RTP2.jpg</fanart>
+</item>
 
 <item>
 <title>[COLOR=red][B][I] RTP 2 [/I][/B][/COLOR] [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
@@ -102,7 +115,12 @@
 <fanart>http://media.rtp.pt/extra/wp-content/uploads/sites/22/2015/05/RTP2.jpg</fanart>
 </item>
 
-
+<item>
+<title>[COLOR=red][B][I] RTP 3 [/I][/B][/COLOR]  [COLOR=orange](SD)[/COLOR]</title>
+<link>http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/10</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rwqqsy1455801826.png</thumbnail>
+<fanart>http://media.rtp.pt/extra/wp-content/uploads/sites/22/2015/05/RTP2.jpg</fanart>
+</item>
 
 
 <item>
@@ -129,7 +147,14 @@
 <fanart>http://shifter.pt/wp-content/uploads/2015/09/johnolivernartp3_02.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR=red][B][I] SIC [/I][/B][/COLOR]    [COLOR=orange](SD)[/COLOR]</title>
 
+<link>http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/3</link>
+
+<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
+<fanart>http://iptv.cline.in:80/live/greg/greg/1166.m3u8</fanart>
+</item>
 
 
 <item>
@@ -180,7 +205,21 @@
 <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
 <fanart>http://iptv.cline.in:80/live/greg/greg/1166.m3u8</fanart>
 </item>
- SPORTING TV
+
+
+
+
+
+<item>
+<title>[COLOR=red][B][I] TVI [/I][/B][/COLOR]   [COLOR=cyan]SD[/COLOR]</title>
+
+<link>http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/4</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
+<fanart>https://lh6.ggpht.com/Rco-3B_gxp2WxcpArRjrp3iT_XKI94B2paXEh86tn-wioNk9EGKYYUaa6NDg1yLmoGqF=h900</fanart>
+</item>
+
+
+
 
 <item>
 <title>[COLOR=red][B][I] TVI [/I][/B][/COLOR]  [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
