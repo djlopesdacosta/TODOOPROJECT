@@ -1,318 +1,80 @@
- 
-          <item> 
-            <title>MEGA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/1.ch&amp;streamtype=chDOWNLOADER&amp;name=MEGA HD</link> 
-        </item> 
-          <item> 
-            <title>AXN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/7.ch&amp;streamtype=chDOWNLOADER&amp;name=AXN</link> 
-        </item> 
-          <item> 
-            <title>CANAL 13 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/3.ch&amp;streamtype=chDOWNLOADER&amp;name=CANAL 13 HD</link> 
-        </item> 
-          <item> 
-            <title>CDF</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/5.ch&amp;streamtype=chDOWNLOADER&amp;name=CDF</link> 
-        </item> 
-          <item> 
-            <title>chV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,ch&amp;streamtype=chDOWNLOADER&amp;name=chV HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/2.ch&amp;streamtype=chDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>DISCOVERY KIDS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/6.ch&amp;streamtype=chDOWNLOADER&amp;name=DISCOVERY KIDS</link> 
-        </item> 
-          <item> 
-            <title>DISNEY JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/8.ch&amp;streamtype=chDOWNLOADER&amp;name=DISNEY JUNIOR</link> 
-        </item> 
-          <item> 
-            <title>TVN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/4.ch&amp;streamtype=chDOWNLOADER&amp;name=TVN HD</link> 
-        </item> 
-          <item> 
-            <title>SPN BR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/10.ch&amp;streamtype=chDOWNLOADER&amp;name=SPN BR</link> 
-        </item> 
-          <item> 
-            <title>La era del hielo 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/9.ch&amp;streamtype=chDOWNLOADER&amp;name=La era del hielo 3</link> 
-        </item> 
-          <item> 
-            <title>AXN BR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/16.ch&amp;streamtype=chDOWNLOADER&amp;name=AXN BR</link> 
-        </item> 
-          <item> 
-            <title>BAN BR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/28.ch&amp;streamtype=chDOWNLOADER&amp;name=BAN BR</link> 
-        </item> 
-          <item> 
-            <title>BANDA NEW BR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/20.ch&amp;streamtype=chDOWNLOADER&amp;name=BANDA NEW BR</link> 
-        </item> 
-          <item> 
-            <title>BANDSPORT BR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/21.ch&amp;streamtype=chDOWNLOADER&amp;name=BANDSPORT BR</link> 
-        </item> 
-          <item> 
-            <title>FOX SPORT 2 BR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/15.ch&amp;streamtype=chDOWNLOADER&amp;name=FOX SPORT 2 BR</link> 
-        </item> 
-          <item> 
-            <title>GLOBO BR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/11.ch&amp;streamtype=chDOWNLOADER&amp;name=GLOBO BR</link> 
-        </item> 
-          <item> 
-            <title>GLOBO NEW BR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/14.ch&amp;streamtype=chDOWNLOADER&amp;name=GLOBO NEW BR</link> 
-        </item> 
-          <item> 
-            <title>GLOBO RBS BR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/23.ch&amp;streamtype=chDOWNLOADER&amp;name=GLOBO RBS BR</link> 
-        </item> 
-          <item> 
-            <title>HBO 2 BR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/24.ch&amp;streamtype=chDOWNLOADER&amp;name=HBO 2 BR</link> 
-        </item> 
-          <item> 
-            <title>HBO ASIGNATURE BR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/17.ch&amp;streamtype=chDOWNLOADER&amp;name=HBO ASIGNATURE BR</link> 
-        </item> 
-          <item> 
-            <title>PFC 2 BR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/26.ch&amp;streamtype=chDOWNLOADER&amp;name=PFC 2 BR</link> 
-        </item> 
-          <item> 
-            <title>PFC BR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/25.ch&amp;streamtype=chDOWNLOADER&amp;name=PFC BR</link> 
-        </item> 
-          <item> 
-            <title>PREMIERE 5 BR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/18.ch&amp;streamtype=chDOWNLOADER&amp;name=PREMIERE 5 BR</link> 
-        </item> 
-          <item> 
-            <title>RECORD BR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/12.ch&amp;streamtype=chDOWNLOADER&amp;name=RECORD BR</link> 
-        </item> 
-          <item> 
-            <title>SPN BRASIL BR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/22.ch&amp;streamtype=chDOWNLOADER&amp;name=SPN BRASIL BR</link> 
-        </item> 
-          <item> 
-            <title>SPORTV BR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/13.ch&amp;streamtype=chDOWNLOADER&amp;name=SPORTV BR</link> 
-        </item> 
-          <item> 
-            <title>STB BR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/27.ch&amp;streamtype=chDOWNLOADER&amp;name=STB BR</link> 
-        </item> 
-          <item> 
-            <title>UNIVERSAL chANNEL BR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UNIVERSAL ch&amp;streamtype=chDOWNLOADER&amp;name=UNIVERSAL chANNEL BR</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/19.ch&amp;streamtype=chDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>El club de la pelea</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/31.ch&amp;streamtype=chDOWNLOADER&amp;name=El club de la pelea</link> 
-        </item> 
-          <item> 
-            <title>La oreja de van gogh</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/30.ch&amp;streamtype=chDOWNLOADER&amp;name=La oreja de van gogh</link> 
-        </item> 
-          <item> 
-            <title>Mana en Viña deñ Mar</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/29.ch&amp;streamtype=chDOWNLOADER&amp;name=Mana en Viña deñ Mar</link> 
-        </item> 
-          <item> 
-            <title>David Guetta Concierto Brasil</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/43.ch&amp;streamtype=chDOWNLOADER&amp;name=David Guetta Concierto Brasil</link> 
-        </item> 
-          <item> 
-            <title>El conjuro</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/34.ch&amp;streamtype=chDOWNLOADER&amp;name=El conjuro</link> 
-        </item> 
-          <item> 
-            <title>El gran robo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/41.ch&amp;streamtype=chDOWNLOADER&amp;name=El gran robo</link> 
-        </item> 
-          <item> 
-            <title>El protector</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/35.ch&amp;streamtype=chDOWNLOADER&amp;name=El protector</link> 
-        </item> 
-          <item> 
-            <title>El señor de la guerra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/40.ch&amp;streamtype=chDOWNLOADER&amp;name=El señor de la guerra</link> 
-        </item> 
-          <item> 
-            <title>Francotirador</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/44.ch&amp;streamtype=chDOWNLOADER&amp;name=Francotirador</link> 
-        </item> 
-          <item> 
-            <title>Kunfu panda 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/32.ch&amp;streamtype=chDOWNLOADER&amp;name=Kunfu panda 1</link> 
-        </item> 
-          <item> 
-            <title>La marca de la bestia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/42.ch&amp;streamtype=chDOWNLOADER&amp;name=La marca de la bestia</link> 
-        </item> 
-          <item> 
-            <title>Quiero matar a mi jefe 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/36.ch&amp;streamtype=chDOWNLOADER&amp;name=Quiero matar a mi jefe 2</link> 
-        </item> 
-          <item> 
-            <title>Temblores 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/33.ch&amp;streamtype=chDOWNLOADER&amp;name=Temblores 5</link> 
-        </item> 
-          <item> 
-            <title>A&amp;E</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/62.ch&amp;streamtype=chDOWNLOADER&amp;name=A&amp;E</link> 
-        </item> 
-          <item> 
-            <title>AXN SP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/61.ch&amp;streamtype=chDOWNLOADER&amp;name=AXN SP</link> 
-        </item> 
-          <item> 
-            <title>BANDAMAX MX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/45.ch&amp;streamtype=chDOWNLOADER&amp;name=BANDAMAX MX</link> 
-        </item> 
-          <item> 
-            <title>CANAL + TOROS SP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/51.ch&amp;streamtype=chDOWNLOADER&amp;name=CANAL + TOROS SP</link> 
-        </item> 
-          <item> 
-            <title>DISNEY  SP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/60.ch&amp;streamtype=chDOWNLOADER&amp;name=DISNEY  SP</link> 
-        </item> 
-          <item> 
-            <title>FOX SPORT MX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/47.ch&amp;streamtype=chDOWNLOADER&amp;name=FOX SPORT MX</link> 
-        </item> 
-          <item> 
-            <title>HISTORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/59.ch&amp;streamtype=chDOWNLOADER&amp;name=HISTORIA</link> 
-        </item> 
-          <item> 
-            <title>LA SEXTA SP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/57.ch&amp;streamtype=chDOWNLOADER&amp;name=LA SEXTA SP</link> 
-        </item> 
-          <item> 
-            <title>MOVISTARF1 SP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/56.ch&amp;streamtype=chDOWNLOADER&amp;name=MOVISTARF1 SP</link> 
-        </item> 
-          <item> 
-            <title>MTV SP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/55.ch&amp;streamtype=chDOWNLOADER&amp;name=MTV SP</link> 
-        </item> 
-          <item> 
-            <title>NATGEOGRAPH SP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/54.ch&amp;streamtype=chDOWNLOADER&amp;name=NATGEOGRAPH SP</link> 
-        </item> 
-          <item> 
-            <title>SPN 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/49.ch&amp;streamtype=chDOWNLOADER&amp;name=SPN 2</link> 
-        </item> 
-          <item> 
-            <title>SPN 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/48.ch&amp;streamtype=chDOWNLOADER&amp;name=SPN 3</link> 
-        </item> 
-          <item> 
-            <title>SYFY SP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/53.ch&amp;streamtype=chDOWNLOADER&amp;name=SYFY SP</link> 
-        </item> 
-          <item> 
-            <title>TCM SPN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/52.ch&amp;streamtype=chDOWNLOADER&amp;name=TCM SPN</link> 
-        </item> 
-          <item> 
-            <title>TELEHIch</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/46.ch&amp;streamtype=chDOWNLOADER&amp;name=TELEHIch</link> 
-        </item> 
-          <item> 
-            <title>TNT SP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/50.ch&amp;streamtype=chDOWNLOADER&amp;name=TNT SP</link> 
-        </item> 
-          <item> 
-            <title>C DEPORTES SP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/64.ch&amp;streamtype=chDOWNLOADER&amp;name=C DEPORTES SP</link> 
-        </item> 
-          <item> 
-            <title>CABLE NOTICIAS CL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/71.ch&amp;streamtype=chDOWNLOADER&amp;name=CABLE NOTICIAS CL</link> 
-        </item> 
-          <item> 
-            <title>CANAL 7 CR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/68.ch&amp;streamtype=chDOWNLOADER&amp;name=CANAL 7 CR</link> 
-        </item> 
-          <item> 
-            <title>CANAL ANTIESTRES CL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/70.ch&amp;streamtype=chDOWNLOADER&amp;name=CANAL ANTIESTRES CL</link> 
-        </item> 
-          <item> 
-            <title>CANAL DE LAS ESTRELLAS MX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/63.ch&amp;streamtype=chDOWNLOADER&amp;name=CANAL DE LAS ESTRELLAS MX</link> 
-        </item> 
-          <item> 
-            <title>COLOSAL CR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/67.ch&amp;streamtype=chDOWNLOADER&amp;name=COLOSAL CR</link> 
-        </item> 
-          <item> 
-            <title>CRIMEN INVEST SP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/65.ch&amp;streamtype=chDOWNLOADER&amp;name=CRIMEN INVEST SP</link> 
-        </item> 
-          <item> 
-            <title>LATINA PR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/72.ch&amp;streamtype=chDOWNLOADER&amp;name=LATINA PR</link> 
-        </item> 
-          <item> 
-            <title>TV CR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/69.ch&amp;streamtype=chDOWNLOADER&amp;name=TV CR</link> 
-        </item> 
-          <item> 
-            <title>Nightfall</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/66.ch&amp;streamtype=chDOWNLOADER&amp;name=Nightfall</link> 
-        </item> 
-          <item> 
-            <title>CDO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/76.ch&amp;streamtype=chDOWNLOADER&amp;name=CDO</link> 
-        </item> 
-          <item> 
-            <title>PLAYBOY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/74.ch&amp;streamtype=chDOWNLOADER&amp;name=PLAYBOY</link> 
-        </item> 
-          <item> 
-            <title>TV MAS MX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/75.ch&amp;streamtype=chDOWNLOADER&amp;name=TV MAS MX</link> 
-        </item> 
-          <item> 
-            <title>VEVO 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/77.ch&amp;streamtype=chDOWNLOADER&amp;name=VEVO 1</link> 
-        </item> 
-          <item> 
-            <title>VEVO 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/78.ch&amp;streamtype=chDOWNLOADER&amp;name=VEVO 2</link> 
-        </item> 
-          <item> 
-            <title>HEAVY METAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/79.ch&amp;streamtype=chDOWNLOADER&amp;name=HEAVY METAL</link> 
-        </item> 
-          <item> 
-            <title>IBIZA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/81.ch&amp;streamtype=chDOWNLOADER&amp;name=IBIZA</link> 
-        </item> 
-          <item> 
-            <title>VIRGIN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/80.ch&amp;streamtype=chDOWNLOADER&amp;name=VIRGIN</link> 
-        </item> 
-          <item> 
-            <title>101 Dalmatas</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/italo/italo/82.ch&amp;streamtype=chDOWNLOADER&amp;name=101 Dalmatas</link> 
-        </item> 
-  
+<item>
+<title>SONY BR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/live/felipe/felipe/441.ts&amp;streamtype=TSDOWNLOADER&amp;name=SONY BR </link>
+</item>
+<item>
+<title>DISCOVERY H&H BR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/live/felipe/felipe/442.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY H&H BR </link>
+</item>
+<item>
+<title>ANIMAL PLANET BR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/live/felipe/felipe/440.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANIMAL PLANET BR </link>
+</item>
+<item>
+<title>UNIVERSAL CHANNEL BR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/live/felipe/felipe/293.ts&amp;streamtype=TSDOWNLOADER&amp;name=UNIVERSAL CHANNEL BR </link>
+</item>
+<item>
+<title>SPORTV 2 BR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/live/felipe/felipe/292.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 2 BR </link>
+</item>
+<item>
+<title>SPN BRASIL BR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/live/felipe/felipe/281.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPN BRASIL BR </link>
+</item>
+<item>
+<title>SPN BR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/live/felipe/felipe/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPN BR </link>
+</item>
+<item>
+<title>RECORD BR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/live/felipe/felipe/291.ts&amp;streamtype=TSDOWNLOADER&amp;name=RECORD BR </link>
+</item>
+<item>
+<title>PFC BR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/live/felipe/felipe/288.ts&amp;streamtype=TSDOWNLOADER&amp;name=PFC BR </link>
+</item>
+<item>
+<title>PFC 5 BR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/live/felipe/felipe/290.ts&amp;streamtype=TSDOWNLOADER&amp;name=PFC 5 BR </link>
+</item>
+<item>
+<title>PFC 2 BR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/live/felipe/felipe/289.ts&amp;streamtype=TSDOWNLOADER&amp;name=PFC 2 BR </link>
+</item>
+<item>
+<title>HBO SIGNATURE BR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/live/felipe/felipe/287.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO SIGNATURE BR </link>
+</item>
+<item>
+<title>HBO 2 BR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/live/felipe/felipe/286.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO 2 BR </link>
+</item>
+<item>
+<title>GLOBO SP BR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/live/felipe/felipe/285.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO SP BR </link>
+</item>
+<item>
+<title>GLOBO RBS BR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/live/felipe/felipe/284.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO RBS BR </link>
+</item>
+<item>
+<title>GLOBO NEW BR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/live/felipe/felipe/283.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO NEW BR </link>
+</item>
+<item>
+<title>FOX SPORT 2 BR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/live/felipe/felipe/282.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX SPORT 2 BR </link>
+</item>
+<item>
+<title>BAND SPORT BR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/live/felipe/felipe/279.ts&amp;streamtype=TSDOWNLOADER&amp;name=BAND SPORT BR </link>
+</item>
+<item>
+<title>BANDA NEW BR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/live/felipe/felipe/278.ts&amp;streamtype=TSDOWNLOADER&amp;name=BANDA NEW BR </link>
+</item>
+<item>
+<title>AXN BR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://zial.dyndns.tv:8000/live/felipe/felipe/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN BR </link>
+</item>
