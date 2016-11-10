@@ -1,262 +1,332 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,FR_TEVA_HD
-http://www.q7t1.com:8000/live/bk9/bk9/870.ts
-#EXTINF:-1,FR_D8_HD
-http://www.q7t1.com:8000/live/bk9/bk9/234.ts
-#EXTINF:-1,FR_D_17
-http://www.q7t1.com:8000/live/bk9/bk9/819.ts
-#EXTINF:-1,FR_W9_HD
-http://www.q7t1.com:8000/live/bk9/bk9/224.ts
-#EXTINF:-1,FR_NRJ_12
-http://www.q7t1.com:8000/live/bk9/bk9/1282.ts
-#EXTINF:-1,FR_6TER HD
-http://www.q7t1.com:8000/live/bk9/bk9/1814.ts
-#EXTINF:-1,FR_CANAL+_HD
-http://www.q7t1.com:8000/live/bk9/bk9/201.ts
-#EXTINF:-1,FR_CANAL+_CINEMA_HD
-http://www.q7t1.com:8000/live/bk9/bk9/202.ts
-#EXTINF:-1,FR_CANAL+_FAMILY_HD
-http://www.q7t1.com:8000/live/bk9/bk9/204.ts
-#EXTINF:-1,FR_CANAL+_DECALE_HD
-http://www.q7t1.com:8000/live/bk9/bk9/203.ts
-#EXTINF:-1,FR_CANAL+_SERIES_HD
-http://www.q7t1.com:8000/live/bk9/bk9/868.ts
-#EXTINF:-1,FR_CINE+_FRISSON_HD
-http://www.q7t1.com:8000/live/bk9/bk9/877.ts
-#EXTINF:-1,FR_CINE+_PREMIER_HD
-http://www.q7t1.com:8000/live/bk9/bk9/878.ts
-#EXTINF:-1,FR_CINE+_EMOTION_HD
-http://www.q7t1.com:8000/live/bk9/bk9/875.ts
-#EXTINF:-1,FR_CINE+_FAMIZ_HD
-http://www.q7t1.com:8000/live/bk9/bk9/876.ts
-#EXTINF:-1,FR_CINE_CLASSIC_HD
-http://www.q7t1.com:8000/live/bk9/bk9/869.ts
-#EXTINF:-1,FR_CINE_POLAR
-http://www.q7t1.com:8000/live/bk9/bk9/950.ts
-#EXTINF:-1,FR_CINE_FIL
-http://www.q7t1.com:8000/live/bk9/bk9/874.ts
-#EXTINF:-1,FR_TCM
-http://www.q7t1.com:8000/live/bk9/bk9/1219.ts
-#EXTINF:-1,FR_OCS_CITY
-http://www.q7t1.com:8000/live/bk9/bk9/698.ts
-#EXTINF:-1,FR_OCS_CHOC_HD
-http://www.q7t1.com:8000/live/bk9/bk9/959.ts
-#EXTINF:-1,FR_OCS_GEANTS
-http://www.q7t1.com:8000/live/bk9/bk9/903.ts
-#EXTINF:-1,FR_OCS_MAX
-http://www.q7t1.com:8000/live/bk9/bk9/902.ts
-#EXTINF:-1,FR_ACTION
-http://www.q7t1.com:8000/live/bk9/bk9/863.ts
-#EXTINF:-1,FR_CINE_FX
-http://www.q7t1.com:8000/live/bk9/bk9/826.ts
-#EXTINF:-1,FR_CINE_ETOILE
-http://www.q7t1.com:8000/live/bk9/bk9/873.ts
-#EXTINF:-1,FR_13EME_RUE_HD
-http://www.q7t1.com:8000/live/bk9/bk9/214.ts
-#EXTINF:-1,FR_COMEDIE+
-http://www.q7t1.com:8000/live/bk9/bk9/872.ts
-#EXTINF:-1,FR_PARIS_PREMIERE_HD
-http://www.q7t1.com:8000/live/bk9/bk9/181.ts
-#EXTINF:-1,FR_SYFY_HD
-http://www.q7t1.com:8000/live/bk9/bk9/95.ts
-#EXTINF:-1,FR_AB1
-http://www.q7t1.com:8000/live/bk9/bk9/862.ts
-#EXTINF:-1,FR_E_ENTERTAINMENT
-http://www.q7t1.com:8000/live/bk9/bk9/871.ts
-#EXTINF:-1,FR_SERIE_CLUB_HD
-http://www.q7t1.com:8000/live/bk9/bk9/225.ts
-#EXTINF:-1,FR_J_ONE_HD
-http://www.q7t1.com:8000/live/bk9/bk9/231.ts
-#EXTINF:-1,FR_AB_1
-http://www.q7t1.com:8000/live/bk9/bk9/227.ts
-#EXTINF:-1,FR_LCI
-http://www.q7t1.com:8000/live/bk9/bk9/1227.ts
-#EXTINF:-1,FR_WEO
-http://www.q7t1.com:8000/live/bk9/bk9/1217.ts
-#EXTINF:-1,FR_I_TELE
-http://www.q7t1.com:8000/live/bk9/bk9/213.ts
-#EXTINF:-1,FR_BFM_TV
-http://www.q7t1.com:8000/live/bk9/bk9/211.ts
-#EXTINF:-1,FR_ESCALES
-http://www.q7t1.com:8000/live/bk9/bk9/861.ts
-#EXTINF:-1,FR_TV5_FR
-http://www.q7t1.com:8000/live/bk9/bk9/168.ts
-#EXTINF:-1,FR_TIJI
-http://www.q7t1.com:8000/live/bk9/bk9/235.ts
-#EXTINF:-1,FR_PIWI
-http://www.q7t1.com:8000/live/bk9/bk9/1221.ts
-#EXTINF:-1,FR_GULLI
-http://www.q7t1.com:8000/live/bk9/bk9/212.ts
-#EXTINF:-1,FR_BOING
-http://www.q7t1.com:8000/live/bk9/bk9/897.ts
-#EXTINF:-1,FR_TELETOON
-http://www.q7t1.com:8000/live/bk9/bk9/1178.ts
-#EXTINF:-1,FR_TELETOON+1
-http://www.q7t1.com:8000/live/bk9/bk9/827.ts
-#EXTINF:-1,FR_CANAL_J_HD
-http://www.q7t1.com:8000/live/bk9/bk9/198.ts
-#EXTINF:-1,FR_BOOMERANG_HD
-http://www.q7t1.com:8000/live/bk9/bk9/867.ts
-#EXTINF:-1,FR_DISNEY_XD
-http://www.q7t1.com:8000/live/bk9/bk9/52.ts
-#EXTINF:-1,FR_DISNEY_CHANNEL
-http://www.q7t1.com:8000/live/bk9/bk9/236.ts
-#EXTINF:-1,FR_DISNEY_JUNIOR
-http://www.q7t1.com:8000/live/bk9/bk9/853.ts
-#EXTINF:-1,FR_DISNEY_CINEMAGIC
-http://www.q7t1.com:8000/live/bk9/bk9/901.ts
-#EXTINF:-1,FR_MANGA
-http://www.q7t1.com:8000/live/bk9/bk9/1223.ts
-#EXTINF:-1,FR_NICKELODEON_HD
-http://www.q7t1.com:8000/live/bk9/bk9/881.ts
-#EXTINF:-1,FR_NICKELODEON_4_TEEN
-http://www.q7t1.com:8000/live/bk9/bk9/884.ts
-#EXTINF:-1,FR_CARTOON_NETWORK_HD
-http://www.q7t1.com:8000/live/bk9/bk9/218.ts
-#EXTINF:-1,FR_BEIN_SPORTS_1_HD
-http://www.q7t1.com:8000/live/bk9/bk9/199.ts
-#EXTINF:-1,FR_BEIN_SPORTS_2_HD
-http://www.q7t1.com:8000/live/bk9/bk9/200.ts
-#EXTINF:-1,FR_BEIN_SPORTS_3_HD
-http://www.q7t1.com:8000/live/bk9/bk9/594.ts
-#EXTINF:-1,LOW_BEIN_SPORTS_1_HD_FR
-http://www.q7t1.com:8000/live/bk9/bk9/1196.ts
-#EXTINF:-1,LOW_BEIN_SPORTS_2_HD_FR
-http://www.q7t1.com:8000/live/bk9/bk9/1133.ts
-#EXTINF:-1,LOW_BEIN_SPORTS_3_HD_FR
-http://www.q7t1.com:8000/live/bk9/bk9/1267.ts
-#EXTINF:-1,FR_BEIN_SPORT_MAX_4
-http://www.q7t1.com:8000/live/bk9/bk9/1269.ts
-#EXTINF:-1,FR_BEIN_SPORT_MAX_5
-http://www.q7t1.com:8000/live/bk9/bk9/1268.ts
-#EXTINF:-1,FR_BEIN_SPORT_MAX_6
-http://www.q7t1.com:8000/live/bk9/bk9/233.ts
-#EXTINF:-1,FR_BEIN_SPORT_MAX_7
-http://www.q7t1.com:8000/live/bk9/bk9/232.ts
-#EXTINF:-1,FR_BEIN_SPORT_MAX_8
-http://www.q7t1.com:8000/live/bk9/bk9/1232.ts
-#EXTINF:-1,FR_CANAL+_SPORT_HD
-http://www.q7t1.com:8000/live/bk9/bk9/205.ts
-#EXTINF:-1,FR_MA_CHAINE_SPORT
-http://www.q7t1.com:8000/live/bk9/bk9/846.ts
-#EXTINF:-1,FR_KOMBAT_SPORT_HD
-http://www.q7t1.com:8000/live/bk9/bk9/171.ts
-#EXTINF:-1,FR_INFOSPORT+
-http://www.q7t1.com:8000/live/bk9/bk9/879.ts
-#EXTINF:-1,FR_EUROSPORT_1
-http://www.q7t1.com:8000/live/bk9/bk9/206.ts
-#EXTINF:-1,FR_EUROSPORT_2
-http://www.q7t1.com:8000/live/bk9/bk9/1256.ts
-#EXTINF:-1,FR_FOOT+
-http://www.q7t1.com:8000/live/bk9/bk9/883.ts
-#EXTINF:-1,FR_SPORT+
-http://www.q7t1.com:8000/live/bk9/bk9/167.ts
-#EXTINF:-1,FR_SPORTS+
-http://www.q7t1.com:8000/live/bk9/bk9/723.ts
-#EXTINF:-1,FR_GOLF+
-http://www.q7t1.com:8000/live/bk9/bk9/112.ts
-#EXTINF:-1,FR_OL_TV
-http://www.q7t1.com:8000/live/bk9/bk9/844.ts
-#EXTINF:-1,FR_EQUIDIA_LIVE
-http://www.q7t1.com:8000/live/bk9/bk9/170.ts
-#EXTINF:-1,FR_L_EQUIPE_21
-http://www.q7t1.com:8000/live/bk9/bk9/102.ts
-#EXTINF:-1,FR_PLANETE+_HD
-http://www.q7t1.com:8000/live/bk9/bk9/221.ts
-#EXTINF:-1,FR_PLANETE+_CI
-http://www.q7t1.com:8000/live/bk9/bk9/222.ts
-#EXTINF:-1,FR_PLANETE_AE_HD
-http://www.q7t1.com:8000/live/bk9/bk9/230.ts
-#EXTINF:-1,FR_PLANETE+_THALASSA_HD
-http://www.q7t1.com:8000/live/bk9/bk9/67.ts
-#EXTINF:-1,FR_NATIONAL_GEO_HD
-http://www.q7t1.com:8000/live/bk9/bk9/239.ts
-#EXTINF:-1,FR_NATIONAL_GEO_WILD_HD
-http://www.q7t1.com:8000/live/bk9/bk9/217.ts
-#EXTINF:-1,FR_USHUAIA_TV_HD
-http://www.q7t1.com:8000/live/bk9/bk9/223.ts
-#EXTINF:-1,FR_DISCOVERY_SHOWCASE_HD
-http://www.q7t1.com:8000/live/bk9/bk9/80.ts
-#EXTINF:-1,FR_DISCOVERY_SCIENCES
-http://www.q7t1.com:8000/live/bk9/bk9/76.ts
-#EXTINF:-1,FR_VOYAGE_HD
-http://www.q7t1.com:8000/live/bk9/bk9/84.ts
-#EXTINF:-1,FR_ANIMAUX_HD
-http://www.q7t1.com:8000/live/bk9/bk9/865.ts
-#EXTINF:-1,FR_CHASSE_ET_PECHE
-http://www.q7t1.com:8000/live/bk9/bk9/860.ts
-#EXTINF:-1,FR_SCIENCES_VIE_TV
-http://www.q7t1.com:8000/live/bk9/bk9/1220.ts
-#EXTINF:-1,FR_RMC_DECOUVERTE
-http://www.q7t1.com:8000/live/bk9/bk9/83.ts
-#EXTINF:-1,FR_AB_MOTEUR_HD
-http://www.q7t1.com:8000/live/bk9/bk9/1195.ts
-#EXTINF:-1,FR_RTS_LA_UNE_HD
-http://www.q7t1.com:8000/live/bk9/bk9/124.ts
-#EXTINF:-1,FR_RTS_1_HD
-http://www.q7t1.com:8000/live/bk9/bk9/145.ts
-#EXTINF:-1,FR_RTS_LA_DEUX_HD
-http://www.q7t1.com:8000/live/bk9/bk9/121.ts
-#EXTINF:-1,FR_RTS_2_HD
-http://www.q7t1.com:8000/live/bk9/bk9/138.ts
-#EXTINF:-1,FR_TV5_MONDE
-http://www.q7t1.com:8000/live/bk9/bk9/1218.ts
-#EXTINF:-1,FR_TOUTE_L_HISTOIRE
-http://www.q7t1.com:8000/live/bk9/bk9/880.ts
-#EXTINF:-1,FR_PARAMOUNT_HD
-http://www.q7t1.com:8000/live/bk9/bk9/1194.ts
-#EXTINF:-1,FR_ENCYCLO
-http://www.q7t1.com:8000/live/bk9/bk9/864.ts
-#EXTINF:-1,FR_BFM_BUSNESS
-http://www.q7t1.com:8000/live/bk9/bk9/219.ts
-#EXTINF:-1,FR_CHERIE_25
-http://www.q7t1.com:8000/live/bk9/bk9/169.ts
-#EXTINF:-1,FR_NRJ
-http://www.q7t1.com:8000/live/bk9/bk9/220.ts
-#EXTINF:-1,FR_VH1
-http://www.q7t1.com:8000/live/bk9/bk9/109.ts
-#EXTINF:-1,FR_MTV_HITS
-http://www.q7t1.com:8000/live/bk9/bk9/103.ts
-#EXTINF:-1,FR_M6_MUSIC
-http://www.q7t1.com:8000/live/bk9/bk9/160.ts
-#EXTINF:-1,FR_MTV_DANCE_FR
-http://www.q7t1.com:8000/live/bk9/bk9/85.ts
-#EXTINF:-1,FR_CANAL_PLAY_1
-http://www.q7t1.com:8000/live/bk9/bk9/1266.ts
-#EXTINF:-1,FR_CANAL_PLAY_2
-http://www.q7t1.com:8000/live/bk9/bk9/1265.ts
-#EXTINF:-1,FR_CANAL_PLAY_3
-http://www.q7t1.com:8000/live/bk9/bk9/1264.ts
-#EXTINF:-1,FR_CANAL_PLAY_4
-http://www.q7t1.com:8000/live/bk9/bk9/1263.ts
-#EXTINF:-1,FR_CANAL_PLAY_5
-http://www.q7t1.com:8000/live/bk9/bk9/1262.ts
-#EXTINF:-1,FR_CANAL_PLAY_6
-http://www.q7t1.com:8000/live/bk9/bk9/1261.ts
-#EXTINF:-1,FR_CANAL_PLAY_7
-http://www.q7t1.com:8000/live/bk9/bk9/1260.ts
-#EXTINF:-1,FR_CANAL_PLAY_8
-http://www.q7t1.com:8000/live/bk9/bk9/1259.ts
-#EXTINF:-1,FR_CANAL_PLAY_9
-http://www.q7t1.com:8000/live/bk9/bk9/1258.ts
-#EXTINF:-1,FR_CANAL_PLAY_10
-http://www.q7t1.com:8000/live/bk9/bk9/1257.ts
+<item>
+<title>FR | A LA CARTE 10</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/889.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 10 </link>
+</item>
+<item>
+<title>FR | CINE CLASSIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/879.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CINE CLASSIC </link>
+</item>
+<item>
+<title>FR | Cine Polar</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/878.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Cine Polar </link>
+</item>
+<item>
+<title>FR | TF1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/882.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | TF1 HD </link>
+</item>
+<item>
+<title>FR | A LA CARTE 9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/890.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 9 </link>
+</item>
+<item>
+<title>FR | OCS MAX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/888.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | OCS MAX HD </link>
+</item>
+<item>
+<title>FR | A LA CARTE 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/892.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 7 </link>
+</item>
+<item>
+<title>FR | InfoSport+</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/857.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | InfoSport+ </link>
+</item>
+<item>
+<title>FR | M6 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/858.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | M6 HD </link>
+</item>
+<item>
+<title>FR | SERIE CLUB HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/859.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | SERIE CLUB HD </link>
+</item>
+<item>
+<title>FR | CANAL J</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/868.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CANAL J </link>
+</item>
+<item>
+<title>FR | FRANCE O HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/903.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | FRANCE O HD </link>
+</item>
+<item>
+<title>FR | FRANCE 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/902.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | FRANCE 2 HD </link>
+</item>
+<item>
+<title>FR | FRANCE 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/901.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | FRANCE 3 HD </link>
+</item>
+<item>
+<title>FR | FRANCE 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/900.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | FRANCE 4 HD </link>
+</item>
+<item>
+<title>FR | FRANCE 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/899.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | FRANCE 5 </link>
+</item>
+<item>
+<title>FR | A LA CARTE 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/898.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 1 </link>
+</item>
+<item>
+<title>FR | A LA CARTE 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/897.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 2 </link>
+</item>
+<item>
+<title>FR | TMC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/860.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | TMC </link>
+</item>
+<item>
+<title>FR | CINE FRISSON HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/873.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CINE FRISSON HD </link>
+</item>
+<item>
+<title>FR | D17 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/880.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | D17 HD </link>
+</item>
+<item>
+<title>FR | A LA CARTE 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/896.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 3 </link>
+</item>
+<item>
+<title>FR | A LA CARTE 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/895.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 4 </link>
+</item>
+<item>
+<title>FR | A LA CARTE 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/894.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 5 </link>
+</item>
+<item>
+<title>FR | CINE+ FAMILY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/874.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CINE+ FAMILY HD </link>
+</item>
+<item>
+<title>FR | NRJ 12 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/866.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | NRJ 12 HD </link>
+</item>
+<item>
+<title>FR | Voyage</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/867.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Voyage </link>
+</item>
+<item>
+<title>FR | Foot+ 24 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/861.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Foot+ 24 HD </link>
+</item>
+<item>
+<title>FR | NT 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/863.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | NT 1 </link>
+</item>
+<item>
+<title>FR | DÄ°SCOVERY SCÄ°ENCE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/884.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | DÄ°SCOVERY SCÄ°ENCE HD </link>
+</item>
+<item>
+<title>FR | CINE FX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/876.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CINE FX </link>
+</item>
+<item>
+<title>FR | ANIMAUX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/862.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | ANIMAUX HD </link>
+</item>
+<item>
+<title>FR | DISNEY JUNIOR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/885.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | DISNEY JUNIOR </link>
+</item>
+<item>
+<title>FR | CINE+ PREMIER HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/877.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CINE+ PREMIER HD </link>
+</item>
+<item>
+<title>FR | RTL9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/881.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | RTL9 </link>
+</item>
+<item>
+<title>FR | ARTE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/872.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | ARTE HD </link>
+</item>
+<item>
+<title>FR | CHERÄ°E 25</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/871.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CHERÄ°E 25 </link>
+</item>
+<item>
+<title>FR | OCS City</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/887.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | OCS City </link>
+</item>
+<item>
+<title>FR | OCS CHOC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/886.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | OCS CHOC HD </link>
+</item>
+<item>
+<title>FR | CINE+ Emotion HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/875.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CINE+ Emotion HD </link>
+</item>
+<item>
+<title>FR | A LA CARTE 8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/891.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 8 </link>
+</item>
+<item>
+<title>FR | Cartoon NetWork</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/865.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Cartoon NetWork </link>
+</item>
+<item>
+<title>FR | Teva HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/855.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Teva HD </link>
+</item>
+<item>
+<title>FR | AB1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/856.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | AB1 HD </link>
+</item>
+<item>
+<title>FR | Discovery HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/854.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Discovery HD </link>
+</item>
+<item>
+<title>FR | L’EQUIPE 21</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/883.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | L’EQUIPE 21 </link>
+</item>
+<item>
+<title>FR | A LA CARTE 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/893.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 6 </link>
+</item>
+<item>
+<title>FR | HD1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/835.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | HD1 </link>
+</item>
+<item>
+<title>FR | WEO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2523.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | WEO </link>
+</item>
+<item>
+<title>FR | W9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2500.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | W9 </link>
+</item>
+<item>
+<title>FR | USHUAIA HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2519.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | USHUAIA HD </link>
+</item>
+<item>
+<title>FR | TV BREITZ</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2521.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | TV BREITZ </link>
+</item>
+<item>
+<title>FR | TELETOON HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2515.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | TELETOON HD </link>
+</item>
+<item>
+<title>FR | SYFY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2537.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | SYFY HD </link>
+</item>
+<item>
+<title>FR | RMC DECOUVERTE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2527.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | RMC DECOUVERTE </link>
+</item>
+<item>
+<title>FR | PLANETE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2526.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | PLANETE HD </link>
+</item>
+<item>
+<title>FR | PLANETE CI HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2525.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | PLANETE CI HD </link>
+</item>
+<item>
+<title>FR | PIWI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2518.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | PIWI </link>
+</item>
+<item>
+<title>FR | NAT GEO WILD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2524.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | NAT GEO WILD </link>
+</item>
+<item>
+<title>FR | MANGAS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2508.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | MANGAS </link>
+</item>
+<item>
+<title>FR | M6 MUSIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2502.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | M6 MUSIC </link>
+</item>
+<item>
+<title>FR | I TELE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2528.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | I TELE </link>
+</item>
+<item>
+<title>FR | GULLI HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2511.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | GULLI HD </link>
+</item>
+<item>
+<title>FR | GONG</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2514.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | GONG </link>
+</item>
+<item>
+<title>FR | FRANCE 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2529.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | FRANCE 24 </link>
+</item>
+<item>
+<title>FR | EQUIDIA LIVE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2532.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | EQUIDIA LIVE HD </link>
+</item>
+<item>
+<title>FR | DISNEY XD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2513.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | DISNEY XD </link>
+</item>
+<item>
+<title>FR | DISNEY Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2509.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | DISNEY Channel </link>
+</item>
+<item>
+<title>FR | D8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2501.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | D8 </link>
+</item>
+<item>
+<title>FR | CHASSE ET PECHE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2504.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CHASSE ET PECHE </link>
+</item>
+<item>
+<title>FR | CANAL SPORT HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2539.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CANAL SPORT HD </link>
+</item>
+<item>
+<title>FR | CANAL PLAY 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2550.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CANAL PLAY 4 </link>
+</item>
+<item>
+<title>FR | CANAL PLAY 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2549.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CANAL PLAY 3 </link>
+</item>
+<item>
+<title>FR | CANAL PLAY 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2548.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CANAL PLAY 2 </link>
+</item>
+<item>
+<title>FR | CANAL PLAY 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2547.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CANAL PLAY 1 </link>
+</item>
+<item>
+<title>FR | CANAL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2540.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CANAL HD </link>
+</item>
+<item>
+<title>FR | CANAL DECALE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2538.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CANAL DECALE HD </link>
+</item>
+<item>
+<title>FR | BFM TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2530.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | BFM TV </link>
+</item>
+<item>
+<title>FR | ACTION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2536.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | ACTION </link>
+</item>
+<item>
+<title>FR | AB3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2544.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | AB3 </link>
+</item>
+<item>
+<title>FR | AB MOTEURS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2533.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | AB MOTEURS HD </link>
+</item>
+<item>
+<title>FR | 6TER HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2546.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | 6TER HD </link>
+</item>
+<item>
+<title>FR | 13 EME RUE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://92.222.215.164:8080/live/clinecenter.com1/xt96sx7JR0/2543.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | 13 EME RUE </link>
+</item>
