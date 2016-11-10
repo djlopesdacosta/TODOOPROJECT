@@ -39,11 +39,21 @@
 </item>
 
 <item>
-<title>[COLOR white]INTERNACIONAIS[/COLOR]</title>
+<title>[COLOR white]DUBRADOS[/COLOR]</title>
 <thumbnail>http://i97.servimg.com/u/f97/19/44/91/43/ads_oh11.png</thumbnail>
 <fanart>http://i97.servimg.com/u/f97/19/44/91/43/transf10.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/FILMES/INTERNACIONAIS.xml</externallink>
+</item>
+
+
+
+<item>
+<title>[COLOR white]INTERNACIONAIS[/COLOR]</title>
+<link>http://Movies.me</link>
+<jsonrpc>plugin://plugin.video.zen/?action=movies&amp;url=popular</jsonrpc>
+<thumbnail>http://orig04.deviantart.net/4e6c/f/2015/052/6/f/movies_general_folder_icon_by_zsotti60-d8ix5rx.png</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
 </item>
 
 
