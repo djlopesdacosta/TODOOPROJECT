@@ -1,54 +1,275 @@
-#EXTM3U
- 
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rtp_1_pt.png" group-title="Generalistas", RTP 1
-http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/1
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rtp_2_pt.png" group-title="Generalistas", RTP 2
-http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/2
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sic_pt.png" group-title="Generalistas", SIC
-http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/3
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tvi_pt.png" group-title="Generalistas", TVI
-http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/4
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sic_pt_noticias.png" group-title="Generalistas", SIC Notícias
-http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/5
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cm_tv_pt.png" group-title="Generalistas", CMTV
-http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/6
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tvi_24.png" group-title="Generalistas", TVI 24
-http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/9
-#EXTINF:-1 tvg-id="RTPNinformacao.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rtp_3_pt.png" group-title="Generalistas", RTP 3
-http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/10
-#EXTINF:-1 tvg-id="RTPNinformacao.pt" tvg-logo="http://www.lyngsat-logo.com/hires/pp/porto_canal.png" group-title="Generalistas", Porto Canal
-http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/11
-#EXTINF:-1 tvg-id="TVIdirect.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tvi_reality_pt.png" group-title="Generalistas", TVI Reality
-http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
-#EXTINF:0,Globo Premium
-http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/40
-#EXTINF:-1 tvg-id="tvrecord.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rede_record_br.png" group-title="Generalistas", Record
-http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/31
-#EXTINF:-1 tvg-id="cartoon.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="Animação, Cartoon Network
-http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/39
-#EXTINF:-1 tvg-id="DisneyJunior.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="Animação", Disney Junior
-http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/42
-#EXTINF:-1 tvg-id="canalpanda.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/canal_panda_pt.png" group-title="Animação", Canal Panda
-http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/43
-#EXTINF:-1 tvg-id="PandaBiggs.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/panda_biggs.png" group-title="Animação", BIGGS
-http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/44
-#EXTINF:-1 tvg-id="hollywood.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/canal_hollywood_pt.png" group-title="Cinema", Hollywood
-http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/66
-#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ff/fox_movies_pt.png" group-title="Cinema", FOX Movies
-http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/71
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sport_tv1_pt.png" group-title="Desporto", Sport TV+
-http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/78
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sport_tv1_pt.png" group-title="Desporto", Sport TV 1
-http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/79
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sport_tv2_pt.png" group-title="Desporto", Sport TV 2
-http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/81
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sport_tv3_pt.png" group-title="Desporto", Sport TV 3
-http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/83
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sport_tv4_pt.png" group-title="Desporto", Sport TV 4
-http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/84
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="https://soombo.com/assets/images/200_1459188732.png" group-title="Desporto", Sport TV 5
-http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/86
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png" group-title="Desporto", BTV 1
-http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/88
-#EXTINF:0,Sporting TV
-http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/91
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title>[COLOR] [COLOR red][/COLOR][B][COLOR red][B]P[/B][/COLOR][COLOR green][B]L[/B][/COLOR][COLOR orange][B]A[/B][/COLOR][COLOR red][B]Y[/B][/COLOR] [COLOR cyan]TV NEEDED [/COLOR][COLOR magenta]EXTRA ADDON [/COLOR][COLOR yellow]F4MTESTER [/COLOR]</title>
+<link>http://Movies.me</link>
+<jsonrpc>plugin://plugin.video.f4mTester/</jsonrpc>
+<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
+</item>
+<item>       
+<title>[COLOR red] [/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
+<fanart></fanart>
+</item>
+<item>       
+<title>            [COLOR red] PORTUGAL TV [/COLOR]  [COLOR lime]SERVIDOR 1[/COLOR]  </title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>       
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 10-11-16 [COLOR red][/COLOR][/B][/COLOR] </title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>PT | TVI REALITY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2803.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVI REALITY </link>
+</item>
+<item>
+<title>PT | TVI FICCAO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2804.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVI FICCAO </link>
+</item>
+<item>
+<title>PT | TVI HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2793.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVI HD </link>
+</item>
+<item>
+<title>PT | TVCINE 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2791.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVCINE 4 </link>
+</item>
+<item>
+<title>PT | TVCINE 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2790.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVCINE 3 </link>
+</item>
+<item>
+<title>PT | TVCINE 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2789.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVCINE 2 </link>
+</item>
+<item>
+<title>PT | TVCINE 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2788.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVCINE 1 </link>
+</item>
+<item>
+<title>PT | TV SERIES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2805.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TV SERIES </link>
+</item>
+<item>
+<title>PT | SPORTING TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2792.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SPORTING TV </link>
+</item>
+<item>
+<title>PT | SIC NOTICIAS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2807.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SIC NOTICIAS </link>
+</item>
+<item>
+<title>PT | SIC MULHER</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2808.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SIC MULHER </link>
+</item>
+<item>
+<title>PT | SIC Kids</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2802.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SIC Kids </link>
+</item>
+<item>
+<title>PT | SIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2794.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SIC </link>
+</item>
+<item>
+<title>PT | RTP Madeira</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2801.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | RTP Madeira </link>
+</item>
+<item>
+<title>PT | RTP ÃƒÂfrica</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2800.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | RTP ÃƒÂfrica </link>
+</item>
+<item>
+<title>PT | RTP 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2799.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | RTP 3 </link>
+</item>
+<item>
+<title>PT | RTP 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2798.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | RTP 2 </link>
+</item>
+<item>
+<title>PT | RTP 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2797.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | RTP 1 </link>
+</item>
+<item>
+<title>PT | PFC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2809.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | PFC </link>
+</item>
+<item>
+<title>PT | MCM POP</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2806.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | MCM POP </link>
+</item>
+<item>
+<title>PT | FOX MOVIES HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2810.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | FOX MOVIES HD </link>
+</item>
+<item>
+<title>PT | FOX COMEDY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2811.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | FOX COMEDY </link>
+</item>
+<item>
+<title>PT | BTV2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2796.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | BTV2 HD </link>
+</item>
+<item>
+<title>PT | BTV1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2795.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | BTV1 HD </link>
+</item>
+<item>
+<title>PT | AXN WHITE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2812.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | AXN WHITE HD </link>
+</item>
+<item>
+<title>PT | SPORT TV 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2989.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SPORT TV 1 HD </link>
+</item>
+<item>
+<title>PT | SPORT TV 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2990.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SPORT TV 2 HD </link>
+</item>
+<item>
+<title>PT | SPORT TV 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2991.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SPORT TV 3 HD </link>
+</item>
+<item>
+<title>PT | SPORT TV 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2992.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SPORT TV 4 HD </link>
+</item>
+<item>
+<title>PT | VH1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/3104.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | VH1 </link>
+</item>
+<item>
+<title>PT | TVI 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/3080.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVI 24 </link>
+</item>
+<item>
+<title>PT | SPORT TV+</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/3088.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SPORT TV+ </link>
+</item>
+<item>
+<title>PT | SPORT TV 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/3087.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SPORT TV 5 HD </link>
+</item>
+<item>
+<title>PT | SIC CARAS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/3082.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SIC CARAS </link>
+</item>
+<item>
+<title>PT | PANDA BIGGS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/3086.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | PANDA BIGGS </link>
+</item>
+<item>
+<title>PT | Odisseia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/3100.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Odisseia </link>
+</item>
+<item>
+<title>PT | NAT GEO WILD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/3101.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | NAT GEO WILD </link>
+</item>
+<item>
+<title>PT | MOV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/3095.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | MOV </link>
+</item>
+<item>
+<title>PT | MOTORVISION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/3092.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | MOTORVISION </link>
+</item>
+<item>
+<title>PT | JIM JAM</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/3085.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | JIM JAM </link>
+</item>
+<item>
+<title>PT | HOLLYWOOD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/3093.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | HOLLYWOOD </link>
+</item>
+<item>
+<title>PT | FOX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/3098.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | FOX HD </link>
+</item>
+<item>
+<title>PT | FOX CRIME HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/3099.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | FOX CRIME HD </link>
+</item>
+<item>
+<title>PT | EUROSPORT 2 XTRA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/3091.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | EUROSPORT 2 XTRA </link>
+</item>
+<item>
+<title>PT | DISNEY JUNIOR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/3083.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | DISNEY JUNIOR </link>
+</item>
+<item>
+<title>PT | DISCOVERY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/3102.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | DISCOVERY </link>
+</item>
+<item>
+<title>PT | CMTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/3081.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | CMTV </link>
+</item>
+<item>
+<title>PT | CINEMUNDO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/3094.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | CINEMUNDO </link>
+</item>
+<item>
+<title>PT | CBS REALITY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/3103.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | CBS REALITY </link>
+</item>
+<item>
+<title>PT | CANAL PANDA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/3084.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | CANAL PANDA </link>
+</item>
+<item>
+<title>PT | BTV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/3089.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | BTV HD </link>
+</item>
+<item>
+<title>PT | AXN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/3096.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | AXN HD </link>
+</item>
+<item>
+<title>PT | AXN BLACK HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/3097.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | AXN BLACK HD </link>
+</item>
+<item>
+<title>PT | A BOLA TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/3090.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | A BOLA TV </link>
+</item>
+
+
+  
+<item>       
+<title>[COLOR red]                                                          [/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>                                      [COLOR] [COLOR red][/COLOR][B][COLOR red][B]P[/B][/COLOR][COLOR green][B]L[/B][/COLOR][COLOR orange][B]A[/B][/COLOR][COLOR red][B]Y[/B][/COLOR] [COLOR cyan]TV NEEDED [/COLOR][COLOR magenta]EXTRA ADDON [/COLOR]</title>
+<link>http://Movies.me</link>
+<jsonrpc>plugin://plugin.video.f4mTester/</jsonrpc>
+<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
+</item>
+<item>
+<title>                                                             [COLOR yellow]F4MTESTER [/COLOR]</title>
+<link>http://Movies.me</link>
+<jsonrpc>plugin://plugin.video.f4mTester/</jsonrpc>
+<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
+</item>
