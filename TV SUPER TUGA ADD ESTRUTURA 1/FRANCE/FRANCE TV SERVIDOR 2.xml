@@ -25,7 +25,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 02-11-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 12-11-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
@@ -37,437 +37,241 @@
 
 
 
-
-
-
-
 <item>
-<title>RTS 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/200.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTS 1 </link>
+<title>FR-TF1_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4009.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TF1_HD </link>
 </item>
 <item>
-<title>RTS2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/203.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTS2 </link>
+<title>FR-France_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4010.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-France_2 </link>
 </item>
 <item>
-<title>RTVI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/61.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTVI </link>
+<title>FR-France_3_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4011.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-France_3_HD </link>
 </item>
 <item>
-<title>LA UNE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA UNE </link>
+<title>FR-FRANCE_4_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4012.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-FRANCE_4_HD </link>
 </item>
 <item>
-<title>LA DEUX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/64.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA DEUX </link>
+<title>FR-FRANCE_5_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4013.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-FRANCE_5_HD </link>
 </item>
 <item>
-<title>LA TROIS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/62.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA TROIS </link>
+<title>FR-FRANCE_O</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4014.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-FRANCE_O </link>
 </item>
 <item>
-<title>PLUG_RTL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/389.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLUG_RTL </link>
+<title>FR-M6_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4015.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-M6_HD </link>
 </item>
 <item>
-<title>ClUB_ RTL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/390.ts&amp;streamtype=TSDOWNLOADER&amp;name=ClUB_ RTL </link>
+<title>FR-ARTE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4016.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-ARTE </link>
 </item>
 <item>
-<title>TF1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/1.ts&amp;streamtype=TSDOWNLOADER&amp;name=TF1 </link>
+<title>FR-Bein_Sports_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4049.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Bein_Sports_HD </link>
 </item>
 <item>
-<title>M6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6 </link>
+<title>FR-Bein_Sport_2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4050.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Bein_Sport_2_HD </link>
 </item>
 <item>
-<title>FRANCE 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 2 </link>
+<title>FR-Bein_Sport 3_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4051.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Bein_Sport 3_HD </link>
 </item>
 <item>
-<title>FRANCE 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/7.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 3 </link>
+<title>FR-Comedie+</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4039.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Comedie+ </link>
 </item>
 <item>
-<title>FRANCE 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/50.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 4 </link>
+<title>FR-CINE_POLAR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4027.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-CINE_POLAR </link>
 </item>
 <item>
-<title>FRANCE 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/51.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 5 </link>
+<title>FR-CINE_FRISSON_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4029.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-CINE_FRISSON_HD </link>
 </item>
 <item>
-<title>TMC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/261.ts&amp;streamtype=TSDOWNLOADER&amp;name=TMC </link>
+<title>FR-Cine_Famiz_H</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4030.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Cine_Famiz_H </link>
 </item>
 <item>
-<title>NT1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/347.ts&amp;streamtype=TSDOWNLOADER&amp;name=NT1 </link>
+<title>FR-CINE_FX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4028.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-CINE_FX </link>
 </item>
 <item>
-<title>W9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/3.ts&amp;streamtype=TSDOWNLOADER&amp;name=W9 </link>
+<title>FR-Chasse_et_peche</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4072.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Chasse_et_peche </link>
 </item>
 <item>
-<title>NRJ12</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/4.ts&amp;streamtype=TSDOWNLOADER&amp;name=NRJ12 </link>
+<title>FR-Canal_sport_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4048.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Canal_sport_HD </link>
 </item>
 <item>
-<title>M6 MUSIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/167.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6 MUSIC </link>
+<title>FR-Canal_Series_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4035.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Canal_Series_HD </link>
 </item>
 <item>
-<title>MTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV </link>
+<title>FR-CANAL_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4020.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-CANAL_HD </link>
 </item>
 <item>
-<title>MTV_Hits</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/272.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV_Hits </link>
+<title>FR-Canal_Family_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4022.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Canal_Family_HD </link>
 </item>
 <item>
-<title>VH1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/447.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 </link>
+<title>FR-Canal_Decale_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4034.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Canal_Decale_HD </link>
 </item>
 <item>
-<title>MTV_Dance</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/276.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV_Dance </link>
+<title>FR-Canal_cinema_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4021.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Canal_cinema_HD </link>
 </item>
 <item>
-<title>AB1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/89.ts&amp;streamtype=TSDOWNLOADER&amp;name=AB1 </link>
+<title>FR-Toute_l-Histoire</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4070.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Toute_l-Histoire </link>
 </item>
 <item>
-<title>E!</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/90.ts&amp;streamtype=TSDOWNLOADER&amp;name=E! </link>
+<title>FR-Gulli</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4087.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Gulli </link>
 </item>
 <item>
-<title>Syfy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/78.ts&amp;streamtype=TSDOWNLOADER&amp;name=Syfy </link>
+<title>FR-W9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4044.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-W9 </link>
 </item>
 <item>
-<title>TV Breizh</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/403.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV Breizh </link>
+<title>FR-USHUAIA_TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4068.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-USHUAIA_TV </link>
 </item>
 <item>
-<title>PARIS_PREMIERE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/77.ts&amp;streamtype=TSDOWNLOADER&amp;name=PARIS_PREMIERE </link>
+<title>FR-TEVA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4043.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TEVA </link>
 </item>
 <item>
-<title>13eme Rue</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/205.ts&amp;streamtype=TSDOWNLOADER&amp;name=13eme Rue </link>
+<title>FR-TCM</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4032.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TCM </link>
 </item>
 <item>
-<title>Comedie+ HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedie+ HD </link>
+<title>FR-RMC_Decouverte_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4073.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-RMC_Decouverte_HD </link>
 </item>
 <item>
-<title>Paramount channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/449.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paramount channel </link>
+<title>FR-Euronews</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4096.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Euronews </link>
 </item>
 <item>
-<title>BFM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/23.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM </link>
+<title>FR-Eurosport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4054.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Eurosport </link>
 </item>
 <item>
-<title>D17</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/8.ts&amp;streamtype=TSDOWNLOADER&amp;name=D17 </link>
+<title>FR-Eurosport_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4055.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Eurosport_2 </link>
 </item>
 <item>
-<title>teva</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/76.ts&amp;streamtype=TSDOWNLOADER&amp;name=teva </link>
+<title>FR-Planete _CI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4061.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Planete _CI </link>
 </item>
 <item>
-<title>RTL 9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL 9 </link>
+<title>FR-Planete_A&E</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4060.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Planete_A&E </link>
 </item>
 <item>
-<title>6TER</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/5.ts&amp;streamtype=TSDOWNLOADER&amp;name=6TER </link>
+<title>FR-PLANETE_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4059.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-PLANETE_HD </link>
 </item>
 <item>
-<title>GULLI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=GULLI </link>
+<title>FR-Piwi</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4083.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Piwi </link>
 </item>
 <item>
-<title>Boing</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/187.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing </link>
+<title>FR-OCS_MAX_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4023.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-OCS_MAX_HD </link>
 </item>
 <item>
-<title>FR: Disney XD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/314.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney XD </link>
+<title>FR-OCS_CHOC_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4024.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-OCS_CHOC_HD </link>
 </item>
 <item>
-<title>Disney.Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/186.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney.Junior </link>
+<title>FR-NT1_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4042.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-NT1_HD </link>
 </item>
 <item>
-<title>Disney Cine Magic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Cine Magic </link>
+<title>FR-National_Geographic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4063.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-National_Geographic </link>
 </item>
 <item>
-<title>Disney Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel </link>
+<title>FR-NAT_GEO_WILD_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4064.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-NAT_GEO_WILD_HD </link>
 </item>
 <item>
-<title>DINEYCHANELPLUS1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/337.ts&amp;streamtype=TSDOWNLOADER&amp;name=DINEYCHANELPLUS1 </link>
+<title>FR-Mangas</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4088.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Mangas </link>
 </item>
 <item>
-<title>teletoon+</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/18.ts&amp;streamtype=TSDOWNLOADER&amp;name=teletoon+ </link>
+<title>FR-Ma_Chaine_Sport_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4052.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Ma_Chaine_Sport_HD </link>
 </item>
 <item>
-<title>Teletoon_+1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/450.ts&amp;streamtype=TSDOWNLOADER&amp;name=Teletoon_+1 </link>
+<title>FR-M6_music</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4076.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-M6_music </link>
 </item>
 <item>
-<title>Cartoon Network FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/16.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon Network FR </link>
+<title>FR-L_equipe_21</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4057.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-L_equipe_21 </link>
 </item>
 <item>
-<title>Nick Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/17.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Junior </link>
+<title>FR-E!_ENTERTAINEMENT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4037.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-E!_ENTERTAINEMENT </link>
 </item>
 <item>
-<title>NICKELODEON</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/352.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON </link>
+<title>FR-Discovery_Science_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4066.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Discovery_Science_HD </link>
 </item>
 <item>
-<title>ZOUZOUS_FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/470.ts&amp;streamtype=TSDOWNLOADER&amp;name=ZOUZOUS_FR </link>
+<title>FR-Discovery_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4065.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Discovery_HD </link>
 </item>
 <item>
-<title>BOOMRANG</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/15.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOOMRANG </link>
+<title>FR-D8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4045.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-D8 </link>
 </item>
 <item>
-<title>Mangas</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mangas </link>
+<title>FR-D17</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4046.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-D17 </link>
 </item>
 <item>
-<title>Tiji</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tiji </link>
+<title>FR-BFM_TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4095.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-BFM_TV </link>
 </item>
 <item>
-<title>CANAL J</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/19.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL J </link>
+<title>FR-Animaux_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4071.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Animaux_HD </link>
 </item>
 <item>
-<title>piwi</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/111.ts&amp;streamtype=TSDOWNLOADER&amp;name=piwi </link>
+<title>FR-Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4031.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Action </link>
 </item>
 <item>
-<title>J-One HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/458.ts&amp;streamtype=TSDOWNLOADER&amp;name=J-One HD </link>
+<title>FR-6TER</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4018.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-6TER </link>
 </item>
 <item>
-<title>Baby_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/393.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby_TV </link>
+<title>FR-TMC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4005.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TMC </link>
 </item>
 <item>
-<title>GAME_ONE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/394.ts&amp;streamtype=TSDOWNLOADER&amp;name=GAME_ONE </link>
+<title>FR-Syfy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4036.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Syfy </link>
 </item>
 <item>
-<title>CANAL+ HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ HD </link>
+<title>FR-RTL9_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4006.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-RTL9_HD </link>
 </item>
 <item>
-<title>Canal+ Decale</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Decale </link>
-</item>
-<item>
-<title>canal+ Family</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=canal+ Family </link>
-</item>
-<item>
-<title>Canal+ Cinema HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/27.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Cinema HD </link>
-</item>
-<item>
-<title>Canal+ Serie HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/25.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Serie HD </link>
-</item>
-<item>
-<title>ACTION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/216.ts&amp;streamtype=TSDOWNLOADER&amp;name=ACTION </link>
-</item>
-<item>
-<title>serie club</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/79.ts&amp;streamtype=TSDOWNLOADER&amp;name=serie club </link>
-</item>
-<item>
-<title>canal+ Sport HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=canal+ Sport HD </link>
-</item>
-<item>
-<title>BEINSPORT FR1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEINSPORT FR1 </link>
-</item>
-<item>
-<title>BEINSPORT FR2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/66.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEINSPORT FR2 </link>
-</item>
-<item>
-<title>BEINSPORT FR3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEINSPORT FR3 </link>
-</item>
-<item>
-<title>FOOT_24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/306.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOOT_24 </link>
-</item>
-<item>
-<title>MA CHAINE SPORT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/201.ts&amp;streamtype=TSDOWNLOADER&amp;name=MA CHAINE SPORT </link>
-</item>
-<item>
-<title>INFO_SPORT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/182.ts&amp;streamtype=TSDOWNLOADER&amp;name=INFO_SPORT </link>
-</item>
-<item>
-<title>Equidia Live</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/401.ts&amp;streamtype=TSDOWNLOADER&amp;name=Equidia Live </link>
-</item>
-<item>
-<title>FR : CINE CLUB</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/316.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR : CINE CLUB </link>
-</item>
-<item>
-<title>KOMBAT_SPORT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/307.ts&amp;streamtype=TSDOWNLOADER&amp;name=KOMBAT_SPORT </link>
-</item>
-<item>
-<title>EUROSPORT 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/309.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 </link>
-</item>
-<item>
-<title>OL TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/259.ts&amp;streamtype=TSDOWNLOADER&amp;name=OL TV </link>
-</item>
-<item>
-<title>EUROSPORT1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/184.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT1 HD </link>
-</item>
-<item>
-<title>OCS CITY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS CITY </link>
-</item>
-<item>
-<title>OCS CHOC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS CHOC </link>
-</item>
-<item>
-<title>OCS Max HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/82.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS Max HD </link>
-</item>
-<item>
-<title>OCS Geants HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS Geants HD </link>
-</item>
-<item>
-<title>Cine frisson</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/13.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine frisson </link>
-</item>
-<item>
-<title>Cine+ Premier HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/80.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine+ Premier HD </link>
-</item>
-<item>
-<title>cinema classique</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/202.ts&amp;streamtype=TSDOWNLOADER&amp;name=cinema classique </link>
-</item>
-<item>
-<title>Cine+ Emotion HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/81.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine+ Emotion HD </link>
-</item>
-<item>
-<title>CINE FAMIZ HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/262.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE FAMIZ HD </link>
-</item>
-<item>
-<title>CINE_FX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/422.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE_FX </link>
-</item>
-<item>
-<title>CINE POLAR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/421.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE POLAR HD </link>
-</item>
-<item>
-<title>TCM CINEMA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/308.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM CINEMA </link>
-</item>
-<item>
-<title>PLANETE +</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/22.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLANETE + </link>
-</item>
-<item>
-<title>DISCOVERY SCIENCE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/169.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SCIENCE </link>
-</item>
-<item>
-<title>Planete-ci</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planete-ci </link>
-</item>
-<item>
-<title>RMC Decouverte</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/448.ts&amp;streamtype=TSDOWNLOADER&amp;name=RMC Decouverte </link>
-</item>
-<item>
-<title>NAT GEO WILD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/20.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD </link>
-</item>
-<item>
-<title>Animal_Planet</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/479.ts&amp;streamtype=TSDOWNLOADER&amp;name=Animal_Planet </link>
-</item>
-<item>
-<title>Nat Geo HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo HD </link>
-</item>
-<item>
-<title>PLANET+_AE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/168.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLANET+_AE </link>
-</item>
-<item>
-<title>VOYAGE  HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/185.ts&amp;streamtype=TSDOWNLOADER&amp;name=VOYAGE  HD </link>
-</item>
-<item>
-<title>Histoire</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/446.ts&amp;streamtype=TSDOWNLOADER&amp;name=Histoire </link>
-</item>
-<item>
-<title>Toute histoire</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/204.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toute histoire </link>
-</item>
-<item>
-<title>ScienceetVieTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=ScienceetVieTV </link>
-</item>
-<item>
-<title>ushuaia tv</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/75.ts&amp;streamtype=TSDOWNLOADER&amp;name=ushuaia tv </link>
-</item>
-<item>
-<title>season</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/304.ts&amp;streamtype=TSDOWNLOADER&amp;name=season </link>
-</item>
-<item>
-<title>Animaux HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/87.ts&amp;streamtype=TSDOWNLOADER&amp;name=Animaux HD </link>
-</item>
-<item>
-<title>Chasse et Peche</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/97.ts&amp;streamtype=TSDOWNLOADER&amp;name=Chasse et Peche </link>
-</item>
-<item>
-<title>Discovery</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/21.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery </link>
-</item>
-<item>
-<title>i tele</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evolive-tv.com:8000/live/majid/majid/348.ts&amp;streamtype=TSDOWNLOADER&amp;name=i tele </link>
+<title>FR-OCS_city</title>
+<link>plugin://plugin.video.f4mTester/?url=http://148.251.1.69:8000/live/hakami/hakami/4026.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-OCS_city </link>
 </item>
 
 
