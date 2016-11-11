@@ -25,7 +25,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 10-11-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 12-11-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
@@ -38,876 +38,534 @@
 
 
 
+<item>
+<title>DE:Zee One HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19110.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Zee One HD </link>
+</item>
+<item>
+<title>DE:VOX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19105.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:VOX HD </link>
+</item>
+<item>
+<title>DE:Tele 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19109.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Tele 5 HD </link>
+</item>
+<item>
+<title>DE:Super RTL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19167.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Super RTL HD </link>
+</item>
+<item>
+<title>DE:Sport 1 US HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19178.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sport 1 US HD </link>
+</item>
+<item>
+<title>DE:Sport 1  HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19176.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sport 1  HD </link>
+</item>
+<item>
+<title>DE:Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19177.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sport 1 </link>
+</item>
+<item>
+<title>DE:Spiegel TV Wissen HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19163.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Spiegel TV Wissen HD </link>
+</item>
+<item>
+<title>DE:Spiegel TV Geschichte</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19158.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Spiegel TV Geschichte </link>
+</item>
+<item>
+<title>DE:SKY Prosieben Fun HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19108.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Prosieben Fun HD </link>
+</item>
+<item>
+<title>DE:SKY Germany Universal HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19139.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany Universal HD </link>
+</item>
+<item>
+<title>DE:SKY Germany TNT Serie HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19146.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany TNT Serie HD </link>
+</item>
+<item>
+<title>DE:SKY Germany TNT Film HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19145.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany TNT Film HD </link>
+</item>
+<item>
+<title>DE:SKY Germany TNT Comedy HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19147.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany TNT Comedy HD </link>
+</item>
+<item>
+<title>DE:SKY Germany Syfy HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19140.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany Syfy HD </link>
+</item>
+<item>
+<title>DE:SKY Germany Sports News HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19182.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany Sports News HD </link>
+</item>
+<item>
+<title>DE:SKY Germany Sportdigital</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19181.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany Sportdigital </link>
+</item>
+<item>
+<title>DE:SKY Germany Sony HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19134.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany Sony HD </link>
+</item>
+<item>
+<title>DE:SKY Germany Silverline</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19135.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany Silverline </link>
+</item>
+<item>
+<title>DE:SKY Germany Planet HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19151.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany Planet HD </link>
+</item>
+<item>
+<title>DE:SKY Germany Nostalgie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19143.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany Nostalgie </link>
+</item>
+<item>
+<title>DE:SKY Germany National Geo HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19153.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany National Geo HD </link>
+</item>
+<item>
+<title>DE:SKY Germany NatGeo Wild HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19154.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany NatGeo Wild HD </link>
+</item>
+<item>
+<title>DE:SKY Germany Nat Geo People HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19155.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany Nat Geo People HD </link>
+</item>
+<item>
+<title>DE:SKY Germany MGM</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19137.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany MGM </link>
+</item>
+<item>
+<title>DE:SKY Germany Krimi</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19144.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany Krimi </link>
+</item>
+<item>
+<title>DE:SKY Germany Kinowelt HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19142.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany Kinowelt HD </link>
+</item>
+<item>
+<title>DE:SKY Germany Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19165.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany Junior </link>
+</item>
+<item>
+<title>DE:SKY Germany Hits HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19126.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany Hits HD </link>
+</item>
+<item>
+<title>DE:SKY Germany History HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19157.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany History HD </link>
+</item>
+<item>
+<title>DE:SKY Germany Goldstar</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19150.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany Goldstar </link>
+</item>
+<item>
+<title>DE:SKY Germany Fox HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19138.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany Fox HD </link>
+</item>
+<item>
+<title>DE:SKY Germany Emotion</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19130.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany Emotion </link>
+</item>
+<item>
+<title>DE:SKY Germany Disney XD HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19168.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany Disney XD HD </link>
+</item>
+<item>
+<title>DE:SKY Germany Disney Jr. HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19164.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany Disney Jr. HD </link>
+</item>
+<item>
+<title>DE:SKY Germany Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19131.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany Comedy </link>
+</item>
+<item>
+<title>DE:SKY Germany Cinema HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19127.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany Cinema HD </link>
+</item>
+<item>
+<title>DE:SKY Germany Cinema 24 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19129.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany Cinema 24 HD </link>
+</item>
+<item>
+<title>DE:SKY Germany Cinema 1  HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19128.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany Cinema 1  HD </link>
+</item>
+<item>
+<title>DE:SKY Germany AXN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19141.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany AXN HD </link>
+</item>
+<item>
+<title>DE:SKY Germany Atlantic HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19132.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany Atlantic HD </link>
+</item>
+<item>
+<title>DE:SKY Germany Animal Planet HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19156.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany Animal Planet HD </link>
+</item>
+<item>
+<title>DE:SKY Germany Action HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19125.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany Action HD </link>
+</item>
+<item>
+<title>DE:SKY Germany A&E HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19148.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany A&E HD </link>
+</item>
+<item>
+<title>DE:SKY Germany 13Th Street HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19136.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Germany 13Th Street HD </link>
+</item>
+<item>
+<title>DE:SKY E! Entertainm</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19149.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY E! Entertainm </link>
+</item>
+<item>
+<title>DE:SKY Disney Cinemagic HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19169.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Disney Cinemagic HD </link>
+</item>
+<item>
+<title>DE:SKY Disney Channel HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19170.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Disney Channel HD </link>
+</item>
+<item>
+<title>DE:SKY Discovery Channel HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19152.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Discovery Channel HD </link>
+</item>
+<item>
+<title>DE:SKY Auto Motor Sport Channel HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19179.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY Auto Motor Sport Channel HD </link>
+</item>
+<item>
+<title>DE:Sixx HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19123.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sixx HD </link>
+</item>
+<item>
+<title>DE:ServusTV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19124.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ServusTV HD </link>
+</item>
+<item>
+<title>DE:SAT 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19103.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SAT 1 HD </link>
+</item>
+<item>
+<title>DE:RTL2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19095.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL2 HD </link>
+</item>
+<item>
+<title>DE:RTL Plus</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19094.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL Plus </link>
+</item>
+<item>
+<title>DE:RTL Passion HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19099.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL Passion HD </link>
+</item>
+<item>
+<title>DE:RTL Nitro HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19097.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL Nitro HD </link>
+</item>
+<item>
+<title>DE:RTL Nitro</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19098.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL Nitro </link>
+</item>
+<item>
+<title>DE:RTL Living HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19100.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL Living HD </link>
+</item>
+<item>
+<title>DE:RTL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19092.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL HD </link>
+</item>
+<item>
+<title>DE:RTL Crime HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19101.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL Crime HD </link>
+</item>
+<item>
+<title>DE:RTL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19093.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL </link>
+</item>
+<item>
+<title>DE:Romance TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19102.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Romance TV HD </link>
+</item>
+<item>
+<title>DE:ProSieben Max</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19107.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ProSieben Max </link>
+</item>
+<item>
+<title>DE:ProSieben HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19106.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ProSieben HD </link>
+</item>
+<item>
+<title>DE:ORF 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19116.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ORF 3 HD </link>
+</item>
+<item>
+<title>DE:ORF 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19115.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ORF 2 HD </link>
+</item>
+<item>
+<title>DE:ORF 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19114.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ORF 1 HD </link>
+</item>
+<item>
+<title>DE:NTV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19120.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:NTV HD </link>
+</item>
+<item>
+<title>DE:Nickelolocalon HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19172.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Nickelolocalon HD </link>
+</item>
+<item>
+<title>DE:Nick Jr. HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19171.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Nick Jr. HD </link>
+</item>
+<item>
+<title>DE:N24 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19159.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:N24 HD </link>
+</item>
+<item>
+<title>DE:Kabel Classic HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19113.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Kabel Classic HD </link>
+</item>
+<item>
+<title>DE:Kabel 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19112.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Kabel 1 HD </link>
+</item>
+<item>
+<title>DE:Heimatkanal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19162.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Heimatkanal </link>
+</item>
+<item>
+<title>DE:Eurosport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19175.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Eurosport 2 </link>
+</item>
+<item>
+<title>DE:Eurosport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19174.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Eurosport 1 HD </link>
+</item>
+<item>
+<title>DE:DMAX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19111.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:DMAX HD </link>
+</item>
+<item>
+<title>DE:Das Erste HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19088.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Das Erste HD </link>
+</item>
+<item>
+<title>DE:Classica</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19122.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Classica </link>
+</item>
+<item>
+<title>DE:Boomerang HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19166.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Boomerang HD </link>
+</item>
+<item>
+<title>DE:Arte HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19121.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Arte HD </link>
+</item>
+<item>
+<title>DE:ARD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/19089.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ARD </link>
+</item>
+<item>
+<title>DE: Sky Sport 9 HD [on Matchday]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18903.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 9 HD [on Matchday] </link>
+</item>
+<item>
+<title>DE: Sky Sport 8 HD [on Matchday]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18902.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 8 HD [on Matchday] </link>
+</item>
+<item>
+<title>DE: Sky Sport 7 HD [on Matchday]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18901.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 7 HD [on Matchday] </link>
+</item>
+<item>
+<title>DE: Sky Sport 6 HD [on Matchday]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18900.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 6 HD [on Matchday] </link>
+</item>
+<item>
+<title>DE: Sky Sport 5 HD [on Matchday]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18899.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 5 HD [on Matchday] </link>
+</item>
+<item>
+<title>DE: Sky Sport 4 HD [on Matchday]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18898.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 4 HD [on Matchday] </link>
+</item>
+<item>
+<title>DE: Sky Sport 3 HD [on Matchday]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18897.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 3 HD [on Matchday] </link>
+</item>
+<item>
+<title>DE: Sky Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18896.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 2 HD </link>
+</item>
+<item>
+<title>DE: Sky Sport 10 HD [on Matchday]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18904.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 10 HD [on Matchday] </link>
+</item>
+<item>
+<title>DE: Sky Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18895.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 1 HD </link>
+</item>
+<item>
+<title>DE: Sky Bundesliga 9 HD [on Matchday]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18893.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 9 HD [on Matchday] </link>
+</item>
+<item>
+<title>DE: Sky Bundesliga 8 HD [on Matchday]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18892.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 8 HD [on Matchday] </link>
+</item>
+<item>
+<title>DE: Sky Bundesliga 7 HD [on Matchday]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18891.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 7 HD [on Matchday] </link>
+</item>
+<item>
+<title>DE: Sky Bundesliga 6 HD [on Matchday]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18890.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 6 HD [on Matchday] </link>
+</item>
+<item>
+<title>DE: Sky Bundesliga 5 HD [on Matchday]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18889.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 5 HD [on Matchday] </link>
+</item>
+<item>
+<title>DE: Sky Bundesliga 4 HD [on Matchday]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18888.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 4 HD [on Matchday] </link>
+</item>
+<item>
+<title>DE: Sky Bundesliga 3 HD [on Matchday]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18887.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 3 HD [on Matchday] </link>
+</item>
+<item>
+<title>DE: Sky Bundesliga 2 HD [on Matchday]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18886.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 2 HD [on Matchday] </link>
+</item>
+<item>
+<title>DE: Sky Bundesliga 10 HD [on Matchday]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18894.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 10 HD [on Matchday] </link>
+</item>
+<item>
+<title>DE: Sky Bundesliga 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18885.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 1 HD </link>
+</item>
+<item>
+<title>DE: SKY_SELECT_9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18409.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY_SELECT_9 </link>
+</item>
+<item>
+<title>DE: SKY_SELECT_8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18410.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY_SELECT_8 </link>
+</item>
+<item>
+<title>DE: SKY_SELECT_7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18411.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY_SELECT_7 </link>
+</item>
+<item>
+<title>DE: SKY_SELECT_6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18412.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY_SELECT_6 </link>
+</item>
+<item>
+<title>DE: SKY_SELECT_5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18413.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY_SELECT_5 </link>
+</item>
+<item>
+<title>DE: SKY_SELECT_4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18414.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY_SELECT_4 </link>
+</item>
+<item>
+<title>DE: SKY_SELECT_3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18415.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY_SELECT_3 </link>
+</item>
+<item>
+<title>DE: SKY_SELECT_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18416.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY_SELECT_2 </link>
+</item>
+<item>
+<title>DE: SKY_SELECT_10</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18417.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY_SELECT_10 </link>
+</item>
+<item>
+<title>DE: SKY_CINEMA_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18423.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY_CINEMA_HD </link>
+</item>
+<item>
+<title>DE: SKY_CINEMA_24_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18418.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY_CINEMA_24_HD </link>
+</item>
+<item>
+<title>DE: SKY_CINEMA_1_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18419.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY_CINEMA_1_HD </link>
+</item>
+<item>
+<title>DE: SKY-STORT-HD-2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18422.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY-STORT-HD-2 </link>
+</item>
+<item>
+<title>DE: TNT_SERIE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18408.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT_SERIE </link>
+</item>
+<item>
+<title>DE: Sat_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18424.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sat_1 </link>
+</item>
+<item>
+<title>DE: RTL_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18421.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL_HD </link>
+</item>
+<item>
+<title>DE: Prosieben-Max</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18425.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Prosieben-Max </link>
+</item>
+<item>
+<title>DE: Prosieben</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18426.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Prosieben </link>
+</item>
+<item>
+<title>DE: PRO_7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18406.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: PRO_7 </link>
+</item>
+<item>
+<title>DE: NAT_GEO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18420.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NAT_GEO </link>
+</item>
+<item>
+<title>DE: Kika_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18433.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kika_HD </link>
+</item>
+<item>
+<title>DE: FOX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18429.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: FOX </link>
+</item>
+<item>
+<title>DE: Dmax</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/18407.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Dmax </link>
+</item>
 
 
-<item>
-<title>DE | SKY MGM HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1399.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY MGM HD </link>
-</item>
-<item>
-<title>DE | SKY SPORT NEWS HD uuu</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1431.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY SPORT NEWS HD uuu </link>
-</item>
-<item>
-<title>DE | ATV-A</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1430.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | ATV-A </link>
-</item>
-<item>
-<title>DE | Kika.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1429.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Kika. </link>
-</item>
-<item>
-<title>DE | PRO7_MAXX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1506.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | PRO7_MAXX </link>
-</item>
-<item>
-<title>DE | Pro7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1507.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Pro7 </link>
-</item>
-<item>
-<title>DE | SKY KRIMI HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1400.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY KRIMI HD </link>
-</item>
-<item>
-<title>DE | RTL_LIVING</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1508.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | RTL_LIVING </link>
-</item>
-<item>
-<title>DE | SkyHits</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1401.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SkyHits </link>
-</item>
-<item>
-<title>DE | NatGeo Wild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1411.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | NatGeo Wild </link>
-</item>
-<item>
-<title>DE | SKY CINEMA1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1406.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY CINEMA1 HD </link>
-</item>
-<item>
-<title>DE | SKY COMEDY HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1407.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY COMEDY HD </link>
-</item>
-<item>
-<title>DE | SKY CINEMA HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1408.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY CINEMA HD </link>
-</item>
-<item>
-<title>DE | SkyAction</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1404.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SkyAction </link>
-</item>
-<item>
-<title>DE | SkyAtlantic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1403.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SkyAtlantic </link>
-</item>
-<item>
-<title>DE | SkyCinema24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1405.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SkyCinema24 </link>
-</item>
-<item>
-<title>DE | 13Street</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1402.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | 13Street </link>
-</item>
-<item>
-<title>DE | Sat1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1426.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Sat1 </link>
-</item>
-<item>
-<title>DE | EURO SPORT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1412.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | EURO SPORT </link>
-</item>
-<item>
-<title>DE | EUROSPORT2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1413.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | EUROSPORT2 </link>
-</item>
-<item>
-<title>DE | SKY SPORT1 HD uuu</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1417.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY SPORT1 HD uuu </link>
-</item>
-<item>
-<title>DE | ORF1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1421.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | ORF1 </link>
-</item>
-<item>
-<title>DE | VOX.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1423.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | VOX. </link>
-</item>
-<item>
-<title>DE | SKY BUNDESLIGA  1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1416.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA  1 </link>
-</item>
-<item>
-<title>DE | SKY SPORT 2HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1415.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY SPORT 2HD </link>
-</item>
-<item>
-<title>DE | SAT 1.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1418.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SAT 1. </link>
-</item>
-<item>
-<title>DE | PRO 7.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1428.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | PRO 7. </link>
-</item>
-<item>
-<title>DE | SuperRTL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1419.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SuperRTL </link>
-</item>
-<item>
-<title>DE | RTL HD uuu</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1420.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | RTL HD uuu </link>
-</item>
-<item>
-<title>DE | ZDF.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1422.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | ZDF. </link>
-</item>
-<item>
-<title>DE | RTL II</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1427.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | RTL II </link>
-</item>
-<item>
-<title>DE | Prosieben</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1409.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Prosieben </link>
-</item>
-<item>
-<title>DE | SkyCinema</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1425.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SkyCinema </link>
-</item>
-<item>
-<title>DE | SKY Comedy one</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1432.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY Comedy one </link>
-</item>
-<item>
-<title>DE | SKY CINEMA +1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1410.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY CINEMA +1 </link>
-</item>
-<item>
-<title>DE | RTL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1513.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | RTL HD </link>
-</item>
-<item>
-<title>DE | SKY EMOTION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1473.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY EMOTION </link>
-</item>
-<item>
-<title>DE | NDR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1477.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | NDR HD </link>
-</item>
-<item>
-<title>DE | RTL_CRIME</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1509.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | RTL_CRIME </link>
-</item>
-<item>
-<title>DE | Fox hd uuu</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1522.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Fox hd uuu </link>
-</item>
-<item>
-<title>DE | AXN.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1523.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | AXN. </link>
-</item>
-<item>
-<title>DE | Sat1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1510.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Sat1 HD </link>
-</item>
-<item>
-<title>DE | Srf1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1472.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Srf1 </link>
-</item>
-<item>
-<title>DE | N TV.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1474.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | N TV. </link>
-</item>
-<item>
-<title>DE | ROMANCE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1475.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | ROMANCE </link>
-</item>
-<item>
-<title>DE | SkyNostalgie</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1476.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SkyNostalgie </link>
-</item>
-<item>
-<title>DE | Eurosport HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1478.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Eurosport HD </link>
-</item>
-<item>
-<title>DE | WDRHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1480.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | WDRHD </link>
-</item>
-<item>
-<title>DE | SKY BUNDESLIGA 1HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1481.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 1HD </link>
-</item>
-<item>
-<title>DE | VOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1514.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | VOX </link>
-</item>
-<item>
-<title>DE | SKY SPORT NEWS HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1482.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY SPORT NEWS HD </link>
-</item>
-<item>
-<title>DE | SKYSPORT AUSTRIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1483.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKYSPORT AUSTRIA </link>
-</item>
-<item>
-<title>DE | SKY SPORT 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1484.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY SPORT 2 HD </link>
-</item>
-<item>
-<title>DE | SPORT1 US HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1485.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SPORT1 US HD </link>
-</item>
-<item>
-<title>DE | SPORT +1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1486.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SPORT +1 HD </link>
-</item>
-<item>
-<title>DE | SPORT 1  HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1487.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SPORT 1  HD </link>
-</item>
-<item>
-<title>DE | SKY SELECT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1495.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY SELECT 1 </link>
-</item>
-<item>
-<title>DE | SKY SELECT 2HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1494.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY SELECT 2HD </link>
-</item>
-<item>
-<title>DE | Sky Select 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1493.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Sky Select 3 HD </link>
-</item>
-<item>
-<title>DE | Sky Select 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1492.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Sky Select 4 HD </link>
-</item>
-<item>
-<title>DE | Sky Select 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1491.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Sky Select 5 HD </link>
-</item>
-<item>
-<title>DE | Sky Select 6 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1490.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Sky Select 6 HD </link>
-</item>
-<item>
-<title>DE | Sky Select 7HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1489.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Sky Select 7HD </link>
-</item>
-<item>
-<title>DE | Sky Select 8HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1488.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Sky Select 8HD </link>
-</item>
-<item>
-<title>DE | ZDF</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1515.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | ZDF </link>
-</item>
-<item>
-<title>DE | ORF2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1517.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | ORF2 </link>
-</item>
-<item>
-<title>DE | D MAX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1518.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | D MAX HD </link>
-</item>
-<item>
-<title>DE | HISTORY CHANNEL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1497.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | HISTORY CHANNEL HD </link>
-</item>
-<item>
-<title>DE | NATIONAL GEOGRAPHIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1498.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | NATIONAL GEOGRAPHIC </link>
-</item>
-<item>
-<title>DE | RTL2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1512.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | RTL2 HD </link>
-</item>
-<item>
-<title>DE | TNT Serie HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1520.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | TNT Serie HD </link>
-</item>
-<item>
-<title>DE | NATGEOWILD HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1499.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | NATGEOWILD HD </link>
-</item>
-<item>
-<title>DE | ARD HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1500.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | ARD HD </link>
-</item>
-<item>
-<title>DE | ARD TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1516.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | ARD TV </link>
-</item>
-<item>
-<title>DE | Disney_Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1501.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Disney_Junior </link>
-</item>
-<item>
-<title>DE | Disney_XD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1502.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Disney_XD </link>
-</item>
-<item>
-<title>DE | NICK_JR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1504.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | NICK_JR </link>
-</item>
-<item>
-<title>DE | SYFY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1521.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SYFY </link>
-</item>
-<item>
-<title>DE | WDR.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1505.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | WDR. </link>
-</item>
-<item>
-<title>DE | RTL_NITRO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1511.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | RTL_NITRO </link>
-</item>
-<item>
-<title>DE | SIXX.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/1519.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SIXX. </link>
-</item>
-<item>
-<title>DE | SKY TNT SERIES HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2625.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY TNT SERIES HD </link>
-</item>
-<item>
-<title>DE | SKY TNT FILME HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2624.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY TNT FILME HD </link>
-</item>
-<item>
-<title>DE | SKY NATGEO WILD HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2633.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY NATGEO WILD HD </link>
-</item>
-<item>
-<title>DE | RTL PASSÄ°ON</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2626.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | RTL PASSÄ°ON </link>
-</item>
-<item>
-<title>DE | KINO WELT TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2630.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | KINO WELT TV </link>
-</item>
-<item>
-<title>DE | KabelEins</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2627.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | KabelEins </link>
-</item>
-<item>
-<title>DE | HEIMAT KANAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2631.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | HEIMAT KANAL </link>
-</item>
-<item>
-<title>DE | DISNEY CINEMAGIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2632.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | DISNEY CINEMAGIC </link>
-</item>
-<item>
-<title>DE | A&E</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/test34/0711/2628.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | A&E </link>
-</item>
-<item>
-<title>DE VOD | 10.Cloverfield.Lane.2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1764.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | 10.Cloverfield.Lane.2016 </link>
-</item>
-<item>
-<title>DE VOD | 69.Tage.Hoffnung.2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1765.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | 69.Tage.Hoffnung.2015 </link>
-</item>
-<item>
-<title>DE VOD | A.Perfect.Day.2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1766.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | A.Perfect.Day.2015 </link>
-</item>
-<item>
-<title>DE VOD | Baskin  2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1768.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Baskin  2015 </link>
-</item>
-<item>
-<title>DE VOD | Batman.v.Superman.Dawn.of.Justice.2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1770.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Batman.v.Superman.Dawn.of.Justice.2016 </link>
-</item>
-<item>
-<title>DE VOD | Bruder vor Lude 2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1771.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Bruder vor Lude 2015 </link>
-</item>
-<item>
-<title>DE VOD | Burnt.Im.Rausch.der.Sterne.2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1772.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Burnt.Im.Rausch.der.Sterne.2015 </link>
-</item>
-<item>
-<title>DE VOD | Carol.2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1773.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Carol.2015 </link>
-</item>
-<item>
-<title>DE VOD | Chroniken.der.Unterwelt.City.of.Bones.2013</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1774.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Chroniken.der.Unterwelt.City.of.Bones.2013 </link>
-</item>
-<item>
-<title>DE VOD | Creed Rockys Legacy German 2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1775.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Creed Rockys Legacy German 2015 </link>
-</item>
-<item>
-<title>DE VOD | Deadpool.2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1776.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Deadpool.2016 </link>
-</item>
-<item>
-<title>DE VOD | Der.8.Kontinent.2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1777.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Der.8.Kontinent.2015 </link>
-</item>
-<item>
-<title>DE VOD | Die.5.Welle.2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1778.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Die.5.Welle.2016 </link>
-</item>
-<item>
-<title>DE VOD | Eddie the Eagle Alles ist mÃ¶glich  2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1779.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Eddie the Eagle Alles ist mÃ¶glich  2016 </link>
-</item>
-<item>
-<title>DE VOD | Eisenstein in Guanajuato 2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1780.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Eisenstein in Guanajuato 2015 </link>
-</item>
-<item>
-<title>DE VOD | Honig.im.Kopf.2014</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1781.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Honig.im.Kopf.2014 </link>
-</item>
-<item>
-<title>DE VOD | Jane.Got.a.Gun.2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1782.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Jane.Got.a.Gun.2016 </link>
-</item>
-<item>
-<title>DE VOD | Jarhead.3 Die.Belagerung.2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1783.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Jarhead.3 Die.Belagerung.2016 </link>
-</item>
-<item>
-<title>DE VOD | Joy.Alles.ausser.gewoehnlich.2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1784.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Joy.Alles.ausser.gewoehnlich.2015 </link>
-</item>
-<item>
-<title>DE VOD | Jurassic Park 01 1993</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1785.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Jurassic Park 01 1993 </link>
-</item>
-<item>
-<title>DE VOD | Jurassic Park 02 1997</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1786.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Jurassic Park 02 1997 </link>
-</item>
-<item>
-<title>DE VOD | Jurassic Park 03 2001</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1787.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Jurassic Park 03 2001 </link>
-</item>
-<item>
-<title>DE VOD | Jurassic Park 04 2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1788.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Jurassic Park 04 2015 </link>
-</item>
-<item>
-<title>DE VOD | Killer.Laugh.2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1789.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Killer.Laugh.2015 </link>
-</item>
-<item>
-<title>DE VOD | Legend German.2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1790.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Legend German.2015 </link>
-</item>
-<item>
-<title>DE VOD | lmxjanegun</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1819.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | lmxjanegun </link>
-</item>
-<item>
-<title>DE VOD | Lord.of War 2005</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1791.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Lord.of War 2005 </link>
-</item>
-<item>
-<title>DE VOD | Memories.of.the.Sword.2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1792.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Memories.of.the.Sword.2015 </link>
-</item>
-<item>
-<title>DE VOD | Pandemic Fear the Dead 2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1794.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Pandemic Fear the Dead 2016 </link>
-</item>
-<item>
-<title>DE VOD | POD 2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1793.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | POD 2015 </link>
-</item>
-<item>
-<title>DE VOD | Remember Vergiss nicht dich zu erinnern  2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1795.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Remember Vergiss nicht dich zu erinnern  2016 </link>
-</item>
-<item>
-<title>DE VOD | Russell Wahnsinn Im Ring ist er der King  2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1796.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Russell Wahnsinn Im Ring ist er der King  2015 </link>
-</item>
-<item>
-<title>DE VOD | Sherlock Die.Braut.des Grauens.2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1797.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Sherlock Die.Braut.des Grauens.2016 </link>
-</item>
-<item>
-<title>DE VOD | Starwars7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1798.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Starwars7 </link>
-</item>
-<item>
-<title>DE VOD | Synchronicity  2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1800.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Synchronicity  2015 </link>
-</item>
-<item>
-<title>DE VOD | The First Avenger Civil War 2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1801.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | The First Avenger Civil War 2016 </link>
-</item>
-<item>
-<title>DE VOD | The Hospital 2 2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1802.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | The Hospital 2 2015 </link>
-</item>
-<item>
-<title>DE VOD | The.Big.Short.2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1804.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | The.Big.Short.2015 </link>
-</item>
-<item>
-<title>DE VOD | The.Dressmaker.Die.Schneiderin.2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1805.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | The.Dressmaker.Die.Schneiderin.2015 </link>
-</item>
-<item>
-<title>DE VOD | The.Huntsman.and.the.Ice.Queen.2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1806.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | The.Huntsman.and.the.Ice.Queen.2016 </link>
-</item>
-<item>
-<title>DE VOD | The.Jungle.Book.2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1807.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | The.Jungle.Book.2016 </link>
-</item>
-<item>
-<title>DE VOD | The.Lobster.Hummer.sind.auch.nur.Menschen.2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1808.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | The.Lobster.Hummer.sind.auch.nur.Menschen.2015 </link>
-</item>
-<item>
-<title>DE VOD | The.Night.Crew.2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1809.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | The.Night.Crew.2015 </link>
-</item>
-<item>
-<title>DE VOD | The.Revenant.Der.Rueckkehrer.2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1810.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | The.Revenant.Der.Rueckkehrer.2015 </link>
-</item>
-<item>
-<title>DE VOD | Time.Rush.2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1811.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Time.Rush.2016 </link>
-</item>
-<item>
-<title>DE VOD | Trumbo 2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1812.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Trumbo 2015 </link>
-</item>
-<item>
-<title>DE VOD | Und taeglich gruesst der Braeutigam 2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1813.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Und taeglich gruesst der Braeutigam 2015 </link>
-</item>
-<item>
-<title>DE VOD | Unter dem Sand 2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1814.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Unter dem Sand 2015 </link>
-</item>
-<item>
-<title>DE VOD | Wilde Hunde Rabid Dogs2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1815.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Wilde Hunde Rabid Dogs2015 </link>
-</item>
-<item>
-<title>DE VOD | Zombie Shark The Swimming Dead 2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1816.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Zombie Shark The Swimming Dead 2015 </link>
-</item>
-<item>
-<title>DE VOD | Zorniges Land  2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/1818.mkv&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Zorniges Land  2015 </link>
-</item>
-<item>
-<title>DE VOD | Zoomania - 2016 - German - AC3 BDRiP x264 - KW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3265.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Zoomania - 2016 - German - AC3 BDRiP x264 - KW </link>
-</item>
-<item>
-<title>DE VOD | Zoolander.2.2016.German.BDRiP.AC3.XViD-CRG</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3264.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Zoolander.2.2016.German.BDRiP.AC3.XViD-CRG </link>
-</item>
-<item>
-<title>DE VOD | X Men Apocalypse - 2016 - German - TS AC3 LD XViD - PS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3263.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | X Men Apocalypse - 2016 - German - TS AC3 LD XViD - PS </link>
-</item>
-<item>
-<title>DE VOD | Warcraft.The.Beginning.2016.GERMAN.AC3.LiNE.DUBBED.HDTC.x264-GOT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3262.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Warcraft.The.Beginning.2016.GERMAN.AC3.LiNE.DUBBED.HDTC.x264-GOT </link>
-</item>
-<item>
-<title>DE VOD | Tschiller Off Duty</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3261.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Tschiller Off Duty </link>
-</item>
-<item>
-<title>DE VOD | trust-xvid</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3274.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | trust-xvid </link>
-</item>
-<item>
-<title>DE VOD | The Survivalist</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3260.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | The Survivalist </link>
-</item>
-<item>
-<title>DE VOD | The Shallows Gefahr aus der Tiefe - 2016 - German - TS MD x264 - NSane</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3259.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | The Shallows Gefahr aus der Tiefe - 2016 - German - TS MD x264 - NSane </link>
-</item>
-<item>
-<title>DE VOD | The Purge 3 Election Year - German - 2016 - AC3 MD BDRiP x264 - ABC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3258.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | The Purge 3 Election Year - German - 2016 - AC3 MD BDRiP x264 - ABC </link>
-</item>
-<item>
-<title>DE VOD | The Other Side of the Door - German - AC3D BDRiP x264 - PsO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3257.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | The Other Side of the Door - German - AC3D BDRiP x264 - PsO </link>
-</item>
-<item>
-<title>DE VOD | The Nice Guys</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3256.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | The Nice Guys </link>
-</item>
-<item>
-<title>DE VOD | The Mechanic 2 Resurrection - 2016 - German - TS MD x264 - PS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3255.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | The Mechanic 2 Resurrection - 2016 - German - TS MD x264 - PS </link>
-</item>
-<item>
-<title>DE VOD | The First Avenger Civil War720p</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3254.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | The First Avenger Civil War720p </link>
-</item>
-<item>
-<title>DE VOD | thco2.ts.md.xvd-abc</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3273.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | thco2.ts.md.xvd-abc </link>
-</item>
-<item>
-<title>DE VOD | Suicide Squad - 2016 - German - WEBHCRiP AC3 LD BLURRED x264 - PS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3253.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Suicide Squad - 2016 - German - WEBHCRiP AC3 LD BLURRED x264 - PS </link>
-</item>
-<item>
-<title>DE VOD | Star Trek Beyond - 2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3252.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Star Trek Beyond - 2016 </link>
-</item>
-<item>
-<title>DE VOD | sisters-2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3272.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | sisters-2016 </link>
-</item>
-<item>
-<title>DE VOD | Ruf der Macht Im Sumpf der Korruption - German - 2016 - AC3 BDRiP x264 - CiNEViSiON</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3251.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Ruf der Macht Im Sumpf der Korruption - German - 2016 - AC3 BDRiP x264 - CiNEViSiON </link>
-</item>
-<item>
-<title>DE VOD | Robinson Crusoe - 2016 - German - BDRiP XViD - DETAiLS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3250.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Robinson Crusoe - 2016 - German - BDRiP XViD - DETAiLS </link>
-</item>
-<item>
-<title>DE VOD | Ride Along 2 Next Level Miami2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3249.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Ride Along 2 Next Level Miami2016 </link>
-</item>
-<item>
-<title>DE VOD | Rage Tage der Vergeltung - German - 2016 - AC3 BDRiP x264 - XF</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3248.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Rage Tage der Vergeltung - German - 2016 - AC3 BDRiP x264 - XF </link>
-</item>
-<item>
-<title>DE VOD | pso-the.huntsman.and.the.ice.queen_web.720p</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3271.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | pso-the.huntsman.and.the.ice.queen_web.720p </link>
-</item>
-<item>
-<title>DE VOD | ps-king.webmd.xv</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3270.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | ps-king.webmd.xv </link>
-</item>
-<item>
-<title>DE VOD | Pets - 2016 - German - TS LD XViD - PsO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3247.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Pets - 2016 - German - TS LD XViD - PsO </link>
-</item>
-<item>
-<title>DE VOD | otherside.720-gersubbed</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3269.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | otherside.720-gersubbed </link>
-</item>
-<item>
-<title>DE VOD | Nerve - 2016 - German - WEBRiP LD x264 - PsO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3246.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Nerve - 2016 - German - WEBRiP LD x264 - PsO </link>
-</item>
-<item>
-<title>DE VOD | mp-midnight-xsd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3268.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | mp-midnight-xsd </link>
-</item>
-<item>
-<title>DE VOD | Monsieur Chocolat - German - 2015 - AC3 BDRiP x264 - XF</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3245.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Monsieur Chocolat - German - 2015 - AC3 BDRiP x264 - XF </link>
-</item>
-<item>
-<title>DE VOD | Money Monster - 2016 - German - AC3D 5.1 BDRiP x264 - MULTiPLEX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3244.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Money Monster - 2016 - German - AC3D 5.1 BDRiP x264 - MULTiPLEX </link>
-</item>
-<item>
-<title>DE VOD | Mikro und Sprit Auf und davon und niemals zur und niemals zur</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3243.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Mikro und Sprit Auf und davon und niemals zur und niemals zur </link>
-</item>
-<item>
-<title>DE VOD | Manhattan Nocturne Tattan Nocturne</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3242.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Manhattan Nocturne Tattan Nocturne </link>
-</item>
-<item>
-<title>DE VOD | Legend of Tarzan - 2016 - German - TS MD XViD PROPER - JANE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3241.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Legend of Tarzan - 2016 - German - TS MD XViD PROPER - JANE </link>
-</item>
-<item>
-<title>DE VOD | Kung.Fu.Panda.3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3240.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Kung.Fu.Panda.3 </link>
-</item>
-<item>
-<title>DE VOD | Jimmy Vestvood Amerikan Hero - German - 2016 - BDRiP x264 - MORTAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3239.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Jimmy Vestvood Amerikan Hero - German - 2016 - BDRiP x264 - MORTAL </link>
-</item>
-<item>
-<title>DE VOD | Jason Bourne - 2016 - GErman - TS LD x264 - PsO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3238.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Jason Bourne - 2016 - GErman - TS LD x264 - PsO </link>
-</item>
-<item>
-<title>DE VOD | Independence Day 2 Wiederkehr</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3236.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Independence Day 2 Wiederkehr </link>
-</item>
-<item>
-<title>DE VOD | Ice Age Kollision voraus - 2016 - German - AC3D BDRiP x264 - PsO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3235.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Ice Age Kollision voraus - 2016 - German - AC3D BDRiP x264 - PsO </link>
-</item>
-<item>
-<title>DE VOD | Hardcore - German - 2015 - DL BDRiP x264 - CiNEViSiON</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3234.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Hardcore - German - 2015 - DL BDRiP x264 - CiNEViSiON </link>
-</item>
-<item>
-<title>DE VOD | Guernica - German - 2016 - AC3 DVDRiP x264 - SAViOUR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3233.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Guernica - German - 2016 - AC3 DVDRiP x264 - SAViOUR </link>
-</item>
-<item>
-<title>DE VOD | Green Room - 2015 - German - AC3D 5.1 BDRiP x264 - MULTiPLEX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3232.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Green Room - 2015 - German - AC3D 5.1 BDRiP x264 - MULTiPLEX </link>
-</item>
-<item>
-<title>DE VOD | Gods of Egypt - 2016 - German - BDRiP AC3D XViD - CRG</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3231.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Gods of Egypt - 2016 - German - BDRiP AC3D XViD - CRG </link>
-</item>
-<item>
-<title>DE VOD | Ghostbusters - 2016 - German - BDRiP LD x264 - PsO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3230.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Ghostbusters - 2016 - German - BDRiP LD x264 - PsO </link>
-</item>
-<item>
-<title>DE VOD | Free State of Jones - 2016 - German - AC3D BDRiP x264 - MULTiPLEX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3229.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Free State of Jones - 2016 - German - AC3D BDRiP x264 - MULTiPLEX </link>
-</item>
-<item>
-<title>DE VOD | Excess Flesh - German - 2015 - BDRiP x264 - MORTAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3228.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Excess Flesh - German - 2015 - BDRiP x264 - MORTAL </link>
-</item>
-<item>
-<title>DE VOD | Erschutternde wahrheit</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3227.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Erschutternde wahrheit </link>
-</item>
-<item>
-<title>DE VOD | enticement-unfriend.webhd.720p</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3267.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | enticement-unfriend.webhd.720p </link>
-</item>
-<item>
-<title>DE VOD | Ein ganzes halbes Jahr - 2016 - German - AC3D BDRiP XViD - LameXD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3226.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Ein ganzes halbes Jahr - 2016 - German - AC3D BDRiP XViD - LameXD </link>
-</item>
-<item>
-<title>DE VOD | Dragon Love Is A Scary Tale - 2015 - German - AC3 BDRiP XViD - CRG</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3225.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Dragon Love Is A Scary Tale - 2015 - German - AC3 BDRiP XViD - CRG </link>
-</item>
-<item>
-<title>DE VOD | Dirty Grandpa - 2016 - German - AC3D 5.1 BDRiP XViD - MULTiPLEX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3224.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Dirty Grandpa - 2016 - German - AC3D 5.1 BDRiP XViD - MULTiPLEX </link>
-</item>
-<item>
-<title>DE VOD | Die Unfassbaren 2 - 2016 - German - BDRiP LD x264 - PsO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3223.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Die Unfassbaren 2 - 2016 - German - BDRiP LD x264 - PsO </link>
-</item>
-<item>
-<title>DE VOD | Die 5. Welle_720p</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3222.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Die 5. Welle_720p </link>
-</item>
-<item>
-<title>DE VOD | Desierto Tödliche Hetzjagd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3221.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Desierto Tödliche Hetzjagd </link>
-</item>
-<item>
-<title>DE VOD | Der lange Weg - 2016 - German - AC3D BDRiP x264 - MULTiPLEX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3220.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Der lange Weg - 2016 - German - AC3D BDRiP x264 - MULTiPLEX </link>
-</item>
-<item>
-<title>DE VOD | Der Junge und das Biest - German - 2015 - ANiME DL BDRiP x264 - STARS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3218.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Der Junge und das Biest - German - 2015 - ANiME DL BDRiP x264 - STARS </link>
-</item>
-<item>
-<title>DE VOD | Der geilste Tag - 2016 - German - BDRiP x264 - DETAiLS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3219.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Der geilste Tag - 2016 - German - BDRiP x264 - DETAiLS </link>
-</item>
-<item>
-<title>DE VOD | Deadpool_720p</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3217.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Deadpool_720p </link>
-</item>
-<item>
-<title>DE VOD | Das Jerico Projekt Im Kopf des Killers - 2016 - German - AC3D 5.1 BDRiP x264 - MULTiPLEX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3215.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Das Jerico Projekt Im Kopf des Killers - 2016 - German - AC3D 5.1 BDRiP x264 - MULTiPLEX </link>
-</item>
-<item>
-<title>DE VOD | Das fehlende Grau - German - 2015 - AC3 DVDRiP x264 - KNT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3216.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Das fehlende Grau - German - 2015 - AC3 DVDRiP x264 - KNT </link>
-</item>
-<item>
-<title>DE VOD | Dads.Army.2016.German.AC3D.BDRiP.x264-iND</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3214.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Dads.Army.2016.German.AC3D.BDRiP.x264-iND </link>
-</item>
-<item>
-<title>DE VOD | Conjuring 2 - 2016 - German - AC3 DVDRiP x264 - HP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3213.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Conjuring 2 - 2016 - German - AC3 DVDRiP x264 - HP </link>
-</item>
-<item>
-<title>DE VOD | Central inteligent-720p</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3211.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Central inteligent-720p </link>
-</item>
-<item>
-<title>DE VOD | Blood Father - 2016 - German - AC3D 5.1 BDRiP x264 - MULTiPLEX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3210.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Blood Father - 2016 - German - AC3D 5.1 BDRiP x264 - MULTiPLEX </link>
-</item>
-<item>
-<title>DE VOD | Batman v Superman Dawn of Justice - 2016 - German - WEBRiP LD XViD - MULTiPLEX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3209.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Batman v Superman Dawn of Justice - 2016 - German - WEBRiP LD XViD - MULTiPLEX </link>
-</item>
-<item>
-<title>DE VOD | Baskin - 2015 - German - AC3 BDRiP XviD - FIJ</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3208.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Baskin - 2015 - German - AC3 BDRiP XviD - FIJ </link>
-</item>
-<item>
-<title>DE VOD | Barbie in Das Sternenlicht Abenteuer - 2016 - German - AC3 DVDRiP x264 - CRG</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3207.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Barbie in Das Sternenlicht Abenteuer - 2016 - German - AC3 DVDRiP x264 - CRG </link>
-</item>
-<item>
-<title>DE VOD | Bad Neighbors 2 - 2016 - German - AC3D BDRiP x264 - CRG</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3206.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Bad Neighbors 2 - 2016 - German - AC3D BDRiP x264 - CRG </link>
-</item>
-<item>
-<title>DE VOD | ARQ - 2016 - German - AC3D WEBRiP x264 - MULTiPLEX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3200.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | ARQ - 2016 - German - AC3D WEBRiP x264 - MULTiPLEX </link>
-</item>
-<item>
-<title>DE VOD | Angry Birds Der Film</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3205.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Angry Birds Der Film </link>
-</item>
-<item>
-<title>DE VOD | AmericanHistory1998</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3204.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | AmericanHistory1998 </link>
-</item>
-<item>
-<title>DE VOD | allegiant-webdl1080p</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3266.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | allegiant-webdl1080p </link>
-</item>
-<item>
-<title>DE VOD | Alice im Wunderland Hinter den Spiegeln - 2016 - German - TS AC3 LD XViD - PS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3203.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Alice im Wunderland Hinter den Spiegeln - 2016 - German - TS AC3 LD XViD - PS </link>
-</item>
-<item>
-<title>DE VOD | Agoraphobia Der Tod lauert uberall</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3202.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Agoraphobia Der Tod lauert uberall </link>
-</item>
-<item>
-<title>DE VOD | Ab in den Dschungel - 2015 - German - BDRiP MD x264 - MULTiPLEX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3201.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | Ab in den Dschungel - 2015 - German - BDRiP MD x264 - MULTiPLEX </link>
-</item>
-<item>
-<title>DE VOD | A War - German</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3199.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | A War - German </link>
-</item>
-<item>
-<title>DE VOD | 13 Hours The Secret Soldiers of Benghazi - 2016 - German - AC3 BDRip x264 - MULTiPLEX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3197.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | 13 Hours The Secret Soldiers of Benghazi - 2016 - German - AC3 BDRip x264 - MULTiPLEX </link>
-</item>
-<item>
-<title>DE VOD | 13 Hours The Secret Soldiers of Benghazi - 2016 - German</title>
-<link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/movie/test34/0711/3198.mp4&amp;streamtype=TSDOWNLOADER&amp;name=DE VOD | 13 Hours The Secret Soldiers of Benghazi - 2016 - German </link>
-</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
 <item>       
