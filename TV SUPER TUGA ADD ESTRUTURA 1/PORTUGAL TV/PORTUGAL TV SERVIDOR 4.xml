@@ -23,7 +23,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 11-11-16 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 12-11-16 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -33,1443 +33,694 @@
 
 
 
-
+<item>
+<title>Globo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=Globo </link>
+</item>
+<item>
+<title>Record</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=Record </link>
+</item>
+<item>
+<title>RedeTV!</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/4.ts&amp;streamtype=TSDOWNLOADER&amp;name=RedeTV! </link>
+</item>
+<item>
+<title>Band</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/5.ts&amp;streamtype=TSDOWNLOADER&amp;name=Band </link>
+</item>
+<item>
+<title>SBT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/3.ts&amp;streamtype=TSDOWNLOADER&amp;name=SBT </link>
+</item>
+<item>
+<title>TV Cultura</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/1.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV Cultura </link>
+</item>
+<item>
+<title>Canal Futura</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/7.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Futura </link>
+</item>
+<item>
+<title>Telecine Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/9.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecine Action </link>
+</item>
+<item>
+<title>Telecine Premium</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/8.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecine Premium </link>
+</item>
+<item>
+<title>Telecine Touch</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/12.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecine Touch </link>
+</item>
+<item>
+<title>Telecine Fun</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecine Fun </link>
+</item>
+<item>
+<title>TV Brasil</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/99.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV Brasil </link>
+</item>
+<item>
+<title>Telecine Pipoca</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecine Pipoca </link>
+</item>
+<item>
+<title>Telecine Cult</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/13.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecine Cult </link>
+</item>
+<item>
+<title>HBO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO </link>
+</item>
+<item>
+<title>HBO 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/15.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO 2 </link>
+</item>
+<item>
+<title>HBO Plus</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/18.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO Plus </link>
+</item>
+<item>
+<title>HBO Signature</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/16.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO Signature </link>
+</item>
+<item>
+<title>HBO Family</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/17.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO Family </link>
+</item>
+<item>
+<title>Universal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/22.ts&amp;streamtype=TSDOWNLOADER&amp;name=Universal </link>
+</item>
+<item>
+<title>+GloboSat</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/108.ts&amp;streamtype=TSDOWNLOADER&amp;name=+GloboSat </link>
+</item>
+<item>
+<title>TNT Séries</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/101.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT Séries </link>
+</item>
+<item>
+<title>TNT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT </link>
+</item>
+<item>
+<title>TCM</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM </link>
+</item>
+<item>
+<title>Studio Universal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/32.ts&amp;streamtype=TSDOWNLOADER&amp;name=Studio Universal </link>
+</item>
+<item>
+<title>Max Prime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=Max Prime </link>
+</item>
+<item>
+<title>Max</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/23.ts&amp;streamtype=TSDOWNLOADER&amp;name=Max </link>
+</item>
+<item>
+<title>TBS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=TBS </link>
+</item>
+<item>
+<title>Warner</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=Warner </link>
+</item>
+<item>
+<title>Paramount Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paramount Channel </link>
+</item>
+<item>
+<title>Fox</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/20.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox </link>
+</item>
+<item>
+<title>Space</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.148.73:8080/live/ribeiro/112233/21.ts&amp;streamtype=TSDOWNLOADER&amp;name=Space </link>
+</item>
 <item>
 <title>RTP 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1 </link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/766.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1 </link>
+</item>
+<item>
+<title>RTP 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/987.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1 HD </link>
 </item>
 <item>
 <title>RTP 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2 </link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/765.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2 </link>
+</item>
+<item>
+<title>RTP 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/988.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2 HD </link>
 </item>
 <item>
 <title>SIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC </link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/760.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC </link>
+</item>
+<item>
+<title>SIC  (2)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/1068.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC  (2) </link>
+</item>
+<item>
+<title>SIC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/825.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC HD </link>
 </item>
 <item>
 <title>TVI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI </link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/739.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI </link>
 </item>
 <item>
-<title>---------- NOTICIAS ----------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/118.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- NOTICIAS ---------- </link>
+<title>TVI  (2)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/1067.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI  (2) </link>
 </item>
 <item>
-<title>RTP 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/388.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 3 </link>
-</item>
-<item>
-<title>SIC NOTICIAS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS </link>
-</item>
-<item>
-<title>TVI  24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/104.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI  24 </link>
+<title>TVI HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/823.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI HD </link>
 </item>
 <item>
 <title>CMTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=CMTV </link>
-</item>
-<item>
-<title>---------- ANIMAÇAO ----------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/116.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- ANIMAÇAO ---------- </link>
-</item>
-<item>
-<title>BIGGS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/348.ts&amp;streamtype=TSDOWNLOADER&amp;name=BIGGS </link>
-</item>
-<item>
-<title>SIC K</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/123.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC K </link>
-</item>
-<item>
-<title>JIM JAM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/383.ts&amp;streamtype=TSDOWNLOADER&amp;name=JIM JAM </link>
-</item>
-<item>
-<title>SIC RADICAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/162.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL </link>
-</item>
-<item>
-<title>CANAL PANDA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/101.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA </link>
-</item>
-<item>
-<title>NICKELODEON</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/112.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON </link>
-</item>
-<item>
-<title>DISNEY JUNIOR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/100.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR </link>
-</item>
-<item>
-<title>DISNEY CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/109.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL </link>
-</item>
-<item>
-<title>CARTOON NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK </link>
-</item>
-<item>
-<title>---------- FILMES&SERIES ----------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/114.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- FILMES&SERIES ---------- </link>
-</item>
-<item>
-<title>AXN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/345.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD </link>
-</item>
-<item>
-<title>AXN BLACK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/349.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN BLACK </link>
-</item>
-<item>
-<title>AXN WHITE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/347.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE </link>
-</item>
-<item>
-<title>AMC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/105.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC </link>
-</item>
-<item>
-<title>FOX MOVIES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES </link>
-</item>
-<item>
-<title>CINEMUNDO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/111.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO </link>
-</item>
-<item>
-<title>HOLLYWOOD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD </link>
-</item>
-<item>
-<title>TVCINE 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/3.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 1 </link>
-</item>
-<item>
-<title>TVCINE 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/48.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 1 HD </link>
-</item>
-<item>
-<title>TVCINE 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/5.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 2 </link>
-</item>
-<item>
-<title>TVCINE 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/7.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 3 </link>
-</item>
-<item>
-<title>TVCINE 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 4 HD </link>
-</item>
-<item>
-<title>TVSERIES HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/8.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVSERIES HD </link>
-</item>
-<item>
-<title>---------- DESPORTO ----------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/113.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- DESPORTO ---------- </link>
-</item>
-<item>
-<title>A BOLA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=A BOLA </link>
-</item>
-<item>
-<title>EUROSPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/110.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 </link>
-</item>
-<item>
-<title>EUROSPORT 2 XTRA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 XTRA </link>
-</item>
-<item>
-<title>SPORTV +</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/423.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV + </link>
-</item>
-<item>
-<title>SPORT TV 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/1.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 </link>
-</item>
-<item>
-<title>SPORT TV 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 HD </link>
-</item>
-<item>
-<title>SPORT TV 1 HD *Extra*</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/422.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 HD *Extra* </link>
-</item>
-<item>
-<title>SPORT TV 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/9.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 HD </link>
-</item>
-<item>
-<title>SPORT TV 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 </link>
-</item>
-<item>
-<title>SPORT TV 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/17.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 </link>
-</item>
-<item>
-<title>SPORT TV 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 </link>
-</item>
-<item>
-<title>BENFICA TV 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV 1 </link>
-</item>
-<item>
-<title>BENFICA TV 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV 1 HD </link>
-</item>
-<item>
-<title>CAZA y PESCA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/27.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA y PESCA </link>
-</item>
-<item>
-<title>CAÇAVISION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAÇAVISION </link>
-</item>
-<item>
-<title>---------- ENTERTIMENTO ----------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/115.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- ENTERTIMENTO ---------- </link>
-</item>
-<item>
-<title>TVI  REALITY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI  REALITY </link>
-</item>
-<item>
-<title>TVI REALITY MOSAICO (ON-LINE)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/168.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALITY MOSAICO (ON-LINE) </link>
-</item>
-<item>
-<title>TV RECORD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV RECORD </link>
-</item>
-<item>
-<title>TV GLOBO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/46.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV GLOBO </link>
-</item>
-<item>
-<title>TV GLOBO PREMIUM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/108.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV GLOBO PREMIUM </link>
-</item>
-<item>
-<title>TVI FICCAO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/107.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO </link>
-</item>
-<item>
-<title>PORTO CANAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/18.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL </link>
-</item>
-<item>
-<title>FOX COMEDY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/120.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY </link>
-</item>
-<item>
-<title>ODISSEIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/381.ts&amp;streamtype=TSDOWNLOADER&amp;name=ODISSEIA </link>
-</item>
-<item>
-<title>CANAL DE HISTORIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/103.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL DE HISTORIA </link>
-</item>
-<item>
-<title>DISCOVERY CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL </link>
-</item>
-<item>
-<title>NATIONAL GEOGRAPHIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/382.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC </link>
-</item>
-<item>
-<title>FOOD NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/389.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOOD NETWORK </link>
-</item>
-<item>
-<title>MTV PORTUGAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV PORTUGAL </link>
-</item>
-<item>
-<title>---------- ADULTOS ----------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/117.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- ADULTOS ---------- </link>
-</item>
-<item>
-<title>HOT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/15.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOT </link>
-</item>
-<item>
-<title>VENUS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/16.ts&amp;streamtype=TSDOWNLOADER&amp;name=VENUS </link>
-</item>
-<item>
-<title>PLAYBOY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLAYBOY </link>
-</item>
-<item>
-<title>HUSTLER HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=HUSTLER HD </link>
-</item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>RTP 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1 </link>
-</item>
-<item>
-<title>RTP 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2 </link>
-</item>
-<item>
-<title>SIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC </link>
-</item>
-<item>
-<title>TVI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI </link>
-</item>
-<item>
-<title>---------- NOTICIAS ----------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/118.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- NOTICIAS ---------- </link>
-</item>
-<item>
-<title>RTP 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/388.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 3 </link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/800.ts&amp;streamtype=TSDOWNLOADER&amp;name=CMTV </link>
 </item>
 <item>
 <title>SIC NOTICIAS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS </link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/757.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS </link>
 </item>
 <item>
-<title>TVI  24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/104.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI  24 </link>
+<title>RTP 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/764.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 3 </link>
 </item>
 <item>
-<title>CMTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=CMTV </link>
-</item>
-<item>
-<title>---------- ANIMAÇAO ----------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/116.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- ANIMAÇAO ---------- </link>
-</item>
-<item>
-<title>BIGGS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/348.ts&amp;streamtype=TSDOWNLOADER&amp;name=BIGGS </link>
-</item>
-<item>
-<title>SIC K</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/123.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC K </link>
-</item>
-<item>
-<title>JIM JAM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/383.ts&amp;streamtype=TSDOWNLOADER&amp;name=JIM JAM </link>
-</item>
-<item>
-<title>SIC RADICAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/162.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL </link>
-</item>
-<item>
-<title>CANAL PANDA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/101.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA </link>
-</item>
-<item>
-<title>NICKELODEON</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/112.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON </link>
-</item>
-<item>
-<title>DISNEY JUNIOR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/100.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR </link>
-</item>
-<item>
-<title>DISNEY CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/109.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL </link>
-</item>
-<item>
-<title>CARTOON NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK </link>
-</item>
-<item>
-<title>---------- FILMES&SERIES ----------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/114.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- FILMES&SERIES ---------- </link>
-</item>
-<item>
-<title>AXN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/345.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD </link>
-</item>
-<item>
-<title>AXN BLACK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/349.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN BLACK </link>
-</item>
-<item>
-<title>AXN WHITE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/347.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE </link>
-</item>
-<item>
-<title>AMC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/105.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC </link>
-</item>
-<item>
-<title>FOX MOVIES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES </link>
-</item>
-<item>
-<title>CINEMUNDO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/111.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO </link>
-</item>
-<item>
-<title>HOLLYWOOD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD </link>
-</item>
-<item>
-<title>TVCINE 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/3.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 1 </link>
-</item>
-<item>
-<title>TVCINE 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/48.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 1 HD </link>
-</item>
-<item>
-<title>TVCINE 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/5.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 2 </link>
-</item>
-<item>
-<title>TVCINE 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/7.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 3 </link>
-</item>
-<item>
-<title>TVCINE 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 4 HD </link>
-</item>
-<item>
-<title>TVSERIES HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/8.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVSERIES HD </link>
-</item>
-<item>
-<title>---------- DESPORTO ----------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/113.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- DESPORTO ---------- </link>
-</item>
-<item>
-<title>A BOLA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=A BOLA </link>
-</item>
-<item>
-<title>EUROSPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/110.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 </link>
-</item>
-<item>
-<title>EUROSPORT 2 XTRA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 XTRA </link>
-</item>
-<item>
-<title>SPORTV +</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/423.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV + </link>
-</item>
-<item>
-<title>SPORT TV 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/1.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 </link>
-</item>
-<item>
-<title>SPORT TV 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 HD </link>
-</item>
-<item>
-<title>SPORT TV 1 HD *Extra*</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/422.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 HD *Extra* </link>
-</item>
-<item>
-<title>SPORT TV 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/9.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 HD </link>
-</item>
-<item>
-<title>SPORT TV 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 </link>
-</item>
-<item>
-<title>SPORT TV 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/17.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 </link>
-</item>
-<item>
-<title>SPORT TV 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 </link>
-</item>
-<item>
-<title>BENFICA TV 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV 1 </link>
-</item>
-<item>
-<title>BENFICA TV 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV 1 HD </link>
-</item>
-<item>
-<title>CAZA y PESCA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/27.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA y PESCA </link>
-</item>
-<item>
-<title>CAÇAVISION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAÇAVISION </link>
-</item>
-<item>
-<title>---------- ENTERTIMENTO ----------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/115.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- ENTERTIMENTO ---------- </link>
-</item>
-<item>
-<title>TVI  REALITY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI  REALITY </link>
-</item>
-<item>
-<title>TVI REALITY MOSAICO (ON-LINE)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/168.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALITY MOSAICO (ON-LINE) </link>
-</item>
-<item>
-<title>TV RECORD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV RECORD </link>
-</item>
-<item>
-<title>TV GLOBO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/46.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV GLOBO </link>
-</item>
-<item>
-<title>TV GLOBO PREMIUM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/108.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV GLOBO PREMIUM </link>
+<title>TVI 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/738.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI 24 </link>
 </item>
 <item>
 <title>TVI FICCAO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/107.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO </link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/737.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO </link>
+</item>
+<item>
+<title>TVI REALITY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/710.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALITY </link>
+</item>
+<item>
+<title>GLOBO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/787.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO </link>
+</item>
+<item>
+<title>GLOBO PREMIUM</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/786.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO PREMIUM </link>
+</item>
+<item>
+<title>TV RECORD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/745.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV RECORD </link>
+</item>
+<item>
+<title>SIC MULHER</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/719.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC MULHER </link>
+</item>
+<item>
+<title>SIC CARAS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/759.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC CARAS </link>
+</item>
+<item>
+<title>SIC RADICAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/756.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL </link>
+</item>
+<item>
+<title>SIC K</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/758.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC K </link>
 </item>
 <item>
 <title>PORTO CANAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/18.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL </link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/769.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL </link>
+</item>
+<item>
+<title>RTP MEMORIA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/761.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA </link>
+</item>
+<item>
+<title>RTP MADEIRA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/762.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MADEIRA </link>
+</item>
+<item>
+<title>RTP ACORES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/763.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP ACORES </link>
+</item>
+<item>
+<title>RTP AFRICA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/767.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA </link>
+</item>
+<item>
+<title>SPORT TV +</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/970.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV + </link>
+</item>
+<item>
+<title>SPORT TV 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/755.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 </link>
+</item>
+<item>
+<title>SPORT TV 1 (2)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/1066.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (2) </link>
+</item>
+<item>
+<title>SPORT TV 1 LOW</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/1617.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 LOW </link>
+</item>
+<item>
+<title>SPORT TV 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/753.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 </link>
+</item>
+<item>
+<title>SPORT TV 2 (2)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (2) </link>
+</item>
+<item>
+<title>SPORT TV 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/751.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 </link>
+</item>
+<item>
+<title>SPORT TV 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/750.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 </link>
+</item>
+<item>
+<title>SPORT TV 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/717.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 </link>
+</item>
+<item>
+<title>SPORT TV 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/1442.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 HD </link>
+</item>
+<item>
+<title>SPORT TV 1 HD (2)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/1072.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 HD (2) </link>
+</item>
+<item>
+<title>SPORT TV 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/752.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 HD </link>
+</item>
+<item>
+<title>SPORT TV 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/824.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 HD </link>
+</item>
+<item>
+<title>SPORT TV 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/1441.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 HD </link>
+</item>
+<item>
+<title>BTV 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/813.ts&amp;streamtype=TSDOWNLOADER&amp;name=BTV 1 </link>
+</item>
+<item>
+<title>BTV 1 (2)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name=BTV 1 (2) </link>
+</item>
+<item>
+<title>BTV 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/812.ts&amp;streamtype=TSDOWNLOADER&amp;name=BTV 1 HD </link>
+</item>
+<item>
+<title>BTV 1 HD  (2)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/1069.ts&amp;streamtype=TSDOWNLOADER&amp;name=BTV 1 HD  (2) </link>
+</item>
+<item>
+<title>BTV 1 HQ</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/1062.ts&amp;streamtype=TSDOWNLOADER&amp;name=BTV 1 HQ </link>
+</item>
+<item>
+<title>MOTORVISION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/778.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORVISION </link>
+</item>
+<item>
+<title>FIGHT NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/975.ts&amp;streamtype=TSDOWNLOADER&amp;name=FIGHT NETWORK </link>
+</item>
+<item>
+<title>A BOLA TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/820.ts&amp;streamtype=TSDOWNLOADER&amp;name=A BOLA TV </link>
+</item>
+<item>
+<title>REAL MADRID TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/768.ts&amp;streamtype=TSDOWNLOADER&amp;name=REAL MADRID TV </link>
+</item>
+<item>
+<title>SPORTING TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/716.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING TV </link>
+</item>
+<item>
+<title>EUROSPORT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/795.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT </link>
+</item>
+<item>
+<title>EUROSPORT 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/793.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 </link>
+</item>
+<item>
+<title>EUROSPORT 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/725.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 HD </link>
+</item>
+<item>
+<title>EUROSPORT 2 XTRA HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/792.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 XTRA HD </link>
+</item>
+<item>
+<title>PFC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/771.ts&amp;streamtype=TSDOWNLOADER&amp;name=PFC </link>
+</item>
+<item>
+<title>FUEL TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/788.ts&amp;streamtype=TSDOWNLOADER&amp;name=FUEL TV </link>
+</item>
+<item>
+<title>MOTORS TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/779.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORS TV </link>
+</item>
+<item>
+<title>CACAVISION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/808.ts&amp;streamtype=TSDOWNLOADER&amp;name=CACAVISION </link>
+</item>
+<item>
+<title>TOROS TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/714.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS TV </link>
+</item>
+<item>
+<title>CACA E PESCA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/809.ts&amp;streamtype=TSDOWNLOADER&amp;name=CACA E PESCA </link>
+</item>
+<item>
+<title>TVCINE 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/744.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 1 </link>
+</item>
+<item>
+<title>TVCINE 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/742.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 2 </link>
+</item>
+<item>
+<title>TVCINE 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/741.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 3 </link>
+</item>
+<item>
+<title>TVCINE 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/740.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 4 </link>
+</item>
+<item>
+<title>TVCINE 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/743.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 1 HD </link>
+</item>
+<item>
+<title>TVCINE 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/712.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 2 HD </link>
+</item>
+<item>
+<title>TVCINE 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/711.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 3 HD </link>
+</item>
+<item>
+<title>TVCINE 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/841.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 4 HD </link>
+</item>
+<item>
+<title>TV SERIES HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/709.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV SERIES HD </link>
+</item>
+<item>
+<title>TV SERIES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/736.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV SERIES </link>
+</item>
+<item>
+<title>CINEMUNDO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/801.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO </link>
+</item>
+<item>
+<title>FOX MOVIES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/722.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES </link>
+</item>
+<item>
+<title>MOV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/777.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOV HD </link>
+</item>
+<item>
+<title>AMC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/818.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC </link>
+</item>
+<item>
+<title>HOLLYWOOD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/784.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD </link>
+</item>
+<item>
+<title>HOLLYWOOD HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/783.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD HD </link>
+</item>
+<item>
+<title>FOX LIFE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/979.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE </link>
+</item>
+<item>
+<title>FOX LIVE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/723.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIVE HD </link>
+</item>
+<item>
+<title>FOX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/790.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD </link>
+</item>
+<item>
+<title>FOX CRIME HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/724.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX CRIME HD </link>
 </item>
 <item>
 <title>FOX COMEDY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/120.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY </link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/791.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY </link>
+</item>
+<item>
+<title>SUNDANCE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/968.ts&amp;streamtype=TSDOWNLOADER&amp;name=SUNDANCE HD </link>
+</item>
+<item>
+<title>AXN WHITE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/731.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE HD </link>
+</item>
+<item>
+<title>AXN BLACK HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/732.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN BLACK HD </link>
+</item>
+<item>
+<title>AXN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/817.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD </link>
+</item>
+<item>
+<title>SYFY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/749.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY </link>
+</item>
+<item>
+<title>TLC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/715.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC </link>
 </item>
 <item>
 <title>ODISSEIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/381.ts&amp;streamtype=TSDOWNLOADER&amp;name=ODISSEIA </link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/772.ts&amp;streamtype=TSDOWNLOADER&amp;name=ODISSEIA </link>
 </item>
 <item>
-<title>CANAL DE HISTORIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/103.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL DE HISTORIA </link>
+<title>E! ENTERTAINMENT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/977.ts&amp;streamtype=TSDOWNLOADER&amp;name=E! ENTERTAINMENT </link>
+</item>
+<item>
+<title>TRAVEL CHANNEL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/713.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRAVEL CHANNEL HD </link>
+</item>
+<item>
+<title>NATIONAL GEOGRAPHIC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/774.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC HD </link>
+</item>
+<item>
+<title>DISCOVERY HD SHOWCASE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/798.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY HD SHOWCASE </link>
 </item>
 <item>
 <title>DISCOVERY CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL </link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/799.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL </link>
 </item>
 <item>
-<title>NATIONAL GEOGRAPHIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/382.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC </link>
+<title>CBS REALITY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/803.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS REALITY </link>
 </item>
 <item>
-<title>FOOD NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/389.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOOD NETWORK </link>
+<title>NAT GEO WILD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/775.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD </link>
+</item>
+<item>
+<title>A.E</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/733.ts&amp;streamtype=TSDOWNLOADER&amp;name=A.E </link>
+</item>
+<item>
+<title>24 KITCHEN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/734.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 KITCHEN HD </link>
+</item>
+<item>
+<title>MCS LIFESTYLE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/780.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS LIFESTYLE </link>
+</item>
+<item>
+<title>HISTORIA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/785.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTORIA </link>
+</item>
+<item>
+<title>DISNEY CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/797.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL </link>
+</item>
+<item>
+<title>NICKELODEON</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/773.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON </link>
+</item>
+<item>
+<title>JIM JAM</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/782.ts&amp;streamtype=TSDOWNLOADER&amp;name=JIM JAM </link>
+</item>
+<item>
+<title>BABY FIRST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/816.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY FIRST </link>
+</item>
+<item>
+<title>DISNEY JUNIOR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/727.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR </link>
+</item>
+<item>
+<title>CANAL PANDA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/807.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA </link>
+</item>
+<item>
+<title>BIGGS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/729.ts&amp;streamtype=TSDOWNLOADER&amp;name=BIGGS </link>
+</item>
+<item>
+<title>BABY TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/815.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV </link>
+</item>
+<item>
+<title>CARTOON NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/804.ts&amp;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK </link>
+</item>
+<item>
+<title>C-MUSIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/810.ts&amp;streamtype=TSDOWNLOADER&amp;name=C-MUSIC </link>
 </item>
 <item>
 <title>MTV PORTUGAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV PORTUGAL </link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/776.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV PORTUGAL </link>
 </item>
 <item>
-<title>---------- ADULTOS ----------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/117.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- ADULTOS ---------- </link>
+<title>MTV DANCE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/973.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV DANCE </link>
 </item>
 <item>
-<title>HOT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/15.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOT </link>
+<title>VH1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/708.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 </link>
 </item>
 <item>
-<title>VENUS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/16.ts&amp;streamtype=TSDOWNLOADER&amp;name=VENUS </link>
+<title>MCM POP</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/781.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCM POP </link>
 </item>
 <item>
-<title>PLAYBOY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLAYBOY </link>
+<title>MCM TOP</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/822.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCM TOP </link>
+</item>
+<item>
+<title>AFRO MUSIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/819.ts&amp;streamtype=TSDOWNLOADER&amp;name=AFRO MUSIC </link>
+</item>
+<item>
+<title>VH1 CLASSIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/707.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 CLASSIC </link>
+</item>
+<item>
+<title>TRACE TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/748.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRACE TV </link>
+</item>
+<item>
+<title>Kuriakos TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/1728.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kuriakos TV </link>
+</item>
+<item>
+<title>CANCAO NOVA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/1727.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANCAO NOVA </link>
+</item>
+<item>
+<title>TV CABO VERDE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/1616.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CABO VERDE </link>
+</item>
+<item>
+<title>TPA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/967.ts&amp;streamtype=TSDOWNLOADER&amp;name=TPA </link>
+</item>
+<item>
+<title>REGIOES TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/972.ts&amp;streamtype=TSDOWNLOADER&amp;name=REGIOES TV </link>
+</item>
+<item>
+<title>FRANCE 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/721.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 24 </link>
+</item>
+<item>
+<title>SKY NEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/718.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY NEWS </link>
+</item>
+<item>
+<title>TV GALICIA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/746.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV GALICIA </link>
+</item>
+<item>
+<title>EURONEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/726.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURONEWS </link>
+</item>
+<item>
+<title>CNN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/728.ts&amp;streamtype=TSDOWNLOADER&amp;name=CNN </link>
+</item>
+<item>
+<title>CANAL Q</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/806.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL Q </link>
+</item>
+<item>
+<title>BBC WORLD NEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/851.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC WORLD NEWS </link>
+</item>
+<item>
+<title>BBC WORLD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/730.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC WORLD </link>
+</item>
+<item>
+<title>BBC ENTERTAINMENT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/814.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC ENTERTAINMENT </link>
+</item>
+<item>
+<title>FTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/789.ts&amp;streamtype=TSDOWNLOADER&amp;name=FTV </link>
+</item>
+<item>
+<title>PENTHOUSE HD 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/986.ts&amp;streamtype=TSDOWNLOADER&amp;name=PENTHOUSE HD 1 </link>
 </item>
 <item>
 <title>HUSTLER HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/Andrearaujo/araujo/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=HUSTLER HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/828.ts&amp;streamtype=TSDOWNLOADER&amp;name=HUSTLER HD </link>
 </item>
 <item>
-<title>---------- VIDEO CLUBE ----------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/296.mp4&amp;streamtype=TSDOWNLOADER&amp;name=---------- VIDEO CLUBE ---------- </link>
+<title>SEXTREME</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/971.ts&amp;streamtype=TSDOWNLOADER&amp;name=SEXTREME </link>
 </item>
 <item>
-<title>Escape Plan</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/413.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Escape Plan </link>
+<title>PLAYBOY TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/770.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLAYBOY TV </link>
 </item>
 <item>
-<title>Taken 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/419.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Taken 3 </link>
+<title>HOT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/720.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOT </link>
 </item>
 <item>
-<title>Warm Bodies</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/421.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Warm Bodies </link>
+<title>VENUS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/735.ts&amp;streamtype=TSDOWNLOADER&amp;name=VENUS </link>
 </item>
-<item>
-<title>The Infiltrator</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/420.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The Infiltrator </link>
-</item>
-<item>
-<title>Side Effects</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/418.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Side Effects </link>
-</item>
-<item>
-<title>Olympus Has Fallen</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/417.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Olympus Has Fallen </link>
-</item>
-<item>
-<title>Hillarys America The Secret History of the Democratic Party</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/416.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Hillarys America The Secret History of the Democratic Party </link>
-</item>
-<item>
-<title>G.I Joe Retaliation</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/415.mkv&amp;streamtype=TSDOWNLOADER&amp;name=G.I Joe Retaliation </link>
-</item>
-<item>
-<title>Ex Machina</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/414.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Ex Machina </link>
-</item>
-<item>
-<title>Ender's Game</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/412.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Ender's Game </link>
-</item>
-<item>
-<title>Elle</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/411.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Elle </link>
-</item>
-<item>
-<title>Dawn of the Planet of the Apes</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/410.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Dawn of the Planet of the Apes </link>
-</item>
-<item>
-<title>Cloud Atlas</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/409.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Cloud Atlas </link>
-</item>
-<item>
-<title>Alleycats</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/408.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Alleycats </link>
-</item>
-<item>
-<title>Hercules</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/394.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Hercules </link>
-</item>
-<item>
-<title>Angry Birds O Filme</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/391.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Angry Birds O Filme </link>
-</item>
-<item>
-<title>Alice do Outro Lado do Espelho</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/390.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Alice do Outro Lado do Espelho </link>
-</item>
-<item>
-<title>Zathura A Space Adventure</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/405.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Zathura A Space Adventure </link>
-</item>
-<item>
-<title>The Siege of Jadotville</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/404.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The Siege of Jadotville </link>
-</item>
-<item>
-<title>Shame</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/401.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Shame </link>
-</item>
-<item>
-<title>Phantasm Ravager</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/400.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Phantasm Ravager </link>
-</item>
-<item>
-<title>O Rei Dos Sonhos</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/399.mkv&amp;streamtype=TSDOWNLOADER&amp;name=O Rei Dos Sonhos </link>
-</item>
-<item>
-<title>O Fazedor de Milagres</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/398.mkv&amp;streamtype=TSDOWNLOADER&amp;name=O Fazedor de Milagres </link>
-</item>
-<item>
-<title>O Domínio dos Deuses</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/397.mkv&amp;streamtype=TSDOWNLOADER&amp;name=O Domínio dos Deuses </link>
-</item>
-<item>
-<title>Major Payne</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/396.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Major Payne </link>
-</item>
-<item>
-<title>Hunt for the Wilderpeople</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/395.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Hunt for the Wilderpeople </link>
-</item>
-<item>
-<title>Desierto</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/393.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Desierto </link>
-</item>
-<item>
-<title>Certain Women</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/392.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Certain Women </link>
-</item>
-<item>
-<title>Space Jam</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/402.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Space Jam </link>
-</item>
-<item>
-<title>amo-te teresa 2000</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/406.mp4&amp;streamtype=TSDOWNLOADER&amp;name=amo-te teresa 2000 </link>
-</item>
-<item>
-<title>Suicide Squad / Esquadrão Suicida</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/387.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Suicide Squad / Esquadrão Suicida </link>
-</item>
-<item>
-<title>Mechanic Resurrection</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/385.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Mechanic Resurrection </link>
-</item>
-<item>
-<title>Teenage Mutant Ninja Turtles</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/407.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Teenage Mutant Ninja Turtles </link>
-</item>
-<item>
-<title>Teenage Mutant Ninja Turtles Out of the Shadows</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/332.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Teenage Mutant Ninja Turtles Out of the Shadows </link>
-</item>
-<item>
-<title>Swiss Army Man</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/386.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Swiss Army Man </link>
-</item>
-<item>
-<title>Alice In Wonderland</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/384.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Alice In Wonderland </link>
-</item>
-<item>
-<title>Captain America The First Avenger</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/350.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Captain America The First Avenger </link>
-</item>
-<item>
-<title>Captain America The Winter Soldier</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/351.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Captain America The Winter Soldier </link>
-</item>
-<item>
-<title>Guardians of the Galaxy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/380.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Guardians of the Galaxy </link>
-</item>
-<item>
-<title>The Twilight Saga Breaking Dawn Part 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/377.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The Twilight Saga Breaking Dawn Part 1 </link>
-</item>
-<item>
-<title>The twilight Saga Breaking Dawn Part.2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/378.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The twilight Saga Breaking Dawn Part.2 </link>
-</item>
-<item>
-<title>The Shallows</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/376.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The Shallows </link>
-</item>
-<item>
-<title>The Sea Of Trees</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/375.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The Sea Of Trees </link>
-</item>
-<item>
-<title>The Meddler</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/374.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The Meddler </link>
-</item>
-<item>
-<title>The Gunman</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/373.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The Gunman </link>
-</item>
-<item>
-<title>The Dressmaker</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/372.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The Dressmaker </link>
-</item>
-<item>
-<title>Room</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/371.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Room </link>
-</item>
-<item>
-<title>Visions</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/379.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Visions </link>
-</item>
-<item>
-<title>Our Kind of Traitor</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/370.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Our Kind of Traitor </link>
-</item>
-<item>
-<title>Our Brand Is Crisis</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/369.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Our Brand Is Crisis </link>
-</item>
-<item>
-<title>Miracles from Heaven</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/368.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Miracles from Heaven </link>
-</item>
-<item>
-<title>Malcolm X</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/367.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Malcolm X </link>
-</item>
-<item>
-<title>Love and Friendship</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/366.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Love and Friendship </link>
-</item>
-<item>
-<title>Kickboxer Vengeance</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/365.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Kickboxer Vengeance </link>
-</item>
-<item>
-<title>Keanu</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/364.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Keanu </link>
-</item>
-<item>
-<title>Julieta</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/363.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Julieta </link>
-</item>
-<item>
-<title>Imperium</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/362.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Imperium </link>
-</item>
-<item>
-<title>Hard Target 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/361.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Hard Target 2 </link>
-</item>
-<item>
-<title>Goosebumps</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/360.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Goosebumps </link>
-</item>
-<item>
-<title>Get Hard</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/359.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Get Hard </link>
-</item>
-<item>
-<title>Genius</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/358.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Genius </link>
-</item>
-<item>
-<title>Fantastic Four</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/357.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Fantastic Four </link>
-</item>
-<item>
-<title>Charlie Schmidt's Keyboard Cat! - THE ORIGINAL!</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/356.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Charlie Schmidt's Keyboard Cat! - THE ORIGINAL! </link>
-</item>
-<item>
-<title>All The Way</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/355.mkv&amp;streamtype=TSDOWNLOADER&amp;name=All The Way </link>
-</item>
-<item>
-<title>A Perfect Day</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/354.mkv&amp;streamtype=TSDOWNLOADER&amp;name=A Perfect Day </link>
-</item>
-<item>
-<title>A Girl Like Her</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/353.mkv&amp;streamtype=TSDOWNLOADER&amp;name=A Girl Like Her </link>
-</item>
-<item>
-<title>31</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/352.mkv&amp;streamtype=TSDOWNLOADER&amp;name=31 </link>
-</item>
-<item>
-<title>The Expendables 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/344.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The Expendables 3 </link>
-</item>
-<item>
-<title>O Panda do Kung Fu 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/343.mkv&amp;streamtype=TSDOWNLOADER&amp;name=O Panda do Kung Fu 3 </link>
-</item>
-<item>
-<title>O Livro Da Selva PT-PT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/342.mkv&amp;streamtype=TSDOWNLOADER&amp;name=O Livro Da Selva PT-PT </link>
-</item>
-<item>
-<title>Mune O Guardião da Lua</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/341.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Mune O Guardião da Lua </link>
-</item>
-<item>
-<title>I Am Wrath</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/337.mkv&amp;streamtype=TSDOWNLOADER&amp;name=I Am Wrath </link>
-</item>
-<item>
-<title>Crimson Peak</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/336.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Crimson Peak </link>
-</item>
-<item>
-<title>Mission Impossible</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/340.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Mission Impossible </link>
-</item>
-<item>
-<title>Mission Impossible II</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/339.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Mission Impossible II </link>
-</item>
-<item>
-<title>Mission Impossible Ghost Protocol</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/338.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Mission Impossible Ghost Protocol </link>
-</item>
-<item>
-<title>Popstar Never Stop Never Stopping</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/330.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Popstar Never Stop Never Stopping </link>
-</item>
-<item>
-<title>The Neon Demon</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/334.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The Neon Demon </link>
-</item>
-<item>
-<title>The Conjuring 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/333.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The Conjuring 2 </link>
-</item>
-<item>
-<title>Kingsglaive Final Fantasy XV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/329.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Kingsglaive Final Fantasy XV </link>
-</item>
-<item>
-<title>Southpaw</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/318.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Southpaw </link>
-</item>
-<item>
-<title>Now You See Me 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/317.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Now You See Me 2 </link>
-</item>
-<item>
-<title>The Program</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/321.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The Program </link>
-</item>
-<item>
-<title>The Man Who Knew Infinity</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/320.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The Man Who Knew Infinity </link>
-</item>
-<item>
-<title>The Duel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/319.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The Duel </link>
-</item>
-<item>
-<title>Neighbors 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/316.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Neighbors 2 </link>
-</item>
-<item>
-<title>Concussion 2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/312.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Concussion 2015 </link>
-</item>
-<item>
-<title>A Hologram for the King</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/307.mkv&amp;streamtype=TSDOWNLOADER&amp;name=A Hologram for the King </link>
-</item>
-<item>
-<title>Angry Birds Movie 2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/197.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Angry Birds Movie 2016 </link>
-</item>
-<item>
-<title>A vida secreta dos animais</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/303.mkv&amp;streamtype=TSDOWNLOADER&amp;name=A vida secreta dos animais </link>
-</item>
-<item>
-<title>Kung Fu Panda 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/245.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Kung Fu Panda 3 </link>
-</item>
-<item>
-<title>Kindergarten Cop 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/244.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Kindergarten Cop 2 </link>
-</item>
-<item>
-<title>The Purge Election Year</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/302.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The Purge Election Year </link>
-</item>
-<item>
-<title>Pele Birth Of A Legend</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/301.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Pele Birth Of A Legend </link>
-</item>
-<item>
-<title>Money Monster</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/300.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Money Monster </link>
-</item>
-<item>
-<title>Central.Intelligence</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/299.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Central.Intelligence </link>
-</item>
-<item>
-<title>Fifty Shades of Grey</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/227.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Fifty Shades of Grey </link>
-</item>
-<item>
-<title>London Has Fallen 2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/246.mkv&amp;streamtype=TSDOWNLOADER&amp;name=London Has Fallen 2016 </link>
-</item>
-<item>
-<title>Face Off</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/226.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Face Off </link>
-</item>
-<item>
-<title>Dirty Grandpa</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/223.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Dirty Grandpa </link>
-</item>
-<item>
-<title>Jurassic World 2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/243.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Jurassic World 2015 </link>
-</item>
-<item>
-<title>Warcraft 2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/289.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Warcraft 2016 </link>
-</item>
-<item>
-<title>Demolition</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/220.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Demolition </link>
-</item>
-<item>
-<title>Deadpool</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/219.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Deadpool </link>
-</item>
-<item>
-<title>Crazy Stupid Love</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/218.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Crazy Stupid Love </link>
-</item>
-<item>
-<title>Contagion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/217.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Contagion </link>
-</item>
-<item>
-<title>Coisa Ruim</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/216.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Coisa Ruim </link>
-</item>
-<item>
-<title>The 5th Wave 2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/269.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The 5th Wave 2016 </link>
-</item>
-<item>
-<title>Cell 2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/214.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Cell 2016 </link>
-</item>
-<item>
-<title>Captain America Civil War 2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/213.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Captain America Civil War 2016 </link>
-</item>
-<item>
-<title>Caesar!</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/212.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Caesar! </link>
-</item>
-<item>
-<title>The Legend of Tarzan 2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/278.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The Legend of Tarzan 2016 </link>
-</item>
-<item>
-<title>The Last Witch Hunter</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/277.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The Last Witch Hunter </link>
-</item>
-<item>
-<title>Independence Day Resurgence 2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/238.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Independence Day Resurgence 2016 </link>
-</item>
-<item>
-<title>Batman V Superman Dawn of Justice 2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/208.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Batman V Superman Dawn of Justice 2016 </link>
-</item>
-<item>
-<title>Misconduct 2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/255.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Misconduct 2016 </link>
-</item>
-<item>
-<title>The Good Dinosaur 2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/276.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The Good Dinosaur 2015 </link>
-</item>
-<item>
-<title>Unstoppable</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/288.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Unstoppable </link>
-</item>
-<item>
-<title>Tomorrowland</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/283.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Tomorrowland </link>
-</item>
-<item>
-<title>The.Finest.Hours.2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/282.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The.Finest.Hours.2016 </link>
-</item>
-<item>
-<title>Zoolander 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/293.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Zoolander 2 </link>
-</item>
-<item>
-<title>Regression 2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/261.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Regression 2015 </link>
-</item>
-<item>
-<title>X-Men Apocalypse 2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/292.mkv&amp;streamtype=TSDOWNLOADER&amp;name=X-Men Apocalypse 2016 </link>
-</item>
-<item>
-<title>The Boss 2016</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/274.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The Boss 2016 </link>
-</item>
-<item>
-<title>Gods of Egypt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/229.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Gods of Egypt </link>
-</item>
-<item>
-<title>Louder Than Bombs</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/247.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Louder Than Bombs </link>
-</item>
-<item>
-<title>World War Z.mkv</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/291.mkv&amp;streamtype=TSDOWNLOADER&amp;name=World War Z.mkv </link>
-</item>
-<item>
-<title>Whiplash</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/290.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Whiplash </link>
-</item>
-<item>
-<title>The Amazing Spider Man</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/271.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The Amazing Spider Man </link>
-</item>
-<item>
-<title>The Amazing Spider-Man 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/272.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The Amazing Spider-Man 2 </link>
-</item>
-<item>
-<title>Tranformers</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/284.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Tranformers </link>
-</item>
-<item>
-<title>Transformers Dark of the Moon</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/286.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Transformers Dark of the Moon </link>
-</item>
-<item>
-<title>Transformers Revenge of the Fallen</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/287.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Transformers Revenge of the Fallen </link>
-</item>
-<item>
-<title>Transformers Age of Extinction</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/285.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Transformers Age of Extinction </link>
-</item>
-<item>
-<title>Ant-Man 2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/198.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Ant-Man 2015 </link>
-</item>
-<item>
-<title>The Avengers 2012</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/273.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The Avengers 2012 </link>
-</item>
-<item>
-<title>Man Of Steel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/252.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Man Of Steel </link>
-</item>
-<item>
-<title>RoboCop (2014)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/264.mkv&amp;streamtype=TSDOWNLOADER&amp;name=RoboCop (2014) </link>
-</item>
-<item>
-<title>Batman Begins</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/207.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Batman Begins </link>
-</item>
-<item>
-<title>O Cavaleiro das Trevas</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/259.mkv&amp;streamtype=TSDOWNLOADER&amp;name=O Cavaleiro das Trevas </link>
-</item>
-<item>
-<title>The Watch</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/281.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The Watch </link>
-</item>
-<item>
-<title>The Nice Guys</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/280.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The Nice Guys </link>
-</item>
-<item>
-<title>The Matrix</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/279.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The Matrix </link>
-</item>
-<item>
-<title>Birdman</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/210.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Birdman </link>
-</item>
-<item>
-<title>The Danish Girl</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/275.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The Danish Girl </link>
-</item>
-<item>
-<title>The Adjustment Bureau</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/270.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The Adjustment Bureau </link>
-</item>
-<item>
-<title>The 33 2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/268.mkv&amp;streamtype=TSDOWNLOADER&amp;name=The 33 2015 </link>
-</item>
-<item>
-<title>Th Big Short</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/267.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Th Big Short </link>
-</item>
-<item>
-<title>Sherlock Holmes A Game of Shadows</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/266.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Sherlock Holmes A Game of Shadows </link>
-</item>
-<item>
-<title>Ronaldo (2015)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/265.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Ronaldo (2015) </link>
-</item>
-<item>
-<title>Risen</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/263.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Risen </link>
-</item>
-<item>
-<title>Ride Along 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/262.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Ride Along 2 </link>
-</item>
-<item>
-<title>O Rei LeÃ£o 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/260.mkv&amp;streamtype=TSDOWNLOADER&amp;name=O Rei LeÃ£o 2 </link>
-</item>
-<item>
-<title>Now You See Me</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/258.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Now You See Me </link>
-</item>
-<item>
-<title>No Escape 2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/257.mkv&amp;streamtype=TSDOWNLOADER&amp;name=No Escape 2015 </link>
-</item>
-<item>
-<title>Never Back Down 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/256.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Never Back Down 2 </link>
-</item>
-<item>
-<title>Men In Black 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/253.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Men In Black 3 </link>
-</item>
-<item>
-<title>Lucy (2014)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/248.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Lucy (2014) </link>
-</item>
-<item>
-<title>Joy 2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/242.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Joy 2015 </link>
-</item>
-<item>
-<title>John Carter</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/241.mkv&amp;streamtype=TSDOWNLOADER&amp;name=John Carter </link>
-</item>
-<item>
-<title>Isto é o Fim!</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/240.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Isto é o Fim! </link>
-</item>
-<item>
-<title>Interstellar 2014</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/239.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Interstellar 2014 </link>
-</item>
-<item>
-<title>Immortals</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/237.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Immortals </link>
-</item>
-<item>
-<title>How to be Single</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/236.mkv&amp;streamtype=TSDOWNLOADER&amp;name=How to be Single </link>
-</item>
-<item>
-<title>High-Rise</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/235.mkv&amp;streamtype=TSDOWNLOADER&amp;name=High-Rise </link>
-</item>
-<item>
-<title>He Never Died</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/234.mkv&amp;streamtype=TSDOWNLOADER&amp;name=He Never Died </link>
-</item>
-<item>
-<title>Furious Seven 2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/228.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Furious Seven 2015 </link>
-</item>
-<item>
-<title>Eddie the Eagle</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/225.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Eddie the Eagle </link>
-</item>
-<item>
-<title>Django Unchained</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/224.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Django Unchained </link>
-</item>
-<item>
-<title>Chappie 2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/215.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Chappie 2015 </link>
-</item>
-<item>
-<title>Black Hawk Down</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/211.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Black Hawk Down </link>
-</item>
-<item>
-<title>Battleship</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/209.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Battleship </link>
-</item>
-<item>
-<title>Batalha do Pacífico</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/206.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Batalha do Pacífico </link>
-</item>
-<item>
-<title>Bad Neighbors</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/202.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Bad Neighbors </link>
-</item>
-<item>
-<title>Back to the Future Part 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/201.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Back to the Future Part 3 </link>
-</item>
-<item>
-<title>Avatar</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/200.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Avatar </link>
-</item>
-<item>
-<title>Argo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/199.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Argo </link>
-</item>
-<item>
-<title>American Gangster</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/196.mkv&amp;streamtype=TSDOWNLOADER&amp;name=American Gangster </link>
-</item>
-<item>
-<title>Allegiant</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/195.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Allegiant </link>
-</item>
-<item>
-<title>A Origem</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/194.mkv&amp;streamtype=TSDOWNLOADER&amp;name=A Origem </link>
-</item>
-<item>
-<title>12 Years a Slave</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/193.mkv&amp;streamtype=TSDOWNLOADER&amp;name=12 Years a Slave </link>
-</item>
-<item>
-<title>Die Hard 1988</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/221.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Die Hard 1988 </link>
-</item>
-<item>
-<title>Die Hard 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/222.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Die Hard 2 </link>
-</item>
-<item>
-<title>fernando rocha</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/295.mkv&amp;streamtype=TSDOWNLOADER&amp;name=fernando rocha </link>
-</item>
-<item>
-<title>Balas & Bolinhos</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/204.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Balas & Bolinhos </link>
-</item>
-<item>
-<title>Balas e Bolinhos II - O Regresso</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/205.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Balas e Bolinhos II - O Regresso </link>
-</item>
-<item>
-<title>Balas & Bolinhos - O Último Capítulo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/203.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Balas & Bolinhos - O Último Capítulo </link>
-</item>
-<item>
-<title>Harry Potter And The Sorcerer  Stone 2001.mkv</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/233.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Harry Potter And The Sorcerer  Stone 2001.mkv </link>
-</item>
-<item>
-<title>Harry Potter And The Chamber Of Secrets 2002</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/230.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Harry Potter And The Chamber Of Secrets 2002 </link>
-</item>
-<item>
-<title>Harry Potter And The Prisoner Of Azkaban 2004</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/232.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Harry Potter And The Prisoner Of Azkaban 2004 </link>
-</item>
-<item>
-<title>Harry Potter And The Goblet Of Fire 2005</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/231.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Harry Potter And The Goblet Of Fire 2005 </link>
-</item>
-<item>
-<title>Madagascar</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/251.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Madagascar </link>
-</item>
-<item>
-<title>Madagascar 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/249.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Madagascar 2 </link>
-</item>
-<item>
-<title>Madagascar 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/250.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Madagascar 3 </link>
-</item>
-<item>
-<title>Toy Story PT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/322.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Toy Story PT </link>
-</item>
-<item>
-<title>ToyStory 2 PT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/323.mkv&amp;streamtype=TSDOWNLOADER&amp;name=ToyStory 2 PT </link>
-</item>
-<item>
-<title>ToyStory 3 PT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/324.mkv&amp;streamtype=TSDOWNLOADER&amp;name=ToyStory 3 PT </link>
-</item>
-<item>
-<title>Aladdin PT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/310.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Aladdin PT </link>
-</item>
-<item>
-<title>A Bugs Life PT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/305.mkv&amp;streamtype=TSDOWNLOADER&amp;name=A Bugs Life PT </link>
-</item>
-<item>
-<title>A Corcunda de Notre Dame</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/306.mkv&amp;streamtype=TSDOWNLOADER&amp;name=A Corcunda de Notre Dame </link>
-</item>
-<item>
-<title>A Bela e o Monstro 1991 PT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/304.mkv&amp;streamtype=TSDOWNLOADER&amp;name=A Bela e o Monstro 1991 PT </link>
-</item>
-<item>
-<title>Up 2009 PT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/325.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Up 2009 PT </link>
-</item>
-<item>
-<title>Zootopia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/294.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Zootopia </link>
-</item>
-<item>
-<title>Minions</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/315.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Minions </link>
-</item>
-<item>
-<title>Minimos 2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/314.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Minimos 2015 </link>
-</item>
-<item>
-<title>Igor 2008 PT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/313.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Igor 2008 PT </link>
-</item>
-<item>
-<title>Brave PT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/311.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Brave PT </link>
-</item>
-<item>
-<title>A Volta Do Mundo Com Timon e Pumba PT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/308.mkv&amp;streamtype=TSDOWNLOADER&amp;name=A Volta Do Mundo Com Timon e Pumba PT </link>
-</item>
-<item>
-<title>a Procura de Nemo PT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/326.mkv&amp;streamtype=TSDOWNLOADER&amp;name=a Procura de Nemo PT </link>
-</item>
-<item>
-<title>A fuga das galinhas PT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/309.mkv&amp;streamtype=TSDOWNLOADER&amp;name=A fuga das galinhas PT </link>
-</item>
-<item>
-<title>Minions 2015</title>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/movie/Andrearaujo/araujo/254.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Minions 2015 </link>
-</item>
-
-
 
 
 
