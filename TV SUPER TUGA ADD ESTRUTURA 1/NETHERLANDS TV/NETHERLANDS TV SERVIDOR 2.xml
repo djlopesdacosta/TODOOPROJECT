@@ -33,223 +33,194 @@
 
 
 
-<item>
-<title>Stadium1-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1343.ts&amp;streamtype=TSDOWNLOADER&amp;name=Stadium1-HD </link>
-</item>
-<item>
-<title>Stadium2-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1344.ts&amp;streamtype=TSDOWNLOADER&amp;name=Stadium2-HD </link>
-</item>
-<item>
-<title>Stadium3-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1345.ts&amp;streamtype=TSDOWNLOADER&amp;name=Stadium3-HD </link>
-</item>
-<item>
-<title>Stadium4-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1346.ts&amp;streamtype=TSDOWNLOADER&amp;name=Stadium4-HD </link>
-</item>
-<item>
-<title>Stadium5-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1347.ts&amp;streamtype=TSDOWNLOADER&amp;name=Stadium5-HD </link>
-</item>
-<item>
-<title>Stadium6-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1348.ts&amp;streamtype=TSDOWNLOADER&amp;name=Stadium6-HD </link>
-</item>
-<item>
-<title>DISNEY_CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1333.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY_CHANNEL </link>
-</item>
-<item>
-<title>TELEKIDS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1332.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELEKIDS </link>
-</item>
-<item>
-<title>NL-VERONICAHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1436.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-VERONICAHD </link>
-</item>
-<item>
-<title>NL-TLCHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1434.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-TLCHD </link>
-</item>
-<item>
-<title>NL-SBS6HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1431.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-SBS6HD </link>
-</item>
-<item>
-<title>NL-RTL8HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1433.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-RTL8HD </link>
-</item>
-<item>
-<title>NL-RTL7HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1432.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-RTL7HD </link>
-</item>
-<item>
-<title>NL-RTL5HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1428.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-RTL5HD </link>
-</item>
-<item>
-<title>NL-RTL4HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1427.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-RTL4HD </link>
-</item>
-<item>
-<title>NL-NPO1HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1421.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-NPO1HD </link>
-</item>
-<item>
-<title>NL-NPO2HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1422.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-NPO2HD </link>
-</item>
-<item>
-<title>NL-NPO3HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1423.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-NPO3HD </link>
-</item>
-<item>
-<title>NL-NICKTOONSHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1439.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-NICKTOONSHD </link>
-</item>
-<item>
-<title>NL-NICKELODEON-SPIKE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1438.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-NICKELODEON-SPIKE </link>
-</item>
-<item>
-<title>NL-NET5HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1429.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-NET5HD </link>
-</item>
-<item>
-<title>NL-INVESTIGATION-DISC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1442.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-INVESTIGATION-DISC </link>
-</item>
-<item>
-<title>NL-HBOHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1424.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-HBOHD </link>
-</item>
-<item>
-<title>NL-HBO2HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1425.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-HBO2HD </link>
-</item>
-<item>
-<title>NL-HBO3HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1426.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-HBO3HD </link>
-</item>
-<item>
-<title>NL-FOXSPORTS1HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1448.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-FOXSPORTS1HD </link>
-</item>
-<item>
-<title>NL-FOXSPORTS2HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1449.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-FOXSPORTS2HD </link>
-</item>
-<item>
-<title>NL-FOXSPORTS3HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1450.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-FOXSPORTS3HD </link>
-</item>
-<item>
-<title>NL-FOXSPORTS4HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1451.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-FOXSPORTS4HD </link>
-</item>
-<item>
-<title>NL-FOXSPORTS5HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1452.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-FOXSPORTS5HD </link>
-</item>
-<item>
-<title>NL-FOX TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1435.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-FOX TV </link>
-</item>
-<item>
-<title>NL-FILM1SUNDANCEHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1444.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-FILM1SUNDANCEHD </link>
-</item>
-<item>
-<title>NL-FILM1PREMIEREHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1445.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-FILM1PREMIEREHD </link>
-</item>
-<item>
-<title>NL-FILM1COMEDYHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1446.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-FILM1COMEDYHD </link>
-</item>
-<item>
-<title>NL-FILM1ACTIONHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1447.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-FILM1ACTIONHD </link>
-</item>
-<item>
-<title>NL-DISNEYJUNIOR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1441.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-DISNEYJUNIOR </link>
-</item>
-<item>
-<title>NL-DISCOVERY-CHANNEL-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1443.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-DISCOVERY-CHANNEL-HD </link>
-</item>
-<item>
-<title>NL-COMEDYCENTRAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1437.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-COMEDYCENTRAL </link>
-</item>
-<item>
-<title>NL-CARTOONNLHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1440.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-CARTOONNLHD </link>
-</item>
-<item>
-<title>NL-AT5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1430.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL-AT5 </link>
-</item>
-<item>
-<title>FILM1_PREMIERE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1331.ts&amp;streamtype=TSDOWNLOADER&amp;name=FILM1_PREMIERE </link>
-</item>
-<item>
-<title>EEN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1330.ts&amp;streamtype=TSDOWNLOADER&amp;name=EEN </link>
-</item>
-<item>
-<title>NET5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1326.ts&amp;streamtype=TSDOWNLOADER&amp;name=NET5 </link>
-</item>
-<item>
-<title>HBO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1327.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO </link>
-</item>
-<item>
-<title>HBO2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1328.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO2 </link>
-</item>
-<item>
-<title>HBO3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1329.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO3 </link>
-</item>
-<item>
-<title>RTL4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1322.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL4 </link>
-</item>
-<item>
-<title>RTL5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1323.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL5 </link>
-</item>
-<item>
-<title>RTL7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1324.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL7 </link>
-</item>
-<item>
-<title>RTL8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1325.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL8 </link>
-</item>
-<item>
-<title>RTL9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/581.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL9 </link>
-</item>
-<item>
-<title>NPO1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1319.ts&amp;streamtype=TSDOWNLOADER&amp;name=NPO1 </link>
-</item>
-<item>
-<title>NPO2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1320.ts&amp;streamtype=TSDOWNLOADER&amp;name=NPO2 </link>
-</item>
-<item>
-<title>NPO3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/pass1/pass1/1321.ts&amp;streamtype=TSDOWNLOADER&amp;name=NPO3 </link>
-</item>
 
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>NL: ZIGGO_SPORT_SELECT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17486.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: ZIGGO_SPORT_SELECT </link>
+</item>
+<item>
+<title>NL: ZIGGO_SPORT_RACING</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17487.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: ZIGGO_SPORT_RACING </link>
+</item>
+<item>
+<title>NL: ZIGGO_SPORT_EXTRA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17488.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: ZIGGO_SPORT_EXTRA </link>
+</item>
+<item>
+<title>NL: VERONICA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17489.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: VERONICA </link>
+</item>
+<item>
+<title>NL: SBS-9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17485.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: SBS-9 </link>
+</item>
+<item>
+<title>NL: SBS-6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17482.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: SBS-6 </link>
+</item>
+<item>
+<title>NL: RTL-8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17484.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: RTL-8 </link>
+</item>
+<item>
+<title>NL: RTL-7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17483.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: RTL-7 </link>
+</item>
+<item>
+<title>NL: RTL-5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17481.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: RTL-5 </link>
+</item>
+<item>
+<title>NL: RTL-4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17480.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: RTL-4 </link>
+</item>
+<item>
+<title>NL: NPO3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17479.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: NPO3 </link>
+</item>
+<item>
+<title>NL: NPO2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17478.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: NPO2 </link>
+</item>
+<item>
+<title>NL: NPO1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17477.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: NPO1 </link>
+</item>
+<item>
+<title>NL: NET-5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17497.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: NET-5 </link>
+</item>
+<item>
+<title>NL: HBO3_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17476.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: HBO3_HD </link>
+</item>
+<item>
+<title>NL: HBO2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17475.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: HBO2_HD </link>
+</item>
+<item>
+<title>NL: HBO1_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17474.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: HBO1_HD </link>
+</item>
+<item>
+<title>NL: Fox_Sports6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17505.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Fox_Sports6 </link>
+</item>
+<item>
+<title>NL: Fox_Sports5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17504.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Fox_Sports5 </link>
+</item>
+<item>
+<title>NL: Fox_Sports4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17503.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Fox_Sports4 </link>
+</item>
+<item>
+<title>NL: Fox_Sports3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17502.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Fox_Sports3 </link>
+</item>
+<item>
+<title>NL: Fox_Sports2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17501.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Fox_Sports2 </link>
+</item>
+<item>
+<title>NL: Fox_Sports1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17500.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Fox_Sports1 </link>
+</item>
+<item>
+<title>NL: FILM1_SUNDANCE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17492.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: FILM1_SUNDANCE </link>
+</item>
+<item>
+<title>NL: FILM1_PREMIERE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17491.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: FILM1_PREMIERE </link>
+</item>
+<item>
+<title>NL: DISCOVERY_ID</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17495.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: DISCOVERY_ID </link>
+</item>
+<item>
+<title>NL: DISCOVERY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17496.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: DISCOVERY </link>
+</item>
+<item>
+<title>NL: 13th_Street</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17499.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: 13th_Street </link>
+</item>
+<item>
+<title>NL: NPO Zappelin Xtra/Humor TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/16933.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: NPO Zappelin Xtra/Humor TV </link>
+</item>
+<item>
+<title>NL: Nicktoons</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/16934.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Nicktoons </link>
+</item>
+<item>
+<title>NL: Nickelodeon</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/16935.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Nickelodeon </link>
+</item>
+<item>
+<title>NL: Nick Jr</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/16936.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Nick Jr </link>
+</item>
+<item>
+<title>NL: National Geographic HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/16937.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: National Geographic HD </link>
+</item>
+<item>
+<title>NL: MTV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/16938.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: MTV HD </link>
+</item>
+<item>
+<title>NL: Ketnet HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/16939.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Ketnet HD </link>
+</item>
+<item>
+<title>NL: Film 1 Sundance</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/16940.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Film 1 Sundance </link>
+</item>
+<item>
+<title>NL: Film 1 Spotlight</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/16941.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Film 1 Spotlight </link>
+</item>
+<item>
+<title>NL: Film 1 Premiere HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/16942.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Film 1 Premiere HD </link>
+</item>
+<item>
+<title>NL: Edge Sport HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/16943.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Edge Sport HD </link>
+</item>
+<item>
+<title>NL: Disney Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/16944.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Disney Junior </link>
+</item>
+<item>
+<title>NL: Disney Channel HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/16945.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Disney Channel HD </link>
+</item>
+<item>
+<title>NL: Crime & Investigation</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/16946.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Crime & Investigation </link>
+</item>
+<item>
+<title>NL: Comedy Central</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/16947.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Comedy Central </link>
+</item>
+<item>
+<title>NL: BBC Entertainment</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/16948.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: BBC Entertainment </link>
+</item>
 
   
 <item>       
