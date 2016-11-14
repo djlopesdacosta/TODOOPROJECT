@@ -12,7 +12,7 @@
 
 <item>
 <title>Bein Sports 1</title>
-<link>http://130.185.144.112:8081/abcd/bein1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDE2IDk6MTY6NDggUE0maGFzaF92YWx1ZT1pTzMrSjVGbUdWSnRBQXNwYlp5eGJBPT0mdmFsaWRtaW51dGVzPTI=</link>
+<link></link>
 <thumbnail>http://assets.beinsports.com/2.6.15/images/logo-header__us.png</thumbnail>
 <fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
 <referer>referer=http://www.ibrod.tv/skysports2.html</referer>
@@ -28,7 +28,7 @@
 
 <item>
 <title>Bein Sports 2</title>
-<link>http://130.185.144.112:8081/abcd/bein2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDE2IDk6MTY6NDggUE0maGFzaF92YWx1ZT1pTzMrSjVGbUdWSnRBQXNwYlp5eGJBPT0mdmFsaWRtaW51dGVzPTI==</link>
+<link></link>
 <thumbnail>http://assets.beinsports.com/2.6.15/images/logo-header__us.png</thumbnail>
 <fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
 <referer>referer=http://www.ibrod.tv/skysports2.html</referer>
@@ -37,6 +37,14 @@
 <item>
 <title>Bein Sports 3</title>
 <sportsdevil>http://www.liveonlinetv247.info/embed/beinsports3.php?width=650&height=480&autoplay=true</sportsdevil>
+<thumbnail>http://assets.beinsports.com/2.6.15/images/logo-header__us.png</thumbnail>
+<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
+<referer>referer=http://www.ibrod.tv/skysports2.html</referer>
+</item>
+
+<item>
+<title>Bein Sports 3</title>
+<link>http://130.185.144.112:8081/abcd/bein3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDE2IDk6MTY6NDggUE0maGFzaF92YWx1ZT1pTzMrSjVGbUdWSnRBQXNwYlp5eGJBPT0mdmFsaWRtaW51dGVzPTI=</link>
 <thumbnail>http://assets.beinsports.com/2.6.15/images/logo-header__us.png</thumbnail>
 <fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
 <referer>referer=http://www.ibrod.tv/skysports2.html</referer>
