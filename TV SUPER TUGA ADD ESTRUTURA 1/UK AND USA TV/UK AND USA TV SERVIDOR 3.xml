@@ -43,1287 +43,1086 @@
 
 
 
-
-
-
-
- <item>
-<title>|UK|  BBC 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1174.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  BBC 1 </link>
-</item>
-<item>
-<title>|UK|  BBC 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1173.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  BBC 2 </link>
-</item>
-<item>
-<title>|UK|  BBC 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1172.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  BBC 3 </link>
-</item>
-<item>
-<title>|UK|  BBC 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1171.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  BBC 4 </link>
-</item>
-<item>
-<title>|UK|  BBC NEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1170.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  BBC NEWS </link>
-</item>
-<item>
-<title>|UK|  SKY NEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1132.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  SKY NEWS </link>
-</item>
-<item>
-<title>|UK| AL JAZZERA EN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1695.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK| AL JAZZERA EN </link>
-</item>
-<item>
-<title>|UK|  SKY MOVIES SELECT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1134.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  SKY MOVIES SELECT </link>
-</item>
-<item>
-<title>|UK|  SKY MOVIES SCI-FI&HORROR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1135.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  SKY MOVIES SCI-FI&HORROR </link>
-</item>
-<item>
-<title>|UK|  SKY MOVIES PREMIERE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1136.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  SKY MOVIES PREMIERE </link>
-</item>
-<item>
-<title>|UK|  SKY MOVIES FAMILY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1138.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  SKY MOVIES FAMILY </link>
-</item>
-<item>
-<title>|UK|  SKY MOVIES DRAMA&ROMANCE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1139.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  SKY MOVIES DRAMA&ROMANCE </link>
-</item>
-<item>
-<title>|UK|  SKY MOVIES DISNEY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1140.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  SKY MOVIES DISNEY </link>
-</item>
-<item>
-<title>|UK|  SKY MOVIES COMEDY HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1142.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  SKY MOVIES COMEDY HD </link>
-</item>
-<item>
-<title>|UK|  SKY MOVIES SHOWCASE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1133.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  SKY MOVIES SHOWCASE </link>
-</item>
-<item>
-<title>|UK|  SKY MOVIES ACTION&ADVENTURE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1143.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  SKY MOVIES ACTION&ADVENTURE </link>
-</item>
-<item>
-<title>|UK|  SKY MOVIES CRIME&THRILLER</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1141.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  SKY MOVIES CRIME&THRILLER </link>
-</item>
-<item>
-<title>|UK|  SKY MOVIES GREATS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1137.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  SKY MOVIES GREATS </link>
-</item>
-<item>
-<title>|UK|  SKY ATLANTIC HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1144.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  SKY ATLANTIC HD </link>
-</item>
-<item>
-<title>|UK|  FOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1151.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  FOX </link>
-</item>
-<item>
-<title>|UK|  CRIME & THRILLER</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1169.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  CRIME & THRILLER </link>
-</item>
-<item>
-<title>|UK|  COMEDY CENTRAL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1163.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  COMEDY CENTRAL HD </link>
-</item>
-<item>
-<title>|UK|  LIFETIME</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1149.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  LIFETIME </link>
-</item>
-<item>
-<title>|UK|  NATIONAL GEOGRAPHIC HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1146.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  NATIONAL GEOGRAPHIC HD </link>
-</item>
-<item>
-<title>|UK|  INVESTIGATION DISCOVERY IRELAND</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1150.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  INVESTIGATION DISCOVERY IRELAND </link>
-</item>
-<item>
-<title>|UK|  DISCOVERY TURBO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1158.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  DISCOVERY TURBO </link>
-</item>
-<item>
-<title>|UK|  DISCOVERY SCIENCE CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1159.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  DISCOVERY SCIENCE CHANNEL </link>
-</item>
-<item>
-<title>|UK|  DISCOVERY HOME&HEALTH</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1160.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  DISCOVERY HOME&HEALTH </link>
-</item>
-<item>
-<title>|UK|  DISCOVERY HISTORY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1161.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  DISCOVERY HISTORY </link>
-</item>
-<item>
-<title>|UK|  DISCOVERY CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1162.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  DISCOVERY CHANNEL </link>
-</item>
-<item>
-<title>|UK|  MTV HITS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1147.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  MTV HITS </link>
-</item>
-<item>
-<title>|UK|  MTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1148.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  MTV </link>
-</item>
-<item>
-<title>|UK|  SKY SPORTS NEWS HQ</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1125.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  SKY SPORTS NEWS HQ </link>
-</item>
-<item>
-<title>|UK|  PREMIER SPORTS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1145.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  PREMIER SPORTS </link>
-</item>
-<item>
-<title>|UK|  EUROSPORT 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1154.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  EUROSPORT 1 HD </link>
-</item>
 <item>
-<title>|UK|  EUROSPORT 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1153.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  EUROSPORT 2 HD </link>
+<title>USA: NBCSN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5720.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBCSN HD </link>
 </item>
 <item>
-<title>|UK|  SKY SPORTS 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1131.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  SKY SPORTS 1 </link>
+<title>USA : WWE Network HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5722.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : WWE Network HD </link>
 </item>
 <item>
-<title>|UK|  SKY SPORTS 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1130.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  SKY SPORTS 2 </link>
+<title>USA : WWE HD*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5738.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : WWE HD* </link>
 </item>
 <item>
-<title>|UK|  SKY SPORTS 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1129.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  SKY SPORTS 3 </link>
+<title>USA : WILLOW CRICKET HD*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5739.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : WILLOW CRICKET HD* </link>
 </item>
 <item>
-<title>|UK|  SKY SPORTS 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1128.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  SKY SPORTS 4 </link>
+<title>USA : USA NETWORK HD*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5740.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : USA NETWORK HD* </link>
 </item>
 <item>
-<title>|UK|  SKY SPORTS 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1127.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  SKY SPORTS 5 </link>
+<title>USA : USA NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5741.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : USA NETWORK </link>
 </item>
 <item>
-<title>|UK|  SKY SPORTS F1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1126.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  SKY SPORTS F1 </link>
+<title>USA : TNT HD?</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5721.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : TNT HD? </link>
 </item>
 <item>
-<title>|UK|  BT SPORT EUROPE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1165.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  BT SPORT EUROPE HD </link>
+<title>USA : TENNIS HD*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5724.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : TENNIS HD* </link>
 </item>
 <item>
-<title>|UK|  BT SPORT 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1168.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  BT SPORT 1 HD </link>
+<title>USA : SPROUT HD*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5725.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : SPROUT HD* </link>
 </item>
 <item>
-<title>|UK|  BT SPORT 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1167.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  BT SPORT 2 HD </link>
+<title>USA : SPORTSNET WORLD HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5726.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : SPORTSNET WORLD HD </link>
 </item>
 <item>
-<title>|UK|  BT SPORT EXTRA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1164.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  BT SPORT EXTRA </link>
+<title>USA : SPORTSNET PACIFIC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5727.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : SPORTSNET PACIFIC HD </link>
 </item>
 <item>
-<title>|UK|  BT SPORT ESPN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1166.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  BT SPORT ESPN </link>
+<title>USA : Poker Central HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5742.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : Poker Central HD </link>
 </item>
 <item>
-<title>|UK|  FIGHTBOX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1152.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  FIGHTBOX HD </link>
+<title>USA : NFL NETWORK HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5743.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : NFL NETWORK HD </link>
 </item>
 <item>
-<title>|UK|  DISNEY XD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1155.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  DISNEY XD </link>
+<title>USA : NBC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5728.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : NBC HD </link>
 </item>
 <item>
-<title>|UK|  DISNEY JUNIOR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1156.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  DISNEY JUNIOR HD </link>
+<title>USA : NBA TV HD**</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5744.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : NBA TV HD** </link>
 </item>
 <item>
-<title>|UK|  DISNEY CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://adn.spazy.info:9514/live/1020304050/1020304050/1157.ts&amp;streamtype=TSDOWNLOADER&amp;name=|UK|  DISNEY CHANNEL </link>
+<title>USA : MLB NETWORK HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5729.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : MLB NETWORK HD </link>
 </item>
 <item>
-<title>Sky Sports News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1698.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports News </link>
+<title>USA : Fox Sports 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5745.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : Fox Sports 2 HD </link>
 </item>
 <item>
-<title>Sky Sports F1 UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1696.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports F1 UK </link>
+<title>USA : Fox Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5746.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : Fox Sports 1 HD </link>
 </item>
 <item>
-<title>Sky Sports Box Office UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1695.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports Box Office UK </link>
+<title>USA : ESPN2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5730.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : ESPN2 HD </link>
 </item>
 <item>
-<title>Sky Sports 5 UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1693.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 5 UK </link>
+<title>USA : ESPN HD 2**</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5747.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : ESPN HD 2** </link>
 </item>
 <item>
-<title>Sky Sports 4 UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1691.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 4 UK </link>
+<title>USA : ESPN HD *</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5748.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : ESPN HD * </link>
 </item>
 <item>
-<title>Sky Sports 3 UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1689.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 3 UK </link>
+<title>USA : ELREY HD?</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5731.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : ELREY HD? </link>
 </item>
 <item>
-<title>Sky Sports 2 UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1687.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 2 UK </link>
+<title>USA : E! HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5749.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : E! HD </link>
 </item>
 <item>
-<title>Sky Sports 1 UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1685.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 1 UK </link>
+<title>USA : DTX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5750.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : DTX HD </link>
 </item>
 <item>
-<title>BT Sports Extra</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1914.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sports Extra </link>
+<title>USA : DIY NETWORK HD**</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5751.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : DIY NETWORK HD** </link>
 </item>
 <item>
-<title>BT Sports ESPN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1993.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sports ESPN </link>
+<title>USA : CBS Sports Network HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5732.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : CBS Sports Network HD </link>
 </item>
 <item>
-<title>BT Sports 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1992.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sports 3 </link>
+<title>USA : BTN SPORTS HD**</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5752.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : BTN SPORTS HD** </link>
 </item>
 <item>
-<title>Sky Movies Showcase</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1684.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Showcase </link>
+<title>USA : Big Ten Network HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5733.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : Big Ten Network HD </link>
 </item>
 <item>
-<title>Sky Movies Sci-Fi & Horror UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1682.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Sci-Fi & Horror UK </link>
+<title>USA : Bein USA HD*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5734.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : Bein USA HD* </link>
 </item>
 <item>
-<title>Sky Movies Sci-Fi & Horror HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1683.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Sci-Fi & Horror HD </link>
+<title>USA : AMC HD?</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5735.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : AMC HD? </link>
 </item>
 <item>
-<title>Sky Movies Premiere HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1681.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Premiere HD </link>
+<title>USA : ABC HD*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5736.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : ABC HD* </link>
 </item>
 <item>
-<title>Sky Movies Greats HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1680.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Greats HD </link>
+<title>USA :  SPORTSNET ONE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5737.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA :  SPORTSNET ONE HD </link>
 </item>
 <item>
-<title>Sky Movies Greats</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1679.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Greats </link>
+<title>US: WWE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5753.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: WWE HD </link>
 </item>
 <item>
-<title>Sky Movies Family UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1677.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Family UK </link>
+<title>US: USA Network HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5754.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: USA Network HD </link>
 </item>
 <item>
-<title>Sky Movies Family HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1678.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Family HD </link>
+<title>US: NFL Network HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5755.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NFL Network HD </link>
 </item>
 <item>
-<title>Sky Movies Drama & Romance HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1676.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Drama & Romance HD </link>
+<title>US: NBC SPORT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5756.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NBC SPORT </link>
 </item>
 <item>
-<title>Sky Movies Disney UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1674.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Disney UK </link>
+<title>US: NBA TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5757.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NBA TV </link>
 </item>
 <item>
-<title>Sky Movies Disney HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1675.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Disney HD </link>
+<title>US: ESPN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5758.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ESPN HD </link>
 </item>
 <item>
-<title>Sky Movies Crime & Thriller HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1673.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Crime & Thriller HD </link>
+<title>US: ESPN 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5759.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ESPN 2 </link>
 </item>
 <item>
-<title>Sky Movies Crime & Thriller</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1672.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Crime & Thriller </link>
+<title>US: ESPN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5760.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ESPN </link>
 </item>
 <item>
-<title>Sky Movies Comedy HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1671.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Comedy HD </link>
+<title>US: BTN Sport HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5761.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: BTN Sport HD </link>
 </item>
 <item>
-<title>Sky Movies Action & Adventure HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1670.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Action & Adventure HD </link>
+<title>US: Bein Sports USA HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5762.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Bein Sports USA HD </link>
 </item>
 <item>
-<title>Sky Movies Action & Adventure</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1669.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Action & Adventure </link>
+<title>US: AFN SPORTS 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5763.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: AFN SPORTS 2 </link>
 </item>
 <item>
-<title>BT Sports 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1981.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sports 2 </link>
+<title>US: AFN SPORTS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5764.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: AFN SPORTS </link>
 </item>
 <item>
-<title>BT Sports 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1980.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sports 1 </link>
+<title>US: A&E HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5765.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: A&E HD </link>
 </item>
 <item>
-<title>CBS Reality</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1913.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS Reality </link>
+<title>US: A&E</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5766.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: A&E </link>
 </item>
 <item>
-<title>CBS Drama</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1912.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS Drama </link>
+<title>UK : TV3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5706.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK : TV3 HD </link>
 </item>
 <item>
-<title>CBS Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1911.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS Action </link>
+<title>UK : TV3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5707.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK : TV3 </link>
 </item>
 <item>
-<title>BBC 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1513.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC 1 HD </link>
+<title>UK : RTE TWO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5709.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK : RTE TWO </link>
 </item>
 <item>
-<title>BBC One</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/755.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC One </link>
+<title>UK : RTE ONE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5710.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK : RTE ONE </link>
 </item>
 <item>
-<title>BBC Two</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/756.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC Two </link>
+<title>UK : RTE NEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5711.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK : RTE NEWS </link>
 </item>
 <item>
-<title>BBC Two HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1478.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC Two HD </link>
+<title>UK : RTE JUNIOR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5708.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK : RTE JUNIOR </link>
 </item>
 <item>
-<title>BBC  World News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/757.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC  World News </link>
+<title>UFC Fight pass</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5717.ts&amp;streamtype=TSDOWNLOADER&amp;name=UFC Fight pass </link>
 </item>
 <item>
-<title>BBC Four</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/758.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC Four </link>
+<title>TV3 IE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5712.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV3 IE </link>
 </item>
 <item>
-<title>Channel 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/763.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 4 </link>
+<title>TV-3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5713.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV-3 HD </link>
 </item>
 <item>
-<title>Channel 5 UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/764.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 5 UK </link>
+<title>Sky sports news backup</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5718.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky sports news backup </link>
 </item>
 <item>
-<title>Channel 5 PK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/569.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 5 PK </link>
+<title>SKY SPORTS 5 IRE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5701.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 5 IRE </link>
 </item>
 <item>
-<title>ITV 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/759.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV 1 </link>
+<title>SKY SPORTS 4 IRE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5702.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 4 IRE </link>
 </item>
 <item>
-<title>ITV 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/760.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV 2 </link>
+<title>SKY SPORTS 3 IRE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5703.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 3 IRE </link>
 </item>
 <item>
-<title>ITV 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/761.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV 3 </link>
+<title>SKY SPORTS 2 IRE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5704.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 2 IRE </link>
 </item>
 <item>
-<title>ITV 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/762.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV 4 </link>
+<title>SKY SPORTS 1 IRE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5705.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 1 IRE </link>
 </item>
 <item>
-<title>5 Star</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/770.ts&amp;streamtype=TSDOWNLOADER&amp;name=5 Star </link>
+<title>Sky sport news hd</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5719.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky sport news hd </link>
 </item>
 <item>
 <title>RTE Two</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1498.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTE Two </link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5714.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTE Two </link>
 </item>
 <item>
 <title>RTE One</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1495.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTE One </link>
-</item>
-<item>
-<title>RT1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1484.ts&amp;streamtype=TSDOWNLOADER&amp;name=RT1 </link>
-</item>
-<item>
-<title>RT2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1485.ts&amp;streamtype=TSDOWNLOADER&amp;name=RT2 </link>
-</item>
-<item>
-<title>TV3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1904.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV3 </link>
-</item>
-<item>
-<title>TG4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1905.ts&amp;streamtype=TSDOWNLOADER&amp;name=TG4 </link>
-</item>
-<item>
-<title>Dave</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1497.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dave </link>
-</item>
-<item>
-<title>E! UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1819.ts&amp;streamtype=TSDOWNLOADER&amp;name=E! UK </link>
-</item>
-<item>
-<title>More4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/778.ts&amp;streamtype=TSDOWNLOADER&amp;name=More4 </link>
-</item>
-<item>
-<title>E4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1816.ts&amp;streamtype=TSDOWNLOADER&amp;name=E4 </link>
-</item>
-<item>
-<title>Syfy UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1764.ts&amp;streamtype=TSDOWNLOADER&amp;name=Syfy UK </link>
-</item>
-<item>
-<title>FOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1758.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX </link>
-</item>
-<item>
-<title>Sky One</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1823.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky One </link>
-</item>
-<item>
-<title>Sky Two</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/765.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Two </link>
-</item>
-<item>
-<title>Sky Living</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1771.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Living </link>
-</item>
-<item>
-<title>Sky Alibi</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/768.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Alibi </link>
-</item>
-<item>
-<title>Sky Art 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1772.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Art 1 </link>
-</item>
-<item>
-<title>Sky 5 USA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/769.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky 5 USA </link>
-</item>
-<item>
-<title>Drama</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1770.ts&amp;streamtype=TSDOWNLOADER&amp;name=Drama </link>
-</item>
-<item>
-<title>True Drama</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1762.ts&amp;streamtype=TSDOWNLOADER&amp;name=True Drama </link>
-</item>
-<item>
-<title>Gold</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1773.ts&amp;streamtype=TSDOWNLOADER&amp;name=Gold </link>
-</item>
-<item>
-<title>Watch</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1767.ts&amp;streamtype=TSDOWNLOADER&amp;name=Watch </link>
-</item>
-<item>
-<title>Quest</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1774.ts&amp;streamtype=TSDOWNLOADER&amp;name=Quest </link>
-</item>
-<item>
-<title>TLC UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1822.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC UK </link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5715.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTE One </link>
 </item>
 <item>
 <title>3e</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1824.ts&amp;streamtype=TSDOWNLOADER&amp;name=3e </link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5716.ts&amp;streamtype=TSDOWNLOADER&amp;name=3e </link>
 </item>
 <item>
-<title>Yesterday</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/773.ts&amp;streamtype=TSDOWNLOADER&amp;name=Yesterday </link>
+<title>UK:Sky Movies Premiere HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5658.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky Movies Premiere HD </link>
 </item>
 <item>
-<title>Pick TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1821.ts&amp;streamtype=TSDOWNLOADER&amp;name=Pick TV </link>
+<title>UK:Sky Movies Comedy HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5657.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky Movies Comedy HD </link>
 </item>
 <item>
-<title>H2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1820.ts&amp;streamtype=TSDOWNLOADER&amp;name=H2 </link>
+<title>UK: UK Chelsea TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5672.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: UK Chelsea TV </link>
 </item>
 <item>
-<title>Comedy Central</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1817.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central </link>
+<title>UK: True Movies 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5648.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Movies 2 HD </link>
 </item>
 <item>
-<title>Cartoon Network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1825.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon Network </link>
+<title>UK: True Movies 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5647.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Movies 1 HD </link>
 </item>
 <item>
-<title>Boomerang</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1826.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boomerang </link>
+<title>UK: SKY NATIONAL GEO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5662.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY NATIONAL GEO </link>
 </item>
 <item>
-<title>Nickelodeon</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1828.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon </link>
+<title>UK: Sky Movies Select HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5653.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Select HD </link>
 </item>
 <item>
-<title>Nick Toons</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1827.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Toons </link>
+<title>UK: Sky Movies Scifi / Horror HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5659.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Scifi / Horror HD </link>
 </item>
 <item>
-<title>Baby TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1829.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby TV </link>
+<title>UK: Sky Movies Family HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5654.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Family HD </link>
 </item>
 <item>
-<title>Tiny Pop</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1763.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tiny Pop </link>
+<title>UK: Sky Movies Drama HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5656.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Drama HD </link>
+</item>
+<item>
+<title>UK: Sky Atlantic HD-UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5681.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Atlantic HD-UK </link>
+</item>
+<item>
+<title>UK: RTE 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5683.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RTE 1 HD </link>
+</item>
+<item>
+<title>UK: Racing-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5676.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Racing-HD </link>
+</item>
+<item>
+<title>UK: Racing</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5677.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Racing </link>
+</item>
+<item>
+<title>UK: National-Geo-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5696.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: National-Geo-HD </link>
+</item>
+<item>
+<title>UK: NATIONAL GEOGRAPHICH</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5663.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: NATIONAL GEOGRAPHICH </link>
+</item>
+<item>
+<title>UK: NAT GEO WILD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5660.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: NAT GEO WILD </link>
+</item>
+<item>
+<title>UK: MUTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5671.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MUTV </link>
+</item>
+<item>
+<title>UK: MOVIES SHOW CASE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5655.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MOVIES SHOW CASE </link>
+</item>
+<item>
+<title>UK: MOVIE 4 MEN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5651.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MOVIE 4 MEN </link>
+</item>
+<item>
+<title>UK: Mototrs TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5679.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Mototrs TV </link>
+</item>
+<item>
+<title>UK: More4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5674.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: More4 </link>
+</item>
+<item>
+<title>UK: ITV2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5685.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV2 HD </link>
+</item>
+<item>
+<title>UK: ITV1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5686.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV1 HD </link>
+</item>
+<item>
+<title>UK: ITV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5687.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV HD </link>
+</item>
+<item>
+<title>UK: ITV 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5688.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV 3 HD </link>
+</item>
+<item>
+<title>UK: HISTORY CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5661.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: HISTORY CHANNEL </link>
+</item>
+<item>
+<title>UK: FILME 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5649.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: FILME 4 </link>
+</item>
+<item>
+<title>UK: Fight Sports HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5678.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Fight Sports HD </link>
+</item>
+<item>
+<title>UK: DISNEY MOVIES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5650.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISNEY MOVIES </link>
+</item>
+<item>
+<title>UK: Discovery-Science-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5697.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery-Science-HD </link>
+</item>
+<item>
+<title>UK: Discovery Investigation</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5666.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Investigation </link>
+</item>
+<item>
+<title>UK: Discovery History HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5667.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery History HD </link>
+</item>
+<item>
+<title>UK: CBS Drama</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5689.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS Drama </link>
+</item>
+<item>
+<title>UK: BT SPORT - ESPN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5680.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT SPORT - ESPN </link>
+</item>
+<item>
+<title>UK: BBC Two HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5690.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC Two HD </link>
+</item>
+<item>
+<title>UK: BBC One HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5691.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC One HD </link>
+</item>
+<item>
+<title>UK: BBC ENT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5692.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC ENT </link>
+</item>
+<item>
+<title>UK: BBC 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5693.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 4 </link>
+</item>
+<item>
+<title>UK: BBC 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5694.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 3 </link>
+</item>
+<item>
+<title>UK: BBC 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5695.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 1 </link>
+</item>
+<item>
+<title>UK: Animal Planet HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5664.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Animal Planet HD </link>
+</item>
+<item>
+<title>UK :UK DISCOVERY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5665.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK :UK DISCOVERY </link>
+</item>
+<item>
+<title>Discovery Science HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5669.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Science HD </link>
+</item>
+<item>
+<title>VIP : MIO Stadium 108 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5640.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP : MIO Stadium 108 HD </link>
+</item>
+<item>
+<title>VIP : MIO Stadium 107 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5639.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP : MIO Stadium 107 HD </link>
+</item>
+<item>
+<title>VIP : MIO Stadium 106 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5638.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP : MIO Stadium 106 HD </link>
+</item>
+<item>
+<title>VIP : MIO Stadium 105 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5637.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP : MIO Stadium 105 HD </link>
+</item>
+<item>
+<title>VIP : MIO Stadium 104 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5636.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP : MIO Stadium 104 HD </link>
+</item>
+<item>
+<title>VIP : MIO Stadium 102 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5634.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP : MIO Stadium 102 HD </link>
+</item>
+<item>
+<title>VIP : Eleven Sports HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5642.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP : Eleven Sports HD </link>
+</item>
+<item>
+<title>VIP : Eleven Plus 103 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5635.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP : Eleven Plus 103 HD </link>
+</item>
+<item>
+<title>VIP : Eleven HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5641.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP : Eleven HD </link>
+</item>
+<item>
+<title>v tv gujarati</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5558.ts&amp;streamtype=TSDOWNLOADER&amp;name=v tv gujarati </link>
+</item>
+<item>
+<title>UK : SKY SPORTS BOX OFFICE PPV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5644.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK : SKY SPORTS BOX OFFICE PPV </link>
+</item>
+<item>
+<title>ASIA HORSE RACING</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5643.ts&amp;streamtype=TSDOWNLOADER&amp;name=ASIA HORSE RACING </link>
+</item>
+<item>
+<title>UK: LIFE OK UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5544.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: LIFE OK UK </link>
+</item>
+<item>
+<title>USA: TSN1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/4831.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TSN1 HD </link>
+</item>
+<item>
+<title>USA: TSN 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/4835.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TSN 5 HD </link>
+</item>
+<item>
+<title>USA: TSN 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/4833.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TSN 3 HD </link>
+</item>
+<item>
+<title>USA: FOX SPORT 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/4836.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: FOX SPORT 2 HD </link>
+</item>
+<item>
+<title>USA: ASTRO SPORT 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/4838.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: ASTRO SPORT 2 </link>
+</item>
+<item>
+<title>UK:CTH_STADIUM_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/4804.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:CTH_STADIUM_1 </link>
+</item>
+<item>
+<title>UK: Euro Sports 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/4810.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Euro Sports 2 </link>
+</item>
+<item>
+<title>TCM  1 UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1810.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM  1 UK </link>
+</item>
+<item>
+<title>TCM</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1811.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM </link>
+</item>
+<item>
+<title>SyFy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1812.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy </link>
+</item>
+<item>
+<title>Spike UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1813.ts&amp;streamtype=TSDOWNLOADER&amp;name=Spike UK </link>
+</item>
+<item>
+<title>Sky Thriller Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1793.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Thriller Movies </link>
+</item>
+<item>
+<title>SKY SPORTS NEWS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1683.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS NEWS HD </link>
+</item>
+<item>
+<title>SKY SPORTS F1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1684.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS F1 HD </link>
+</item>
+<item>
+<title>Sky Sports F1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1686.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports F1 </link>
+</item>
+<item>
+<title>SKY SPORTS 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1688.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 5 HD </link>
+</item>
+<item>
+<title>Sky Sports 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1689.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 5 </link>
+</item>
+<item>
+<title>SKY SPORTS 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1690.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 4 HD </link>
+</item>
+<item>
+<title>Sky Sports 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1692.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 4 </link>
+</item>
+<item>
+<title>SKY SPORTS 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1693.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 3 HD </link>
+</item>
+<item>
+<title>Sky Sports 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1694.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 3 </link>
+</item>
+<item>
+<title>SKY SPORTS 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1695.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 2 HD </link>
+</item>
+<item>
+<title>Sky Sports 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1696.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 2 </link>
+</item>
+<item>
+<title>SKY SPORTS 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1697.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 1 HD </link>
+</item>
+<item>
+<title>Sky Select Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1794.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select Movies </link>
+</item>
+<item>
+<title>Sky ScFiHorror Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1795.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky ScFiHorror Movies </link>
+</item>
+<item>
+<title>Sky Premiere Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1796.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Premiere Movies </link>
+</item>
+<item>
+<title>Sky News UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1771.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky News UK </link>
+</item>
+<item>
+<title>Sky News HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1772.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky News HD </link>
+</item>
+<item>
+<title>Sky News Arabia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1773.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky News Arabia </link>
+</item>
+<item>
+<title>Sky Movies Disney</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1797.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Disney </link>
+</item>
+<item>
+<title>Sky Living 1 UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1814.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Living 1 UK </link>
+</item>
+<item>
+<title>Sky Greats Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1798.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Greats Movies </link>
+</item>
+<item>
+<title>Sky Family Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1799.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Family Movies </link>
+</item>
+<item>
+<title>Sky DramaRom Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1800.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky DramaRom Movies </link>
+</item>
+<item>
+<title>Sky Comedy Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1801.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Comedy Movies </link>
+</item>
+<item>
+<title>Sky Atlantic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1815.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Atlantic </link>
+</item>
+<item>
+<title>Sky Arts</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1816.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Arts </link>
+</item>
+<item>
+<title>Sky Action Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1802.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Action Movies </link>
+</item>
+<item>
+<title>Sky 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1817.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky 2 </link>
+</item>
+<item>
+<title>Sky 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1818.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky 1 </link>
+</item>
+<item>
+<title>Setanta/Premier Sports HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1698.ts&amp;streamtype=TSDOWNLOADER&amp;name=Setanta/Premier Sports HD </link>
+</item>
+<item>
+<title>Setanta Sports 1 / Premier Sports</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1699.ts&amp;streamtype=TSDOWNLOADER&amp;name=Setanta Sports 1 / Premier Sports </link>
+</item>
+<item>
+<title>Setanta Ireland</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1700.ts&amp;streamtype=TSDOWNLOADER&amp;name=Setanta Ireland </link>
+</item>
+<item>
+<title>Russia Today HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1774.ts&amp;streamtype=TSDOWNLOADER&amp;name=Russia Today HD </link>
+</item>
+<item>
+<title>RTE News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1775.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTE News </link>
+</item>
+<item>
+<title>Real Lives</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1819.ts&amp;streamtype=TSDOWNLOADER&amp;name=Real Lives </link>
+</item>
+<item>
+<title>Quest</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1820.ts&amp;streamtype=TSDOWNLOADER&amp;name=Quest </link>
+</item>
+<item>
+<title>Pick</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1821.ts&amp;streamtype=TSDOWNLOADER&amp;name=Pick </link>
+</item>
+<item>
+<title>NickToons</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1759.ts&amp;streamtype=TSDOWNLOADER&amp;name=NickToons </link>
+</item>
+<item>
+<title>Nick UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1760.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick UK </link>
+</item>
+<item>
+<title>Nick Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1761.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Junior </link>
+</item>
+<item>
+<title>NHK News HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1776.ts&amp;streamtype=TSDOWNLOADER&amp;name=NHK News HD </link>
+</item>
+<item>
+<title>NBC SPORTS 6 (USA NET)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1709.ts&amp;streamtype=TSDOWNLOADER&amp;name=NBC SPORTS 6 (USA NET) </link>
+</item>
+<item>
+<title>NBC SPORTS 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1714.ts&amp;streamtype=TSDOWNLOADER&amp;name=NBC SPORTS 1 </link>
+</item>
+<item>
+<title>National Geographic UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1876.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic UK </link>
+</item>
+<item>
+<title>Nat Geo Wild UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1877.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo Wild UK </link>
+</item>
+<item>
+<title>mov4men</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1803.ts&amp;streamtype=TSDOWNLOADER&amp;name=mov4men </link>
+</item>
+<item>
+<title>Motors UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1822.ts&amp;streamtype=TSDOWNLOADER&amp;name=Motors UK </link>
+</item>
+<item>
+<title>More 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1823.ts&amp;streamtype=TSDOWNLOADER&amp;name=More 4 </link>
+</item>
+<item>
+<title>MIO Stadium 108</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1678.ts&amp;streamtype=TSDOWNLOADER&amp;name=MIO Stadium 108 </link>
+</item>
+<item>
+<title>MIO Stadium 107</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1677.ts&amp;streamtype=TSDOWNLOADER&amp;name=MIO Stadium 107 </link>
+</item>
+<item>
+<title>MIO Stadium 103</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1673.ts&amp;streamtype=TSDOWNLOADER&amp;name=MIO Stadium 103 </link>
+</item>
+<item>
+<title>MIO Stadium 102</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1672.ts&amp;streamtype=TSDOWNLOADER&amp;name=MIO Stadium 102 </link>
+</item>
+<item>
+<title>London Live UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1824.ts&amp;streamtype=TSDOWNLOADER&amp;name=London Live UK </link>
+</item>
+<item>
+<title>ITV HD Backup</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1825.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV HD Backup </link>
+</item>
+<item>
+<title>ITV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1826.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV HD </link>
+</item>
+<item>
+<title>ITV Encore</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1827.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV Encore </link>
+</item>
+<item>
+<title>ITV Be</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1829.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV Be </link>
+</item>
+<item>
+<title>ITV 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1830.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV 4 </link>
+</item>
+<item>
+<title>ITV 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1831.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV 3 </link>
+</item>
+<item>
+<title>ITV 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1832.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV 2 </link>
+</item>
+<item>
+<title>ITV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1834.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV </link>
+</item>
+<item>
+<title>ID UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1835.ts&amp;streamtype=TSDOWNLOADER&amp;name=ID UK </link>
+</item>
+<item>
+<title>Horror Channel UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1836.ts&amp;streamtype=TSDOWNLOADER&amp;name=Horror Channel UK </link>
+</item>
+<item>
+<title>Home</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1837.ts&amp;streamtype=TSDOWNLOADER&amp;name=Home </link>
+</item>
+<item>
+<title>History UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1838.ts&amp;streamtype=TSDOWNLOADER&amp;name=History UK </link>
+</item>
+<item>
+<title>Heart TV UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1839.ts&amp;streamtype=TSDOWNLOADER&amp;name=Heart TV UK </link>
+</item>
+<item>
+<title>H2 UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1840.ts&amp;streamtype=TSDOWNLOADER&amp;name=H2 UK </link>
+</item>
+<item>
+<title>Gold</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1841.ts&amp;streamtype=TSDOWNLOADER&amp;name=Gold </link>
+</item>
+<item>
+<title>Fox News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1777.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox News </link>
+</item>
+<item>
+<title>Food Network UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1842.ts&amp;streamtype=TSDOWNLOADER&amp;name=Food Network UK </link>
+</item>
+<item>
+<title>Film 4 UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1804.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film 4 UK </link>
+</item>
+<item>
+<title>Euronews</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1778.ts&amp;streamtype=TSDOWNLOADER&amp;name=Euronews </link>
+</item>
+<item>
+<title>Eleven Sports</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1680.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eleven Sports </link>
+</item>
+<item>
+<title>Eleven</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1679.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eleven </link>
+</item>
+<item>
+<title>Eden</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1844.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eden </link>
+</item>
+<item>
+<title>E4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1845.ts&amp;streamtype=TSDOWNLOADER&amp;name=E4 </link>
+</item>
+<item>
+<title>E! Entertainment</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1846.ts&amp;streamtype=TSDOWNLOADER&amp;name=E! Entertainment </link>
+</item>
+<item>
+<title>Drama UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1847.ts&amp;streamtype=TSDOWNLOADER&amp;name=Drama UK </link>
+</item>
+<item>
+<title>DMAX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1848.ts&amp;streamtype=TSDOWNLOADER&amp;name=DMAX </link>
+</item>
+<item>
+<title>DisneyChnl</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1763.ts&amp;streamtype=TSDOWNLOADER&amp;name=DisneyChnl </link>
 </item>
 <item>
 <title>Disney XD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/737.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1764.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD </link>
 </item>
 <item>
-<title>Disney Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/738.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior </link>
-</item>
-<item>
-<title>Disney Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/405.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel </link>
-</item>
-<item>
-<title>National Geographic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1483.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic </link>
-</item>
-<item>
-<title>Nat Geo Wild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1482.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo Wild </link>
-</item>
-<item>
-<title>History</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1481.ts&amp;streamtype=TSDOWNLOADER&amp;name=History </link>
-</item>
-<item>
-<title>Discovery</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/741.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery </link>
+<title>Discovery Turbo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1878.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Turbo </link>
 </item>
 <item>
 <title>Discovery Science</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/771.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Science </link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1880.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Science </link>
 </item>
 <item>
-<title>Discovery Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/780.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Channel </link>
+<title>DE: Sky Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1739.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 2 HD </link>
 </item>
 <item>
-<title>Discovery Investigation</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/740.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Investigation </link>
+<title>DE: Sky Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1742.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 1 HD </link>
 </item>
 <item>
-<title>Animal Planet</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/781.ts&amp;streamtype=TSDOWNLOADER&amp;name=Animal Planet </link>
+<title>DE: Sky Bndesliga 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1752.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bndesliga 1 HD </link>
 </item>
 <item>
-<title>Crime & Investigiation</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/742.ts&amp;streamtype=TSDOWNLOADER&amp;name=Crime & Investigiation </link>
+<title>Dave</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1849.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dave </link>
 </item>
 <item>
-<title>MTV Dance</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/734.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV Dance </link>
+<title>Crime Investigation</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1850.ts&amp;streamtype=TSDOWNLOADER&amp;name=Crime Investigation </link>
 </item>
 <item>
-<title>MTV Base</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/735.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV Base </link>
+<title>Comedy Extra</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1851.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Extra </link>
 </item>
 <item>
-<title>MTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/736.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV </link>
+<title>Comedy Central</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1852.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central </link>
 </item>
 <item>
-<title>VH1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/774.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 </link>
+<title>CNBC Europe</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1779.ts&amp;streamtype=TSDOWNLOADER&amp;name=CNBC Europe </link>
 </item>
 <item>
-<title>VEVO 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/786.ts&amp;streamtype=TSDOWNLOADER&amp;name=VEVO 1 </link>
+<title>Channel 5 UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1853.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 5 UK </link>
 </item>
 <item>
-<title>VEVO 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/787.ts&amp;streamtype=TSDOWNLOADER&amp;name=VEVO 2 </link>
+<title>Channel 4 UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1855.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 4 UK </link>
 </item>
 <item>
-<title>VIVO 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/788.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIVO 3 </link>
+<title>Channel 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1856.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 4 HD </link>
 </item>
 <item>
-<title>Sky News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1759.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky News </link>
+<title>Challenge</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1857.ts&amp;streamtype=TSDOWNLOADER&amp;name=Challenge </link>
 </item>
 <item>
-<title>True Movies1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1760.ts&amp;streamtype=TSDOWNLOADER&amp;name=True Movies1 </link>
+<title>CBS Reality 1 UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1858.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS Reality 1 UK </link>
 </item>
 <item>
-<title>True Movies 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1761.ts&amp;streamtype=TSDOWNLOADER&amp;name=True Movies 2 </link>
+<title>CBS Drama</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1859.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS Drama </link>
 </item>
 <item>
-<title>ARY MUSIK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/661.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARY MUSIK </link>
+<title>CBS Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1860.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS Action </link>
 </item>
 <item>
-<title>B4U Movies</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/498.ts&amp;streamtype=TSDOWNLOADER&amp;name=B4U Movies </link>
+<title>CBeebies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1766.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBeebies </link>
 </item>
 <item>
-<title>ZEE Cinema UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/608.ts&amp;streamtype=TSDOWNLOADER&amp;name=ZEE Cinema UK </link>
+<title>CBBC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1767.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBBC </link>
 </item>
 <item>
-<title>Colors TV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/656.ts&amp;streamtype=TSDOWNLOADER&amp;name=Colors TV HD </link>
+<title>Cartoonito</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1768.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoonito </link>
 </item>
 <item>
-<title>ARY Digital</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/576.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARY Digital </link>
+<title>Cartoon Network UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1769.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon Network UK </link>
 </item>
 <item>
-<title>Sky Sports F1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/724.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports F1 HD </link>
+<title>BT Sports Extra 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1701.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sports Extra 1 </link>
 </item>
 <item>
-<title>Sky Sports 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/725.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 1 HD </link>
+<title>BT SPORTS EUROPE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1702.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT SPORTS EUROPE HD </link>
 </item>
 <item>
-<title>Sky Sports 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/726.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 2 HD </link>
+<title>BT SPORTS 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1757.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT SPORTS 2 HD </link>
 </item>
 <item>
-<title>Sky Sports 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/727.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 3 HD </link>
+<title>BT SPORTS 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1758.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT SPORTS 1 HD </link>
 </item>
 <item>
-<title>Sky Sports 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/728.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 4 HD </link>
+<title>BT Sport EUROPE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1703.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport EUROPE </link>
 </item>
 <item>
-<title>Sky Sports 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/729.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 5 HD </link>
+<title>BT Sport ESPN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1704.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport ESPN </link>
 </item>
 <item>
-<title>BT Sport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/733.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport 1 HD </link>
+<title>BT Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1705.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport 2 </link>
 </item>
 <item>
-<title>BT Sport 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/732.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport 2 HD </link>
+<title>BT Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1706.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport 1 </link>
 </item>
 <item>
-<title>BT Sport Europe HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/731.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport Europe HD </link>
+<title>British Eurosport2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1707.ts&amp;streamtype=TSDOWNLOADER&amp;name=British Eurosport2 </link>
 </item>
 <item>
-<title>Premier Sports</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1494.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premier Sports </link>
+<title>British Eurosport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1708.ts&amp;streamtype=TSDOWNLOADER&amp;name=British Eurosport </link>
 </item>
 <item>
-<title>Racing UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1892.ts&amp;streamtype=TSDOWNLOADER&amp;name=Racing UK </link>
+<title>Bloomberg</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1780.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bloomberg </link>
 </item>
 <item>
-<title>At The Races</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1891.ts&amp;streamtype=TSDOWNLOADER&amp;name=At The Races </link>
+<title>BBC World News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1781.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC World News </link>
 </item>
 <item>
-<title>Setanta Sport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/718.ts&amp;streamtype=TSDOWNLOADER&amp;name=Setanta Sport </link>
+<title>BBC Two UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1861.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC Two UK </link>
 </item>
 <item>
-<title>Setanta Sports Ireland</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/717.ts&amp;streamtype=TSDOWNLOADER&amp;name=Setanta Sports Ireland </link>
+<title>BBC Two Scotland</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1862.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC Two Scotland </link>
 </item>
 <item>
-<title>BoxNation</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1842.ts&amp;streamtype=TSDOWNLOADER&amp;name=BoxNation </link>
+<title>BBC Two HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1863.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC Two HD </link>
 </item>
 <item>
-<title>MUTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/719.ts&amp;streamtype=TSDOWNLOADER&amp;name=MUTV </link>
+<title>BBC Three HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1864.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC Three HD </link>
 </item>
 <item>
-<title>Chelsea TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/723.ts&amp;streamtype=TSDOWNLOADER&amp;name=Chelsea TV </link>
+<title>BBC One Wales</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1865.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC One Wales </link>
 </item>
 <item>
-<title>Liverpool FC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/720.ts&amp;streamtype=TSDOWNLOADER&amp;name=Liverpool FC </link>
+<title>BBC One Scotland</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1866.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC One Scotland </link>
 </item>
 <item>
-<title>ESPN 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/713.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESPN 1 </link>
+<title>BBC one red button</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1867.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC one red button </link>
 </item>
 <item>
-<title>EuroSports 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/722.ts&amp;streamtype=TSDOWNLOADER&amp;name=EuroSports 1 </link>
+<title>BBC One Northern Ireland</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1868.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC One Northern Ireland </link>
 </item>
 <item>
-<title>EuroSports 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/721.ts&amp;streamtype=TSDOWNLOADER&amp;name=EuroSports 2 </link>
+<title>BBC One London</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1869.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC One London </link>
 </item>
 <item>
-<title>OSN Movies Festival</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1219.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN Movies Festival </link>
+<title>BBC One HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1870.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC One HD </link>
 </item>
 <item>
-<title>OSN Movies Drama</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1218.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN Movies Drama </link>
+<title>BBC News UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1782.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC News UK </link>
 </item>
 <item>
-<title>OSN Movies</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1217.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN Movies </link>
+<title>BBC Four UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1871.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC Four UK </link>
 </item>
 <item>
-<title>OSN Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1216.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN Action </link>
+<title>Baby TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1770.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby TV </link>
 </item>
 <item>
-<title>OSN Star Movies</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1211.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN Star Movies </link>
+<title>Al Jazeera News English</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1783.ts&amp;streamtype=TSDOWNLOADER&amp;name=Al Jazeera News English </link>
 </item>
 <item>
-<title>OSN Cinema 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1210.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN Cinema 1 </link>
+<title>ABC News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1784.ts&amp;streamtype=TSDOWNLOADER&amp;name=ABC News </link>
 </item>
 <item>
-<title>OSN Office Box 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1207.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN Office Box 3 </link>
+<title>ZeeCinema UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/1462.ts&amp;streamtype=TSDOWNLOADER&amp;name=ZeeCinema UK </link>
 </item>
 <item>
-<title>OSN Office Box 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1206.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN Office Box 2 </link>
+<title>UK: Disney Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/746.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney Junior </link>
 </item>
 <item>
-<title>OSN Office Box 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1205.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN Office Box 1 </link>
+<title>UK: Box Nation</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/712.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Box Nation </link>
 </item>
 <item>
-<title>OSN Movies Premiere</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1204.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN Movies Premiere </link>
+<title>UK_PREMIER_SPORT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/607.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_PREMIER_SPORT </link>
 </item>
 <item>
-<title>OSN Movies Kids HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1203.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN Movies Kids HD </link>
+<title>UK_Boxnation</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/609.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Boxnation </link>
 </item>
 <item>
-<title>OSN Star World</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1202.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN Star World </link>
+<title>UK_BBC2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/610.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC2 </link>
 </item>
 <item>
-<title>OSN Comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1198.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN Comedy </link>
+<title>UK_BBC1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/611.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC1 </link>
 </item>
-<item>
-<title>WWE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1903.ts&amp;streamtype=TSDOWNLOADER&amp;name=WWE HD </link>
-</item>
-<item>
-<title>Astro Sports 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1893.ts&amp;streamtype=TSDOWNLOADER&amp;name=Astro Sports 4 </link>
-</item>
-<item>
-<title>Astro Sport 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1741.ts&amp;streamtype=TSDOWNLOADER&amp;name=Astro Sport 3 </link>
-</item>
-<item>
-<title>Astro Sport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1740.ts&amp;streamtype=TSDOWNLOADER&amp;name=Astro Sport 2 </link>
-</item>
-<item>
-<title>Astro Sport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1739.ts&amp;streamtype=TSDOWNLOADER&amp;name=Astro Sport 1 </link>
-</item>
-<item>
-<title>OSN Fight</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1902.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN Fight </link>
-</item>
-<item>
-<title>Super Sport 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1897.ts&amp;streamtype=TSDOWNLOADER&amp;name=Super Sport 4 HD </link>
-</item>
-<item>
-<title>Super Sport 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1896.ts&amp;streamtype=TSDOWNLOADER&amp;name=Super Sport 3 HD </link>
-</item>
-<item>
-<title>Super Sport 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1895.ts&amp;streamtype=TSDOWNLOADER&amp;name=Super Sport 2 HD </link>
-</item>
-<item>
-<title>Super Sport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1894.ts&amp;streamtype=TSDOWNLOADER&amp;name=Super Sport 1 HD </link>
-</item>
-<item>
-<title>Willow Cricket HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/485.ts&amp;streamtype=TSDOWNLOADER&amp;name=Willow Cricket HD </link>
-</item>
-<item>
-<title>TRACE SportStars</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1889.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRACE SportStars </link>
-</item>
-<item>
-<title>Mio Sports</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1879.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mio Sports </link>
-</item>
-<item>
-<title>mio Stadium 108</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1887.ts&amp;streamtype=TSDOWNLOADER&amp;name=mio Stadium 108 </link>
-</item>
-<item>
-<title>mio Stadium 107</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1886.ts&amp;streamtype=TSDOWNLOADER&amp;name=mio Stadium 107 </link>
-</item>
-<item>
-<title>mio Stadium 106</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1885.ts&amp;streamtype=TSDOWNLOADER&amp;name=mio Stadium 106 </link>
-</item>
-<item>
-<title>mio Stadium 105</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1884.ts&amp;streamtype=TSDOWNLOADER&amp;name=mio Stadium 105 </link>
-</item>
-<item>
-<title>mio Stadium 104</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1883.ts&amp;streamtype=TSDOWNLOADER&amp;name=mio Stadium 104 </link>
-</item>
-<item>
-<title>mio Stadium 103</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1882.ts&amp;streamtype=TSDOWNLOADER&amp;name=mio Stadium 103 </link>
-</item>
-<item>
-<title>mio Stadium 102</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1881.ts&amp;streamtype=TSDOWNLOADER&amp;name=mio Stadium 102 </link>
-</item>
-<item>
-<title>ElevenEuro HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1880.ts&amp;streamtype=TSDOWNLOADER&amp;name=ElevenEuro HD </link>
-</item>
-<item>
-<title>BEIN Sports 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1177.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN Sports 1 HD </link>
-</item>
-<item>
-<title>BEIN Sports 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1178.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN Sports 2 HD </link>
-</item>
-<item>
-<title>BEIN Sports 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1179.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN Sports 3 HD </link>
-</item>
-<item>
-<title>BEIN Sports 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1180.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN Sports 4 HD </link>
-</item>
-<item>
-<title>BEIN Sports 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1181.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN Sports 5 HD </link>
-</item>
-<item>
-<title>BEIN Sports 6 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1182.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN Sports 6 HD </link>
-</item>
-<item>
-<title>BEIN Sports 7 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1183.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN Sports 7 HD </link>
-</item>
-<item>
-<title>BEIN Sports 8 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1184.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN Sports 8 HD </link>
-</item>
-<item>
-<title>BEIN Sports 9 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1185.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN Sports 9 HD </link>
-</item>
-<item>
-<title>BEIN Sports 10 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1186.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN Sports 10 HD </link>
-</item>
-<item>
-<title>Bein Sport USA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1736.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sport USA </link>
-</item>
-<item>
-<title>Arena Sport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/789.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arena Sport 1 </link>
-</item>
-<item>
-<title>Arena Sport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/790.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arena Sport 2 </link>
-</item>
-<item>
-<title>Arena Sport 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/791.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arena Sport 3 </link>
-</item>
-<item>
-<title>Arena Sport 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/792.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arena Sport 4 </link>
-</item>
-<item>
-<title>Ten Sport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/489.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ten Sport </link>
-</item>
-<item>
-<title>Ten Cricket</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/490.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ten Cricket </link>
-</item>
-<item>
-<title>STAR Cricket</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1878.ts&amp;streamtype=TSDOWNLOADER&amp;name=STAR Cricket </link>
-</item>
-<item>
-<title>Star Sports 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/493.ts&amp;streamtype=TSDOWNLOADER&amp;name=Star Sports 1 HD </link>
-</item>
-<item>
-<title>Star Sports 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/486.ts&amp;streamtype=TSDOWNLOADER&amp;name=Star Sports 2 HD </link>
-</item>
-<item>
-<title>Star Sports 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/492.ts&amp;streamtype=TSDOWNLOADER&amp;name=Star Sports 3 HD </link>
-</item>
-<item>
-<title>Star Sports 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/491.ts&amp;streamtype=TSDOWNLOADER&amp;name=Star Sports 4 HD </link>
-</item>
-<item>
-<title>Arena Sport 1 Serbia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1192.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arena Sport 1 Serbia </link>
-</item>
-<item>
-<title>Arena Sport 2 Serbia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1193.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arena Sport 2 Serbia </link>
-</item>
-<item>
-<title>Arena Sport 3 Serbia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1194.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arena Sport 3 Serbia </link>
-</item>
-<item>
-<title>Arena Sport 4 Serbia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1195.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arena Sport 4 Serbia </link>
-</item>
-<item>
-<title>Arena Sport 5 Serbia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1845.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arena Sport 5 Serbia </link>
-</item>
-<item>
-<title>Fox Sports 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/415.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports 1 </link>
-</item>
-<item>
-<title>Fox Sports 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/416.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports 2 </link>
-</item>
-<item>
-<title>Fox Sports 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/417.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports 3 </link>
-</item>
-<item>
-<title>Fox Sports 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/418.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports 4 </link>
-</item>
-<item>
-<title>Fox Sports 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/419.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports 5 </link>
-</item>
-<item>
-<title>Fox Sports 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/420.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports 6 </link>
-</item>
-<item>
-<title>US SPORTSNET ONTARIO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1974.ts&amp;streamtype=TSDOWNLOADER&amp;name=US SPORTSNET ONTARIO </link>
-</item>
-<item>
-<title>FX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1848.ts&amp;streamtype=TSDOWNLOADER&amp;name=FX </link>
-</item>
-<item>
-<title>MY9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1849.ts&amp;streamtype=TSDOWNLOADER&amp;name=MY9 </link>
-</item>
-<item>
-<title>Bravo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1850.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bravo </link>
-</item>
-<item>
-<title>CW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1853.ts&amp;streamtype=TSDOWNLOADER&amp;name=CW </link>
-</item>
-<item>
-<title>CBS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1852.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS </link>
-</item>
-<item>
-<title>NBC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1855.ts&amp;streamtype=TSDOWNLOADER&amp;name=NBC </link>
-</item>
-<item>
-<title>PBS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1856.ts&amp;streamtype=TSDOWNLOADER&amp;name=PBS </link>
-</item>
-<item>
-<title>AETV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1857.ts&amp;streamtype=TSDOWNLOADER&amp;name=AETV </link>
-</item>
-<item>
-<title>CN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1859.ts&amp;streamtype=TSDOWNLOADER&amp;name=CN </link>
-</item>
-<item>
-<title>CNBC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1861.ts&amp;streamtype=TSDOWNLOADER&amp;name=CNBC </link>
-</item>
-<item>
-<title>Cormcen</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1862.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cormcen </link>
-</item>
-<item>
-<title>AMC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1867.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC </link>
-</item>
-<item>
-<title>ABC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1851.ts&amp;streamtype=TSDOWNLOADER&amp;name=ABC </link>
-</item>
-<item>
-<title>USA-</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1873.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA- </link>
-</item>
-<item>
-<title>TNT US</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1871.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT US </link>
-</item>
-<item>
-<title>TBS US</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1870.ts&amp;streamtype=TSDOWNLOADER&amp;name=TBS US </link>
-</item>
-<item>
-<title>Syfy US</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1869.ts&amp;streamtype=TSDOWNLOADER&amp;name=Syfy US </link>
-</item>
-<item>
-<title>Spike US</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1872.ts&amp;streamtype=TSDOWNLOADER&amp;name=Spike US </link>
-</item>
-<item>
-<title>Nick US</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1868.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick US </link>
-</item>
-<item>
-<title>Nat Geo US</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1874.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo US </link>
-</item>
-<item>
-<title>Lifetime US</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1866.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lifetime US </link>
-</item>
-<item>
-<title>History US</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1865.ts&amp;streamtype=TSDOWNLOADER&amp;name=History US </link>
-</item>
-<item>
-<title>FOX US</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1854.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX US </link>
-</item>
-<item>
-<title>Fox News US</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1875.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox News US </link>
-</item>
-<item>
-<title>ESPN US</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1864.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESPN US </link>
-</item>
-<item>
-<title>Discovery US</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1863.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery US </link>
-</item>
-<item>
-<title>CNN US</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1860.ts&amp;streamtype=TSDOWNLOADER&amp;name=CNN US </link>
-</item>
-<item>
-<title>Animal Planet US</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1858.ts&amp;streamtype=TSDOWNLOADER&amp;name=Animal Planet US </link>
-</item>
-<item>
-<title>ABC News US</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1876.ts&amp;streamtype=TSDOWNLOADER&amp;name=ABC News US </link>
-</item>
-<item>
-<title>Vijay</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1973.ts&amp;streamtype=TSDOWNLOADER&amp;name=Vijay </link>
-</item>
-<item>
-<title>Ten Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1909.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ten Action </link>
-</item>
-<item>
-<title>Ary QTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/506.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ary QTV </link>
-</item>
-<item>
-<title>Life OK India</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/643.ts&amp;streamtype=TSDOWNLOADER&amp;name=Life OK India </link>
-</item>
-<item>
-<title>Movies OK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1907.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movies OK </link>
-</item>
-<item>
-<title>Sony Max</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1906.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sony Max </link>
-</item>
-<item>
-<title>Star Movies</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1908.ts&amp;streamtype=TSDOWNLOADER&amp;name=Star Movies </link>
-</item>
-<item>
-<title>UMP Movies</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/1910.ts&amp;streamtype=TSDOWNLOADER&amp;name=UMP Movies </link>
-</item>
-<item>
-<title>ZOOM TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/592.ts&amp;streamtype=TSDOWNLOADER&amp;name=ZOOM TV </link>
-</item>
-<item>
-<title>ZING HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/593.ts&amp;streamtype=TSDOWNLOADER&amp;name=ZING HD </link>
-</item>
-<item>
-<title>ZEE News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/671.ts&amp;streamtype=TSDOWNLOADER&amp;name=ZEE News </link>
-</item>
-<item>
-<title>Zee Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/603.ts&amp;streamtype=TSDOWNLOADER&amp;name=Zee Action </link>
-</item>
-<item>
-<title>Play Entertainment</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/698.ts&amp;streamtype=TSDOWNLOADER&amp;name=Play Entertainment </link>
-</item>
-<item>
-<title>ZEE Cinema HD India</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/610.ts&amp;streamtype=TSDOWNLOADER&amp;name=ZEE Cinema HD India </link>
-</item>
-<item>
-<title>ZEE Bollywood HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/611.ts&amp;streamtype=TSDOWNLOADER&amp;name=ZEE Bollywood HD </link>
-</item>
-<item>
-<title>UTV Movies International</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/614.ts&amp;streamtype=TSDOWNLOADER&amp;name=UTV Movies International </link>
-</item>
-<item>
-<title>Colors TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/616.ts&amp;streamtype=TSDOWNLOADER&amp;name=Colors TV </link>
-</item>
-<item>
-<title>Such TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/508.ts&amp;streamtype=TSDOWNLOADER&amp;name=Such TV </link>
-</item>
-<item>
-<title>SONY TV ASIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/622.ts&amp;streamtype=TSDOWNLOADER&amp;name=SONY TV ASIA </link>
-</item>
-<item>
-<title>Sony Max 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/626.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sony Max 2 </link>
-</item>
-<item>
-<title>Samaa TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/510.ts&amp;streamtype=TSDOWNLOADER&amp;name=Samaa TV </link>
-</item>
-<item>
-<title>Roze News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/511.ts&amp;streamtype=TSDOWNLOADER&amp;name=Roze News </link>
-</item>
-<item>
-<title>Rishtay</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/631.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rishtay </link>
-</item>
-<item>
-<title>Ravi TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/512.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ravi TV </link>
-</item>
-<item>
-<title>Quran TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/499.ts&amp;streamtype=TSDOWNLOADER&amp;name=Quran TV </link>
-</item>
-<item>
-<title>PTV World</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/513.ts&amp;streamtype=TSDOWNLOADER&amp;name=PTV World </link>
-</item>
-<item>
-<title>PTV News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/514.ts&amp;streamtype=TSDOWNLOADER&amp;name=PTV News </link>
-</item>
-<item>
-<title>Prime TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/517.ts&amp;streamtype=TSDOWNLOADER&amp;name=Prime TV </link>
-</item>
-<item>
-<title>Peace TV Urdu</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=Peace TV Urdu </link>
-</item>
-<item>
-<title>Peace TV English</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/501.ts&amp;streamtype=TSDOWNLOADER&amp;name=Peace TV English </link>
-</item>
-<item>
-<title>Paigham TV Urdu</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/502.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paigham TV Urdu </link>
-</item>
-<item>
-<title>Mehran TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/522.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mehran TV </link>
-</item>
-<item>
-<title>Makkah Live</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=Makkah Live </link>
-</item>
-<item>
-<title>Hum TV Sitaray</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/539.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hum TV Sitaray </link>
-</item>
-<item>
-<title>Hum TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/541.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hum TV </link>
-</item>
-<item>
-<title>B4U Plus</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/658.ts&amp;streamtype=TSDOWNLOADER&amp;name=B4U Plus </link>
-</item>
-<item>
-<title>B4U Masti</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/663.ts&amp;streamtype=TSDOWNLOADER&amp;name=B4U Masti </link>
-</item>
-<item>
-<title>UTV ACTION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/664.ts&amp;streamtype=TSDOWNLOADER&amp;name=UTV ACTION </link>
-</item>
-<item>
-<title>AAJ Tak</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/696.ts&amp;streamtype=TSDOWNLOADER&amp;name=AAJ Tak </link>
-</item>
-<item>
-<title>AAJ News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/586.ts&amp;streamtype=TSDOWNLOADER&amp;name=AAJ News </link>
-</item>
-<item>
-<title>9X Jalwa</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/cbrown/cbrown/668.ts&amp;streamtype=TSDOWNLOADER&amp;name=9X Jalwa </link>
-</item>
- 
-
-
-	 
-  
 
 
 
