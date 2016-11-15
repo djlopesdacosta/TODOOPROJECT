@@ -25,7 +25,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 12-11-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 15-11-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
@@ -43,887 +43,654 @@
 
 
 
-
-
 <item>
-<title>CANAL+</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/55.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ </link>
+<title>IT:Rai News 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1806.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Rai News 24 </link>
 </item>
 <item>
-<title>CINE+PREMIER</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+PREMIER </link>
+<title>IT:Premium Disney Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1807.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Disney Junior </link>
 </item>
 <item>
-<title>CINE+FRISSON</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/430.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+FRISSON </link>
+<title>iT:Premium Cartoon Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1808.ts&amp;streamtype=TSDOWNLOADER&amp;name=iT:Premium Cartoon Network </link>
 </item>
 <item>
-<title>OCS_MAX_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/62.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_MAX_HD </link>
+<title>IT:Mediaset Italia 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1805.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Mediaset Italia 2 </link>
 </item>
 <item>
-<title>CANAL_CINEMA_EMOTION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3601.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL_CINEMA_EMOTION </link>
+<title>IT:Sky Uno +1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1633.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky Uno +1 HD </link>
 </item>
 <item>
-<title>CANAL_DISCOVERY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3600.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL_DISCOVERY </link>
+<title>IT:CALCIO 10</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1653.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:CALCIO 10 </link>
 </item>
 <item>
-<title>DISCOVERY_SCIENCE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY_SCIENCE </link>
+<title>IT:alice</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1595.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:alice </link>
 </item>
 <item>
-<title>CANAL+SPORT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/56.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+SPORT </link>
+<title>IT: Premium Cartoonito</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1593.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Cartoonito </link>
 </item>
 <item>
-<title>BEINSPORT-1-FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/2697.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEINSPORT-1-FR </link>
+<title>IT: Mtv IT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1594.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Mtv IT </link>
 </item>
 <item>
-<title>BEINSPORT-2-FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/2698.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEINSPORT-2-FR </link>
+<title>IT:Frisbee TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1498.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Frisbee TV </link>
 </item>
 <item>
-<title>BEINSPORT-3-FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/2699.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEINSPORT-3-FR </link>
+<title>IT: Premium Cinema  24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1324.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Cinema  24 </link>
 </item>
 <item>
-<title>SFR_SPORT_1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/4988.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR_SPORT_1_HD </link>
+<title>IT: Marco Polo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1320.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Marco Polo </link>
 </item>
 <item>
-<title>SFR_SPORT_2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/4989.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR_SPORT_2_HD </link>
+<title>IT: MANGA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1321.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: MANGA </link>
 </item>
 <item>
-<title>SFR_SPORT_3_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/4990.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR_SPORT_3_HD </link>
+<title>IT: Italia 7 gold</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1440.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Italia 7 gold </link>
 </item>
 <item>
-<title>TVA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3367.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVA </link>
+<title>IT: Iris</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1439.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Iris </link>
 </item>
 <item>
-<title>TF1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/85.ts&amp;streamtype=TSDOWNLOADER&amp;name=TF1 </link>
+<title>IT: Fox HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1322.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Fox HD </link>
 </item>
 <item>
-<title>M6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6 </link>
+<title>IT: DISCOVERY WORLD HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1290.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: DISCOVERY WORLD HD </link>
 </item>
 <item>
-<title>HD1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/434.ts&amp;streamtype=TSDOWNLOADER&amp;name=HD1 </link>
+<title>IT:Premium_Disney_Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1296.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium_Disney_Channel </link>
 </item>
 <item>
-<title>6TER</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/740.ts&amp;streamtype=TSDOWNLOADER&amp;name=6TER </link>
+<title>IT:Premium-Disney-Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1295.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium-Disney-Junior </link>
 </item>
 <item>
-<title>FRANCE_2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/79.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_2 </link>
+<title>IT:Premium-Disney-1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1294.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium-Disney-1 </link>
 </item>
 <item>
-<title>FRANCE_3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/80.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_3 </link>
+<title>IT:italia-1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1293.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:italia-1HD </link>
 </item>
 <item>
-<title>FRANCE_4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/81.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_4 </link>
+<title>IT:Fine Living</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1258.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Fine Living </link>
 </item>
 <item>
-<title>FRANCE_5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/82.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_5 </link>
+<title>IT:Rai sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1234.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Rai sport 2 </link>
 </item>
 <item>
-<title>FRANCE_O</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/78.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_O </link>
+<title>IT:Rai Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1233.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Rai Sport 1 </link>
 </item>
 <item>
-<title>RTS_Un_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/4986.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTS_Un_HD </link>
+<title>IT:Primafila 15 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1220.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Primafila 15 HD </link>
 </item>
 <item>
-<title>RTS_Deux_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/4987.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTS_Deux_HD </link>
+<title>IT:Giallo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1221.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Giallo </link>
 </item>
 <item>
-<title>La-Une-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3718.ts&amp;streamtype=TSDOWNLOADER&amp;name=La-Une-HD </link>
+<title>IT:SKY CINEMA +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1203.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:SKY CINEMA +1 </link>
 </item>
 <item>
-<title>La-Deux</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3720.ts&amp;streamtype=TSDOWNLOADER&amp;name=La-Deux </link>
+<title>IT:FOCUS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1205.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:FOCUS </link>
 </item>
 <item>
-<title>La-Trois</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3719.ts&amp;streamtype=TSDOWNLOADER&amp;name=La-Trois </link>
+<title>IT:DMAX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1206.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:DMAX </link>
 </item>
 <item>
-<title>RTL-TVi-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3716.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL-TVi-HD </link>
+<title>IT:DiscoveryScience</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1207.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:DiscoveryScience </link>
 </item>
 <item>
-<title>Plug-RTL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3717.ts&amp;streamtype=TSDOWNLOADER&amp;name=Plug-RTL </link>
+<title>IT: Sky Cinema Max +1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1201.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema Max +1 HD </link>
 </item>
 <item>
-<title>Club-RTL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3721.ts&amp;streamtype=TSDOWNLOADER&amp;name=Club-RTL </link>
+<title>IT: Sky Cinema 3D</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1202.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema 3D </link>
 </item>
 <item>
-<title>TV5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/2454.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV5 </link>
+<title>IT: Premium BBC Entertainment HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1198.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium BBC Entertainment HD </link>
 </item>
 <item>
-<title>Arte</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/423.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arte </link>
+<title>IT: Premium BBC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1199.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium BBC </link>
 </item>
 <item>
-<title>W9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=W9 </link>
+<title>IT: Juventus TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1200.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Juventus TV </link>
 </item>
 <item>
-<title>D8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=D8 </link>
+<title>IT: Fox Sports HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1195.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Fox Sports HD </link>
 </item>
 <item>
-<title>TMC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3136.ts&amp;streamtype=TSDOWNLOADER&amp;name=TMC </link>
+<title>IT: Eurosport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1196.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Eurosport 2 HD </link>
 </item>
-
-
-
 <item>
-<title>TF1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/58.ts&amp;streamtype=TSDOWNLOADER&amp;name=TF1 </link>
+<title>IT: Eurosport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1197.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Eurosport 1 HD </link>
 </item>
 <item>
-<title>FRANCE 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 2 </link>
+<title>IT:SKy TG 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1164.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:SKy TG 24 </link>
 </item>
 <item>
-<title>FRANCE 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/61.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 3 </link>
+<title>IT:Sky it Primafilla 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1162.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky it Primafilla 7 </link>
 </item>
 <item>
-<title>FRANCE 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/60.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 4 </link>
+<title>IT: Milan channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1151.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Milan channel </link>
 </item>
 <item>
-<title>FRANCE 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/59.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 5 </link>
+<title>IT: Sky Arte HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/915.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Arte HD </link>
 </item>
 <item>
-<title>France O</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/345.ts&amp;streamtype=TSDOWNLOADER&amp;name=France O </link>
+<title>IT: Sky 3D</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/954.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky 3D </link>
 </item>
 <item>
-<title>M6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/138.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6 </link>
+<title>IT: RSI La2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/916.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RSI La2 HD </link>
 </item>
 <item>
-<title>W9HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/337.ts&amp;streamtype=TSDOWNLOADER&amp;name=W9HD </link>
+<title>IT:RSI-La-1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1297.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:RSI-La-1HD </link>
 </item>
 <item>
-<title>TMC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2570.ts&amp;streamtype=TSDOWNLOADER&amp;name=TMC </link>
+<title>IT:ROMA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/872.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:ROMA </link>
 </item>
 <item>
-<title>NRJ_12</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2560.ts&amp;streamtype=TSDOWNLOADER&amp;name=NRJ_12 </link>
+<title>IT:RETE 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/859.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:RETE 4 </link>
 </item>
 <item>
-<title>Arte</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/338.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arte </link>
+<title>IT:Nat Geo People HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/873.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Nat Geo People HD </link>
 </item>
 <item>
-<title>CANAL+</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/52.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ </link>
+<title>IT:Eurosport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/907.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Eurosport 2 </link>
 </item>
 <item>
-<title>CANAL+ CINEMA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/56.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ CINEMA </link>
+<title>IT:Discovery Travel & Living HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/874.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Discovery Travel & Living HD </link>
 </item>
 <item>
-<title>CANAL+ FAMILY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/53.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ FAMILY </link>
+<title>IT:Cartoon Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/863.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Cartoon Network </link>
 </item>
 <item>
-<title>CANAL+ DECALE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/54.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ DECALE </link>
+<title>IT:Sky Calcio 6 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1314.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky Calcio 6 HD </link>
 </item>
 <item>
-<title>CANAL+ SERIE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/55.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ SERIE </link>
+<title>IT: Sky Calcio 9 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1323.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Calcio 9 HD </link>
 </item>
 <item>
-<title>CANAL+ SPORT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ SPORT </link>
+<title>IT: SKY Calcio 8 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1319.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY Calcio 8 HD </link>
 </item>
 <item>
-<title>CINE PREMIER</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/135.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE PREMIER </link>
+<title>IT: SKY Calcio 7 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1318.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY Calcio 7 HD </link>
 </item>
 <item>
-<title>CINE+ FAMIZ</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+ FAMIZ </link>
+<title>IT:Sky Calcio 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1303.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky Calcio 5 HD </link>
 </item>
 <item>
-<title>CINE+ FRISSON FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/64.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+ FRISSON FR </link>
+<title>IT:Sky Calcio 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1302.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky Calcio 4 HD </link>
 </item>
 <item>
-<title>TEVA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2637.ts&amp;streamtype=TSDOWNLOADER&amp;name=TEVA </link>
+<title>IT: Sky Calcio 3HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/722.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Calcio 3HD </link>
 </item>
 <item>
-<title>CINE+ CLASSIC FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+ CLASSIC FR </link>
+<title>IT: SKY CALCIO 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/908.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY CALCIO 2 HD </link>
 </item>
 <item>
-<title>CINE EMOTION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/136.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE EMOTION </link>
+<title>IT: Sky Calcio 1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/721.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Calcio 1HD </link>
 </item>
 <item>
-<title>OCS_Choc</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2561.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_Choc </link>
+<title>IT: RAI PREMIUM</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/905.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RAI PREMIUM </link>
 </item>
 <item>
-<title>Cherie_25</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/133.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cherie_25 </link>
+<title>IT:  SKY SPORT HD 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/909.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:  SKY SPORT HD 1 </link>
 </item>
 <item>
-<title>OCS_CITY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_CITY </link>
+<title>IT:Inter Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/871.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Inter Channel </link>
 </item>
 <item>
-<title>FR: Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/611.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Action </link>
+<title>IT:History Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/878.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:History Channel </link>
 </item>
 <item>
-<title>13_Eme_Rue</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2548.ts&amp;streamtype=TSDOWNLOADER&amp;name=13_Eme_Rue </link>
+<title>IT:eXplora HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/881.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:eXplora HD </link>
 </item>
 <item>
-<title>Paris_Premiere</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2562.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paris_Premiere </link>
+<title>IT:Caccia e Pesca</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/880.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Caccia e Pesca </link>
 </item>
 <item>
-<title>SyFy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2569.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy </link>
+<title>IT:Animal Planet HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/876.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Animal Planet HD </link>
 </item>
 <item>
-<title>Serie_Club</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2568.ts&amp;streamtype=TSDOWNLOADER&amp;name=Serie_Club </link>
+<title>IT:Eurosport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/869.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Eurosport 1 </link>
 </item>
 <item>
-<title>RMC_Decouverte</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2565.ts&amp;streamtype=TSDOWNLOADER&amp;name=RMC_Decouverte </link>
+<title>IT:Axn Sci FY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/868.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Axn Sci FY </link>
 </item>
 <item>
-<title>RTL_9HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2566.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL_9HD </link>
+<title>IT:Axn HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/867.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Axn HD </link>
 </item>
 <item>
-<title>FR.Planet_A&E_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2689.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Planet_A&E_HD </link>
+<title>IT:RAI YO YO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/866.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:RAI YO YO </link>
 </item>
 <item>
-<title>FR.Paramount_Channel_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2690.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Paramount_Channel_HD </link>
+<title>IT:CARTONITO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/865.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:CARTONITO </link>
 </item>
 <item>
-<title>FR.OL_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2691.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.OL_TV </link>
+<title>IT:Boing</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/864.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Boing </link>
 </item>
 <item>
-<title>Ocs_Geants</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2682.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ocs_Geants </link>
+<title>IT:National Geo HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/809.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:National Geo HD </link>
 </item>
 <item>
-<title>OCS_MAX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2693.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_MAX </link>
+<title>IT:Fox Life HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/811.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Fox Life HD </link>
 </item>
 <item>
-<title>Numero_23</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2683.ts&amp;streamtype=TSDOWNLOADER&amp;name=Numero_23 </link>
+<title>IT:FOX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/812.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:FOX HD </link>
 </item>
 <item>
-<title>FR.Histoire_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2686.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Histoire_HD </link>
+<title>IT:Disney XD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/860.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Disney XD </link>
 </item>
 <item>
-<title>FR.Cine_Polar_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2685.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Cine_Polar_HD </link>
+<title>IT:Disney Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/861.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Disney Junior </link>
 </item>
 <item>
-<title>HD1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2538.ts&amp;streamtype=TSDOWNLOADER&amp;name=HD1 </link>
+<title>IT:Disney Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/862.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Disney Channel </link>
 </item>
 <item>
-<title>FR_AB1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2537.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_AB1 </link>
+<title>IT:RAI 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1289.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:RAI 5 </link>
 </item>
 <item>
-<title>TV5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2611.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV5 </link>
+<title>IT: Rai 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1163.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai 4 </link>
 </item>
 <item>
-<title>D17</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2550.ts&amp;streamtype=TSDOWNLOADER&amp;name=D17 </link>
+<title>IT: Rai 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/173.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai 3 HD </link>
 </item>
 <item>
-<title>Comedie</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2549.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedie </link>
+<title>IT: Rai 2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/172.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai 2HD </link>
 </item>
 <item>
-<title>6TER</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=6TER </link>
+<title>IT: Rai 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/177.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai 1 HD </link>
 </item>
 <item>
-<title>LCI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/334.ts&amp;streamtype=TSDOWNLOADER&amp;name=LCI </link>
+<title>IT: Premium Crime hd</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/153.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Crime hd </link>
 </item>
 <item>
-<title>I_Tele</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/336.ts&amp;streamtype=TSDOWNLOADER&amp;name=I_Tele </link>
+<title>IT: Fox Animation HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/797.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Fox Animation HD </link>
 </item>
 <item>
-<title>EURONEWS FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/674.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURONEWS FR </link>
+<title>IT: Cielo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/858.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Cielo </link>
 </item>
 <item>
-<title>BFM_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2541.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM_TV </link>
+<title>IT:CI Crime Investigation HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/821.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:CI Crime Investigation HD </link>
 </item>
 <item>
-<title>Planet+</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2563.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planet+ </link>
+<title>IT: Discovery HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/808.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Discovery HD </link>
 </item>
 <item>
-<title>Planet+ci</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2564.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planet+ci </link>
+<title>IT: Premium Stories</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/788.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Stories </link>
 </item>
 <item>
-<title>NATIONAL GEO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/139.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEO </link>
+<title>IT: Fox Crime HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/718.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Fox Crime HD </link>
 </item>
 <item>
-<title>National_Geo_Wild_FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2559.ts&amp;streamtype=TSDOWNLOADER&amp;name=National_Geo_Wild_FR </link>
+<title>IT: PREMIUM CRIME 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/679.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM CRIME 24 </link>
 </item>
 <item>
-<title>DISCOVERY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY </link>
+<title>IT: PREMIUM CINEMA 2   24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/680.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM CINEMA 2   24 </link>
 </item>
 <item>
-<title>DISCOVERY SCIENCE FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/62.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SCIENCE FR </link>
+<title>IT: SporItalia 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/678.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SporItalia 1 HD </link>
 </item>
 <item>
-<title>USHUAIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/372.ts&amp;streamtype=TSDOWNLOADER&amp;name=USHUAIA </link>
+<title>IT:Rai Movie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/289.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Rai Movie </link>
 </item>
 <item>
-<title>Chasse et peche</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/471.ts&amp;streamtype=TSDOWNLOADER&amp;name=Chasse et peche </link>
+<title>IT: TV 2000</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/315.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: TV 2000 </link>
 </item>
 <item>
-<title>FR ANIMAUX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/478.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR ANIMAUX </link>
+<title>IT: Top Crime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/314.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Top Crime </link>
 </item>
 <item>
-<title>Voyage_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2571.ts&amp;streamtype=TSDOWNLOADER&amp;name=Voyage_HD </link>
+<title>IT: Supertennis HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/313.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Supertennis HD </link>
 </item>
 <item>
-<title>Science_et_Vie</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2567.ts&amp;streamtype=TSDOWNLOADER&amp;name=Science_et_Vie </link>
+<title>IT: Super!</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/312.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Super! </link>
 </item>
 <item>
-<title>BEINSPORT_1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/49.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEINSPORT_1_HD </link>
+<title>IT: Sky Uno HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/304.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Uno HD </link>
 </item>
 <item>
-<title>BEINSPORT _2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/50.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEINSPORT _2_HD </link>
+<title>IT: Sky Sport 24 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/317.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Sport 24 HD </link>
 </item>
 <item>
-<title>BEINSPORT 3 HD FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/51.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEINSPORT 3 HD FR </link>
+<title>IT: Sky Cinema Cult HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/291.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema Cult HD </link>
 </item>
 <item>
-<title>SFR_SPORT_1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2803.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR_SPORT_1_HD </link>
+<title>IT: Sky Cinema  24 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/290.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema  24 HD </link>
 </item>
 <item>
-<title>SFR_SPORT_2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2804.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR_SPORT_2_HD </link>
+<title>IT: Real Time</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/311.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Real Time </link>
 </item>
 <item>
-<title>SFR_SPORT_3_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2880.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR_SPORT_3_HD </link>
+<title>IT: Rai Gulp</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/310.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai Gulp </link>
 </item>
 <item>
-<title>INFOSPORT+</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/1809.ts&amp;streamtype=TSDOWNLOADER&amp;name=INFOSPORT+ </link>
+<title>Primafila 17 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1489.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 17 HD </link>
 </item>
 <item>
-<title>Foot+</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2556.ts&amp;streamtype=TSDOWNLOADER&amp;name=Foot+ </link>
+<title>Primafila 14 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1487.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 14 HD </link>
 </item>
 <item>
-<title>FR.Foot_24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2684.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Foot_24 </link>
+<title>Primafila 13 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1486.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 13 HD </link>
 </item>
 <item>
-<title>EUROSPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/377.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 </link>
+<title>Primafila 12 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1485.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 12 HD </link>
 </item>
 <item>
-<title>EUROSPORT_2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2555.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT_2 </link>
+<title>Primafila 11 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1484.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 11 HD </link>
 </item>
 <item>
-<title>Equipe21</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2554.ts&amp;streamtype=TSDOWNLOADER&amp;name=Equipe21 </link>
+<title>Primafila 18 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1490.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 18 HD </link>
 </item>
 <item>
-<title>Equidia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2552.ts&amp;streamtype=TSDOWNLOADER&amp;name=Equidia </link>
+<title>IT: Primafilla 10</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/301.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Primafilla 10 </link>
 </item>
 <item>
-<title>Equidia_Live</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2553.ts&amp;streamtype=TSDOWNLOADER&amp;name=Equidia_Live </link>
+<title>IT: Primafilla 9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/300.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Primafilla 9 </link>
 </item>
 <item>
-<title>FR_NICKELODEON_JUNIOR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2867.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NICKELODEON_JUNIOR </link>
+<title>IT: Primafilla 8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/299.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Primafilla 8 </link>
 </item>
 <item>
-<title>FR.Zouzou_Tv_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2688.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Zouzou_Tv_HD </link>
+<title>IT: Primafilla 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/298.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Primafilla 6 </link>
 </item>
 <item>
-<title>Game_One</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2557.ts&amp;streamtype=TSDOWNLOADER&amp;name=Game_One </link>
+<title>IT: Primafilla 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/297.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Primafilla 5 </link>
 </item>
 <item>
-<title>FR:_Disney_XD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2635.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Disney_XD </link>
+<title>IT: Primafilla 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/296.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Primafilla 4 </link>
 </item>
 <item>
-<title>Tiji</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2680.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tiji </link>
+<title>IT: Primafilla 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/295.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Primafilla 3 </link>
 </item>
 <item>
-<title>teletoon</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2681.ts&amp;streamtype=TSDOWNLOADER&amp;name=teletoon </link>
+<title>IT: Primafilla 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/294.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Primafilla 2 </link>
 </item>
 <item>
-<title>MANGAS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/375.ts&amp;streamtype=TSDOWNLOADER&amp;name=MANGAS </link>
+<title>IT: Primafilla 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/293.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Primafilla 1 </link>
 </item>
 <item>
-<title>FR:_Disney_Cinemagic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2634.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Disney_Cinemagic </link>
+<title>IT: Premium Studio Universal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/303.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Studio Universal </link>
 </item>
 <item>
-<title>DISNEY CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/376.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL </link>
+<title>IT: Premium Sport HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/302.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Sport HD </link>
 </item>
 <item>
-<title>FR: Disney Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/472.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney Junior </link>
+<title>IT: Premium Cinema 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/286.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Cinema 2 </link>
 </item>
 <item>
-<title>FR:_Canal_J</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2636.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Canal_J </link>
+<title>IT: Premium Action HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/287.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Action HD </link>
 </item>
 <item>
-<title>Gulli</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/335.ts&amp;streamtype=TSDOWNLOADER&amp;name=Gulli </link>
+<title>IT: Premium Action  24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/288.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Action  24 </link>
 </item>
 <item>
-<title>PIWI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/374.ts&amp;streamtype=TSDOWNLOADER&amp;name=PIWI </link>
+<title>IT: NAT GEO WILD HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/321.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: NAT GEO WILD HD </link>
 </item>
 <item>
-<title>A.LA.CARTE.1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=A.LA.CARTE.1 </link>
+<title>IT: Mediaset Extra</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/309.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Mediaset Extra </link>
 </item>
 <item>
-<title>A.LA.CARTE.2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/545.ts&amp;streamtype=TSDOWNLOADER&amp;name=A.LA.CARTE.2 </link>
+<title>IT: Lei</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/308.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Lei </link>
 </item>
 <item>
-<title>A.LA.CARTE.3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/546.ts&amp;streamtype=TSDOWNLOADER&amp;name=A.LA.CARTE.3 </link>
+<title>IT: LA 7 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/307.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: LA 7 HD </link>
 </item>
 <item>
-<title>A.LA.CARTE.4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/539.ts&amp;streamtype=TSDOWNLOADER&amp;name=A.LA.CARTE.4 </link>
+<title>IT: La 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/306.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: La 5 </link>
 </item>
 <item>
-<title>A_LA_CARTE_5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2612.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_5 </link>
+<title>IT: K2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/305.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: K2 </link>
 </item>
 <item>
-<title>A_LA_CARTE_6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2613.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_6 </link>
+<title>IT: Fox Comedy HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/320.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Fox Comedy HD </link>
 </item>
 <item>
-<title>A_LA_CARTE_7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2653.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_7 </link>
+<title>IT: Canale 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/319.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Canale 5 HD </link>
 </item>
 <item>
-<title>A_LA_CARTE_8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2654.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_8 </link>
+<title>IT: SKY Sport 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/268.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY Sport 3 HD </link>
 </item>
 <item>
-<title>A_LA_CARTE_9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2655.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_9 </link>
+<title>IT: SKY Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/267.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY Sport 2 HD </link>
 </item>
 <item>
-<title>A_LA_CARTE_10</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2644.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_10 </link>
+<title>IT: SKY Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/266.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY Sport 1 HD </link>
 </item>
 <item>
-<title>A_LA_CARTE_11</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2645.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_11 </link>
+<title>IT: Sky Cinema Passion HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/270.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema Passion HD </link>
 </item>
 <item>
-<title>A_LA_CARTE_12</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2646.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_12 </link>
+<title>IT: Sky Cinema Max HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema Max HD </link>
 </item>
 <item>
-<title>A_LA_CARTE_13</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2647.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_13 </link>
+<title>IT: SKY Cinema Hits HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/272.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY Cinema Hits HD </link>
 </item>
 <item>
-<title>A_LA_CARTE_14</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2657.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_14 </link>
+<title>IT: Sky Cinema Family HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/273.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema Family HD </link>
 </item>
 <item>
-<title>A_LA_CARTE_15</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2656.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_15 </link>
+<title>IT: Sky Cinema Comedy HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/274.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema Comedy HD </link>
 </item>
 <item>
-<title>A_LA_CARTE_16</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2648.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_16 </link>
+<title>IT: Sky Cinema Classic HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/275.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema Classic HD </link>
 </item>
 <item>
-<title>A_LA_CARTE_17</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2649.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_17 </link>
+<title>IT: SKY Cinema 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/269.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY Cinema 1 HD </link>
 </item>
 <item>
-<title>A_LA_CARTE_18</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2650.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_18 </link>
+<title>IT: Premium Joi</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/276.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Joi </link>
 </item>
 <item>
-<title>A_LA_CARTE_19</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2651.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_19 </link>
+<title>IT: Premium Emotion</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Emotion </link>
 </item>
 <item>
-<title>A_LA_CARTE_20</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2652.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_20 </link>
+<title>IT: Premium Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Comedy </link>
 </item>
 <item>
-<title>MUSIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/1746.ts&amp;streamtype=TSDOWNLOADER&amp;name====MUSIC==== </link>
+<title>IT: Premium Cinema HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/278.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Cinema HD </link>
 </item>
 <item>
-<title>VEVO 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/572.ts&amp;streamtype=TSDOWNLOADER&amp;name=VEVO 1 </link>
+<title>IT:Premium Calcio 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/810.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Calcio 7 </link>
 </item>
 <item>
-<title>VEVO 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/571.ts&amp;streamtype=TSDOWNLOADER&amp;name=VEVO 2 </link>
+<title>IT: Premium Calcio 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/265.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Calcio 6 </link>
 </item>
 <item>
-<title>VEVO 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/570.ts&amp;streamtype=TSDOWNLOADER&amp;name=VEVO 3 </link>
+<title>IT: Premium Calcio 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/264.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Calcio 5 </link>
 </item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <item>
-<title>I_TELE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/427.ts&amp;streamtype=TSDOWNLOADER&amp;name=I_TELE </link>
+<title>IT: Premium Calcio 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Calcio 4 </link>
 </item>
 <item>
-<title>LCI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/66.ts&amp;streamtype=TSDOWNLOADER&amp;name=LCI </link>
+<title>IT: Premium Calcio 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/262.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Calcio 3 </link>
 </item>
 <item>
-<title>INFOSPORT+</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/352.ts&amp;streamtype=TSDOWNLOADER&amp;name=INFOSPORT+ </link>
+<title>IT: Premium Calcio 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/261.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Calcio 2 </link>
 </item>
 <item>
-<title>OCS_City_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/424.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_City_HD </link>
+<title>IT: Premium Calcio 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Calcio 1 </link>
 </item>
 <item>
-<title>OCS_GEANT_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/2389.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_GEANT_HD </link>
+<title>IT: Premium Calcio HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Calcio HD </link>
 </item>
 <item>
-<title>OCS_CHOC_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/2390.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_CHOC_HD </link>
+<title>IT: PREMIUM CALCIO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/316.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM CALCIO </link>
 </item>
 <item>
-<title>Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/747.ts&amp;streamtype=TSDOWNLOADER&amp;name=Action </link>
+<title>IT: Sky Supercalcio HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/140.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Supercalcio HD </link>
 </item>
 <item>
-<title>Comedie</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/743.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedie </link>
+<title>IT: Sky Sports F1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/167.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Sports F1 HD </link>
 </item>
 <item>
-<title>Teva</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/751.ts&amp;streamtype=TSDOWNLOADER&amp;name=Teva </link>
+<title>IT: Sky Sport MotoGP HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/168.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Sport MotoGP HD </link>
 </item>
 <item>
-<title>SERIE_CLUB_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/2401.ts&amp;streamtype=TSDOWNLOADER&amp;name=SERIE_CLUB_HD </link>
+<title>IT: Sky Atlantic HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/148.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Atlantic HD </link>
 </item>
 <item>
-<title>Syfy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/749.ts&amp;streamtype=TSDOWNLOADER&amp;name=Syfy </link>
+<title>IT: Premium Energy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/149.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Energy </link>
 </item>
 <item>
-<title>Paris_Premiere</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/735.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paris_Premiere </link>
+<title>IT: Premium Cinema 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/155.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Cinema 2 HD </link>
 </item>
-<item>
-<title>13eme_Rue</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/741.ts&amp;streamtype=TSDOWNLOADER&amp;name=13eme_Rue </link>
-</item>
-<item>
-<title>Eurosport_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/753.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport_1 </link>
-</item>
-<item>
-<title>Eurosport_2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/752.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport_2 </link>
-</item>
-<item>
-<title>LEQUIPE21</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/2400.ts&amp;streamtype=TSDOWNLOADER&amp;name=LEQUIPE21 </link>
-</item>
-<item>
-<title>EQUIDIA_LIVE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/353.ts&amp;streamtype=TSDOWNLOADER&amp;name=EQUIDIA_LIVE </link>
-</item>
-<item>
-<title>Chasse_&_Peche_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/754.ts&amp;streamtype=TSDOWNLOADER&amp;name=Chasse_&_Peche_HD </link>
-</item>
-<item>
-<title>Animaux</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/746.ts&amp;streamtype=TSDOWNLOADER&amp;name=Animaux </link>
-</item>
-<item>
-<title>NATIONAL_GEO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL_GEO </link>
-</item>
-<item>
-<title>NAT_GEO_WILD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT_GEO_WILD </link>
-</item>
-<item>
-<title>VOYAGE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/2396.ts&amp;streamtype=TSDOWNLOADER&amp;name=VOYAGE </link>
-</item>
-<item>
-<title>PLANETE+</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLANETE+ </link>
-</item>
-<item>
-<title>PLANETE+CI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLANETE+CI </link>
-</item>
-<item>
-<title>USHUAIA_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/37.ts&amp;streamtype=TSDOWNLOADER&amp;name=USHUAIA_TV </link>
-</item>
-<item>
-<title>Disney_xd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/738.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney_xd </link>
-</item>
-<item>
-<title>Disney_Cinema</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/739.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney_Cinema </link>
-</item>
-<item>
-<title>Disney_Chanel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/755.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney_Chanel </link>
-</item>
-<item>
-<title>Cartoon_network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/744.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon_network </link>
-</item>
-<item>
-<title>BOOMERANG</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/355.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOOMERANG </link>
-</item>
-<item>
-<title>DISNEY_CHANNEL_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY_CHANNEL_1 </link>
-</item>
-<item>
-<title>GULLI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/88.ts&amp;streamtype=TSDOWNLOADER&amp;name=GULLI </link>
-</item>
-<item>
-<title>PIWI+</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/61.ts&amp;streamtype=TSDOWNLOADER&amp;name=PIWI+ </link>
-</item>
-<item>
-<title>Boing</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/745.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing </link>
-</item>
-<item>
-<title>MANGAS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/757.ts&amp;streamtype=TSDOWNLOADER&amp;name=MANGAS </link>
-</item>
-<item>
-<title>M6_Music</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/736.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6_Music </link>
-</item>
-<item>
-<title>NRJ_12</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/87.ts&amp;streamtype=TSDOWNLOADER&amp;name=NRJ_12 </link>
-</item>
-<item>
-<title>A_LA_CARTE_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3356.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_1 </link>
-</item>
-<item>
-<title>A_LA_CARTE_2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3357.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_2 </link>
-</item>
-<item>
-<title>A_LA_CARTE_3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3358.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_3 </link>
-</item>
-<item>
-<title>A_LA_CARTE_4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3359.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_4 </link>
-</item>
-<item>
-<title>A_LA_CARTE_5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3360.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_5 </link>
-</item>
-<item>
-<title>A_LA_CARTE_6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3361.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_6 </link>
-</item>
-<item>
-<title>A_LA_CARTE_7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3362.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_7 </link>
-</item>
-<item>
-<title>A_LA_CARTE_8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3363.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_8 </link>
-</item>
-<item>
-<title>A_LA_CARTE_9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3364.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_9 </link>
-</item>
-<item>
-<title>A_LA_CARTE_10</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3365.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_10 </link>
-</item>
-<item>
-<title>A_LA_CARTE_11</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3386.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_11 </link>
-</item>
-<item>
-<title>A_LA_CARTE_12</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3387.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_12 </link>
-</item>
-<item>
-<title>A_LA_CARTE_13</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3388.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_13 </link>
-</item>
-<item>
-<title>A_LA_CARTE_14</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3389.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_14 </link>
-</item>
-<item>
-<title>A_LA_CARTE_15</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3390.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_15 </link>
-</item>
-<item>
-<title>A_LA_CARTE_16</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3391.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_16 </link>
-</item>
-<item>
-<title>A_LA_CARTE_17</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3392.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_17 </link>
-</item>
-<item>
-<title>A_LA_CARTE_18</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3393.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_18 </link>
-</item>
-<item>
-<title>A_LA_CARTE_19</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3394.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_19 </link>
-</item>
-<item>
-<title>A_LA_CARTE_20</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3395.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_20 </link>
-</item>
-<item>
-<title>FR:Arte by irseca world</title>
-<link>plugin://plugin.video.f4mTester/?url=http://kiptv3.ddns.net:8000/live/lulu/lulu/145.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Arte by irseca world </link>
-</item>
-<item>
-<title>FR: FRANCE O</title>
-<link>plugin://plugin.video.f4mTester/?url=http://kiptv3.ddns.net:8000/live/lulu/lulu/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE O </link>
-</item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
