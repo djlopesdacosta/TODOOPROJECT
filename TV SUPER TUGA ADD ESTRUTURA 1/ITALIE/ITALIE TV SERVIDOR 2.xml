@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title>[COLOR] [COLOR red][/COLOR][B][COLOR red][B]P[/B][/COLOR][COLOR green][B]L[/B][/COLOR][COLOR orange][B]A[/B][/COLOR][COLOR red][B]Y[/B][/COLOR] [COLOR cyan]TV NEEDED [/COLOR][COLOR magenta]EXTRA ADDON [/COLOR][COLOR yellow]F4MTESTER [/COLOR]</title>
+<link>http://Movies.me</link>
+<jsonrpc>plugin://plugin.video.f4mTester/</jsonrpc>
+<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
+</item>
+
+<item>       
+<title>[COLOR red] [/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>       
+<title>            [COLOR red] ITALIE TV [/COLOR]  [COLOR lime]SERVIDOR 2[/COLOR]  </title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>       
+<title>                [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 12-11-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>CANAL+</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/55.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ </link>
+</item>
+<item>
+<title>CINE+PREMIER</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+PREMIER </link>
+</item>
+<item>
+<title>CINE+FRISSON</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/430.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+FRISSON </link>
+</item>
+<item>
+<title>OCS_MAX_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/62.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_MAX_HD </link>
+</item>
+<item>
+<title>CANAL_CINEMA_EMOTION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3601.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL_CINEMA_EMOTION </link>
+</item>
+<item>
+<title>CANAL_DISCOVERY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3600.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL_DISCOVERY </link>
+</item>
+<item>
+<title>DISCOVERY_SCIENCE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY_SCIENCE </link>
+</item>
+<item>
+<title>CANAL+SPORT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/56.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+SPORT </link>
+</item>
+<item>
+<title>BEINSPORT-1-FR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/2697.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEINSPORT-1-FR </link>
+</item>
+<item>
+<title>BEINSPORT-2-FR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/2698.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEINSPORT-2-FR </link>
+</item>
+<item>
+<title>BEINSPORT-3-FR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/2699.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEINSPORT-3-FR </link>
+</item>
+<item>
+<title>SFR_SPORT_1_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/4988.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR_SPORT_1_HD </link>
+</item>
+<item>
+<title>SFR_SPORT_2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/4989.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR_SPORT_2_HD </link>
+</item>
+<item>
+<title>SFR_SPORT_3_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/4990.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR_SPORT_3_HD </link>
+</item>
+<item>
+<title>TVA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3367.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVA </link>
+</item>
+<item>
+<title>TF1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/85.ts&amp;streamtype=TSDOWNLOADER&amp;name=TF1 </link>
+</item>
+<item>
+<title>M6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6 </link>
+</item>
+<item>
+<title>HD1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/434.ts&amp;streamtype=TSDOWNLOADER&amp;name=HD1 </link>
+</item>
+<item>
+<title>6TER</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/740.ts&amp;streamtype=TSDOWNLOADER&amp;name=6TER </link>
+</item>
+<item>
+<title>FRANCE_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/79.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_2 </link>
+</item>
+<item>
+<title>FRANCE_3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/80.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_3 </link>
+</item>
+<item>
+<title>FRANCE_4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/81.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_4 </link>
+</item>
+<item>
+<title>FRANCE_5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/82.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_5 </link>
+</item>
+<item>
+<title>FRANCE_O</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/78.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_O </link>
+</item>
+<item>
+<title>RTS_Un_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/4986.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTS_Un_HD </link>
+</item>
+<item>
+<title>RTS_Deux_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/4987.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTS_Deux_HD </link>
+</item>
+<item>
+<title>La-Une-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3718.ts&amp;streamtype=TSDOWNLOADER&amp;name=La-Une-HD </link>
+</item>
+<item>
+<title>La-Deux</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3720.ts&amp;streamtype=TSDOWNLOADER&amp;name=La-Deux </link>
+</item>
+<item>
+<title>La-Trois</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3719.ts&amp;streamtype=TSDOWNLOADER&amp;name=La-Trois </link>
+</item>
+<item>
+<title>RTL-TVi-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3716.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL-TVi-HD </link>
+</item>
+<item>
+<title>Plug-RTL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3717.ts&amp;streamtype=TSDOWNLOADER&amp;name=Plug-RTL </link>
+</item>
+<item>
+<title>Club-RTL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3721.ts&amp;streamtype=TSDOWNLOADER&amp;name=Club-RTL </link>
+</item>
+<item>
+<title>TV5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/2454.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV5 </link>
+</item>
+<item>
+<title>Arte</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/423.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arte </link>
+</item>
+<item>
+<title>W9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=W9 </link>
+</item>
+<item>
+<title>D8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=D8 </link>
+</item>
+<item>
+<title>TMC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3136.ts&amp;streamtype=TSDOWNLOADER&amp;name=TMC </link>
+</item>
+
+
+
+<item>
+<title>TF1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/58.ts&amp;streamtype=TSDOWNLOADER&amp;name=TF1 </link>
+</item>
+<item>
+<title>FRANCE 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 2 </link>
+</item>
+<item>
+<title>FRANCE 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/61.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 3 </link>
+</item>
+<item>
+<title>FRANCE 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/60.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 4 </link>
+</item>
+<item>
+<title>FRANCE 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/59.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 5 </link>
+</item>
+<item>
+<title>France O</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/345.ts&amp;streamtype=TSDOWNLOADER&amp;name=France O </link>
+</item>
+<item>
+<title>M6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/138.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6 </link>
+</item>
+<item>
+<title>W9HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/337.ts&amp;streamtype=TSDOWNLOADER&amp;name=W9HD </link>
+</item>
+<item>
+<title>TMC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2570.ts&amp;streamtype=TSDOWNLOADER&amp;name=TMC </link>
+</item>
+<item>
+<title>NRJ_12</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2560.ts&amp;streamtype=TSDOWNLOADER&amp;name=NRJ_12 </link>
+</item>
+<item>
+<title>Arte</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/338.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arte </link>
+</item>
+<item>
+<title>CANAL+</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/52.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ </link>
+</item>
+<item>
+<title>CANAL+ CINEMA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/56.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ CINEMA </link>
+</item>
+<item>
+<title>CANAL+ FAMILY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/53.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ FAMILY </link>
+</item>
+<item>
+<title>CANAL+ DECALE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/54.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ DECALE </link>
+</item>
+<item>
+<title>CANAL+ SERIE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/55.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ SERIE </link>
+</item>
+<item>
+<title>CANAL+ SPORT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ SPORT </link>
+</item>
+<item>
+<title>CINE PREMIER</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/135.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE PREMIER </link>
+</item>
+<item>
+<title>CINE+ FAMIZ</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+ FAMIZ </link>
+</item>
+<item>
+<title>CINE+ FRISSON FR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/64.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+ FRISSON FR </link>
+</item>
+<item>
+<title>TEVA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2637.ts&amp;streamtype=TSDOWNLOADER&amp;name=TEVA </link>
+</item>
+<item>
+<title>CINE+ CLASSIC FR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+ CLASSIC FR </link>
+</item>
+<item>
+<title>CINE EMOTION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/136.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE EMOTION </link>
+</item>
+<item>
+<title>OCS_Choc</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2561.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_Choc </link>
+</item>
+<item>
+<title>Cherie_25</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/133.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cherie_25 </link>
+</item>
+<item>
+<title>OCS_CITY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_CITY </link>
+</item>
+<item>
+<title>FR: Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/611.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Action </link>
+</item>
+<item>
+<title>13_Eme_Rue</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2548.ts&amp;streamtype=TSDOWNLOADER&amp;name=13_Eme_Rue </link>
+</item>
+<item>
+<title>Paris_Premiere</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2562.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paris_Premiere </link>
+</item>
+<item>
+<title>SyFy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2569.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy </link>
+</item>
+<item>
+<title>Serie_Club</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2568.ts&amp;streamtype=TSDOWNLOADER&amp;name=Serie_Club </link>
+</item>
+<item>
+<title>RMC_Decouverte</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2565.ts&amp;streamtype=TSDOWNLOADER&amp;name=RMC_Decouverte </link>
+</item>
+<item>
+<title>RTL_9HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2566.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL_9HD </link>
+</item>
+<item>
+<title>FR.Planet_A&E_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2689.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Planet_A&E_HD </link>
+</item>
+<item>
+<title>FR.Paramount_Channel_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2690.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Paramount_Channel_HD </link>
+</item>
+<item>
+<title>FR.OL_TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2691.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.OL_TV </link>
+</item>
+<item>
+<title>Ocs_Geants</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2682.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ocs_Geants </link>
+</item>
+<item>
+<title>OCS_MAX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2693.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_MAX </link>
+</item>
+<item>
+<title>Numero_23</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2683.ts&amp;streamtype=TSDOWNLOADER&amp;name=Numero_23 </link>
+</item>
+<item>
+<title>FR.Histoire_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2686.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Histoire_HD </link>
+</item>
+<item>
+<title>FR.Cine_Polar_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2685.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Cine_Polar_HD </link>
+</item>
+<item>
+<title>HD1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2538.ts&amp;streamtype=TSDOWNLOADER&amp;name=HD1 </link>
+</item>
+<item>
+<title>FR_AB1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2537.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_AB1 </link>
+</item>
+<item>
+<title>TV5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2611.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV5 </link>
+</item>
+<item>
+<title>D17</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2550.ts&amp;streamtype=TSDOWNLOADER&amp;name=D17 </link>
+</item>
+<item>
+<title>Comedie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2549.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedie </link>
+</item>
+<item>
+<title>6TER</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=6TER </link>
+</item>
+<item>
+<title>LCI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/334.ts&amp;streamtype=TSDOWNLOADER&amp;name=LCI </link>
+</item>
+<item>
+<title>I_Tele</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/336.ts&amp;streamtype=TSDOWNLOADER&amp;name=I_Tele </link>
+</item>
+<item>
+<title>EURONEWS FR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/674.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURONEWS FR </link>
+</item>
+<item>
+<title>BFM_TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2541.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM_TV </link>
+</item>
+<item>
+<title>Planet+</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2563.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planet+ </link>
+</item>
+<item>
+<title>Planet+ci</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2564.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planet+ci </link>
+</item>
+<item>
+<title>NATIONAL GEO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/139.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEO </link>
+</item>
+<item>
+<title>National_Geo_Wild_FR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2559.ts&amp;streamtype=TSDOWNLOADER&amp;name=National_Geo_Wild_FR </link>
+</item>
+<item>
+<title>DISCOVERY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY </link>
+</item>
+<item>
+<title>DISCOVERY SCIENCE FR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/62.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SCIENCE FR </link>
+</item>
+<item>
+<title>USHUAIA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/372.ts&amp;streamtype=TSDOWNLOADER&amp;name=USHUAIA </link>
+</item>
+<item>
+<title>Chasse et peche</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/471.ts&amp;streamtype=TSDOWNLOADER&amp;name=Chasse et peche </link>
+</item>
+<item>
+<title>FR ANIMAUX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/478.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR ANIMAUX </link>
+</item>
+<item>
+<title>Voyage_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2571.ts&amp;streamtype=TSDOWNLOADER&amp;name=Voyage_HD </link>
+</item>
+<item>
+<title>Science_et_Vie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2567.ts&amp;streamtype=TSDOWNLOADER&amp;name=Science_et_Vie </link>
+</item>
+<item>
+<title>BEINSPORT_1_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/49.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEINSPORT_1_HD </link>
+</item>
+<item>
+<title>BEINSPORT _2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/50.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEINSPORT _2_HD </link>
+</item>
+<item>
+<title>BEINSPORT 3 HD FR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/51.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEINSPORT 3 HD FR </link>
+</item>
+<item>
+<title>SFR_SPORT_1_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2803.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR_SPORT_1_HD </link>
+</item>
+<item>
+<title>SFR_SPORT_2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2804.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR_SPORT_2_HD </link>
+</item>
+<item>
+<title>SFR_SPORT_3_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2880.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR_SPORT_3_HD </link>
+</item>
+<item>
+<title>INFOSPORT+</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/1809.ts&amp;streamtype=TSDOWNLOADER&amp;name=INFOSPORT+ </link>
+</item>
+<item>
+<title>Foot+</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2556.ts&amp;streamtype=TSDOWNLOADER&amp;name=Foot+ </link>
+</item>
+<item>
+<title>FR.Foot_24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2684.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Foot_24 </link>
+</item>
+<item>
+<title>EUROSPORT 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/377.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 </link>
+</item>
+<item>
+<title>EUROSPORT_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2555.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT_2 </link>
+</item>
+<item>
+<title>Equipe21</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2554.ts&amp;streamtype=TSDOWNLOADER&amp;name=Equipe21 </link>
+</item>
+<item>
+<title>Equidia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2552.ts&amp;streamtype=TSDOWNLOADER&amp;name=Equidia </link>
+</item>
+<item>
+<title>Equidia_Live</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2553.ts&amp;streamtype=TSDOWNLOADER&amp;name=Equidia_Live </link>
+</item>
+<item>
+<title>FR_NICKELODEON_JUNIOR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2867.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NICKELODEON_JUNIOR </link>
+</item>
+<item>
+<title>FR.Zouzou_Tv_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2688.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Zouzou_Tv_HD </link>
+</item>
+<item>
+<title>Game_One</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2557.ts&amp;streamtype=TSDOWNLOADER&amp;name=Game_One </link>
+</item>
+<item>
+<title>FR:_Disney_XD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2635.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Disney_XD </link>
+</item>
+<item>
+<title>Tiji</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2680.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tiji </link>
+</item>
+<item>
+<title>teletoon</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2681.ts&amp;streamtype=TSDOWNLOADER&amp;name=teletoon </link>
+</item>
+<item>
+<title>MANGAS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/375.ts&amp;streamtype=TSDOWNLOADER&amp;name=MANGAS </link>
+</item>
+<item>
+<title>FR:_Disney_Cinemagic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2634.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Disney_Cinemagic </link>
+</item>
+<item>
+<title>DISNEY CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/376.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL </link>
+</item>
+<item>
+<title>FR: Disney Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/472.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney Junior </link>
+</item>
+<item>
+<title>FR:_Canal_J</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2636.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Canal_J </link>
+</item>
+<item>
+<title>Gulli</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/335.ts&amp;streamtype=TSDOWNLOADER&amp;name=Gulli </link>
+</item>
+<item>
+<title>PIWI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/374.ts&amp;streamtype=TSDOWNLOADER&amp;name=PIWI </link>
+</item>
+<item>
+<title>A.LA.CARTE.1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=A.LA.CARTE.1 </link>
+</item>
+<item>
+<title>A.LA.CARTE.2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/545.ts&amp;streamtype=TSDOWNLOADER&amp;name=A.LA.CARTE.2 </link>
+</item>
+<item>
+<title>A.LA.CARTE.3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/546.ts&amp;streamtype=TSDOWNLOADER&amp;name=A.LA.CARTE.3 </link>
+</item>
+<item>
+<title>A.LA.CARTE.4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/539.ts&amp;streamtype=TSDOWNLOADER&amp;name=A.LA.CARTE.4 </link>
+</item>
+<item>
+<title>A_LA_CARTE_5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2612.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_5 </link>
+</item>
+<item>
+<title>A_LA_CARTE_6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2613.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_6 </link>
+</item>
+<item>
+<title>A_LA_CARTE_7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2653.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_7 </link>
+</item>
+<item>
+<title>A_LA_CARTE_8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2654.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_8 </link>
+</item>
+<item>
+<title>A_LA_CARTE_9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2655.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_9 </link>
+</item>
+<item>
+<title>A_LA_CARTE_10</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2644.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_10 </link>
+</item>
+<item>
+<title>A_LA_CARTE_11</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2645.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_11 </link>
+</item>
+<item>
+<title>A_LA_CARTE_12</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2646.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_12 </link>
+</item>
+<item>
+<title>A_LA_CARTE_13</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2647.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_13 </link>
+</item>
+<item>
+<title>A_LA_CARTE_14</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2657.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_14 </link>
+</item>
+<item>
+<title>A_LA_CARTE_15</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2656.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_15 </link>
+</item>
+<item>
+<title>A_LA_CARTE_16</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2648.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_16 </link>
+</item>
+<item>
+<title>A_LA_CARTE_17</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2649.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_17 </link>
+</item>
+<item>
+<title>A_LA_CARTE_18</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2650.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_18 </link>
+</item>
+<item>
+<title>A_LA_CARTE_19</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2651.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_19 </link>
+</item>
+<item>
+<title>A_LA_CARTE_20</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/2652.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_20 </link>
+</item>
+<item>
+<title>MUSIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/1746.ts&amp;streamtype=TSDOWNLOADER&amp;name====MUSIC==== </link>
+</item>
+<item>
+<title>VEVO 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/572.ts&amp;streamtype=TSDOWNLOADER&amp;name=VEVO 1 </link>
+</item>
+<item>
+<title>VEVO 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/571.ts&amp;streamtype=TSDOWNLOADER&amp;name=VEVO 2 </link>
+</item>
+<item>
+<title>VEVO 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/raji/raji/570.ts&amp;streamtype=TSDOWNLOADER&amp;name=VEVO 3 </link>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>I_TELE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/427.ts&amp;streamtype=TSDOWNLOADER&amp;name=I_TELE </link>
+</item>
+<item>
+<title>LCI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/66.ts&amp;streamtype=TSDOWNLOADER&amp;name=LCI </link>
+</item>
+<item>
+<title>INFOSPORT+</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/352.ts&amp;streamtype=TSDOWNLOADER&amp;name=INFOSPORT+ </link>
+</item>
+<item>
+<title>OCS_City_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/424.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_City_HD </link>
+</item>
+<item>
+<title>OCS_GEANT_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/2389.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_GEANT_HD </link>
+</item>
+<item>
+<title>OCS_CHOC_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/2390.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_CHOC_HD </link>
+</item>
+<item>
+<title>Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/747.ts&amp;streamtype=TSDOWNLOADER&amp;name=Action </link>
+</item>
+<item>
+<title>Comedie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/743.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedie </link>
+</item>
+<item>
+<title>Teva</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/751.ts&amp;streamtype=TSDOWNLOADER&amp;name=Teva </link>
+</item>
+<item>
+<title>SERIE_CLUB_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/2401.ts&amp;streamtype=TSDOWNLOADER&amp;name=SERIE_CLUB_HD </link>
+</item>
+<item>
+<title>Syfy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/749.ts&amp;streamtype=TSDOWNLOADER&amp;name=Syfy </link>
+</item>
+<item>
+<title>Paris_Premiere</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/735.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paris_Premiere </link>
+</item>
+<item>
+<title>13eme_Rue</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/741.ts&amp;streamtype=TSDOWNLOADER&amp;name=13eme_Rue </link>
+</item>
+<item>
+<title>Eurosport_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/753.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport_1 </link>
+</item>
+<item>
+<title>Eurosport_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/752.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport_2 </link>
+</item>
+<item>
+<title>LEQUIPE21</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/2400.ts&amp;streamtype=TSDOWNLOADER&amp;name=LEQUIPE21 </link>
+</item>
+<item>
+<title>EQUIDIA_LIVE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/353.ts&amp;streamtype=TSDOWNLOADER&amp;name=EQUIDIA_LIVE </link>
+</item>
+<item>
+<title>Chasse_&_Peche_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/754.ts&amp;streamtype=TSDOWNLOADER&amp;name=Chasse_&_Peche_HD </link>
+</item>
+<item>
+<title>Animaux</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/746.ts&amp;streamtype=TSDOWNLOADER&amp;name=Animaux </link>
+</item>
+<item>
+<title>NATIONAL_GEO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL_GEO </link>
+</item>
+<item>
+<title>NAT_GEO_WILD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT_GEO_WILD </link>
+</item>
+<item>
+<title>VOYAGE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/2396.ts&amp;streamtype=TSDOWNLOADER&amp;name=VOYAGE </link>
+</item>
+<item>
+<title>PLANETE+</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLANETE+ </link>
+</item>
+<item>
+<title>PLANETE+CI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLANETE+CI </link>
+</item>
+<item>
+<title>USHUAIA_TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/37.ts&amp;streamtype=TSDOWNLOADER&amp;name=USHUAIA_TV </link>
+</item>
+<item>
+<title>Disney_xd</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/738.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney_xd </link>
+</item>
+<item>
+<title>Disney_Cinema</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/739.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney_Cinema </link>
+</item>
+<item>
+<title>Disney_Chanel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/755.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney_Chanel </link>
+</item>
+<item>
+<title>Cartoon_network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/744.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon_network </link>
+</item>
+<item>
+<title>BOOMERANG</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/355.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOOMERANG </link>
+</item>
+<item>
+<title>DISNEY_CHANNEL_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY_CHANNEL_1 </link>
+</item>
+<item>
+<title>GULLI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/88.ts&amp;streamtype=TSDOWNLOADER&amp;name=GULLI </link>
+</item>
+<item>
+<title>PIWI+</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/61.ts&amp;streamtype=TSDOWNLOADER&amp;name=PIWI+ </link>
+</item>
+<item>
+<title>Boing</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/745.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing </link>
+</item>
+<item>
+<title>MANGAS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/757.ts&amp;streamtype=TSDOWNLOADER&amp;name=MANGAS </link>
+</item>
+<item>
+<title>M6_Music</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/736.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6_Music </link>
+</item>
+<item>
+<title>NRJ_12</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/87.ts&amp;streamtype=TSDOWNLOADER&amp;name=NRJ_12 </link>
+</item>
+<item>
+<title>A_LA_CARTE_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3356.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_1 </link>
+</item>
+<item>
+<title>A_LA_CARTE_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3357.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_2 </link>
+</item>
+<item>
+<title>A_LA_CARTE_3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3358.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_3 </link>
+</item>
+<item>
+<title>A_LA_CARTE_4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3359.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_4 </link>
+</item>
+<item>
+<title>A_LA_CARTE_5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3360.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_5 </link>
+</item>
+<item>
+<title>A_LA_CARTE_6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3361.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_6 </link>
+</item>
+<item>
+<title>A_LA_CARTE_7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3362.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_7 </link>
+</item>
+<item>
+<title>A_LA_CARTE_8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3363.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_8 </link>
+</item>
+<item>
+<title>A_LA_CARTE_9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3364.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_9 </link>
+</item>
+<item>
+<title>A_LA_CARTE_10</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3365.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_10 </link>
+</item>
+<item>
+<title>A_LA_CARTE_11</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3386.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_11 </link>
+</item>
+<item>
+<title>A_LA_CARTE_12</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3387.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_12 </link>
+</item>
+<item>
+<title>A_LA_CARTE_13</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3388.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_13 </link>
+</item>
+<item>
+<title>A_LA_CARTE_14</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3389.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_14 </link>
+</item>
+<item>
+<title>A_LA_CARTE_15</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3390.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_15 </link>
+</item>
+<item>
+<title>A_LA_CARTE_16</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3391.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_16 </link>
+</item>
+<item>
+<title>A_LA_CARTE_17</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3392.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_17 </link>
+</item>
+<item>
+<title>A_LA_CARTE_18</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3393.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_18 </link>
+</item>
+<item>
+<title>A_LA_CARTE_19</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3394.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_19 </link>
+</item>
+<item>
+<title>A_LA_CARTE_20</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/3395.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_20 </link>
+</item>
+<item>
+<title>FR:Arte by irseca world</title>
+<link>plugin://plugin.video.f4mTester/?url=http://kiptv3.ddns.net:8000/live/lulu/lulu/145.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Arte by irseca world </link>
+</item>
+<item>
+<title>FR: FRANCE O</title>
+<link>plugin://plugin.video.f4mTester/?url=http://kiptv3.ddns.net:8000/live/lulu/lulu/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE O </link>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>       
+<title>[COLOR red][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR] [COLOR red][/COLOR][B][COLOR red][B]P[/B][/COLOR][COLOR green][B]L[/B][/COLOR][COLOR orange][B]A[/B][/COLOR][COLOR red][B]Y[/B][/COLOR] [COLOR cyan]TV NEEDED [/COLOR][COLOR magenta]EXTRA ADDON [/COLOR][COLOR yellow]F4MTESTER [/COLOR]</title>
+<link>http://Movies.me</link>
+<jsonrpc>plugin://plugin.video.f4mTester/</jsonrpc>
+<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
+</item>
