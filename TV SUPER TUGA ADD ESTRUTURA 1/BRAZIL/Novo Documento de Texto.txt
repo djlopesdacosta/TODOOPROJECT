@@ -1,3 +1,1175 @@
 http://pastebin.com/raw/TyG4tRKP
 
 Lista Milton Oficial
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>Tooncast HD</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=122&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=3010&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://vertv.net/wp-content/uploads/2016/02/tooncast.png</thumbnail>
+</item>
+
+<item>
+<title>GLOBO</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
+<referer>http://ekostreams.co/ch/bobo_rbs.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/bobo_rbs.php?width=600&height=384</page>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/Globo%20HD.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/Globo%20HD.png</fanart>
+</item>
+<item>
+
+<item>
+<title>SBT HD</title>
+<link>http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream1/chunklist.m3u8</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpm4uKvSYN1NvtoNX_vcgHUYqUBh3NfdUX58a-Ri9O6_HWWIH5UQ</thumbnail>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpm4uKvSYN1NvtoNX_vcgHUYqUBh3NfdUX58a-Ri9O6_HWWIH5UQ</fanart>
+</item>
+
+<item>
+<title>Record HD</title>
+<link>http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish7/kLive/smil:0_dm4rwkh4_all.smil/32/chunklist.m3u8</link>
+<thumbnail>http://www.te1.com.br/wp-content/uploads/2012/03/record_700x525-696x522.jpg</thumbnail>
+<fanart>http://www.te1.com.br/wp-content/uploads/2012/03/record_700x525-696x522.jpg</fanart>
+</item>
+
+<item>
+<title>Bis HD</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=6&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://tvonlinegratis1.com/player.php?id=6&width=600&height=384</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://tvonlinegratis1.com/wp-content/uploads/2016/08/canal-bis-online-310x165.png</thumbnail>
+</item>
+
+<title>SBT OFF</title>
+<link>http://gbbrlive2.sambatech.com.br/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/playlist.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/SBT%20HD.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/SBT%20HD.png</fanart>
+</item>
+
+<title>SBT PE HD</title>
+<link>http://evp.mm.uol.com.br/ne10//ne10-tvjornal-recife-video-web.sdp/live.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/SBT%20HD.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/SBT%20HD.png</fanart>
+</item>
+
+<title>Tv Cidade SBT HD</title>
+<link>rtmp://192.99.46.182:1935/pioneira-tv3/pioneira-tv3</link>
+<thumbnail>http://iptv.codigolivre.net/logos/SBT%20HD.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/SBT%20HD.png</fanart>
+</item>
+
+<title>SBT Bahia HD</title>
+<link>http://ns.tvaratu.com.br:1935/aratuduZgOqNa/myStream.sdp/playlist.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/SBT%20HD.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/SBT%20HD.png</fanart>
+</item>
+
+<title>SBT Interior HD</title>
+<link>http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/SBT%20HD.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/SBT%20HD.png</fanart>
+</item>
+
+<title>SBT PA (HD)</title>
+<link>http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/live.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/SBT%20HD.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/SBT%20HD.png</fanart>
+</item>
+
+<item>
+<title>RECORD</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
+<referer>http://ekostreams.co/ch/record.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/record.php?width=600&height=384</page>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/Record%20SP.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/Record%20SP.png</fanart>
+</item>
+
+
+<item>
+<title>BAND</title>
+<link>http://31.204.152.6:8081/live/bandu/playlist.m3u8</link>
+<thumbnail>http://www.vector-logo.net/logo_preview/eps/b/Band.png</thumbnail>
+<fanart>http://www.vector-logo.net/logo_preview/eps/b/Band.png</fanart>
+</item>
+
+
+<item>
+<title>REDE TV</title>
+<link>http://192.99.101.129:1935/rafael926/rafael926/live.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/Rede%20TV%20HD.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/Rede%20TV%20HD.png</fanart>
+</item>
+
+<item>
+<title>REDE VIDA</title>
+<link>http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/live.m3u8</link>
+<thumbnail>https://cld.pt/dl/download/cb358614-f917-447c-90d5-9ec935a78cf2/redevida-logo.png</thumbnail>
+<fanart>https://cld.pt/dl/download/cb358614-f917-447c-90d5-9ec935a78cf2/redevida-logo.png</fanart>
+</item>
+
+<item>
+<title>REDE BRASIL</title>
+<link>http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/TV%20Brasil.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/TV%20Brasil.png</fanart>
+</item>
+
+<item>
+<title>TV ESCOLA</title>
+<link>http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/TV%20Escola.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/TV%20Escola.png</fanart>
+</item>
+
+<item>
+<title>CANÇÃO NOVA</title>
+<link>http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8</link>
+<thumbnail>https://cld.pt/dl/download/a9f4265e-3892-416f-a8df-e0feb3efbc37/Can%C3%A7%C3%A3o%20nova.jpg</thumbnail>
+<fanart>https://cld.pt/dl/download/a9f4265e-3892-416f-a8df-e0feb3efbc37/Can%C3%A7%C3%A3o%20nova.jpg</fanart>
+</item>
+
+<item>
+<title>TV APARECIDA</title>
+<link>http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/Paz.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/TV%20Aparecida.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/TV%20Aparecida.png</fanart>
+</item>
+
+<item>
+<title>BBC WORLD NEWS</title>
+<link>http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/BBC-World-News.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/BBC-World-News.png</fanart>
+</item>
+
+<item>
+<title>GLOBO NEWS</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
+<referer>http://ekostreams.co/ch/bobonews.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/bobonews.php?width=600&height=384</page>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/Globo-News.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/Globo-News.png</fanart>
+</item>
+
+<item>
+<title>BAND SPORTS</title>
+<link>http://evp.mm.uol.com.br:1935/geob_terraviva//operadoras/looktvs.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/Band%20Sport.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/Band%20Sport.png</fanart>
+</item>
+
+<item>
+<title>PLAYBOY</title>
+<link>rtmp://edge2.everyon.tv/etv2sb//pld10499</link>
+<thumbnail>http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/satellite-tv-logos/playboy-tv.png</thumbnail>
+<fanart></fanart>
+</item>                                                                                                                                                                                                                                                                                                                                              <item>
+<title>COMBATE</title>
+<link>http://213.163.65.9:8081/live/combatez/playlist.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/Premiere%20Combate.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/Premiere%20Combate.png</fanart>
+</item>
+
+<item>
+<title>ESPORTE INTERATIVO</title>
+<link>http://ss-bsas.eiplus.com.br/live/smil:Evento1.smil/chunklist_b978000.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/Esporte%20Interativo.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/Esporte%20Interativo.png</fanart>
+</item>
+
+<item>
+<title>EI MAXX</title>
+<link>http://ss-bsas.eiplus.com.br/live/smil:Evento3.smil/chunklist_b978000.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/Esporte%20Interativo.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/Esporte%20Interativo.png</fanart>
+</item>
+
+<item>
+<title>EI MAXX 2</title>
+<link>http://ss-bsas.eiplus.com.br/live/smil:Evento2.smil/chunklist_b978000.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/Esporte%20Interativo.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/Esporte%20Interativo.png</fanart>
+</item>
+
+<item>
+<title>SPORTV HD</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
+<referer>http://ekostreams.co/ch/sportvhd.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/sportvhd.php?width=600&height=384</page>
+</regex>
+<thumbnail>https://cld.pt/dl/download/b8ea1b3f-e357-4ee6-be71-5a910406efad/sportv1.png</thumbnail>
+</item>
+
+<item>
+<title>SporTV HD</title>
+<link>http://ftv.ftgrm.me:8082/spo124ha/750/playlist.m3u8</link>
+<thumbnail>https://3.bp.blogspot.com/-kwdnr0ayJ94/V3Gi7jlQ9mI/AAAAAAAADHE/7jMq-HVkpAIV6loX0DzcW2-qI5S-jJ79wCLcB/s1600/SporTV1.png</thumbnail>
+<fanart>https://3.bp.blogspot.com/-kwdnr0ayJ94/V3Gi7jlQ9mI/AAAAAAAADHE/7jMq-HVkpAIV6loX0DzcW2-qI5S-jJ79wCLcB/s1600/SporTV1.png</fanart>
+</item>
+
+<item>
+<title>SporTV2 HD</title>
+<link>http://ftv.ftgrm.me:8082/spo224ha/750/playlist.m3u8</link>
+<thumbnail>https://3.bp.blogspot.com/-kwdnr0ayJ94/V3Gi7jlQ9mI/AAAAAAAADHE/7jMq-HVkpAIV6loX0DzcW2-qI5S-jJ79wCLcB/s1600/SporTV1.png</thumbnail>
+<fanart>https://3.bp.blogspot.com/-kwdnr0ayJ94/V3Gi7jlQ9mI/AAAAAAAADHE/7jMq-HVkpAIV6loX0DzcW2-qI5S-jJ79wCLcB/s1600/SporTV1.png</fanart>
+</item>
+
+<item>
+<title>SporTV3 HD</title>
+<link>http://ftv.ftgrm.me:8082/spo324ha/750/playlist.m3u8</link>
+<thumbnail>https://3.bp.blogspot.com/-kwdnr0ayJ94/V3Gi7jlQ9mI/AAAAAAAADHE/7jMq-HVkpAIV6loX0DzcW2-qI5S-jJ79wCLcB/s1600/SporTV1.png</thumbnail>
+<fanart>https://3.bp.blogspot.com/-kwdnr0ayJ94/V3Gi7jlQ9mI/AAAAAAAADHE/7jMq-HVkpAIV6loX0DzcW2-qI5S-jJ79wCLcB/s1600/SporTV1.png</fanart>
+</item>
+
+<item>
+<title>ESPN BRASIL</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
+<referer>http://ekostreams.co/ch/espnbrasil.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/espnbrasil.php?width=600&height=384</page>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/ESPN-Brasil.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/ESPN-Brasil.png</fanart>
+</item>
+
+<item>
+<title>ESPN</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
+<referer>http://ekostreams.co/ch/espn.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/espn.php?width=600&height=384</page>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/ESPN.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/ESPN.png</fanart>
+</item>
+
+<item>
+<title>FOX SPORTS</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
+<referer>http://ekostreams.co/ch/foxsports.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/foxsports.php?width=600&height=384</page>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/Fox%20Sport.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/Fox%20Sport.png</fanart>
+</item>
+
+<item>
+<title>FOX SPORTS 2</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
+<referer>http://ekostreams.co/ch/foxsports2.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/foxsports2.php?width=600&height=384</page>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/Fox%20Sports2.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/Fox%20Sports2.png</fanart>
+</item>
+
+<item>
+<title>CANAL OFF</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
+<referer>http://ekostreams.co/ch/off24.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/off24.php?width=600&height=384</page>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/canaloff.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/canaloff.png</fanart>
+</item>
+
+<item>
+<title>PREMIERE</title>
+<link>http://31.204.152.6:8081/live/pfc2/playlist.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/PFC.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/PFC.png</fanart>
+</item>
+
+<item>
+<title>PREMIERE</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
+<referer>http://ekostreams.co/ch/pfc.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/pfc.php?width=600&height=384</page>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/PFC.png</thumbnail>
+</item>
+
+<item>
+<title>PREMIERE 2</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
+<referer>http://ekostreams.co/ch/pfc2.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/pfc2.php?width=600&height=384</page>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/PFC.png</thumbnail>
+</item>
+
+<item>
+<title>PREMIERE 3</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
+<referer>http://ekostreams.co/ch/pfc3.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/pfc3.php?width=600&height=384</page>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/PFC.png</thumbnail>
+</item>
+
+<item>
+<title>PREMIERE 4</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
+<referer>http://ekostreams.co/ch/pfc4.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/pfc4.php?width=600&height=384</page>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/PFC.png</thumbnail>
+</item>
+
+<item>
+<title>PREMIERE 5</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
+<referer>http://ekostreams.co/ch/pfc5.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/pfc5.php?width=600&height=384</page>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/PFC.png</thumbnail>
+</item>
+
+<item>
+<title>PREMIERE 6</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
+<referer>http://ekostreams.co/ch/pfc6.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/pfc6.php?width=600&height=384</page>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/PFC.png</thumbnail>
+</item>
+
+<item>
+<title>PREMIERE 7</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
+<referer>http://ekostreams.co/ch/pfc7.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/pfc7.php?width=600&height=384</page>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/PFC.png</thumbnail>
+</item>
+
+<item>
+<title>PREMIERE 8</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
+<referer>http://ekostreams.co/ch/pfc8.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/pfc8.php?width=600&height=384</page>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/PFC.png</thumbnail>
+</item>
+
+<item>
+<title>PREMIERE 9</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
+<referer>http://ekostreams.co/ch/pfc9.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/pfc9.php?width=600&height=384</page>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/PFC.png</thumbnail>
+</item>
+
+<item>
+<title>Cartoon Network</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=10&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=83&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i79/reg_rigby_180x180.png</thumbnail>
+</item>
+
+<item>
+<title>Disney Channel HD</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=27&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=91&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/15/DisneyChannel2010.png/230px-DisneyChannel2010.png</thumbnail>
+</item>
+
+<item>
+<title>Boomerang SD 2.0</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=7&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=93&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvW23GHpp8rk2T68-I2g0_cWQMMzlM0Xu4vJnLdA9eKjgh7Io9</thumbnail>
+</item>
+
+<item>
+<title>Nick</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=76&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=640&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png</thumbnail>
+</item>
+
+<item>
+<title>Nick HD</title>
+<link>rtmp://streaming1.livestreaming.ninja/live//nicka1?key=App_p8barbar0VBIn0mz0JxNGKIQ4Aw==</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png</fanart>
+</item>
+
+<item>
+<title>Disney XD</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=29&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=92&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/640px-Logo_Disney_XD.png</thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY KIDS</title>
+<link>http://31.204.152.6:8081/live/discoverykids/playlist.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/Discovery-Kids.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/Discovery-Kids.png</fanart>
+</item>
+
+<item>
+<title>GLOOB</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
+<referer>http://ekostreams.co/ch/gloob.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/gloob.php?width=600&height=384</page>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/Gloob.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/Gloob.png</fanart>
+</item>
+
+<item>
+<title>FOX</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
+<referer>http://ekostreams.co/ch/fox.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/fox.php?width=600&height=384</page>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/Fox.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/Fox.png</fanart>
+</item>
+
+<item>
+<title>MEGAPIX</title>
+<link>http://31.204.152.6:8081/live/megapix/playlist.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/Megapix.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/Megapix.png</fanart>
+</item>
+
+<item>
+<title>FX</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=37&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=2905&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://1.bp.blogspot.com/-8hG0XpOZkCQ/T2urxmX50-I/AAAAAAAAAC0/QCCyhRvYQOA/s1600/731px-FX-logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>AXN</title>
+<link>rtmp://$doregex[get-ip]/live playpath=axn1x?id=84753&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axn1x/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/axn1x/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yusrru1445113463.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>MULTISHOW</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
+<referer>http://ekostreams.co/ch/multishow.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/multishow.php?width=600&height=384</page>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/Multishow.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/Multishow.png</fanart>
+</item>
+<item>
+
+<item>
+<title>MTV</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=62&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=62&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/MTV%20Brasil.png</thumbnail>
+</item>
+
+<item>
+<title>TBS</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=105&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=105&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/TBS.png</thumbnail>
+</item>
+
+<item>
+<title>TCM</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=106&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=106&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/TCM.png</thumbnail>
+</item>
+
+<title>GNT</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
+<referer>http://ekostreams.co/ch/gloob.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/gloob.php?width=600&height=384</page>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-roxo.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/Multishow.png</fanart>
+</item>
+
+<item>
+<title>Investigation Discovery</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=60&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=36&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>
+<item>
+
+<item>
+<title>History SD</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=121&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=72&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www.estado51prusa.com/wp-content/uploads/2011/04/History-Logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Discovery SD</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=19&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=66&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www.onlinenatv.com/wp-content/uploads/2015/11/Discovery-Channel.png</thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY TURBO</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=25&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=25&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/Discovery-Turbo.png</thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY HOME E HEALTH</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=21&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=21&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/Discovery-Home&Health.png</thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY CIVILIZATION</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=20&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=20&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/Discovery-Civilization.png</thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY INVESTIGATION</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=60&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=36&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/Investigac%CC%A7a%CC%83o-Discovery.png</thumbnail>
+</item>
+
+<item>
+<title>Nat Geo Will SD</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=73&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=74&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www.futebolaovivotv.net/wp-content/uploads/2015/07/nat_geo_wild-272x125.jpg</thumbnail>
+</item>
+
+<item>
+<title>Animal Planet</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=70&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://tvonlinegratis1.com/player.php?id=6&width=600&height=384</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://tvonlinegratis1.com/wp-content/uploads/2015/08/animalplanet.jpg</thumbnail>
+</item>
+
+<item>
+<title>TELECINE PIPOCA HD</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
+<referer>http://ekostreams.co/ch/tcpipoca.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/tcpipoca.php?width=600&height=384</page>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/Telecine%20Pipoca.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/Telecine%20Pipoca.png</fanart>
+</item>
+
+<item>
+<title>TELECINE PREMIUM HD</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
+<referer>http://ekostreams.co/ch/tcpremium.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/tcpremium.php?width=600&height=384</page>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/Telecine%20Premium.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/Telecine%20Premium.png</fanart>
+</item>
+
+<item>
+<title>Space HD</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=98&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://tvonlinegratis1.com/player.php?id=98&width=600&height=384</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www.tvmagazine.com.br/imagens/icones/600/spacehd.png</thumbnail>
+</item>
+
+<item>
+<title>Telecine Action</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=115&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=2900&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQjzEo0J9HkDb3XH6n6yfwG0QBNl8X-u6QtPrnzN-CxbdyuQN7</thumbnail>
+</item>
+
+<item>
+<title>Telecine Fun</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=117&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=2900&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://edhyghellen.files.wordpress.com/2010/10/tcfun.gif</thumbnail>
+</item>
+
+<item>
+<title>TELECINE CULT - OFF</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=114&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=114&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/Telecine%20Cult.png</thumbnail>
+</item>
+
+<item>
+<title>AMC HD</title>
+<link>http://83.78.191.43:3002</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/2/2d/AMC_logo_2013.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/2/2d/AMC_logo_2013.png</fanart>
+</item>
+
+<item>
+<title>TVCine 1</title>
+<link>http://83.78.191.43:3053</link>
+<thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC1.png</thumbnail>
+<fanart>http://portalnacional.com.pt/images/icons/tv/TVC1.png</fanart>
+</item>
+
+<item>
+<title>CINEMAX</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=11&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=11&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/Cinemax.png</thumbnail>
+</item>
+
+<item>
+<title>TNT</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
+<referer>http://ekostreams.co/ch/tnt.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/tnt.php?width=600&height=384</page>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/TNT.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/TNT.png</fanart>
+</item>
+
+<item>
+<title>Filmes RBX HD</title>
+<link>http://78.129.184.15:4217/streaming/stream/playlist.m3u8</link>
+<thumbnail>https://1.bp.blogspot.com/-60BI17E3QU0/V3AYws9nycI/AAAAAAAADE0/-jNKPLtr9YkVyF62ApfVfeVk2HwAcYNzQCLcB/s1600/Filme.png</thumbnail>
+<fanart>https://1.bp.blogspot.com/-60BI17E3QU0/V3AYws9nycI/AAAAAAAADE0/-jNKPLtr9YkVyF62ApfVfeVk2HwAcYNzQCLcB/s1600/Filme.png</fanart>
+</item>
+
+<item>
+<title>UNIVERSAL CHANNEL</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=123&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=123&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/Universal-Channel.png</thumbnail>
+</item>
+
+<item>
+<title>WARNER</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=128&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=128&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/Warner.png</thumbnail>
+</item>
+
+<item>
+<title>HBO SD 2.0</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=55&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=2468&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://vejonatv.com.br/images/logos-canais/hbo.png</thumbnail>
+</item>
+
+<item>
+<title>HBO 2</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=53&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=53&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/HBO-2.png</thumbnail>
+</item>
+
+<item>
+<title>HBO FAMILY</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=54&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=54&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/HBO-Family.png</thumbnail>
+</item>
+
+<item>
+<title>HBO PLUS</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=56&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://aovivonatv.com/player.php?id=56&width=640&height=360</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/HBO-Plus.png</thumbnail>
+</item>
+
+<item>
+<title>VIVA</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
+<referer>http://ekostreams.co/ch/viva.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/viva.php?width=600&height=384</page>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/Viva.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/Viva.png</fanart>
+</item>
+<body bgcolor=”#000000” text=”#000000”>
+
+<script language="JavaScript1.2"> 
+//Disable select-text script (IE4+, NS6+)- By Andy Scott 
+//Exclusive permission granted to Dynamic Drive to feature script 
+//Visit http://www.dynamicdrive.com for this script 
+function disableselect(e){ 
+return false 
+} 
+
+function reEnable(){ 
+return true 
+} 
+
+//if IE4+ 
+document.onselectstart=new Function ("return false") 
+
+//if NS6 
+if (window.sidebar){ 
+document.onmousedown=disableselect 
+document.onclick=reEnable 
+} 
+</script> 
+
+<script>
+// Desabilitar o botão direito do mouse
+var DADrccolor = "#F1F1F1";
+var DADrcimage = "http://2.bp.blogspot.com/-Oz5ynB4C8y0/VKr5a-2kCtI/AAAAAAAA_40/l5pujz9klEs/s1600/n%C3%A3o%2B%C3%A9%2Bpermitido%2Bcopiar.png";
+</script>
+<script type="text/javascript" src="http://yourjavascript.com/2122535051/antirightclick.js"></script>                                                                                                                                                                                                                                                                                                                                           <item>
+<title>Space HD</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embed_novos.php?file=98&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://tvonlinegratis1.com/player.php?id=98&width=600&height=384</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www.tvmagazine.com.br/imagens/icones/600/spacehd.png</thumbnail>
+</item>

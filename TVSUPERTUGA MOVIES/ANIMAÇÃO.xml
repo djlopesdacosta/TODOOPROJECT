@@ -27,15 +27,9 @@
 </channel>
 
 <channel>
-<name>[COLOR white]JAMI[/COLOR] [COLOR red]by French[/COLOR][COLOR blue]DJ[/COLOR]</name>
-<fanart>https://i.ytimg.com/vi/KaF9lSAUv_c/maxresdefault.jpg</fanart>
-<thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.jami.png.pagespeed.ic.-eCqk8EtMd.jpg</thumbnail>
-</subitem>
-
-<item>
-<title>[COLOR white]SERIES INFANTIS[/COLOR]</title>
-<fanart>https://i.ytimg.com/vi/KaF9lSAUv_c/maxresdefault.jpg</fanart>
-<thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.jami.png.pagespeed.ic.-eCqk8EtMd.jpg</thumbnail>
-<link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.jami/</jsonrpc>
-</item>
+<name>[COLOR gold][B]Series e Desenhos 24 horas[/B][/COLOR]</name>
+<thumbnail>https://s26.postimg.org/8nfj8kq7t/24h.png</thumbnail>
+<externallink>http://pastebin.com/raw/kcdDNVdD</externallink>
+<fanart>http://www.putsgrilo.com.br/wp-content/uploads/2009/09/24horasseriedownload-1.jpg</fanart>
+<info></info>
+</channel>
