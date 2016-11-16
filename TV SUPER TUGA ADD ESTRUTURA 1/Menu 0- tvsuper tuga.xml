@@ -5,7 +5,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime] [COLOR white][B] [COLOR lime]|||[/COLOR] Update 13-11-2016 [COLOR red]|||[/COLOR][/B][/COLOR] </name>
+<name>[COLOR lime] [COLOR white][B] [COLOR lime]|||[/COLOR] Update 17-11-2016 [COLOR red]|||[/COLOR][/B][/COLOR] </name>
 <externallink>http://tv-super-tuga-add-estrutura.comlu.com/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA/Menu%200-%20tvsuper%20tuga.xml</externallink>
 <fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
 <thumbnail>http://www.esar.edu.pt/portal/images/outros/icon.jpg</thumbnail>
@@ -134,10 +134,10 @@
 
 <item>
 <title>[COLOR=red][B][I] SIC [/I][/B][/COLOR]   [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://sic.sapo.pt/direto</sportsdevil>
 <sportsdevil>http://www.sporttvgratishd.com/index.php?canal=sic</sportsdevil>
 <sportsdevil>http://www.estadiofutebol.com/gratis/sic</sportsdevil>
-<sportsdevil>http://sic.sapo.pt/direto</sportsdevil>
-<sportsdevil>http://ontvfree2.me/sic-pt-online</sportsdevil>
+<sportsdevil>http://videos.sapo.pt/sicinternaciona</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sic.png</thumbnail>
 </item>
@@ -1334,7 +1334,7 @@ SIC NOTICIAS
 
 <item>
 <title>[COLOR white][B][I]  SIC MULHER [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://www.estadiofutebol.com/gratis/sicmulher</sportsdevil>
+<sportsdevil>http://videos.sapo.pt/sicmulher</sportsdevil>
 <sportsdevil>http://www.desportonline.net/index.php?canal=sicmulher</sportsdevil>
 <sportsdevil>http://mytvfree2.me/sic-mulher</sportsdevil>
 <referer>http://ucaster.eu/</referer>
@@ -2894,7 +2894,7 @@ SIC NOTICIAS
 
 
 <item>
-<title>[COLOR=white][B][I] SPORT TV 1 HD [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
+<title>[COLOR=blue][B][I] SPORT TV 1 HD [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
 <link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=fawergge?keys=6FwFzBwoArVD7GnroNTCwg&keyt=1471185155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 </link>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
@@ -2923,13 +2923,13 @@ SIC NOTICIAS
 <title>[COLOR blue] [I]SPORT TV 1[/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
 <sportsdevil>http://www.sportstvstream.me/sport-tv1-hd-live-stream/</sportsdevil>
 <sportsdevil>http://nowwatchtvlive.co/sport-tv1-live-sport-tv1-slovenia-free-sport-tv1-watch-sport-tv1/</sportsdevil>
-<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv</sportsdevil>
+<sportsdevil>http://sports-tv-live.com/Free/SportTv1.html</sportsdevil>
 <referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=white][B][I] SPORT TV 2 HD [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
+<title>[COLOR=blue][B][I] SPORT TV 2 HD [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
 <link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=QQfJ2QkV5FjgeFJEBoHScw&keyt=1472850809 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 </link>
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
 </item>
@@ -2957,7 +2957,7 @@ SIC NOTICIAS
 <item>
 <title>[COLOR blue] [I]SPORT TV 2[/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
 <sportsdevil>http://www.sportstvstream.me/sport-tv2-hd-live-stream/</sportsdevil>
-<sportsdevil>http://www.sporttvonlinehd.com/index.php?canal=sporttv2</sportsdevil>
+<sportsdevil>http://nowwatchtvlive.co/sport-tv2-em-direto-gratis-sport-tv2-portugal-live-stream-online/</sportsdevil>
 <sportsdevil>http://www.desportonline.com/index.php?canal=sporttv2</sportsdevil>
 <referer>http://www.idimsports.eu/watch/408917/2/watch-xonetv.html</referer>
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
@@ -2965,7 +2965,7 @@ SIC NOTICIAS
 
 
 <item>
-<title>[COLOR=white][B][I] SPORT TV 3 HD [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
+<title>[COLOR=blue][B][I] SPORT TV 3 HD [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
 <link>rtmp://79.124.59.218/ovc/ swfUrl=http://akamaistreaming.com/YjFlMTI0MT/skyjwplayer.flash.swf pageUrl=http://akamaistreaming.com/zn.php?id=29324&width=100%&height=100% playpath=fod3813?ptvskypastv token=d.r.o.p.S.t.r.e.a.m </link>
 <thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
 </item>
@@ -2987,7 +2987,7 @@ SIC NOTICIAS
 <item>
 <title>[COLOR blue] [I]SPORT TV 3[/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
 <sportsdevil>http://www.sportstvstream.me/sport-tv3-hd-live-stream/</sportsdevil>
-<sportsdevil>http://www.idimsports.eu/watch/408917/3/watch-xonetv.html</sportsdevil>
+<sportsdevil>http://nowwatchtvlive.co/sport-tv3-em-direto-gratis-sport-tv3-portugal-live-stream-online/</sportsdevil>
 <sportsdevil>http://www.thefeed2all.eu/watch/408917/3/watch-xonetv.html</sportsdevil>
 <sportsdevil>http://www.desportonline.com/index.php?canal=sporttv3</sportsdevil>
 <referer>http://www.idimsports.eu/watch/408917/3/watch-xonetv.html</referer>
@@ -2996,7 +2996,7 @@ SIC NOTICIAS
 
 
 <item>
-<title>[COLOR=white][B][I] SPORT TV 4 HD [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
+<title>[COLOR=blue][B][I] SPORT TV 4 HD [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
 <link>rtmp://31.220.40.61/privatestream/ playpath=dddd4uedifoekds?keys=-mk38EysabgrlvA1TTGvWA&keyt;=1471232732 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=dddd4uedifoekds&width;=555&height;=440 timeout=10</link>
 <thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
 </item>
@@ -3019,7 +3019,7 @@ SIC NOTICIAS
 <item>
 <title>[COLOR blue] [I]SPORT TV 4[/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
 <sportsdevil>http://www.sportstvstream.me/sport-tv4-hd-live-stream/</sportsdevil>
-<sportsdevil>http://www.thefeed2all.eu/watch/408917/4/watch-xonetv.html</sportsdevil>
+<sportsdevil>http://nowwatchtvlive.co/sport-tv4-em-direto-gratis-sport-tv-4-portugal-live-stream-online/</sportsdevil>
 <sportsdevil>http://www.desportonline.com/index.php?canal=sporttv4</sportsdevil>
 <referer>http://www.thefeed2all.eu/watch/408917/4/watch-xonetv.html</referer>
 <thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
@@ -3042,10 +3042,8 @@ SIC NOTICIAS
 <item>
 <title>[COLOR blue] [I]SPORT TV 5[/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
 <sportsdevil>http://www.sportstvstream.me/sport-tv5-hd-live-stream/</sportsdevil>
-<sportsdevil>http://www.idimsports.eu/watch/408917/5/watch-xonetv.html</sportsdevil>
+<sportsdevil>http://nowwatchtvlive.co/sport-tv5-em-direto-gratis-sport-tv-5-portugal-live-online/</sportsdevil>
 <sportsdevil>http://www.thefeed2all.eu/watch/408917/5/watch-xonetv.html</sportsdevil>
-<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv5</sportsdevil>
-<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv5</sportsdevil>
 <referer>http://www.idimsports.eu/watch/408917/5/watch-xonetv.html</referer>
 <thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
 </item>
@@ -3165,8 +3163,22 @@ SIC NOTICIAS
 </item>
 
 
+<item>
+<title>[COLOR=blue][B][I] SPORT TV 1 BR [/I][/B][/COLOR][COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://nowwatchtvlive.co/watch-sport-tv-directo-online-live-sport-tv-1-channel-stream/</sportsdevil>
+<sportsdevil>http://www.desportodireto.com/sporting/</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<thumbnail>http://static2.wikia.nocookie.net/__cb20120720191553/logopedia/images/5/56/SporTV_logo_2011.png</thumbnail> 
+</item>
 
 
+<item>
+<title>[COLOR=blue][B][I] SPORT TV 2 BR [/I][/B][/COLOR][COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://nowwatchtvlive.co/watch-sport-tv-directo-2-online-live-sport-tv-2-channel-stream/</sportsdevil>
+<sportsdevil>http://www.desportodireto.com/sporting/</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<thumbnail>http://static.wixstatic.com/media/53b0fd_717e4f863c5e42bd8df5f7ea5631025c.png_srz_587_132_85_22_0.50_1.20_0.00_png_srz</thumbnail> 
+</item>
 
 
 
