@@ -18,14 +18,14 @@
 </item>
 
 <item>       
-<title>            [COLOR red] FRANCE TV [/COLOR]  [COLOR lime]SERVIDOR 2[/COLOR]  </title>
+<title>            [COLOR red] FRANCE TV [/COLOR]  [COLOR lime]SERVIDOR 3[/COLOR]  </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>       
-<title>                [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 20-11-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 21-11-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
@@ -35,443 +35,831 @@
 
 
 
+<item>
+<title>FR=TF1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/811.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=TF1 </link>
+</item>
+<item>
+<title>FR=FRANCE2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/867.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=FRANCE2 </link>
+</item>
+<item>
+<title>FR=FRANCE3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/866.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=FRANCE3 </link>
+</item>
+<item>
+<title>FR=FRANCE4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/865.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=FRANCE4 </link>
+</item>
+<item>
+<title>FR=FRANCE5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/864.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=FRANCE5 </link>
+</item>
+<item>
+<title>FR=FRANCE_O</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/862.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=FRANCE_O </link>
+</item>
+<item>
+<title>FR=CANAL+</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/876.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=CANAL+ </link>
+</item>
+<item>
+<title>FR=CANAL+DECALE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/880.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=CANAL+DECALE </link>
+</item>
+<item>
+<title>FR=CANAL+SPORT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/856.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=CANAL+SPORT </link>
+</item>
+<item>
+<title>FR=CANAL+SERIES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/878.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=CANAL+SERIES </link>
+</item>
+<item>
+<title>FR=CANAL+FAMILY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/879.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=CANAL+FAMILY </link>
+</item>
+<item>
+<title>FR=CANAL+CINEMA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/877.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=CANAL+CINEMA </link>
+</item>
+<item>
+<title>FR=CANAL+ACTION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/884.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=CANAL+ACTION </link>
+</item>
+<item>
+<title>FR=CINE+PREMIER</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/871.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=CINE+PREMIER </link>
+</item>
+<item>
+<title>FR=CINE+FRISSON</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/821.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=CINE+FRISSON </link>
+</item>
+<item>
+<title>FR=CINE+FAMIZ</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/840.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=CINE+FAMIZ </link>
+</item>
+<item>
+<title>FR=CINE+EMOTION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/872.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=CINE+EMOTION </link>
+</item>
+<item>
+<title>FR=CINE+CLASSIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/846.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=CINE+CLASSIC </link>
+</item>
+<item>
+<title>FR=CINE_POLAR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/903.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=CINE_POLAR </link>
+</item>
+<item>
+<title>FR=CINE_FX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/2013.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=CINE_FX </link>
+</item>
+<item>
+<title>FR=VOYAGE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/835.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=VOYAGE </link>
+</item>
+<item>
+<title>FR=NATGEO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/860.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=NATGEO </link>
+</item>
+<item>
+<title>FR=NATGEO_WILD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/859.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=NATGEO_WILD </link>
+</item>
+<item>
+<title>FR=DISCOVERY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/849.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=DISCOVERY </link>
+</item>
+<item>
+<title>FR=DISCOVERY_SCIENCE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/885.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=DISCOVERY_SCIENCE </link>
+</item>
+<item>
+<title>FR=PLANETE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/858.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=PLANETE </link>
+</item>
+<item>
+<title>FR=PLANETE_CI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/853.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=PLANETE_CI </link>
+</item>
+<item>
+<title>FR=PLANETE_A&E</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/854.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=PLANETE_A&E </link>
+</item>
+<item>
+<title>FR=USHUAIA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/847.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=USHUAIA </link>
+</item>
+<item>
+<title>FR=SCIENCE&VIE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/820.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=SCIENCE&VIE </link>
+</item>
+<item>
+<title>FR=TOUTE_LHISTORIE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1553.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=TOUTE_LHISTORIE </link>
+</item>
+<item>
+<title>FR=ANIMAUX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/883.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=ANIMAUX </link>
+</item>
+<item>
+<title>FR=HD1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/813.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=HD1 </link>
+</item>
+<item>
+<title>FR=NT1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/830.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=NT1 </link>
+</item>
+<item>
+<title>FR=D8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1552.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=D8 </link>
+</item>
+<item>
+<title>FR=D17</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/904.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=D17 </link>
+</item>
+<item>
+<title>FR=NRJ12</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/822.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=NRJ12 </link>
+</item>
+<item>
+<title>FR=GAME ONE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/2006.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=GAME ONE </link>
+</item>
+<item>
+<title>FR=M6MUSIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/861.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=M6MUSIC </link>
+</item>
+<item>
+<title>FR=ARTE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/843.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=ARTE </link>
+</item>
+<item>
+<title>FR=SYFY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/852.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=SYFY </link>
+</item>
+<item>
+<title>FR=TEVA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/837.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=TEVA </link>
+</item>
+<item>
+<title>FR=TMC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/814.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=TMC </link>
+</item>
+<item>
+<title>FR=iTELE_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/845.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=iTELE_HD </link>
+</item>
+<item>
+<title>FR=RTL9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1851.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=RTL9 </link>
+</item>
+<item>
+<title>FR=6TER</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/819.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=6TER </link>
+</item>
+<item>
+<title>FR=13EME_RUE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/844.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=13EME_RUE </link>
+</item>
+<item>
+<title>FR=CHESSE_ET_PACHE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/841.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=CHESSE_ET_PACHE </link>
+</item>
+<item>
+<title>FR=DISNEY_XD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/869.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=DISNEY_XD </link>
+</item>
+<item>
+<title>FR=DISNEY_JR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/901.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=DISNEY_JR </link>
+</item>
+<item>
+<title>FR=DISNEY_CINEMA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/898.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=DISNEY_CINEMA </link>
+</item>
+<item>
+<title>FR=DISNEY_CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/848.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=DISNEY_CHANNEL </link>
+</item>
+<item>
+<title>FR=CARTOON_NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/873.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=CARTOON_NETWORK </link>
+</item>
+<item>
+<title>FR=BOOMERANG</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/874.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=BOOMERANG </link>
+</item>
+<item>
+<title>FR=PIWI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/851.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=PIWI </link>
+</item>
+<item>
+<title>FR=GULLI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/899.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=GULLI </link>
+</item>
+<item>
+<title>FR=CANAL_J</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/900.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=CANAL_J </link>
+</item>
+<item>
+<title>FR=MANGAS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/902.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=MANGAS </link>
+</item>
+<item>
+<title>FR=TELETOON</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/882.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=TELETOON </link>
+</item>
+<item>
+<title>FR=W9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/816.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=W9 </link>
+</item>
+<item>
+<title>FR=SERIE_CLUB</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/825.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=SERIE_CLUB </link>
+</item>
+<item>
+<title>FR=RTS UN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/2007.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=RTS UN HD </link>
+</item>
+<item>
+<title>FR=RTS DEUX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/2008.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=RTS DEUX </link>
+</item>
+<item>
+<title>FR=RMC decouverte</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/2014.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=RMC decouverte </link>
+</item>
+<item>
+<title>FR=PARIS PREMIERE  HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/812.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=PARIS PREMIERE  HD </link>
+</item>
+<item>
+<title>FR=PARAMOUNT CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/829.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=PARAMOUNT CHANNEL </link>
+</item>
+<item>
+<title>FR=OCS_MAX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/839.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=OCS_MAX </link>
+</item>
+<item>
+<title>FR=OCS_CITY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/838.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=OCS_CITY </link>
+</item>
+<item>
+<title>FR=OCS_CHOC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/886.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=OCS_CHOC </link>
+</item>
+<item>
+<title>FR=Numero_23</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/824.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=Numero_23 </link>
+</item>
+<item>
+<title>FR=M6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/815.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=M6 </link>
+</item>
+<item>
+<title>FR=INFOSPORT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/817.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=INFOSPORT </link>
+</item>
+<item>
+<title>FR=FRANCE24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/863.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=FRANCE24 </link>
+</item>
+<item>
+<title>FR=FOOT+24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/818.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=FOOT+24 </link>
+</item>
+<item>
+<title>FR=EUROSPORT2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/855.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=EUROSPORT2 </link>
+</item>
+<item>
+<title>FR=EUROSPORT1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/868.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=EUROSPORT1 </link>
+</item>
+<item>
+<title>FR=Comedie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/870.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=Comedie </link>
+</item>
+<item>
+<title>FR=CHERIE25</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/834.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR=CHERIE25 </link>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <item>
-<title>FR: Orange enquete exclusive HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4424.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Orange enquete exclusive HD </link>
-</item>
-<item>
-<title>FR: Orange Cine horreur HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4425.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Orange Cine horreur HD </link>
-</item>
-<item>
-<title>FR: Orange Cine Comedie HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4426.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Orange Cine Comedie HD </link>
-</item>
-<item>
-<title>FR: Orange Cine Aventure HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4427.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Orange Cine Aventure HD </link>
-</item>
-<item>
-<title>FR: Orange Cine Action HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4428.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Orange Cine Action HD </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4429.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 1 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4430.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 2 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4431.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 3 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4432.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 4 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4433.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 5 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4434.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 6 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4435.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 7 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4436.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 8 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4437.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 9 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 10</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4443.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 10 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 11</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4442.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 11 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 12</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4441.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 12 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 13</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4440.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 13 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 14</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4439.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 14 </link>
-</item>
-<item>
-<title>FR: CANAL PLAY 15</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4438.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 15 </link>
-</item>
-<item>
-<title>FR: CANALPLAY-16</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/6481.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANALPLAY-16 </link>
-</item>
-<item>
-<title>FR: CANALPLAY-17</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/6482.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANALPLAY-17 </link>
-</item>
-<item>
-<title>FR: CANALPLAY-18</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/6483.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANALPLAY-18 </link>
-</item>
-<item>
-<title>FR: CANALPLAY-KID7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/6490.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANALPLAY-KID7 </link>
-</item>
-<item>
-<title>FR: CANALPLAY-KID6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/6489.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANALPLAY-KID6 </link>
-</item>
-<item>
-<title>FR: CANALPLAY-KID5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/6488.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANALPLAY-KID5 </link>
-</item>
-<item>
-<title>FR: CANALPLAY-KID4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/6487.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANALPLAY-KID4 </link>
-</item>
-<item>
-<title>FR: CANALPLAY-KID3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/6486.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANALPLAY-KID3 </link>
-</item>
-<item>
-<title>FR: CANALPLAY-KID2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/6485.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANALPLAY-KID2 </link>
-</item>
-<item>
-<title>FR: CANALPLAY-KID1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/6484.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANALPLAY-KID1 </link>
-</item>
-<item>
-<title>FR: PPV A La Carte 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/1243.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PPV A La Carte 1 </link>
-</item>
-<item>
-<title>FR: PPV A La Carte 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/1244.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PPV A La Carte 2 </link>
-</item>
-<item>
-<title>FR: PPV A La Carte 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/1245.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PPV A La Carte 3 </link>
-</item>
-<item>
-<title>FR: PPV A La Carte 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/1246.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PPV A La Carte 4 </link>
-</item>
-<item>
-<title>FR: PPV A La Carte 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/1247.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PPV A La Carte 5 </link>
-</item>
-<item>
-<title>FR: PPV A La Carte 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/1248.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PPV A La Carte 6 </link>
-</item>
-<item>
-<title>FR: PPV A La Carte 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/1249.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PPV A La Carte 7 </link>
-</item>
-<item>
-<title>FR: A_LA_CARTE_8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4225.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A_LA_CARTE_8 </link>
-</item>
-<item>
-<title>FR: A_LA_CARTE_9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4226.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A_LA_CARTE_9 </link>
-</item>
-<item>
-<title>FR: A_LA_CARTE_10</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4227.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A_LA_CARTE_10 </link>
-</item>
-<item>
-<title>FR: A_LA_CARTE_20</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4237.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A_LA_CARTE_20 </link>
-</item>
-<item>
-<title>FR: A_LA_CARTE_11</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4228.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A_LA_CARTE_11 </link>
-</item>
-<item>
-<title>FR: A_LA_CARTE_12</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4229.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A_LA_CARTE_12 </link>
-</item>
-<item>
-<title>FR: A_LA_CARTE_13</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4230.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A_LA_CARTE_13 </link>
-</item>
-<item>
-<title>FR: A_LA_CARTE_14</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4231.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A_LA_CARTE_14 </link>
-</item>
-<item>
-<title>FR: A_LA_CARTE_15</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4232.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A_LA_CARTE_15 </link>
-</item>
-<item>
-<title>FR: A_LA_CARTE_16</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4233.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A_LA_CARTE_16 </link>
-</item>
-<item>
-<title>FR: A_LA_CARTE_17</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4234.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A_LA_CARTE_17 </link>
-</item>
-<item>
-<title>FR: A_LA_CARTE_18</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4235.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A_LA_CARTE_18 </link>
-</item>
-<item>
-<title>FR: A_LA_CARTE_19</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4236.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A_LA_CARTE_19 </link>
-</item>
-<item>
-<title>FR: FRANCE O</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/324.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE O </link>
-</item>
-<item>
-<title>FR: FRANCE5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/323.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE5 HD </link>
-</item>
-<item>
-<title>FR: FRANCE4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/322.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE4 HD </link>
-</item>
-<item>
-<title>FR: FRANCE3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/321.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE3 HD </link>
-</item>
-<item>
-<title>FR: FRANCE2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/320.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE2 HD </link>
-</item>
-<item>
-<title>FR: TV BREIZH</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4191.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TV BREIZH </link>
-</item>
-<item>
-<title>FR: NRJ 12 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4192.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NRJ 12 HD </link>
-</item>
-<item>
-<title>FR: LA DEUX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4194.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: LA DEUX HD </link>
-</item>
-<item>
-<title>FR: ARTE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/4193.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: ARTE HD </link>
-</item>
-<item>
-<title>FR: TCM CINEMA HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/2227.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TCM CINEMA HD </link>
-</item>
-<item>
-<title>FR: SERIE CLUB HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/2228.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SERIE CLUB HD </link>
-</item>
-<item>
-<title>FR: NATIONAL GEO HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/2238.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NATIONAL GEO HD </link>
-</item>
-<item>
-<title>FR: NAT GEO WILD HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/2241.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NAT GEO WILD HD </link>
-</item>
-<item>
-<title>FR: Equidia Live HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/2235.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Equidia Live HD </link>
-</item>
-<item>
-<title>FR: DISNEY JUNIOR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/2230.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISNEY JUNIOR HD </link>
-</item>
-<item>
-<title>FR: DISCOVERY SCIENCES HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/2231.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISCOVERY SCIENCES HD </link>
-</item>
-<item>
-<title>FR: CINE PREMIER HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/2232.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE PREMIER HD </link>
-</item>
-<item>
-<title>FR: CINE FRISSON HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/2236.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE FRISSON HD </link>
-</item>
-<item>
-<title>FR: CINE Emotion HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/2237.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE Emotion HD </link>
-</item>
-<item>
-<title>FR: CANAL CINEMA HD.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/2233.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL CINEMA HD. </link>
-</item>
-<item>
-<title>FR: ACTION HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/2239.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: ACTION HD </link>
-</item>
-<item>
-<title>FR: W9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/316.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: W9 </link>
-</item>
-<item>
 <title>FR: TF1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/313.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TF1 HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1385.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TF1 HD </link>
 </item>
 <item>
-<title>FR: SyFy HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/329.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SyFy HD </link>
+<title>FR_FRANCE_2_HD LOCAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4214.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_FRANCE_2_HD LOCAL </link>
 </item>
 <item>
-<title>FR: RTL9 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/328.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RTL9 HD </link>
+<title>FR: France3 LOCAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1387.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France3 LOCAL </link>
 </item>
 <item>
-<title>FR: Paris Premiere</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/332.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Paris Premiere </link>
+<title>FR:FRANCE 4 LOCAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4735.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE 4 LOCAL </link>
 </item>
 <item>
-<title>FR: PARAMOUNT CHNANNEL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/333.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PARAMOUNT CHNANNEL HD </link>
-</item>
-<item>
-<title>FR: NT1 FRANCE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/331.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NT1 FRANCE </link>
+<title>FR:FRANCE 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4737.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE 5 </link>
 </item>
 <item>
 <title>FR: M6 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/314.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6 HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1390.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6 HD </link>
 </item>
 <item>
-<title>FR: HD1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/317.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: HD1 </link>
+<title>FR: ARTE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1395.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: ARTE HD </link>
 </item>
 <item>
-<title>FR: NUMERO 23</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/330.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NUMERO 23 </link>
+<title>FR:D8 LOCAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4742.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:D8 LOCAL </link>
 </item>
 <item>
-<title>FR: C8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/315.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: C8 </link>
+<title>FR: W9 LOCAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3522.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: W9 LOCAL </link>
 </item>
 <item>
-<title>FR: D17</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/318.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: D17 </link>
-</item>
-<item>
-<title>FR: CANAL  HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/334.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL  HD </link>
-</item>
-<item>
-<title>FR: CANAL DECALE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/335.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL DECALE HD </link>
-</item>
-<item>
-<title>FR: CANAL CINEMA HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/336.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL CINEMA HD </link>
-</item>
-<item>
-<title>FR: Arte</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/326.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Arte </link>
-</item>
-<item>
-<title>FR: 6TER HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/319.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 6TER HD </link>
-</item>
-<item>
-<title>DE: 13 Eme Rue</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/325.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 13 Eme Rue </link>
-</item>
-<item>
-<title>FR: OCS CITY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/1039.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS CITY </link>
-</item>
-<item>
-<title>FR: OCS CHOC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/1037.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS CHOC </link>
+<title>FR:TMC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1403.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TMC HD </link>
 </item>
 <item>
 <title>FR: NT1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/1059.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NT1 </link>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1399.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NT1 </link>
 </item>
 <item>
-<title>FR: Nat Geo Wild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/1057.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Nat Geo Wild </link>
+<title>FR :RTL 9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3573.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR :RTL 9 </link>
 </item>
 <item>
-<title>FR: Nat Geo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/1056.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Nat Geo </link>
+<title>FR:HD1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/2043.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:HD1 </link>
 </item>
 <item>
-<title>FR: Foot  24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/1053.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Foot  24 </link>
+<title>FR: 6TER HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1396.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 6TER HD </link>
 </item>
 <item>
-<title>FR: CINE_POLAR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/2253.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE_POLAR </link>
+<title>FR: PARIS PREMIERE  HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3965.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PARIS PREMIERE  HD </link>
 </item>
 <item>
-<title>FR: USHUAIA TV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/2252.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: USHUAIA TV HD </link>
+<title>FR: BET</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4827.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BET </link>
 </item>
 <item>
-<title>FR: TV5 MONDE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/2254.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TV5 MONDE HD </link>
+<title>FR| Cherie 25(l)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4710.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR| Cherie 25(l) </link>
 </item>
 <item>
-<title>FR: Cine  Premier</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/1048.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine  Premier </link>
+<title>FR:FRANCE O LOCAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4736.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE O LOCAL </link>
 </item>
 <item>
-<title>FR: Cine  Famiz</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/1049.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine  Famiz </link>
+<title>FR: D17</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1401.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: D17 </link>
 </item>
 <item>
-<title>FR: Cine  Emotion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/1050.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine  Emotion </link>
+<title>FR: TVBREIZH</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3521.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TVBREIZH </link>
 </item>
 <item>
-<title>FR: Cine  Classic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/1051.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine  Classic </link>
+<title>FR|AB1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4702.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|AB1 </link>
 </item>
 <item>
-<title>FR: CANAL SPORT.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/1043.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL SPORT. </link>
+<title>FR| Numero 23</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4709.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR| Numero 23 </link>
 </item>
 <item>
-<title>FR: CANAL SERIES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/1041.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL SERIES </link>
+<title>FR| 13EME RUE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4711.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR| 13EME RUE </link>
 </item>
 <item>
-<title>FR: CANAL FAMILY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/1042.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL FAMILY </link>
+<title>FR_Syfy_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4820.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Syfy_HD </link>
 </item>
 <item>
-<title>FR: Canal  Decale</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/1044.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal  Decale </link>
+<title>FR| Teva HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4714.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR| Teva HD </link>
 </item>
 <item>
-<title>FR: Canal  Cinema</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/1045.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal  Cinema </link>
+<title>FR| COMEDIE+</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4713.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR| COMEDIE+ </link>
 </item>
 <item>
-<title>FR: CANAL.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/1040.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL. </link>
+<title>FR: Serie Club HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/2583.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Serie Club HD </link>
 </item>
 <item>
-<title>FR: Boomerang HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/rizwan/rizwan/1052.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Boomerang HD </link>
+<title>FR:L'EQUIPE 21</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1724.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:L'EQUIPE 21 </link>
 </item>
+<item>
+<title>FR BFM TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/395.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR BFM TV </link>
+</item>
+<item>
+<title>FR:ITELE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1342.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:ITELE </link>
+</item>
+<item>
+<title>FR:LCI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1366.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:LCI </link>
+</item>
+<item>
+<title>FR:EURONEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1393.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:EURONEWS </link>
+</item>
+<item>
+<title>FR: France 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1392.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 24 </link>
+</item>
+<item>
+<title>FR:BFM BUSINESS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3558.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BFM BUSINESS </link>
+</item>
+<item>
+<title>FR: TELE PACIFIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3555.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TELE PACIFIC </link>
+</item>
+<item>
+<title>FR|CANAL+   (LOCAL)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4699.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|CANAL+   (LOCAL) </link>
+</item>
+<item>
+<title>FR|CANAL+   CINEMA (LOCAL)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4698.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|CANAL+   CINEMA (LOCAL) </link>
+</item>
+<item>
+<title>FR: CANAL+  SERIE  HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3979.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL+  SERIE  HD </link>
+</item>
+<item>
+<title>FR: CANAL+ DECALE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3977.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL+ DECALE HD </link>
+</item>
+<item>
+<title>FR: CINE+ PREMIER LOCAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3967.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE+ PREMIER LOCAL </link>
+</item>
+<item>
+<title>FR: CINE+ FRISSON HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3969.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE+ FRISSON HD </link>
+</item>
+<item>
+<title>FR: CINE+ FAMIZ HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3970.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE+ FAMIZ HD </link>
+</item>
+<item>
+<title>FR: CINE+ EMOTION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3972.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE+ EMOTION </link>
+</item>
+<item>
+<title>FR:CINE+  CLASSIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4819.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE+  CLASSIC </link>
+</item>
+<item>
+<title>FR:TCM CINEMA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1397.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TCM CINEMA </link>
+</item>
+<item>
+<title>FR: PARAMOUNT CHANNEL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3966.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PARAMOUNT CHANNEL HD </link>
+</item>
+<item>
+<title>FR|OCS MAX (LOCAL BACKUP)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4694.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|OCS MAX (LOCAL BACKUP) </link>
+</item>
+<item>
+<title>FR: OCS CHOC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3982.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS CHOC HD </link>
+</item>
+<item>
+<title>FR: OCS City</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3981.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS City </link>
+</item>
+<item>
+<title>FR|OCS GEANTS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4695.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|OCS GEANTS </link>
+</item>
+<item>
+<title>FR|OCS GO COMEDIE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4696.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|OCS GO COMEDIE </link>
+</item>
+<item>
+<title>FR: OCS GO HORREUR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3983.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS GO HORREUR </link>
+</item>
+<item>
+<title>FR: OCS GO DOCUMENTAIRE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3980.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS GO DOCUMENTAIRE </link>
+</item>
+<item>
+<title>FR.ACTION HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/439.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.ACTION HD </link>
+</item>
+<item>
+<title>FR: CINE POLAR HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3968.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE POLAR HD </link>
+</item>
+<item>
+<title>FR:CINE FX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3984.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE FX HD </link>
+</item>
+<item>
+<title>==== SPORT ====</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/2482.ts&amp;streamtype=TSDOWNLOADER&amp;name===== SPORT ==== </link>
+</item>
+<item>
+<title>FR: CANAL+ SPORT  HD LOCAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3975.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL+ SPORT  HD LOCAL </link>
+</item>
+<item>
+<title>FR: SFR SPORT 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/2616.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR SPORT 1 </link>
+</item>
+<item>
+<title>FR: SFR SPORT2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3961.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR SPORT2 </link>
+</item>
+<item>
+<title>FR: SFR SPORT 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4750.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR SPORT 3 </link>
+</item>
+<item>
+<title>FR!:BEIN_SPORTS_1_HD LOCAL b</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4729.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR!:BEIN_SPORTS_1_HD LOCAL b </link>
+</item>
+<item>
+<title>FR!BeinSports 2HD LOCAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4730.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR!BeinSports 2HD LOCAL </link>
+</item>
+<item>
+<title>FR!: Bein Sport 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4731.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR!: Bein Sport 3 HD </link>
+</item>
+<item>
+<title>FR: BEIN SPORTS 14 Fr</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4832.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEIN SPORTS 14 Fr </link>
+</item>
+<item>
+<title>FR: BEIN SPORTS 15 Fr</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4833.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEIN SPORTS 15 Fr </link>
+</item>
+<item>
+<title>FR: BEIN SPORTS 16 Fr</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4834.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEIN SPORTS 16 Fr </link>
+</item>
+<item>
+<title>FR:EUROSPORT 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3574.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:EUROSPORT 1 </link>
+</item>
+<item>
+<title>FR:EUROSPORT 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3716.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:EUROSPORT 2 </link>
+</item>
+<item>
+<title>FR: OM TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4828.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OM TV </link>
+</item>
+<item>
+<title>FR:EQUIDIA_LIVE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4733.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:EQUIDIA_LIVE </link>
+</item>
+<item>
+<title>FR: Foot+  24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3962.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Foot+  24 </link>
+</item>
+<item>
+<title>FR:  INFOSPORT+ HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3960.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:  INFOSPORT+ HD </link>
+</item>
+<item>
+<title>FR| AB Moteur (LOCAL)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4707.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR| AB Moteur (LOCAL) </link>
+</item>
+<item>
+<title>==== ENFANTS ====</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3400.ts&amp;streamtype=TSDOWNLOADER&amp;name===== ENFANTS ==== </link>
+</item>
+<item>
+<title>FR: Zouzou TV LOCAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4715.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Zouzou TV LOCAL </link>
+</item>
+<item>
+<title>FR: DISNEY CINEMA HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/2705.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISNEY CINEMA HD </link>
+</item>
+<item>
+<title>FR: DISNEY CHANNEL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/2706.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISNEY CHANNEL HD </link>
+</item>
+<item>
+<title>FR: Disney Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4722.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney Junior </link>
+</item>
+<item>
+<title>FR: DISNEY XD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4721.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISNEY XD </link>
+</item>
+<item>
+<title>FR: Boomerang HD ( Local)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3286.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Boomerang HD ( Local) </link>
+</item>
+<item>
+<title>FR: Tiji</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4716.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Tiji </link>
+</item>
+<item>
+<title>FR: Piwi</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4718.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Piwi </link>
+</item>
+<item>
+<title>FR| Game One (LOCAL)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4703.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR| Game One (LOCAL) </link>
+</item>
+<item>
+<title>FR.CARTOON NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4727.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.CARTOON NETWORK </link>
+</item>
+<item>
+<title>FR: BOING</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1415.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BOING </link>
+</item>
+<item>
+<title>F.NICKELODEON JUNIOR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4728.ts&amp;streamtype=TSDOWNLOADER&amp;name=F.NICKELODEON JUNIOR </link>
+</item>
+<item>
+<title>FR: NICKELODEON TEEN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4726.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NICKELODEON TEEN </link>
+</item>
+<item>
+<title>FR: TELETOON</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4717.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TELETOON </link>
+</item>
+<item>
+<title>FR: Gulli HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4720.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Gulli HD </link>
+</item>
+<item>
+<title>FR| Canal J (LOCAL)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4706.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR| Canal J (LOCAL) </link>
+</item>
+<item>
+<title>FR: Mangas</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4719.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Mangas </link>
+</item>
+<item>
+<title>FR:PLANETE + ( Local )</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3285.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:PLANETE + ( Local ) </link>
+</item>
+<item>
+<title>FR:PLANETE + CI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4752.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:PLANETE + CI </link>
+</item>
+<item>
+<title>FR:PLANET A&E ( Local )</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3284.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:PLANET A&E ( Local ) </link>
+</item>
+<item>
+<title>FR| ANIMAUX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4700.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR| ANIMAUX </link>
+</item>
+<item>
+<title>FR| Nat Geo Wild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4701.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR| Nat Geo Wild </link>
+</item>
+<item>
+<title>FR:DISCOVERY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3557.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DISCOVERY </link>
+</item>
+<item>
+<title>FR:RMC DECOUVERTE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3562.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:RMC DECOUVERTE </link>
+</item>
+<item>
+<title>FR:SCIENCES&VIE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4725.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SCIENCES&VIE </link>
+</item>
+<item>
+<title>FR|Ushuaia TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4705.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Ushuaia TV </link>
+</item>
+<item>
+<title>FR:VOYAGE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3715.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:VOYAGE </link>
+</item>
+<item>
+<title>FR:SEASON HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/432.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SEASON HD </link>
+</item>
+<item>
+<title>FR: CHASSE ET  PECHE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3974.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CHASSE ET  PECHE HD </link>
+</item>
+<item>
+<title>FR:TREK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/398.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TREK </link>
+</item>
+<item>
+<title>==== MUSIC ====</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3554.ts&amp;streamtype=TSDOWNLOADER&amp;name===== MUSIC ==== </link>
+</item>
+<item>
+<title>VEVO MUSIC LOCAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4738.ts&amp;streamtype=TSDOWNLOADER&amp;name=VEVO MUSIC LOCAL </link>
+</item>
+<item>
+<title>VEVO MUSIC 2 LOCAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4739.ts&amp;streamtype=TSDOWNLOADER&amp;name=VEVO MUSIC 2 LOCAL </link>
+</item>
+<item>
+<title>VEVO MUSIC 3 LOCAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4740.ts&amp;streamtype=TSDOWNLOADER&amp;name=VEVO MUSIC 3 LOCAL </link>
+</item>
+<item>
+<title>FR:MTV BASE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/3282.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MTV BASE </link>
+</item>
+<item>
+<title>FR: MFM ZOUK LOCAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4734.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: MFM ZOUK LOCAL </link>
+</item>
+<item>
+<title>FR: INDIES LIVE MUSIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1992.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: INDIES LIVE MUSIC </link>
+</item>
+<item>
+<title>FR M6 Music</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/396.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR M6 Music </link>
+</item>
+<item>
+<title>==== MOVIE FR ====</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1805.ts&amp;streamtype=TSDOWNLOADER&amp;name===== MOVIE FR ==== </link>
+</item>
+<item>
+<title>FR_A_LA_CARTE_01</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/13954.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A_LA_CARTE_01 </link>
+</item>
+<item>
+<title>FR_A_LA_CARTE_02</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/13955.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A_LA_CARTE_02 </link>
+</item>
+<item>
+<title>FR_A_LA_CARTE_03</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/13956.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A_LA_CARTE_03 </link>
+</item>
+<item>
+<title>FR_A_LA_CARTE_04</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/13957.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A_LA_CARTE_04 </link>
+</item>
+<item>
+<title>FR_A_LA_CARTE_05</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/13958.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A_LA_CARTE_05 </link>
+</item>
+<item>
+<title>FR_A_LA_CARTE_06</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/13959.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A_LA_CARTE_06 </link>
+</item>
+<item>
+<title>FR_A_LA_CARTE_07</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/13960.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A_LA_CARTE_07 </link>
+</item>
+<item>
+<title>FR_A_LA_CARTE_08</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/13961.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A_LA_CARTE_08 </link>
+</item>
+
+
+
+
+
+
+
+
+
+
 
 
 
