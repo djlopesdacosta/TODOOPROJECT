@@ -7,7 +7,7 @@ import common as Common
 import installer
 
 #Community Builds
-Community_List = "http://teamtugawizard.net23.net/Community_List.xml"
+Community_List = "http://projectxwizard.net16.net/Community_List.xml"
 AddonData = xbmc.translatePath('special://userdata/addon_data')
 addon_id = 'plugin.video.projectxwizard'
 FANART = xbmc.translatePath(os.path.join('special://home/addons/' + addon_id , 'fanart.jpg'))

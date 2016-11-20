@@ -49,9 +49,9 @@ def INSTALL(name,url,description):
 		if choice == 0:
 			sys.exit(1)
 			
-	if name == "TOONFLIX":
+	if name == "EURO 2016":
 		wipeme = 1
-		choice = xbmcgui.Dialog().yesno(AddonTitle, 'ToonFlix was designed for Kids. MASTER CODE: 1010','Recomended: Single Core CPU | 1GB RAM or more','[I][COLOR lightsteelblue]Would you like to download this build now?[/I][/COLOR]', yeslabel='[B][COLOR green]YES[/COLOR][/B]',nolabel='[B][COLOR red]NO[/COLOR][/B]')
+		choice = xbmcgui.Dialog().yesno(AddonTitle, 'EURO 2016 was designed for mid-level machines like MX8 & T8.','Recomended: Single Core CPU | 1GB RAM or more','[I][COLOR lightsteelblue]Would you like to download this build now?[/I][/COLOR]', yeslabel='[B][COLOR green]YES[/COLOR][/B]',nolabel='[B][COLOR red]NO[/COLOR][/B]')
 		if choice == 0:
 			sys.exit(1)
 			

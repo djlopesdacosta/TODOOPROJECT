@@ -223,7 +223,7 @@ Nota Importante: Aconselhado a ultima versao do youtube 5.2.*</description>
 
 <addon id="plugin.video.projectxwizard"
 	     name="[COLOR White]Project[/COLOR] [COLOR cyan]X[/COLOR] [COLOR White]Wizard[/COLOR]"
-	     version="0.1.6"
+	     version="0.1.4"
 	     provider-name="TVsupertuga">
   <requires>
   	<import addon="xbmc.python" version="2.1.0"/>
