@@ -25,7 +25,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 19-11-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 21-11-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
@@ -35,321 +35,523 @@
 
 
 
-<item>
-<title>IT: Sky Sport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/493.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Sport 1 HD </link>
-</item>
-<item>
-<title>IT: Sky Sport 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/492.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Sport 2 HD </link>
-</item>
-<item>
-<title>Sky Sport 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/569.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 2 HD </link>
-</item>
-<item>
-<title>Sky Sport 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/567.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 3 HD </link>
-</item>
-<item>
-<title>IT: Sky Sport 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/491.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Sport 24 </link>
-</item>
-<item>
-<title>Sky Sport 24 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/568.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 24 HD </link>
-</item>
-<item>
-<title>IT: Sky Calcio 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/501.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Calcio 1 HD </link>
-</item>
-<item>
-<title>IT: Sky Calcio 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Calcio 2 </link>
-</item>
-<item>
-<title>Sky Sport F1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/566.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport F1 HD </link>
-</item>
-<item>
-<title>IT: Sky Sport MotoGP HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/631.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Sport MotoGP HD </link>
-</item>
-<item>
-<title>IT: Sky Super tennis HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/490.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Super tennis HD </link>
-</item>
-<item>
-<title>IT: SKY CINEMA 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/498.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY CINEMA 1 HD </link>
-</item>
-<item>
-<title>IT: Sky Cinema Max HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/495.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema Max HD </link>
-</item>
-<item>
-<title>IT: Sky Cinema Cult HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/497.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema Cult HD </link>
-</item>
-<item>
-<title>IT: Sky Cinema Hits</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/628.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema Hits </link>
-</item>
-<item>
-<title>IT: Sky Cinema Classics HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/629.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema Classics HD </link>
-</item>
-<item>
-<title>IT:Premium Studio Universal</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/779.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Studio Universal </link>
-</item>
-<item>
-<title>IT:Premium Sport HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/778.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Sport HD </link>
-</item>
-<item>
-<title>IT:Premium Joi</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/780.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Joi </link>
-</item>
-<item>
-<title>IT:Premium EuroSport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/786.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium EuroSport 1 HD </link>
-</item>
-<item>
-<title>IT:Premium EuroSport 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/787.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium EuroSport 2 HD </link>
-</item>
-<item>
-<title>IT:Premium Energy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/788.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Energy </link>
-</item>
-<item>
-<title>IT:Premium Emotion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/789.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Emotion </link>
-</item>
-<item>
-<title>IT:Premium Disney Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/791.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Disney Junior </link>
-</item>
-<item>
-<title>IT:Premium Disney Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/792.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Disney Channel </link>
-</item>
-<item>
-<title>IT:Premium Discovery World</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/801.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Discovery World </link>
-</item>
-<item>
-<title>IT:Premium Crime</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/793.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Crime </link>
-</item>
-<item>
-<title>IT:Premium Comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/794.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Comedy </link>
-</item>
-<item>
-<title>IT:Premium Cinema 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/797.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Cinema 2 HD </link>
-</item>
-<item>
-<title>IT:Premium Cinema Plus 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/795.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Cinema Plus 24 </link>
-</item>
-<item>
-<title>IT:Premium Cinema</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/796.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Cinema </link>
-</item>
-<item>
-<title>IT:Premium Cartoon Network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/790.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Cartoon Network </link>
-</item>
-<item>
-<title>IT:Premium Calcio HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/782.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Calcio HD </link>
-</item>
-<item>
-<title>IT:Premium Calcio 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/783.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Calcio 1 HD </link>
-</item>
-<item>
-<title>IT:Premium Calcio 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/784.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Calcio 2 </link>
-</item>
-<item>
-<title>IT:Premium Calcio 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/785.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Calcio 3 </link>
-</item>
-<item>
-<title>IT:Premium Calcio</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/781.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Calcio </link>
-</item>
-<item>
-<title>IT:Premium BBC Knowledge</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/798.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium BBC Knowledge </link>
-</item>
-<item>
-<title>IT:Premium BBC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/799.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium BBC </link>
-</item>
-<item>
-<title>IT:Premium Action HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/800.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Action HD </link>
-</item>
-<item>
-<title>IT: RSI La 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/633.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RSI La 1 HD </link>
-</item>
-<item>
-<title>IT: RSI La 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/632.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RSI La 2 </link>
-</item>
-<item>
-<title>IT: Rai Sport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/627.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai Sport 1 </link>
-</item>
-<item>
-<title>IT: Rai Sport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/630.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai Sport 2 </link>
-</item>
-<item>
-<title>IT: RAI PREMIUM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/626.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RAI PREMIUM </link>
-</item>
-<item>
-<title>IT: Rai 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/510.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai 1 </link>
-</item>
-<item>
-<title>IT: RAI 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/623.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RAI 2 HD </link>
-</item>
-<item>
-<title>IT: RAI 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/624.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RAI 3 HD </link>
-</item>
-<item>
-<title>IT: Rai 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/625.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai 4 </link>
-</item>
-<item>
-<title>IT: National Geo HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/634.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: National Geo HD </link>
-</item>
-<item>
-<title>IT: NatGeo Wild HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/635.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: NatGeo Wild HD </link>
-</item>
-<item>
-<title>IT: NatGeo People HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/636.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: NatGeo People HD </link>
-</item>
-<item>
-<title>IT: Milan Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/637.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Milan Channel </link>
-</item>
-<item>
-<title>IT: Mediaset Italia due</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/638.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Mediaset Italia due </link>
-</item>
-<item>
-<title>IT:JUVE_CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/639.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:JUVE_CHANNEL </link>
-</item>
-<item>
-<title>IT:Italia_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/640.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Italia_1 </link>
-</item>
-<item>
-<title>IT:Inter</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/641.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Inter </link>
-</item>
-<item>
-<title>IT:FOX_SPORT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/643.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:FOX_SPORT </link>
-</item>
-<item>
-<title>IT: Fox Crime HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/645.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Fox Crime HD </link>
-</item>
-<item>
-<title>IT:Fox_Comedy_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/646.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Fox_Comedy_HD </link>
-</item>
-<item>
-<title>IT:Disney_Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/648.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Disney_Junior </link>
-</item>
-<item>
-<title>IT: Discovery World</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/649.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Discovery World </link>
-</item>
-<item>
-<title>IT: Discovery Sci HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/650.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Discovery Sci HD </link>
-</item>
-<item>
-<title>IT: Discovery HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/651.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Discovery HD </link>
-</item>
-<item>
-<title>IT: CARTOONITO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/652.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: CARTOONITO </link>
-</item>
-<item>
-<title>IT: CARTOON NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/653.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: CARTOON NETWORK </link>
-</item>
-<item>
-<title>IT: Canale 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/654.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Canale 5 </link>
-</item>
-<item>
-<title>IT: Boing</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/655.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Boing </link>
-</item>
-<item>
-<title>IT: AXN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/656.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: AXN </link>
-</item>
-<item>
-<title>IT: Prima Fila 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/618.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Prima Fila 3 HD </link>
-</item>
-<item>
-<title>IT: Prima Fila 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/619.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Prima Fila 4 HD </link>
-</item>
-<item>
-<title>IT: Prima Fila 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/620.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Prima Fila 5 HD </link>
-</item>
-<item>
-<title>PRIMAFILA 6 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/560.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIMAFILA 6 HD </link>
-</item>
-<item>
-<title>PRIMAFILA 7 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/559.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIMAFILA 7 HD </link>
-</item>
-<item>
-<title>IT: Prima Fila 8 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/621.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Prima Fila 8 HD </link>
-</item>
-<item>
-<title>IT: Prima Fila 9 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/622.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Prima Fila 9 HD </link>
-</item>
-<item>
-<title>IT:_Prima_Fila_10</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/2631.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:_Prima_Fila_10 </link>
-</item>
-<item>
-<title>IT:_Prima_Fila_12</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/2632.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:_Prima_Fila_12 </link>
-</item>
 
 
 
+
+
+
+
+
+
+<item>
+<title>IT=Premium_Cinema_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/657.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Premium_Cinema_HD </link>
+</item>
+<item>
+<title>IT=Premium_Cinema+24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/647.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Premium_Cinema+24 </link>
+</item>
+<item>
+<title>IT=Premium_Cinema2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/658.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Premium_Cinema2_HD </link>
+</item>
+<item>
+<title>IT=Premium_Cinema2+24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/911.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Premium_Cinema2+24 </link>
+</item>
+<item>
+<title>IT=PremiumJoi</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/643.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=PremiumJoi </link>
+</item>
+<item>
+<title>IT=PremiumCrimeHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/655.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=PremiumCrimeHD </link>
+</item>
+<item>
+<title>IT=premiumCrime24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/910.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=premiumCrime24 </link>
+</item>
+<item>
+<title>IT=PremiumEnergy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/650.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=PremiumEnergy </link>
+</item>
+<item>
+<title>IT=PREMIUM CINEMA EMOTION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/651.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=PREMIUM CINEMA EMOTION </link>
+</item>
+<item>
+<title>IT=PremiumComedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/656.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=PremiumComedy </link>
+</item>
+<item>
+<title>IT=Premium_Stories</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/1248.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Premium_Stories </link>
+</item>
+<item>
+<title>IT=PremiumStudio_Universal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/660.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=PremiumStudio_Universal </link>
+</item>
+<item>
+<title>IT=Crime_Investigation_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/563.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Crime_Investigation_HD </link>
+</item>
+<item>
+<title>IT=PremiumDisneyJunior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/652.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=PremiumDisneyJunior </link>
+</item>
+<item>
+<title>IT=PremiumDisneyChannel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/653.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=PremiumDisneyChannel </link>
+</item>
+<item>
+<title>IT=PremiumAction</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/646.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=PremiumAction </link>
+</item>
+<item>
+<title>IT=SkyCinema1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/601.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkyCinema1HD </link>
+</item>
+<item>
+<title>IT=SkyCinema_Max</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/678.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkyCinema_Max </link>
+</item>
+<item>
+<title>IT=SkyCinema_Hits</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/599.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkyCinema_Hits </link>
+</item>
+<item>
+<title>IT=Sky_Cinema_Family_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/603.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Sky_Cinema_Family_HD </link>
+</item>
+<item>
+<title>IT=SkyCinema_Passion</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/602.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkyCinema_Passion </link>
+</item>
+<item>
+<title>IT=Sky Cinema Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/1105.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Sky Cinema Comedy </link>
+</item>
+<item>
+<title>IT=SkyCinema_Classic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/600.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkyCinema_Classic </link>
+</item>
+<item>
+<title>IT=Sky_Cinema_Cult_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/639.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Sky_Cinema_Cult_HD </link>
+</item>
+<item>
+<title>IT=SKY Atlantic HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/580.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SKY Atlantic HD </link>
+</item>
+<item>
+<title>IT=Sky_Cinema_3D</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/1163.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Sky_Cinema_3D </link>
+</item>
+<item>
+<title>IT=MediasatExtra</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/553.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=MediasatExtra </link>
+</item>
+<item>
+<title>IT=Rai1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/586.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Rai1 </link>
+</item>
+<item>
+<title>IT=Rai2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/587.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Rai2 </link>
+</item>
+<item>
+<title>IT=Rai3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/588.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Rai3 </link>
+</item>
+<item>
+<title>IT=Rai4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/589.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Rai4 </link>
+</item>
+<item>
+<title>IT=Rai5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/590.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Rai5 </link>
+</item>
+<item>
+<title>IT=Italia1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/619.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Italia1 </link>
+</item>
+<item>
+<title>IT=RETE 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/674.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=RETE 4 HD </link>
+</item>
+<item>
+<title>IT=Canale5_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/680.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Canale5_HD </link>
+</item>
+<item>
+<title>IT=Italia 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/1107.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Italia 2 </link>
+</item>
+<item>
+<title>IT=RSI_La1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/608.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=RSI_La1 </link>
+</item>
+<item>
+<title>IT=RSI_La2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/607.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=RSI_La2 </link>
+</item>
+<item>
+<title>IT=SkyUno</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/640.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkyUno </link>
+</item>
+<item>
+<title>IT=Cielo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/679.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Cielo </link>
+</item>
+<item>
+<title>IT=SkyPrimafila1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkyPrimafila1 </link>
+</item>
+<item>
+<title>IT=SkyPrimafila2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/671.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkyPrimafila2 </link>
+</item>
+<item>
+<title>IT=SkyPrimafila3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/670.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkyPrimafila3 </link>
+</item>
+<item>
+<title>IT=SkyPrimafila4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/669.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkyPrimafila4 </link>
+</item>
+<item>
+<title>IT=SkyPrimafila5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/668.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkyPrimafila5 </link>
+</item>
+<item>
+<title>IT=SkyPrimafila6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/667.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkyPrimafila6 </link>
+</item>
+<item>
+<title>IT=SkyPrimafila7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/666.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkyPrimafila7 </link>
+</item>
+<item>
+<title>IT=SkyPrimafila8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/665.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkyPrimafila8 </link>
+</item>
+<item>
+<title>IT=SkyPrimafila9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/664.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkyPrimafila9 </link>
+</item>
+<item>
+<title>IT=SkyPrimafila10</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/672.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkyPrimafila10 </link>
+</item>
+<item>
+<title>IT=SkyPrimafila_WWE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/1104.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkyPrimafila_WWE </link>
+</item>
+<item>
+<title>IT=SkyPrimafila12</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/1106.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkyPrimafila12 </link>
+</item>
+<item>
+<title>IT=Fox</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/634.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Fox </link>
+</item>
+<item>
+<title>IT=FoxLife</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/676.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=FoxLife </link>
+</item>
+<item>
+<title>IT=Fox_Crime_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/675.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Fox_Crime_HD </link>
+</item>
+<item>
+<title>IT=FoxComedyHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/626.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=FoxComedyHD </link>
+</item>
+<item>
+<title>IT=TG Norba 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/611.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=TG Norba 24 </link>
+</item>
+<item>
+<title>IT=RaiNews24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=RaiNews24 </link>
+</item>
+<item>
+<title>IT=History</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/629.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=History </link>
+</item>
+<item>
+<title>IT=Gambero Rosso</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/559.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Gambero Rosso </link>
+</item>
+<item>
+<title>IT=Caccia_e_Pesca</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/1548.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Caccia_e_Pesca </link>
+</item>
+<item>
+<title>IT=Boing</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/631.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Boing </link>
+</item>
+<item>
+<title>IT=AXN_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/630.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=AXN_HD </link>
+</item>
+<item>
+<title>IT=Alice</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/567.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Alice </link>
+</item>
+<item>
+<title>IT=DiscoveryFocus</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/560.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=DiscoveryFocus </link>
+</item>
+<item>
+<title>IT=DMAX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/622.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=DMAX </link>
+</item>
+<item>
+<title>IT=SkyTG24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/641.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkyTG24 </link>
+</item>
+<item>
+<title>IT=Pesca_e_Caccia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/546.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Pesca_e_Caccia </link>
+</item>
+<item>
+<title>IT=AnimalPlanet</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/566.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=AnimalPlanet </link>
+</item>
+<item>
+<title>IT=NatGeoWild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/636.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=NatGeoWild </link>
+</item>
+<item>
+<title>IT=National_Geo_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/633.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=National_Geo_HD </link>
+</item>
+<item>
+<title>IT=DiscoveryT&L</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/558.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=DiscoveryT&L </link>
+</item>
+<item>
+<title>IT=DiscoverySci_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/562.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=DiscoverySci_HD </link>
+</item>
+<item>
+<title>IT=Discovery_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/638.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Discovery_HD </link>
+</item>
+<item>
+<title>IT=CARTOON  NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/659.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=CARTOON  NETWORK </link>
+</item>
+<item>
+<title>IT=TOP_CRIME</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/554.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=TOP_CRIME </link>
+</item>
+<item>
+<title>IT=Super!</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/541.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Super! </link>
+</item>
+<item>
+<title>IT=RaiGulp</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/545.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=RaiGulp </link>
+</item>
+<item>
+<title>IT=Rai_Yoyo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/542.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Rai_Yoyo </link>
+</item>
+<item>
+<title>IT=RaiMovie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/625.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=RaiMovie </link>
+</item>
+<item>
+<title>IT=RaiPremium</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/543.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=RaiPremium </link>
+</item>
+<item>
+<title>IT=LA5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/637.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=LA5 </link>
+</item>
+<item>
+<title>IT=La7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/618.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=La7 </link>
+</item>
+<item>
+<title>IT= Bike Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/1545.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT= Bike Channel </link>
+</item>
+<item>
+<title>IT=Teleticino</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/583.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Teleticino </link>
+</item>
+<item>
+<title>IT=MARCO POLO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/627.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=MARCO POLO </link>
+</item>
+<item>
+<title>IT=Mediaset Iris</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/620.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Mediaset Iris </link>
+</item>
+<item>
+<title>IT=Giallo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/585.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Giallo </link>
+</item>
+<item>
+<title>IT=Cartoonito</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/565.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Cartoonito </link>
+</item>
+<item>
+<title>IT=Rai sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/615.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Rai sport 1 </link>
+</item>
+<item>
+<title>IT=RAI SPORT 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/632.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=RAI SPORT 2 </link>
+</item>
+<item>
+<title>IT=SkySport1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/591.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkySport1HD </link>
+</item>
+<item>
+<title>IT=SkySport2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/592.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkySport2HD </link>
+</item>
+<item>
+<title>IT=SkySport3HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/593.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkySport3HD </link>
+</item>
+<item>
+<title>IT=SkySuperCalcio</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/642.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkySuperCalcio </link>
+</item>
+<item>
+<title>IT=SkySport24HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/595.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkySport24HD </link>
+</item>
+<item>
+<title>IT=SkySportF1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/594.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkySportF1HD </link>
+</item>
+<item>
+<title>IT=SkySportPlusHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/685.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkySportPlusHD </link>
+</item>
+<item>
+<title>IT=Sky Moto GP HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/598.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Sky Moto GP HD </link>
+</item>
+<item>
+<title>IT=FOX_Sport_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/621.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=FOX_Sport_HD </link>
+</item>
+<item>
+<title>IT=SPORT_ITALIA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/1174.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SPORT_ITALIA </link>
+</item>
+<item>
+<title>IT=Super_Tennis</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/624.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=Super_Tennis </link>
+</item>
+<item>
+<title>IT=SkyCalcio1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/596.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkyCalcio1 </link>
+</item>
+<item>
+<title>IT=SkyCalcio2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/597.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkyCalcio2 </link>
+</item>
+<item>
+<title>IT=SkyCalcio3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/574.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkyCalcio3 </link>
+</item>
+<item>
+<title>IT=SkyCalcio4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/573.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkyCalcio4 </link>
+</item>
+<item>
+<title>IT=SkyCalcio5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/572.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkyCalcio5 </link>
+</item>
+<item>
+<title>IT=SkyCalcio6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/571.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SkyCalcio6 </link>
+</item>
+<item>
+<title>IT=SKYCalcio7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/570.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SKYCalcio7 </link>
+</item>
+<item>
+<title>IT=SKYCalcio8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/569.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SKYCalcio8 </link>
+</item>
+<item>
+<title>IT=SKYCalcio9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/568.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SKYCalcio9 </link>
+</item>
+<item>
+<title>IT=SKYCalcio10</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/575.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=SKYCalcio10 </link>
+</item>
+<item>
+<title>IT=PremiumSport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/616.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=PremiumSport </link>
+</item>
+<item>
+<title>IT=PremiumSport2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/1176.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=PremiumSport2 </link>
+</item>
+<item>
+<title>IT=PremiumCalcio</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/662.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=PremiumCalcio </link>
+</item>
+<item>
+<title>IT=PremiumCalcioHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/617.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=PremiumCalcioHD </link>
+</item>
+<item>
+<title>IT=PremiumCalcio1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/661.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=PremiumCalcio1 </link>
+</item>
+<item>
+<title>IT=PremiumCalcio3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/648.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=PremiumCalcio3 </link>
+</item>
+<item>
+<title>IT=PremiumCalcio2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/649.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=PremiumCalcio2 </link>
+</item>
+<item>
+<title>IT=PremiumCalcio4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/894.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=PremiumCalcio4 </link>
+</item>
+<item>
+<title>IT=PremiumCalcio5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/895.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=PremiumCalcio5 </link>
+</item>
+<item>
+<title>IT=PremiumCalcio6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/896.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=PremiumCalcio6 </link>
+</item>
+<item>
+<title>IT=PremiumCalcio7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/1247.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=PremiumCalcio7 </link>
+</item>
+<item>
+<title>IT=PremiumEuroSport1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/645.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=PremiumEuroSport1 </link>
+</item>
+<item>
+<title>IT=PremiumEuroSport2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/644.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=PremiumEuroSport2 </link>
+</item>
+<item>
+<title>IT=InterChannel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/579.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=InterChannel </link>
+</item>
+<item>
+<title>IT=TV 2000</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/marinko/marinko/577.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT=TV 2000 </link>
+</item>
 
 
 
