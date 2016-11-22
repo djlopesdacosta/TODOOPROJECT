@@ -945,10 +945,90 @@ http://ftv.ftgrm.me:8082/spo1624ha/750/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="PORTUGAL TESTE",[COLOR blue][I][B] PORTUGAL[/B][/I][/COLOR]
+http://0.0.0.0:1234 (TVSUPERTUGA)
 
 
-
-
+#EXTINF:-1, RTP 1 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/427.m3u8
+#EXTINF:-1, RTP 1
+http://vidash2.dtdns.net:8007/live/chico/chico/154.m3u8
+#EXTINF:-1, RTP 2
+http://vidash2.dtdns.net:8007/live/chico/chico/155.m3u8
+#EXTINF:-1, Sic
+http://vidash2.dtdns.net:8007/live/chico/chico/158.m3u8
+#EXTINF:-1, TVI
+http://vidash2.dtdns.net:8007/live/chico/chico/159.m3u8
+#EXTINF:-1, RTP 3
+http://vidash2.dtdns.net:8007/live/chico/chico/156.m3u8
+#EXTINF:-1, Sport TV 1 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/234.m3u8
+#EXTINF:-1, Sport TV 1
+http://vidash2.dtdns.net:8007/live/chico/chico/163.m3u8
+#EXTINF:-1, Sport TV 2 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/464.m3u8
+#EXTINF:-1, Sport TV 2
+http://vidash2.dtdns.net:8007/live/chico/chico/164.m3u8
+#EXTINF:-1, Sport TV 3
+http://vidash2.dtdns.net:8007/live/chico/chico/165.m3u8
+#EXTINF:-1, Sport TV 4
+http://vidash2.dtdns.net:8007/live/chico/chico/465.m3u8
+#EXTINF:-1, Benfica TV 1 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/452.m3u8
+#EXTINF:-1, Real Madrid
+http://vidash2.dtdns.net:8007/live/chico/chico/153.m3u8
+#EXTINF:-1, Hollywood
+http://vidash2.dtdns.net:8007/live/chico/chico/150.m3u8
+#EXTINF:-1, TVC 1
+http://vidash2.dtdns.net:8007/live/chico/chico/166.m3u8
+#EXTINF:-1, TVC 2
+http://vidash2.dtdns.net:8007/live/chico/chico/167.m3u8
+#EXTINF:-1, TVC 3
+http://vidash2.dtdns.net:8007/live/chico/chico/168.m3u8
+#EXTINF:-1, TVC 4
+http://vidash2.dtdns.net:8007/live/chico/chico/169.m3u8
+#EXTINF:-1, TVSeries
+http://vidash2.dtdns.net:8007/live/chico/chico/170.m3u8
+#EXTINF:-1, Fox HD
+http://vidash2.dtdns.net:8007/live/chico/chico/238.m3u8
+#EXTINF:-1, Fox Crime HD
+http://vidash2.dtdns.net:8007/live/chico/chico/450.m3u8
+#EXTINF:-1, Fox Comedy
+http://vidash2.dtdns.net:8007/live/chico/chico/239.m3u8
+#EXTINF:-1, AXN HD
+http://vidash2.dtdns.net:8007/live/chico/chico/236.m3u8
+#EXTINF:-1, Axn White HD
+http://vidash2.dtdns.net:8007/live/chico/chico/454.m3u8
+#EXTINF:-1, Axn Black HD
+http://vidash2.dtdns.net:8007/live/chico/chico/453.m3u8
+#EXTINF:-1, Canal Panda
+http://vidash2.dtdns.net:8007/live/chico/chico/147.m3u8
+#EXTINF:-1, Disney Junior
+http://vidash2.dtdns.net:8007/live/chico/chico/443.m3u8
+#EXTINF:-1, Disney Channel
+http://vidash2.dtdns.net:8007/live/chico/chico/280.m3u8
+#EXTINF:-1, Cartoon Network
+http://vidash2.dtdns.net:8007/live/chico/chico/444.m3u8
+#EXTINF:-1, Odisseia
+http://vidash2.dtdns.net:8007/live/chico/chico/151.m3u8
+#EXTINF:-1, CMTV
+http://vidash2.dtdns.net:8007/live/chico/chico/148.m3u8
+#EXTINF:-1, Abola TV
+http://vidash2.dtdns.net:8007/live/chico/chico/146.m3u8
+#EXTINF:-1, Porto Canal
+http://vidash2.dtdns.net:8007/live/chico/chico/152.m3u8
+#EXTINF:-1, RTP Africa
+http://vidash2.dtdns.net:8007/live/chico/chico/157.m3u8
+#EXTINF:-1, Sic Radical
+http://vidash2.dtdns.net:8007/live/chico/chico/162.m3u8
+#EXTINF:-1, Sic Noticias
+http://vidash2.dtdns.net:8007/live/chico/chico/161.m3u8
+#EXTINF:-1, Sic Caras
+http://vidash2.dtdns.net:8007/live/chico/chico/160.m3u8
+#EXTINF:-1, TVI24
+http://vidash2.dtdns.net:8007/live/chico/chico/171.m3u8
+#EXTINF:-1, TVI Ficcao
+http://vidash2.dtdns.net:8007/live/chico/chico/172.m3u8
 
 
 
@@ -1360,7 +1440,124 @@ http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
 http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
 
 
-
+#EXTINF:-1, M6 Music
+http://vidash2.dtdns.net:8007/live/chico/chico/303.m3u8
+#EXTINF:-1, NRJ HIm3u8
+http://vidash2.dtdns.net:8007/live/chico/chico/306.m3u8
+#EXTINF:-1, AB MOTEURS
+http://vidash2.dtdns.net:8007/live/chico/chico/328.m3u8
+#EXTINF:-1, SYFY HD
+http://vidash2.dtdns.net:8007/live/chico/chico/402.m3u8
+#EXTINF:-1, Animaux
+http://vidash2.dtdns.net:8007/live/chico/chico/337.m3u8
+#EXTINF:-1, SEASON HD
+http://vidash2.dtdns.net:8007/live/chico/chico/398.m3u8
+#EXTINF:-1, Discovery
+http://vidash2.dtdns.net:8007/live/chico/chico/332.m3u8
+#EXTINF:-1, CARTOON NETWORK HD
+http://vidash2.dtdns.net:8007/live/chico/chico/368.m3u8
+#EXTINF:-1, NICKELODEON
+http://vidash2.dtdns.net:8007/live/chico/chico/372.m3u8
+#EXTINF:-1, TCM_CINEMA
+http://vidash2.dtdns.net:8007/live/chico/chico/286.m3u8
+#EXTINF:-1, CINE PREMIERE HD
+http://vidash2.dtdns.net:8007/live/chico/chico/281.m3u8
+#EXTINF:-1, FRANCE Ô
+http://vidash2.dtdns.net:8007/live/chico/chico/345.m3u8
+#EXTINF:-1, FRANCE 5 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/346.m3u8
+#EXTINF:-1, FRANCE 4 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/342.m3u8
+#EXTINF:-1, FRANCE 3 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/341.m3u8
+#EXTINF:-1, FRANCE 2 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/340.m3u8
+#EXTINF:-1, SERIE CLUB HD
+http://vidash2.dtdns.net:8007/live/chico/chico/375.m3u8
+#EXTINF:-1, COMEDIE +
+http://vidash2.dtdns.net:8007/live/chico/chico/361.m3u8
+#EXTINF:-1, PARIS PREMIERE HD
+http://vidash2.dtdns.net:8007/live/chico/chico/394.m3u8
+#EXTINF:-1, Nat Geo Wild
+http://vidash2.dtdns.net:8007/live/chico/chico/377.m3u8
+#EXTINF:-1, USHUAIA
+http://vidash2.dtdns.net:8007/live/chico/chico/385.m3u8
+#EXTINF:-1, Boomerang HD
+http://vidash2.dtdns.net:8007/live/chico/chico/363.m3u8
+#EXTINF:-1, CINE  FAMIZ HD
+http://vidash2.dtdns.net:8007/live/chico/chico/285.m3u8
+#EXTINF:-1, CHERIE25 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/384.m3u8
+#EXTINF:-1, OCS Geanm3u8 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/291.m3u8
+#EXTINF:-1, CINE FX
+http://vidash2.dtdns.net:8007/live/chico/chico/288.m3u8
+#EXTINF:-1, beIN SPORm3u8 3 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/326.m3u8
+#EXTINF:-1, BeIN SPORm3u8 2 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/325.m3u8
+#EXTINF:-1, beIN SPORm3u8 1 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/324.m3u8
+#EXTINF:-1, CANAL  SPORT HD
+http://vidash2.dtdns.net:8007/live/chico/chico/323.m3u8
+#EXTINF:-1, CANAL  HD
+http://vidash2.dtdns.net:8007/live/chico/chico/355.m3u8
+#EXTINF:-1, CANAL  FAMILY HD
+http://vidash2.dtdns.net:8007/live/chico/chico/356.m3u8
+#EXTINF:-1, CANAL  DECALE HD
+http://vidash2.dtdns.net:8007/live/chico/chico/359.m3u8
+#EXTINF:-1, CANAL  CINEMA HD
+http://vidash2.dtdns.net:8007/live/chico/chico/358.m3u8
+#EXTINF:-1, CINE Frisson HD
+http://vidash2.dtdns.net:8007/live/chico/chico/282.m3u8
+#EXTINF:-1, CINE EMOTION HD
+http://vidash2.dtdns.net:8007/live/chico/chico/283.m3u8
+#EXTINF:-1, CINE  CLASSIC HD
+http://vidash2.dtdns.net:8007/live/chico/chico/284.m3u8
+#EXTINF:-1, SFR SPORT 3
+http://vidash2.dtdns.net:8007/live/chico/chico/318.m3u8
+#EXTINF:-1, SFR SPORT 2
+http://vidash2.dtdns.net:8007/live/chico/chico/317.m3u8
+#EXTINF:-1, SFR SPORT 1
+http://vidash2.dtdns.net:8007/live/chico/chico/316.m3u8
+#EXTINF:-1, HD1 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/338.m3u8
+#EXTINF:-1, M6 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/347.m3u8
+#EXTINF:-1, PLANETE CI HD
+http://vidash2.dtdns.net:8007/live/chico/chico/382.m3u8
+#EXTINF:-1, NRJ12 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/308.m3u8
+#EXTINF:-1, OCS MAX HD
+http://vidash2.dtdns.net:8007/live/chico/chico/290.m3u8
+#EXTINF:-1, OCS CITY HD
+http://vidash2.dtdns.net:8007/live/chico/chico/292.m3u8
+#EXTINF:-1, OCS CHOC
+http://vidash2.dtdns.net:8007/live/chico/chico/399.m3u8
+#EXTINF:-1, TF1 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/339.m3u8
+#EXTINF:-1, W9 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/350.m3u8
+#EXTINF:-1, TMC HD
+http://vidash2.dtdns.net:8007/live/chico/chico/351.m3u8
+#EXTINF:-1, A LA CARTE 1
+http://vidash2.dtdns.net:8007/live/chico/chico/293.m3u8
+#EXTINF:-1, A LA CARTE 2
+http://vidash2.dtdns.net:8007/live/chico/chico/294.m3u8
+#EXTINF:-1, A LA CARTE 3
+http://vidash2.dtdns.net:8007/live/chico/chico/295.m3u8
+#EXTINF:-1, A LA CARTE 4
+http://vidash2.dtdns.net:8007/live/chico/chico/296.m3u8
+#EXTINF:-1, A LA CARTE 5
+http://vidash2.dtdns.net:8007/live/chico/chico/297.m3u8
+#EXTINF:-1, A LA CARTE 6
+http://vidash2.dtdns.net:8007/live/chico/chico/298.m3u8
+#EXTINF:-1, A LA CARTE 7
+http://vidash2.dtdns.net:8007/live/chico/chico/476.m3u8
+#EXTINF:-1, A LA CARTE 8
+http://vidash2.dtdns.net:8007/live/chico/chico/477.m3u8
+#EXTINF:-1, A LA CARTE 9
+http://vidash2.dtdns.net:8007/live/chico/chico/478.m3u8
 
 
 
