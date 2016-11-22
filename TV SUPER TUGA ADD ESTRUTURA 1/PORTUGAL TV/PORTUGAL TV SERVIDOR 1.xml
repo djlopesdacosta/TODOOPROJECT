@@ -23,7 +23,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 13-11-16 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 22-11-16 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -36,626 +36,323 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 <item>
-<title>PT: RTP 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12518.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1 HD </link>
+<title>PT: VH1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1640.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VH1 </link>
 </item>
 <item>
-<title>PT: RTP 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12519.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2 HD </link>
+<title>PT: VEVO 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1637.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VEVO 3 HD </link>
 </item>
 <item>
-<title>PT: RTP 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12520.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 3 HD </link>
+<title>PT: VEVO 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1636.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VEVO 2 HD </link>
 </item>
 <item>
-<title>PT: RTP AFRICA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/13968.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP AFRICA </link>
+<title>PT: VEVO 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1635.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VEVO 1 HD </link>
 </item>
 <item>
-<title>PT: SIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12535.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC </link>
-</item>
-<item>
-<title>PT: TVI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12527.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI </link>
-</item>
-<item>
-<title>PT: TVI Ficcao</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12530.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI Ficcao </link>
-</item>
-<item>
-<title>PT:RTP AFRICA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4741.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP AFRICA </link>
-</item>
-<item>
-<title>PT:TCV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/2036.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TCV </link>
-</item>
-<item>
-<title>PT: TV GLOBO PREMIUM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12510.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO PREMIUM </link>
-</item>
-<item>
-<title>PT: TV GLOBO PORTUGAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12521.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO PORTUGAL </link>
-</item>
-<item>
-<title>PT:TV RECORD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1849.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV RECORD </link>
-</item>
-<item>
-<title>PT: RTP MADEIRA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12522.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP MADEIRA </link>
-</item>
-<item>
-<title>PT: RTP ACORES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12523.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP ACORES </link>
-</item>
-<item>
-<title>PT:CMTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/2310.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CMTV </link>
-</item>
-<item>
-<title>PT: SIC NOTICIAS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12531.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC NOTICIAS </link>
+<title>PT: TVI FICCAO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1647.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI FICCAO </link>
 </item>
 <item>
 <title>PT: TVI 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12528.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24 </link>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1642.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24 </link>
 </item>
 <item>
-<title>PT: SIC RADICAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12533.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC RADICAL </link>
+<title>PT: TVCseries</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1705.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCseries </link>
 </item>
 <item>
-<title>PT: SIC CARAS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12532.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC CARAS </link>
+<title>PT: TVCINE 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1651.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 4 HD </link>
 </item>
 <item>
-<title>PT: SIC  MULHER</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12534.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC  MULHER </link>
+<title>PT: TVCINE 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1650.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 3 HD </link>
 </item>
 <item>
-<title>==== PORTUGAL CINEMA ====</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12498.ts&amp;streamtype=TSDOWNLOADER&amp;name===== PORTUGAL CINEMA ==== </link>
+<title>PT: TVCINE 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1649.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 2 HD </link>
 </item>
 <item>
-<title>PT: TV CINE 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12499.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 1 </link>
+<title>PT: TVCINE 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1648.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 1 HD </link>
 </item>
 <item>
-<title>PT: TV CINE 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12500.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 2 </link>
+<title>PT: TV SERIES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1643.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV SERIES </link>
 </item>
 <item>
-<title>PT: TV CINE 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12501.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 3 </link>
+<title>PT: TV RECORD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1644.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV RECORD </link>
 </item>
 <item>
-<title>PT: TV CINE 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12502.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 4 </link>
+<title>PT: TV GLOBO PREMIUN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1645.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO PREMIUN </link>
 </item>
 <item>
-<title>PT: TV CINE 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12503.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 5 </link>
+<title>PT: TV GLOBO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1646.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO </link>
 </item>
 <item>
-<title>PT: TVC SERIES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12529.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVC SERIES </link>
+<title>PT: TRAVEL CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1652.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TRAVEL CHANNEL </link>
 </item>
 <item>
-<title>PT: FOX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12512.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX HD </link>
+<title>PT: TPA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1638.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TPA </link>
 </item>
 <item>
-<title>PT: FOXLIFE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12511.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOXLIFE </link>
+<title>PT: SYFY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1639.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SYFY </link>
 </item>
 <item>
-<title>PT: FOX MOVIES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12508.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX MOVIES </link>
+<title>PT: SPORTING TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1659.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTING TV HD </link>
 </item>
 <item>
-<title>PT: FOX CRIME</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12507.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX CRIME </link>
+<title>PT: SPORT TV 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1657.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 5 </link>
 </item>
 <item>
-<title>PT: FOX COMEDY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12509.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX COMEDY </link>
+<title>PT: SPORT TV 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1656.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 4 </link>
 </item>
 <item>
-<title>PT: MOV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12504.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD </link>
-</item>
-<item>
-<title>PT: CINE MUNDO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12505.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CINE MUNDO </link>
-</item>
-<item>
-<title>PT: CANAL HOLLYWOOD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12495.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL HOLLYWOOD </link>
-</item>
-<item>
-<title>PT: AXN WHITE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12515.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN WHITE HD </link>
-</item>
-<item>
-<title>PT: AXN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12514.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD </link>
-</item>
-<item>
-<title>PT: AXN BLACK HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12516.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN BLACK HD </link>
-</item>
-<item>
-<title>==== PORTUGAL CULTURE ====</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12497.ts&amp;streamtype=TSDOWNLOADER&amp;name===== PORTUGAL CULTURE ==== </link>
-</item>
-<item>
-<title>PT: DISCOVERY-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12490.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISCOVERY-HD </link>
-</item>
-<item>
-<title>PT: NATGEOWILD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12491.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NATGEOWILD </link>
-</item>
-<item>
-<title>PT: 24 KITCHEN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12496.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: 24 KITCHEN </link>
-</item>
-<item>
-<title>PT: CBS REALITY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12494.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CBS REALITY </link>
-</item>
-<item>
-<title>PT: CACA PESCA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12492.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CACA PESCA </link>
-</item>
-<item>
-<title>==== PORTUGAL ENFANTS ====</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12481.ts&amp;streamtype=TSDOWNLOADER&amp;name===== PORTUGAL ENFANTS ==== </link>
-</item>
-<item>
-<title>PT: DISNEY CH</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12489.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISNEY CH </link>
-</item>
-<item>
-<title>PT: DISNEY JU</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12488.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISNEY JU </link>
-</item>
-<item>
-<title>PT: CARTOON NETWORK HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12485.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CARTOON NETWORK HD </link>
-</item>
-<item>
-<title>PT: JIMJAM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12482.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: JIMJAM </link>
-</item>
-<item>
-<title>PT: NICKELODEON HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12484.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NICKELODEON HD </link>
-</item>
-<item>
-<title>PT: SIC KIDS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12483.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC KIDS </link>
-</item>
-<item>
-<title>PT: CANAL PANDA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12487.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL PANDA </link>
-</item>
-<item>
-<title>PT: BABY TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12486.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BABY TV </link>
-</item>
-<item>
-<title>==== PORTUGAL SPORTS ====</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12470.ts&amp;streamtype=TSDOWNLOADER&amp;name===== PORTUGAL SPORTS ==== </link>
-</item>
-<item>
-<title>PT: A BOLA TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12524.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A BOLA TV </link>
-</item>
-<item>
-<title>PT:SPORTV +</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/2311.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SPORTV + </link>
-</item>
-<item>
-<title>PT: SPORT TV 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12476.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 1 HD </link>
+<title>PT: SPORT TV 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1655.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 3 </link>
 </item>
 <item>
 <title>PT: SPORT TV 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12477.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 2 HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1658.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 2 HD </link>
 </item>
 <item>
-<title>PT: SPORT TV 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12478.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 3 HD </link>
+<title>PT: SPORT TV 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1654.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 2 </link>
 </item>
 <item>
-<title>PT: SPORT TV 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12479.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 4 HD </link>
+<title>PT: SPORT TV 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1653.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 1 </link>
 </item>
 <item>
-<title>PT: SPORTV 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/2622.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTV 5 </link>
-</item>
-<item>
-<title>PT: BTV 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12474.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BTV 1 HD </link>
-</item>
-<item>
-<title>PT: SPORTING TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12473.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTING TV </link>
-</item>
-<item>
-<title>PT: CANAL PORTO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12471.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL PORTO </link>
-</item>
-<item>
-<title>PT:Kombat Sports</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/13965.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Kombat Sports </link>
-</item>
-<item>
-<title>PT:Motors TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/13964.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Motors TV </link>
-</item>
-<item>
-<title>PT: MTV Portugal</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/13967.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MTV Portugal </link>
-</item>
-<item>
-<title>PT:AFRICA MUSIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/13966.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AFRICA MUSIC </link>
-</item>
-<item>
-<title>AF: MFM TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7365.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: MFM TV </link>
-</item>
-<item>
-<title>AF: Trace Africa</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8529.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: Trace Africa </link>
-</item>
-<item>
-<title>AF: CANAL 225</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7350.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: CANAL 225 </link>
-</item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>PT: RTP 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12518.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1 HD </link>
-</item>
-<item>
-<title>PT: RTP 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12519.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2 HD </link>
-</item>
-<item>
-<title>PT: RTP 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12520.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 3 HD </link>
-</item>
-<item>
-<title>PT: RTP AFRICA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/13968.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP AFRICA </link>
-</item>
-<item>
-<title>PT: SIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12535.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC </link>
-</item>
-<item>
-<title>PT: TVI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12527.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI </link>
-</item>
-<item>
-<title>PT: TVI Ficcao</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12530.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI Ficcao </link>
-</item>
-<item>
-<title>PT:RTP AFRICA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4741.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP AFRICA </link>
-</item>
-<item>
-<title>PT:TCV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/2036.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TCV </link>
-</item>
-<item>
-<title>PT: TV GLOBO PREMIUM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12510.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO PREMIUM </link>
-</item>
-<item>
-<title>PT: TV GLOBO PORTUGAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12521.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO PORTUGAL </link>
-</item>
-<item>
-<title>PT:TV RECORD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1849.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV RECORD </link>
-</item>
-<item>
-<title>PT: RTP MADEIRA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12522.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP MADEIRA </link>
-</item>
-<item>
-<title>PT: RTP ACORES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12523.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP ACORES </link>
-</item>
-<item>
-<title>PT:CMTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/2310.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CMTV </link>
+<title>PT: SIC RADICAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1663.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC RADICAL </link>
 </item>
 <item>
 <title>PT: SIC NOTICIAS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12531.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC NOTICIAS </link>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1664.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC NOTICIAS </link>
 </item>
 <item>
-<title>PT: TVI 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12528.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24 </link>
-</item>
-<item>
-<title>PT: SIC RADICAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12533.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC RADICAL </link>
+<title>PT: SIC Kids</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1662.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Kids </link>
 </item>
 <item>
 <title>PT: SIC CARAS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12532.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC CARAS </link>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1665.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC CARAS </link>
 </item>
 <item>
-<title>PT: SIC  MULHER</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12534.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC  MULHER </link>
+<title>PT: SIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1661.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC </link>
 </item>
 <item>
-<title>==== PORTUGAL CINEMA ====</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12498.ts&amp;streamtype=TSDOWNLOADER&amp;name===== PORTUGAL CINEMA ==== </link>
+<title>PT: RTP2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1668.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP2 </link>
 </item>
 <item>
-<title>PT: TV CINE 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12499.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 1 </link>
+<title>PT: RTP1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1667.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP1 </link>
 </item>
 <item>
-<title>PT: TV CINE 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12500.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 2 </link>
+<title>PT: RTP INFORMACAO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1666.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP INFORMACAO </link>
 </item>
 <item>
-<title>PT: TV CINE 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12501.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 3 </link>
+<title>PT: RTP 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1669.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 3 </link>
 </item>
 <item>
-<title>PT: TV CINE 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12502.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 4 </link>
+<title>PT: REAL MADRID TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1670.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: REAL MADRID TV </link>
 </item>
 <item>
-<title>PT: TV CINE 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12503.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 5 </link>
+<title>PT: PORTO CANAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1671.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PORTO CANAL </link>
 </item>
 <item>
-<title>PT: TVC SERIES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12529.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVC SERIES </link>
+<title>PT: ODISSEIA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1672.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ODISSEIA </link>
 </item>
 <item>
-<title>PT: FOX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12512.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX HD </link>
+<title>PT: NICKELODEON</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1673.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NICKELODEON </link>
 </item>
 <item>
-<title>PT: FOXLIFE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12511.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOXLIFE </link>
+<title>PT: NATIONAL GEOGRAPHIC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1675.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NATIONAL GEOGRAPHIC HD </link>
 </item>
 <item>
-<title>PT: FOX MOVIES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12508.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX MOVIES </link>
+<title>PT: NAT GEO WILD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1674.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NAT GEO WILD </link>
 </item>
 <item>
-<title>PT: FOX CRIME</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12507.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX CRIME </link>
+<title>PT: MTV HITS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1676.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MTV HITS </link>
 </item>
 <item>
-<title>PT: FOX COMEDY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12509.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX COMEDY </link>
+<title>PT: MTV rocks</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1677.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MTV rocks </link>
 </item>
 <item>
 <title>PT: MOV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12504.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1680.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD </link>
 </item>
 <item>
-<title>PT: CINE MUNDO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12505.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CINE MUNDO </link>
+<title>PT: MOTORS TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1678.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOTORS TV </link>
 </item>
 <item>
-<title>PT: CANAL HOLLYWOOD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12495.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL HOLLYWOOD </link>
+<title>PT: HOLLYWOOD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1681.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: HOLLYWOOD </link>
 </item>
 <item>
-<title>PT: AXN WHITE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12515.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN WHITE HD </link>
+<title>PT: FOX MOVIES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1684.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX MOVIES </link>
 </item>
 <item>
-<title>PT: AXN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12514.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD </link>
+<title>PT: FOX LIFE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1685.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX LIFE HD </link>
 </item>
 <item>
-<title>PT: AXN BLACK HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12516.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN BLACK HD </link>
+<title>PT: FOX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1683.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX HD </link>
 </item>
 <item>
-<title>==== PORTUGAL CULTURE ====</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12497.ts&amp;streamtype=TSDOWNLOADER&amp;name===== PORTUGAL CULTURE ==== </link>
+<title>PT: FOX CRIME HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1686.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX CRIME HD </link>
 </item>
 <item>
-<title>PT: DISCOVERY-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12490.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISCOVERY-HD </link>
+<title>PT: ECONOMICO TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1687.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ECONOMICO TV </link>
 </item>
 <item>
-<title>PT: NATGEOWILD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12491.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NATGEOWILD </link>
+<title>PT: E!-Entertainment</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1679.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: E!-Entertainment </link>
 </item>
 <item>
-<title>PT: 24 KITCHEN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12496.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: 24 KITCHEN </link>
+<title>PT: DISNEY JUNIOR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1688.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISNEY JUNIOR </link>
 </item>
 <item>
-<title>PT: CBS REALITY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12494.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CBS REALITY </link>
+<title>PT: DISNEY CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1689.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISNEY CHANNEL </link>
 </item>
 <item>
-<title>PT: CACA PESCA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12492.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CACA PESCA </link>
+<title>PT: DISCOVERY SHOWCASE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1660.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISCOVERY SHOWCASE HD </link>
 </item>
 <item>
-<title>==== PORTUGAL ENFANTS ====</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12481.ts&amp;streamtype=TSDOWNLOADER&amp;name===== PORTUGAL ENFANTS ==== </link>
+<title>PT: CNN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1690.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CNN </link>
 </item>
 <item>
-<title>PT: DISNEY CH</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12489.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISNEY CH </link>
+<title>PT: CM TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1691.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CM TV </link>
 </item>
 <item>
-<title>PT: DISNEY JU</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12488.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISNEY JU </link>
+<title>PT: CINEMUNDO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1692.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CINEMUNDO </link>
 </item>
 <item>
-<title>PT: CARTOON NETWORK HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12485.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CARTOON NETWORK HD </link>
+<title>PT: CHEALSEA TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1693.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CHEALSEA TV </link>
 </item>
 <item>
-<title>PT: JIMJAM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12482.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: JIMJAM </link>
-</item>
-<item>
-<title>PT: NICKELODEON HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12484.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NICKELODEON HD </link>
-</item>
-<item>
-<title>PT: SIC KIDS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12483.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC KIDS </link>
+<title>PT: CARTOON NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1694.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CARTOON NETWORK </link>
 </item>
 <item>
 <title>PT: CANAL PANDA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12487.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL PANDA </link>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1695.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL PANDA </link>
 </item>
 <item>
-<title>PT: BABY TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12486.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BABY TV </link>
+<title>PT: CANAL HISTORIA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1696.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL HISTORIA </link>
 </item>
 <item>
-<title>==== PORTUGAL SPORTS ====</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12470.ts&amp;streamtype=TSDOWNLOADER&amp;name===== PORTUGAL SPORTS ==== </link>
+<title>PT: CACAVIZION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1697.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CACAVIZION </link>
 </item>
 <item>
-<title>PT: A BOLA TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12524.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A BOLA TV </link>
-</item>
-<item>
-<title>PT:SPORTV +</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/2311.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SPORTV + </link>
-</item>
-<item>
-<title>PT: SPORT TV 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12476.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 1 HD </link>
-</item>
-<item>
-<title>PT: SPORT TV 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12477.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 2 HD </link>
-</item>
-<item>
-<title>PT: SPORT TV 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12478.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 3 HD </link>
-</item>
-<item>
-<title>PT: SPORT TV 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12479.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 4 HD </link>
-</item>
-<item>
-<title>PT: SPORTV 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/2622.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTV 5 </link>
+<title>PT: BTV 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1699.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BTV 2 HD </link>
 </item>
 <item>
 <title>PT: BTV 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12474.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BTV 1 HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1698.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BTV 1 HD </link>
 </item>
 <item>
-<title>PT: SPORTING TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12473.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTING TV </link>
+<title>PT: BIGGS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1700.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BIGGS </link>
 </item>
 <item>
-<title>PT: CANAL PORTO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12471.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL PORTO </link>
+<title>PT: BENFICATV 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1702.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BENFICATV 2 </link>
 </item>
 <item>
-<title>PT:Kombat Sports</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/13965.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Kombat Sports </link>
+<title>PT: BENFICATV 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1701.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BENFICATV 1 HD </link>
 </item>
 <item>
-<title>PT:Motors TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/13964.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Motors TV </link>
+<title>PT: BBC WORLD NEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1703.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BBC WORLD NEWS </link>
 </item>
 <item>
-<title>PT: MTV Portugal</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/13967.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MTV Portugal </link>
+<title>PT: BABY TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1704.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BABY TV </link>
 </item>
 <item>
-<title>PT:AFRICA MUSIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/13966.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AFRICA MUSIC </link>
+<title>PT: AXN WHITE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1707.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN WHITE HD </link>
 </item>
 <item>
-<title>AF: MFM TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7365.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: MFM TV </link>
+<title>PT: AXN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1706.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD </link>
 </item>
 <item>
-<title>AF: Trace Africa</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8529.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: Trace Africa </link>
+<title>PT: AXN BLACK HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1708.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN BLACK HD </link>
 </item>
 <item>
-<title>AF: CANAL 225</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7350.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: CANAL 225 </link>
+<title>PT: AMC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1709.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AMC </link>
+</item>
+<item>
+<title>PT: Afro Music</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1682.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Afro Music </link>
+</item>
+<item>
+<title>PT: 24 KITCHEN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1710.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: 24 KITCHEN HD </link>
+</item>
+<item>
+<title>PT:   TVI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1711.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:   TVI </link>
 </item>
 
-  
-  
-  
-  
-  
-  
-  
   
   
 <item>       
