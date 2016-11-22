@@ -50,9 +50,9 @@
 
 
 <item>
-<title>[COLOR=red][B][I] RTP 1 HD [/I][/B][/COLOR][COLOR=cyan]F4MTESTER[/COLOR]</title>
+<title>[COLOR=red][B][I] RTP 1 HD [/I][/B][/COLOR][COLOR=cyan]    [/COLOR]</title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1119.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP1 </link>
+<link>http://iptvfree1.com:6969/live/15/www.iptvrestream.net/4000.m3u8</link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 <fanart>http://4.fotos.web.sapo.io/i/oc913ed30/18864727_W0533.png</fanart>
@@ -87,9 +87,9 @@
 </item>
 
 <item>
-<title>[COLOR=red][B][I] RTP 2 HD [/I][/B][/COLOR]  [COLOR=cyan]F4MTESTER[/COLOR]</title>
+<title>[COLOR=red][B][I] RTP 2 HD [/I][/B][/COLOR]  [COLOR=cyan]      [/COLOR]</title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1120.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP2 </link>
+<link>http://iptvfree1.com:6969/live/15/www.iptvrestream.net/3999.m3u8</link>
 	 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>
 <fanart>http://media.rtp.pt/extra/wp-content/uploads/sites/22/2015/05/RTP2.jpg</fanart>
@@ -124,9 +124,9 @@
 
 
 <item> 
-<title>[COLOR red][B][I]  RTP 3 [/I][/B][/COLOR]  [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
+<title>[COLOR red][B][I]  RTP 3 [/I][/B][/COLOR]  </title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0MjpodHRwOi8vcnRwLXB1bGwtbGl2ZS5obHMuYWRhcHRpdmUubGV2ZWwzLm5ldC9saXZlcmVwZWF0ZXIvc21pbDpydHBuLnNtaWwvcGxheWxpc3QubTN1OHxVc2VyLUFnZW50PUFwcGxlQ29yZU1lZGlhLzEuMC4wLjEzQTQ1MiAoaVBob25lOyBVOyBDUFUgT1MgOV8wXzIgbGlrZSBNYWMgT1MgWDsgZW5fZ2Ip&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DRtp+info+v8%5B%2FCOLOR%5D</jsonrpc>
+<link>http://iptvfree1.com:6969/live/15/www.iptvrestream.net/3986.m3u8 </link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rwqqsy1455801826.png</thumbnail>
 <fanart>http://shifter.pt/wp-content/uploads/2015/09/johnolivernartp3_02.jpg</fanart>
 </item>
@@ -153,7 +153,7 @@
 
 <item> 
 <title>[COLOR=red][B][I] SIC  [/I][/B][/COLOR]   [COLOR=orange](WebTV)[/COLOR]</title>
-<link>rtmp://94.176.148.234/live?token=3HdzCDuh2Y8Dg7r9gqY_9wExpired=1478715680 playpath=vera76f9de3c310cf2ad86811 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://eq10.me/embed.php?file=siciio&width=650&height=470 swfVfy=1 live=1 timeout=15</link>
+<link>http://iptvfree1.com:6969/live/15/www.iptvrestream.net/3998.m3u8</link>
 </link>
 <regex>
 <name>get-ip</name>
@@ -209,7 +209,19 @@
 </regex>
 </item>
 
+<item>
+<title>[COLOR=red][B][I] TVI [/I][/B][/COLOR]   [COLOR=cyan]SD[/COLOR]</title>
 
+<link>http://iptvfree1.com:6969/live/15/www.iptvrestream.net/3948.m3u8</link>
+
+
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1125.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
+<fanart>https://lh6.ggpht.com/Rco-3B_gxp2WxcpArRjrp3iT_XKI94B2paXEh86tn-wioNk9EGKYYUaa6NDg1yLmoGqF=h900</fanart>
+</item>
+<item> 
+</subchannel>
+</channel>
 
 
 
@@ -1442,7 +1454,7 @@ SIC NOTICIAS
 
 
 <title>[COLOR=white][B][I] TVI REALITY [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
-<link>rtmp://178.162.199.155/live/ playPath=sdddss?id=89130&pk=64b4d04da4876278062c10a1868076df3844fe92c1bf10d81b6c29c2e1e41d3d swfVfy=1 timeout=10 conn=S:OK live=true swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2022,0,0,209 pageUrl=http://www.embeducaster.com/embedplayer/sdddss/1/730/430</link>
+<link>http://iptvfree1.com:6969/live/15/www.iptvrestream.net/3974.m3u8</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
 </item>
 
@@ -1452,7 +1464,7 @@ SIC NOTICIAS
 <item>
 <title>[COLOR=white][B][I] TVI REALITY SD [/I][/B][/COLOR]</title>
 
-<link>http://163.172.217.53:8000/live/5grandiptv915/67863345/1656.m3u8</link>
+<link>http://iptvfree1.com:6969/live/15/www.iptvrestream.net/3946.m3u8</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
 </item>
 
@@ -2885,7 +2897,6 @@ SIC NOTICIAS
 <title>[COLOR blue] [I]SPORT TV +[/I] [/COLOR] [COLOR orange]F4MTESTER[/COLOR]</title>
 
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/970.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV + </link>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3088.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV + </link>
 
 <thumbnail>http://www.onlinenatv.com/wp-content/uploads/2016/10/sport.tv_.portugal.jpg?x78568</thumbnail>
 <fanart></fanart>
@@ -2899,7 +2910,11 @@ SIC NOTICIAS
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 
-
+<item>
+<title>[COLOR=blue][B][I] SPORT TV 1 [/I][/B][/COLOR]  [COLOR=lime](SD)[/COLOR]</title>
+<link>http://iptvfree1.com:6969/live/15/www.iptvrestream.net/3992.m3u8</link>
+<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
+</item>
 
 
 <item>
@@ -2933,6 +2948,14 @@ SIC NOTICIAS
 <link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=QQfJ2QkV5FjgeFJEBoHScw&keyt=1472850809 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 </link>
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
 </item>
+
+
+<item>
+<title>[COLOR=blue][B][I] SPORT TV 2 [/I][/B][/COLOR]  [COLOR=lime](SD)[/COLOR]</title>
+<link>http://iptvfree1.com:6969/live/15/www.iptvrestream.net/3993.m3u8 </link>
+<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
+</item>
+
 
 
 
@@ -2971,13 +2994,17 @@ SIC NOTICIAS
 </item>
 
 
+
+
+
+
 <item>
 <title>[COLOR blue] [I]SPORT TV 3 HD[/I] [/COLOR] [COLOR orange]F4MTESTER[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/824.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 HD </link>
 
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/751.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 </link>
 
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1135.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORT_TV_3 </link>
+
 
 		
 <thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
@@ -3000,6 +3027,20 @@ SIC NOTICIAS
 <link>rtmp://31.220.40.61/privatestream/ playpath=dddd4uedifoekds?keys=-mk38EysabgrlvA1TTGvWA&keyt;=1471232732 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=dddd4uedifoekds&width;=555&height;=440 timeout=10</link>
 <thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
 </item>
+
+
+
+
+<item>
+<title>[COLOR=blue][B][I] SPORT TV 4 [/I][/B][/COLOR]  [COLOR=lime](SD)[/COLOR]</title>
+<link>http://iptvfree1.com:6969/live/15/www.iptvrestream.net/3994.m3u8</link>
+<thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
+</item>
+
+
+
+
+
 
 
 <item>
@@ -3037,6 +3078,21 @@ SIC NOTICIAS
 <thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
 <fanart></fanart>
 </item>
+
+
+
+<item>
+<title>[COLOR blue][B][I]SPORT TV 5  [/I][/B][/COLOR] [COLOR orange]SD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/717.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 </link>
+
+<link>http://iptvfree1.com:6969/live/15/www.iptvrestream.net/3997.m3u8</link>
+
+
+
+<thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
+<fanart></fanart>
+</item>
+
 
 
 <item>
