@@ -23,7 +23,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 20-11-16 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 25-11-16 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -38,300 +38,314 @@
 
 
 
-
-
-
-
-
-
-
-
-
 <item>
-<title>PT: TVCINE 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1920.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 1 HD </link>
-</item>
-<item>
-<title>PT: TVCINE 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1921.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 2 HD </link>
-</item>
-<item>
-<title>PT: TVCINE 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1922.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 3 HD </link>
-</item>
-<item>
-<title>PT: TVCINE 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1923.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 4 HD </link>
+<title>PT: RTP 1 SD/HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7978.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1 SD/HD </link>
 </item>
 <item>
 <title>PT: RTP 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1939.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2 </link>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7977.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2 </link>
 </item>
 <item>
 <title>PT: RTP 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1940.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 3 </link>
-</item>
-<item>
-<title>PT: RTP MEMORIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1935.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP MEMORIA </link>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7976.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 3 </link>
 </item>
 <item>
 <title>PT: SIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1934.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC </link>
-</item>
-<item>
-<title>PT: SIC RADICAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1929.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC RADICAL </link>
-</item>
-<item>
-<title>PT: SIC MULHER</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1931.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC MULHER </link>
-</item>
-<item>
-<title>PT: SIC NOTICIAS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1930.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC NOTICIAS </link>
-</item>
-<item>
-<title>PT: TV GLOBO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1948.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO </link>
-</item>
-<item>
-<title>PT: TV GLOBO PREMIUM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1947.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO PREMIUM </link>
-</item>
-<item>
-<title>PT: TLC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1926.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TLC </link>
-</item>
-<item>
-<title>PT: TV SERIES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1924.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV SERIES </link>
-</item>
-<item>
-<title>PT: TVI24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1917.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI24 </link>
-</item>
-<item>
-<title>PT: TVI REALITY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1918.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI REALITY </link>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7971.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC </link>
 </item>
 <item>
 <title>PT: TVI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1919.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI </link>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7950.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI </link>
 </item>
 <item>
-<title>PT: RTP 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1938.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1 </link>
+<title>PT: SIC Noticias</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7969.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Noticias </link>
 </item>
 <item>
-<title>PT: HOLLYWOOD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1945.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: HOLLYWOOD </link>
+<title>PT: TVI 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7949.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24 </link>
 </item>
 <item>
-<title>PT: FOX LIFE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1950.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX LIFE </link>
+<title>PT: Porto Canal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7980.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Porto Canal </link>
 </item>
 <item>
-<title>PT: FOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1951.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX </link>
+<title>PT: RTP Memoria</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7972.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Memoria </link>
 </item>
 <item>
-<title>PT: FOX MOVIES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1949.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX MOVIES </link>
+<title>PT: RTP África</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7974.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP África </link>
+</item>
+<item>
+<title>PT: RTP Madeira</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7973.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Madeira </link>
+</item>
+<item>
+<title>PT: RTP Acores</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7975.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Acores </link>
+</item>
+<item>
+<title>PT: Plus TVI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7981.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Plus TVI </link>
+</item>
+<item>
+<title>PT: MOV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7988.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD </link>
+</item>
+<item>
+<title>PT: TPA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7959.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TPA </link>
+</item>
+<item>
+<title>PT: AFRO MUSIC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/8016.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AFRO MUSIC HD </link>
+</item>
+<item>
+<title>----- Filmes -----</title>
+<link>plugin://plugin.video.f4mTester/?url=http://google.com:8000/hdmi&amp;streamtype=TSDOWNLOADER&amp;name=----- Filmes ----- </link>
+</item>
+<item>
+<title>PT: TVCine 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7954.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 1 HD </link>
+</item>
+<item>
+<title>PT: TVCine 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7953.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 2 HD </link>
+</item>
+<item>
+<title>PT: TVCine 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7952.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 3 HD </link>
+</item>
+<item>
+<title>PT: TVCine 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7951.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 4 HD </link>
+</item>
+<item>
+<title>PT: HollyWood SD/HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7990.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: HollyWood SD/HD </link>
+</item>
+<item>
+<title>PT: FOX Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7992.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX Movies </link>
+</item>
+<item>
+<title>PT: CineMundo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/8003.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CineMundo </link>
+</item>
+<item>
+<title>----- Series -----</title>
+<link>plugin://plugin.video.f4mTester/?url=http://google.com:8000/hdmi&amp;streamtype=TSDOWNLOADER&amp;name=----- Series ----- </link>
 </item>
 <item>
 <title>PT: AXN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1959.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/8014.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD </link>
 </item>
 <item>
 <title>PT: AXN WHITE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1958.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN WHITE HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/8013.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN WHITE HD </link>
 </item>
 <item>
-<title>PT: AXN BLACK HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1960.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN BLACK HD </link>
+<title>PT: AXN Black HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/8015.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN Black HD </link>
 </item>
 <item>
-<title>PT: SPORTTV 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1912.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTTV 1 HD </link>
+<title>PT: Fox HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7994.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox HD </link>
 </item>
 <item>
-<title>PT: SPORTTV 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1913.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTTV 2 HD </link>
+<title>PT: Fox Life HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7993.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Life HD </link>
 </item>
 <item>
-<title>PT: SPORTTV 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1915.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTTV 3 HD </link>
+<title>PT: FOX Crime HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7995.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX Crime HD </link>
 </item>
 <item>
-<title>PT: SPORTTV 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1916.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTTV 4 HD </link>
+<title>PT: TV Series SD/HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7955.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Series SD/HD </link>
 </item>
 <item>
-<title>PT: SPORTTV 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1914.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTTV 5 HD </link>
+<title>PT: E! Entertaunment</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7998.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: E! Entertaunment </link>
 </item>
 <item>
-<title>PT: SPORTING TV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1928.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTING TV HD </link>
+<title>PT: Sy-Fy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7961.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sy-Fy </link>
 </item>
 <item>
-<title>PT: ODISSEIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1944.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ODISSEIA </link>
+<title>PT: CBS Reality</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/8004.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CBS Reality </link>
+</item>
+<item>
+<title>PT: Sporting TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7967.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sporting TV HD </link>
+</item>
+<item>
+<title>PT: Cancao Nova</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/8006.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cancao Nova </link>
+</item>
+<item>
+<title>----- Desporto -----</title>
+<link>plugin://plugin.video.f4mTester/?url=http://google.com:8000/hdmi&amp;streamtype=TSDOWNLOADER&amp;name=----- Desporto ----- </link>
+</item>
+<item>
+<title>PT: SportTV 1 HD/SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7966.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SportTV 1 HD/SD </link>
+</item>
+<item>
+<title>PT: SportTV 2 HD/SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7965.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SportTV 2 HD/SD </link>
+</item>
+<item>
+<title>PT: SportTV 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7964.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SportTV 3 </link>
+</item>
+<item>
+<title>PT: SportTV 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7963.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SportTV 4 HD </link>
+</item>
+<item>
+<title>PT: SportTV 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7962.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SportTV 5 </link>
+</item>
+<item>
+<title>PT: Abola TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/8017.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Abola TV </link>
+</item>
+<item>
+<title>PT: BTV 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/8010.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BTV 1 HD </link>
+</item>
+<item>
+<title>PT: Benfica TV 1 Full HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/8012.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica TV 1 Full HD </link>
+</item>
+<item>
+<title>PT: Benfica TV 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/8011.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica TV 2 HD </link>
+</item>
+<item>
+<title>PT: Real Madrid TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7979.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Real Madrid TV HD </link>
+</item>
+<item>
+<title>PT: EuroSport 1 HD/SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7996.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSport 1 HD/SD </link>
+</item>
+<item>
+<title>PT: FX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7991.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FX </link>
+</item>
+<item>
+<title>PT: PFC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7982.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PFC HD </link>
+</item>
+<item>
+<title>PT: Motors TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7989.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motors TV </link>
+</item>
+<item>
+<title>PT: Toros TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7960.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Toros TV </link>
+</item>
+<item>
+<title>PT: SPORT TV AMERICA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7968.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV AMERICA </link>
+</item>
+<item>
+<title>##### Cultur #####</title>
+<link>plugin://plugin.video.f4mTester/?url=http://google.com:8000/hdmi&amp;streamtype=TSDOWNLOADER&amp;name=##### Cultur ##### </link>
+</item>
+<item>
+<title>PT: Nat Geographic Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7986.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nat Geographic Channel </link>
+</item>
+<item>
+<title>PT: Nat Geo Wild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7987.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nat Geo Wild </link>
+</item>
+<item>
+<title>PT: Discovery HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/8001.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery HD </link>
+</item>
+<item>
+<title>PT: Canal Historia HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/8008.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Historia HD </link>
+</item>
+<item>
+<title>PT: Caca & Pesca</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/8009.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Caca & Pesca </link>
+</item>
+<item>
+<title>PT: Odisseia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7984.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Odisseia </link>
+</item>
+<item>
+<title>PT: A&E</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/8018.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A&E </link>
+</item>
+<item>
+<title>PT: 24 Kitchen</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/8019.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: 24 Kitchen </link>
+</item>
+<item>
+<title>PT: Economico TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7997.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Economico TV </link>
+</item>
+<item>
+<title>----- Infantil -----</title>
+<link>plugin://plugin.video.f4mTester/?url=http://google.com:8000/hdmi&amp;streamtype=TSDOWNLOADER&amp;name=----- Infantil ----- </link>
 </item>
 <item>
 <title>PT: Disney Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1942.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel </link>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/8000.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel </link>
 </item>
 <item>
-<title>PT: Discovery Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1954.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery Channel </link>
+<title>PT: Disney Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7999.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Junior </link>
 </item>
 <item>
-<title>PT: Canal Porto</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1943.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Porto </link>
+<title>PT: Cartoon NetWork</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/8005.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cartoon NetWork </link>
 </item>
 <item>
-<title>PT: CANAL PANDA HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1956.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL PANDA HD </link>
+<title>PT: CANAL PANDA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/8007.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL PANDA </link>
 </item>
 <item>
-<title>PT: ABOLA TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1961.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ABOLA TV </link>
-</item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>PORTUGAL:TVCINE 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/511.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:TVCINE 1 HD </link>
+<title>PT: Niclelodeon</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7985.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Niclelodeon </link>
 </item>
 <item>
-<title>PORTUGAL:TVCINE 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/512.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:TVCINE 2 HD </link>
+<title>PT: SIC Kids</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7970.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Kids </link>
 </item>
 <item>
-<title>PORTUGAL:TVCINE 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/513.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:TVCINE 3 HD </link>
+<title>PT: Panda Biggs</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7983.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Panda Biggs </link>
 </item>
 <item>
-<title>PORTUGAL:TVCINE 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/514.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:TVCINE 4 HD </link>
+<title>--- Information ---</title>
+<link>plugin://plugin.video.f4mTester/?url=http://google.com:8000/hdmi&amp;streamtype=TSDOWNLOADER&amp;name=--- Information --- </link>
 </item>
 <item>
-<title>PORTUGAL:TLC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/604.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:TLC </link>
+<title>PT: TV Globo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7958.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo </link>
 </item>
 <item>
-<title>PORTUGAL:SPORT TV1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/515.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:SPORT TV1 </link>
+<title>PT: TV Globo Premium</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7957.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo Premium </link>
 </item>
 <item>
-<title>PORTUGAL:SPORT TV2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/516.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:SPORT TV2 </link>
+<title>PT: TV Record</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7956.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Record </link>
 </item>
 <item>
-<title>PORTUGAL:SPORT TV3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/517.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:SPORT TV3 </link>
+<title>PT: CMTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/8002.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CMTV </link>
 </item>
-<item>
-<title>PORTUGAL:SPORT TV4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/518.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:SPORT TV4 </link>
-</item>
-<item>
-<title>PORTUGAL:SPORT TV5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/519.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:SPORT TV5 </link>
-</item>
-<item>
-<title>PORTUGAL:Sic Radical</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/609.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:Sic Radical </link>
-</item>
-<item>
-<title>PORTUGAL:SIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/596.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:SIC </link>
-</item>
-<item>
-<title>PORTUGAL:RTP1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/606.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:RTP1 </link>
-</item>
-<item>
-<title>PORTUGAL:RTP 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/607.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:RTP 2 </link>
-</item>
-<item>
-<title>PORTUGAL:RTP 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/608.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:RTP 3 </link>
-</item>
-<item>
-<title>PORTUGAL:PANDA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/597.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:PANDA </link>
-</item>
-<item>
-<title>PORTUGAL:CMTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/598.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:CMTV </link>
-</item>
-<item>
-<title>PORTUGAL:BENFICA TV 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/520.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:BENFICA TV 1 HD </link>
-</item>
-<item>
-<title>PORTUGAL:BENFICA TV 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/599.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:BENFICA TV 2 HD </link>
-</item>
-<item>
-<title>Cartoon Network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/373.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon Network </link>
-</item>
-<item>
-<title>PORTUGAL:_TVsÃ©ries HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/600.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:_TVsÃ©ries HD </link>
-</item>
-<item>
-<title>PORTUGAL:_TVI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/601.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:_TVI </link>
-</item>
-<item>
-<title>PORTUGAL: TV record</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/602.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL: TV record </link>
-</item>
-<item>
-<title>BOOMERANG</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/378.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOOMERANG </link>
-</item>
-<item>
-<title>PORTUGAL: TV GLOBO PREMIUM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/603.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL: TV GLOBO PREMIUM </link>
-</item>
-<item>
-<title>PORTUGAL: SPORTING TV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/605.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL: SPORTING TV HD </link>
-</item>
-<item>
-<title>PORTUGAL: SIC Mulher</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/amde/amde/610.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL: SIC Mulher </link>
-</item>
-
-
-
-
-
-
 
 
 

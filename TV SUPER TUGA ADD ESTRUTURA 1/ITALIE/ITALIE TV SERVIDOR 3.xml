@@ -25,7 +25,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 22-11-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 25-11-2016 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
@@ -41,350 +41,1206 @@
 
 
 
-
-
-
-
-
-
-
-
 <item>
-<title>IT:Sky Uno HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1748.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky Uno HD </link>
+<title>Rai 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/125.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 1 HD </link>
 </item>
 <item>
-<title>IT_Sky_Atlantic_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1713.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_Sky_Atlantic_HD </link>
+<title>Rai 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/126.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 2 HD </link>
 </item>
 <item>
-<title>IT: Sky Cinema hit</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1705.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema hit </link>
+<title>Rai 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/127.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 3 HD </link>
 </item>
 <item>
-<title>IT_Sky_Cinema1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1711.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_Sky_Cinema1_HD </link>
+<title>Rete 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/760.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rete 4 HD </link>
 </item>
 <item>
-<title>IT_Sky_Cinema_Max_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1707.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_Sky_Cinema_Max_HD </link>
+<title>Canale 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/15.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canale 5 HD </link>
 </item>
 <item>
-<title>IT_Sky_Cinema_Family_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1708.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_Sky_Cinema_Family_HD </link>
+<title>Italia 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/16.ts&amp;streamtype=TSDOWNLOADER&amp;name=Italia 1 HD </link>
 </item>
 <item>
-<title>IT_Sky_Cinema_Comedy_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1709.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_Sky_Cinema_Comedy_HD </link>
+<title>Rai 1 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/10848.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 1 SD </link>
 </item>
 <item>
-<title>IT_Sky_Cinema_Passion_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1706.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_Sky_Cinema_Passion_HD </link>
+<title>Rai 2 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/10847.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 2 SD </link>
 </item>
 <item>
-<title>IT: Cinema Classic HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1714.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Cinema Classic HD </link>
+<title>Rai 3 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/10846.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 3 SD </link>
 </item>
 <item>
-<title>IT:SKY-Fox-Animation</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/2062.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:SKY-Fox-Animation </link>
+<title>Rete 4 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/10842.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rete 4 SD </link>
 </item>
 <item>
-<title>-------- Calcio -------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/911.ts&amp;streamtype=TSDOWNLOADER&amp;name=-------- Calcio ------- </link>
+<title>Canale 5 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/3052.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canale 5 SD </link>
 </item>
 <item>
-<title>IT: Sky-Sport-Plus</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/2060.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky-Sport-Plus </link>
+<title>Italia 1 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/10843.ts&amp;streamtype=TSDOWNLOADER&amp;name=Italia 1 SD </link>
 </item>
 <item>
-<title>IT: SKY SuperCalcio HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/2036.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY SuperCalcio HD </link>
+<title>Mediaset Italia 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/983.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mediaset Italia 2 </link>
 </item>
 <item>
-<title>IT:Sky_Calcio_1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1796.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky_Calcio_1_HD </link>
+<title>Rai 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1472.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 4 </link>
 </item>
 <item>
-<title>IT:Sky_Calcio_2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1734.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky_Calcio_2_HD </link>
+<title>Rai 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/4529.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 5 </link>
 </item>
 <item>
-<title>IT:Sky_Calcio_3_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1735.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky_Calcio_3_HD </link>
+<title>Rai Movie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1471.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Movie </link>
 </item>
 <item>
-<title>IT:Sky_Calcio_4_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1797.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky_Calcio_4_HD </link>
+<title>Rai Premium HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1505.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Premium HD </link>
 </item>
 <item>
-<title>IT:Sky_Calcio_5_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1825.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky_Calcio_5_HD </link>
+<title>Rai News 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1477.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai News 24 </link>
 </item>
 <item>
-<title>IT:Sky_Calcio_6_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://premium-ott.com:8000/live/testettt/lVYnyerL4G/76.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky_Calcio_6_HD </link>
+<title>Rai Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/2327.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Sport 1 </link>
 </item>
 <item>
-<title>***IT**Sport ****</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/255.ts&amp;streamtype=TSDOWNLOADER&amp;name=***IT**Sport **** </link>
+<title>Rai Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/2328.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Sport 2 </link>
 </item>
 <item>
-<title>IT: Sky Sport 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/198.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Sport 24 </link>
+<title>La7 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1361.ts&amp;streamtype=TSDOWNLOADER&amp;name=La7 HD </link>
 </item>
 <item>
-<title>IT: Sport Italia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1699.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sport Italia </link>
+<title>La7d HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/11152.ts&amp;streamtype=TSDOWNLOADER&amp;name=La7d HD </link>
 </item>
 <item>
-<title>IT_Sky_Sport1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1703.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_Sky_Sport1_HD </link>
+<title>la3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/4527.ts&amp;streamtype=TSDOWNLOADER&amp;name=la3 </link>
 </item>
 <item>
-<title>IT_Sky_Sport2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1702.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_Sky_Sport2_HD </link>
+<title>La 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/984.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 5 </link>
 </item>
 <item>
-<title>IT_Sky_Sport3_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1701.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_Sky_Sport3_HD </link>
+<title>Iris</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/982.ts&amp;streamtype=TSDOWNLOADER&amp;name=Iris </link>
 </item>
 <item>
-<title>IT_SKY_F1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1704.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_SKY_F1_HD </link>
+<title>Mediaset Extra</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1336.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mediaset Extra </link>
 </item>
 <item>
-<title>IT-Sky-Sport MOTOGP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1745.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky-Sport MOTOGP </link>
+<title>LATV (Telenovele)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7367.ts&amp;streamtype=TSDOWNLOADER&amp;name=LATV (Telenovele) </link>
 </item>
 <item>
-<title>IT: FOX SPORTS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1733.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: FOX SPORTS </link>
+<title>Top Crime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1398.ts&amp;streamtype=TSDOWNLOADER&amp;name=Top Crime </link>
 </item>
 <item>
-<title>Poker Italia 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/2035.ts&amp;streamtype=TSDOWNLOADER&amp;name=Poker Italia 24 </link>
+<title>Giallo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/2982.ts&amp;streamtype=TSDOWNLOADER&amp;name=Giallo </link>
 </item>
 <item>
-<title>usa:Poker Central</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/2037.ts&amp;streamtype=TSDOWNLOADER&amp;name=usa:Poker Central </link>
+<title>RSI LA 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1007.ts&amp;streamtype=TSDOWNLOADER&amp;name=RSI LA 1 </link>
 </item>
 <item>
-<title>IT-Juventus TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1815.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Juventus TV </link>
+<title>RSI LA 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1008.ts&amp;streamtype=TSDOWNLOADER&amp;name=RSI LA 2 </link>
 </item>
 <item>
-<title>IT-Inter Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1816.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Inter Channel </link>
+<title>TGcom24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1354.ts&amp;streamtype=TSDOWNLOADER&amp;name=TGcom24 </link>
 </item>
 <item>
-<title>IT:Milan HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1814.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Milan HD </link>
+<title>####### VARI ######</title>
+<link>plugin://plugin.video.f4mTester/?url=http://google.com:8000/hdmi&amp;streamtype=TSDOWNLOADER&amp;name=####### VARI ###### </link>
 </item>
 <item>
-<title>********Culture ********</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/240.ts&amp;streamtype=TSDOWNLOADER&amp;name=********Culture ******** </link>
+<title>Bstream Cinema 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1540.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bstream Cinema 1 HD </link>
 </item>
 <item>
-<title>IT:SKY-History</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/2063.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:SKY-History </link>
+<title>Bstream Cinema 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1951.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bstream Cinema 2 HD </link>
 </item>
 <item>
-<title>IT: Discovery HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1813.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Discovery HD </link>
+<title>Bstream Cinema 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/2424.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bstream Cinema 3 HD </link>
 </item>
 <item>
-<title>IT:Discovery_Science_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1827.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Discovery_Science_HD </link>
+<title>Bstream Cinema 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/4530.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bstream Cinema 4 HD </link>
 </item>
 <item>
-<title>*****PRIMAFILA*****</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/2025.ts&amp;streamtype=TSDOWNLOADER&amp;name=*****PRIMAFILA***** </link>
+<title>Bstream Cinema 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/4633.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bstream Cinema 5 HD </link>
 </item>
 <item>
-<title>IT-PRIMAFILA1-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1987.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-PRIMAFILA1-HD </link>
+<title>Paramount Channel HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7366.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paramount Channel HD </link>
 </item>
 <item>
-<title>IT-PRIMAFILA2-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1988.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-PRIMAFILA2-HD </link>
+<title>Cielo HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/18.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cielo HD </link>
 </item>
 <item>
-<title>IT-PRIMAFILA3-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1989.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-PRIMAFILA3-HD </link>
+<title>TV8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1060.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV8 </link>
 </item>
 <item>
-<title>IT-PRIMAFILA4-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1990.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-PRIMAFILA4-HD </link>
+<title>Alice</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/3889.ts&amp;streamtype=TSDOWNLOADER&amp;name=Alice </link>
 </item>
 <item>
-<title>IT-PRIMAFILA5-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1991.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-PRIMAFILA5-HD </link>
+<title>MarcoPolo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/4673.ts&amp;streamtype=TSDOWNLOADER&amp;name=MarcoPolo </link>
 </item>
 <item>
-<title>IT-PRIMAFILA6-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1992.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-PRIMAFILA6-HD </link>
+<title>DeejayTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/2552.ts&amp;streamtype=TSDOWNLOADER&amp;name=DeejayTV </link>
 </item>
 <item>
-<title>IT-PRIMAFILA7-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1993.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-PRIMAFILA7-HD </link>
+<title>Focus</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1356.ts&amp;streamtype=TSDOWNLOADER&amp;name=Focus </link>
 </item>
 <item>
-<title>IT-PRIMAFILA8-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1994.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-PRIMAFILA8-HD </link>
+<title>Telenorba</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6584.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telenorba </link>
 </item>
 <item>
-<title>IT-PRIMAFILA9-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1995.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-PRIMAFILA9-HD </link>
+<title>Videolina</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/3205.ts&amp;streamtype=TSDOWNLOADER&amp;name=Videolina </link>
 </item>
 <item>
-<title>IT-PRIMAFILA10-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1996.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-PRIMAFILA10-HD </link>
+<title>TV2000</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/4089.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV2000 </link>
 </item>
 <item>
-<title>IT_Prima fila 12 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/frederic/frederic/1997.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_Prima fila 12 HD </link>
+<title>SPLIT TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/2382.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPLIT TV </link>
 </item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <item>
-<title>IT: Rai 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/1986.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai 1 HD </link>
+<title>Top Calcio 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7922.ts&amp;streamtype=TSDOWNLOADER&amp;name=Top Calcio 24 </link>
 </item>
 <item>
-<title>IT: Rai 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/1987.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai 2 HD </link>
+<title>Luna Sport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/11564.ts&amp;streamtype=TSDOWNLOADER&amp;name=Luna Sport </link>
 </item>
 <item>
-<title>IT: Rai 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/1988.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai 3 HD </link>
+<title>RTP</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7925.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP </link>
 </item>
 <item>
-<title>IT: RAI 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/1989.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RAI 4 HD </link>
+<title>Sicilia Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7924.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sicilia Channel </link>
 </item>
 <item>
-<title>IT: RAi 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/1990.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RAi 5 HD </link>
+<title>Telecolor</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7927.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecolor </link>
 </item>
 <item>
-<title>IT: RAI SPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/2079.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RAI SPORT 1 </link>
+<title>Tremedia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7928.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tremedia </link>
 </item>
 <item>
-<title>IT RAI SPORT 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/2078.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT RAI SPORT 2 </link>
+<title>Antenna Sicilia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7926.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antenna Sicilia </link>
 </item>
 <item>
-<title>IT: Premium Calcio 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/2070.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Calcio 1 </link>
+<title>Star One TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/10636.ts&amp;streamtype=TSDOWNLOADER&amp;name=Star One TV </link>
 </item>
 <item>
-<title>IT: Premium Calcio 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/2077.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Calcio 2 </link>
+<title>Canale 21</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/10913.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canale 21 </link>
 </item>
 <item>
-<title>IT: Sky Sport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/2003.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Sport 1 HD </link>
+<title>KissKiss Napoli TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/11249.ts&amp;streamtype=TSDOWNLOADER&amp;name=KissKiss Napoli TV </link>
 </item>
 <item>
-<title>IT: Sky Sport 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/2004.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Sport 2 HD </link>
+<title>Tv Campane</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/11563.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tv Campane </link>
 </item>
 <item>
-<title>IT: Sky Sport 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/2005.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Sport 3 HD </link>
+<title>Universal TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/11245.ts&amp;streamtype=TSDOWNLOADER&amp;name=Universal TV </link>
 </item>
 <item>
-<title>IT: Sky Sport 24 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/2006.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Sport 24 HD </link>
+<title>Padre Pio TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7905.ts&amp;streamtype=TSDOWNLOADER&amp;name=Padre Pio TV </link>
 </item>
 <item>
-<title>IT: Sky Supercalcio HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/2000.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Supercalcio HD </link>
+<title>Italian Fishing TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/10859.ts&amp;streamtype=TSDOWNLOADER&amp;name=Italian Fishing TV </link>
 </item>
 <item>
-<title>IT: Sky Sport MotoGP HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/2001.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Sport MotoGP HD </link>
+<title>######## CANALI MUSICALI #######</title>
+<link>plugin://plugin.video.f4mTester/?url=http://google.com:8000/hdmi&amp;streamtype=TSDOWNLOADER&amp;name=######## CANALI MUSICALI ####### </link>
 </item>
 <item>
-<title>IT: Sky Sport F1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/2002.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Sport F1 HD </link>
+<title>Bstream Music Video</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/4367.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bstream Music Video </link>
 </item>
 <item>
-<title>IT: Discovery Science HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/1983.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Discovery Science HD </link>
+<title>M2o Tv</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/4387.ts&amp;streamtype=TSDOWNLOADER&amp;name=M2o Tv </link>
 </item>
 <item>
-<title>IT: Sky Cinema Cult HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/1981.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema Cult HD </link>
+<title>Onda Latina</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/4991.ts&amp;streamtype=TSDOWNLOADER&amp;name=Onda Latina </link>
 </item>
 <item>
-<title>IT: Premium Action HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/1984.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Action HD </link>
+<title>Radio montecarlo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/3893.ts&amp;streamtype=TSDOWNLOADER&amp;name=Radio montecarlo </link>
 </item>
 <item>
-<title>IT: Sky Cinema  24 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/1982.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema  24 HD </link>
+<title>RTL 102.5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/3892.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL 102.5 </link>
 </item>
 <item>
-<title>IT: Sky Cinema Max HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/1985.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema Max HD </link>
+<title>Radio Italia Tv</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/79.ts&amp;streamtype=TSDOWNLOADER&amp;name=Radio Italia Tv </link>
 </item>
 <item>
-<title>IT: Primafila 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/1991.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Primafila 1 HD </link>
+<title>Studio 90 Italia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/5799.ts&amp;streamtype=TSDOWNLOADER&amp;name=Studio 90 Italia </link>
 </item>
 <item>
-<title>IT: Primafila 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/1992.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Primafila 2 HD </link>
+<title>Radio Taormina</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/5802.ts&amp;streamtype=TSDOWNLOADER&amp;name=Radio Taormina </link>
 </item>
 <item>
-<title>IT: Primafila 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/1993.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Primafila 3 HD </link>
+<title>Radio 105</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/5800.ts&amp;streamtype=TSDOWNLOADER&amp;name=Radio 105 </link>
 </item>
 <item>
-<title>IT: Primafila 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/1994.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Primafila 4 HD </link>
+<title>------------- Bambini ----------</title>
+<link>plugin://plugin.video.f4mTester/?url=http://google.com:8000/hdmi&amp;streamtype=TSDOWNLOADER&amp;name=------------- Bambini ---------- </link>
 </item>
 <item>
-<title>IT: Primafila 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/1995.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Primafila 5 HD </link>
+<title>Cartoon Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon Network </link>
 </item>
 <item>
-<title>IT: Primafila 7 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/1996.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Primafila 7 HD </link>
+<title>Sky Disney XD HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/829.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Disney XD HD </link>
 </item>
 <item>
-<title>IT: Primafila 8 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/1997.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Primafila 8 HD </link>
+<title>Disney Channel HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/852.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel HD </link>
 </item>
 <item>
-<title>IT: Primafila 9 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/1998.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Primafila 9 HD </link>
+<title>TeenNick</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6412.ts&amp;streamtype=TSDOWNLOADER&amp;name=TeenNick </link>
 </item>
 <item>
-<title>IT: Primafila 10 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvserver.noip.me:8000/live/cristian/cristian/1999.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Primafila 10 HD </link>
+<title>NickJunior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/2716.ts&amp;streamtype=TSDOWNLOADER&amp;name=NickJunior </link>
 </item>
-
+<item>
+<title>NickelOdeon</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/2715.ts&amp;streamtype=TSDOWNLOADER&amp;name=NickelOdeon </link>
+</item>
+<item>
+<title>Super!</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/2330.ts&amp;streamtype=TSDOWNLOADER&amp;name=Super! </link>
+</item>
+<item>
+<title>Rai Gulp</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/2332.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Gulp </link>
+</item>
+<item>
+<title>Rai Yoyo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/2337.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Yoyo </link>
+</item>
+<item>
+<title>DeaKids</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/2334.ts&amp;streamtype=TSDOWNLOADER&amp;name=DeaKids </link>
+</item>
+<item>
+<title>Dea Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/4101.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dea Junior </link>
+</item>
+<item>
+<title>Disney Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/531.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior </link>
+</item>
+<item>
+<title>Premium Disney Channel +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/530.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Disney Channel +1 </link>
+</item>
+<item>
+<title>Manga</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/994.ts&amp;streamtype=TSDOWNLOADER&amp;name=Manga </link>
+</item>
+<item>
+<title>Boomerang</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1003.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boomerang </link>
+</item>
+<item>
+<title>Boing</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/865.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing </link>
+</item>
+<item>
+<title>Fresbee</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1473.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fresbee </link>
+</item>
+<item>
+<title>K2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1355.ts&amp;streamtype=TSDOWNLOADER&amp;name=K2 </link>
+</item>
+<item>
+<title>Cartonito</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1393.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartonito </link>
+</item>
+<item>
+<title>BABY TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/3891.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV </link>
+</item>
+<item>
+<title>Barbie Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1500.ts&amp;streamtype=TSDOWNLOADER&amp;name=Barbie Channel </link>
+</item>
+<item>
+<title>Masha E Orso</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1499.ts&amp;streamtype=TSDOWNLOADER&amp;name=Masha E Orso </link>
+</item>
+<item>
+<title>Tom & Jerry Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1101.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tom & Jerry Channel </link>
+</item>
+<item>
+<title>PeppaPig Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7780.ts&amp;streamtype=TSDOWNLOADER&amp;name=PeppaPig Channel </link>
+</item>
+<item>
+<title>###### MEDIASET PREMIUM ######</title>
+<link>plugin://plugin.video.f4mTester/?url=http://google.com:8000/hdmi&amp;streamtype=TSDOWNLOADER&amp;name=###### MEDIASET PREMIUM ###### </link>
+</item>
+<item>
+<title>--------Premium Cinema-------</title>
+<link>plugin://plugin.video.f4mTester/?url=http://google.com:8000/hdmi&amp;streamtype=TSDOWNLOADER&amp;name=--------Premium Cinema------- </link>
+</item>
+<item>
+<title>Premium Cinema HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/20.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema HD </link>
+</item>
+<item>
+<title>Premium Cinema HD Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6627.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema HD Dsl Lente </link>
+</item>
+<item>
+<title>Premium Cinema +24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/981.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema +24 </link>
+</item>
+<item>
+<title>Premium Cinema 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/2226.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema 2 HD </link>
+</item>
+<item>
+<title>Premium Cinema 2 HD Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6628.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema 2 HD Dsl Lente </link>
+</item>
+<item>
+<title>Premium Cinema 2 +24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/2225.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema 2 +24 </link>
+</item>
+<item>
+<title>Premium Action HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/2326.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Action HD </link>
+</item>
+<item>
+<title>Premium Action HD Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6629.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Action HD Dsl Lente </link>
+</item>
+<item>
+<title>Premium Action +24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Action +24 </link>
+</item>
+<item>
+<title>Premium Crime HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/2336.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Crime HD </link>
+</item>
+<item>
+<title>Premium Crime HD Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6711.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Crime HD Dsl Lente </link>
+</item>
+<item>
+<title>Premium Crime +24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/22.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Crime +24 </link>
+</item>
+<item>
+<title>Premium Cinema Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/32.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema Comedy </link>
+</item>
+<item>
+<title>Premium Cinema Emotion</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/23.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema Emotion </link>
+</item>
+<item>
+<title>Premium Energy HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/10860.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Energy HD </link>
+</item>
+<item>
+<title>Premium Cinema Energy +24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema Energy +24 </link>
+</item>
+<item>
+<title>Premium Studio Universal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/27.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Studio Universal </link>
+</item>
+<item>
+<title>--------Premium Intrettenimento-----</title>
+<link>plugin://plugin.video.f4mTester/?url=http://google.com:8000/hdmi&amp;streamtype=TSDOWNLOADER&amp;name=--------Premium Intrettenimento----- </link>
+</item>
+<item>
+<title>Premium Joy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/25.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Joy </link>
+</item>
+<item>
+<title>Premium Joi +24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Joi +24 </link>
+</item>
+<item>
+<title>Premium Stories</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Stories </link>
+</item>
+<item>
+<title>Premium Stories +24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Stories +24 </link>
+</item>
+<item>
+<title>Investigation Discovery</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/11767.ts&amp;streamtype=TSDOWNLOADER&amp;name=Investigation Discovery </link>
+</item>
+<item>
+<title>Premium Extra 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/10634.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Extra 1 </link>
+</item>
+<item>
+<title>Premium Extra 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/10635.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Extra 2 </link>
+</item>
+<item>
+<title>------Premium Sport-------</title>
+<link>plugin://plugin.video.f4mTester/?url=http://google.com:8000/hdmi&amp;streamtype=TSDOWNLOADER&amp;name=------Premium Sport------- </link>
+</item>
+<item>
+<title>Premium Sport HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/2335.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport HD </link>
+</item>
+<item>
+<title>Premium Sport Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/3053.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport Dsl Lente </link>
+</item>
+<item>
+<title>Premium Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/706.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport 2 HD </link>
+</item>
+<item>
+<title>Premium Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/37.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport 2 </link>
+</item>
+<item>
+<title>SportItalia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1396.ts&amp;streamtype=TSDOWNLOADER&amp;name=SportItalia </link>
+</item>
+<item>
+<title>Premium Calcio 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7256.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 1 HD </link>
+</item>
+<item>
+<title>Premium Calcio 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 1 </link>
+</item>
+<item>
+<title>Premium Calcio 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 2 </link>
+</item>
+<item>
+<title>Premium Calcio 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 3 </link>
+</item>
+<item>
+<title>Premium Calcio 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1402.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 4 </link>
+</item>
+<item>
+<title>Premium Calcio 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1401.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 5 </link>
+</item>
+<item>
+<title>Premium Calcio 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1400.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 6 </link>
+</item>
+<item>
+<title>Premium Calcio 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/3243.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 7 </link>
+</item>
+<item>
+<title>########### SKY ITALIA #########</title>
+<link>plugin://plugin.video.f4mTester/?url=http://google.com:8000/hdmi&amp;streamtype=TSDOWNLOADER&amp;name=########### SKY ITALIA ######### </link>
+</item>
+<item>
+<title>-----------CINEMA-----------</title>
+<link>plugin://plugin.video.f4mTester/?url=http://google.com:8000/hdmi&amp;streamtype=TSDOWNLOADER&amp;name=-----------CINEMA----------- </link>
+</item>
+<item>
+<title>Sky Cinema 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/773.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema 1 HD </link>
+</item>
+<item>
+<title>Sky Cinema 1 DSL Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/3885.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema 1 DSL Lente </link>
+</item>
+<item>
+<title>Sky Cinema +1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1390.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema +1 HD </link>
+</item>
+<item>
+<title>Sky Cinema  +1 HD Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6718.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema  +1 HD Dsl Lente </link>
+</item>
+<item>
+<title>Sky Cinema +24 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema +24 HD </link>
+</item>
+<item>
+<title>Sky Cinema +24 Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6619.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema +24 Dsl Lente </link>
+</item>
+<item>
+<title>Sky Cinema Hits HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/513.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Hits HD </link>
+</item>
+<item>
+<title>Sky Cinema Hits Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/2806.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Hits Dsl Lente </link>
+</item>
+<item>
+<title>Sky Cinema Family HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/771.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Family HD </link>
+</item>
+<item>
+<title>Sky Cinema Family Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6616.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Family Dsl Lente </link>
+</item>
+<item>
+<title>Sky Cinema Family +1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1388.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Family +1 HD </link>
+</item>
+<item>
+<title>Sky Cinema Passion HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Passion HD </link>
+</item>
+<item>
+<title>Sky Cinema Comedy HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/657.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Comedy HD </link>
+</item>
+<item>
+<title>Sky Cinema Comedy Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6618.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Comedy Dsl Lente </link>
+</item>
+<item>
+<title>Sky Cinema Max HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/769.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Max HD </link>
+</item>
+<item>
+<title>Sky Cinema Max Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6617.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Max Dsl Lente </link>
+</item>
+<item>
+<title>Sky Cinema Max +1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1394.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Max +1 HD </link>
+</item>
+<item>
+<title>Sky Cinema Cult HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/678.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Cult HD </link>
+</item>
+<item>
+<title>Sky Cinema Classic HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/763.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Classic HD </link>
+</item>
+<item>
+<title>Sky 3D</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/957.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky 3D </link>
+</item>
+<item>
+<title>---------Intrattenimento--------</title>
+<link>plugin://plugin.video.f4mTester/?url=http://google.com:8000/hdmi&amp;streamtype=TSDOWNLOADER&amp;name=---------Intrattenimento-------- </link>
+</item>
+<item>
+<title>Sky Uno HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/640.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Uno HD </link>
+</item>
+<item>
+<title>Sky UNO DSL Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/3886.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky UNO DSL Lente </link>
+</item>
+<item>
+<title>Sky Uno +1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1395.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Uno +1 HD </link>
+</item>
+<item>
+<title>Sky Atlantic HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/783.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Atlantic HD </link>
+</item>
+<item>
+<title>Sky Atlantic Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6612.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Atlantic Dsl Lente </link>
+</item>
+<item>
+<title>Sky Atlantic +1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1385.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Atlantic +1 HD </link>
+</item>
+<item>
+<title>Fox HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/710.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox HD </link>
+</item>
+<item>
+<title>Sky Fox +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1397.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Fox +1 </link>
+</item>
+<item>
+<title>Fox Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6614.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Dsl Lente </link>
+</item>
+<item>
+<title>Fox Life HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Life HD </link>
+</item>
+<item>
+<title>Fox Life Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6615.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Life Dsl Lente </link>
+</item>
+<item>
+<title>Sky Fox Life +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1391.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Fox Life +1 </link>
+</item>
+<item>
+<title>Fox Crime HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/670.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Crime HD </link>
+</item>
+<item>
+<title>Fox Crime Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6613.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Crime Dsl Lente </link>
+</item>
+<item>
+<title>Sky Fox Crime  +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1392.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Fox Crime  +1 </link>
+</item>
+<item>
+<title>Fox Comedy HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/672.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Comedy HD </link>
+</item>
+<item>
+<title>Fox Animation HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/671.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Animation HD </link>
+</item>
+<item>
+<title>AXN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/636.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD </link>
+</item>
+<item>
+<title>Sky AXN +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/2374.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky AXN +1 </link>
+</item>
+<item>
+<title>AXN  HD  Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6716.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN  HD  Dsl Lente </link>
+</item>
+<item>
+<title>AXN Sci Fi</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/976.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN Sci Fi </link>
+</item>
+<item>
+<title>MTV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6413.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV HD </link>
+</item>
+<item>
+<title>Comedy Central</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/995.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central </link>
+</item>
+<item>
+<title>Animal Planet</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/996.ts&amp;streamtype=TSDOWNLOADER&amp;name=Animal Planet </link>
+</item>
+<item>
+<title>Sky Real Time HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/864.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Real Time HD </link>
+</item>
+<item>
+<title>Sky GamberoRosso HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/781.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky GamberoRosso HD </link>
+</item>
+<item>
+<title>LEI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1017.ts&amp;streamtype=TSDOWNLOADER&amp;name=LEI </link>
+</item>
+<item>
+<title>Laeffe</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/4388.ts&amp;streamtype=TSDOWNLOADER&amp;name=Laeffe </link>
+</item>
+<item>
+<title>PokerIttalia 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1018.ts&amp;streamtype=TSDOWNLOADER&amp;name=PokerIttalia 24 </link>
+</item>
+<item>
+<title>SKY  TG24 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY  TG24 HD </link>
+</item>
+<item>
+<title>Sky TG 24 Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7232.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky TG 24 Dsl Lente </link>
+</item>
+<item>
+<title>Class CNBC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7689.ts&amp;streamtype=TSDOWNLOADER&amp;name=Class CNBC </link>
+</item>
+<item>
+<title>---------Cultura---------</title>
+<link>plugin://plugin.video.f4mTester/?url=http://google.com:8000/hdmi&amp;streamtype=TSDOWNLOADER&amp;name=---------Cultura--------- </link>
+</item>
+<item>
+<title>Sky discovery HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/830.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky discovery HD </link>
+</item>
+<item>
+<title>Sky Discovery HD Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7213.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Discovery HD Dsl Lente </link>
+</item>
+<item>
+<title>Sky NationalGeo HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/784.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky NationalGeo HD </link>
+</item>
+<item>
+<title>Sky NationalGeo HD Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7208.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky NationalGeo HD Dsl Lente </link>
+</item>
+<item>
+<title>Sky NatGeo People HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/782.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky NatGeo People HD </link>
+</item>
+<item>
+<title>Sky NatGeo People HD Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7210.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky NatGeo People HD Dsl Lente </link>
+</item>
+<item>
+<title>Nat Geo Wild HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/828.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo Wild HD </link>
+</item>
+<item>
+<title>Sky NatGeo Wild HD Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7209.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky NatGeo Wild HD Dsl Lente </link>
+</item>
+<item>
+<title>Sky History HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/676.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky History HD </link>
+</item>
+<item>
+<title>Sky History HD Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7211.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky History HD Dsl Lente </link>
+</item>
+<item>
+<title>Sky Discovery science HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/679.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Discovery science HD </link>
+</item>
+<item>
+<title>Sky Discovery Sci HD Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/7212.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Discovery Sci HD Dsl Lente </link>
+</item>
+<item>
+<title>CI Crime+Investigation HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/680.ts&amp;streamtype=TSDOWNLOADER&amp;name=CI Crime+Investigation HD </link>
+</item>
+<item>
+<title>Sky Discovery Travel & Living HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/478.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Discovery Travel & Living HD </link>
+</item>
+<item>
+<title>Sky Arte HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/980.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Arte HD </link>
+</item>
+<item>
+<title>Sky Dmax HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/814.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Dmax HD </link>
+</item>
+<item>
+<title>Sky eXplora HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/674.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky eXplora HD </link>
+</item>
+<item>
+<title>Sky Classica HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/4167.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Classica HD </link>
+</item>
+<item>
+<title>Sky Pesca & Caccia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/677.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Pesca & Caccia </link>
+</item>
+<item>
+<title>Caccia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/997.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caccia </link>
+</item>
+<item>
+<title>Dove TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6586.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dove TV </link>
+</item>
+<item>
+<title>------------Sport--------------</title>
+<link>plugin://plugin.video.f4mTester/?url=http://google.com:8000/hdmi&amp;streamtype=TSDOWNLOADER&amp;name=------------Sport-------------- </link>
+</item>
+<item>
+<title>Sky Sport 24 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/124.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 24 HD </link>
+</item>
+<item>
+<title>Sky Sport 24 DSL Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/3887.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 24 DSL Lente </link>
+</item>
+<item>
+<title>Sky Sport Mix HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/11153.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport Mix HD </link>
+</item>
+<item>
+<title>Sky Sport Plus HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/777.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport Plus HD </link>
+</item>
+<item>
+<title>Sky Sport Plus Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6620.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport Plus Dsl Lente </link>
+</item>
+<item>
+<title>Sky Fox Sport HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/410.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Fox Sport HD </link>
+</item>
+<item>
+<title>Sky Fox Sport Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6623.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Fox Sport Dsl Lente </link>
+</item>
+<item>
+<title>Sky Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/129.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 1 HD </link>
+</item>
+<item>
+<title>Sky Sport 1 Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/2777.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 1 Dsl Lente </link>
+</item>
+<item>
+<title>Sky Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/165.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 2 HD </link>
+</item>
+<item>
+<title>Sky Sport 2 HD Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6712.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 2 HD Dsl Lente </link>
+</item>
+<item>
+<title>Sky Sport 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/628.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 3 HD </link>
+</item>
+<item>
+<title>Sky Sport 3 Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/2978.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 3 Dsl Lente </link>
+</item>
+<item>
+<title>Sky Eurosport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/894.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Eurosport 1 HD </link>
+</item>
+<item>
+<title>Sky Eurosport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/895.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Eurosport 2 HD </link>
+</item>
+<item>
+<title>Sky Sport F1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/131.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport F1 HD </link>
+</item>
+<item>
+<title>Sky Formula 1 Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/2891.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Formula 1 Dsl Lente </link>
+</item>
+<item>
+<title>Sky Sport MotoGP HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/538.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport MotoGP HD </link>
+</item>
+<item>
+<title>Sky MotoGP Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6622.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky MotoGP Dsl Lente </link>
+</item>
+<item>
+<title>AutoMoto TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6457.ts&amp;streamtype=TSDOWNLOADER&amp;name=AutoMoto TV </link>
+</item>
+<item>
+<title>Sky Supertennis HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/956.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Supertennis HD </link>
+</item>
+<item>
+<title>Sky SuperCalcio HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/128.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky SuperCalcio HD </link>
+</item>
+<item>
+<title>Sky SuperCalcio Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/3814.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky SuperCalcio Dsl Lente </link>
+</item>
+<item>
+<title>Juve Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/989.ts&amp;streamtype=TSDOWNLOADER&amp;name=Juve Channel </link>
+</item>
+<item>
+<title>Inter Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/988.ts&amp;streamtype=TSDOWNLOADER&amp;name=Inter Channel </link>
+</item>
+<item>
+<title>Milan Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/990.ts&amp;streamtype=TSDOWNLOADER&amp;name=Milan Channel </link>
+</item>
+<item>
+<title>Roma TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1089.ts&amp;streamtype=TSDOWNLOADER&amp;name=Roma TV </link>
+</item>
+<item>
+<title>Lazio Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1225.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lazio Channel </link>
+</item>
+<item>
+<title>Bike Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1224.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bike Channel </link>
+</item>
+<item>
+<title>Sky Class Horse</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/4098.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Class Horse </link>
+</item>
+<item>
+<title>Uniresat</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/4990.ts&amp;streamtype=TSDOWNLOADER&amp;name=Uniresat </link>
+</item>
+<item>
+<title>------------Calcio------------</title>
+<link>plugin://plugin.video.f4mTester/?url=http://google.com:8000/hdmi&amp;streamtype=TSDOWNLOADER&amp;name=------------Calcio------------ </link>
+</item>
+<item>
+<title>Sky Calcio 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/46.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 1 HD </link>
+</item>
+<item>
+<title>Sky Calcio 1 Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/2778.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 1 Dsl Lente </link>
+</item>
+<item>
+<title>Sky Calcio 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/761.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 2 HD </link>
+</item>
+<item>
+<title>Sky Calcio 2 Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/2779.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 2 Dsl Lente </link>
+</item>
+<item>
+<title>Sky Calcio 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/762.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 3 HD </link>
+</item>
+<item>
+<title>Sky Calcio 3 Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/2780.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 3 Dsl Lente </link>
+</item>
+<item>
+<title>Sky Calcio 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/718.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 4 HD </link>
+</item>
+<item>
+<title>Sky Calcio 4 Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6626.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 4 Dsl Lente </link>
+</item>
+<item>
+<title>Sky Calcio 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/50.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 5 HD </link>
+</item>
+<item>
+<title>Sky Calcio 5 Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6625.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 5 Dsl Lente </link>
+</item>
+<item>
+<title>Sky Calcio 6 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/51.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 6 HD </link>
+</item>
+<item>
+<title>Sky Sky Calcio 6 Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6621.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sky Calcio 6 Dsl Lente </link>
+</item>
+<item>
+<title>Sky Calcio 7 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/52.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 7 HD </link>
+</item>
+<item>
+<title>Sky Calcio 7 Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6624.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 7 Dsl Lente </link>
+</item>
+<item>
+<title>Sky Calcio 8 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/978.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 8 HD </link>
+</item>
+<item>
+<title>Sky Calcio 8 HD Dsl Lente</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/6714.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 8 HD Dsl Lente </link>
+</item>
+<item>
+<title>Sky Calcio 9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/2981.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 9 </link>
+</item>
+<item>
+<title>Sky Calcio 10</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/3890.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 10 </link>
+</item>
+<item>
+<title>Sky Calcio 11</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/4099.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 11 </link>
+</item>
+<item>
+<title>Sky Calcio 12</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/4528.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 12 </link>
+</item>
+<item>
+<title>Lega Pro Juve Stabia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/11565.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lega Pro Juve Stabia </link>
+</item>
+<item>
+<title>Lega Pro Cosenza</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/11566.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lega Pro Cosenza </link>
+</item>
+<item>
+<title>Lega Pro Catania</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/11248.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lega Pro Catania </link>
+</item>
+<item>
+<title>Lega Pro Messina</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/11175.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lega Pro Messina </link>
+</item>
+<item>
+<title>Lega Pro Reggina</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/11174.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lega Pro Reggina </link>
+</item>
+<item>
+<title>Lega Pro Foggia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/11414.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lega Pro Foggia </link>
+</item>
+<item>
+<title>Lega Pro Lecce</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/11173.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lega Pro Lecce </link>
+</item>
+<item>
+<title>Lega Pro Venezia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/11296.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lega Pro Venezia </link>
+</item>
+<item>
+<title>Lega Pro Taranto</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/11246.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lega Pro Taranto </link>
+</item>
+<item>
+<title>Lega Pro parma</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/11247.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lega Pro parma </link>
+</item>
+<item>
+<title>############ PRIMAFILA ###########</title>
+<link>plugin://plugin.video.f4mTester/?url=http://google.com:8000/hdmi&amp;streamtype=TSDOWNLOADER&amp;name=############ PRIMAFILA ########### </link>
+</item>
+<item>
+<title>Primafila Vetrina</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/movie/ruggeri/ruggeri01/1358.mkv&amp;streamtype=TSDOWNLOADER&amp;name=Primafila Vetrina </link>
+</item>
+<item>
+<title>Primafila 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1437.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 1 HD </link>
+</item>
+<item>
+<title>Primafila 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1438.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 2 HD </link>
+</item>
+<item>
+<title>Primafila 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1439.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 3 HD </link>
+</item>
+<item>
+<title>Primafila 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1440.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 4 HD </link>
+</item>
+<item>
+<title>Primafila 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1441.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 5 HD </link>
+</item>
+<item>
+<title>Primafila 6 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1442.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 6 HD </link>
+</item>
+<item>
+<title>Primafila 7 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1443.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 7 HD </link>
+</item>
+<item>
+<title>Primafila 8 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1444.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 8 HD </link>
+</item>
+<item>
+<title>Primafila 9 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1445.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 9 HD </link>
+</item>
+<item>
+<title>Primafila 10 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1446.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 10 HD </link>
+</item>
+<item>
+<title>Primafila 11 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1447.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 11 HD </link>
+</item>
+<item>
+<title>Primafila 12 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1453.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 12 HD </link>
+</item>
+<item>
+<title>Primafila 13 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1448.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 13 HD </link>
+</item>
+<item>
+<title>Primafila 14 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1449.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 14 HD </link>
+</item>
+<item>
+<title>Primafila 15 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1450.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 15 HD </link>
+</item>
+<item>
+<title>Primafila 16 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1454.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 16 HD </link>
+</item>
+<item>
+<title>Primafila 17 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1451.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 17 HD </link>
+</item>
+<item>
+<title>Primafila 18 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1452.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 18 HD </link>
+</item>
+<item>
+<title>Primafila 19 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bstream.summerwaves.net:8000/live/ruggeri/ruggeri01/1436.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 19 HD </link>
+</item>
 
 
 
