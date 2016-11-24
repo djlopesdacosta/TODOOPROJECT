@@ -1,97 +1,199 @@
 #EXTM3U
-#EXTINF:-1,NATGEOWILDHD-FR
-http://163.172.51.238:7070/play/a00r
-#EXTINF:-1,DISNEYCHANNEL-1HD-FR
-http://163.172.51.238:7070/play/a00y
-#EXTINF:-1,Dubai_Racing2
-http://163.172.51.238:7070/play/a03x
-#EXTINF:-1,CINEPREMIERHD-FR
-http://163.172.51.238:7070/play/a00f
-#EXTINF:-1,FRANCE4-HD
-http://163.172.51.238:7070/play/a005
-#EXTINF:-1,OCSMAXHD-FR
-http://163.172.51.238:7070/play/a007
-#EXTINF:-1,NATIONALGEOGRAPHIC-FR
-http://163.172.51.238:7070/play/a00q
-#EXTINF:-1,WEO-FR
-http://163.172.51.238:7070/play/a012
-#EXTINF:-1,SERIECLUB-FR
-http://163.172.51.238:7070/play/a00k
-#EXTINF:-1,BEINSPORT1FR
-http://163.172.51.238:7070/play/a00l
-#EXTINF:-1,CANALSPORTHD-FR
-http://163.172.51.238:7070/play/a00p
-#EXTINF:-1,DISNEYCINEMA-HD-FR
-http://163.172.51.238:7070/play/a00x
-#EXTINF:-1,MBCMasr1
-http://163.172.51.238:7070/play/a01a
-#EXTINF:-1,BEINSPORT2FR
-http://163.172.51.238:7070/play/a00m
-#EXTINF:-1,BEINSPORT3FR
-http://163.172.51.238:7070/play/a00n
-#EXTINF:-1,DISNEYCHANNEL-FR
-http://163.172.51.238:7070/play/a00z
-#EXTINF:-1,DISNEYXD-HD-FR
-http://163.172.51.238:7070/play/a00w
-#EXTINF:-1,dubai-racing1
-http://163.172.51.238:7070/play/a03w
-#EXTINF:-1,EUROSPORT2-FR
-http://163.172.51.238:7070/play/a00o
-#EXTINF:-1,B4UPLUS
-http://163.172.51.238:7070/play/a073
-#EXTINF:-1,CineClassicHD-FR
-http://163.172.51.238:7070/play/a00j
-#EXTINF:-1,CANALCINEMAHD-FR
-http://163.172.51.238:7070/play/a00e
-#EXTINF:-1,CANALDECALE-FR
-http://163.172.51.238:7070/play/a008
-#EXTINF:-1,CINEEMOTION-FR
-http://163.172.51.238:7070/play/a00h
-#EXTINF:-1,CANALHD-FR
-http://163.172.51.238:7070/play/a002
-#EXTINF:-1,FRANCE5-HD
-http://163.172.51.238:7070/play/a006
-#EXTINF:-1,DISCOVERY-SCIENCEHD-FR
-http://163.172.51.238:7070/play/a00v
-#EXTINF:-1,FRANCE2-HD
-http://163.172.51.238:7070/play/a004
-#EXTINF:-1,CINEFRISSONHD-FR
-http://163.172.51.238:7070/play/a00i
-#EXTINF:-1,PLANETE+FR
-http://163.172.51.238:7070/play/a00s
-#EXTINF:-1,COMEDIE-FR
-http://163.172.51.238:7070/play/a013
-#EXTINF:-1,CANALSERIEHD-FR
-http://163.172.51.238:7070/play/a00c
-#EXTINF:-1,M6-MUSIC-HD-FR
-http://163.172.51.238:7070/play/a001
-#EXTINF:-1,CINEFAMIZ-FR
-http://163.172.51.238:7070/play/a00g
-#EXTINF:-1,CANALFAMILYHD-FR
-http://163.172.51.238:7070/play/a00d
-#EXTINF:-1,HISTOIRE-HD-FR
-http://163.172.51.238:7070/play/a00t
-#EXTINF:-1,FRANCE24-FR
-http://163.172.51.238:7070/play/a014
-#EXTINF:-1,SiryaTV
-http://163.172.51.238:7070/play/a042
-#EXTINF:-1,BBCarabic
-http://163.172.51.238:7070/play/a045
-#EXTINF:-1,SyrianAloula
-http://163.172.51.238:7070/play/a044
-#EXTINF:-1,OCSCHOCHD-FR
-http://163.172.51.238:7070/play/a00b
-#EXTINF:-1,PLANETE-CI-HD-FR
-http://163.172.51.238:7070/play/a00u
-#EXTINF:-1,FRANCE3-HD
-http://163.172.51.238:7070/play/a003
-#EXTINF:-1,OCSCITYHD-FR
-http://163.172.51.238:7070/play/a00a
-#EXTINF:-1,TF1HD
-http://163.172.51.238:7070/play/a009
-#EXTINF:-1,CARTOONNETWORK-FR
-http://163.172.51.238:7070/play/a010
 
+#EXTINF:-1,FR: TF1
+http://gogobox.eu:8000/live/777/777/5272.m3u8
+#EXTINF:-1,NT1 fr
+http://gogobox.eu:8000/live/777/777/5274.m3u8
+#EXTINF:-1,FR: NRJ12
+http://gogobox.eu:8000/live/777/777/5273.m3u8
+#EXTINF:-1,M6 HD fr
+http://gogobox.eu:8000/live/777/777/5271.m3u8
+#EXTINF:-1,------- Cine -------
+http://gogobox.eu:8000/live/777/777/2573.m3u8
+#EXTINF:-1,FRENCH | LOC Cine  Emotion H -
+http://gogobox.eu:8000/live/777/777/4218.m3u8
+#EXTINF:-1,FRENCH |  LOC CINE PREMIER HD F -
+http://gogobox.eu:8000/live/777/777/4217.m3u8
+#EXTINF:-1,CINE POLAR fr
+http://gogobox.eu:8000/live/777/777/4235.m3u8
+#EXTINF:-1,FRENCH |  CINE PLUS FRISSON HD
+http://gogobox.eu:8000/live/777/777/4232.m3u8
+#EXTINF:-1,FRENCH |  CINE PLUS EMOTION HD
+http://gogobox.eu:8000/live/777/777/4233.m3u8
+#EXTINF:-1,CINE CLASSIC HD fr
+http://gogobox.eu:8000/live/777/777/4234.m3u8
+#EXTINF:-1,CINE FRISSON fr
+http://gogobox.eu:8000/live/777/777/4229.m3u8
+#EXTINF:-1,FR:-CINE--PREMIER-HD
+http://gogobox.eu:8000/live/777/777/679.m3u8
+#EXTINF:-1,FR:-CINE--FAMIZ-HD
+http://gogobox.eu:8000/live/777/777/680.m3u8
+#EXTINF:-1,FR:-CINE--EMOTION-HD
+http://gogobox.eu:8000/live/777/777/681.m3u8
+#EXTINF:-1,Action fr
+http://gogobox.eu:8000/live/777/777/689.m3u8
+#EXTINF:-1,FR: COMEDIE
+http://gogobox.eu:8000/live/777/777/4510.m3u8
+#EXTINF:-1,CINE  POLAR
+http://gogobox.eu:8000/live/777/777/4508.m3u8
+#EXTINF:-1,CINE  FRISSON HD fr
+http://gogobox.eu:8000/live/777/777/4505.m3u8
+#EXTINF:-1,CINE  Emotion HD fr
+http://gogobox.eu:8000/live/777/777/4503.m3u8
+#EXTINF:-1,CINE   Premier fr
+http://gogobox.eu:8000/live/777/777/4504.m3u8
+#EXTINF:-1,CINE FX fr
+http://gogobox.eu:8000/live/777/777/4509.m3u8
+#EXTINF:-1,FR: CINE   Famiz
+http://gogobox.eu:8000/live/777/777/4506.m3u8
+#EXTINF:-1,CINE   Classic fr
+http://gogobox.eu:8000/live/777/777/4507.m3u8
+#EXTINF:-1,CANAL  FAMILY HD fr
+http://gogobox.eu:8000/live/777/777/4499.m3u8
+#EXTINF:-1,CANAL  Décalé HD fr
+http://gogobox.eu:8000/live/777/777/4501.m3u8
+#EXTINF:-1,CANAL   SERIES  HD fr
+http://gogobox.eu:8000/live/777/777/4500.m3u8
+#EXTINF:-1,FR: CANAL   CINEMA HD
+http://gogobox.eu:8000/live/777/777/4502.m3u8
+#EXTINF:-1,FR: CANAL    HD
+http://gogobox.eu:8000/live/777/777/4498.m3u8
+#EXTINF:-1,------- Orange --------
+http://gogobox.eu:8000/live/777/777/2583.m3u8
+#EXTINF:-1,------- Canal   -------
+http://gogobox.eu:8000/live/777/777/2582.m3u8
+#EXTINF:-1,FRENCH |  LOC Canal  Family HD F -
+http://gogobox.eu:8000/live/777/777/4219.m3u8
+#EXTINF:-1,FRENCH | LOC Canal  cinema HD H -
+http://gogobox.eu:8000/live/777/777/4220.m3u8
+#EXTINF:-1,FRENCH |  CANALPLAY-9
+http://gogobox.eu:8000/live/777/777/4221.m3u8
+#EXTINF:-1,FRENCH |  CANALPLAY-5
+http://gogobox.eu:8000/live/777/777/4222.m3u8
+#EXTINF:-1,FRENCH |  CANALPLAY-4
+http://gogobox.eu:8000/live/777/777/4223.m3u8
+#EXTINF:-1,FRENCH |  CANALPLAY-3
+http://gogobox.eu:8000/live/777/777/4224.m3u8
+#EXTINF:-1,FRENCH |  CANALPLAY-1
+http://gogobox.eu:8000/live/777/777/4225.m3u8
+#EXTINF:-1,FR:CANAL--CINEMA-HD
+http://gogobox.eu:8000/live/777/777/664.m3u8
+#EXTINF:-1,FR:-CANAL--HD
+http://gogobox.eu:8000/live/777/777/683.m3u8
+#EXTINF:-1,CANAL--SERIES-HD fr
+http://gogobox.eu:8000/live/777/777/682.m3u8
+#EXTINF:-1,CANAL--FAMILY-HD fr
+http://gogobox.eu:8000/live/777/777/684.m3u8
+#EXTINF:-1,CANAL--DECALE-HD fr
+http://gogobox.eu:8000/live/777/777/685.m3u8
+#EXTINF:-1,FR:-CANAL--CINEMA-HD
+http://gogobox.eu:8000/live/777/777/686.m3u8
+#EXTINF:-1,-------- Série ---------
+http://gogobox.eu:8000/live/777/777/2579.m3u8
+#EXTINF:-1,LOC Serie Club fr
+http://gogobox.eu:8000/live/777/777/4238.m3u8
+#EXTINF:-1,W9 HD fr
+http://gogobox.eu:8000/live/777/777/4239.m3u8
+#EXTINF:-1,Comedie Plus HD fr
+http://gogobox.eu:8000/live/777/777/4230.m3u8
+#EXTINF:-1,FRENCH | comedie HD
+http://gogobox.eu:8000/live/777/777/4231.m3u8
+#EXTINF:-1,FRENCH |  OCS MAX HD
+http://gogobox.eu:8000/live/777/777/4226.m3u8
+#EXTINF:-1,FRENCH |  OCS GEANT HD
+http://gogobox.eu:8000/live/777/777/4227.m3u8
+#EXTINF:-1,OCS CITY HD fr
+http://gogobox.eu:8000/live/777/777/4228.m3u8
+#EXTINF:-1,FRENCH |  LOC OCS GEANT HD F -
+http://gogobox.eu:8000/live/777/777/4215.m3u8
+#EXTINF:-1,FRENCH |  LOC OCS CHOC HD F -
+http://gogobox.eu:8000/live/777/777/4216.m3u8
+#EXTINF:-1,A.LA.CARTE.1 fr
+http://gogobox.eu:8000/live/777/777/675.m3u8
+#EXTINF:-1,A.LA.CARTE.2 fr
+http://gogobox.eu:8000/live/777/777/674.m3u8
+#EXTINF:-1,A.LA.CARTE.3 fr
+http://gogobox.eu:8000/live/777/777/673.m3u8
+#EXTINF:-1,FR:A.LA.CARTE.4
+http://gogobox.eu:8000/live/777/777/672.m3u8
+#EXTINF:-1,FR:A.LA.CARTE.5
+http://gogobox.eu:8000/live/777/777/671.m3u8
+#EXTINF:-1,A.LA.CARTE.6 fr
+http://gogobox.eu:8000/live/777/777/670.m3u8
+#EXTINF:-1,A.LA.CARTE.7 fr
+http://gogobox.eu:8000/live/777/777/669.m3u8
+#EXTINF:-1,A.LA.CARTE.8 fr
+http://gogobox.eu:8000/live/777/777/668.m3u8
+#EXTINF:-1,FR:-FRANCE-2-HD
+http://gogobox.eu:8000/live/777/777/678.m3u8
+#EXTINF:-1,FRANCE-3HD fr
+http://gogobox.eu:8000/live/777/777/677.m3u8
+#EXTINF:-1,FRANCE-4HD fr
+http://gogobox.eu:8000/live/777/777/676.m3u8
+#EXTINF:-1,NICKELODEON HD fr
+http://gogobox.eu:8000/live/777/777/5095.m3u8
+#EXTINF:-1,FR: Zouzou TV
+http://gogobox.eu:8000/live/777/777/7152.m3u8
+#EXTINF:-1,FR: Piwi
+http://gogobox.eu:8000/live/777/777/7156.m3u8
+#EXTINF:-1,FR: Gulli HD
+http://gogobox.eu:8000/live/777/777/7159.m3u8
+#EXTINF:-1,FR: DISNEY XD
+http://gogobox.eu:8000/live/777/777/7154.m3u8
+#EXTINF:-1,FR: Disney Junior
+http://gogobox.eu:8000/live/777/777/7153.m3u8
+#EXTINF:-1,FR: CARTOON NETWORK
+http://gogobox.eu:8000/live/777/777/7157.m3u8
+#EXTINF:-1,FR: Boomerang HD
+http://gogobox.eu:8000/live/777/777/7155.m3u8
+#EXTINF:-1,FR: BOING
+http://gogobox.eu:8000/live/777/777/7158.m3u8
+#EXTINF:-1,Bein Sporm3u8 1 HD                                                                        fr
+http://gogobox.eu:8000/live/777/777/5951.m3u8
+#EXTINF:-1,Bein Sporm3u8 2 HD fr
+http://gogobox.eu:8000/live/777/777/5952.m3u8
+#EXTINF:-1,Bein Sporm3u8 3 HD fr
+http://gogobox.eu:8000/live/777/777/5953.m3u8
+#EXTINF:-1,beIN-SPORm3u8-1-HD fr
+http://gogobox.eu:8000/live/777/777/667.m3u8
+#EXTINF:-1,beIN-SPORm3u8-2-HD fr
+http://gogobox.eu:8000/live/777/777/666.m3u8
+#EXTINF:-1,beIN-SPORm3u8-3-HD fr
+http://gogobox.eu:8000/live/777/777/665.m3u8
+#EXTINF:-1,FRENCH |  InfoSport
+http://gogobox.eu:8000/live/777/777/4206.m3u8
+#EXTINF:-1,FRENCH |  FOOT
+http://gogobox.eu:8000/live/777/777/4205.m3u8
+#EXTINF:-1,FRENCH |  EUROSPORT HD
+http://gogobox.eu:8000/live/777/777/4209.m3u8
+#EXTINF:-1,EUROSPORT 1 HD fr
+http://gogobox.eu:8000/live/777/777/4210.m3u8
+#EXTINF:-1,EUROSPORT2 fr
+http://gogobox.eu:8000/live/777/777/4211.m3u8
+#EXTINF:-1,FRENCH | MA CHAINE SPORT
+http://gogobox.eu:8000/live/777/777/4208.m3u8
+#EXTINF:-1,FRENCH | CANAL SPORT HD
+http://gogobox.eu:8000/live/777/777/4212.m3u8
+#EXTINF:-1,FRENCH |  CANAL  SPORT HD
+http://gogobox.eu:8000/live/777/777/4214.m3u8
+#EXTINF:-1,CANAL+SPORT fr
+http://gogobox.eu:8000/live/777/777/5971.m3u8
+#EXTINF:-1,OL TV fr
+http://gogobox.eu:8000/live/777/777/4213.m3u8
+#EXTINF:-1,FRENCH |  L'EQUIPE 21
+http://gogobox.eu:8000/live/777/777/4207.m3u8
+#EXTINF:-1,--------- Découverte ---------
+http://gogobox.eu:8000/live/777/777/2598.m3u8
+#EXTINF:-1,Chasse&Peche fr
+http://gogobox.eu:8000/live/777/777/4236.m3u8
+#EXTINF:-1,Animaux-HD fr
+http://gogobox.eu:8000/live/777/777/687.m3u8
+#EXTINF:-1,FRA:Animaux
+http://gogobox.eu:8000/live/777/777/688.m3u8
+#EXTINF:-1,Discovery fr
+http://gogobox.eu:8000/live/777/777/4240.m3u8
+#EXTINF:-1,NATIONAL.GEO.WILD.HD fr
+http://gogobox.eu:8000/live/777/777/4237.m3u8
 
 
 
