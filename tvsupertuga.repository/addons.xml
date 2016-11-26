@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<addon id="frenchdj.repository" name="frenchdj repository" version="0.0.1" provider-name="frenchdj">
+	<extension point="xbmc.addon.repository" name="frenchdj Add-on Repository">
+		<info compressed="false">http://raw.github.com/frenchdj/frenchdj.repository/master/addons.xml</info>
+		<checksum>http://raw.github.com/frenchdj/frenchdj.repository/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/frenchdj/frenchdj.repository/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>frenchdj Addon</summary>
+		<description>frenchdj addons repositorio</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
 <addon id="plugin.image.bancadejornais" name="Banca de Jornais" version="1.0.3"
        provider-name="enen92">
   <requires>
@@ -16,28 +30,6 @@
     </description>
     <license>GPL 2.0</license>
   </extension>
-</addon>
-
-    <addon id="plugin.program.addoninstaller" version="1.2.6"
-    	name="Addon Installer" provider-name="tvaddons.ag, Blazetamer">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-        <import addon="script.module.addon.common" optional="true" />
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>executable</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>Addon Browser</summary>
-        <description>Its like an App Store where you'll find Addons for Kodi, and everything is free!</description>
-        <disclaimer>By using this, you take reponsibility for anything that happens.</disclaimer>
-        <language>en</language>
-        <platform>all</platform>
-        <forum>http://forums.tvaddons.ag/forums/156-ADDON-INSTALLER</forum>
-        <website>http://addons.tvaddons.ag/</website>
-        <source></source>
-        <email></email>
-    </extension>
 </addon>
 
 <addon id="plugin.program.advancedsettings"
@@ -66,23 +58,93 @@
 
 </addon>
 
-<addon id="plugin.video.digistorageplayer" name="Digi Storage Player" version="1.0.0" provider-name="RCSRDS">
-	<requires>
-		<import addon="xbmc.python" version="2.24.0"/>
-		<import addon="script.module.requests" version="2.9.1"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="addon.py">
-		<provides>executable</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<platform>all</platform>
-		<summary lang="en">Digi Storage Player</summary>
-		<description lang="en">Digi Storage Player</description>
-		<license>GNU General Public License, v2</license>
-		<language></language>
-		<email>marianp.dot.com@gmail.com</email>
-		<source>https://github.com/marianpavel/plugin.video.digistorageplayer</source>
-	</extension>
+<addon id="plugin.program.iarl" name="Internet Archive ROM Launcher" version="1.5.5" provider-name="Zach Morris">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0"/>
+    <import addon="plugin.video.youtube" version="5.1.9"/>
+    <import addon="script.module.dateutil" version="2.4.2"/>
+    <import addon="script.module.requests" version="2.9.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video game</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <language></language>
+    <summary>Internet Archive ROM Launcher</summary>
+    <description>IARL will download ROMs from the Internet Archive and launch them with Kodi</description>
+  </extension>
+</addon>
+
+<addon id="plugin.program.jogosEmuladores"
+	     name="Jogos e Emuladores"
+	     version="0.0.3"
+	     provider-name="TVsupertuga">
+  <requires>
+  	<import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en"></summary>
+    <description lang="en"></description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum>http://tvsupertuga.forum-gratuito.com/</forum>
+    <website></website>
+    <facebookgrupo></facebookgrupo>
+    <email>tvsupertuga@gmail.com</email>
+  </extension>
+</addon>
+
+<addon id="plugin.program.tvsupertuga.notifications" version="0.0.1"
+       name="[COLOR cyan]TV[/COLOR]-[COLOR red]supertuga[/COLOR] [COLOR limegreen]notifications[/COLOR]" provider-name="TEAM TUGA 4EVER">
+  <requires>
+  	<import addon="xbmc.python" version="2.1.0"/>
+  	<import addon="script.module.addon.common" optional="true" />
+  </requires>
+  <extension point="xbmc.python.script" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  	<summary>TVsupertuga NEWS</summary>
+  	<description>HERE YOU CAN FIND THE LATEST NEWS OF TVsupertuga.</description>
+  	<disclaimer>WE TAKE NO RESPONSIBILITY FOR ANY PROBLEMS THIS PLUGIN MAY CAUSE.</disclaimer>
+  	<language>en</language>
+  	<platform>all</platform>
+  	<website></website>
+  	<source></source>
+  	<email></email>
+  </extension>
+</addon>
+
+<addon id="plugin.video.alive.hd" name="Alive HD" version="1.6" provider-name="frenchdj">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" />
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">alive.hd</summary>
+    <description lang="en">[ENG] Concerts and Djs live performances with HD quality. Playlists organized by categories and any source comes from Youtube users. Advised the latest version of youtube 5.2.*
+[PT] Concertos e performances de Djs ao vivo com qualidade HD. Playlists organizadas por categorias com diversas vertentes Musicais. Toda a fonte  vem de utilizadores do Youtube. Aconselhado a ultima versao do youtube 5.2.* </description>
+    <platform>all</platform>
+    <forum></forum>
+    <website></website>
+  </extension>
 </addon>
 
 <addon id="plugin.video.docbrasil" name="DocBrasil" version="1.0.0" provider-name="AddonBrasil">
@@ -125,10 +187,10 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.f4mTester" version="2.2.5" name="f4mTester" provider-name="Shani">
+<addon id="plugin.video.f4mTester" version="2.5.7" name="f4mTester" provider-name="Shani">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
-        <import addon="script.video.F4mProxy" version="2.2.3"/>
+        <import addon="script.video.F4mProxy" version="2.5.7"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
@@ -161,25 +223,32 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.jami" name="Jami" version="2.1" provider-name="frenchdj">
+<addon id="plugin.video.jami"
+       name="Jami"
+       version="5.2"
+       provider-name="frenchdj">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.addon.common" version="2.0.0"/>
-    <import addon="plugin.video.youtube" />
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" optional="true" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
+     <import addon="script.module.livestreamer" optional="true"/>
   </requires>
-
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
-
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">jami</summary>
-    <description lang="en">Videos Infantis em [PT] e [BR].
+    <summary>Jami</summary>
+    <description>Videos Infantis em [PT] e [BR].
 Toda a fonte vem do Youtube com playlists dedicadas aos mais pequenos, recheadas de desenhos animados recentes, classicos e musicais.
-Nota Importante: Aconselhado a ultima versao do youtube 5.20.0.6 e respetivo Login.</description>
+Nota Importante: Aconselhado a ultima versao do youtube 5.2.*</description>
     <platform>all</platform>
-    <forum></forum>
-    <website></website>
   </extension>
 </addon>
 
@@ -201,7 +270,7 @@ Nota Importante: Aconselhado a ultima versao do youtube 5.20.0.6 e respetivo Log
 	</extension>
 </addon>
 
-<addon id="plugin.video.loganaddon" name="loganaddon TV" version="1.9" provider-name="Vitor Pereira e Pedro Selva">
+<addon id="plugin.video.loganaddon" name="loganaddon TV" version="1.8" provider-name="Vitor Pereira e Pedro Selva">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -210,9 +279,9 @@ Nota Importante: Aconselhado a ultima versao do youtube 5.20.0.6 e respetivo Log
     <import addon="script.module.simple.downloader" version="0.9.4"/>
     <import addon="script.module.requests" />
     <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="false"/>
-    <import addon="plugin.video.youtube" optional="false" />
-    <import addon="script.module.urlresolver" optional="false"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" optional="true" />
+    <import addon="script.module.urlresolver" optional="true"/>
     <import addon="script.module.simplejson" />
      <import addon="script.module.livestreamer" optional="true"/>
   </requires>
@@ -263,6 +332,36 @@ Nota Importante: Aconselhado a ultima versao do youtube 5.20.0.6 e respetivo Log
   </extension>
 </addon>
 
+<addon id="plugin.video.pancas"
+       name="PancasTV"
+       version="1.1.9"
+       provider-name="Pancas">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" optional="true" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
+     <import addon="script.module.livestreamer" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>TV para todos</summary>
+    <description>
+        Uma televisÃ£o ao clique de um dedo.
+
+    </description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.playlistLoader" name="Playlist Loader" version="1.0.9" provider-name="Avigdor">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -282,7 +381,7 @@ http://www.hometheater.co.il</description>
 
 <addon id="plugin.video.projectxwizard"
 	     name="[COLOR White]Project[/COLOR] [COLOR cyan]X[/COLOR] [COLOR White]Wizard[/COLOR]"
-	     version="0.1.7"
+	     version="0.1.6"
 	     provider-name="TVsupertuga">
   <requires>
   	<import addon="xbmc.python" version="2.1.0"/>
@@ -307,7 +406,7 @@ http://www.hometheater.co.il</description>
   </extension>
 </addon>
 
-<addon id="plugin.video.pt.docs.hd" name="PT DocS HD" version="1.0" provider-name="frenchdj">
+<addon id="plugin.video.pt.docs.hd" name="PT DocS HD" version="2.3c" provider-name="frenchdj">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.addon.common" version="2.0.0"/>
@@ -323,7 +422,31 @@ http://www.hometheater.co.il</description>
     <description lang="en">Documentarios legendados ou dobrados em [PT] e [BR] com qualidade HD.
 Playlists organizadas por categorias com assuntos historicos e da actualidade .
 Toda a fonte  vem de utilizadores do Youtube.
-Nota Importante: Aconselhado a ultima versao do youtube 5.20.0.6 e respetivo Login.</description>
+Nota Importante: Aconselhado a ultima versao do youtube 5.2.* </description>
+    <platform>all</platform>
+    <forum></forum>
+    <website></website>
+  </extension>
+</addon>
+
+<addon id="plugin.video.sealmusic" name="Seal Music Live Acts" version="0.1" provider-name="SealMusic">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" />
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Seal Music Live Acts</summary>
+    <description lang="en">Concertos Ao Vivo Nacionais e Internacionais.
+Segue-me no YouTube: "https://www.youtube.com/channel/UC1RzK2_Ebk8bQ5A9H2PiT0g"
+Ou no facebook: "https://www.facebook.com/ifjpinto"
+Email: "addonsseal@gmail.com"
+Nota Importante: Aconselhado a ultima versao do youtube 5.20.0.6.</description>
     <platform>all</platform>
     <forum></forum>
     <website></website>
@@ -356,13 +479,16 @@ Nota Importante: Aconselhado a ultima versao do youtube 5.20.0.6 e respetivo Log
 
 <addon
   id="plugin.video.SportsDevil"
-  version="2016.3.9"
+  version="2016.09.24"
   name="SportsDevil"
   provider-name="SportsDevil">
   <requires>
    <import addon="xbmc.python" version="2.14.0"/>
+   <import addon="script.module.simplejson" />
+   <import addon="script.module.six" />
    <import addon="script.module.requests" />
-   <import addon="script.module.pydevd" version="4.4.0" optional="true"/>
+   <import addon="script.module.livestreamer" />
+   <import addon="script.module.pydevd" version="3.4.1" />
   </requires>
   <extension
     point="xbmc.python.pluginsource"
@@ -371,7 +497,7 @@ Nota Importante: Aconselhado a ultima versao do youtube 5.20.0.6 e respetivo Log
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>Play videos of different sports streaming sites</summary>
-    <description>Play videos of different sports streaming sites. [CR]For more addons visit [COLOR blue]iwillfolo.com[/COLOR]</description>
+    <description>Play videos of different sports streaming sites</description>
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
     <platform>all</platform>
   </extension>
@@ -419,6 +545,36 @@ Nota Importante: Aconselhado a ultima versao do youtube 5.20.0.6 e respetivo Log
     <summary lang="en">ADD-ON da Lista de canais do Milton Guedes</summary>
     <description lang="en">ADD-ON da Lista de canais do Milton Guedes, com vÃ¡rios canais de TV Brasileira e internacionais sempre atualizados.Addon com varios tipo de videos , shows, clips, Filmes, Desenhos, Canais Youtubes. EndereÃ§o do grupo no facebook --- https://www.facebook.com/groups/568745316624875 --- Se vocÃª gostou do meu trabalho e quiser fazer uma doaÃ§Ã£o, aqui estÃ¡ o link para pagamento PayPal --- http://bit.ly/doacao-milton</description>
 	<platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.traquinas"
+       name="Traquinas"
+       version="1.1"
+       provider-name="Kodi Traquinas">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" optional="true" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
+     <import addon="script.module.livestreamer" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Traquinas Entertenimento</summary>
+    <description>Desenhos animados e filmes infantis em [PT] e [BR].
+Categorias com legendas em [PT].
+
+[B][COLOR lime]Para que haja um bom funcionamento deste addon, o URL RESOLVER e o F4M TESTER necessitam de estar activos no kodi.[/COLOR][/B]</description>
+    <platform>all</platform>
   </extension>
 </addon>
 
@@ -620,6 +776,38 @@ SEND E MAIL: tvsupertuga@gmail.com[/B][/COLOR]</description>
 	</extension>
 </addon>
 
+<addon id="repository.shani" name="Shanis Addon Repository" version="2.9" provider-name="Shani">
+	<extension point="xbmc.addon.repository" name="Shanis Addon Repository">
+        <dir>
+			<info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
+			<checksum>https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/</datadir>
+		</dir>
+
+    <info compressed="false">https://offshoregit.com/Shani-08/main/addons.xml</info>
+    <checksum>https://offshoregit.com/Shani-08/main/addons.xml.md5</checksum>
+    <datadir zip="true">https://offshoregit.com/Shani-08/main/zips</datadir>
+
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Addons related to XBMC for Zemtv etc</summary>
+		<description>Go though the plugins and see what you like</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.zachmorris" name="Zach Morris Add-ons" version="1.0.0" provider-name="zachmorris">
+    <extension point="xbmc.addon.repository" name="Zach Morris Add-ons">
+        <info compressed="true">https://github.com/zach-morris/repository.zachmorris/raw/master/addons.xml</info>
+        <checksum>https://github.com/zach-morris/repository.zachmorris/raw/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/zach-morris/repository.zachmorris/master/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Zach Morris Add-ons</summary>
+        <platform>all</platform>
+    </extension>
+</addon>
+
 <addon id="script.common.plugin.cache" name="Common plugin cache" provider-name="TheCollective" version="2.5.8">
   <requires>
     <import addon="xbmc.python" version="2.24.0" />
@@ -690,6 +878,29 @@ SEND E MAIL: tvsupertuga@gmail.com[/B][/COLOR]</description>
     <license>BSD</license>
     <platform>all</platform>
     <website>http://www.crummy.com/software/BeautifulSoup/</website>
+  </extension>
+</addon>
+
+<addon id="script.module.dateutil"
+       name="dateutil"
+       version="2.4.2"
+       provider-name="Gustavo Niemeyer, Tomi PievilÃ¤inen, Yaron de Leeuw, Razzeee">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.six" version="1.9.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary>dateutil - powerful extensions to datetime</summary>
+    <description>Packed for Kodi from https://github.com/dateutil/dateutil</description>
+    <platform>all</platform>
+    <language></language>
+    <license>Revised BSD License</license>
+    <forum></forum>
+    <website>https://dateutil.readthedocs.org/en/latest/</website>
+    <source>https://github.com/Razzeee/script.module.dateutil</source>
+    <email></email>
   </extension>
 </addon>
 
@@ -832,6 +1043,26 @@ SEND E MAIL: tvsupertuga@gmail.com[/B][/COLOR]</description>
   </extension>
 </addon>
 
+<addon id="script.module.six"
+       name="six"
+       version="1.9.0"
+       provider-name="gutworth">
+  <requires>
+    <import addon="xbmc.python"
+    		version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary>Python 2 and 3 compatibility utilities.</summary>
+    <description>Six is a Python 2 and 3 compatibility library. It provides utility functions for smoothing over the differences between the Python versions with the goal of writing Python code that is compatible on both Python versions. See the documentation for more information on what is provided.</description>
+    <platform>all</platform>
+    <license>MIT</license>
+    <source>https://pypi.python.org/pypi/six</source>
+    <website>https://pypi.python.org/pypi/six</website>
+  </extension>
+</addon>
+
 <addon id="script.module.t0mm0.common"
 	     name="t0mm0's common stuff"
 	     version="2.1.1"
@@ -862,7 +1093,7 @@ SEND E MAIL: tvsupertuga@gmail.com[/B][/COLOR]</description>
 
 <addon id="script.video.F4mProxy"
 	     name="F4mProxy"
-	     version="2.5.5"
+	     version="2.5.8"
 	     provider-name="Shani">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
@@ -878,6 +1109,20 @@ SEND E MAIL: tvsupertuga@gmail.com[/B][/COLOR]</description>
     <summary lang="en">Proxy for f4m</summary>
     <description lang="en">Use this addon to play F4m v1 and v2 streams</description>
   </extension>
+</addon>
+
+<addon id="SealLiveActs.repository" name="Seal Live Acts" version="0.0.1" provider-name="SealMusic">
+	<extension point="xbmc.addon.repository" name="SMusic Add-on Repository">
+		<info compressed="false">http://raw.github.com/SealMusic/SealLiveActs/master/addons.xml</info>
+		<checksum>http://raw.github.com/SealMusic/SealLiveActs/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/SealMusic/SealLiveActs/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>SMusic Addon</summary>
+		<description>Addon Description</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
 </addon>
 
 <addon id="service.autosubs"
@@ -985,6 +1230,20 @@ SEND E MAIL: tvsupertuga@gmail.com[/B][/COLOR]</description>
   </extension>
 </addon>
 
+<addon id="supermilton.repository" name="Super Milton Add-on Repository" version="0.0.2" provider-name="Milton Guedes">
+	<extension point="xbmc.addon.repository" name="Super Milton Add-on Repository">
+		<info compressed="false">http://raw.github.com/listamilton/supermilton.repository/supermilton.repository/addons.xml</info>
+		<checksum>http://raw.github.com/listamilton/supermilton.repository/supermilton.repository/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/listamilton/supermilton.repository/supermilton.repository/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Super Milton Add-on Repository</summary>
+		<description>Repositorio de Addons do Milton Guedes</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
 <addon id="teamtuga4ever.repository" name="teamtuga4ever repository" version="1.4" provider-name="teamtuga4ever">
 	<extension point="xbmc.addon.repository" name="teamtuga4ever repository">
 		<info compressed="false">http://teamtuga4ever.net16.net/Repository/addons.xml</info>
@@ -999,8 +1258,8 @@ SEND E MAIL: tvsupertuga@gmail.com[/B][/COLOR]</description>
 	</extension>
 </addon>
 
-<addon id="tvsupertuga.repository" name="[COLOR red]TVsupertuga[/COLOR].repository" version="0.0.5" provider-name="tvsupertuga">
-	<extension point="xbmc.addon.repository" name="tvsupertuga.repository">
+<addon id="tvsupertuga.repository" name="[COLOR cyan]TV[/COLOR]-[COLOR red]SUPERTUGA[/COLOR].[COLOR limegreen]REPOSITORY[/COLOR]" version="0.0.6" provider-name="TVsupertuga">
+	<extension point="xbmc.addon.repository" name="tvsupertuga Repository">
 		<info compressed="false">http://tvsupertuga.net16.net/zips/addons.xml</info>
 		<checksum>http://tvsupertuga.net16.net/zips/addons.xml.md5</checksum>
 		<datadir zip="true">http://tvsupertuga.net16.net/instal/</datadir>

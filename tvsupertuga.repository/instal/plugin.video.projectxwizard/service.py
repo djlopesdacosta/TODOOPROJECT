@@ -35,20 +35,20 @@ addonupdate = plugintools.get_setting("updaterepos")
 
 if xbmc.getCondVisibility('system.platform.ios') or xbmc.getCondVisibility('system.platform.osx'):
 	LoginServer = "http://www.projectxwizard/login.php"
-	JarvisOne = "http://projectxwizard.net16.net/JarvisOne.xml"
-	JarvisTwo = "http://projectxwizard.net16.net/JarvisTwo.xml"
-	KryptonOne = "http://projectxwizard.net16.net/KryptonOne.xml"
-	KryptonTwo = "http://projectxwizard.net16.net/KryptonTwo.xml"
-	BetaOne = "http://projectxwizard.net16.net/BetaOne.xml"
-	BetaTwo = "http://projectxwizard.net16.net/BetaTwo.xml"
+	JarvisOne = "http://teamtugawizard.net23.net/JarvisOne.xml"
+	JarvisTwo = "http://teamtugawizard.net23.net/JarvisTwo.xml"
+	KryptonOne = "http://teamtugawizard.net23.net/KryptonOne.xml"
+	KryptonTwo = "http://teamtugawizard.net23.net/KryptonTwo.xml"
+	BetaOne = "http://teamtugawizard.net23.net/BetaOne.xml"
+	BetaTwo = "http://teamtugawizard.net23.net/BetaTwo.xml"
 else:
 	LoginServer = "http://www.projectxwizard/login.php"
-	JarvisOne = "http://projectxwizard.net16.net/JarvisOne.xml"
-	JarvisTwo = "http://projectxwizard.net16.net/JarvisTwo.xml"
-	KryptonOne = "http://projectxwizard.net16.net/KryptonOne.xml"
-	KryptonTwo = "http://projectxwizard.net16.net/KryptonTwo.xml"
-	BetaOne = "http://projectxwizard.net16.net/BetaOne.xml"
-	BetaTwo = "http://projectxwizard.net16.net/BetaTwo.xml"
+	JarvisOne = "http://teamtugawizard.net23.net/JarvisOne.xml"
+	JarvisTwo = "http://teamtugawizard.net23.net/JarvisTwo.xml"
+	KryptonOne = "http://teamtugawizard.net23.net/KryptonOne.xml"
+	KryptonTwo = "http://teamtugawizard.net23.net/KryptonTwo.xml"
+	BetaOne = "http://teamtugawizard.net23.net/BetaOne.xml"
+	BetaTwo = "http://teamtugawizard.net23.net/BetaTwo.xml"
 
 COMP = "http://kodiapps.com/how-to-install-Project X-build-on-kodi"					   
 

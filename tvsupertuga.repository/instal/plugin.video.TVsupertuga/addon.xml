@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.TVsupertuga" name="[COLOR cyan]TV[/COLOR]-[COLOR red]SUPERTUGA[/COLOR]" version="0.0.5" provider-name="TVsupertuga">
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.TVsupertuga"
+       name="[COLOR cyan]TV[/COLOR]-[COLOR red]supertuga[/COLOR]"
+       version="0.0.6"
+       provider-name="TVsupertuga">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -9,26 +12,16 @@
     <import addon="script.module.requests" />
     <import addon="script.module.httplib2" />
     <import addon="script.module.youtube.dl" optional="true"/>
-   <import addon="plugin.video.youtube" version="3.0.0"/>
+    <import addon="plugin.video.youtube" />
     <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" /> 
-	<import addon="script.module.livestreamer" optional="true"/>
-	<import addon="script.module.urlresolver" version="1.0.0"/>
-    <import addon="script.module.simplejson" version="3.3.0"/>
-    <import addon="script.module.elementtree" version="1.2.8"/>
-	<import addon="script.module.metahandler" version="1.0.0" />
-    <import addon="script.common.plugin.cache" version="2.5.2"/>
- 	<import addon="plugin.video.veetle" version="0.3.1" optional="true"/>
-	<import addon="script.module.t0mm0.common" version="2.0.0"/>
-
-	
+    <import addon="script.module.simplejson" />    
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>[COLOR white]tvsupertuga[/COLOR] </summary>
-    <description lang="en">[COLOR blue][B]NEW LIST OF CHANNELS FOR IPTV AND PLAYLIST KODI.
+    <description>[COLOR blue][B]NEW LIST OF CHANNELS FOR IPTV AND PLAYLIST KODI.
 	
 	                        Welcome to TVsupertuga
 							
@@ -41,4 +34,3 @@ SEND E MAIL: tvsupertuga@gmail.com[/B][/COLOR]</description>
     <platform>all</platform>
   </extension>
 </addon>
-

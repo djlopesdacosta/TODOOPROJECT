@@ -46,14 +46,16 @@ http://0.0.0.0:1234 (TVSUPERTUGA)
 
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1" tvg-logo="http://i.imgur.com/FEOOwWv.png" group-title="Portugal",RTP 1
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/2.m3u8
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1" tvg-logo="http://i.imgur.com/FEOOwWv.png" group-title="Portugal",RTP 1
 http://vidash2.dtdns.net:8007/live/chico/chico/427.m3u8
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 HD" tvg-logo="http://i.imgur.com/FEOOwWv.png" group-title="Portugal",RTP 1 HD
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/3.m3u8
-http://vidash2.dtdns.net:8007/live/chico/chico/155.m3u8
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 (LOW)" tvg-logo="http://i.imgur.com/FEOOwWv.png" group-title="Portugal",RTP 1 (LOW)
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/4.m3u8
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2" tvg-logo="http://i.imgur.com/xQF2L5b.png" group-title="Portugal",RTP 2
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/5.m3u8
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2" tvg-logo="http://i.imgur.com/xQF2L5b.png" group-title="Portugal",RTP 2
+http://vidash2.dtdns.net:8007/live/chico/chico/155.m3u8
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 HD" tvg-logo="http://i.imgur.com/xQF2L5b.png" group-title="Portugal",RTP 2 HD
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/6.m3u8
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 (LOW)" tvg-logo="http://i.imgur.com/xQF2L5b.png" group-title="Portugal",RTP 2 (LOW)
