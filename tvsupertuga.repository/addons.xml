@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<addon id="plugin.image.bancadejornais" name="Banca de Jornais" version="1.0.3"
+       provider-name="enen92">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>image</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Veja as capas dos jornais no Kodi</summary>
+    <description>
+      Veja as capas dos principais jornais diariamente no Kodi. As capas sÃ£o retiradas do site banca sapo. Para suporte visite o forum oficial forum.kodi.tv ou forum.aminhacasadigital.com
+    </description>
+    <license>GPL 2.0</license>
+  </extension>
+</addon>
+
     <addon id="plugin.program.addoninstaller" version="1.2.6"
     	name="Addon Installer" provider-name="tvaddons.ag, Blazetamer">
     <requires>
@@ -65,6 +83,26 @@
 		<email>marianp.dot.com@gmail.com</email>
 		<source>https://github.com/marianpavel/plugin.video.digistorageplayer</source>
 	</extension>
+</addon>
+
+<addon id="plugin.video.docbrasil" name="DocBrasil" version="1.0.0" provider-name="AddonBrasil">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">DocBrasil</summary>
+    <description lang="en">Uma seleÃ§Ã£o com os melhores documentarios dublados e legendados.</description>
+    <platform>all</platform>
+    <forum></forum>
+    <website></website>
+  </extension>
 </addon>
 
 <addon id="plugin.video.exodus" version="2.0.10" name="Exodus" provider-name="Exodus">
@@ -145,7 +183,25 @@ Nota Importante: Aconselhado a ultima versao do youtube 5.20.0.6 e respetivo Log
   </extension>
 </addon>
 
-<addon id="plugin.video.loganaddon" name="loganaddon TV" version="1.8" provider-name="Vitor Pereira e Pedro Selva">
+<addon id="plugin.video.laliga" name="La Liga" version="0.0.17" provider-name="Topo">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.liveresolver"  />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Liga EspaÃ±ola: La mejor liga del mundo</summary>
+		<description lang="en">Liga EspaÃ±ola, Premier, Champions and much more</description>
+		<description lang="es">Liga EspaÃ±ola, Premier, Champions y mucho mÃ¡s</description>
+		<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
+		<disclaimer lang="es">El autor no almacena ni distribuye ninguno de los contenidos que se muestran en este addon. El autor no tiene ninguna afiliaciÃ³n con el proveedor de contenidos.</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="plugin.video.loganaddon" name="loganaddon TV" version="1.9" provider-name="Vitor Pereira e Pedro Selva">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -154,9 +210,9 @@ Nota Importante: Aconselhado a ultima versao do youtube 5.20.0.6 e respetivo Log
     <import addon="script.module.simple.downloader" version="0.9.4"/>
     <import addon="script.module.requests" />
     <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" optional="true" />
-    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="false"/>
+    <import addon="plugin.video.youtube" optional="false" />
+    <import addon="script.module.urlresolver" optional="false"/>
     <import addon="script.module.simplejson" />
      <import addon="script.module.livestreamer" optional="true"/>
   </requires>
@@ -169,6 +225,20 @@ Nota Importante: Aconselhado a ultima versao do youtube 5.20.0.6 e respetivo Log
 
 
     </description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.matchreplays" version="0.0.1" name="Match Replays" provider-name="XunityTalk">
+  <requires>
+   <import addon="script.module.urlresolver" version="0.0.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Watch Soccer Highlights</summary>
+    <description>Watch Soccer Highlights Videos</description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -212,7 +282,7 @@ http://www.hometheater.co.il</description>
 
 <addon id="plugin.video.projectxwizard"
 	     name="[COLOR White]Project[/COLOR] [COLOR cyan]X[/COLOR] [COLOR White]Wizard[/COLOR]"
-	     version="0.1.4"
+	     version="0.1.7"
 	     provider-name="TVsupertuga">
   <requires>
   	<import addon="xbmc.python" version="2.1.0"/>
@@ -307,6 +377,20 @@ Nota Importante: Aconselhado a ultima versao do youtube 5.20.0.6 e respetivo Log
   </extension>
 </addon>
 
+<addon id="plugin.video.sportsmix" name="Sports Mix" version="1.0.5" provider-name="MetalKettle">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"></summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.superlistamilton"
        name="Super Lista Milton"
        version="1.0.0"
@@ -338,30 +422,39 @@ Nota Importante: Aconselhado a ultima versao do youtube 5.20.0.6 e respetivo Log
   </extension>
 </addon>
 
-<addon id="plugin.video.projectxwizard"
-	     name="[COLOR White]Project[/COLOR] [COLOR cyan]X[/COLOR] [COLOR White]Wizard[/COLOR]"
-	     version="0.1.4"
-	     provider-name="TVsupertuga">
+<addon id="plugin.video.TVsupertuga"
+       name="[COLOR cyan]TV[/COLOR]-[COLOR red]supertuga[/COLOR]"
+       version="0.0.6"
+       provider-name="TVsupertuga">
   <requires>
-  	<import addon="xbmc.python" version="2.1.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>executable</provides>
-  </extension>
-  <extension point="xbmc.service" library="service.py" start="startup">
+    <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
+    <summary>[COLOR white]tvsupertuga[/COLOR] </summary>
+    <description>[COLOR blue][B]NEW LIST OF CHANNELS FOR IPTV AND PLAYLIST KODI.
+
+	                        Welcome to TVsupertuga
+
+All these streams can be easily found over the internet...
+We do not have any server or broadcast any kind of signal...
+All these streams are the result of many hours
+of research over the Internet.
+CHANNELS REQUESTS OR MORE INFORMATION PLEASE
+SEND E MAIL: tvsupertuga@gmail.com[/B][/COLOR]</description>
     <platform>all</platform>
-    <summary lang="en"></summary>
-    <description lang="en"></description>
-    <disclaimer lang="en"></disclaimer>
-    <language></language>
-    <platform>all</platform>
-    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-    <forum>http://tvsupertuga.forum-gratuito.com/</forum>
-    <website></website>
-    <facebookgrupo>https://www.facebook.com/TVsupertuga.PT/</facebookgrupo>
-    <email>tvsupertuga@gmail.com</email>
   </extension>
 </addon>
 
@@ -380,6 +473,27 @@ Nota Importante: Aconselhado a ultima versao do youtube 5.20.0.6 e respetivo Log
         <disclaimer lang="en">Does not work for 'HD' streams which require a software download.</disclaimer>
         <platform>all</platform>
     </extension>
+</addon>
+
+<addon
+  id="plugin.video.videodevil"
+  version="1.7.139"
+  name="VideoDevil"
+  provider-name="xbmc-adult">
+  <requires>
+   <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension
+    point="xbmc.python.pluginsource"
+    library="default.py">
+   <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Play videos from different adult streaming sites</summary>
+    <description>This addon plays videos from YouPorn, Tube8, Boysfood, MoviesAnd, PornoTube, xHamster, KeezMovies and some other adult streaming sites. It contains explicit adult material. You may only view this addon if you are at least 18 years of age, or at least the age of majority in the jurisdiction where you reside or from which you access this content. If you do not meet these requirements, then you do not have permission to use this addon.</description>
+    <disclaimer>The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
+    <platform>all</platform>
+  </extension>
 </addon>
 
 <addon id="plugin.video.ZemTV-shani"
@@ -871,11 +985,11 @@ Nota Importante: Aconselhado a ultima versao do youtube 5.20.0.6 e respetivo Log
   </extension>
 </addon>
 
-<addon id="teamtuga4ever.repository" name="teamuga4ever" version="1.1" provider-name="teamtuga4">
-	<extension point="xbmc.addon.repository" name="teamuga4ever repository">
-		<info compressed="false">http://raw.github.com/teamtuga4/teamtuga4ever.repository/master/addons.xml</info>
-		<checksum>http://raw.github.com/teamtuga4/teamtuga4ever.repository/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/teamtuga4/teamtuga4ever.repository/master/repo/</datadir>
+<addon id="teamtuga4ever.repository" name="teamtuga4ever repository" version="1.4" provider-name="teamtuga4ever">
+	<extension point="xbmc.addon.repository" name="teamtuga4ever repository">
+		<info compressed="false">http://teamtuga4ever.net16.net/Repository/addons.xml</info>
+		<checksum>http://teamtuga4ever.net16.net/Repository/addons.xml.md5</checksum>
+		<datadir zip="true">http://teamtuga4ever.net16.net/Repository/instal/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Equipe TeamTuga4ever</summary>
@@ -896,6 +1010,30 @@ Nota Importante: Aconselhado a ultima versao do youtube 5.20.0.6 e respetivo Log
 		<description></description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="weather.openweathermap" name="Open Weather Map" version="1.0.0.2" provider-name="bitboy">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.simplejson" version="2.0.10"/>
+		<import addon="script.module.pil" version="1.1.7"/>
+	</requires>
+	<extension point="xbmc.python.weather" library="default.py"/>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Weather forecast from Open Weather Map</summary>
+        <summary lang="de">Wetter Vorhersage von Open Weather Map</summary>
+        <summary lang="pl">Prognoza pogody serwisu Open Weather Map</summary>
+		<description lang="en">Weather information provided by Open Weather Map (http://openweathermap.org/) under CC-BY-SA 2.0. Fanart image by Jessie Eastland, taken from: http://commons.wikimedia.org/wiki/File:Pale_Joshua.jpg. Icon by Everaldo Coelho, taken from https://www.iconfinder.com/icons/18095/clouds_sun_weather_icon#size=256</description>
+        <description lang="de">Wetter Information angeboten von Open Weather Map (http://openweathermap.org/) lizensiert unter CC-BY-SA 2.0. Fanart von Jessie Eastland, http://commons.wikimedia.org/wiki/File:Pale_Joshua.jpg. Icon von Everaldo Coelho, https://www.iconfinder.com/icons/18095/clouds_sun_weather_icon#size=256</description>
+		<description lang="pl">PrognozÄ™ pogody dostarcza serwis Open Weather Map (http://openweathermap.org/) na licencji CC-BY-SA 2.0. TÅ‚o - http://commons.wikimedia.org/wiki/File:Pale_Joshua.jpg. Ikona - https://www.iconfinder.com/icons/18095/clouds_sun_weather_icon#size=256</description>
+		<disclaimer lang="en">This is free software and provided "as is".</disclaimer>
+        <disclaimer lang="de">Dies ist freie Software und angeboten "wie sie ist".</disclaimer>
+   		<disclaimer lang="pl">Jest to wolne oprogramowanie i dostarczane "tak jak jest".</disclaimer>
+		<language></language>
+		<platform>all</platform>
+		<forum>http://forum.xbmc.org/showthread.php?tid=180878</forum>
+		<source></source>
 	</extension>
 </addon>
 </addons>

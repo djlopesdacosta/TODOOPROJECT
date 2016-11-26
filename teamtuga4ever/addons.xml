@@ -143,7 +143,7 @@ Nota Importante: Aconselhado a ultima versao do youtube 5.2.*</description>
   </extension>
 </addon>
 
-<addon id="plugin.video.loganaddon" name="loganaddon TV" version="1.8" provider-name="Vitor Pereira e Pedro Selva">
+<addon id="plugin.video.loganaddon" name="loganaddon TV" version="1.9" provider-name="Vitor Pereira e Pedro Selva">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -152,9 +152,9 @@ Nota Importante: Aconselhado a ultima versao do youtube 5.2.*</description>
     <import addon="script.module.simple.downloader" version="0.9.4"/>
     <import addon="script.module.requests" />
     <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" optional="true" />
-    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="false"/>
+    <import addon="plugin.video.youtube" optional="false" />
+    <import addon="script.module.urlresolver" optional="false"/>
     <import addon="script.module.simplejson" />
      <import addon="script.module.livestreamer" optional="true"/>
   </requires>
@@ -223,7 +223,7 @@ Nota Importante: Aconselhado a ultima versao do youtube 5.2.*</description>
 
 <addon id="plugin.video.projectxwizard"
 	     name="[COLOR White]Project[/COLOR] [COLOR cyan]X[/COLOR] [COLOR White]Wizard[/COLOR]"
-	     version="0.1.4"
+	     version="0.1.7"
 	     provider-name="TVsupertuga">
   <requires>
   	<import addon="xbmc.python" version="2.1.0"/>

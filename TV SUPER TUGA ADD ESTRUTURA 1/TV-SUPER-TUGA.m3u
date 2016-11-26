@@ -1,17 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTM3U
  
 #EXTINF:-1,[I][B][COLOR red] [COLOR yellow]ATTENTION[/COLOR] [/COLOR][/B][/I]
@@ -22,9 +8,20 @@ http://jerrymoz.wordpress.com
 #EXTINF:-1,[I][B][COLOR blue] [COLOR blue]LISTA OFICIAL DA TVSUPERTUGA[/COLOR][/COLOR][/B][/I]
 http://jerrymoz.wordpress.com
 
+
+#EXTINF:-1,[I][B][COLOR red] [COLOR red]CREDITOS PARA O CRIADOR DOS LOGOS[/COLOR][/COLOR][/B][/I]
+http://jerrymoz.wordpress.com
+
+#EXTINF:-1,[I][B][COLOR red] [COLOR red]>>MARCO JOÃO<<[/COLOR][/COLOR][/B][/I]
+http://jerrymoz.wordpress.com
+
+
+
+
+
 ###########################################################################################################################################################
  
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|[/COLOR] Update 22-11-16 [COLOR red]|[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|[/COLOR] Update 25-11-16 [COLOR red]|[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green] [COLOR yellow][B][COLOR red] MAIS INF. ENVIE EMAIL:[/COLOR] tvsupertuga@gmail.com [/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -47,282 +44,285 @@ http://0.0.0.0:1234 (TVSUPERTUGA)
 
 
 
-#EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/rtp1.png" group-title="Portugal",RTP 1
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1" tvg-logo="http://i.imgur.com/FEOOwWv.png" group-title="Portugal",RTP 1
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/2.m3u8
-#EXTINF:-1 tvg-id="RTP 1 HD" tvg-name="RTP 1 HD" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/rtp1hd.png" group-title="Portugal",RTP 1 HD
+http://vidash2.dtdns.net:8007/live/chico/chico/427.m3u8
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 HD" tvg-logo="http://i.imgur.com/FEOOwWv.png" group-title="Portugal",RTP 1 HD
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/3.m3u8
-#EXTINF:-1 tvg-id="RTP 1 (LOW)" tvg-name="RTP 1 (LOW)" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/rtp1.png" group-title="Portugal",RTP 1 (LOW)
+http://vidash2.dtdns.net:8007/live/chico/chico/155.m3u8
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 (LOW)" tvg-logo="http://i.imgur.com/FEOOwWv.png" group-title="Portugal",RTP 1 (LOW)
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/4.m3u8
-#EXTINF:-1 tvg-id="RTP 2" tvg-name="RTP 2" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/rtp2.png" group-title="Portugal",RTP 2
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2" tvg-logo="http://i.imgur.com/xQF2L5b.png" group-title="Portugal",RTP 2
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/5.m3u8
-#EXTINF:-1 tvg-id="RTP 2 HD" tvg-name="RTP 2 HD" tvg-logo="" group-title="Portugal",RTP 2 HD
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 HD" tvg-logo="http://i.imgur.com/xQF2L5b.png" group-title="Portugal",RTP 2 HD
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/6.m3u8
-#EXTINF:-1 tvg-id="RTP 2 (LOW)" tvg-name="RTP 2 (LOW)" tvg-logo="" group-title="Portugal",RTP 2 (LOW)
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 (LOW)" tvg-logo="http://i.imgur.com/xQF2L5b.png" group-title="Portugal",RTP 2 (LOW)
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/7.m3u8
-#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="" group-title="Portugal",SIC
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="http://i.imgur.com/l0eHgcb.png" group-title="Portugal",SIC
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/8.m3u8
-#EXTINF:-1 tvg-id="SIC HD" tvg-name="SIC HD" tvg-logo="" group-title="Portugal",SIC HD
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="http://i.imgur.com/l0eHgcb.png" group-title="Portugal",SIC HD
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/9.m3u8
-#EXTINF:-1 tvg-id="SIC (LOW)" tvg-name="SIC (LOW)" tvg-logo="" group-title="Portugal",SIC (LOW)
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC (LOW)" tvg-logo="http://i.imgur.com/l0eHgcb.png" group-title="Portugal",SIC (LOW)
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/10.m3u8
-#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="" group-title="Portugal",TVI
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="http://i.imgur.com/IH5YGKf.png" group-title="Portugal",TVI
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/11.m3u8
-#EXTINF:-1 tvg-id="TVI HD" tvg-name="TVI HD" tvg-logo="" group-title="Portugal",TVI HD
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI HD" tvg-logo="http://i.imgur.com/IH5YGKf.png" group-title="Portugal",TVI HD
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/12.m3u8
-#EXTINF:-1 tvg-id="TVI (LOW)" tvg-name="TVI (LOW)" tvg-logo="" group-title="Portugal",TVI (LOW)
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI (LOW)" tvg-logo="http://i.imgur.com/IH5YGKf.png" group-title="Portugal",TVI (LOW)
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/13.m3u8
-#EXTINF:-1 tvg-id="SIC Notícias" tvg-name="SIC Notícias" tvg-logo="" group-title="Portugal",SIC Notícias
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC Notícias" tvg-logo="http://i.imgur.com/oz3ejDX.png" group-title="Portugal",SIC Notícias
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/14.m3u8
-#EXTINF:-1 tvg-id="TVI 24" tvg-name="TVI 24" tvg-logo="" group-title="Portugal",TVI 24
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/15.m3u8
-#EXTINF:-1 tvg-id="TVI 24 (LOW)" tvg-name="TVI 24 (LOW)" tvg-logo="" group-title="Portugal",TVI 24 (LOW)
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/16.m3u8
-#EXTINF:-1 tvg-id="RTP 3" tvg-name="RTP 3" tvg-logo="" group-title="Portugal",RTP 3
+#EXTINF:-1 tvg-id="rtpn.pt" tvg-name="RTP 3" tvg-logo="http://i.imgur.com/UPh2mRs.png" group-title="Portugal",RTP 3
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/17.m3u8
-#EXTINF:-1 tvg-id="SIC Mulher" tvg-name="SIC Mulher" tvg-logo="" group-title="Portugal",SIC Mulher
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/18.m3u8
-#EXTINF:-1 tvg-id="SIC Radical" tvg-name="SIC Radical" tvg-logo="" group-title="Portugal",SIC Radical
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/19.m3u8
-#EXTINF:-1 tvg-id="Canal Q" tvg-name="Canal Q" tvg-logo="" group-title="Portugal",Canal Q
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/20.m3u8
-#EXTINF:-1 tvg-id="Porto Canal" tvg-name="Porto Canal" tvg-logo="" group-title="Portugal",Porto Canal
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/21.m3u8
-#EXTINF:-1 tvg-id="RTP Memória" tvg-name="RTP Memória" tvg-logo="" group-title="Portugal",RTP Memória
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/22.m3u8
-#EXTINF:-1 tvg-id="RTP África" tvg-name="RTP África" tvg-logo="" group-title="Portugal",RTP África
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/23.m3u8
-#EXTINF:-1 tvg-id="RTP Madeira" tvg-name="RTP Madeira" tvg-logo="" group-title="Portugal",RTP Madeira
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/24.m3u8
-#EXTINF:-1 tvg-id="RTP Açores" tvg-name="RTP Açores" tvg-logo="" group-title="Portugal",RTP Açores
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/25.m3u8
-#EXTINF:-1 tvg-id="CM TV" tvg-name="CM TV" tvg-logo="" group-title="Portugal",CM TV
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="TVI 24" tvg-logo="http://i.imgur.com/svqoL1g.png" group-title="Portugal",TVI 24
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/15.m3u8
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="TVI 24 (LOW)" tvg-logo="http://i.imgur.com/svqoL1g.png" group-title="Portugal",TVI 24 (LOW)
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/16.m3u8
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CM TV" tvg-logo="http://i.imgur.com/WW8FVsg.png" group-title="Portugal",CM TV
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/26.m3u8
-#EXTINF:-1 tvg-id="CM TV (LOW)" tvg-name="CM TV (LOW)" tvg-logo="" group-title="Portugal",CM TV (LOW)
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CM TV (LOW)" tvg-logo="http://i.imgur.com/WW8FVsg.png" group-title="Portugal",CM TV (LOW)
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/27.m3u8
-#EXTINF:-1 tvg-id="TVCine 1 HD" tvg-name="TVCine 1 HD" tvg-logo="" group-title="Portugal",TVCine 1 HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/28.m3u8
-#EXTINF:-1 tvg-id="TVCine 1 HD (LOW)" tvg-name="TVCine 1 HD (LOW)" tvg-logo="" group-title="Portugal",TVCine 1 HD (LOW)
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/29.m3u8
-#EXTINF:-1 tvg-id="TVCine 2 HD" tvg-name="TVCine 2 HD" tvg-logo="" group-title="Portugal",TVCine 2 HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/30.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVCine 2 HD (LOW)" tvg-logo="" group-title="Portugal",TVCine 2 HD (LOW)
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/31.m3u8
-#EXTINF:-1 tvg-id="TVCine 3 HD" tvg-name="TVCine 3 HD" tvg-logo="" group-title="Portugal",TVCine 3 HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/32.m3u8
-#EXTINF:-1 tvg-id="TVCine 3 HD (LOW)" tvg-name="TVCine 3 HD (LOW)" tvg-logo="" group-title="Portugal",TVCine 3 HD (LOW)
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/33.m3u8
-#EXTINF:-1 tvg-id="TVCine 4 HD" tvg-name="TVCine 4 HD" tvg-logo="" group-title="Portugal",TVCine 4 HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/34.m3u8
-#EXTINF:-1 tvg-id="TVCine 4 HD (LOW)" tvg-name="TVCine 4 HD (LOW)" tvg-logo="" group-title="Portugal",TVCine 4 HD (LOW)
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/35.m3u8
-#EXTINF:-1 tvg-id="Hollywood" tvg-name="Hollywood" tvg-logo="" group-title="Portugal",Hollywood
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/36.m3u8
-#EXTINF:-1 tvg-id="Hollywood HD" tvg-name="Hollywood HD" tvg-logo="" group-title="Portugal",Hollywood HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/37.m3u8
-#EXTINF:-1 tvg-id="FOX Movies" tvg-name="Fox Movies" tvg-logo="" group-title="Portugal",Fox Movies
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/38.m3u8
-#EXTINF:-1 tvg-id="FOX Movies FHD" tvg-name="FOX Movies FHD" tvg-logo="" group-title="Portugal",FOX Movies FHD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/39.m3u8
-#EXTINF:-1 tvg-id="Cine mundo" tvg-name="Cine Mundo" tvg-logo="" group-title="Portugal",Cine Mundo
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/40.m3u8
-#EXTINF:-1 tvg-id="MOV" tvg-name="MOV" tvg-logo="" group-title="Portugal",MOV
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/41.m3u8
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="" group-title="Portugal",AXN HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/42.m3u8
-#EXTINF:-1 tvg-id="AXN HD (LOW)" tvg-name="AXN HD (LOW)" tvg-logo="" group-title="Portugal",AXN HD (LOW)
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/43.m3u8
-#EXTINF:-1 tvg-id="AXN White HD" tvg-name="AXN White HD" tvg-logo="" group-title="Portugal",AXN White HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/44.m3u8
-#EXTINF:-1 tvg-id="AXN White HD (LOW)" tvg-name="AXN White HD (LOW)" tvg-logo="" group-title="Portugal",AXN White HD (LOW)
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/45.m3u8
-#EXTINF:-1 tvg-id="AXN Black HD" tvg-name="AXN Black HD" tvg-logo="" group-title="Portugal",AXN Black HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/46.m3u8
-#EXTINF:-1 tvg-id="AXN Black HD (LOW)" tvg-name="AXN Black HD (LOW)" tvg-logo="" group-title="Portugal",AXN Black HD (LOW)
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/47.m3u8
-#EXTINF:-1 tvg-id="FOX HD" tvg-name="Fox HD" tvg-logo="" group-title="Portugal",Fox HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/48.m3u8
-#EXTINF:-1 tvg-id="FOX Life HD" tvg-name="Fox Life HD" tvg-logo="" group-title="Portugal",Fox Life HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/49.m3u8
-#EXTINF:-1 tvg-id="FOX Crime HD" tvg-name="Fox Crime HD" tvg-logo="" group-title="Portugal",Fox Crime HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/50.m3u8
-#EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" tvg-logo="" group-title="Portugal",SyFy
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/51.m3u8
-#EXTINF:-1 tvg-id="FOX Comedy" tvg-name="FOX Comedy" tvg-logo="" group-title="Portugal",FOX Comedy
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/52.m3u8
-#EXTINF:-1 tvg-id="E! Entertainment" tvg-name="E! Entertainment" tvg-logo="" group-title="Portugal",E! Entertainment
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/53.m3u8
-#EXTINF:-1 tvg-id="CBS Reality" tvg-name="CBS Reality" tvg-logo="" group-title="Portugal",CBS Reality
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/54.m3u8
-#EXTINF:-1 tvg-id="TVSéries HD" tvg-name="TVSéries HD" tvg-logo="" group-title="Portugal",TVSéries HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/55.m3u8
-#EXTINF:-1 tvg-id="TVSéries HD (LOW)" tvg-name="TVSéries HD (LOW)" tvg-logo="" group-title="Portugal",TVSéries HD (LOW)
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/56.m3u8
-#EXTINF:-1 tvg-id="TVI Ficção" tvg-name="TVI Ficção" tvg-logo="" group-title="Portugal",TVI Ficção
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/57.m3u8
-#EXTINF:-1 tvg-id="SIC Caras" tvg-name="SIC Caras" tvg-logo="" group-title="Portugal",SIC Caras
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/58.m3u8
-#EXTINF:-1 tvg-id="TVI Reality" tvg-name="TVI Reality" tvg-logo="" group-title="Portugal",TVI Reality
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/59.m3u8
-#EXTINF:-1 tvg-id="TVI Reality: Câmara Exclusiva" tvg-name="TVI Reality: Câmara 4" tvg-logo="" group-title="Portugal",TVI Reality: Câmara 4
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/60.m3u8
-#EXTINF:-1 tvg-id="TVI Reality: Mosaico" tvg-name="TVI Reality: Mosaico" tvg-logo="" group-title="Portugal",TVI Reality: Mosaico
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/61.m3u8
-#EXTINF:-1 tvg-id="Sport TV +" tvg-name="Sport  TV+" tvg-logo="" group-title="Portugal",Sport  TV+
+#EXTINF:-1 tvg-id="Sport TV +" tvg-name="Sport TV+" tvg-logo="http://i.imgur.com/k4oiArF.png" group-title="Portugal",Sport  TV+
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/82.m3u8
-#EXTINF:-1 tvg-id="Sport TV 1" tvg-name="Sport TV 1" tvg-logo="" group-title="Portugal",Sport TV 1
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/62.m3u8
-#EXTINF:-1 tvg-id="Sport TV 1 HD" tvg-name="Sport TV 1 HD" tvg-logo="" group-title="Portugal",Sport TV 1 HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/63.m3u8
-#EXTINF:-1 tvg-id="Sport TV 1 HD (LOW)" tvg-name="Sport TV 1 HD (LOW)" tvg-logo="" group-title="Portugal",Sport TV 1 HD (LOW)
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/65.m3u8
-#EXTINF:-1 tvg-id="Sport TV 1 FHD" tvg-name="Sport TV 1 FHD" tvg-logo="" group-title="Portugal",Sport TV 1 FHD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/64.m3u8
-#EXTINF:-1 tvg-id="Sport TV 2" tvg-name="Sport TV 2" tvg-logo="" group-title="Portugal",Sport TV 2
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/66.m3u8
-#EXTINF:-1 tvg-id="Sport TV 2 HD" tvg-name="Sport TV 2 HD" tvg-logo="" group-title="Portugal",Sport TV 2 HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/67.m3u8
-#EXTINF:-1 tvg-id="Sport TV 2 HD (LOW)" tvg-name="Sport TV 2 HD (LOW)" tvg-logo="" group-title="Portugal",Sport TV 2 HD (LOW)
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/69.m3u8
-#EXTINF:-1 tvg-id="Sport TV 2 FHD" tvg-name="Sport TV 2 FHD" tvg-logo="" group-title="Portugal",Sport TV 2 FHD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/68.m3u8
-#EXTINF:-1 tvg-id="Sport TV 3" tvg-name="Sport TV 3" tvg-logo="" group-title="Portugal",Sport TV 3
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/70.m3u8
-#EXTINF:-1 tvg-id="Sport TV 3 HD" tvg-name="Sport TV 3 HD" tvg-logo="" group-title="Portugal",Sport TV 3 HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/71.m3u8
-#EXTINF:-1 tvg-id="Sport TV 3 HD (LOW)" tvg-name="Sport TV 3 HD (LOW)" tvg-logo="" group-title="Portugal",Sport TV 3 HD (LOW)
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/73.m3u8
-#EXTINF:-1 tvg-id="Sport TV 3 FHD" tvg-name="Sport TV 3 FHD" tvg-logo="" group-title="Portugal",Sport TV 3 FHD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/72.m3u8
-#EXTINF:-1 tvg-id="Sport TV 4" tvg-name="Sport TV 4" tvg-logo="" group-title="Portugal",Sport TV 4
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/74.m3u8
-#EXTINF:-1 tvg-id="Sport TV 4 HD" tvg-name="Sport TV 4 HD" tvg-logo="" group-title="Portugal",Sport TV 4 HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/75.m3u8
-#EXTINF:-1 tvg-id="Sport TV 4 HD (LOW)" tvg-name="Sport TV 4 HD (LOW)" tvg-logo="" group-title="Portugal",Sport TV 4 HD (LOW)
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/77.m3u8
-#EXTINF:-1 tvg-id="Sport TV 4 FHD" tvg-name="Sport TV 4 FHD" tvg-logo="" group-title="Portugal",Sport TV 4 FHD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/76.m3u8
-#EXTINF:-1 tvg-id="Sport TV 5" tvg-name="Sport TV 5" tvg-logo="" group-title="Portugal",Sport TV 5
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/78.m3u8
-#EXTINF:-1 tvg-id="Sport TV 5 HD" tvg-name="Sport TV 5 HD" tvg-logo="" group-title="Portugal",Sport TV 5 HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/79.m3u8
-#EXTINF:-1 tvg-id="Sport TV 5 HD (LOW)" tvg-name="Sport TV 5 HD (LOW)" tvg-logo="" group-title="Portugal",Sport TV 5 HD (LOW)
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/81.m3u8
-#EXTINF:-1 tvg-id="Sport TV 5 FHD" tvg-name="Sport TV 5 FHD" tvg-logo="" group-title="Portugal",Sport TV 5 FHD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/80.m3u8
-#EXTINF:-1 tvg-id="Benfica TV 1" tvg-name="Benfica TV 1" tvg-logo="" group-title="Portugal",Benfica TV 1
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/83.m3u8
-#EXTINF:-1 tvg-id="Benfica TV 1 HD" tvg-name="Benfica TV 1 HD" tvg-logo="" group-title="Portugal",Benfica TV 1 HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/84.m3u8
-#EXTINF:-1 tvg-id="Benfica TV 1 HD (LOW)" tvg-name="Benfica TV 1 HD (LOW)" tvg-logo="" group-title="Portugal",Benfica TV 1 HD (LOW)
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/86.m3u8
-#EXTINF:-1 tvg-id="Benfica TV 1 FHD" tvg-name="Benfica TV 1 FHD" tvg-logo="" group-title="Portugal",Benfica TV 1 FHD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/85.m3u8
-#EXTINF:-1 tvg-id="Sporting TV" tvg-name="Sporting TV" tvg-logo="" group-title="Portugal",Sporting TV
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/87.m3u8
-#EXTINF:-1 tvg-id="Sporting TV HD" tvg-name="Sporting TV HD" tvg-logo="" group-title="Portugal",Sporting TV HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/88.m3u8
-#EXTINF:-1 tvg-id="Sporting TV HD (LOW)" tvg-name="Sporting HD (LOW)" tvg-logo="" group-title="Portugal",Sporting HD (LOW)
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/89.m3u8
-#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="Eurosport 1 HD" tvg-logo="" group-title="Portugal",Eurosport 1 HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/90.m3u8
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="" group-title="Portugal",Eurosport 2
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/91.m3u8
-#EXTINF:-1 tvg-id="Eurosport 2 Xtra HD" tvg-name="Eurosport 2 Xtra HD" tvg-logo="" group-title="Portugal",Eurosport 2 Xtra HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/92.m3u8
-#EXTINF:-1 tvg-id="Eurosport 2 Xtra HD (LOW)" tvg-name="Eurosport 2 Xtra HD (LOW)" tvg-logo="" group-title="Portugal",Eurosport 2 Xtra HD (LOW)
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/93.m3u8
-#EXTINF:-1 tvg-id="Eurosport NEWS" tvg-name="Eurosport NEWS" tvg-logo="" group-title="Portugal",Eurosport NEWS
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/94.m3u8
-#EXTINF:-1 tvg-id="Fight Network HD" tvg-name="Fight Network HD" tvg-logo="" group-title="Portugal",Fight Network HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/95.m3u8
-#EXTINF:-1 tvg-id="Motorvision" tvg-name="Motorvision" tvg-logo="" group-title="Portugal",Motorvision
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/96.m3u8
-#EXTINF:-1 tvg-id="Motors TV" tvg-name="Motors TV" tvg-logo="" group-title="Portugal",Motors TV
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/97.m3u8
-#EXTINF:-1 tvg-id="PFC" tvg-name="PFC" tvg-logo="" group-title="Portugal",PFC
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/98.m3u8
-#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="Real Madrid TV" tvg-logo="" group-title="Portugal",Real Madrid TV
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/99.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fuel TV" tvg-logo="" group-title="Portugal",Fuel TV
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/100.m3u8
-#EXTINF:-1 tvg-id="A Bola TV" tvg-name="A Bola TV" tvg-logo="" group-title="Portugal",A Bola TV
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC Mulher" tvg-logo="http://i.imgur.com/du6TOVj.png" group-title="Portugal",SIC Mulher
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/18.m3u8
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI Ficção" tvg-logo="http://i.imgur.com/OKGxjPA.png" group-title="Portugal",TVI Ficção
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/57.m3u8
+#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola TV" tvg-logo="http://i.imgur.com/tg9itsb.png" group-title="Portugal",A Bola TV
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/101.m3u8
-#EXTINF:-1 tvg-id="Caçavision" tvg-name="Caçavision" tvg-logo="" group-title="Portugal",Caçavision
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/102.m3u8
-#EXTINF:-1 tvg-id="Caça e Pesca" tvg-name="Caça e Pesca" tvg-logo="" group-title="Portugal",Caça e Pesca
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/103.m3u8
-#EXTINF:-1 tvg-id="Toros TV" tvg-name="Toros TV" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/torostv.png" group-title="Portugal",Toros TV
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/104.m3u8
-#EXTINF:-1 tvg-id="National Geographic Channel HD" tvg-name="National Geographic Channel HD" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/nationalgeographichd.png" group-title="Portugal",National Geographic Channel HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/105.m3u8
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/natgeowild.png" group-title="Portugal",Nat Geo Wild
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/106.m3u8
-#EXTINF:-1 tvg-id="Discovery Showcase HD" tvg-name="Discovery Showcase HD" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/discoveryshowcasehd.png" group-title="Portugal",Discovery Showcase HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/107.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/discoverychannel.png" group-title="Portugal",Discovery Channel
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/108.m3u8
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/tlc.png" group-title="Portugal",TLC
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/109.m3u8
-#EXTINF:-1 tvg-id="Odisseia" tvg-name="Odisseia" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/odisseia.png" group-title="Portugal",Odisseia
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/110.m3u8
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/a&e.png" group-title="Portugal",A&E
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/111.m3u8
-#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/recordnews.png" group-title="Portugal",Record News
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/112.m3u8
-#EXTINF:-1 tvg-id="FOX News" tvg-name="FOX News" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/foxnews.png" group-title="Portugal",FOX News
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/113.m3u8
-#EXTINF:-1 tvg-id="Globo Premium" tvg-name="Globo Premium" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/globopremium.png" group-title="Portugal",Globo Premium
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/114.m3u8
-#EXTINF:-1 tvg-id="Globo Portugal" tvg-name="Globo Portugal" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/tvglobo.png" group-title="Portugal",Globo Portugal
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/115.m3u8
-#EXTINF:-1 tvg-id="TV Record" tvg-name="TV Record" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/record.png" group-title="Portugal",TV Record
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/116.m3u8
-#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/euronews.png" group-title="Portugal",Euronews
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/117.m3u8
-#EXTINF:-1 tvg-id="Travel Channel HD" tvg-name="Travel Channel HD" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/travelchannelhd.png" group-title="Portugal",Travel Channel HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/118.m3u8
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/babytv.png" group-title="Portugal",Baby TV
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/119.m3u8
-#EXTINF:-1 tvg-id="SIC K" tvg-name="SIC K" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/sick.png" group-title="Portugal",SIC K
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/120.m3u8
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/disneyjunior.png" group-title="Portugal",Disney Junior
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/121.m3u8
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/disneychannel.png" group-title="Portugal",Disney Channel
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal" tvg-logo="http://i.imgur.com/e4Abnqr.png" group-title="Portugal",Porto Canal
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/21.m3u8
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC Radical" tvg-logo="http://i.imgur.com/hEGyP10.png" group-title="Portugal",SIC Radical
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/19.m3u8
+#EXTINF:-1 tvg-id="Canal Q" tvg-name="Canal Q" tvg-logo="http://i.imgur.com/gyYAY4K.png" group-title="Portugal",Canal Q
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/20.m3u8
+#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="RTP Memória" tvg-logo="http://i.imgur.com/cvf4bD5.png" group-title="Portugal",RTP Memória
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/22.m3u8
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1" tvg-logo="http://i.imgur.com/kTStKSv.png" group-title="Portugal",Sport TV 1
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/62.m3u8
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 HD" tvg-logo="http://i.imgur.com/kTStKSv.png" group-title="Portugal",Sport TV 1 HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/63.m3u8
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 HD (LOW)" tvg-logo="http://i.imgur.com/kTStKSv.png" group-title="Portugal",Sport TV 1 HD (LOW)
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/65.m3u8
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 FHD" tvg-logo="http://i.imgur.com/kTStKSv.png" group-title="Portugal",Sport TV 1 FHD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/64.m3u8
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2" tvg-logo="http://i.imgur.com/1hvbQ1T.png" group-title="Portugal",Sport TV 2
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/66.m3u8
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 HD" tvg-logo="http://i.imgur.com/1hvbQ1T.png" group-title="Portugal",Sport TV 2 HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/67.m3u8
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 HD (LOW)" tvg-logo="http://i.imgur.com/1hvbQ1T.png" group-title="Portugal",Sport TV 2 HD (LOW)
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/69.m3u8
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 FHD" tvg-logo="http://i.imgur.com/1hvbQ1T.png" group-title="Portugal",Sport TV 2 FHD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/68.m3u8
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3" tvg-logo="http://i.imgur.com/IOU66To.png" group-title="Portugal",Sport TV 3
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/70.m3u8
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3 HD" tvg-logo="http://i.imgur.com/IOU66To.png" group-title="Portugal",Sport TV 3 HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/71.m3u8
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3 HD (LOW)" tvg-logo="http://i.imgur.com/IOU66To.png" group-title="Portugal",Sport TV 3 HD (LOW)
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/73.m3u8
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3 FHD" tvg-logo="http://i.imgur.com/IOU66To.png" group-title="Portugal",Sport TV 3 FHD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/72.m3u8
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4" tvg-logo="http://i.imgur.com/VFEmQda.png" group-title="Portugal",Sport TV 4
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/74.m3u8
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4 HD" tvg-logo="http://i.imgur.com/VFEmQda.png" group-title="Portugal",Sport TV 4 HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/75.m3u8
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4 HD (LOW)" tvg-logo="http://i.imgur.com/VFEmQda.png" group-title="Portugal",Sport TV 4 HD (LOW)
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/77.m3u8
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4 FHD" tvg-logo="http://i.imgur.com/VFEmQda.png" group-title="Portugal",Sport TV 4 FHD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/76.m3u8
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5" tvg-logo="http://i.imgur.com/HiHcVoT.png" group-title="Portugal",Sport TV 5
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/78.m3u8
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5 HD" tvg-logo="http://i.imgur.com/HiHcVoT.png" group-title="Portugal",Sport TV 5 HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/79.m3u8
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5 HD (LOW)" tvg-logo="http://i.imgur.com/HiHcVoT.png" group-title="Portugal",Sport TV 5 HD (LOW)
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/81.m3u8
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5 FHD" tvg-logo="http://i.imgur.com/HiHcVoT.png" group-title="Portugal",Sport TV 5 FHD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/80.m3u8
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV 1" tvg-logo="http://i.imgur.com/JLL5CgU.png" group-title="Portugal",Benfica TV 1
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/83.m3u8
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV 1 HD" tvg-logo="http://i.imgur.com/JLL5CgU.png" group-title="Portugal",Benfica TV 1 HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/84.m3u8
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV 1 HD (LOW)" tvg-logo="http://i.imgur.com/JLL5CgU.png" group-title="Portugal",Benfica TV 1 HD (LOW)
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/86.m3u8
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV 1 FHD" tvg-logo="http://i.imgur.com/JLL5CgU.png" group-title="Portugal",Benfica TV 1 FHD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/85.m3u8
+#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-name="Sporting TV" tvg-logo="http://i.imgur.com/W1XTosw.png" group-title="Portugal",Sporting TV
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/87.m3u8
+#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-name="Sporting TV HD" tvg-logo="http://i.imgur.com/W1XTosw.png" group-title="Portugal",Sporting TV HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/88.m3u8
+#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-name="Sporting HD (LOW)" tvg-logo="http://i.imgur.com/W1XTosw.png" group-title="Portugal",Sporting HD (LOW)
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/89.m3u8
+#EXTINF:-1 tvg-id="eurosport.pt" tvg-name="Eurosport 1 HD" tvg-logo="http://i.imgur.com/burf6f6.png" group-title="Portugal",Eurosport 1 HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/90.m3u8
+#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="Eurosport 2" tvg-logo="http://i.imgur.com/v8XNpl9.png" group-title="Portugal",Eurosport 2
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/91.m3u8
+#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="Eurosport 2 Xtra HD" tvg-logo="http://i.imgur.com/v8XNpl9.png" group-title="Portugal",Eurosport 2 Xtra HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/92.m3u8
+#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="Eurosport 2 Xtra HD (LOW)" tvg-logo="http://i.imgur.com/v8XNpl9.png" group-title="Portugal",Eurosport 2 Xtra HD (LOW)
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/93.m3u8
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel" tvg-logo="http://i.imgur.com/lZLOpZ1.png" group-title="Portugal",Disney Channel
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/122.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/cartoonnetwork.png" group-title="Portugal",Cartoon Network
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/123.m3u8
-#EXTINF:-1 tvg-id="JimJam" tvg-name="JimJam" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/jimjam.png" group-title="Portugal",JimJam
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/124.m3u8
-#EXTINF:-1 tvg-id="Panda Biggs" tvg-name="Panda Biggs" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/pandabiggs.png" group-title="Portugal",Panda Biggs
+#EXTINF:-1 tvg-id="SICK.pt" tvg-name="SIC K" tvg-logo="http://i.imgur.com/okIRU0c.png" group-title="Portugal",SIC K
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/120.m3u8
+#EXTINF:-1 tvg-id="PandaBiggs.pt" tvg-name="Panda Biggs" tvg-logo="http://i.imgur.com/rp7bAIX.png" group-title="Portugal",Panda Biggs
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/125.m3u8
-#EXTINF:-1 tvg-id="Canal Panda" tvg-name="Canal Panda" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/panda.png" group-title="Portugal",Canal Panda
+#EXTINF:-1 tvg-id="canalpanda.pt" tvg-name="Canal Panda" tvg-logo="http://i.imgur.com/b1YQLO1.png" group-title="Portugal",Canal Panda
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/126.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/nickelodeon.png" group-title="Portugal",Nickelodeon
+#EXTINF:-1 tvg-id="disneyjunior.pt" tvg-name="Disney Junior" tvg-logo="http://i.imgur.com/Fx9UoPN.png" group-title="Portugal",Disney Junior
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/121.m3u8
+#EXTINF:-1 tvg-id="JJAM" tvg-name="JimJam" tvg-logo="http://i.imgur.com/FqS9Woi.png" group-title="Portugal",JimJam
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/124.m3u8
+#EXTINF:-1 tvg-id="BABYT" tvg-name="Baby TV" tvg-logo="http://i.imgur.com/oFE3JRL.png" group-title="Portugal",Baby TV
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/119.m3u8
+#EXTINF:-1 tvg-id="CART" tvg-name="Cartoon Network" tvg-logo="http://i.imgur.com/qjXHiLT.png" group-title="Portugal",Cartoon Network
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/123.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://i.imgur.com/dgWSdXi.png" group-title="Portugal",Nickelodeon
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/127.m3u8
-#EXTINF:-1 tvg-id="História" tvg-name="Canal Historia" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/canalhistoria.png" group-title="Portugal",Canal Historia
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/128.m3u8
-#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/bloomberg.png" group-title="Portugal",Bloomberg
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/129.m3u8
-#EXTINF:-1 tvg-id="Outdoor Channel HD" tvg-name="Outdoor Channel HD" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/outdoor.png" group-title="Portugal",Outdoor Channel HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/130.m3u8
-#EXTINF:-1 tvg-id="Food Network HD" tvg-name="Food Network HD" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/foodnetwork.png" group-title="Portugal",Food Network HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/131.m3u8
-#EXTINF:-1 tvg-id="24 Kitchen HD" tvg-name="24 Kitchen HD" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/24kitchenhd.png" group-title="Portugal",24 Kitchen HD
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/132.m3u8
-#EXTINF:-1 tvg-id="Trace Urban" tvg-name="Trace Urban" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/traceurban.png" group-title="Portugal",Trace Urban
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/133.m3u8
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/amc.png" group-title="Portugal",AMC
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/134.m3u8
-#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/vh1.png" group-title="Portugal",VH1
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/135.m3u8
-#EXTINF:-1 tvg-id="Afro Music Channel" tvg-name="Afro Music Channel" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/afromusic.png" group-title="Portugal",Afro Music Channel
-http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/136.m3u8
-#EXTINF:-1 tvg-id="MTV Portugal" tvg-name="MTV Portugal" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/mtvportugal.png" group-title="Portugal",MTV Portugal
+#EXTINF:-1 tvg-id="TVCine1.pt" tvg-name="TVCine 1 HD" tvg-logo="http://i.imgur.com/VZ7DDJ7.png" group-title="Portugal",TVCine 1 HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/28.m3u8
+#EXTINF:-1 tvg-id="TVCine1.pt" tvg-name="TVCine 1 HD (LOW)" tvg-logo="http://i.imgur.com/VZ7DDJ7.png" group-title="Portugal",TVCine 1 HD (LOW)
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/29.m3u8
+#EXTINF:-1 tvg-id="TVCine2.pt" tvg-name="TVCine 2 HD" tvg-logo="http://i.imgur.com/KEIE5AN.png" group-title="Portugal",TVCine 2 HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/30.m3u8
+#EXTINF:-1 tvg-id="TVCine2.pt" tvg-name="TVCine 2 HD (LOW)" tvg-logo="http://i.imgur.com/KEIE5AN.png" group-title="Portugal",TVCine 2 HD (LOW)
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/31.m3u8
+#EXTINF:-1 tvg-id="TVCine3.pt" tvg-name="TVCine 3 HD" tvg-logo="http://i.imgur.com/kTjJPG4.png" group-title="Portugal",TVCine 3 HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/32.m3u8
+#EXTINF:-1 tvg-id="TVCine3.pt" tvg-name="TVCine 3 HD (LOW)" tvg-logo="http://i.imgur.com/kTjJPG4.png" group-title="Portugal",TVCine 3 HD (LOW)
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/33.m3u8
+#EXTINF:-1 tvg-id="TVCine4.pt" tvg-name="TVCine 4 HD" tvg-logo="http://i.imgur.com/1c78lXx.png" group-title="Portugal",TVCine 4 HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/34.m3u8
+#EXTINF:-1 tvg-id="TVCine4.pt" tvg-name="TVCine 4 HD (LOW)" tvg-logo="http://i.imgur.com/1c78lXx.png" group-title="Portugal",TVCine 4 HD (LOW)
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/35.m3u8
+#EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="Cine Mundo" tvg-logo="http://i.imgur.com/yLvb1Sq.png" group-title="Portugal",Cine Mundo
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/40.m3u8
+#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="Hollywood" tvg-logo="http://i.imgur.com/TvuMHqd.png" group-title="Portugal",Hollywood
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/36.m3u8
+#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="Hollywood HD" tvg-logo="http://i.imgur.com/TvuMHqd.png" group-title="Portugal",Hollywood HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/37.m3u8
+#EXTINF:-1 tvg-id="FOXM" tvg-name="Fox Movies" tvg-logo="http://i.imgur.com/LuksaYc.png" group-title="Portugal",Fox Movies
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/38.m3u8
+#EXTINF:-1 tvg-id="FOXM" tvg-name="FOX Movies FHD" tvg-logo="http://i.imgur.com/LuksaYc.png" group-title="Portugal",FOX Movies FHD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/39.m3u8
+#EXTINF:-1 tvg-id="MOV" tvg-name="MOV" tvg-logo="http://i.imgur.com/tSI7z2g.png" group-title="Portugal",MOV
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/41.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://i.imgur.com/OlxA3v7.png" group-title="Portugal",AMC
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/134.m3u
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="TVSéries HD" tvg-logo="http://i.imgur.com/Utodkkj.png" group-title="Portugal",TVSéries HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/55.m3u8
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="TVSéries HD (LOW)" tvg-logo="http://i.imgur.com/Utodkkj.png" group-title="Portugal",TVSéries HD (LOW)
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/56.m3u8
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN HD" tvg-logo="http://i.imgur.com/wLNmcM6.png" group-title="Portugal",AXN HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/42.m3u8
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN HD (LOW)" tvg-logo="http://i.imgur.com/wLNmcM6.png" group-title="Portugal",AXN HD (LOW)
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/43.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="AXN White HD" tvg-logo="http://i.imgur.com/uUSkZNV.png" group-title="Portugal",AXN White HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/44.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="AXN White HD (LOW)" tvg-logo="http://i.imgur.com/uUSkZNV.png" group-title="Portugal",AXN White HD (LOW)
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/45.m3u8
+#EXTINF:-1 tvg-id="AXNBlack.pt" tvg-name="AXN Black HD" tvg-logo="http://i.imgur.com/imOyfhi.png" group-title="Portugal",AXN Black HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/46.m3u8
+#EXTINF:-1 tvg-id="AXNBlack.pt" tvg-name="AXN Black HD (LOW)" tvg-logo="http://i.imgur.com/imOyfhi.png" group-title="Portugal",AXN Black HD (LOW)
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/47.m3u8
+#EXTINF:-1 tvg-id="SyFy.pt" tvg-name="SyFy" tvg-logo="http://i.imgur.com/WezxFDD.png" group-title="Portugal",SyFy
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/51.m3u8
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="Fox HD" tvg-logo="http://i.imgur.com/6nDxJQT.png" group-title="Portugal",Fox HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/48.m3u8
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="Fox Life HD" tvg-logo="http://i.imgur.com/d2SVeBO.png" group-title="Portugal",Fox Life HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/49.m3u8
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="Fox Crime HD" tvg-logo="http://i.imgur.com/juDQaEY.png" group-title="Portugal",Fox Crime HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/50.m3u8
+#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="FOX Comedy" tvg-logo="http://i.imgur.com/W2hagmC.png" group-title="Portugal",FOX Comedy
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/52.m3u8
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-name="MTV Portugal" tvg-logo="http://i.imgur.com/t1J2N4T.png" group-title="Portugal",MTV Portugal
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/137.m3u8
-#EXTINF:-1 tvg-id="MCM Pop" tvg-name="MCM Pop" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/mcmpop.png" group-title="Portugal",MCM Pop
+#EXTINF:-1 tvg-id="E!" tvg-name="E! Entertainment" tvg-logo="http://i.imgur.com/clV2iUo.png" group-title="Portugal",E! Entertainment
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/53.m3u8
+#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="SIC Caras" tvg-logo="http://i.imgur.com/WsVTsWI.png" group-title="Portugal",SIC Caras
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/58.m3u8
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC" tvg-logo="http://i.imgur.com/E2ses69.png" group-title="Portugal",TLC
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/109.m3u8
+#EXTINF:-1 tvg-id="CBSR" tvg-name="CBS Reality" tvg-logo="http://i.imgur.com/HFqV9Oj.png" group-title="Portugal",CBS Reality
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/54.m3u8
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E" tvg-logo="http://i.imgur.com/AyGmrVX.png" group-title="Portugal",A&E
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/111.m3u8
+#EXTINF:-1 tvg-id="TVI Reality" tvg-name="TVI Reality" tvg-logo="http://i.imgur.com/A0YgFSO.png" group-title="Portugal",TVI Reality
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/59.m3u8
+#EXTINF:-1 tvg-id="TVI Reality: Câmara Exclusiva" tvg-name="TVI Reality: Câmara 4" tvg-logo="http://i.imgur.com/A0YgFSO.png" group-title="Portugal",TVI Reality: Câmara 4
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/60.m3u8
+#EXTINF:-1 tvg-id="TVI Reality: Mosaico" tvg-name="TVI Reality: Mosaico" tvg-logo="http://i.imgur.com/A0YgFSO.png" group-title="Portugal",TVI Reality: Mosaico
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/61.m3u8
+#EXTINF:-1 tvg-id="TRV" tvg-name="Travel Channel HD" tvg-logo="http://i.imgur.com/rOmCLMU.png" group-title="Portugal",Travel Channel HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/118.m3u8
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="24 Kitchen HD" tvg-logo="http://i.imgur.com/MIEYtsX.png" group-title="Portugal",24 Kitchen HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/132.m3u8
+#EXTINF:-1 tvg-id="FOOD" tvg-name="Food Network HD" tvg-logo="http://i.imgur.com/GcOgiKN.png" group-title="Portugal",Food Network HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/131.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="Discovery Channel" tvg-logo="http://i.imgur.com/90ZqaVM.png" group-title="Portugal",Discovery Channel
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/108.m3u8
+#EXTINF:-1 tvg-id="Discovery Showcase HD" tvg-name="Discovery Showcase HD" tvg-logo="http://i.imgur.com/7YNROob.png" group-title="Portugal",Discovery Showcase HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/107.m3u8
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="Odisseia" tvg-logo="http://i.imgur.com/EshkyYz.png" group-title="Portugal",Odisseia
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/110.m3u8
+#EXTINF:-1 tvg-id="HistoryChannel.pt" tvg-name="Canal Historia" tvg-logo="http://i.imgur.com/VMnAx53.png" group-title="Portugal",Canal Historia
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/128.m3u8
+#EXTINF:-1 tvg-id="nationalgeographic.PT" tvg-name="National Geographic Channel HD" tvg-logo="http://i.imgur.com/mMPaCrA.png" group-title="Portugal",National Geographic Channel HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/105.m3u8
+#EXTINF:-1 tvg-id="NGWIL" tvg-name="Nat Geo Wild" tvg-logo="http://i.imgur.com/rNXICAZ.png" group-title="Portugal",Nat Geo Wild
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/106.m3u8
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="http://i.imgur.com/j2CSfma.png" group-title="Portugal",VH1
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/135.m3u8
+#EXTINF:-1 tvg-id="TRACE TV" tvg-name="Trace Urban" tvg-logo="http://i.imgur.com/oZxAvAh.png" group-title="Portugal",Trace Urban
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/133.m3u8
+#EXTINF:-1 tvg-id="MCMTOP" tvg-name="MCM Pop" tvg-logo="http://i.imgur.com/U9mNy1Y.png" group-title="Portugal",MCM Pop
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/138.m3u8
-#EXTINF:-1 tvg-id="C Music TV" tvg-name="C Music TV" tvg-logo="http://eurotvteam.cloudns.pro/piconspt/cmusic.png" group-title="Portugal",C Music TV
+#EXTINF:-1 tvg-id="AFRO" tvg-name="Afro Music Channel" tvg-logo="http://i.imgur.com/B0KBxJp.png" group-title="Portugal",Afro Music Channel
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/136.m3u8
+#EXTINF:-1 tvg-id="C-MUS" tvg-name="C Music TV" tvg-logo="http://i.imgur.com/Oe4AvCH.png" group-title="Portugal",C Music TV
 http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fuel TV" tvg-logo="http://i.imgur.com/cRvhflI.png" group-title="Portugal",Fuel TV
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/100.m3u8
+#EXTINF:-1 tvg-id="Outdoor Channel HD" tvg-name="Outdoor Channel HD" tvg-logo="http://i.imgur.com/JlrFYTl.png" group-title="Portugal",Outdoor Channel HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/130.m3u8
+#EXTINF:-1 tvg-id="Fight Network HD" tvg-name="Fight Network HD" tvg-logo="http://i.imgur.com/Od7suVh.png" group-title="Portugal",Fight Network HD
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/95.m3u8
+#EXTINF:-1 tvg-id="Motorvision" tvg-name="Motorvision" tvg-logo="http://i.imgur.com/ThCUtGj.png" group-title="Portugal",Motorvision
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/96.m3u8
+#EXTINF:-1 tvg-id="Motors TV" tvg-name="Motors TV" tvg-logo="http://i.imgur.com/5PEpYE2.png" group-title="Portugal",Motors TV
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/97.m3u8
+#EXTINF:-1 tvg-id="Caçavision" tvg-name="Caçavision" tvg-logo="http://i.imgur.com/ncpZWWe.png" group-title="Portugal",Caçavision
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/102.m3u8
+#EXTINF:-1 tvg-id="Caça e Pesca" tvg-name="Caça e Pesca" tvg-logo="http://i.imgur.com/mqs3mWk.png" group-title="Portugal",Caça e Pesca
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/103.m3u8
+#EXTINF:-1 tvg-id="TOROTV.pt" tvg-name="Toros TV" tvg-logo="http://i.imgur.com/X9IvLgu.png" group-title="Portugal",Toros TV
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/104.m3u8
+#EXTINF:-1 tvg-id="PFC" tvg-name="PFC" tvg-logo="http://i.imgur.com/FYfFFim.png" group-title="Portugal",PFC
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/98.m3u8
+#EXTINF:-1 tvg-id="RMTV.pt" tvg-name="Real Madrid TV" tvg-logo="http://i.imgur.com/rq8mduw.png" group-title="Portugal",Real Madrid TV
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/99.m3u8
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="RTP África" tvg-logo="http://i.imgur.com/OIVsEqT.png" group-title="Portugal",RTP África
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/23.m3u8
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="RTP Madeira" tvg-logo="http://i.imgur.com/GRL55BY.png" group-title="Portugal",RTP Madeira
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/24.m3u8
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="RTP Açores" tvg-logo="http://i.imgur.com/dba3EB3.png" group-title="Portugal",RTP Açores
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/25.m3u8
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo Premium" tvg-logo="http://i.imgur.com/SqGAjCu.png" group-title="Portugal",Globo Premium
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/114.m3u8
+#EXTINF:-1 tvg-id="Globo Portugal" tvg-name="Globo Portugal" tvg-logo="http://i.imgur.com/6UwoTib.png" group-title="Portugal",Globo Portugal
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/115.m3u8
+#EXTINF:-1 tvg-id="TVREC" tvg-name="TV Record" tvg-logo="http://i.imgur.com/yXNzKiS.png" group-title="Portugal",TV Record
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/116.m3u8
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="http://i.imgur.com/7oLB4rW.png" group-title="Portugal",Record News
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/112.m3u8
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-name="Euronews" tvg-logo="http://i.imgur.com/64CB0QO.png" group-title="Portugal",Euronews
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/117.m3u8
+#EXTINF:-1 tvg-id="Eurosport NEWS" tvg-name="Eurosport NEWS" tvg-logo="http://i.imgur.com/uPU2y4K.png" group-title="Portugal",Eurosport NEWS
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/94.m3u8
+#EXTINF:-1 tvg-id="FOX News" tvg-name="FOX News" tvg-logo="http://i.imgur.com/8AM28Zq.png" group-title="Portugal",FOX News
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/113.m3u8
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="http://i.imgur.com/GKtAm0l.png" group-title="Portugal",Bloomberg
+http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/129.m3u8
+
 
 
 
@@ -2082,6 +2082,291 @@ http://0.0.0.0:1234 (TVSUPERTUGA)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,TVE 1
+http://80.31.117.251:7474/udp/239.0.0.76:8208
+#EXTINF:-1,TVE 1 HD
+http://80.31.117.251:7474/udp/239.0.0.185:8208
+#EXTINF:-1,TVE 2
+http://80.31.117.251:7474/udp/239.0.0.2:8208
+#EXTINF:-1,Antena 3
+http://80.31.117.251:7474/udp/239.0.0.3:8208
+#EXTINF:-1,Antena 3 HD
+http://80.31.117.251:7474/udp/239.0.0.186:8208
+#EXTINF:-1,Cuatro
+http://80.31.117.251:7474/udp/239.0.0.4:8208
+#EXTINF:-1,Cuatro HD
+http://80.31.117.251:7474/udp/239.0.0.177:8208
+#EXTINF:-1,Telecinco
+http://80.31.117.251:7474/udp/239.0.0.5:8208
+#EXTINF:-1,Telecinco HD
+http://80.31.117.251:7474/udp/239.0.0.176:8208
+#EXTINF:-1,La Sexta
+http://80.31.117.251:7474/udp/239.0.0.58:8208
+#EXTINF:-1,La Sexta HD
+http://80.31.117.251:7474/udp/239.0.0.187:8208
+#EXTINF:-1,Canal+
+http://80.31.117.251:7474/udp/239.0.0.108:8208
+#EXTINF:-1,Canal+ HD
+http://80.31.117.251:7474/udp/239.0.5.187:8208
+#EXTINF:-1,TV Mediterraneo
+http://80.31.117.251:7474/udp/239.0.3.34:8208
+#EXTINF:-1,TV3
+http://80.31.117.251:7474/udp/239.0.0.23:8208
+#EXTINF:-1,TV3 HD
+http://80.31.117.251:7474/udp/239.0.5.186:8208
+#EXTINF:-1,8 TV
+http://80.31.117.251:7474/udp/239.0.0.82:8208
+#EXTINF:-1,Series
+http://80.31.117.251:7474/udp/239.0.0.184:8208
+#EXTINF:-1,Series
+http://80.31.117.251:7474/udp/239.0.3.32:8208
+#EXTINF:-1,FOX
+http://80.31.117.251:7474/udp/239.0.0.74:8208
+#EXTINF:-1,FOX HD
+http://80.31.117.251:7474/udp/239.0.9.134:8208
+#EXTINF:-1,AXN
+http://80.31.117.251:7474/udp/239.0.0.14:8208
+#EXTINF:-1,AXN HD
+http://80.31.117.251:7474/udp/239.0.9.131:8208
+#EXTINF:-1,TNT
+http://80.31.117.251:7474/udp/239.0.0.44:8208
+#EXTINF:-1,TNT HD
+http://80.31.117.251:7474/udp/239.0.5.87:8208
+#EXTINF:-1,Comedy Central
+http://80.31.117.251:7474/udp/239.0.0.68:8208
+#EXTINF:-1,Comedy Central HD
+http://80.31.117.251:7474/udp/239.0.0.174:8208
+#EXTINF:-1,Calle 13
+http://80.31.117.251:7474/udp/239.0.0.13:8208
+#EXTINF:-1,Calle 13 HD
+http://80.31.117.251:7474/udp/239.0.5.74:8208
+#EXTINF:-1,Cosmo
+http://80.31.117.251:7474/udp/239.0.0.15:8208
+#EXTINF:-1, Cosmo HD
+http://80.31.117.251:7474/udp/239.0.5.71:8208
+#EXTINF:-1,AMC
+http://80.31.117.251:7474/udp/239.0.0.8:8208
+#EXTINF:-1,AMC HD
+http://80.31.117.251:7474/udp/239.0.9.132:8208
+#EXTINF:-1,FOX Life
+http://80.31.117.251:7474/udp/239.0.0.112:8208
+#EXTINF:-1,FOX Life HD
+http://80.31.117.251:7474/udp/239.0.5.86:8208
+#EXTINF:-1,AXN White
+http://80.31.117.251:7474/udp/239.0.0.62:8208
+#EXTINF:-1,AXN White HD
+http://80.31.117.251:7474/udp/239.0.5.79:8208
+#EXTINF:-1,SyFy
+http://80.31.117.251:7474/udp/239.0.0.111:8208
+#EXTINF:-1,SyFy HD
+http://80.31.117.251:7474/udp/239.0.5.75:8208
+#EXTINF:-1,Non Stop People
+http://80.31.117.251:7474/udp/239.0.0.212:8208
+#EXTINF:-1,Non Stop People HD
+http://80.31.117.251:7474/udp/239.0.5.170:8208
+#EXTINF:-1,MTV
+http://80.31.117.251:7474/udp/239.0.0.211:8208
+#EXTINF:-1,FDF
+http://80.31.117.251:7474/udp/239.0.0.84:8208
+#EXTINF:-1,Neox
+http://80.31.117.251:7474/udp/239.0.0.107:8208
+#EXTINF:-1,Cine
+http://80.31.117.251:7474/udp/239.0.3.30:8208
+#EXTINF:-1,Cine HD
+http://80.31.117.251:7474/udp/239.0.0.178:8208
+#EXTINF:-1,TCM
+http://80.31.117.251:7474/udp/239.0.6.5:8208
+#EXTINF:-1,TCM HD
+http://80.31.117.251:7474/udp/239.0.5.89:8208
+#EXTINF:-1,Hollywood
+http://80.31.117.251:7474/udp/239.0.0.16:8208
+#EXTINF:-1,Hollywood HD
+http://80.31.117.251:7474/udp/239.0.5.76:8208
+#EXTINF:-1,Sundance
+http://80.31.117.251:7474/udp/239.0.0.102:8208
+#EXTINF:-1,Sundance HD
+http://80.31.117.251:7474/udp/239.0.5.72:8208
+#EXTINF:-1,Paramount
+http://80.31.117.251:7474/udp/239.0.0.90:8208
+#EXTINF:-1,Deportes
+http://80.31.117.251:7474/udp/239.0.3.33:8208
+#EXTINF:-1,Deportes HD
+http://80.31.117.251:7474/udp/239.0.0.180:8208
+#EXTINF:-1,Futbol Replay
+http://80.31.117.251:7474/udp/239.0.0.97:8208
+#EXTINF:-1,Movistar F1
+http://80.31.117.251:7474/udp/239.0.0.210:8208
+#EXTINF:-1,Movistar F1 HD
+http://80.31.117.251:7474/udp/239.0.5.90:8208
+#EXTINF:-1,EuroSport
+http://80.31.117.251:7474/udp/239.0.0.18:8208
+#EXTINF:-1,EuroSport 2
+http://80.31.117.251:7474/udp/239.0.0.37:8208
+#EXTINF:-1,EuroSport 2 HD
+http://80.31.117.251:7474/udp/239.0.5.105:8208
+#EXTINF:-1,Teledeporte
+http://80.31.117.251:7474/udp/239.0.0.79:8208
+#EXTINF:-1,Teledeporte HD
+http://80.31.117.251:7474/udp/239.0.0.188:8208
+#EXTINF:-1,Iberalia
+http://80.31.117.251:7474/udp/239.0.5.6:8208
+#EXTINF:-1,National Geographic
+http://80.31.117.251:7474/udp/239.0.0.103:8208
+#EXTINF:-1,National Geographic HD
+http://80.31.117.251:7474/udp/239.0.5.78:8208
+#EXTINF:-1,Nat Geo Wild
+http://80.31.117.251:7474/udp/239.0.0.89:8208
+#EXTINF:-1,Nat Geo Wild HD
+http://80.31.117.251:7474/udp/239.0.9.136:8208
+#EXTINF:-1,Historia
+http://80.31.117.251:7474/udp/239.0.0.19:8208
+#EXTINF:-1,Discovery Channel
+http://80.31.117.251:7474/udp/239.0.0.21:8208
+#EXTINF:-1,Discovery Channel HD
+http://80.31.117.251:7474/udp/239.0.5.77:8208
+#EXTINF:-1,Odisea
+http://80.31.117.251:7474/udp/239.0.0.22:8208
+#EXTINF:-1,Odisea HD
+http://80.31.117.251:7474/udp/239.0.5.82:8208
+#EXTINF:-1,A&ampampampampampE
+http://80.31.117.251:7474/udp/239.0.0.38:8208
+#EXTINF:-1,Viajar
+http://80.31.117.251:7474/udp/239.0.0.20:8208
+#EXTINF:-1,Viajar HD
+http://80.31.117.251:7474/udp/239.0.5.73:8208
+#EXTINF:-1,Discovery MAX
+http://80.31.117.251:7474/udp/239.0.0.32:8208
+#EXTINF:-1,CCTV-E
+http://80.31.117.251:7474/udp/239.0.0.65:8208
+#EXTINF:-1,Cocina
+http://80.31.117.251:7474/udp/239.0.0.27:8208
+#EXTINF:-1,Decasa
+http://80.31.117.251:7474/udp/239.0.0.71:8208
+#EXTINF:-1,Crimen e Investigacion
+http://80.31.117.251:7474/udp/239.0.0.57:8208
+#EXTINF:-1,Divinity
+http://80.31.117.251:7474/udp/239.0.0.48:8208
+#EXTINF:-1,Nova
+http://80.31.117.251:7474/udp/239.0.0.106:8208
+#EXTINF:-1,MEGA
+http://80.31.117.251:7474/udp/239.0.3.31:8208
+#EXTINF:-1,Energy
+http://80.31.117.251:7474/udp/239.0.0.59:8208
+#EXTINF:-1,Garage TV
+http://80.31.117.251:7474/udp/239.0.0.99:8208
+#EXTINF:-1,Baby TV
+http://80.31.117.251:7474/udp/239.0.0.113:8208
+#EXTINF:-1,Disney Junior
+http://80.31.117.251:7474/udp/239.0.0.10:8208
+#EXTINF:-1,Canal Panda
+http://80.31.117.251:7474/udp/239.0.0.117:8208
+#EXTINF:-1,Nick Jr
+http://80.31.117.251:7474/udp/239.0.0.115:8208
+#EXTINF:-1,Nickelodeon
+http://80.31.117.251:7474/udp/239.0.0.69:8208
+#EXTINF:-1,Disney XD
+http://80.31.117.251:7474/udp/239.0.0.11:8208
+#EXTINF:-1,Disney Channel
+http://80.31.117.251:7474/udp/239.0.0.64:8208
+#EXTINF:-1,Disney Channel HD
+http://80.31.117.251:7474/udp/239.0.0.173:8208
+#EXTINF:-1,Boing
+http://80.31.117.251:7474/udp/239.0.0.66:8208
+#EXTINF:-1,Clan TVE
+http://80.31.117.251:7474/udp/239.0.0.80:8208
+#EXTINF:-1,TV
+http://80.31.117.251:7474/udp/239.0.0.12:8208
+#EXTINF:-1,Sol Musica
+http://80.31.117.251:7474/udp/239.0.0.39:8208
+#EXTINF:-1,VH1
+http://80.31.117.251:7474/udp/239.0.0.75:8208
+#EXTINF:-1,Canal 24 Horas
+http://80.31.117.251:7474/udp/239.0.0.78:8208
+#EXTINF:-1,BBC world
+http://80.31.117.251:7474/udp/239.0.0.30:8208
+#EXTINF:-1,CNN International
+http://80.31.117.251:7474/udp/239.0.0.40:8208
+#EXTINF:-1,Fox News
+http://80.31.117.251:7474/udp/239.0.7.65:8208
+#EXTINF:-1,Euronews
+http://80.31.117.251:7474/udp/239.0.0.28:8208
+#EXTINF:-1,Al Jazeera
+http://80.31.117.251:7474/udp/239.0.7.66:8208
+#EXTINF:-1,France 24
+http://80.31.117.251:7474/udp/239.0.7.67:8208
+#EXTINF:-1,Russia Today
+http://80.31.117.251:7474/udp/239.0.7.68:8208
+#EXTINF:-1,CNBC Europe
+http://80.31.117.251:7474/udp/239.0.7.69:8208
+#EXTINF:-1,TV5 Monde Europe
+http://80.31.117.251:7474/udp/239.0.0.31:8208
+#EXTINF:-1,Bloomberg
+http://80.31.117.251:7474/udp/239.0.0.29:8208
+#EXTINF:-1,Intereconomia TV
+http://80.31.117.251:7474/udp/239.0.0.63:8208
+#EXTINF:-1,13 TV
+http://80.31.117.251:7474/udp/239.0.0.91:8208
+#EXTINF:-1,I24 News
+http://80.31.117.251:7474/udp/239.0.0.220:8208
+#EXTINF:-1,CNC World
+http://80.31.117.251:7474/udp/239.0.0.221:8208
+#EXTINF:-1,Canal Orbe 21
+http://80.31.117.251:7474/udp/239.0.0.45:8208
+#EXTINF:-1,Andalucia TV
+http://80.31.117.251:7474/udp/239.0.0.1:8208
+#EXTINF:-1,Galicia TV Europa
+http://80.31.117.251:7474/udp/239.0.3.37:8208
+#EXTINF:-1,TV3CAT
+http://80.31.117.251:7474/udp/239.0.3.36:8208
+#EXTINF:-1,ETB Sat
+http://80.31.117.251:7474/udp/239.0.0.60:8208
+#EXTINF:-1,Aragon TV Int
+http://80.31.117.251:7474/udp/239.0.0.81:8208
+#EXTINF:-1,La Tienda en Casa
+http://80.31.117.251:7474/udp/239.0.0.98:8208
+#EXTINF:-1,Movistar+
+http://80.31.117.251:7474/udp/239.0.0.77:8208
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1, |ESP| AXN White [rtmp]
 rtmp://31.220.40.63/privatestream/axnwh?keys=rwcTJVUGCxGDFOJvEOxE0g&keyt=1461369580 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
 #EXTINF:-1, |ESP| CANAL+ Touros [rtmp]
@@ -2146,6 +2431,26 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:es3_web/tvsupe
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 #EXTINF:-1, |ESP| BYU TV INTERNATIONAL 
 http://byuhd2-lh.akamaihd.net:80/i/byutvintspanhd2_live@103133/index_840_av-p.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
