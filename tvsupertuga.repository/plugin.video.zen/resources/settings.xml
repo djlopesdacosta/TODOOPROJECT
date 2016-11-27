@@ -25,10 +25,22 @@
 		<setting type="lsep" label="32343" />
 		<setting id="bookmarks" type="bool" label="32344" default="true" />
 	</category>
+	<category id="general" label="Accounts">
+		<setting type="lsep" label="Alluc" />
+		<setting id="enable_alluc" type="bool" label="Enable Alluc Sources" default="false" />
+		<setting id="alluc_api"  type="text" label="Api Key" default="" visible="!eq(-1,false)" />
+		<setting id="alluc_debrid" type="bool" label="Enable Alluc Debrid Sources" visible="!eq(-2,false)" />
+		<setting id="alluc_max_results" type="slider" label="Max Results for Search" default="50" range="5,200" option="int" visible="!eq(-3,false)" />
+	</category>
 	<category label="32345">
 		<setting id="debridsources" type="bool" label="Enable Debrid Providers" default="false" />
 		<setting type="lsep" label="Free Providers" />
-		<setting id="provider.fdl" type="bool" label="Fdl" default="true" />
+		<setting id="provider.sockshare" type="bool" label="Sockshare" default="true" />
+		<setting id="provider.moviezone" type="bool" label="Moviezone" default="true" />
+		<setting id="provider.bcinema" type="bool" label="Bcinema" default="true" />
+		<setting id="provider.putmovie" type="bool" label="Putmovie" default="true" />
+		<setting id="provider.moviefree" type="bool" label="Moviefree" default="true" />
+		<setting id="provider.watch5s" type="bool" label="Watch5s" default="true" />
 		<setting id="provider.moviegee" type="bool" label="Moviegee" default="true" />
 		<setting id="provider.watchover" type="bool" label="Watchover" default="true" />
 		<setting id="provider.moviexk" type="bool" label="Moviexk" default="true" />
@@ -52,7 +64,13 @@
 		<setting id="provider.watchfree" type="bool" label="Watchfree" default="true" />
 		<setting id="provider.primewire" type="bool" label="Primewire" default="true" />
 		<setting id="provider.pftv" type="bool" label="Pftv" default="true" />
+		<setting id="provider.watchepisodes" type="bool" label="Watchepisodes" default="true" />
 		
+		<setting type="lsep" label="Anime - Cartoons" />		
+		<setting id="provider.animetoon" type="bool" label="Animetoon" default="true" />
+		<setting id="provider.gogoanime" type="bool" label="Gogoanime" default="true" />
+		<setting id="provider.watchcartoon" type="bool" label="Watchcartoon" default="true" />
+
 		<setting type="lsep" label="Debrid Providers" />
 		<setting id="provider.wrzcraft" type="bool" label="Wrzcraft" default="true" />
 		<setting id="provider.allrls" type="bool" label="Allrls" default="true" />

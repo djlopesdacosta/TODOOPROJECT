@@ -19,7 +19,7 @@
 '''
 
 
-import re,urllib,urlparse,json
+import re,urllib,urlparse,hashlib,random,string,json,base64
 
 from resources.lib.modules import cleantitle
 from resources.lib.modules import client
@@ -29,17 +29,16 @@ from resources.lib.modules import directstream
 
 class source:
     def __init__(self):
-        self.domains = ['123movies.to', '123movies.ru', 'yesmovies.to']
-        self.base_link = 'http://123movies.ru'
+        self.domains = ['123movies.to', '123movies.ru', '123movies.is', '123movies.gs']
+        self.base_link = 'http://123movies.gs'
         self.search_link = '/ajax/suggest_search'
         self.info_link = '/ajax/movie_load_info/%s'
         self.server_link = '/ajax/get_episodes/%s'
-        self.embed_link = '/ajax/load_embed/%s'
-        self.base_link2 = 'http://yesmovies.to'
-        self.info_link2 = '/ajax/movie_get_info/%s.html'
-        self.play_link2 = '/ajax/v2_movie_quick_play/%s/%s/%s.html'
-        self.server_link2 = '/ajax/v3_movie_get_episodes/%s/%s/%s/%s.html'
-        self.embed_link2 = '/ajax/movie_load_embed/%s.html'
+        self.direct_link = '/ajax/v2_load_episode/'
+        self.embed_link = '/ajax/load_embed/'
+        self.key = 'i6m49vd7shxkn985mhodk'
+        self.key2 = 'twz87wwxtp3dqiicks2dfyud213k6yg'
+        self.key3 = '7bcq9826avrbi6m4'
 
 
     def movie(self, imdb, title, year):
@@ -173,11 +172,11 @@ class source:
 
                 links = []
 
-                links += [{'source': 'openload.co', 'url': self.embed_link % i[1], 'direct': False} for i in r if i[0] == '14']
+                links += [{'source': 'gvideo', 'url': self.direct_link + i[1], 'direct': True} for i in r if 2 <= int(i[0]) <= 11]
 
-                #links += [{'source': 'videomega.tv', 'url': self.embed_link % i[1], 'direct': False} for i in r if i[0] == '13']
+                links += [{'source': 'openload.co', 'url': self.embed_link + i[1], 'direct': False} for i in r if i[0] == '14']
 
-                links += [{'source': 'videowood.tv', 'url': self.embed_link % i[1], 'direct': False} for i in r if i[0] == '12']
+                links += [{'source': 'videowood.tv', 'url': self.embed_link + i[1], 'direct': False} for i in r if i[0] == '12']
 
                 head = '|' + urllib.urlencode(headers)
 
@@ -185,73 +184,47 @@ class source:
             except:
                 pass
 
-
-            try:
-                u = urlparse.urljoin(self.base_link2, self.info_link2)
-                u = client.request(u % vid_id)
-                u = client.parseDOM(u, 'a', ret='href', attrs = {'class': 'btn.+?'})
-                u = [i for i in u if 'http' in i][0]
-
-                headers = {'X-Requested-With': 'XMLHttpRequest', 'Referer': u}
-
-                vid_slug = re.findall('/movie/(.+?)-\d+\.html', u)[0]
-                vid_type = 'movie' if episode == None else 'series'
-
-                u = self.play_link2 % (vid_slug, vid_id, vid_type)
-                u = urlparse.urljoin(self.base_link2, u)
-
-                r = client.request(u, headers=headers)
-                r = client.parseDOM(r, 'a', ret='href', attrs = {'title': 'View all episodes'})[0]
-
-                show_id, episode_id, server_id = re.findall('-(\d+)/(\d+)-(\d+)/', r)[0]
-
-                r = self.server_link2 % (show_id, server_id, episode_id, vid_type)
-                r = urlparse.urljoin(self.base_link2, r)
-
-                r = str(client.request(r, headers=headers))
-
-                if episode == None:
-                    r = client.parseDOM(r, 'li', ret='onclick')
-
-                else:
-                    r = zip(client.parseDOM(r, 'li', ret='onclick'), client.parseDOM(r, 'a', ret='title'))
-                    r = [(i[0], ''.join(re.findall('(\d+)', i[1])[:1])) for i in r]
-                    r = [i[0] for i in r if '%01d' % int(i[1]) == episode]
-
-                r = [re.findall('(\d+),(\d+)', i) for i in r]
-                r = [i[0][:2] for i in r if len(i) > 0]
-
-                links = []
-
-                links += [{'source': 'openload.co', 'url': self.embed_link2 % i[0], 'direct': False} for i in r if i[1] == '14']
-
-                #links += [{'source': 'videomega.tv', 'url': self.embed_link2 % i[0], 'direct': False} for i in r if i[1] == '13']
-
-                links += [{'source': 'videowood.tv', 'url': self.embed_link2 % i[0], 'direct': False} for i in r if i[1] == '12']
-
-                head = '|' + urllib.urlencode(headers)
-
-                for i in links: sources.append({'source': i['source'], 'quality': quality, 'provider': 'Onemovies', 'url': urlparse.urljoin(self.base_link2, i['url']) + head, 'direct': i['direct'], 'debridonly': False})
-            except:
-                pass
-
-
             return sources
         except:
             return sources
 
 
     def resolve(self, url):
-
         try: headers = dict(urlparse.parse_qsl(url.rsplit('|', 1)[1]))
         except: headers = None
 
-        url = url.split('|')[0]
-
-        result = client.request(url, headers=headers)
+        link = url.split('|')[0]
 
         try:
-            url = re.findall('"?file"?\s*=\s*"(.+?)"', result)
+            if not self.direct_link in link: raise Exception()
+
+            video_id = headers['Referer'].split('-')[-1].replace('/','')
+
+            episode_id= link.split('/')[-1]
+
+            key_gen = ''.join(random.choice(string.ascii_lowercase + string.digits) for x in range(16))
+
+			################# FIX FROM MUCKY DUCK & XUNITY TALK ################												
+            key = '87wwxtp3dqii'
+            key2 = '7bcq9826avrbi6m49vd7shxkn985mhod'
+            coookie = hashlib.md5(episode_id + key).hexdigest() + '=%s' %key_gen
+            a= episode_id + key2
+            b= key_gen
+            i=b[-1]
+            h=b[:-1]
+            b=i+h+i+h+i+h
+            hash_id = uncensored(a, b)
+			################# FIX FROM MUCKY DUCK & XUNITY TALK ################                        
+						
+            url = self.base_link + '/ajax/v2_get_sources/' + episode_id + '?hash=' + urllib.quote(hash_id)
+
+            headers['Referer'] = headers['Referer']+ '\+' + coookie
+            headers['Cookie'] = coookie
+
+            result = client.request(url, headers=headers)
+            result = result.replace('\\','')
+
+            url = re.findall('"?file"?\s*:\s*"(.+?)"', result)
             url = [directstream.googletag(i) for i in url]
             url = [i[0] for i in url if len(i) > 0]
 
@@ -272,9 +245,31 @@ class source:
             pass
 
         try:
+            if not self.embed_link in link: raise Exception()
+
+            result = client.request(link, headers=headers)
+
             url = json.loads(result)['embed_url']
             return url
         except:
             pass
 
+			
 
+def uncensored(a,b):
+    n = -1
+    fuckme=[]
+    justshow=[]
+    while True:
+        
+        if n == len(a)-1:
+            break
+        n +=1
+       
+        d = int(''.join(str(ord(c)) for c in a[n]))
+      
+        e=int(''.join(str(ord(c)) for c in b[n]))
+        justshow.append(d+e)
+        fuckme.append(chr(d+e))
+    
+    return base64.b64encode(''.join(fuckme))

@@ -41,3 +41,15 @@ def replaceHTMLCodes(txt):
     txt = txt.replace("&quot;", "\"")
     txt = txt.replace("&amp;", "&")
     return txt
+	
+	
+def quality_tag(txt):
+	if txt in ['1080', '1080p','1080P']:
+		quality = "1080p"
+		return quality
+	elif txt in ['720', '720p','720P']:
+		quality = "HD"
+		return quality
+	else: 
+		quality = "SD"
+		return quality	

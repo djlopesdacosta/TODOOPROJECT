@@ -1,3 +1,38 @@
+[B]2.0.20[/B]
+- Updated indexers
+- Tweaked pagination of Trakt lists
+- Tweaked flatten of tv shows (for external addons and library)
+- Tweaked artwork of episode lists
+- Updated providers
+
+[B]2.0.18[/B]
+- Fixed issue with Trakt Progress (missing tv shows)
+- Tweaked metadata retrieval
+- Tweaked indexers
+- Updated providers
+
+[B]2.0.14[/B]
+- Tweaked metadata timeouts
+
+[B]2.0.13[/B]
+- Updated indexers
+- Added new providers
+- Updated existing providers
+- Added Polish translation
+- Added Portuguese translation
+
+[B]2.0.12[/B]
+- Fixed issue with Trakt Progress (hidden items)
+- Fixed issue with urlresolver's openload pair dialog
+- Tweaked search and caching of providers
+- Updated providers
+
+[B]2.0.11[/B]
+- Added openload to filehosts with captchas
+- NOTE: Filehosts witch captchas can be disabled
+- Updated existing providers
+- Added new providers
+
 [B]2.0.10[/B]
 - Updated existing providers
 - Added new providers

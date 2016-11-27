@@ -60,8 +60,6 @@ class player(xbmc.Player):
             item.setArt({'icon': thumb, 'thumb': thumb, 'poster': poster, 'tvshow.poster': poster, 'season.poster': poster})
             item.setInfo(type='Video', infoLabels = meta)
 
-            #control.do_block_check(False)
-
             if 'plugin' in control.infoLabel('Container.PluginName'):
                 control.player.play(url, item)
 
@@ -175,6 +173,7 @@ class player(xbmc.Player):
 
 
     def onPlayBackStarted(self):
+        control.execute('Dialog.Close(all,true)')
         if not self.offset == '0': self.seekTime(float(self.offset))
         subtitles().get(self.name, self.imdb, self.season, self.episode)
         self.idleForPlayback()
