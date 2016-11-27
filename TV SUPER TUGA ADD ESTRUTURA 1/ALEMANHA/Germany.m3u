@@ -1,113 +1,152 @@
 #EXTM3U
-#EXTINF:-1,SIXX HD [DE]
-http://tvclub.us/play/3a1f58d032f42042d89f3429798756d1/313
-#EXTINF:-1,VOX HD [DE]
-http://tvclub.us/play/3a1f58d032f42042d89f3429798756d1/314
-#EXTINF:-1,VIVA/Comedy [DE]
-http://tvclub.us/play/3a1f58d032f42042d89f3429798756d1/316
-#EXTINF:-1,Disney HD [DE]
-http://tvclub.us/play/3a1f58d032f42042d89f3429798756d1/306
-#EXTINF:-1,Disney Cinemagic HD [DE]
-http://tvclub.us/play/3a1f58d032f42042d89f3429798756d1/319
-#EXTINF:-1,KIKA HD [DE]
-http://tvclub.us/play/3a1f58d032f42042d89f3429798756d1/317
-#EXTINF:-1,Nickelodeon HD [DE]
-http://tvclub.us/play/3a1f58d032f42042d89f3429798756d1/344
-#EXTINF:-1,Anixe HD [DE]
-http://tvclub.us/play/3a1f58d032f42042d89f3429798756d1/339
-#EXTINF:-1,MGM HD [DE]
-http://tvclub.us/play/3a1f58d032f42042d89f3429798756d1/338
-#EXTINF:-1,TNT Film [DE]
-http://tvclub.us/play/3a1f58d032f42042d89f3429798756d1/330
-#EXTINF:-1,TNT Serie HD [DE]
-http://tvclub.us/play/3a1f58d032f42042d89f3429798756d1/331
-#EXTINF:-1,Sky Action HD [DE]
-http://tvclub.us/play/3a1f58d032f42042d89f3429798756d1/332
-#EXTINF:-1,Sky Comedy [DE]
-http://tvclub.us/play/3a1f58d032f42042d89f3429798756d1/333
-#EXTINF:-1,Sky Emotion [DE]
-http://tvclub.us/play/3a1f58d032f42042d89f3429798756d1/334
-#EXTINF:-1,Sky Cinema HD [DE]
-http://tvclub.us/play/3a1f58d032f42042d89f3429798756d1/335
-#EXTINF:-1,Sky Hits HD [DE]
-http://tvclub.us/play/3a1f58d032f42042d89f3429798756d1/336
-#EXTINF:-1,Sky Atlantic HD [DE]
-http://tvclub.us/play/3a1f58d032f42042d89f3429798756d1/337
-#EXTINF:-1,Sky Sport News [DE]
-http://tvclub.us/play/3a1f58d032f42042d89f3429798756d1/340
-#EXTINF:-1,Sky Sport 1 HD [DE]
-http://tvclub.us/play/3a1f58d032f42042d89f3429798756d1/320
-#EXTINF:-1,Sky Sport 2 HD [DE]
-http://tvclub.us/play/3a1f58d032f42042d89f3429798756d1/321
-#EXTINF:-1,Sky Bundesliga 1 HD [DE]
-http://tvclub.us/play/3a1f58d032f42042d89f3429798756d1/322
-#EXTINF:-1,Eurosport HD [DE]
-http://tvclub.us/play/3a1f58d032f42042d89f3429798756d1/318
-#EXTINF:-1,Sport 1 HD [DE]
-http://tvclub.us/play/3a1f58d032f42042d89f3429798756d1/341
-#EXTINF:-1,Sport1+ HD [DE]
-http://tvclub.us/play/3a1f58d032f42042d89f3429798756d1/343
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,TNT Serie HD
-http://5.255.90.244:5000/play/a023
-#EXTINF:-1,Sky Sport 2 HD
-http://5.255.90.244:5000/play/a029
-#EXTINF:-1,Disney Cinemagic HD
-http://5.255.90.244:5000/play/a027
-#EXTINF:-1,Sky Sport Bundesliga 2 HD
-http://5.255.90.244:5000/play/a01z
-#EXTINF:-1,Sky Cinema HD
-http://5.255.90.244:5000/play/a01v
-#EXTINF:-1,Sky Sport Bundesliga 1 HD
-http://5.255.90.244:5000/play/a01n
-#EXTINF:-1,Sky Cinema Harry Potter HD
-http://5.255.90.244:5000/play/a01o
-#EXTINF:-1,Syfy HD
-http://5.255.90.244:5000/play/a01r
-#EXTINF:-1,Sky Atlantic HD
-http://5.255.90.244:5000/play/a026
-#EXTINF:-1,Eurosport 1 HD
-http://5.255.90.244:5000/play/a024
-#EXTINF:-1,Sport1+ HD
-http://5.255.90.244:5000/play/a022
-#EXTINF:-1,TNT Film (TCM)
-http://5.255.90.244:5000/play/a01w
-#EXTINF:-1,Sky Sport News HD
-http://5.255.90.244:5000/play/a01p
-#EXTINF:-1,Nat Geo Wild HD
-http://5.255.90.244:5000/play/a01s
-#EXTINF:-1,13th Street HD
-http://5.255.90.244:5000/play/a02a
-#EXTINF:-1,NatGeo HD
-http://5.255.90.244:5000/play/a028
-#EXTINF:-1,MGM HD
-http://5.255.90.244:5000/play/a01q
-#EXTINF:-1,Sky Sport 1 HD
-http://5.255.90.244:5000/play/a01t
-#EXTINF:-1,Discovery HD
-http://5.255.90.244:5000/play/a01u
-#EXTINF:-1,Sky Cinema Action HD
-http://5.255.90.244:5000/play/a021
-#EXTINF:-1,History HD
-http://5.255.90.244:5000/play/a020
-
-
-
+#EXTINF:-1,DE: Sky Cinema HD
+http://iptv.re/live/fat/fat/2370.m3u8
+#EXTINF:-1,DE: Sky Cinema +1 HD
+http://iptv.re/live/fat/fat/2371.m3u8
+#EXTINF:-1,DE: Sky Cinema +24 HD
+http://iptv.re/live/fat/fat/2372.m3u8
+#EXTINF:-1,DE: Sky Cinema Comedy HD
+http://iptv.re/live/fat/fat/1836.m3u8
+#EXTINF:-1,DE: Sky Cinema Him3u8 HD
+http://iptv.re/live/fat/fat/2377.m3u8
+#EXTINF:-1,DE: Sky Movies Action HD
+http://iptv.re/live/fat/fat/1835.m3u8
+#EXTINF:-1,DE: SKY MOVIES EMOTION HD
+http://iptv.re/live/fat/fat/3231.m3u8
+#EXTINF:-1,DE: RTL PASSION
+http://iptv.re/live/fat/fat/3232.m3u8
+#EXTINF:-1,DE: RTL NITRO
+http://iptv.re/live/fat/fat/3234.m3u8
+#EXTINF:-1,DE: RTL CRIME
+http://iptv.re/live/fat/fat/3233.m3u8
+#EXTINF:-1,DE: DISNEY XD
+http://iptv.re/live/fat/fat/3224.m3u8
+#EXTINF:-1,DE: DISNEY Channel
+http://iptv.re/live/fat/fat/3225.m3u8
+#EXTINF:-1,DE: ZDF Neo
+http://iptv.re/live/fat/fat/4212.m3u8
+#EXTINF:-1,DE: ZDF info
+http://iptv.re/live/fat/fat/4211.m3u8
+#EXTINF:-1,DE: TNT Comedy HD
+http://iptv.re/live/fat/fat/4210.m3u8
+#EXTINF:-1,DE: SRF zwei HD
+http://iptv.re/live/fat/fat/4222.m3u8
+#EXTINF:-1,DE: SRF info HD
+http://iptv.re/live/fat/fat/4221.m3u8
+#EXTINF:-1,DE: SRF 1 HD
+http://iptv.re/live/fat/fat/4220.m3u8
+#EXTINF:-1,DE: Sportdigital HD
+http://iptv.re/live/fat/fat/4209.m3u8
+#EXTINF:-1,DE: Sport 1 US HD
+http://iptv.re/live/fat/fat/4208.m3u8
+#EXTINF:-1,DE: Sky Sport News HD
+http://iptv.re/live/fat/fat/4207.m3u8
+#EXTINF:-1,DE: Sky Sport Fan Zone HD
+http://iptv.re/live/fat/fat/4206.m3u8
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://iptv.re/live/fat/fat/4205.m3u8
+#EXTINF:-1,DE: Rm3u8 Un HD
+http://iptv.re/live/fat/fat/4218.m3u8
+#EXTINF:-1,DE: Rm3u8 Deux HD
+http://iptv.re/live/fat/fat/4219.m3u8
+#EXTINF:-1,DE: RSI LA 1 HD
+http://iptv.re/live/fat/fat/4216.m3u8
+#EXTINF:-1,DE: MGM HD
+http://iptv.re/live/fat/fat/4215.m3u8
+#EXTINF:-1,DE: History HD
+http://iptv.re/live/fat/fat/4214.m3u8
+#EXTINF:-1,DE: Fox HD
+http://iptv.re/live/fat/fat/4213.m3u8
+#EXTINF:-1,DE: DISNEY CINEMAGIC
+http://iptv.re/live/fat/fat/3226.m3u8
+#EXTINF:-1,DE: ZDF
+http://iptv.re/live/fat/fat/2608.m3u8
+#EXTINF:-1,DE: Sky Arm3u8 HD
+http://iptv.re/live/fat/fat/2606.m3u8
+#EXTINF:-1,DE: Sky Cinema Family HD
+http://iptv.re/live/fat/fat/2607.m3u8
+#EXTINF:-1,DE: RTL 2
+http://iptv.re/live/fat/fat/2611.m3u8
+#EXTINF:-1,DE: RTL
+http://iptv.re/live/fat/fat/2610.m3u8
+#EXTINF:-1,DE: VOX
+http://iptv.re/live/fat/fat/2609.m3u8
+#EXTINF:-1,DE: SyFy HD
+http://iptv.re/live/fat/fat/2614.m3u8
+#EXTINF:-1,DE: Prosieben
+http://iptv.re/live/fat/fat/2612.m3u8
+#EXTINF:-1,DE: Nickelodeon
+http://iptv.re/live/fat/fat/2613.m3u8
+#EXTINF:-1,DE: Discovery
+http://iptv.re/live/fat/fat/2378.m3u8
+#EXTINF:-1,DE: Sky Select 1
+http://iptv.re/live/fat/fat/1831.m3u8
+#EXTINF:-1,DE: Sky Select 2
+http://iptv.re/live/fat/fat/1832.m3u8
+#EXTINF:-1,DE: Sky Select 3
+http://iptv.re/live/fat/fat/1833.m3u8
+#EXTINF:-1,DE: Sky Select 4
+http://iptv.re/live/fat/fat/1834.m3u8
+#EXTINF:-1,DE: Sky Sporm3u8 1 HD
+http://iptv.re/live/fat/fat/1947.m3u8
+#EXTINF:-1,DE: Sky Sporm3u8 2 HD
+http://iptv.re/live/fat/fat/1948.m3u8
+#EXTINF:-1,DE: Sky Bundesliga HD
+http://iptv.re/live/fat/fat/2379.m3u8
+#EXTINF:-1,DE: TNT Serie
+http://iptv.re/live/fat/fat/3697.m3u8
+#EXTINF:-1,DE: TNT Film
+http://iptv.re/live/fat/fat/3709.m3u8
+#EXTINF:-1,DE: TELE 5
+http://iptv.re/live/fat/fat/3689.m3u8
+#EXTINF:-1,DE: Super RTL
+http://iptv.re/live/fat/fat/3229.m3u8
+#EXTINF:-1,DE: Sport 1
+http://iptv.re/live/fat/fat/3693.m3u8
+#EXTINF:-1,DE: Sky News
+http://iptv.re/live/fat/fat/3694.m3u8
+#EXTINF:-1,DE: Sky Atlantic HD
+http://iptv.re/live/fat/fat/3696.m3u8
+#EXTINF:-1,DE: Sat1 Gold
+http://iptv.re/live/fat/fat/3703.m3u8
+#EXTINF:-1,DE: Sat 1
+http://iptv.re/live/fat/fat/2015.m3u8
+#EXTINF:-1,DE: Prosieben Maxx
+http://iptv.re/live/fat/fat/3228.m3u8
+#EXTINF:-1,DE: NTV
+http://iptv.re/live/fat/fat/3692.m3u8
+#EXTINF:-1,DE: Nat Geo Wild
+http://iptv.re/live/fat/fat/3700.m3u8
+#EXTINF:-1,DE: Nat Geo
+http://iptv.re/live/fat/fat/3699.m3u8
+#EXTINF:-1,DE: N24
+http://iptv.re/live/fat/fat/3708.m3u8
+#EXTINF:-1,DE: Motor Vision
+http://iptv.re/live/fat/fat/3701.m3u8
+#EXTINF:-1,DE: Kika
+http://iptv.re/live/fat/fat/3690.m3u8
+#EXTINF:-1,DE: Kabel Eins
+http://iptv.re/live/fat/fat/2016.m3u8
+#EXTINF:-1,DE: hr-Fernsehen
+http://iptv.re/live/fat/fat/3691.m3u8
+#EXTINF:-1,DE: Heitmat Kanal
+http://iptv.re/live/fat/fat/3698.m3u8
+#EXTINF:-1,DE: DMAX
+http://iptv.re/live/fat/fat/2017.m3u8
+#EXTINF:-1,DE: Discovery Channel
+http://iptv.re/live/fat/fat/3707.m3u8
+#EXTINF:-1,DE: Das Erste
+http://iptv.re/live/fat/fat/2014.m3u8
+#EXTINF:-1,DE: Cartoon Network
+http://iptv.re/live/fat/fat/3705.m3u8
+#EXTINF:-1,DE: Boomrang
+http://iptv.re/live/fat/fat/3706.m3u8
+#EXTINF:-1,DE: Baby TV
+http://iptv.re/live/fat/fat/3704.m3u8
+#EXTINF:-1,DE: ARTE
+http://iptv.re/live/fat/fat/3702.m3u8
+#EXTINF:-1,DE: 13th Street
+http://iptv.re/live/fat/fat/3695.m3u8
