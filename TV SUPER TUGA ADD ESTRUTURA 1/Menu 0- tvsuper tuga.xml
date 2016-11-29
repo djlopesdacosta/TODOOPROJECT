@@ -5,7 +5,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime] [COLOR white][B] [COLOR lime]|||[/COLOR] Update 28-11-2016 [COLOR red]|||[/COLOR][/B][/COLOR] </name>
+<name>[COLOR lime] [COLOR white][B] [COLOR lime]|||[/COLOR] Update 29-11-2016 [COLOR red]|||[/COLOR][/B][/COLOR] </name>
 <externallink>http://tv-super-tuga-add-estrutura.comlu.com/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA/Menu%200-%20tvsuper%20tuga.xml</externallink>
 <fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
 <thumbnail>http://www.esar.edu.pt/portal/images/outros/icon.jpg</thumbnail>
@@ -135,13 +135,13 @@
 <item>
 <title>[COLOR=red][B][I] SIC [/I][/B][/COLOR]   [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://sic.sapo.pt/direto</sportsdevil>
-<sportsdevil>http://www.sporttvgratishd.com/index.php?canal=sic</sportsdevil>
-<sportsdevil>http://www.estadiofutebol.com/gratis/sic</sportsdevil>
+<sportsdevil>http://canaltv.co/sic.php</sportsdevil>
+<sportsdevil>http://ontvfree4.me/sic-pt-online</sportsdevil>
 <sportsdevil>http://videos.sapo.pt/sicinternaciona</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sic.png</thumbnail>
 </item>
-
+http://ontvfree4.me/sic-pt-online
 <item>
 <title>[COLOR=red][B][I] SIC SD [/I][/B][/COLOR]    [COLOR=orange](WebTV)[/COLOR]</title>
 <link>http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/2.m3u8</link>
@@ -184,7 +184,7 @@
 
 <item>
 <title>[COLOR=red][B][I] TVI [/I][/B][/COLOR]  [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://www.estadiofutebol.com/gratis/tvi</sportsdevil>
+<sportsdevil>http://canaltv.co/tvi-online/</sportsdevil>
 <sportsdevil>http://ontvfree2.me/tvi-directo-online</sportsdevil>
 <sportsdevil>http://www.desportonline.net/index.php?canal=tvi</sportsdevil>
 <sportsdevil></sportsdevil>
