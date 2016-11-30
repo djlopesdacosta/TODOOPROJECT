@@ -52,20 +52,12 @@
 <item>
 <title>[COLOR=red][B][I] RTP 1 HD [/I][/B][/COLOR][COLOR=cyan]    [/COLOR]</title>
 
-<link>http://iptvfree1.com:6969/live/15/www.iptvrestream.net/4000.m3u8</link>
+<link>http://94.61.211.124:8010/play/a01i</link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 <fanart>http://4.fotos.web.sapo.io/i/oc913ed30/18864727_W0533.png</fanart>
 </item>
 
-
-<item> 
-<title>[COLOR red][B][I] RTP 1 [/I][/B][/COLOR] [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0MjpodHRwOi8vcnRwLXB1bGwtbGl2ZS5obHMuYWRhcHRpdmUubGV2ZWwzLm5ldC9saXZlcmVwZWF0ZXIvc21pbDpydHAxLnNtaWwvcGxheWxpc3QubTN1OHxVc2VyLUFnZW50PUFwcGxlQ29yZU1lZGlhLzEuMC4wLjEzQTQ1MiAoaVBob25lOyBVOyBDUFUgT1MgOV8wXzIgbGlrZSBNYWMgT1MgWDsgZW5fZ2Ip&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DRtp+1+v8%5B%2FCOLOR%5D</jsonrpc>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
-<fanart>http://4.fotos.web.sapo.io/i/oc913ed30/18864727_W0533.png</fanart>
-</item>
 
 
 <item>
@@ -89,17 +81,8 @@
 <item>
 <title>[COLOR=red][B][I] RTP 2 HD [/I][/B][/COLOR]  [COLOR=cyan]      [/COLOR]</title>
 
-<link>http://iptvfree1.com:6969/live/15/www.iptvrestream.net/3999.m3u8</link>
+<link>http://94.61.211.124:8010/play/a01h</link>
 	 
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>
-<fanart>http://media.rtp.pt/extra/wp-content/uploads/sites/22/2015/05/RTP2.jpg</fanart>
-</item>
-
-
-<item> 
-<title>[COLOR red][B][I]  RTP 2 [/I][/B][/COLOR] [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0MjpodHRwOi8vcnRwLXB1bGwtbGl2ZS5obHMuYWRhcHRpdmUubGV2ZWwzLm5ldC9saXZlcmVwZWF0ZXIvc21pbDpydHAyLnNtaWwvcGxheWxpc3QubTN1OHxVc2VyLUFnZW50PUFwcGxlQ29yZU1lZGlhLzEuMC4wLjEzQTQ1MiAoaVBob25lOyBVOyBDUFUgT1MgOV8wXzIgbGlrZSBNYWMgT1MgWDsgZW5fZ2Ip&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DRtp+2+v8%5B%2FCOLOR%5D</jsonrpc>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>
 <fanart>http://media.rtp.pt/extra/wp-content/uploads/sites/22/2015/05/RTP2.jpg</fanart>
 </item>
@@ -144,7 +127,6 @@
 
 <item>
 <title>[COLOR=red][B][I] SIC SD [/I][/B][/COLOR]    [COLOR=orange](WebTV)[/COLOR]</title>
-<link>http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/2.m3u8</link>
 <link>http://live.impresa.pt/live/sic/sic540p.m3u8</link>
 
 <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
@@ -172,10 +154,7 @@
 <item>
 <title>[COLOR=red][B][I] SIC HD [/I][/B][/COLOR]   [COLOR=cyan]F4MTESTER[/COLOR]</title>
 
-
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/760.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC </link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1068.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC SD</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/825.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC HD </link>
 <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
 <fanart>http://iptv.cline.in:80/live/greg/greg/1166.m3u8</fanart>
 </item>
@@ -212,7 +191,7 @@
 <item>
 <title>[COLOR=red][B][I] TVI [/I][/B][/COLOR]   [COLOR=cyan]SD[/COLOR]</title>
 
-<link>http://iptvfree1.com:6969/live/15/www.iptvrestream.net/3948.m3u8</link>
+<link>http://94.61.211.124:8010/play/a01f</link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
 <fanart>https://lh6.ggpht.com/Rco-3B_gxp2WxcpArRjrp3iT_XKI94B2paXEh86tn-wioNk9EGKYYUaa6NDg1yLmoGqF=h900</fanart>
@@ -517,9 +496,9 @@
 </item>
 
 <item>
-<title>[COLOR=cyan][B][I] TVI 24 HD [/I][/B][/COLOR]      [COLOR=orange]F4MTESTER[/COLOR]</title>
+<title>[COLOR=cyan][B][I] TVI 24 HD [/I][/B][/COLOR]      [COLOR=orange][/COLOR]</title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/808.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI_24 </link>
+<link>http://94.61.211.124:8010/play/a00y</link>
  
 <link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
