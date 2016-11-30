@@ -160,6 +160,17 @@
 </item>
 
 
+<item>
+<title>[COLOR=red][B][I] SIC HD [/I][/B][/COLOR]   [COLOR=cyan]F4MTESTER[/COLOR]</title>
+
+<link>http://213.58.181.40:8000/play/sict</link>
+<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
+<fanart>http://iptv.cline.in:80/live/greg/greg/1166.m3u8</fanart>
+</item>
+
+
+
+
 
 <item>
 <title>[COLOR=red][B][I] TVI [/I][/B][/COLOR]  [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
@@ -441,7 +452,7 @@
 
 <item>
 <title>[COLOR=cyan][B][I] SIC NOTICIAS HD [/I][/B][/COLOR][COLOR=red](Full HD)[/COLOR]</title>
-<link>http://84.75.244.87:8000/play/a008</link>
+<link>http://94.61.211.124:8010/play/a010</link>
 <link>http://www.q7t1.com:8000/live/maht/maht/1123.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicn.png</thumbnail>
 </item>
@@ -1299,7 +1310,7 @@ SIC NOTICIAS
 <item>   
 <title>[COLOR=white][B][I] SIC MULHER HD[/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR] </title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1380.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_MULHER </link>
+<link>http://94.61.211.124:8010/play/a00w</link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicm.png</thumbnail>
 </item>
@@ -1440,7 +1451,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item>
 <title>[COLOR=white][B][I] TVI REALITY SD [/I][/B][/COLOR]</title>
 
-<link>http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/59.m3u8</link>
+<link>http://213.58.181.40:8000/play/tvirealityt</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
 </item>
 
@@ -2873,7 +2884,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item>
 <title>[COLOR blue] [I]SPORT TV +[/I] [/COLOR] [COLOR orange]F4MTESTER[/COLOR]</title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/970.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV + </link>
+<link>http://213.58.181.40:8000/play/sportv+t </link>
 
 <thumbnail>http://www.onlinenatv.com/wp-content/uploads/2016/10/sport.tv_.portugal.jpg?x78568</thumbnail>
 <fanart></fanart>
@@ -2889,7 +2900,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 <item>
 <title>[COLOR=blue][B][I] SPORT TV 1 [/I][/B][/COLOR]  [COLOR=lime](SD)[/COLOR]</title>
-<link>http://iptvfree1.com:6969/live/15/www.iptvrestream.net/3992.m3u8</link>
+<link>http://213.58.181.40:8000/play/a00v</link>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 
