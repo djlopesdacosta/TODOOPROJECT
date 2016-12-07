@@ -17,7 +17,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 30-11-16 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 07-12-16 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -34,258 +34,459 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 <item>
-<title>UK:Sky.Movies.Family</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1192.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Movies.Family </link>
+<title>UK_BBC_1_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1088.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC_1_HD </link>
 </item>
 <item>
-<title>UK:Sky.Movies.Comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1193.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Movies.Comedy </link>
+<title>UK_BBC_2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1087.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC_2_HD </link>
 </item>
 <item>
-<title>UK:Sky.Movies.Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1194.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Movies.Action </link>
+<title>UK_BBC_3_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1086.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC_3_HD </link>
 </item>
 <item>
-<title>UK:Movies.ACTION.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1189.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Movies.ACTION.HD </link>
+<title>UK_BBC_4_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1085.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC_4_HD </link>
 </item>
 <item>
-<title>UK:Sky.Movies.Select</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1190.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Movies.Select </link>
+<title>UK_BBC_NEW_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1084.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC_NEW_HD </link>
 </item>
 <item>
-<title>UK:Sky.Movies.Sci-Fi</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1191.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Movies.Sci-Fi </link>
+<title>UK_CBS_Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1082.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CBS_Action </link>
 </item>
 <item>
-<title>UK:VH1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1796.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:VH1 </link>
+<title>UK_CBS_Drama</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1081.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CBS_Drama </link>
 </item>
 <item>
-<title>UK:Sony-Movies</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1797.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sony-Movies </link>
+<title>UK_CBS_REALITY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1080.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CBS_REALITY </link>
 </item>
 <item>
-<title>UK:SKY-Sports-F1-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1800.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY-Sports-F1-HD </link>
+<title>UK_ITV_1_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1072.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV_1_HD </link>
 </item>
 <item>
-<title>UK:Setanta-Ireland</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1799.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Setanta-Ireland </link>
+<title>UK_ITV_2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV_2_HD </link>
 </item>
 <item>
-<title>UK:Premier-Sports</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1795.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Premier-Sports </link>
+<title>UK_ITV_3_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV_3_HD </link>
 </item>
 <item>
-<title>UK:Sky.Movies.Premiere</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1702.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Movies.Premiere </link>
+<title>UK_ITV_4_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1069.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV_4_HD </link>
 </item>
 <item>
-<title>UK:Sky.Movies.PremierPlus1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1703.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Movies.PremierPlus1 </link>
+<title>UK_Sky_MUTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1051.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_MUTV </link>
 </item>
 <item>
-<title>UK:Sky.Movies.Drama</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1704.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Movies.Drama </link>
+<title>UK_Fox</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1074.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Fox </link>
 </item>
 <item>
-<title>UK:Sky.Movies.ScFiHorror</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1705.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Movies.ScFiHorror </link>
+<title>UK_Sky_Syfy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1045.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Syfy </link>
 </item>
 <item>
-<title>UK:Sky.Movies.Comedy.Central</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1706.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Movies.Comedy.Central </link>
+<title>UK_SKY_ACTION_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1067.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_ACTION_HD </link>
 </item>
 <item>
-<title>UK:E!.Entertainment</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2849.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:E!.Entertainment </link>
+<title>UK_SKY_MOVIES_COMEDY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1061.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_MOVIES_COMEDY </link>
 </item>
 <item>
-<title>SKYUK:rte-One</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1362.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:rte-One </link>
+<title>UK_Sky_Movies_Greats</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1057.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Greats </link>
 </item>
 <item>
-<title>Uk:Gold</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1762.ts&amp;streamtype=TSDOWNLOADER&amp;name=Uk:Gold </link>
+<title>UK_SKY_MOVIES_DISNEY_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1060.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_MOVIES_DISNEY_HD </link>
 </item>
 <item>
-<title>UK:Drama</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1763.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Drama </link>
+<title>UK_SKY_MOVIES_DRAMA_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1059.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_MOVIES_DRAMA_HD </link>
 </item>
 <item>
-<title>UK:SyFy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2850.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SyFy </link>
+<title>UK_SKY_MOVIES_FAMILY_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1058.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_MOVIES_FAMILY_HD </link>
 </item>
 <item>
-<title>UK:NickToons</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2846.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:NickToons </link>
+<title>UK_SKY_MOVIES_SCIFI_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1055.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_MOVIES_SCIFI_HD </link>
 </item>
 <item>
-<title>UK:Nick.UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2845.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Nick.UK </link>
+<title>UK_SKY_MOVIES_PREMIERE_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1056.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_MOVIES_PREMIERE_HD </link>
 </item>
 <item>
-<title>UK:Nick.Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2844.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Nick.Junior </link>
+<title>UK_Sky_Movies_Showcase</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1053.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Showcase </link>
 </item>
 <item>
-<title>UK:Disney.XD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2848.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Disney.XD </link>
+<title>UK_Sky_Movies_Select</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1054.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Select </link>
 </item>
 <item>
-<title>UK:Cartoon.Network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2847.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Cartoon.Network </link>
+<title>UK_SKY_MOVIES_THRILLER_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1052.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_MOVIES_THRILLER_HD </link>
 </item>
 <item>
-<title>UK:Disney.Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1764.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Disney.Junior </link>
+<title>UK_True_Movies_1_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1044.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_True_Movies_1_HD </link>
 </item>
 <item>
-<title>UK:Disney.Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1765.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Disney.Channel </link>
+<title>UK_True_Movies_2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1043.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_True_Movies_2_HD </link>
 </item>
 <item>
-<title>SKYUK:Sky-Arts1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1363.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:Sky-Arts1 </link>
+<title>UK_YESTERDAY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1042.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_YESTERDAY </link>
 </item>
 <item>
-<title>UK:BBC.TWO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1707.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC.TWO </link>
+<title>UK_Sky_Sporm3u8_News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1046.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sporm3u8_News </link>
 </item>
 <item>
-<title>UK:BBC.Three</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1708.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC.Three </link>
+<title>UK_Sky_Sporm3u8_F1_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1047.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sporm3u8_F1_HD </link>
 </item>
 <item>
-<title>UK:BBC.One</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1709.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC.One </link>
+<title>UK_Sky_Sporm3u8_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1050.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sporm3u8_1 </link>
 </item>
 <item>
-<title>UK:BBC.Four</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1711.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC.Four </link>
+<title>UK_Sky_Sporm3u8_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1049.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sporm3u8_2 </link>
 </item>
 <item>
-<title>UK:Nat.Geo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1761.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Nat.Geo </link>
+<title>UK_Sky_Sporm3u8_3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1048.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sporm3u8_3 </link>
 </item>
 <item>
-<title>UK:NATIONAL-GEO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1793.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:NATIONAL-GEO </link>
+<title>UK: Sky Sporm3u8 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1090.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sporm3u8 4 </link>
 </item>
 <item>
-<title>UK:ANIMAL-PLANET</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1794.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ANIMAL-PLANET </link>
+<title>UK: Sky Sporm3u8 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1089.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sporm3u8 5 </link>
 </item>
 <item>
-<title>UK:Discovery.Science</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1766.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Discovery.Science </link>
+<title>UK_boxnation</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1083.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_boxnation </link>
 </item>
 <item>
-<title>UK:Discovery.History</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1767.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Discovery.History </link>
+<title>UK_FOX_SPORm3u8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1073.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_FOX_SPORm3u8 </link>
 </item>
 <item>
-<title>UK.DiscoveryHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1768.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK.DiscoveryHD </link>
+<title>UK_Premier_Sporm3u8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1068.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_Premier_Sporm3u8 </link>
 </item>
 <item>
-<title>UK:Discovery</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1403.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Discovery </link>
+<title>UK_Sky_BT_Sport_1_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1066.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_BT_Sport_1_HD </link>
 </item>
 <item>
-<title>UK:National.Geography.Wild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1402.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:National.Geography.Wild </link>
+<title>UK _Sky_BT_Sport_2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1065.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK _Sky_BT_Sport_2_HD </link>
 </item>
 <item>
-<title>UK:Sport-News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1798.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sport-News </link>
+<title>UK_Sky_BT_SPORT_EUROPE_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1064.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_BT_SPORT_EUROPE_HD </link>
 </item>
 <item>
-<title>UK:BT-Sport1.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1789.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BT-Sport1.HD </link>
+<title>UK_Sky_BT_Sport_Extra_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1063.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_BT_Sport_Extra_HD </link>
 </item>
 <item>
-<title>UK:BT-Sport2.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1790.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BT-Sport2.HD </link>
+<title>UK_Sky_BT_Sport_SPPN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1062.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_BT_Sport_SPPN </link>
 </item>
 <item>
-<title>UK:BT-Sport-EU.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1791.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BT-Sport-EU.HD </link>
+<title>UK_CTH_STADIUM_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1078.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_CTH_STADIUM_1 </link>
 </item>
 <item>
-<title>UK:ITV1.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1396.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ITV1.HD </link>
+<title>UK_CTH_ STADIUM_2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1079.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_CTH_ STADIUM_2_HD </link>
 </item>
 <item>
-<title>UK:ITV2.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1397.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ITV2.HD </link>
+<title>UK_CTH_STADIUM_3_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1077.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_CTH_STADIUM_3_HD </link>
 </item>
 <item>
-<title>UK:ITV3.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1398.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ITV3.HD </link>
+<title>UK_CTH_STADIUM_4_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1076.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_CTH_STADIUM_4_HD </link>
 </item>
 <item>
-<title>UK:ITV4.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1399.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ITV4.HD </link>
+<title>UK_CTH_STADIUM_5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1075.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_CTH_STADIUM_5 </link>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>UK: Sky Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/7.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 1 HD </link>
 </item>
 <item>
-<title>UK:Sky.Sports.News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1760.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Sports.News </link>
+<title>UK: Sky Sports 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 1 </link>
 </item>
 <item>
-<title>UK:SKY.SPORTS1.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1756.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY.SPORTS1.HD </link>
+<title>UK: Sky Sports 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/9.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 2 HD </link>
 </item>
 <item>
-<title>UK:SKY.SPORTS2-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1757.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY.SPORTS2-HD </link>
+<title>UK: Sky Sports 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/8.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 2 </link>
 </item>
 <item>
-<title>UK:SKY.SPORTS3-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1758.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY.SPORTS3-HD </link>
+<title>UK: Sky Sports 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 3 HD </link>
 </item>
 <item>
-<title>UK:SKY.SPORTS4-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1759.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY.SPORTS4-HD </link>
+<title>UK: Sky Sports 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 3 </link>
 </item>
 <item>
-<title>UK:SKY.SPORTS1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/425.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY.SPORTS1 </link>
+<title>UK: Sky Sports 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/13.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 4 HD </link>
 </item>
 <item>
-<title>UK-SKY.SPORTS.F1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/311.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-SKY.SPORTS.F1 </link>
+<title>UK: Sky Sports 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/12.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 4 </link>
 </item>
 <item>
-<title>UK-SKY.SPORTS2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/312.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-SKY.SPORTS2 </link>
+<title>UK: Sky Sports 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/15.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 5 HD </link>
 </item>
 <item>
-<title>UK:Sky.Sports2.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1392.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Sports2.HD </link>
+<title>UK: Sky Sports 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 5 </link>
 </item>
 <item>
-<title>UK:Sky.Sports3.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1393.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Sports3.HD </link>
+<title>UK: Sky Sports F1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/17.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports F1 HD </link>
 </item>
 <item>
-<title>UK:Sky.Sports4.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1394.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Sports4.HD </link>
+<title>UK: Sky Sports News HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/18.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports News HD </link>
 </item>
 <item>
-<title>UK:Sky.Sports5.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1395.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Sports5.HD </link>
+<title>UK: Sky Sports Box Office</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/16.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports Box Office </link>
 </item>
 <item>
-<title>UK:Eurosport1.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1400.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Eurosport1.HD </link>
+<title>UK: BT Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/19.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport 1 HD </link>
 </item>
 <item>
-<title>UK:Eurosport2.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1401.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Eurosport2.HD </link>
+<title>UK: BT Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/20.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport 2 HD </link>
 </item>
+<item>
+<title>UK: BT SPORTS 1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/217.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT SPORTS 1HD </link>
+</item>
+<item>
+<title>UK: BT SPORTS 2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/216.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT SPORTS 2HD </link>
+</item>
+<item>
+<title>UK: BT SPORTS 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/215.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT SPORTS 3 HD </link>
+</item>
+<item>
+<title>UK: BT Sport Europe HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/21.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport Europe HD </link>
+</item>
+<item>
+<title>UK: BT Sports Extra</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/214.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sports Extra </link>
+</item>
+<item>
+<title>UK: Euro Sports 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/22.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Euro Sports 1 </link>
+</item>
+<item>
+<title>UK: Euro Sports 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/23.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Euro Sports 2 </link>
+</item>
+<item>
+<title>UK: Boxnation</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Boxnation </link>
+</item>
+<item>
+<title>UK: RACING UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/266.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RACING UK </link>
+</item>
+<item>
+<title>UK: Chelsea TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Chelsea TV </link>
+</item>
+<item>
+<title>UK: BOX-Nation</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/218.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BOX-Nation </link>
+</item>
+<item>
+<title>UK: Setanta Sport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/27.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Setanta Sport </link>
+</item>
+<item>
+<title>UK: PREMIERE SPORT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: PREMIERE SPORT </link>
+</item>
+<item>
+<title>UK: LIVERPOOL FC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/267.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: LIVERPOOL FC </link>
+</item>
+<item>
+<title>UK:MIO_STADIUM_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/81.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:MIO_STADIUM_1 </link>
+</item>
+<item>
+<title>UK:MIO_STADIUM_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/82.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:MIO_STADIUM_2 </link>
+</item>
+<item>
+<title>UK:MIO_STADIUM_3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:MIO_STADIUM_3 </link>
+</item>
+<item>
+<title>UK:MIO_STADIUM_4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:MIO_STADIUM_4 </link>
+</item>
+<item>
+<title>USA : BTN SPORTS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : BTN SPORTS HD </link>
+</item>
+<item>
+<title>USA : Bein USA HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : Bein USA HD </link>
+</item>
+<item>
+<title>USA: TSN1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TSN1 HD </link>
+</item>
+<item>
+<title>USA: TSN 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TSN 2 HD </link>
+</item>
+<item>
+<title>USA: TSN 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TSN 3 HD </link>
+</item>
+<item>
+<title>USA: TSN 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TSN 4 HD </link>
+</item>
+<item>
+<title>USA: TSN 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TSN 5 HD </link>
+</item>
+<item>
+<title>USA: FOX SPORT 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/48.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: FOX SPORT 2 HD </link>
+</item>
+<item>
+<title>USA: ASTRO SPORT 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/50.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: ASTRO SPORT 1 </link>
+</item>
+<item>
+<title>USA: ASTRO SPORT 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/51.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: ASTRO SPORT 2 </link>
+</item>
+<item>
+<title>USA: ASTRO SPORT 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/52.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: ASTRO SPORT 3 </link>
+</item>
+<item>
+<title>USA : WWE Network HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/53.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : WWE Network HD </link>
+</item>
+<item>
+<title>USA : WILLOW CRICKET HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : WILLOW CRICKET HD </link>
+</item>
+<item>
+<title>USA : TENNIS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/54.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : TENNIS HD </link>
+</item>
+<item>
+<title>USA : Fox Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/46.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : Fox Sports 1 HD </link>
+</item>
+<item>
+<title>USA : ESPN2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/58.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : ESPN2 HD </link>
+</item>
+<item>
+<title>USA : ESPN HD 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : ESPN HD 2 </link>
+</item>
+<item>
+<title>USA : ESPN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/56.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : ESPN HD </link>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <item>       
 <title>[COLOR red][/COLOR]</title>
