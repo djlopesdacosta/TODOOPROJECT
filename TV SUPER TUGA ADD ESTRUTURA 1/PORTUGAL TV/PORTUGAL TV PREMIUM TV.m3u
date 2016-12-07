@@ -83,7 +83,6 @@ http://137.74.94.161:8000/live/endy/endy/8215.m3u8
 
 
 
-
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1" tvg-logo="http://i.imgur.com/FEOOwWv.png" group-title="PORTUGAL",RTP 1
 http://tvdasogra.com:8880/live/trial5/trial97/927.ts
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 HD" tvg-logo="http://i.imgur.com/FEOOwWv.png" group-title="PORTUGAL",RTP 1 HD
@@ -110,7 +109,7 @@ http://tvdasogra.com:8880/live/trial5/trial97/872.ts
 http://tvdasogra.com:8880/live/trial5/trial97/452.ts
 #EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="RTP Madeira" tvg-logo="http://i.imgur.com/GRL55BY.png" group-title="PORTUGAL",RTP Madeira
 http://tvdasogra.com:8880/live/trial5/trial97/761.ts
-#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Internacional" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/7905755.547473ac0a4e7.png" group-title="PORTUGAL",RTP Internacional
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Internacional" tvg-logo="http://www.espalhafactos.com/wp-content/uploads/2012/03/RTP-INTERNACIONAL.jpg" group-title="PORTUGAL",RTP Internacional
 http://tvdasogra.com:8880/live/trial5/trial97/818.ts
 #EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="RTP Açores" tvg-logo="http://i.imgur.com/dba3EB3.png" group-title="PORTUGAL",RTP Açores
 http://tvdasogra.com:8880/live/trial5/trial97/817.ts
@@ -446,6 +445,15 @@ http://tvdasogra.com:8880/live/trial5/trial97/565.ts
 http://tvdasogra.com:8880/live/trial5/trial97/924.ts
 #EXTINF:-1,cinemundo
 http://tvdasogra.com:8880/live/trial5/trial97/244.ts
+
+
+
+
+
+
+
+
+
 
 
 
