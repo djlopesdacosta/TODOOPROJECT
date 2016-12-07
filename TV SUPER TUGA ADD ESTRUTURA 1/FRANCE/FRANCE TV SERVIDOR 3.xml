@@ -34,162 +34,458 @@
 
 
 
+
+
+
 <item>
-<title>FR: W9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1180.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: W9 </link>
+<title>FR:TF1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1612.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TF1 HD </link>
 </item>
 <item>
-<title>FR: VOYAGE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1181.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: VOYAGE HD </link>
+<title>FR:FRANCE 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1613.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE 2 HD </link>
 </item>
 <item>
-<title>FR: TF1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1182.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TF1 HD </link>
+<title>FR:FRENCH 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1614.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRENCH 3 HD </link>
 </item>
 <item>
-<title>FR: TELETOON</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1183.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TELETOON </link>
+<title>FR: France 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1615.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 4 HD </link>
 </item>
 <item>
-<title>FR: Planete A&E</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1184.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Planete A&E </link>
+<title>FR:France 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1616.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:France 5 HD </link>
 </item>
 <item>
-<title>FR: OCS Max</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1185.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS Max </link>
+<title>FR:FRANCE_O</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1617.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE_O </link>
 </item>
 <item>
-<title>FR: OCS GEANT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1186.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS GEANT </link>
+<title>FR:M6 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1618.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:M6 HD </link>
 </item>
 <item>
-<title>FR: OCS City</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1187.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS City </link>
+<title>FR:HD1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1620.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:HD1 </link>
 </item>
 <item>
-<title>FR: NT1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1188.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NT1 </link>
+<title>FR:6TER HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1619.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:6TER HD </link>
 </item>
 <item>
-<title>FR: NRJ 12</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1189.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NRJ 12 </link>
+<title>FR:SYFY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1428.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SYFY HD </link>
 </item>
 <item>
-<title>FR: Nat. Geographic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1190.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Nat. Geographic </link>
+<title>FR:Serie Club HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1623.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Serie Club HD </link>
 </item>
 <item>
-<title>FR: Nat. Geo Wild HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1191.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Nat. Geo Wild HD </link>
+<title>FR:13eme RUE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1622.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:13eme RUE </link>
 </item>
 <item>
-<title>FR: M6 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1192.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6 HD </link>
+<title>FR: PARIS PREMIERE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1789.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PARIS PREMIERE </link>
 </item>
 <item>
-<title>FR: Gulli HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1193.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Gulli HD </link>
+<title>FR:RTL 9 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1630.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:RTL 9 HD </link>
 </item>
 <item>
-<title>FR: France O</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1194.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France O </link>
+<title>FR:W9 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1627.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:W9 HD </link>
 </item>
 <item>
-<title>FR: France 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1195.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 5 </link>
+<title>FR: NRJ12</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1839.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NRJ12 </link>
 </item>
 <item>
-<title>FR: France 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1196.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 4 </link>
+<title>FR:TMC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1624.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TMC </link>
 </item>
 <item>
-<title>FR: France 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1197.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 3 </link>
+<title>FR:NT1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1628.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NT1 </link>
 </item>
 <item>
-<title>FR: France 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1198.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 2 </link>
+<title>FR:C8 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1625.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:C8 HD </link>
 </item>
 <item>
-<title>FR: Disney Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1199.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney Channel </link>
+<title>FR:C-Star</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1626.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:C-Star </link>
 </item>
 <item>
-<title>FR: Discovery Science</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1200.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Discovery Science </link>
+<title>FR: AB 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1786.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: AB 1 </link>
 </item>
 <item>
-<title>FR: discovery Channel HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1201.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: discovery Channel HD </link>
+<title>FR: Teva HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1808.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Teva HD </link>
 </item>
 <item>
-<title>FR: Comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1202.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Comedy </link>
+<title>FR:TV BREIZH</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1848.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TV BREIZH </link>
 </item>
 <item>
-<title>FR: CINE  PREMIER HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1203.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE  PREMIER HD </link>
+<title>FR: AB3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1772.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: AB3 HD </link>
 </item>
 <item>
-<title>FR: Cine  Frisson</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1204.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine  Frisson </link>
+<title>FR:CHERIE 25</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1631.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CHERIE 25 </link>
 </item>
 <item>
-<title>FR: Cine  Famiz</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1205.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine  Famiz </link>
+<title>FR: Inedit TNT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/2187.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Inedit TNT </link>
 </item>
 <item>
-<title>FR: Cine  Emotion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1206.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine  Emotion </link>
+<title>Les chaines en options</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/2188.ts&amp;streamtype=TSDOWNLOADER&amp;name=Les chaines en options </link>
 </item>
 <item>
-<title>FR: Cine  Club</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1207.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine  Club </link>
+<title>====CanalSat===</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/910.ts&amp;streamtype=TSDOWNLOADER&amp;name=====CanalSat=== </link>
 </item>
 <item>
-<title>FR: Cine  Classic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1208.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine  Classic </link>
+<title>CANAL +</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1429.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL + </link>
 </item>
 <item>
-<title>FR: Canal  Sport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1209.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal  Sport </link>
+<title>CANAL+ DECALE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1432.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ DECALE HD </link>
 </item>
 <item>
-<title>FR: Canal  Decale</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1210.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal  Decale </link>
+<title>CANAL + CINEMA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1430.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL + CINEMA </link>
 </item>
 <item>
-<title>FR: CANAL  CINEMA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1211.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL  CINEMA </link>
+<title>CANAL + FAMILY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1431.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL + FAMILY </link>
 </item>
 <item>
-<title>FR: Canal</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1212.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal </link>
+<title>CANAL + SERIES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1433.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL + SERIES </link>
 </item>
 <item>
-<title>FR: Bein Sports 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1213.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 3 HD </link>
+<title>CANAL + SPORT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1434.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL + SPORT </link>
 </item>
 <item>
-<title>FR: Bein Sports 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1214.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 2 </link>
+<title>********Cinema*********</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/235.ts&amp;streamtype=TSDOWNLOADER&amp;name=********Cinema********* </link>
 </item>
 <item>
-<title>FR: Bein Sports 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1215.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 1 HD </link>
+<title>CINE+ PREMIER HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1435.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+ PREMIER HD </link>
 </item>
 <item>
-<title>FR: Animaux HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1216.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Animaux HD </link>
+<title>CINE+ FRISSON HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1436.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+ FRISSON HD </link>
 </item>
 <item>
-<title>FR:  TELETOON</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1217.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:  TELETOON </link>
+<title>FR:FR: CINE+ EMOTION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1437.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FR: CINE+ EMOTION </link>
 </item>
 <item>
-<title>FR:  FOOT  24/24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1218.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:  FOOT  24/24 </link>
+<title>CINE+ FAMIZ HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1438.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+ FAMIZ HD </link>
 </item>
+<item>
+<title>FR: Ocs Max</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1728.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Ocs Max </link>
+</item>
+<item>
+<title>FR:OCS CHOC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1642.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:OCS CHOC HD </link>
+</item>
+<item>
+<title>FR: PARAMOUNT CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1867.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PARAMOUNT CHANNEL </link>
+</item>
+<item>
+<title>FR:TCM-cinema</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1849.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TCM-cinema </link>
+</item>
+<item>
+<title>FR:Action-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1853.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Action-HD </link>
+</item>
+<item>
+<title>FR:Cine FX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1644.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Cine FX </link>
+</item>
+<item>
+<title>FR:CINE POLAR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1794.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE POLAR </link>
+</item>
+<item>
+<title>FR:BOX-OFFICE.1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/2070.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BOX-OFFICE.1HD </link>
+</item>
+<item>
+<title>FR:BOX-OFFICE.2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/2069.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BOX-OFFICE.2HD </link>
+</item>
+<item>
+<title>FR:BOX-OFFICE.3HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/2068.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BOX-OFFICE.3HD </link>
+</item>
+<item>
+<title>FR:BOX-OFFICE.4HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/2067.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BOX-OFFICE.4HD </link>
+</item>
+<item>
+<title>FR:BOX-OFFICE.5HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/2065.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BOX-OFFICE.5HD </link>
+</item>
+<item>
+<title>******** Enfants ********</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/242.ts&amp;streamtype=TSDOWNLOADER&amp;name=******** Enfants ******** </link>
+</item>
+<item>
+<title>FR:Disney CHANNEL-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1852.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Disney CHANNEL-HD </link>
+</item>
+<item>
+<title>FR: DISNEY CINEMA HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1775.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISNEY CINEMA HD </link>
+</item>
+<item>
+<title>FR:Disney Jr</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1645.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Disney Jr </link>
+</item>
+<item>
+<title>FR: Nicklodeon</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/2139.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Nicklodeon </link>
+</item>
+<item>
+<title>FR: TIJI HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1780.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TIJI HD </link>
+</item>
+<item>
+<title>FR: TELETOON   HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1777.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TELETOON   HD </link>
+</item>
+<item>
+<title>FR|Teletoon+</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/2137.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Teletoon+ </link>
+</item>
+<item>
+<title>FR:Mangas</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1650.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Mangas </link>
+</item>
+<item>
+<title>FR:Gulli HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1649.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Gulli HD </link>
+</item>
+<item>
+<title>FR:CANAL J</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1782.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL J </link>
+</item>
+<item>
+<title>FR: ZOUZOUS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1783.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: ZOUZOUS </link>
+</item>
+<item>
+<title>FR:Boomerang HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1647.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Boomerang HD </link>
+</item>
+<item>
+<title>FR: MANGA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1416.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: MANGA </link>
+</item>
+<item>
+<title>FR: GAME ONE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1791.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: GAME ONE </link>
+</item>
+<item>
+<title>******** Musique ********</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/241.ts&amp;streamtype=TSDOWNLOADER&amp;name=******** Musique ******** </link>
+</item>
+<item>
+<title>FR: M6 MUSIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1672.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6 MUSIC </link>
+</item>
+<item>
+<title>FR: MTV HITS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1676.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: MTV HITS </link>
+</item>
+<item>
+<title>FR: MTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1677.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: MTV </link>
+</item>
+<item>
+<title>MTV BASE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1792.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV BASE </link>
+</item>
+<item>
+<title>Music-Spain Kiss tv*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/421.ts&amp;streamtype=TSDOWNLOADER&amp;name=Music-Spain Kiss tv* </link>
+</item>
+<item>
+<title>Music-Radio 105 TV*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/420.ts&amp;streamtype=TSDOWNLOADER&amp;name=Music-Radio 105 TV* </link>
+</item>
+<item>
+<title>Music-MONTECARLO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/419.ts&amp;streamtype=TSDOWNLOADER&amp;name=Music-MONTECARLO </link>
+</item>
+<item>
+<title>Music-Heart TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/418.ts&amp;streamtype=TSDOWNLOADER&amp;name=Music-Heart TV </link>
+</item>
+<item>
+<title>Music-Capital TV*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/417.ts&amp;streamtype=TSDOWNLOADER&amp;name=Music-Capital TV* </link>
+</item>
+<item>
+<title>----Cultura----</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/172.ts&amp;streamtype=TSDOWNLOADER&amp;name=----Cultura---- </link>
+</item>
+<item>
+<title>FR:Discovery</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1651.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Discovery </link>
+</item>
+<item>
+<title>FR:DISCOVERY SCIENCE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1652.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DISCOVERY SCIENCE </link>
+</item>
+<item>
+<title>FR:Planete+</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1851.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Planete+ </link>
+</item>
+<item>
+<title>FR:PLANETE_CI_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1850.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:PLANETE_CI_HD </link>
+</item>
+<item>
+<title>FR:Planete-A&E</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1653.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Planete-A&E </link>
+</item>
+<item>
+<title>FR:USHUAIA-TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/2151.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:USHUAIA-TV </link>
+</item>
+<item>
+<title>FR SCIENCE&VIE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/2152.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR SCIENCE&VIE </link>
+</item>
+<item>
+<title>FR:rmc decouverte</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1658.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:rmc decouverte </link>
+</item>
+<item>
+<title>FR:NAT GEO WILD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1654.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NAT GEO WILD </link>
+</item>
+<item>
+<title>FR:Chasse&peche</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1657.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Chasse&peche </link>
+</item>
+<item>
+<title>FR: TREK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1790.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TREK </link>
+</item>
+<item>
+<title>FR:MCS LIFESTYLE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/2143.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MCS LIFESTYLE </link>
+</item>
+<item>
+<title>++++SFR Spor+++</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/966.ts&amp;streamtype=TSDOWNLOADER&amp;name=++++SFR Spor+++ </link>
+</item>
+<item>
+<title>SFR SPORT 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1718.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR SPORT 1 </link>
+</item>
+<item>
+<title>SFR Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1666.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR Sport 2 </link>
+</item>
+<item>
+<title>SFR SPORT 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1609.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR SPORT 3 </link>
+</item>
+<item>
+<title>PT: Benfica_TV_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/2134.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica_TV_1 </link>
+</item>
+<item>
+<title>PT: Benfica_TV_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/2135.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica_TV_2 </link>
+</item>
+<item>
+<title>*****FR: SPORT******</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/614.ts&amp;streamtype=TSDOWNLOADER&amp;name=*****FR: SPORT****** </link>
+</item>
+<item>
+<title>L'EQUIPE-21</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1408.ts&amp;streamtype=TSDOWNLOADER&amp;name=L'EQUIPE-21 </link>
+</item>
+<item>
+<title>FR:AB MOTEURS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/2112.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:AB MOTEURS HD </link>
+</item>
+<item>
+<title>FR: INFOSPORT HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1793.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: INFOSPORT HD </link>
+</item>
+<item>
+<title>FR:FOOT_24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1741.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FOOT_24 </link>
+</item>
+<item>
+<title>FR:OLTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1665.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:OLTV </link>
+</item>
+<item>
+<title>FR:Eurosport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1659.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Eurosport 1 </link>
+</item>
+<item>
+<title>FR:eurosprot2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1660.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:eurosprot2 </link>
+</item>
+<item>
+<title>----------BEIN-France  ----------</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1679.ts&amp;streamtype=TSDOWNLOADER&amp;name=----------BEIN-France  ---------- </link>
+</item>
+<item>
+<title>BEINSPORT 1 HD FR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1441.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEINSPORT 1 HD FR </link>
+</item>
+<item>
+<title>BEINSPORT 2 HD FR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1442.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEINSPORT 2 HD FR </link>
+</item>
+<item>
+<title>BEINSPORT 3 HD FR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1443.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEINSPORT 3 HD FR </link>
+</item>
+<item>
+<title>********Information ********</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/243.ts&amp;streamtype=TSDOWNLOADER&amp;name=********Information ******** </link>
+</item>
+<item>
+<title>FR:LCI HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1784.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:LCI HD </link>
+</item>
+<item>
+<title>FR: BFM TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1785.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BFM TV </link>
+</item>
+<item>
+<title>FR:TV5 MONDE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1670.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TV5 MONDE </link>
+</item>
+<item>
+<title>FR:I_Tele</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/pepe/pepe/1668.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:I_Tele </link>
+</item>
+
 
 
 <item>       
