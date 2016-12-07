@@ -23,7 +23,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 28-11-16 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 07-12-16 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -32,296 +32,555 @@
 
 
 
+<item>
+<title>PT:TVCine_1_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/802.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCine_1_HD </link>
+</item>
+<item>
+<title>PT:TVCine_2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/803.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCine_2_HD </link>
+</item>
+<item>
+<title>PT:TVCine_3_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/804.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCine_3_HD </link>
+</item>
+<item>
+<title>PT:Fox_Crime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/798.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Fox_Crime </link>
+</item>
+<item>
+<title>PT:Fox HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/793.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Fox HD </link>
+</item>
+<item>
+<title>PT:AXN_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/796.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AXN_HD </link>
+</item>
+<item>
+<title>PT: TV SERIES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/818.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV SERIES </link>
+</item>
+<item>
+<title>PT: SIC RADICAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/815.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC RADICAL </link>
+</item>
+<item>
+<title>PT: SIC CARAS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/814.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC CARAS </link>
+</item>
+<item>
+<title>PT: RTP 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/805.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1 </link>
+</item>
+<item>
+<title>PT: RTP 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/807.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2 </link>
+</item>
+<item>
+<title>PT: Porto Canal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/826.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Porto Canal </link>
+</item>
+<item>
+<title>PT: MOV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/813.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD </link>
+</item>
+<item>
+<title>  RTP 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/750.ts &amp;streamtype=TSDOWNLOADER&amp;name=  RTP 1 HD </link>
+</item>
+<item>
+<title> RTP 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1600.ts&amp;streamtype=TSDOWNLOADER&amp;name= RTP 1 HD </link>
+</item>
+<item>
+<title> RTP 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/749.ts&amp;streamtype=TSDOWNLOADER&amp;name= RTP 1 </link>
+</item>
+<item>
+<title> RTP 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/751.ts&amp;streamtype=TSDOWNLOADER&amp;name= RTP 2 </link>
+</item>
+<item>
+<title> SIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/757.ts&amp;streamtype=TSDOWNLOADER&amp;name= SIC </link>
+</item>
+<item>
+<title> TVI HQ</title>
+<link>plugin://plugin.video.f4mTester/?url=http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/inspirationlinks.m3u8&amp;streamtype=TSDOWNLOADER&amp;name= TVI HQ </link>
+</item>
+<item>
+<title> TVI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://195.23.102.218:1935/live_tvi/smil:LIVE_TVI/inspirationlinks.m3u8&amp;streamtype=TSDOWNLOADER&amp;name= TVI </link>
+</item>
+<item>
+<title> Porto Canal HQ</title>
+<link>plugin://plugin.video.f4mTester/?url=http://213.13.26.11:1935/live/portocanal/jn.m3u8&amp;streamtype=TSDOWNLOADER&amp;name= Porto Canal HQ </link>
+</item>
+<item>
+<title> SIC NOTICIAS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://213.13.26.11:1935/live/sicnoticias/playlist.m3u8&amp;streamtype=TSDOWNLOADER&amp;name= SIC NOTICIAS </link>
+</item>
+<item>
+<title> TVI 24 HQ</title>
+<link>plugin://plugin.video.f4mTester/?url=http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/jn.m3u8&amp;streamtype=TSDOWNLOADER&amp;name= TVI 24 HQ </link>
+</item>
+<item>
+<title> TVI 24 </title>
+<link>plugin://plugin.video.f4mTester/?url=http://195.23.102.218:1935/live_tvi24/LIVE_TVI24-1/inspirationlinks.m3u8&amp;streamtype=TSDOWNLOADER&amp;name= TVI 24  </link>
+</item>
+<item>
+<title> Económico Tv</title>
+<link>plugin://plugin.video.f4mTester/?url=http://213.13.26.41:1935/live/etv_direto/playlist.m3u8&amp;streamtype=TSDOWNLOADER&amp;name= Económico Tv </link>
+</item>
+<item>
+<title> ARTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/inspirationlinks.m3u8&amp;streamtype=TSDOWNLOADER&amp;name= ARTV </link>
+</item>
+<item>
+<title> TV LISBOA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://213.13.26.11:1935/live/tvldireto/livestrem.m3u8&amp;streamtype=TSDOWNLOADER&amp;name= TV LISBOA </link>
+</item>
+<item>
+<title> EURONEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8&amp;streamtype=TSDOWNLOADER&amp;name= EURONEWS </link>
+</item>
+<item>
+<title> CLASS TV MODA [USA]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8&amp;streamtype=TSDOWNLOADER&amp;name= CLASS TV MODA [USA] </link>
+</item>
+<item>
+<title> FASHION [USA]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8&amp;streamtype=TSDOWNLOADER&amp;name= FASHION [USA] </link>
+</item>
+<item>
+<title> TLC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1653.ts&amp;streamtype=TSDOWNLOADER&amp;name= TLC </link>
+</item>
+<item>
+<title> PFC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1646.ts&amp;streamtype=TSDOWNLOADER&amp;name= PFC HD </link>
+</item>
+<item>
+<title> MOTORVISION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1648.ts&amp;streamtype=TSDOWNLOADER&amp;name= MOTORVISION </link>
+</item>
+<item>
+<title> HOLLYWOOD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1652.ts&amp;streamtype=TSDOWNLOADER&amp;name= HOLLYWOOD </link>
+</item>
+<item>
+<title> FUEL TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1645.ts&amp;streamtype=TSDOWNLOADER&amp;name= FUEL TV </link>
+</item>
+<item>
+<title> TVI REALITY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1656.ts&amp;streamtype=TSDOWNLOADER&amp;name= TVI REALITY </link>
+</item>
+<item>
+<title> TVC SERIES HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1672.ts&amp;streamtype=TSDOWNLOADER&amp;name= TVC SERIES HD </link>
+</item>
+<item>
+<title> TV SERIES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1673.ts&amp;streamtype=TSDOWNLOADER&amp;name= TV SERIES </link>
+</item>
+<item>
+<title> TRAVEL CHANNEL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1681.ts&amp;streamtype=TSDOWNLOADER&amp;name= TRAVEL CHANNEL HD </link>
+</item>
+<item>
+<title> TRACE URBAN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1679.ts&amp;streamtype=TSDOWNLOADER&amp;name= TRACE URBAN </link>
+</item>
+<item>
+<title> SPORTING TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1668.ts&amp;streamtype=TSDOWNLOADER&amp;name= SPORTING TV </link>
+</item>
+<item>
+<title> SIC CARAS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1654.ts&amp;streamtype=TSDOWNLOADER&amp;name= SIC CARAS </link>
+</item>
+<item>
+<title> RTP 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1665.ts&amp;streamtype=TSDOWNLOADER&amp;name= RTP 3 </link>
+</item>
+<item>
+<title> REDE TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1662.ts&amp;streamtype=TSDOWNLOADER&amp;name= REDE TV </link>
+</item>
+<item>
+<title> Q CANAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1659.ts&amp;streamtype=TSDOWNLOADER&amp;name= Q CANAL </link>
+</item>
+<item>
+<title> PANDA BIGGS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1676.ts&amp;streamtype=TSDOWNLOADER&amp;name= PANDA BIGGS </link>
+</item>
+<item>
+<title> MTV PORTUGAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1678.ts&amp;streamtype=TSDOWNLOADER&amp;name= MTV PORTUGAL </link>
+</item>
+<item>
+<title> MOTORVISION HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1671.ts&amp;streamtype=TSDOWNLOADER&amp;name= MOTORVISION HD </link>
+</item>
+<item>
+<title> GLOBO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1660.ts&amp;streamtype=TSDOWNLOADER&amp;name= GLOBO </link>
+</item>
+<item>
+<title> CACAVISION HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1680.ts&amp;streamtype=TSDOWNLOADER&amp;name= CACAVISION HD </link>
+</item>
+<item>
+<title> BARÇA TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1669.ts&amp;streamtype=TSDOWNLOADER&amp;name= BARÇA TV </link>
+</item>
+<item>
+<title> EUROSPORT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1647.ts&amp;streamtype=TSDOWNLOADER&amp;name= EUROSPORT </link>
+</item>
+<item>
+<title> CBS REALITY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1651.ts&amp;streamtype=TSDOWNLOADER&amp;name= CBS REALITY </link>
+</item>
+<item>
+<title> BBC ENTERTAINMENT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1650.ts&amp;streamtype=TSDOWNLOADER&amp;name= BBC ENTERTAINMENT </link>
+</item>
+<item>
+<title> SYFY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1599.ts&amp;streamtype=TSDOWNLOADER&amp;name= SYFY </link>
+</item>
+<item>
+<title> PLAYBOY TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1584.ts&amp;streamtype=TSDOWNLOADER&amp;name= PLAYBOY TV </link>
+</item>
+<item>
+<title> NICKELODEON</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1589.ts&amp;streamtype=TSDOWNLOADER&amp;name= NICKELODEON </link>
+</item>
+<item>
+<title> FOX LIFE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1594.ts&amp;streamtype=TSDOWNLOADER&amp;name= FOX LIFE HD </link>
+</item>
+<item>
+<title> BIGGS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1590.ts&amp;streamtype=TSDOWNLOADER&amp;name= BIGGS </link>
+</item>
+<item>
+<title> VH1 CLASSIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/831.ts&amp;streamtype=TSDOWNLOADER&amp;name= VH1 CLASSIC </link>
+</item>
+<item>
+<title> VH1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/830.ts&amp;streamtype=TSDOWNLOADER&amp;name= VH1 </link>
+</item>
+<item>
+<title> TVI24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/775.ts&amp;streamtype=TSDOWNLOADER&amp;name= TVI24 </link>
+</item>
+<item>
+<title> TVI FICCAO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/762.ts&amp;streamtype=TSDOWNLOADER&amp;name= TVI FICCAO </link>
+</item>
+<item>
+<title> TVI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/760.ts&amp;streamtype=TSDOWNLOADER&amp;name= TVI </link>
+</item>
+<item>
+<title> TVCINE 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/806.ts&amp;streamtype=TSDOWNLOADER&amp;name= TVCINE 4 HD </link>
+</item>
+<item>
+<title> TVCINE 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/805.ts&amp;streamtype=TSDOWNLOADER&amp;name= TVCINE 3 HD </link>
+</item>
+<item>
+<title> TVCINE 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/804.ts&amp;streamtype=TSDOWNLOADER&amp;name= TVCINE 2 HD </link>
+</item>
+<item>
+<title> TVCINE 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/803.ts&amp;streamtype=TSDOWNLOADER&amp;name= TVCINE 1 HD </link>
+</item>
+<item>
+<title> TVC SERIES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/807.ts&amp;streamtype=TSDOWNLOADER&amp;name= TVC SERIES </link>
+</item>
+<item>
+<title> TV RECORD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/766.ts&amp;streamtype=TSDOWNLOADER&amp;name= TV RECORD </link>
+</item>
+<item>
+<title> TV GALICIA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/768.ts&amp;streamtype=TSDOWNLOADER&amp;name= TV GALICIA </link>
+</item>
+<item>
+<title> TRAVEL CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/841.ts&amp;streamtype=TSDOWNLOADER&amp;name= TRAVEL CHANNEL </link>
+</item>
+<item>
+<title> TOROS TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/797.ts&amp;streamtype=TSDOWNLOADER&amp;name= TOROS TV </link>
+</item>
+<item>
+<title> SYFY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/820.ts&amp;streamtype=TSDOWNLOADER&amp;name= SYFY HD </link>
+</item>
+<item>
+<title> SPORT TV1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1601.ts&amp;streamtype=TSDOWNLOADER&amp;name= SPORT TV1 </link>
+</item>
+<item>
+<title> SPORT TV2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1602.ts&amp;streamtype=TSDOWNLOADER&amp;name= SPORT TV2 </link>
+</item>
+<item>
+<title> SPORT TV3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1603.ts&amp;streamtype=TSDOWNLOADER&amp;name= SPORT TV3 </link>
+</item>
+<item>
+<title> SPORT TV4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1604.ts&amp;streamtype=TSDOWNLOADER&amp;name= SPORT TV4 </link>
+</item>
+<item>
+<title> SPORT TV5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1605.ts&amp;streamtype=TSDOWNLOADER&amp;name= SPORT TV5 </link>
+</item>
+<item>
+<title> SPORTTV 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/792.ts&amp;streamtype=TSDOWNLOADER&amp;name= SPORTTV 5 HD </link>
+</item>
+<item>
+<title> SPORTTV 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/791.ts&amp;streamtype=TSDOWNLOADER&amp;name= SPORTTV 4 HD </link>
+</item>
+<item>
+<title> SPORTTV 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/790.ts&amp;streamtype=TSDOWNLOADER&amp;name= SPORTTV 3 HD </link>
+</item>
+<item>
+<title> SPORTTV 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/789.ts&amp;streamtype=TSDOWNLOADER&amp;name= SPORTTV 2 HD </link>
+</item>
+<item>
+<title> SPORTTV 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/788.ts&amp;streamtype=TSDOWNLOADER&amp;name= SPORTTV 1 HD </link>
+</item>
+<item>
+<title> SPORTING TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/787.ts&amp;streamtype=TSDOWNLOADER&amp;name= SPORTING TV HD </link>
+</item>
+<item>
+<title> SIC RADICAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/759.ts&amp;streamtype=TSDOWNLOADER&amp;name= SIC RADICAL </link>
+</item>
+<item>
+<title> SIC NOTICIAS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/773.ts&amp;streamtype=TSDOWNLOADER&amp;name= SIC NOTICIAS </link>
+</item>
+<item>
+<title> SIC MULHER</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/758.ts&amp;streamtype=TSDOWNLOADER&amp;name= SIC MULHER </link>
+</item>
+<item>
+<title> SIC KIDS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/827.ts&amp;streamtype=TSDOWNLOADER&amp;name= SIC KIDS </link>
+</item>
+<item>
+<title> RTP MEMORIA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/756.ts&amp;streamtype=TSDOWNLOADER&amp;name= RTP MEMORIA </link>
+</item>
+<item>
+<title> RTP MADEIRA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/755.ts&amp;streamtype=TSDOWNLOADER&amp;name= RTP MADEIRA </link>
+</item>
+<item>
+<title> RTP INTERNACIONAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/754.ts&amp;streamtype=TSDOWNLOADER&amp;name= RTP INTERNACIONAL </link>
+</item>
+<item>
+<title> RTP AFRICA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/753.ts&amp;streamtype=TSDOWNLOADER&amp;name= RTP AFRICA </link>
+</item>
+<item>
+<title> RTP ACORES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/752.ts&amp;streamtype=TSDOWNLOADER&amp;name= RTP ACORES </link>
+</item>
+<item>
+<title> REAL MADRID TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/802.ts&amp;streamtype=TSDOWNLOADER&amp;name= REAL MADRID TV HD </link>
+</item>
+<item>
+<title> PORTO CANAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/785.ts&amp;streamtype=TSDOWNLOADER&amp;name= PORTO CANAL </link>
+</item>
+<item>
+<title> PFC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/796.ts&amp;streamtype=TSDOWNLOADER&amp;name= PFC </link>
+</item>
+<item>
+<title> ODISSEIA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/837.ts&amp;streamtype=TSDOWNLOADER&amp;name= ODISSEIA </link>
+</item>
+<item>
+<title> NAT GEO WILD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/840.ts&amp;streamtype=TSDOWNLOADER&amp;name= NAT GEO WILD </link>
+</item>
+<item>
+<title> NAT GEO HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/839.ts&amp;streamtype=TSDOWNLOADER&amp;name= NAT GEO HD </link>
+</item>
+<item>
+<title> MOV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/818.ts&amp;streamtype=TSDOWNLOADER&amp;name= MOV HD </link>
+</item>
+<item>
+<title> MOTORS TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/801.ts&amp;streamtype=TSDOWNLOADER&amp;name= MOTORS TV </link>
+</item>
+<item>
+<title> HOLLYWOOD HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/817.ts&amp;streamtype=TSDOWNLOADER&amp;name= HOLLYWOOD HD </link>
+</item>
+<item>
+<title> HISTORIA HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/836.ts&amp;streamtype=TSDOWNLOADER&amp;name= HISTORIA HD </link>
+</item>
+<item>
+<title> GLOBO PREMIUM</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/764.ts&amp;streamtype=TSDOWNLOADER&amp;name= GLOBO PREMIUM </link>
+</item>
+<item>
+<title> GLOBO PORTUGAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/763.ts&amp;streamtype=TSDOWNLOADER&amp;name= GLOBO PORTUGAL </link>
+</item>
+<item>
+<title> FOX MOVIES HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/814.ts&amp;streamtype=TSDOWNLOADER&amp;name= FOX MOVIES HD </link>
+</item>
+<item>
+<title> FOX LIFE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/815.ts&amp;streamtype=TSDOWNLOADER&amp;name= FOX LIFE </link>
+</item>
+<item>
+<title> FOX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/812.ts&amp;streamtype=TSDOWNLOADER&amp;name= FOX HD </link>
+</item>
+<item>
+<title> FOX CRIME HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/813.ts&amp;streamtype=TSDOWNLOADER&amp;name= FOX CRIME HD </link>
+</item>
+<item>
+<title> FASHION HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/835.ts&amp;streamtype=TSDOWNLOADER&amp;name= FASHION HD </link>
+</item>
+<item>
+<title> EUROSPORT NEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/798.ts&amp;streamtype=TSDOWNLOADER&amp;name= EUROSPORT NEWS </link>
+</item>
+<item>
+<title> EUROSPORT HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/799.ts&amp;streamtype=TSDOWNLOADER&amp;name= EUROSPORT HD </link>
+</item>
+<item>
+<title> EUROSPORT 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/800.ts&amp;streamtype=TSDOWNLOADER&amp;name= EUROSPORT 2 </link>
+</item>
+<item>
+<title> E! ENTERTAINMENT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/821.ts&amp;streamtype=TSDOWNLOADER&amp;name= E! ENTERTAINMENT </link>
+</item>
+<item>
+<title> DISNEY JUNIOR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/825.ts&amp;streamtype=TSDOWNLOADER&amp;name= DISNEY JUNIOR </link>
+</item>
+<item>
+<title> DISNEY CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/824.ts&amp;streamtype=TSDOWNLOADER&amp;name= DISNEY CHANNEL </link>
+</item>
+<item>
+<title> DISCOVERY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/838.ts&amp;streamtype=TSDOWNLOADER&amp;name= DISCOVERY HD </link>
+</item>
+<item>
+<title> CMTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/771.ts&amp;streamtype=TSDOWNLOADER&amp;name= CMTV </link>
+</item>
+<item>
+<title> CLUBLAND</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/828.ts&amp;streamtype=TSDOWNLOADER&amp;name= CLUBLAND </link>
+</item>
+<item>
+<title> CINEMUNDO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/808.ts&amp;streamtype=TSDOWNLOADER&amp;name= CINEMUNDO </link>
+</item>
+<item>
+<title> CANAL PANDA HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/823.ts&amp;streamtype=TSDOWNLOADER&amp;name= CANAL PANDA HD </link>
+</item>
+<item>
+<title> CACAVISION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/794.ts&amp;streamtype=TSDOWNLOADER&amp;name= CACAVISION </link>
+</item>
+<item>
+<title> BTV 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/782.ts&amp;streamtype=TSDOWNLOADER&amp;name= BTV 1 HD </link>
+</item>
+<item>
+<title> BTV 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/783.ts&amp;streamtype=TSDOWNLOADER&amp;name= BTV 1 </link>
+</item>
+<item>
+<title> AXN WHITE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/811.ts&amp;streamtype=TSDOWNLOADER&amp;name= AXN WHITE HD </link>
+</item>
+<item>
+<title> AXN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/809.ts&amp;streamtype=TSDOWNLOADER&amp;name= AXN HD </link>
+</item>
+<item>
+<title> AXN BLACK HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/810.ts&amp;streamtype=TSDOWNLOADER&amp;name= AXN BLACK HD </link>
+</item>
+<item>
+<title> AMC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/819.ts&amp;streamtype=TSDOWNLOADER&amp;name= AMC </link>
+</item>
+<item>
+<title> ABOLA TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/781.ts&amp;streamtype=TSDOWNLOADER&amp;name= ABOLA TV </link>
+</item>
+<item>
+<title> HOT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1585.ts&amp;streamtype=TSDOWNLOADER&amp;name= HOT </link>
+</item>
+<item>
+<title> VENUS TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1586.ts&amp;streamtype=TSDOWNLOADER&amp;name= VENUS TV </link>
+</item>
+<item>
+<title>:SPORTTV 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=:SPORTTV 1 HD </link>
+</item>
+<item>
+<title>:SPORTTV 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=:SPORTTV 2 HD </link>
+</item>
+<item>
+<title>:SPORTTV 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=:SPORTTV 3 HD </link>
+</item>
+<item>
+<title>:SPORTTV 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=:SPORTTV 4 HD </link>
+</item>
+<item>
+<title>:SPORTTV 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=:SPORTTV 5 HD </link>
+</item>
 
-
-<item>
-<title>RTP 1 </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1399.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1  </link>
-</item>
-<item>
-<title>RTP 2 </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1400.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2  </link>
-</item>
-<item>
-<title>SIC </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1401.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC  </link>
-</item>
-<item>
-<title>TVI </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1402.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI  </link>
-</item>
-<item>
-<title>RTP 3 </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1403.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 3  </link>
-</item>
-<item>
-<title>SIC NOTICIAS </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1404.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS  </link>
-</item>
-<item>
-<title>TVI 24 </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1405.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI 24  </link>
-</item>
-<item>
-<title>CMTV </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1406.ts&amp;streamtype=TSDOWNLOADER&amp;name=CMTV  </link>
-</item>
-<item>
-<title>PORTO CANAL </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1407.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL  </link>
-</item>
-<item>
-<title>RTP MADEIRA </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1413.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MADEIRA  </link>
-</item>
-<item>
-<title>RTP AÇORES </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1414.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP AÇORES  </link>
-</item>
-<item>
-<title>SIC MULHER </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1411.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC MULHER  </link>
-</item>
-<item>
-<title>SIC CARAS </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1461.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC CARAS  </link>
-</item>
-<item>
-<title>SIC RADICAL </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1410.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL  </link>
-</item>
-<item>
-<title>CANAL Q </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1412.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL Q  </link>
-</item>
-<item>
-<title>TVI FICCAO </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1408.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO  </link>
-</item>
-<item>
-<title>TVI REALTY </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1409.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALTY  </link>
-</item>
-<item>
-<title>TV RECORD </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1415.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV RECORD  </link>
-</item>
-<item>
-<title>GLOBO </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1416.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO  </link>
-</item>
-<item>
-<title>GLOBO PREMIUM </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1417.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO PREMIUM  </link>
-</item>
-<item>
-<title>ABOLA TV </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1418.ts&amp;streamtype=TSDOWNLOADER&amp;name=ABOLA TV  </link>
-</item>
-<item>
-<title>SPORTV + </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1419.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV +  </link>
-</item>
-<item>
-<title>SPORTV 1 </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1420.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 1  </link>
-</item>
-<item>
-<title>SPORTV 2 </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1421.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 2  </link>
-</item>
-<item>
-<title>SPORTV 3 </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1422.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 3  </link>
-</item>
-<item>
-<title>SPORTV 4 </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1423.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 4  </link>
-</item>
-<item>
-<title>SPORTV 5 </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1424.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 5  </link>
-</item>
-<item>
-<title>BENFICA TV 1 </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1425.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV 1  </link>
-</item>
-<item>
-<title>EUROSPORT </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1428.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT  </link>
-</item>
-<item>
-<title>EUROSPORT 2 XTRA </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1430.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 XTRA  </link>
-</item>
-<item>
-<title>EUROSPORT 2 </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1429.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2  </link>
-</item>
-<item>
-<title>SPORTING TV </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1426.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING TV  </link>
-</item>
-<item>
-<title>PFC </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1427.ts&amp;streamtype=TSDOWNLOADER&amp;name=PFC  </link>
-</item>
-<item>
-<title>CAÇA E PESCA </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1434.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAÇA E PESCA  </link>
-</item>
-<item>
-<title>MOTORS TV </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1432.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORS TV  </link>
-</item>
-<item>
-<title>MOTORVISION </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1431.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORVISION  </link>
-</item>
-<item>
-<title>KOMBAT SPORT </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1433.ts&amp;streamtype=TSDOWNLOADER&amp;name=KOMBAT SPORT  </link>
-</item>
-<item>
-<title>TVCINE 1 </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1435.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 1  </link>
-</item>
-<item>
-<title>TVCINE 2 </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1436.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 2  </link>
-</item>
-<item>
-<title>TVCINE 3 </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1437.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 3  </link>
-</item>
-<item>
-<title>TVCINE 4 </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1438.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 4  </link>
-</item>
-<item>
-<title>TVSERIES </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1439.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVSERIES  </link>
-</item>
-<item>
-<title>CINEMUNDO </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1442.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO  </link>
-</item>
-<item>
-<title>FOX </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1446.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX  </link>
-</item>
-<item>
-<title>FOX MOVIE </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1447.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX MOVIE  </link>
-</item>
-<item>
-<title>FOX LIFE </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1448.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE  </link>
-</item>
-<item>
-<title>FOX CRIME </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1449.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX CRIME  </link>
-</item>
-<item>
-<title>FOX COMEDY </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1450.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY  </link>
-</item>
-<item>
-<title>AXN </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1443.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN  </link>
-</item>
-<item>
-<title>AXN WHITE </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1444.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE  </link>
-</item>
-<item>
-<title>AXN BLACK </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1445.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN BLACK  </link>
-</item>
-<item>
-<title>HOLLYWOOD </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1441.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD  </link>
-</item>
-<item>
-<title>MOV </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1440.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOV  </link>
-</item>
-<item>
-<title>BABY TV </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1455.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV  </link>
-</item>
-<item>
-<title>CANAL PANDA </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1467.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA  </link>
-</item>
-<item>
-<title>DISNEY CHANNEL </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1460.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL  </link>
-</item>
-<item>
-<title>DISNEY JUNIOR </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1459.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR  </link>
-</item>
-<item>
-<title>CARTOON NETWORK </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1464.ts&amp;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK  </link>
-</item>
-<item>
-<title>SIC K </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1465.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC K  </link>
-</item>
-<item>
-<title>JIM JAM </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1463.ts&amp;streamtype=TSDOWNLOADER&amp;name=JIM JAM  </link>
-</item>
-<item>
-<title>PANDA BIGGS </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1462.ts&amp;streamtype=TSDOWNLOADER&amp;name=PANDA BIGGS  </link>
-</item>
-<item>
-<title>NICKELODEON </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1466.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON  </link>
-</item>
-<item>
-<title>NAT GEOGRAFIC </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1451.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEOGRAFIC  </link>
-</item>
-<item>
-<title>DISCOVERY </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1452.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY  </link>
-</item>
-<item>
-<title>DISCOVERY SHOWCASE </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1453.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SHOWCASE  </link>
-</item>
-<item>
-<title>A & E </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1456.ts&amp;streamtype=TSDOWNLOADER&amp;name=A & E  </link>
-</item>
-<item>
-<title>TLC </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1457.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC  </link>
-</item>
-<item>
-<title>CANAL HISTORIA </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1454.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL HISTORIA  </link>
-</item>
-<item>
-<title>ODISSEIA </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1458.ts&amp;streamtype=TSDOWNLOADER&amp;name=ODISSEIA  </link>
-</item>
-<item>
-<title>XXX VENUS </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1468.ts&amp;streamtype=TSDOWNLOADER&amp;name=XXX VENUS  </link>
-</item>
-<item>
-<title>XXX PLAYBOY </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1469.ts&amp;streamtype=TSDOWNLOADER&amp;name=XXX PLAYBOY  </link>
-</item>
-<item>
-<title>XXX HOT </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1470.ts&amp;streamtype=TSDOWNLOADER&amp;name=XXX HOT  </link>
-</item>
 
 
 

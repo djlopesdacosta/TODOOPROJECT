@@ -23,7 +23,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 18-11-16 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 07-12-16 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -31,777 +31,450 @@
 </item>
 
 
-
-
-
-
 <item>
-<title>RTP1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/73.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP1 </link>
+<title>(PT) TVI 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8246.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVI 24 </link>
 </item>
 <item>
-<title>RTP2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/72.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP2 </link>
+<title>(PT) TVI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8245.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVI </link>
 </item>
 <item>
-<title>SIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC </link>
+<title>(PT) TV Record</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8244.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TV Record </link>
 </item>
 <item>
-<title>TVI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/60.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI </link>
+<title>(PT) SyFy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8243.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SyFy </link>
 </item>
 <item>
-<title>TVI24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/59.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI24 </link>
+<title>(PT) Sporting TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8242.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Sporting TV </link>
 </item>
 <item>
-<title>SIC NOTICIAS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/64.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS </link>
+<title>(PT) SIC Noticias</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8241.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SIC Noticias </link>
 </item>
 <item>
-<title>RTP 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 3 </link>
+<title>(PT) SIC Mulher</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8240.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SIC Mulher </link>
 </item>
 <item>
-<title>CMTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=CMTV </link>
+<title>(PT) SIC K</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8239.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SIC K </link>
 </item>
 <item>
-<title>TVI FICÇÃO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/58.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI FICÇÃO </link>
+<title>(PT) SIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8238.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SIC </link>
 </item>
 <item>
-<title>Canal Q</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Q </link>
+<title>(PT) RTP Memoria</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8237.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP Memoria </link>
 </item>
 <item>
-<title>PORTO CANAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL </link>
+<title>(PT) RTP Madeira</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8236.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP Madeira </link>
 </item>
 <item>
-<title>DOG TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/85.ts&amp;streamtype=TSDOWNLOADER&amp;name=DOG TV </link>
+<title>(PT) RTP Acores</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8235.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP Acores </link>
 </item>
 <item>
-<title>SIC CARAS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/81.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC CARAS </link>
+<title>(PT) RTP 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8234.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP 2 </link>
 </item>
 <item>
-<title>Quinta das Celebridades</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=Quinta das Celebridades </link>
+<title>(PT) RTP 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8233.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP 1 </link>
 </item>
 <item>
-<title>Económico TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=Económico TV </link>
+<title>(PT) Porto Canal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8232.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Porto Canal </link>
 </item>
 <item>
-<title>SIC Radical</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC Radical </link>
+<title>(PT) Nat Geo Wild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8231.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Nat Geo Wild </link>
 </item>
 <item>
-<title>Sic Mulher</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/62.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sic Mulher </link>
+<title>(PT) Historia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8230.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Historia </link>
 </item>
 <item>
-<title>Globo Premium</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/80.ts&amp;streamtype=TSDOWNLOADER&amp;name=Globo Premium </link>
+<title>(PT) Globo Premium</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8229.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Globo Premium </link>
 </item>
 <item>
-<title>Globo Portugal</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=Globo Portugal </link>
+<title>(PT) FX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8228.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) FX </link>
 </item>
 <item>
-<title>TV RECORD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/8.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV RECORD </link>
+<title>(PT) Fox Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8227.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Fox Movies </link>
 </item>
 <item>
-<title>AXN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/56.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN </link>
+<title>(PT) Fox Life HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8226.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Fox Life HD </link>
 </item>
 <item>
-<title>AXN WHITE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/54.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE </link>
+<title>(PT) FOX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8225.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) FOX HD </link>
 </item>
 <item>
-<title>FOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/53.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX </link>
+<title>(PT) Eurosport 1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8224.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Eurosport 1HD </link>
 </item>
 <item>
-<title>Fox Crime</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/52.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Crime </link>
+<title>(PT) Disney Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8223.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Disney Junior </link>
 </item>
 <item>
-<title>Fox life</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/51.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox life </link>
+<title>(PT) Disney Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8222.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Disney Channel </link>
 </item>
 <item>
-<title>Fox Movies</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/50.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Movies </link>
+<title>(PT) Discovery Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8221.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Discovery Channel </link>
 </item>
 <item>
-<title>TV CINE 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/49.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CINE 1 </link>
+<title>(PT) CMTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8220.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) CMTV </link>
 </item>
 <item>
-<title>TV CINE 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/48.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CINE 2 </link>
+<title>(PT) Canal Panda</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8219.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Canal Panda </link>
 </item>
 <item>
-<title>TV CINE 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CINE 3 </link>
+<title>(PT) Benfica 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8218.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Benfica 2 </link>
 </item>
 <item>
-<title>TV CINE 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/46.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CINE 4 </link>
+<title>(PT) Benfica 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8217.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Benfica 1 </link>
 </item>
 <item>
-<title>TV SERIES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV SERIES </link>
+<title>(PT) AXN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8216.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) AXN HD </link>
 </item>
 <item>
-<title>Hollywood</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood </link>
+<title>(PT) 24 Kitchen HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8215.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) 24 Kitchen HD </link>
 </item>
 <item>
-<title>MOV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOV </link>
+<title>PT: TV CINE 4HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8214.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 4HD </link>
 </item>
 <item>
-<title>SPORTTV + HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/123.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTTV + HD </link>
+<title>PT: Sporting TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8213.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sporting TV </link>
 </item>
 <item>
-<title>Eurosport 2 Xtra</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/121.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 2 Xtra </link>
+<title>PT: Sport TV 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8212.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV 5 </link>
 </item>
 <item>
-<title>SPORTTV 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTTV 1 HD </link>
+<title>PT: Sport TV 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8211.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV 4 </link>
 </item>
 <item>
-<title>SPORTTV 1 SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTTV 1 SD </link>
+<title>PT: Sport TV 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8210.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV 3 </link>
 </item>
 <item>
-<title>SPORTTV 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTTV 2 </link>
+<title>PT: Sport TV 2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8209.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV 2HD </link>
 </item>
 <item>
-<title>SPORTTV 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTTV 3 </link>
+<title>PT: Sport TV 1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8208.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV 1HD </link>
 </item>
 <item>
-<title>SPORTTV 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTTV 4 </link>
-</item>
-<item>
-<title>SPORTTV 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/37.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTTV 5 </link>
-</item>
-<item>
-<title>BENFICATV 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/36.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICATV 1 </link>
-</item>
-<item>
-<title>BENFICATV 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICATV 2 </link>
-</item>
-<item>
-<title>Eurosport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1 HD </link>
-</item>
-<item>
-<title>Eurosport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 2 </link>
-</item>
-<item>
-<title>SPORTINGTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/32.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTINGTV </link>
-</item>
-<item>
-<title>ABOLATV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/31.ts&amp;streamtype=TSDOWNLOADER&amp;name=ABOLATV </link>
-</item>
-<item>
-<title>National Geographic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/27.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic </link>
-</item>
-<item>
-<title>National Geographic Wild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic Wild </link>
-</item>
-<item>
-<title>Discovery Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/25.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Channel </link>
-</item>
-<item>
-<title>SYFY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY </link>
-</item>
-<item>
-<title>Historia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/23.ts&amp;streamtype=TSDOWNLOADER&amp;name=Historia </link>
-</item>
-<item>
-<title>Odisseia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/22.ts&amp;streamtype=TSDOWNLOADER&amp;name=Odisseia </link>
-</item>
-<item>
-<title>E! Entertainment</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/21.ts&amp;streamtype=TSDOWNLOADER&amp;name=E! Entertainment </link>
-</item>
-<item>
-<title>SIC Kids</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/61.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC Kids </link>
-</item>
-<item>
-<title>Panda Biggs</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/82.ts&amp;streamtype=TSDOWNLOADER&amp;name=Panda Biggs </link>
-</item>
-<item>
-<title>BABYTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/20.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABYTV </link>
-</item>
-<item>
-<title>CANAL PANDA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/19.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA </link>
-</item>
-<item>
-<title>DISNEY CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/18.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL </link>
-</item>
-<item>
-<title>Disney Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/17.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior </link>
-</item>
-<item>
-<title>A&E</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&E </link>
-</item>
-<item>
-<title>Caça e Pesca</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/13.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caça e Pesca </link>
-</item>
-<item>
-<title>PFC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=PFC </link>
-</item>
-<item>
-<title>TLC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/9.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC </link>
-</item>
-<item>
-<title>VH1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/7.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 </link>
-</item>
-<item>
-<title>MCM TOP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCM TOP </link>
-</item>
-<item>
-<title>MTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/4.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV </link>
-</item>
-<item>
-<title>TorosTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/5.ts&amp;streamtype=TSDOWNLOADER&amp;name=TorosTV </link>
-</item>
-<item>
-<title>RTP Internacional</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP Internacional </link>
-</item>
-<item>
-<title>RTP MEMORIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA </link>
-</item>
-<item>
-<title>RTP MADEIRA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MADEIRA </link>
-</item>
-<item>
-<title>RTP AFRICA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA </link>
-</item>
-<item>
-<title>RTP AÇORES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/66.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP AÇORES </link>
-</item>
-<item>
-<title>Playboy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=Playboy </link>
-</item>
-<item>
-<title>HOT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/3.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOT </link>
-</item>
-<item>
-<title>XTRABEAT RÁDIO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=XTRABEAT RÁDIO </link>
-</item>
-<item>
-<title>TSF RÁDIO NOTÍCIAS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=TSF RÁDIO NOTÍCIAS </link>
-</item>
-<item>
-<title>Venus</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/1.ts&amp;streamtype=TSDOWNLOADER&amp;name=Venus </link>
-</item>
-<item>
-<title>RFM OCEANO PACÍFICO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=RFM OCEANO PACÍFICO </link>
-</item>
-<item>
-<title>RFM CLUBBING</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=RFM CLUBBING </link>
-</item>
-<item>
-<title>RFM 80S</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/97.ts&amp;streamtype=TSDOWNLOADER&amp;name=RFM 80S </link>
-</item>
-<item>
-<title>RFM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=RFM </link>
-</item>
-<item>
-<title>RDP MADEIRA Antena 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=RDP MADEIRA Antena 1 </link>
-</item>
-<item>
-<title>RDP INT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/87.ts&amp;streamtype=TSDOWNLOADER&amp;name=RDP INT </link>
-</item>
-<item>
-<title>RDP AFRICA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/88.ts&amp;streamtype=TSDOWNLOADER&amp;name=RDP AFRICA </link>
-</item>
-<item>
-<title>RDP ACORES Antena 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/89.ts&amp;streamtype=TSDOWNLOADER&amp;name=RDP ACORES Antena 1 </link>
-</item>
-<item>
-<title>RÁDIO TELETAXI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/99.ts&amp;streamtype=TSDOWNLOADER&amp;name=RÁDIO TELETAXI </link>
-</item>
-<item>
-<title>RÁDIO SIM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/100.ts&amp;streamtype=TSDOWNLOADER&amp;name=RÁDIO SIM </link>
-</item>
-<item>
-<title>RÁDIO ROMANTICA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/101.ts&amp;streamtype=TSDOWNLOADER&amp;name=RÁDIO ROMANTICA </link>
-</item>
-<item>
-<title>RÁDIO NOVA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/104.ts&amp;streamtype=TSDOWNLOADER&amp;name=RÁDIO NOVA </link>
-</item>
-<item>
-<title>RADIO UNIVERSIDADE DE COIMBRA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/106.ts&amp;streamtype=TSDOWNLOADER&amp;name=RADIO UNIVERSIDADE DE COIMBRA </link>
-</item>
-<item>
-<title>RADIO RADAR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/107.ts&amp;streamtype=TSDOWNLOADER&amp;name=RADIO RADAR </link>
-</item>
-<item>
-<title>RÁDIO MARGINAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/105.ts&amp;streamtype=TSDOWNLOADER&amp;name=RÁDIO MARGINAL </link>
-</item>
-<item>
-<title>RÁDIO RENASCENÇA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/102.ts&amp;streamtype=TSDOWNLOADER&amp;name=RÁDIO RENASCENÇA </link>
-</item>
-<item>
-<title>RÁDIO REGIÃO DE BASTO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/103.ts&amp;streamtype=TSDOWNLOADER&amp;name=RÁDIO REGIÃO DE BASTO </link>
-</item>
-<item>
-<title>RADIO ORBITAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/108.ts&amp;streamtype=TSDOWNLOADER&amp;name=RADIO ORBITAL </link>
-</item>
-<item>
-<title>RADIO NOVA PORTO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/109.ts&amp;streamtype=TSDOWNLOADER&amp;name=RADIO NOVA PORTO </link>
-</item>
-<item>
-<title>RADIO NOSTALIGIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/110.ts&amp;streamtype=TSDOWNLOADER&amp;name=RADIO NOSTALIGIA </link>
-</item>
-<item>
-<title>RADIO M80</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/111.ts&amp;streamtype=TSDOWNLOADER&amp;name=RADIO M80 </link>
-</item>
-<item>
-<title>RADIO FESTIVAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/112.ts&amp;streamtype=TSDOWNLOADER&amp;name=RADIO FESTIVAL </link>
-</item>
-<item>
-<title>RADIO COMERCIAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/113.ts&amp;streamtype=TSDOWNLOADER&amp;name=RADIO COMERCIAL </link>
-</item>
-<item>
-<title>RADIO CIDADE FM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/114.ts&amp;streamtype=TSDOWNLOADER&amp;name=RADIO CIDADE FM </link>
-</item>
-<item>
-<title>RADIO CANTINHO DA MADEIRA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/115.ts&amp;streamtype=TSDOWNLOADER&amp;name=RADIO CANTINHO DA MADEIRA </link>
-</item>
-<item>
-<title>RADIO ANTENA 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/116.ts&amp;streamtype=TSDOWNLOADER&amp;name=RADIO ANTENA 1 </link>
-</item>
-<item>
-<title>PASSION LOVE RÁDIO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/117.ts&amp;streamtype=TSDOWNLOADER&amp;name=PASSION LOVE RÁDIO </link>
-</item>
-<item>
-<title>NOVA ERA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/118.ts&amp;streamtype=TSDOWNLOADER&amp;name=NOVA ERA </link>
-</item>
-<item>
-<title>MEGA HITS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/119.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEGA HITS </link>
-</item>
-<item>
-<title>Lusitânia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/90.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lusitânia </link>
-</item>
-<item>
-<title>CANTINHO DA MADEIRA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/120.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANTINHO DA MADEIRA </link>
-</item>
-<item>
-<title>Antena 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/91.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3 </link>
-</item>
-<item>
-<title>Antena 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tremetv2.dyndns.tv:8000/live/sara/sara/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 2 </link>
-</item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>==== PORTUGAL GENERALE ====</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12517.ts&amp;streamtype=TSDOWNLOADER&amp;name===== PORTUGAL GENERALE ==== </link>
-</item>
-<item>
-<title>PT: RTP 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12518.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1 HD </link>
-</item>
-<item>
-<title>PT: RTP 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12519.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2 HD </link>
-</item>
-<item>
-<title>PT: RTP 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12520.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 3 HD </link>
-</item>
-<item>
-<title>PT: RTP AFRICA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/13968.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP AFRICA </link>
-</item>
-<item>
-<title>PT: SIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12535.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC </link>
-</item>
-<item>
-<title>PT: TVI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12527.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI </link>
-</item>
-<item>
-<title>PT: TVI Ficcao</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12530.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI Ficcao </link>
-</item>
-<item>
-<title>PT:RTP AFRICA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/4741.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP AFRICA </link>
-</item>
-<item>
-<title>PT:TCV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/2036.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TCV </link>
-</item>
-<item>
-<title>PT: TV GLOBO PREMIUM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12510.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO PREMIUM </link>
-</item>
-<item>
-<title>PT: TV GLOBO PORTUGAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12521.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO PORTUGAL </link>
-</item>
-<item>
-<title>PT:TV RECORD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1849.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV RECORD </link>
-</item>
-<item>
-<title>PT: RTP MADEIRA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12522.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP MADEIRA </link>
-</item>
-<item>
-<title>PT: RTP ACORES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12523.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP ACORES </link>
-</item>
-<item>
-<title>PT:CMTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/2310.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CMTV </link>
-</item>
-<item>
-<title>PT: SIC NOTICIAS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12531.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC NOTICIAS </link>
-</item>
-<item>
-<title>PT: TVI 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12528.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24 </link>
-</item>
-<item>
-<title>PT: SIC RADICAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12533.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC RADICAL </link>
-</item>
-<item>
-<title>PT: SIC CARAS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12532.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC CARAS </link>
-</item>
-<item>
-<title>PT: SIC  MULHER</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12534.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC  MULHER </link>
-</item>
-<item>
-<title>==== PORTUGAL CINEMA ====</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12498.ts&amp;streamtype=TSDOWNLOADER&amp;name===== PORTUGAL CINEMA ==== </link>
-</item>
-<item>
-<title>PT: TV CINE 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12499.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 1 </link>
-</item>
-<item>
-<title>PT: TV CINE 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12500.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 2 </link>
-</item>
-<item>
-<title>PT: TV CINE 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12501.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 3 </link>
-</item>
-<item>
-<title>PT: TV CINE 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12502.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 4 </link>
-</item>
-<item>
-<title>PT: TV CINE 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12503.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 5 </link>
-</item>
-<item>
-<title>PT: TVC SERIES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12529.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVC SERIES </link>
-</item>
-<item>
-<title>PT: FOX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12512.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX HD </link>
-</item>
-<item>
-<title>PT: FOXLIFE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12511.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOXLIFE </link>
-</item>
-<item>
-<title>PT: FOX MOVIES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12508.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX MOVIES </link>
-</item>
-<item>
-<title>PT: FOX CRIME</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12507.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX CRIME </link>
-</item>
-<item>
-<title>PT: FOX COMEDY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12509.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX COMEDY </link>
-</item>
-<item>
-<title>PT: MOV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12504.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD </link>
-</item>
-<item>
-<title>PT: CINE MUNDO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12505.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CINE MUNDO </link>
-</item>
-<item>
-<title>PT: CANAL HOLLYWOOD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12495.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL HOLLYWOOD </link>
+<title>PT: Cinemundo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8207.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cinemundo </link>
 </item>
 <item>
 <title>PT: AXN WHITE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12515.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN WHITE HD </link>
-</item>
-<item>
-<title>PT: AXN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12514.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8206.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN WHITE HD </link>
 </item>
 <item>
 <title>PT: AXN BLACK HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12516.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN BLACK HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8205.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN BLACK HD </link>
 </item>
 <item>
-<title>==== PORTUGAL CULTURE ====</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12497.ts&amp;streamtype=TSDOWNLOADER&amp;name===== PORTUGAL CULTURE ==== </link>
+<title>PT:  TV Series</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8204.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:  TV Series </link>
 </item>
 <item>
-<title>PT: DISCOVERY-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12490.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISCOVERY-HD </link>
+<title>PT:  TV CINE 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8203.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:  TV CINE 3 </link>
 </item>
 <item>
-<title>PT: NATGEOWILD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12491.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NATGEOWILD </link>
+<title>PT:  TV CINE 2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8202.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:  TV CINE 2HD </link>
 </item>
 <item>
-<title>PT: 24 KITCHEN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12496.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: 24 KITCHEN </link>
+<title>PT:  TV CINE 1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/8201.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:  TV CINE 1HD </link>
 </item>
 <item>
-<title>PT: CBS REALITY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12494.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CBS REALITY </link>
+<title>Tvi_24_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3606.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tvi_24_-_Portugal </link>
 </item>
 <item>
-<title>PT: CACA PESCA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12492.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CACA PESCA </link>
+<title>Tvi_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3607.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tvi_-_Portugal </link>
 </item>
 <item>
-<title>==== PORTUGAL ENFANTS ====</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12481.ts&amp;streamtype=TSDOWNLOADER&amp;name===== PORTUGAL ENFANTS ==== </link>
+<title>Tv_Sick_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3608.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tv_Sick_-_Portugal </link>
 </item>
 <item>
-<title>PT: DISNEY CH</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12489.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISNEY CH </link>
+<title>TV_Series_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3609.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV_Series_-_Portugal </link>
 </item>
 <item>
-<title>PT: DISNEY JU</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12488.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISNEY JU </link>
+<title>Tv_Globo_Premium_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3603.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tv_Globo_Premium_-_Portugal </link>
 </item>
 <item>
-<title>PT: CARTOON NETWORK HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12485.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CARTOON NETWORK HD </link>
+<title>TV_Globo_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3575.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV_Globo_-_Portugal </link>
 </item>
 <item>
-<title>PT: JIMJAM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12482.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: JIMJAM </link>
+<title>TV_Cine_4_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3610.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV_Cine_4_-_Portugal </link>
 </item>
 <item>
-<title>PT: NICKELODEON HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12484.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NICKELODEON HD </link>
+<title>TV_Cine_3_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3611.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV_Cine_3_-_Portugal </link>
 </item>
 <item>
-<title>PT: SIC KIDS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12483.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC KIDS </link>
+<title>TV_Cine_2_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3612.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV_Cine_2_-_Portugal </link>
 </item>
 <item>
-<title>PT: CANAL PANDA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12487.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL PANDA </link>
+<title>TV_Cine_1_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3613.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV_Cine_1_-_Portugal </link>
 </item>
 <item>
-<title>PT: BABY TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12486.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BABY TV </link>
+<title>Travel_Channel_HD_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3583.ts&amp;streamtype=TSDOWNLOADER&amp;name=Travel_Channel_HD_-_Portugal </link>
 </item>
 <item>
-<title>==== PORTUGAL SPORTS ====</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12470.ts&amp;streamtype=TSDOWNLOADER&amp;name===== PORTUGAL SPORTS ==== </link>
+<title>Tlc_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3614.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tlc_-_Portugal </link>
 </item>
 <item>
-<title>PT: A BOLA TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12524.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A BOLA TV </link>
+<title>Sporting_Tv_HD_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3584.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sporting_Tv_HD_-_Portugal </link>
 </item>
 <item>
-<title>PT:SPORTV +</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/2311.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SPORTV + </link>
+<title>Sport_TV_5_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3615.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport_TV_5_-_Portugal </link>
 </item>
 <item>
-<title>PT: SPORT TV 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12476.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 1 HD </link>
+<title>Sport_TV_4_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3616.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport_TV_4_-_Portugal </link>
 </item>
 <item>
-<title>PT: SPORT TV 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12477.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 2 HD </link>
+<title>Sport_TV_3_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3617.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport_TV_3_-_Portugal </link>
 </item>
 <item>
-<title>PT: SPORT TV 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12478.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 3 HD </link>
+<title>Sport_TV_2_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3618.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport_TV_2_-_Portugal </link>
 </item>
 <item>
-<title>PT: SPORT TV 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12479.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 4 HD </link>
+<title>Sport_TV_1_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3619.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport_TV_1_-_Portugal </link>
 </item>
 <item>
-<title>PT: SPORTV 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/2622.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTV 5 </link>
+<title>Sic_Radical_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3578.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sic_Radical_-_Portugal </link>
 </item>
 <item>
-<title>PT: BTV 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12474.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BTV 1 HD </link>
+<title>Sic_Noticias_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3579.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sic_Noticias_-_Portugal </link>
 </item>
 <item>
-<title>PT: SPORTING TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12473.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTING TV </link>
+<title>Sic_Mulher_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3580.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sic_Mulher_-_Portugal </link>
 </item>
 <item>
-<title>PT: CANAL PORTO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12471.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL PORTO </link>
+<title>Sic_Kids_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3576.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sic_Kids_-_Portugal </link>
 </item>
 <item>
-<title>PT:Kombat Sports</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/13965.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Kombat Sports </link>
+<title>Sic_Caras_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3581.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sic_Caras_-_Portugal </link>
 </item>
 <item>
-<title>PT:Motors TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/13964.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Motors TV </link>
+<title>Sic_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3577.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sic_-_Portugal </link>
 </item>
 <item>
-<title>PT: MTV Portugal</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/13967.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MTV Portugal </link>
+<title>Rtp_Africa_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3585.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rtp_Africa_-_Portugal </link>
 </item>
 <item>
-<title>PT:AFRICA MUSIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/13966.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AFRICA MUSIC </link>
+<title>Rtp_3_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3620.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rtp_3_-_Portugal </link>
 </item>
-
-
-
+<item>
+<title>Rtp_2_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3621.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rtp_2_-_Portugal </link>
+</item>
+<item>
+<title>Rtp_1_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3622.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rtp_1_-_Portugal </link>
+</item>
+<item>
+<title>Rt_Global_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3586.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rt_Global_-_Portugal </link>
+</item>
+<item>
+<title>Porto_Canal_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3587.ts&amp;streamtype=TSDOWNLOADER&amp;name=Porto_Canal_-_Portugal </link>
+</item>
+<item>
+<title>PLUG_RTL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/2640.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLUG_RTL </link>
+</item>
+<item>
+<title>Pfc_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3588.ts&amp;streamtype=TSDOWNLOADER&amp;name=Pfc_-_Portugal </link>
+</item>
+<item>
+<title>Nickelodeon_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3623.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon_-_Portugal </link>
+</item>
+<item>
+<title>National_Geographic_Wild_HD_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3605.ts&amp;streamtype=TSDOWNLOADER&amp;name=National_Geographic_Wild_HD_-_Portugal </link>
+</item>
+<item>
+<title>National_Geographic_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3582.ts&amp;streamtype=TSDOWNLOADER&amp;name=National_Geographic_-_Portugal </link>
+</item>
+<item>
+<title>Mov_HD_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3589.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mov_HD_-_Portugal </link>
+</item>
+<item>
+<title>Motorvision_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3590.ts&amp;streamtype=TSDOWNLOADER&amp;name=Motorvision_-_Portugal </link>
+</item>
+<item>
+<title>Mcm_Top_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3591.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mcm_Top_-_Portugal </link>
+</item>
+<item>
+<title>Hollywood_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3592.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood_-_Portugal </link>
+</item>
+<item>
+<title>Fuel_TV_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3593.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fuel_TV_-_Portugal </link>
+</item>
+<item>
+<title>Fox_Movies_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3594.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox_Movies_-_Portugal </link>
+</item>
+<item>
+<title>Fox_Life_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3624.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox_Life_-_Portugal </link>
+</item>
+<item>
+<title>Fox_Crime_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3625.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox_Crime_-_Portugal </link>
+</item>
+<item>
+<title>Fox_Comedy_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3626.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox_Comedy_-_Portugal </link>
+</item>
+<item>
+<title>Fox_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3627.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox_-_Portugal </link>
+</item>
+<item>
+<title>Eurosport_2_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3595.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport_2_-_Portugal </link>
+</item>
+<item>
+<title>Eurosport_1_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3596.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport_1_-_Portugal </link>
+</item>
+<item>
+<title>Economico_TV_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3597.ts&amp;streamtype=TSDOWNLOADER&amp;name=Economico_TV_-_Portugal </link>
+</item>
+<item>
+<title>E!_Entertainment_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3628.ts&amp;streamtype=TSDOWNLOADER&amp;name=E!_Entertainment_-_Portugal </link>
+</item>
+<item>
+<title>Disney_Channel_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3629.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney_Channel_-_Portugal </link>
+</item>
+<item>
+<title>Discovery_Showcase_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3630.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery_Showcase_-_Portugal </link>
+</item>
+<item>
+<title>Discovery_Channel_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3631.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery_Channel_-_Portugal </link>
+</item>
+<item>
+<title>Cm_TV_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3632.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cm_TV_-_Portugal </link>
+</item>
+<item>
+<title>Cbs_Reality_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3598.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cbs_Reality_-_Portugal </link>
+</item>
+<item>
+<title>Cartoon_Network_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3633.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon_Network_-_Portugal </link>
+</item>
+<item>
+<title>Canal_Panda_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3634.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal_Panda_-_Portugal </link>
+</item>
+<item>
+<title>Benfica_TV_1_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3635.ts&amp;streamtype=TSDOWNLOADER&amp;name=Benfica_TV_1_-_Portugal </link>
+</item>
+<item>
+<title>Baby_TV_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3599.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby_TV_-_Portugal </link>
+</item>
+<item>
+<title>Axn_White_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3636.ts&amp;streamtype=TSDOWNLOADER&amp;name=Axn_White_-_Portugal </link>
+</item>
+<item>
+<title>Axn_Black_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3604.ts&amp;streamtype=TSDOWNLOADER&amp;name=Axn_Black_-_Portugal </link>
+</item>
+<item>
+<title>Axn_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3637.ts&amp;streamtype=TSDOWNLOADER&amp;name=Axn_-_Portugal </link>
+</item>
+<item>
+<title>Abola_TV_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3600.ts&amp;streamtype=TSDOWNLOADER&amp;name=Abola_TV_-_Portugal </link>
+</item>
+<item>
+<title>A&E_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3601.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&E_-_Portugal </link>
+</item>
+<item>
+<title>24_Kitchen_-_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/3602.ts&amp;streamtype=TSDOWNLOADER&amp;name=24_Kitchen_-_Portugal </link>
+</item>
+<item>
+<title>PORTUGAL:RTP1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mahjoub/mahjoub/606.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:RTP1 </link>
+</item>
 
 
 

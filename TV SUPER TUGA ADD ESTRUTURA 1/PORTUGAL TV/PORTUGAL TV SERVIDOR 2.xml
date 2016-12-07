@@ -23,7 +23,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 27-11-16 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 07-12-16 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -34,242 +34,371 @@
 
 
 
+<item>
+<title>RTP 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/927.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1 HD </link>
+</item>
+<item>
+<title>rtp 1 pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/511.ts&amp;streamtype=TSDOWNLOADER&amp;name=rtp 1 pt </link>
+</item>
+<item>
+<title>rtp2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/734.ts&amp;streamtype=TSDOWNLOADER&amp;name=rtp2 </link>
+</item>
+<item>
+<title>sic pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/508.ts&amp;streamtype=TSDOWNLOADER&amp;name=sic pt </link>
+</item>
+<item>
+<title>tvi pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/522.ts&amp;streamtype=TSDOWNLOADER&amp;name=tvi pt </link>
+</item>
+<item>
+<title>TVI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/213.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI </link>
+</item>
+<item>
+<title>tvi reality pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/504.ts&amp;streamtype=TSDOWNLOADER&amp;name=tvi reality pt </link>
+</item>
+<item>
+<title>tvi ficção</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/456.ts&amp;streamtype=TSDOWNLOADER&amp;name=tvi ficção </link>
+</item>
+<item>
+<title>TVI 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/214.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI 24 </link>
+</item>
+<item>
+<title>sic radical</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/527.ts&amp;streamtype=TSDOWNLOADER&amp;name=sic radical </link>
+</item>
+<item>
+<title>Sic Mulher</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/872.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sic Mulher </link>
+</item>
+<item>
+<title>Sic K</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/452.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sic K </link>
+</item>
+<item>
+<title>Rtp madeira</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/761.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rtp madeira </link>
+</item>
+<item>
+<title>rtp internacional</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/818.ts&amp;streamtype=TSDOWNLOADER&amp;name=rtp internacional </link>
+</item>
+<item>
+<title>Rtp açores</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/817.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rtp açores </link>
+</item>
+<item>
+<title>Rtp África</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1183.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rtp África </link>
+</item>
+<item>
+<title>rtp 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/483.ts&amp;streamtype=TSDOWNLOADER&amp;name=rtp 3 </link>
+</item>
+<item>
+<title>sic noticias pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/510.ts&amp;streamtype=TSDOWNLOADER&amp;name=sic noticias pt </link>
+</item>
+<item>
+<title>cmtv pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/514.ts&amp;streamtype=TSDOWNLOADER&amp;name=cmtv pt </link>
+</item>
+<item>
+<title>euronews</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/460.ts&amp;streamtype=TSDOWNLOADER&amp;name=euronews </link>
+</item>
+<item>
+<title>a bola pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/515.ts&amp;streamtype=TSDOWNLOADER&amp;name=a bola pt </link>
+</item>
+<item>
+<title>Porto canal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/267.ts&amp;streamtype=TSDOWNLOADER&amp;name=Porto canal </link>
+</item>
+<item>
+<title>rtp memoria</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/742.ts&amp;streamtype=TSDOWNLOADER&amp;name=rtp memoria </link>
+</item>
+<item>
+<title>disney channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/282.ts&amp;streamtype=TSDOWNLOADER&amp;name=disney channel </link>
+</item>
+<item>
+<title>Panda</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/225.ts&amp;streamtype=TSDOWNLOADER&amp;name=Panda </link>
+</item>
+<item>
+<title>Panda biggs</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/743.ts&amp;streamtype=TSDOWNLOADER&amp;name=Panda biggs </link>
+</item>
+<item>
+<title>Niclelodeon</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/528.ts&amp;streamtype=TSDOWNLOADER&amp;name=Niclelodeon </link>
+</item>
+<item>
+<title>dysney junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/218.ts&amp;streamtype=TSDOWNLOADER&amp;name=dysney junior </link>
+</item>
+<item>
+<title>Cartoon NetWork</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/885.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon NetWork </link>
+</item>
+<item>
+<title>Jim Jam</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/852.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jim Jam </link>
+</item>
+<item>
+<title>BABY TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/873.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV </link>
+</item>
+<item>
+<title>globo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/268.ts&amp;streamtype=TSDOWNLOADER&amp;name=globo </link>
+</item>
+<item>
+<title>Globo tv</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/932.ts&amp;streamtype=TSDOWNLOADER&amp;name=Globo tv </link>
+</item>
+<item>
+<title>tv record</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/535.ts&amp;streamtype=TSDOWNLOADER&amp;name=tv record </link>
+</item>
+<item>
+<title>MCS Lifestyle</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/893.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS Lifestyle </link>
+</item>
+<item>
+<title>24 Kitchen</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 Kitchen </link>
+</item>
+<item>
+<title>Travel Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/875.ts&amp;streamtype=TSDOWNLOADER&amp;name=Travel Channel </link>
+</item>
+<item>
+<title>Sic caras</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/803.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sic caras </link>
+</item>
+<item>
+<title>TLC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/802.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC </link>
+</item>
+<item>
+<title>Canal Q</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/997.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Q </link>
+</item>
+<item>
+<title>E Entertainment</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/576.ts&amp;streamtype=TSDOWNLOADER&amp;name=E Entertainment </link>
+</item>
+<item>
+<title>CBS Reality</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/637.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS Reality </link>
+</item>
+<item>
+<title>MOTORVISION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/816.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORVISION </link>
+</item>
+<item>
+<title>Motors TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/874.ts&amp;streamtype=TSDOWNLOADER&amp;name=Motors TV </link>
+</item>
+<item>
+<title>Nat Geographic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/281.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geographic </link>
+</item>
+<item>
+<title>National Geographic pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/853.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic pt </link>
+</item>
+<item>
+<title>Nat Geo Wild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/934.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo Wild </link>
+</item>
+<item>
+<title>Discovery ShowCase</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/564.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery ShowCase </link>
+</item>
+<item>
+<title>canal Historia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/526.ts&amp;streamtype=TSDOWNLOADER&amp;name=canal Historia </link>
+</item>
+<item>
+<title>Odisseia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/666.ts&amp;streamtype=TSDOWNLOADER&amp;name=Odisseia </link>
+</item>
+<item>
+<title>discovery PT pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=discovery PT pt </link>
+</item>
+<item>
+<title>Canal Toros TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/525.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Toros TV </link>
+</item>
+<item>
+<title>caça e pesca</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/254.ts&amp;streamtype=TSDOWNLOADER&amp;name=caça e pesca </link>
+</item>
+<item>
+<title>cacavision</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/849.ts&amp;streamtype=TSDOWNLOADER&amp;name=cacavision </link>
+</item>
+<item>
+<title>Fuel tv</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1030.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fuel tv </link>
+</item>
+<item>
+<title>MCS Extreme</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/996.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS Extreme </link>
+</item>
+<item>
+<title>Kombat Sport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/995.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kombat Sport </link>
+</item>
+<item>
+<title>Fight network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1167.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fight network </link>
+</item>
+<item>
+<title>FightBox</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1280.ts&amp;streamtype=TSDOWNLOADER&amp;name=FightBox </link>
+</item>
+<item>
+<title>FastnFun Box</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1281.ts&amp;streamtype=TSDOWNLOADER&amp;name=FastnFun Box </link>
+</item>
+<item>
+<title>Deluxe Music</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1196.ts&amp;streamtype=TSDOWNLOADER&amp;name=Deluxe Music </link>
+</item>
+<item>
+<title>Afro Music</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1093.ts&amp;streamtype=TSDOWNLOADER&amp;name=Afro Music </link>
+</item>
+<item>
+<title>Trace Urban</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1361.ts&amp;streamtype=TSDOWNLOADER&amp;name=Trace Urban </link>
+</item>
+<item>
+<title>VH1 Classic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1048.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 Classic </link>
+</item>
+<item>
+<title>VH1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1047.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 </link>
+</item>
+<item>
+<title>MTV Portugal pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1174.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV Portugal pt </link>
+</item>
+<item>
+<title>MTV Rocks</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1049.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV Rocks </link>
+</item>
+<item>
+<title>MTV Hits</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1051.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV Hits </link>
+</item>
+<item>
+<title>MTV Dance</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1052.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV Dance </link>
+</item>
+<item>
+<title>Virgin Radio TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/466.ts&amp;streamtype=TSDOWNLOADER&amp;name=Virgin Radio TV </link>
+</item>
+<item>
+<title>Sport tv + pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1016.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport tv + pt </link>
+</item>
+<item>
+<title>SPORT TV HD 1080P *2 opção*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV HD 1080P *2 opção* </link>
+</item>
+<item>
+<title>Sport TV1 HD+ pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1090.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport TV1 HD+ pt </link>
+</item>
+<item>
+<title>Sportv HD 1 pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/517.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sportv HD 1 pt </link>
+</item>
+<item>
+<title>Sportv 1 SD pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/523.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sportv 1 SD pt </link>
+</item>
+<item>
+<title>Sportv 1 360p *Internets muito lentas*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/758.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sportv 1 360p *Internets muito lentas* </link>
+</item>
+<item>
+<title>Sportv 2 HD pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sportv 2 HD pt </link>
+</item>
+<item>
+<title>Sportv 2 SD pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/524.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sportv 2 SD pt </link>
+</item>
+<item>
+<title>Sportv 3 HD pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/563.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sportv 3 HD pt </link>
+</item>
+<item>
+<title>Sportv 3 pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/506.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sportv 3 pt </link>
+</item>
+<item>
+<title>Sportv 4 HD pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1014.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sportv 4 HD pt </link>
+</item>
+<item>
+<title>Sportv 4 pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/519.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sportv 4 pt </link>
+</item>
+<item>
+<title>Sportv 5 HD pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/577.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sportv 5 HD pt </link>
+</item>
+<item>
+<title>Sportv 5 pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/505.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sportv 5 pt </link>
+</item>
+<item>
+<title>BenficaTV 1 SD pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/502.ts&amp;streamtype=TSDOWNLOADER&amp;name=BenficaTV 1 SD pt </link>
+</item>
+<item>
+<title>BenficaTV 1 HD pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/558.ts&amp;streamtype=TSDOWNLOADER&amp;name=BenficaTV 1 HD pt </link>
+</item>
+<item>
+<title>Sporting HD pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/832.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sporting HD pt </link>
+</item>
+<item>
+<title>sporting pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/513.ts&amp;streamtype=TSDOWNLOADER&amp;name=sporting pt </link>
+</item>
+<item>
+<title>eurosport 1 sd pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/516.ts&amp;streamtype=TSDOWNLOADER&amp;name=eurosport 1 sd pt </link>
+</item>
+<item>
+<title>eurosport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/896.ts&amp;streamtype=TSDOWNLOADER&amp;name=eurosport 2 </link>
+</item>
+<item>
+<title>eurosport 2 HD xtra pt</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/561.ts&amp;streamtype=TSDOWNLOADER&amp;name=eurosport 2 HD xtra pt </link>
+</item>
 
-
-
-
-<item>
-<title>PT:TVCINE 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2405.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCINE 1 </link>
-</item>
-<item>
-<title>PT:TVCINE 2.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2410.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCINE 2. </link>
-</item>
-<item>
-<title>PT:TVCINE 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2407.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCINE 3 </link>
-</item>
-<item>
-<title>PT:TVCINE 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2408.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCINE 4 </link>
-</item>
-<item>
-<title>PT:TVCINE 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2409.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCINE 5 </link>
-</item>
-<item>
-<title>PT:SPORTV1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2239.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SPORTV1 </link>
-</item>
-<item>
-<title>PT:SPORTV2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2240.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SPORTV2 </link>
-</item>
-<item>
-<title>PT:SPORT.TV1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1754.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SPORT.TV1 </link>
-</item>
-<item>
-<title>PT:SPORT.TV2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1755.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SPORT.TV2 </link>
-</item>
-<item>
-<title>PT:SPORT.TV3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1752.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SPORT.TV3 </link>
-</item>
-<item>
-<title>PT:SPORT.TV4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/1753.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SPORT.TV4 </link>
-</item>
-<item>
-<title>PT:TOROS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2490.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TOROS </link>
-</item>
-<item>
-<title>PT:SIC.RADICAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2491.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC.RADICAL </link>
-</item>
-<item>
-<title>PT:SIC.MULHER</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2492.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC.MULHER </link>
-</item>
-<item>
-<title>PT:SIC.CARAS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2493.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC.CARAS </link>
-</item>
-<item>
-<title>PT:RTP.MADEIRA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2494.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP.MADEIRA </link>
-</item>
-<item>
-<title>PT:RTP.ACORES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2495.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP.ACORES </link>
-</item>
-<item>
-<title>PT:RTP.2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2496.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP.2 </link>
-</item>
-<item>
-<title>PT:RTP.1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2497.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP.1 </link>
-</item>
-<item>
-<title>PT:MOTORVISION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2499.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MOTORVISION </link>
-</item>
-<item>
-<title>PT:Cartoon.Network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2500.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Cartoon.Network </link>
-</item>
-<item>
-<title>PT:EUROSPORT.NEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2501.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:EUROSPORT.NEWS </link>
-</item>
-<item>
-<title>PT:EUROSPORT.2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2503.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:EUROSPORT.2 </link>
-</item>
-<item>
-<title>PT:EUROSPORT.1.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2502.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:EUROSPORT.1.HD </link>
-</item>
-<item>
-<title>PT:DISNEY.JUNIOR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2504.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:DISNEY.JUNIOR </link>
-</item>
-<item>
-<title>PT:DISNEY.CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2505.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:DISNEY.CHANNEL </link>
-</item>
-<item>
-<title>PT:CHELSEA.TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2507.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CHELSEA.TV </link>
-</item>
-<item>
-<title>PT:CANAL.PANDA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2508.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CANAL.PANDA </link>
-</item>
-<item>
-<title>PT:A.BOLA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2511.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:A.BOLA </link>
-</item>
-<item>
-<title>PT:A&E</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2510.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:A&E </link>
-</item>
-<item>
-<title>PT: TV RECORD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2487.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV RECORD </link>
-</item>
-<item>
-<title>PT: Record</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2486.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Record </link>
-</item>
-<item>
-<title>PT:DISCOVERY.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2626.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:DISCOVERY.HD </link>
-</item>
-<item>
-<title>PT:TVI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2590.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI </link>
-</item>
-<item>
-<title>PT:TVI.24H</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2592.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI.24H </link>
-</item>
-<item>
-<title>PT:TVCine1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2605.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCine1 </link>
-</item>
-<item>
-<title>PT:TVCINE.4.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2608.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCINE.4.HD </link>
-</item>
-<item>
-<title>PT:TVCine.3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2607.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCine.3 </link>
-</item>
-<item>
-<title>PT:TVCine.2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2606.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCine.2 </link>
-</item>
-<item>
-<title>PT:SPORTV5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2597.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SPORTV5 </link>
-</item>
-<item>
-<title>PT:Sporting.TV.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2599.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sporting.TV.HD </link>
-</item>
-<item>
-<title>PT:SORTV3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2596.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SORTV3 </link>
-</item>
-<item>
-<title>PT:NICKELODEON</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2628.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:NICKELODEON </link>
-</item>
-<item>
-<title>PT:SIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2589.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC </link>
-</item>
-<item>
-<title>PT:National.Geographic.wild.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2618.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:National.Geographic.wild.HD </link>
-</item>
-<item>
-<title>PT:MOV.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2611.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MOV.HD </link>
-</item>
-<item>
-<title>PT:Eurosport1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2602.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Eurosport1 </link>
-</item>
-<item>
-<title>PT:Hollywood.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2609.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Hollywood.HD </link>
-</item>
-<item>
-<title>PT:CACA E.PESCA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2604.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CACA E.PESCA </link>
-</item>
-<item>
-<title>PT:FOX.Movies.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2613.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FOX.Movies.HD </link>
-</item>
-<item>
-<title>PT:FOX.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2612.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FOX.HD </link>
-</item>
-<item>
-<title>PT:FOX.Crilme</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2614.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FOX.Crilme </link>
-</item>
-<item>
-<title>PT:EurosportNews</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2603.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:EurosportNews </link>
-</item>
-<item>
-<title>PT:Eurosport2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2600.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Eurosport2 </link>
-</item>
-<item>
-<title>PT:Canal.Porto</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2623.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Canal.Porto </link>
-</item>
-<item>
-<title>PT:BTV2.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2598.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BTV2.HD </link>
-</item>
-<item>
-<title>PT:AXN.White</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2616.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AXN.White </link>
-</item>
-<item>
-<title>PT:AXN.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/xxx/xxx/2615.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AXN.HD </link>
-</item>
 
   
 <item>       
