@@ -84,6 +84,394 @@ http://137.74.94.161:8000/live/endy/endy/8215.m3u8
 
 
 
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1" tvg-logo="http://i.imgur.com/FEOOwWv.png" group-title="PORTUGAL",RTP 1
+http://tvdasogra.com:8880/live/trial5/trial97/927.ts
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 HD" tvg-logo="http://i.imgur.com/FEOOwWv.png" group-title="PORTUGAL",RTP 1 HD
+http://tvdasogra.com:8880/live/trial5/trial97/511.ts
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2" tvg-logo="http://i.imgur.com/xQF2L5b.png" group-title="PORTUGAL",RTP 2
+http://tvdasogra.com:8880/live/trial5/trial97/734.ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="http://i.imgur.com/l0eHgcb.png" group-title="PORTUGAL",SIC
+http://tvdasogra.com:8880/live/trial5/trial97/508.ts
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="http://i.imgur.com/IH5YGKf.png" group-title="PORTUGAL",TVI
+http://tvdasogra.com:8880/live/trial5/trial97/522.ts
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="http://i.imgur.com/IH5YGKf.png" group-title="PORTUGAL",TVI
+http://tvdasogra.com:8880/live/trial5/trial97/213.ts
+#EXTINF:-1 tvg-id="TVI Reality" tvg-name="TVI Reality" tvg-logo="http://i.imgur.com/A0YgFSO.png" group-title="PORTUGAL",TVI Reality
+http://tvdasogra.com:8880/live/trial5/trial97/504.ts
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI Ficção" tvg-logo="http://i.imgur.com/OKGxjPA.png" group-title="PORTUGAL",TVI Ficção
+http://tvdasogra.com:8880/live/trial5/trial97/456.ts
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="TVI 24" tvg-logo="http://i.imgur.com/svqoL1g.png" group-title="PORTUGAL",TVI 24
+http://tvdasogra.com:8880/live/trial5/trial97/214.ts
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC Radical" tvg-logo="http://i.imgur.com/hEGyP10.png" group-title="PORTUGAL",SIC Radical
+http://tvdasogra.com:8880/live/trial5/trial97/527.ts
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC Mulher" tvg-logo="http://i.imgur.com/du6TOVj.png" group-title="PORTUGAL",SIC Mulher
+http://tvdasogra.com:8880/live/trial5/trial97/872.ts
+#EXTINF:-1 tvg-id="SICK.pt" tvg-name="SIC K" tvg-logo="http://i.imgur.com/okIRU0c.png" group-title="PORTUGAL",SIC K
+http://tvdasogra.com:8880/live/trial5/trial97/452.ts
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="RTP Madeira" tvg-logo="http://i.imgur.com/GRL55BY.png" group-title="PORTUGAL",RTP Madeira
+http://tvdasogra.com:8880/live/trial5/trial97/761.ts
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Internacional" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/7905755.547473ac0a4e7.png" group-title="PORTUGAL",RTP Internacional
+http://tvdasogra.com:8880/live/trial5/trial97/818.ts
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="RTP Açores" tvg-logo="http://i.imgur.com/dba3EB3.png" group-title="PORTUGAL",RTP Açores
+http://tvdasogra.com:8880/live/trial5/trial97/817.ts
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="RTP África" tvg-logo="http://i.imgur.com/OIVsEqT.png" group-title="PORTUGAL",RTP África
+http://tvdasogra.com:8880/live/trial5/trial97/1183.ts
+#EXTINF:-1 tvg-id="rtpn.pt" tvg-name="RTP 3" tvg-logo="http://i.imgur.com/UPh2mRs.png" group-title="PORTUGAL",RTP 3
+http://tvdasogra.com:8880/live/trial5/trial97/483.ts
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC Notícias" tvg-logo="http://i.imgur.com/oz3ejDX.png" group-title="PORTUGAL",SIC Notícias
+http://tvdasogra.com:8880/live/trial5/trial97/510.ts
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CM TV" tvg-logo="http://i.imgur.com/WW8FVsg.png" group-title="PORTUGAL",CM TV
+http://tvdasogra.com:8880/live/trial5/trial97/514.ts
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-name="Euronews" tvg-logo="http://i.imgur.com/64CB0QO.png" group-title="PORTUGAL",Euronews
+http://tvdasogra.com:8880/live/trial5/trial97/460.ts
+#EXTINF:-1 tvg-id="Abola.nws" tvg-name="A BOLA" tvg-logo="http://www.abola.pt/abolatv/ficheiros/logo.png" group-title="PORTUGAL",A BOLA
+http://tvdasogra.com:8880/live/trial5/trial97/515.ts
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal" tvg-logo="http://i.imgur.com/e4Abnqr.png" group-title="PORTUGAL",Porto Canal
+http://tvdasogra.com:8880/live/trial5/trial97/267.ts
+#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="RTP Memória" tvg-logo="http://i.imgur.com/cvf4bD5.png" group-title="PORTUGAL",RTP Memória
+http://tvdasogra.com:8880/live/trial5/trial97/742.ts
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel" tvg-logo="http://i.imgur.com/lZLOpZ1.png" group-title="PORTUGAL",Disney Channel
+http://tvdasogra.com:8880/live/trial5/trial97/282.ts
+#EXTINF:-1,Panda
+http://tvdasogra.com:8880/live/trial5/trial97/225.ts
+#EXTINF:-1,Panda biggs
+http://tvdasogra.com:8880/live/trial5/trial97/743.ts
+#EXTINF:-1,Niclelodeon
+http://tvdasogra.com:8880/live/trial5/trial97/528.ts
+#EXTINF:-1,dysney junior
+http://tvdasogra.com:8880/live/trial5/trial97/218.ts
+#EXTINF:-1,Cartoon NetWork
+http://tvdasogra.com:8880/live/trial5/trial97/885.ts
+#EXTINF:-1,Jim Jam
+http://tvdasogra.com:8880/live/trial5/trial97/852.ts
+#EXTINF:-1,BABY TV
+http://tvdasogra.com:8880/live/trial5/trial97/873.ts
+#EXTINF:-1,globo
+http://tvdasogra.com:8880/live/trial5/trial97/268.ts
+#EXTINF:-1,Globo tv
+http://tvdasogra.com:8880/live/trial5/trial97/932.ts
+#EXTINF:-1,tv record
+http://tvdasogra.com:8880/live/trial5/trial97/535.ts
+#EXTINF:-1,MCS Lifestyle
+http://tvdasogra.com:8880/live/trial5/trial97/893.ts
+#EXTINF:-1,24 Kitchen
+http://tvdasogra.com:8880/live/trial5/trial97/534.ts
+#EXTINF:-1,Travel Channel
+http://tvdasogra.com:8880/live/trial5/trial97/875.ts
+#EXTINF:-1,Sic caras
+http://tvdasogra.com:8880/live/trial5/trial97/803.ts
+#EXTINF:-1,TLC
+http://tvdasogra.com:8880/live/trial5/trial97/802.ts
+#EXTINF:-1,Canal Q
+http://tvdasogra.com:8880/live/trial5/trial97/997.ts
+#EXTINF:-1,E Entertainment
+http://tvdasogra.com:8880/live/trial5/trial97/576.ts
+#EXTINF:-1,CBS Reality
+http://tvdasogra.com:8880/live/trial5/trial97/637.ts
+#EXTINF:-1,MOTORVISION
+http://tvdasogra.com:8880/live/trial5/trial97/816.ts
+#EXTINF:-1,Motors TV
+http://tvdasogra.com:8880/live/trial5/trial97/874.ts
+#EXTINF:-1,Nat Geographic
+http://tvdasogra.com:8880/live/trial5/trial97/281.ts
+#EXTINF:-1,National Geographic pt
+http://tvdasogra.com:8880/live/trial5/trial97/853.ts
+#EXTINF:-1,Nat Geo Wild
+http://tvdasogra.com:8880/live/trial5/trial97/934.ts
+#EXTINF:-1,Discovery ShowCase
+http://tvdasogra.com:8880/live/trial5/trial97/564.ts
+#EXTINF:-1,canal Historia
+http://tvdasogra.com:8880/live/trial5/trial97/526.ts
+#EXTINF:-1,Odisseia
+http://tvdasogra.com:8880/live/trial5/trial97/666.ts
+#EXTINF:-1,discovery PT pt
+http://tvdasogra.com:8880/live/trial5/trial97/277.ts
+#EXTINF:-1,Canal Toros TV
+http://tvdasogra.com:8880/live/trial5/trial97/525.ts
+#EXTINF:-1,caça e pesca
+http://tvdasogra.com:8880/live/trial5/trial97/254.ts
+#EXTINF:-1,cacavision
+http://tvdasogra.com:8880/live/trial5/trial97/849.ts
+#EXTINF:-1,Fuel tv
+http://tvdasogra.com:8880/live/trial5/trial97/1030.ts
+#EXTINF:-1,MCS Extreme
+http://tvdasogra.com:8880/live/trial5/trial97/996.ts
+#EXTINF:-1,Kombat Sport
+http://tvdasogra.com:8880/live/trial5/trial97/995.ts
+#EXTINF:-1,Fight network
+http://tvdasogra.com:8880/live/trial5/trial97/1167.ts
+#EXTINF:-1,FightBox
+http://tvdasogra.com:8880/live/trial5/trial97/1280.ts
+#EXTINF:-1,FastnFun Box
+http://tvdasogra.com:8880/live/trial5/trial97/1281.ts
+#EXTINF:-1,Deluxe Music
+http://tvdasogra.com:8880/live/trial5/trial97/1196.ts
+#EXTINF:-1,Afro Music
+http://tvdasogra.com:8880/live/trial5/trial97/1093.ts
+#EXTINF:-1,Trace Urban
+http://tvdasogra.com:8880/live/trial5/trial97/1361.ts
+#EXTINF:-1,VH1 Classic
+http://tvdasogra.com:8880/live/trial5/trial97/1048.ts
+#EXTINF:-1,VH1
+http://tvdasogra.com:8880/live/trial5/trial97/1047.ts
+#EXTINF:-1,MTV Portugal pt
+http://tvdasogra.com:8880/live/trial5/trial97/1174.ts
+#EXTINF:-1,MTV Rocks
+http://tvdasogra.com:8880/live/trial5/trial97/1049.ts
+#EXTINF:-1,MTV Hits
+http://tvdasogra.com:8880/live/trial5/trial97/1051.ts
+#EXTINF:-1,MTV Dance
+http://tvdasogra.com:8880/live/trial5/trial97/1052.ts
+#EXTINF:-1,Virgin Radio TV
+http://tvdasogra.com:8880/live/trial5/trial97/466.ts
+#EXTINF:-1,Sport tv + pt
+http://tvdasogra.com:8880/live/trial5/trial97/1016.ts
+#EXTINF:-1,SPORT TV HD 1080P *2 opção*
+http://tvdasogra.com:8880/live/trial5/trial97/1.ts
+#EXTINF:-1,Sport TV1 HD+ pt
+http://tvdasogra.com:8880/live/trial5/trial97/1090.ts
+#EXTINF:-1,Sportv HD 1 pt
+http://tvdasogra.com:8880/live/trial5/trial97/517.ts
+#EXTINF:-1,Sportv 1 SD pt
+http://tvdasogra.com:8880/live/trial5/trial97/523.ts
+#EXTINF:-1,Sportv 1 360p *Internets muito lentas*
+http://tvdasogra.com:8880/live/trial5/trial97/758.ts
+#EXTINF:-1,Sportv 2 HD pt
+http://tvdasogra.com:8880/live/trial5/trial97/503.ts
+#EXTINF:-1,Sportv 2 SD pt
+http://tvdasogra.com:8880/live/trial5/trial97/524.ts
+#EXTINF:-1,Sportv 3 HD pt
+http://tvdasogra.com:8880/live/trial5/trial97/563.ts
+#EXTINF:-1,Sportv 3 pt
+http://tvdasogra.com:8880/live/trial5/trial97/506.ts
+#EXTINF:-1,Sportv 4 HD pt
+http://tvdasogra.com:8880/live/trial5/trial97/1014.ts
+#EXTINF:-1,Sportv 4 pt
+http://tvdasogra.com:8880/live/trial5/trial97/519.ts
+#EXTINF:-1,Sportv 5 HD pt
+http://tvdasogra.com:8880/live/trial5/trial97/577.ts
+#EXTINF:-1,Sportv 5 pt
+http://tvdasogra.com:8880/live/trial5/trial97/505.ts
+#EXTINF:-1,BenficaTV 1 SD pt
+http://tvdasogra.com:8880/live/trial5/trial97/502.ts
+#EXTINF:-1,BenficaTV 1 HD pt
+http://tvdasogra.com:8880/live/trial5/trial97/558.ts
+#EXTINF:-1,Sporting HD pt
+http://tvdasogra.com:8880/live/trial5/trial97/832.ts
+#EXTINF:-1,sporting pt
+http://tvdasogra.com:8880/live/trial5/trial97/513.ts
+#EXTINF:-1,eurosport 1 sd pt
+http://tvdasogra.com:8880/live/trial5/trial97/516.ts
+#EXTINF:-1,eurosport 2
+http://tvdasogra.com:8880/live/trial5/trial97/896.ts
+#EXTINF:-1,eurosport 2 HD xtra pt
+http://tvdasogra.com:8880/live/trial5/trial97/561.ts
+#EXTINF:-1,Arena Sport 1 HD
+http://tvdasogra.com:8880/live/trial5/trial97/486.ts
+#EXTINF:-1,Arena Sport 2
+http://tvdasogra.com:8880/live/trial5/trial97/221.ts
+#EXTINF:-1,Arena Sport 3
+http://tvdasogra.com:8880/live/trial5/trial97/224.ts
+#EXTINF:-1,Sport Klub HD 1
+http://tvdasogra.com:8880/live/trial5/trial97/477.ts
+#EXTINF:-1,Sport Klub HD 2
+http://tvdasogra.com:8880/live/trial5/trial97/478.ts
+#EXTINF:-1,Sport Klub HD 3
+http://tvdasogra.com:8880/live/trial5/trial97/479.ts
+#EXTINF:-1,Bein Sport 1 HD
+http://tvdasogra.com:8880/live/trial5/trial97/474.ts
+#EXTINF:-1,BeIN HD 2
+http://tvdasogra.com:8880/live/trial5/trial97/491.ts
+#EXTINF:-1,Bein Sport 3
+http://tvdasogra.com:8880/live/trial5/trial97/484.ts
+#EXTINF:-1,Ar: Bein Sports 1 HD
+http://tvdasogra.com:8880/live/trial5/trial97/1031.ts
+#EXTINF:-1,Ar: Bein Sports 2 HD
+http://tvdasogra.com:8880/live/trial5/trial97/1032.ts
+#EXTINF:-1,Ar: Bein Sports 3 HD
+http://tvdasogra.com:8880/live/trial5/trial97/1033.ts
+#EXTINF:-1,Ar: Bein Sports 4 HD
+http://tvdasogra.com:8880/live/trial5/trial97/1034.ts
+#EXTINF:-1,Ar: Bein Sports 5 HD
+http://tvdasogra.com:8880/live/trial5/trial97/1035.ts
+#EXTINF:-1,Ar: Bein Sports 6 HD
+http://tvdasogra.com:8880/live/trial5/trial97/1036.ts
+#EXTINF:-1,Ar: Bein Sports 7 HD
+http://tvdasogra.com:8880/live/trial5/trial97/1037.ts
+#EXTINF:-1,Ar: Bein Sports 8 HD
+http://tvdasogra.com:8880/live/trial5/trial97/1038.ts
+#EXTINF:-1,Ar: Bein Sports 9 HD
+http://tvdasogra.com:8880/live/trial5/trial97/1039.ts
+#EXTINF:-1,Ar: Bein Sports 10 HD
+http://tvdasogra.com:8880/live/trial5/trial97/1040.ts
+#EXTINF:-1,ar: Dubai Sport 1
+http://tvdasogra.com:8880/live/trial5/trial97/1360.ts
+#EXTINF:-1,DE: Sky BundesLiga HD
+http://tvdasogra.com:8880/live/trial5/trial97/497.ts
+#EXTINF:-1,DE: Sky Sports 1 HD
+http://tvdasogra.com:8880/live/trial5/trial97/480.ts
+#EXTINF:-1,DE: Sky Sports 2 HD
+http://tvdasogra.com:8880/live/trial5/trial97/481.ts
+#EXTINF:-1,es: beIN Sports La Liga
+http://tvdasogra.com:8880/live/trial5/trial97/498.ts
+#EXTINF:-1,es: Movistar Formula1 HD
+http://tvdasogra.com:8880/live/trial5/trial97/999.ts
+#EXTINF:-1,es: Moto Gp HD
+http://tvdasogra.com:8880/live/trial5/trial97/476.ts
+#EXTINF:-1,it: Sport Italia
+http://tvdasogra.com:8880/live/trial5/trial97/1195.ts
+#EXTINF:-1,uk: Sky Sports Formula1 HD
+http://tvdasogra.com:8880/live/trial5/trial97/475.ts
+#EXTINF:-1,UK: Sky Sport 1 HD
+http://tvdasogra.com:8880/live/trial5/trial97/472.ts
+#EXTINF:-1,UK: Sky Sport 2 HD
+http://tvdasogra.com:8880/live/trial5/trial97/473.ts
+#EXTINF:-1,UK Sky Sports 3
+http://tvdasogra.com:8880/live/trial5/trial97/909.ts
+#EXTINF:-1,SKY Sport 4 HD
+http://tvdasogra.com:8880/live/trial5/trial97/851.ts
+#EXTINF:-1,UK: Sky Sports 5
+http://tvdasogra.com:8880/live/trial5/trial97/910.ts
+#EXTINF:-1,UK: Racing UK
+http://tvdasogra.com:8880/live/trial5/trial97/1169.ts
+#EXTINF:-1,UK: At The Races
+http://tvdasogra.com:8880/live/trial5/trial97/1168.ts
+#EXTINF:-1,BT  SPORTS 1
+http://tvdasogra.com:8880/live/trial5/trial97/487.ts
+#EXTINF:-1,BT  SPORTS 2
+http://tvdasogra.com:8880/live/trial5/trial97/488.ts
+#EXTINF:-1,BT Sport ESPN
+http://tvdasogra.com:8880/live/trial5/trial97/1121.ts
+#EXTINF:-1,BT Sport EUROPE
+http://tvdasogra.com:8880/live/trial5/trial97/968.ts
+#EXTINF:-1,USA: Fox Sports 1 HD testes
+http://tvdasogra.com:8880/live/trial5/trial97/471.ts
+#EXTINF:-1,it: rai uno 1
+http://tvdasogra.com:8880/live/trial5/trial97/1279.ts
+#EXTINF:-1,it: Fox Sports
+http://tvdasogra.com:8880/live/trial5/trial97/470.ts
+#EXTINF:-1,5USA UK
+http://tvdasogra.com:8880/live/trial5/trial97/998.ts
+#EXTINF:-1,Sport1 US
+http://tvdasogra.com:8880/live/trial5/trial97/1282.ts
+#EXTINF:-1,us: ESPN 2
+http://tvdasogra.com:8880/live/trial5/trial97/966.ts
+#EXTINF:-1,us: TSN 5
+http://tvdasogra.com:8880/live/trial5/trial97/967.ts
+#EXTINF:-1,us: TSN 4
+http://tvdasogra.com:8880/live/trial5/trial97/1123.ts
+#EXTINF:-1,us: TSN 1
+http://tvdasogra.com:8880/live/trial5/trial97/1126.ts
+#EXTINF:-1,us: TSN 2
+http://tvdasogra.com:8880/live/trial5/trial97/1125.ts
+#EXTINF:-1,Premier Sports UK
+http://tvdasogra.com:8880/live/trial5/trial97/914.ts
+#EXTINF:-1,us: TSN 3
+http://tvdasogra.com:8880/live/trial5/trial97/1124.ts
+#EXTINF:-1,NL: HBO HD
+http://tvdasogra.com:8880/live/trial5/trial97/1236.ts
+#EXTINF:-1,NL: Sport 1 Select HD
+http://tvdasogra.com:8880/live/trial5/trial97/1358.ts
+#EXTINF:-1,NL: Fox Sports 1
+http://tvdasogra.com:8880/live/trial5/trial97/1359.ts
+#EXTINF:-1,Fr: TF1
+http://tvdasogra.com:8880/live/trial5/trial97/961.ts
+#EXTINF:-1,Fr: M6 HD
+http://tvdasogra.com:8880/live/trial5/trial97/960.ts
+#EXTINF:-1,UK: ITV 1 HD
+http://tvdasogra.com:8880/live/trial5/trial97/992.ts
+#EXTINF:-1,France 24
+http://tvdasogra.com:8880/live/trial5/trial97/1434.ts
+#EXTINF:-1,Sky News
+http://tvdasogra.com:8880/live/trial5/trial97/963.ts
+#EXTINF:-1,BBC One HD
+http://tvdasogra.com:8880/live/trial5/trial97/1006.ts
+#EXTINF:-1,BBC Entertainment
+http://tvdasogra.com:8880/live/trial5/trial97/964.ts
+#EXTINF:-1,Ginx TV
+http://tvdasogra.com:8880/live/trial5/trial97/1041.ts
+#EXTINF:-1,PFC
+http://tvdasogra.com:8880/live/trial5/trial97/455.ts
+#EXTINF:-1,TV Cine 1 pt
+http://tvdasogra.com:8880/live/trial5/trial97/518.ts
+#EXTINF:-1,TVcine 2 pt
+http://tvdasogra.com:8880/live/trial5/trial97/520.ts
+#EXTINF:-1,tvcine 3 pt
+http://tvdasogra.com:8880/live/trial5/trial97/972.ts
+#EXTINF:-1,tvcine 4 pt
+http://tvdasogra.com:8880/live/trial5/trial97/973.ts
+#EXTINF:-1,TVCINE 1
+http://tvdasogra.com:8880/live/trial5/trial97/262.ts
+#EXTINF:-1,TVCINE 2
+http://tvdasogra.com:8880/live/trial5/trial97/263.ts
+#EXTINF:-1,TVCINE 3
+http://tvdasogra.com:8880/live/trial5/trial97/264.ts
+#EXTINF:-1,TVCINE 4
+http://tvdasogra.com:8880/live/trial5/trial97/265.ts
+#EXTINF:-1,TVseries
+http://tvdasogra.com:8880/live/trial5/trial97/469.ts
+#EXTINF:-1,HollyWood HD
+http://tvdasogra.com:8880/live/trial5/trial97/1000.ts
+#EXTINF:-1,hollywood SD pt
+http://tvdasogra.com:8880/live/trial5/trial97/566.ts
+#EXTINF:-1,Mov HD
+http://tvdasogra.com:8880/live/trial5/trial97/482.ts
+#EXTINF:-1,mov pt
+http://tvdasogra.com:8880/live/trial5/trial97/616.ts
+#EXTINF:-1,syfy pt
+http://tvdasogra.com:8880/live/trial5/trial97/509.ts
+#EXTINF:-1,axn white
+http://tvdasogra.com:8880/live/trial5/trial97/538.ts
+#EXTINF:-1,axn black
+http://tvdasogra.com:8880/live/trial5/trial97/465.ts
+#EXTINF:-1,axn SD pt
+http://tvdasogra.com:8880/live/trial5/trial97/667.ts
+#EXTINF:-1,axn
+http://tvdasogra.com:8880/live/trial5/trial97/276.ts
+#EXTINF:-1,fox crime
+http://tvdasogra.com:8880/live/trial5/trial97/461.ts
+#EXTINF:-1,fox SD pt
+http://tvdasogra.com:8880/live/trial5/trial97/592.ts
+#EXTINF:-1,fox hd
+http://tvdasogra.com:8880/live/trial5/trial97/278.ts
+#EXTINF:-1,fox life HD
+http://tvdasogra.com:8880/live/trial5/trial97/229.ts
+#EXTINF:-1,Fox life sd pt
+http://tvdasogra.com:8880/live/trial5/trial97/1101.ts
+#EXTINF:-1,fox comedy
+http://tvdasogra.com:8880/live/trial5/trial97/536.ts
+#EXTINF:-1,fox movies
+http://tvdasogra.com:8880/live/trial5/trial97/565.ts
+#EXTINF:-1,AMC
+http://tvdasogra.com:8880/live/trial5/trial97/924.ts
+#EXTINF:-1,cinemundo
+http://tvdasogra.com:8880/live/trial5/trial97/244.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
