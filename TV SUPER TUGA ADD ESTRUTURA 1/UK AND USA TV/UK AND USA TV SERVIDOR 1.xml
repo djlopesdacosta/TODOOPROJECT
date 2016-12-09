@@ -17,7 +17,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 07-12-16 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 10-12-16 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -41,208 +41,410 @@
 
 
 
-
-
-
 <item>
-<title>UK_BBC_1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1088.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC_1_HD </link>
+<title>UK TV3 IE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9916.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK TV3 IE </link>
 </item>
 <item>
-<title>UK_BBC_2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1087.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC_2_HD </link>
+<title>UK: ALIBI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9944.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ALIBI </link>
 </item>
 <item>
-<title>UK_BBC_3_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1086.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC_3_HD </link>
+<title>UK: BBC One HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9904.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC One HD </link>
 </item>
 <item>
-<title>UK_BBC_4_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1085.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC_4_HD </link>
+<title>UK: BOX-Nation</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9829.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BOX-Nation </link>
 </item>
 <item>
-<title>UK_BBC_NEW_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1084.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC_NEW_HD </link>
+<title>UK: BT Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9818.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport 1 HD </link>
 </item>
 <item>
-<title>UK_CBS_Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1082.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CBS_Action </link>
+<title>UK: BT Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9819.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport 2 HD </link>
 </item>
 <item>
-<title>UK_CBS_Drama</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1081.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CBS_Drama </link>
+<title>UK: BT Sport Europe HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9823.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport Europe HD </link>
 </item>
 <item>
-<title>UK_CBS_REALITY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1080.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CBS_REALITY </link>
+<title>UK: BT SPORTS 1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9820.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT SPORTS 1HD </link>
 </item>
 <item>
-<title>UK_ITV_1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1072.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV_1_HD </link>
+<title>UK: BT SPORTS 2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9821.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT SPORTS 2HD </link>
 </item>
 <item>
-<title>UK_ITV_2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV_2_HD </link>
+<title>UK: BT SPORTS 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9822.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT SPORTS 3 HD </link>
 </item>
 <item>
-<title>UK_ITV_3_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV_3_HD </link>
+<title>UK: BT Sports Extra</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9824.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sports Extra </link>
 </item>
 <item>
-<title>UK_ITV_4_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1069.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV_4_HD </link>
+<title>UK: CHANNEL 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9918.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CHANNEL 5 </link>
 </item>
 <item>
-<title>UK_Sky_MUTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1051.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_MUTV </link>
+<title>UK: Chelsea TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9828.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Chelsea TV </link>
 </item>
 <item>
-<title>UK_Fox</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1074.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Fox </link>
+<title>UK: DAVE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9926.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DAVE </link>
 </item>
 <item>
-<title>UK_Sky_Syfy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1045.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Syfy </link>
+<title>UK: Discovery Investigation HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9967.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Investigation HD </link>
 </item>
 <item>
-<title>UK_SKY_ACTION_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1067.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_ACTION_HD </link>
+<title>UK: Discovery Science HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9965.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Science HD </link>
 </item>
 <item>
-<title>UK_SKY_MOVIES_COMEDY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1061.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_MOVIES_COMEDY </link>
+<title>UK: Discovery Turbo HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9964.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Turbo HD </link>
 </item>
 <item>
-<title>UK_Sky_Movies_Greats</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1057.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Greats </link>
+<title>UK: Discovery-History-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9963.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery-History-HD </link>
 </item>
 <item>
-<title>UK_SKY_MOVIES_DISNEY_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1060.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_MOVIES_DISNEY_HD </link>
+<title>UK: Euro Sports 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9825.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Euro Sports 1 </link>
 </item>
 <item>
-<title>UK_SKY_MOVIES_DRAMA_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1059.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_MOVIES_DRAMA_HD </link>
+<title>UK: Irish TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9930.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Irish TV </link>
 </item>
 <item>
-<title>UK_SKY_MOVIES_FAMILY_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1058.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_MOVIES_FAMILY_HD </link>
+<title>UK: ITV 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9914.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV 3 HD </link>
 </item>
 <item>
-<title>UK_SKY_MOVIES_SCIFI_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1055.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_MOVIES_SCIFI_HD </link>
+<title>UK: ITV BE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9915.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV BE </link>
 </item>
 <item>
-<title>UK_SKY_MOVIES_PREMIERE_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1056.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_MOVIES_PREMIERE_HD </link>
+<title>UK: ITV1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9912.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV1 HD </link>
 </item>
 <item>
-<title>UK_Sky_Movies_Showcase</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1053.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Showcase </link>
+<title>UK: ITV4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9911.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV4 HD </link>
 </item>
 <item>
-<title>UK_Sky_Movies_Select</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1054.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Select </link>
+<title>UK: LIVERPOOL FC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9832.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: LIVERPOOL FC </link>
 </item>
 <item>
-<title>UK_SKY_MOVIES_THRILLER_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1052.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_MOVIES_THRILLER_HD </link>
+<title>UK: M2O Music</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10009.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: M2O Music </link>
 </item>
 <item>
-<title>UK_True_Movies_1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1044.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_True_Movies_1_HD </link>
+<title>UK: More 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9938.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: More 4 </link>
 </item>
 <item>
-<title>UK_True_Movies_2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1043.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_True_Movies_2_HD </link>
+<title>UK: MOVIES SHOW CASE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9975.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MOVIES SHOW CASE </link>
 </item>
 <item>
-<title>UK_YESTERDAY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1042.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_YESTERDAY </link>
+<title>UK: MTV Hits</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9955.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Hits </link>
 </item>
 <item>
-<title>UK_Sky_Sporm3u8_News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1046.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sporm3u8_News </link>
+<title>UK: Nat Geographic HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10004.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nat Geographic HD </link>
 </item>
 <item>
-<title>UK_Sky_Sporm3u8_F1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1047.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sporm3u8_F1_HD </link>
+<title>UK: NICK JR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9952.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: NICK JR </link>
 </item>
 <item>
-<title>UK_Sky_Sporm3u8_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1050.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sporm3u8_1 </link>
+<title>UK: PREMIERE SPORT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9831.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: PREMIERE SPORT </link>
 </item>
 <item>
-<title>UK_Sky_Sporm3u8_2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1049.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sporm3u8_2 </link>
+<title>UK: RACING UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9827.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RACING UK </link>
 </item>
 <item>
-<title>UK_Sky_Sporm3u8_3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1048.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sporm3u8_3 </link>
+<title>UK: Setanta Sport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9830.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Setanta Sport </link>
 </item>
 <item>
-<title>UK: Sky Sporm3u8 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1090.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sporm3u8 4 </link>
+<title>UK: SKY ARTS 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9937.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY ARTS 1 </link>
 </item>
 <item>
-<title>UK: Sky Sporm3u8 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1089.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sporm3u8 5 </link>
+<title>UK: Sky Atlantic HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9972.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Atlantic HD </link>
 </item>
 <item>
-<title>UK_boxnation</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1083.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_boxnation </link>
+<title>UK: Sky Living</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9922.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Living </link>
 </item>
 <item>
-<title>UK_FOX_SPORm3u8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1073.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_FOX_SPORm3u8 </link>
+<title>UK: SKY NEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9958.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY NEWS </link>
 </item>
 <item>
-<title>UK_Premier_Sporm3u8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1068.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_Premier_Sporm3u8 </link>
+<title>UK: Sky Thriller</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10002.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Thriller </link>
 </item>
 <item>
-<title>UK_Sky_BT_Sport_1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1066.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_BT_Sport_1_HD </link>
+<title>UK: SKY TWO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9921.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY TWO </link>
 </item>
 <item>
-<title>UK _Sky_BT_Sport_2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1065.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK _Sky_BT_Sport_2_HD </link>
+<title>UK: TLC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9935.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TLC </link>
 </item>
 <item>
-<title>UK_Sky_BT_SPORT_EUROPE_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1064.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_BT_SPORT_EUROPE_HD </link>
+<title>UK: TRAVEL CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9934.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TRAVEL CHANNEL </link>
 </item>
 <item>
-<title>UK_Sky_BT_Sport_Extra_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1063.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_BT_Sport_Extra_HD </link>
+<title>UK: Watch</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9932.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Watch </link>
 </item>
 <item>
-<title>UK_Sky_BT_Sport_SPPN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1062.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_BT_Sport_SPPN </link>
+<title>UK:MIO_STADIUM_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9833.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:MIO_STADIUM_1 </link>
 </item>
 <item>
-<title>UK_CTH_STADIUM_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1078.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_CTH_STADIUM_1 </link>
+<title>UK:MIO_STADIUM_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9834.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:MIO_STADIUM_2 </link>
 </item>
 <item>
-<title>UK_CTH_ STADIUM_2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1079.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_CTH_ STADIUM_2_HD </link>
+<title>UK:MIO_STADIUM_3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9835.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:MIO_STADIUM_3 </link>
 </item>
 <item>
-<title>UK_CTH_STADIUM_3_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1077.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_CTH_STADIUM_3_HD </link>
+<title>UK:MIO_STADIUM_4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9836.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:MIO_STADIUM_4 </link>
 </item>
 <item>
-<title>UK_CTH_STADIUM_4_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1076.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_CTH_STADIUM_4_HD </link>
+<title>USA : Bein USA HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9838.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : Bein USA HD </link>
 </item>
 <item>
-<title>UK_CTH_STADIUM_5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:8080/live/3h1ZAMsd2l/oA9N9pL7EQ/1075.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=UK_CTH_STADIUM_5 </link>
+<title>USA : BTN SPORTS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9837.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : BTN SPORTS HD </link>
 </item>
-
-
-
+<item>
+<title>USA : ESPN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9857.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : ESPN HD </link>
+</item>
+<item>
+<title>USA : ESPN HD 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9856.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : ESPN HD 2 </link>
+</item>
+<item>
+<title>USA: ASTRO SPORT 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9850.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: ASTRO SPORT 1 </link>
+</item>
+<item>
+<title>USA: ASTRO SPORT 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9852.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: ASTRO SPORT 3 </link>
+</item>
+<item>
+<title>USA: FOX SPORT 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9849.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: FOX SPORT 2 HD </link>
+</item>
+<item>
+<title>USA: TSN 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9845.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TSN 2 HD </link>
+</item>
+<item>
+<title>USA: TSN 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9846.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TSN 3 HD </link>
+</item>
+<item>
+<title>USA: TSN 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9847.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TSN 4 HD </link>
+</item>
+<item>
+<title>USA: TSN 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9848.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TSN 5 HD </link>
+</item>
+<item>
+<title>USA: TSN1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/9844.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TSN1 HD </link>
+</item>
+<item>
+<title>UK : STAR GOLD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10028.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK : STAR GOLD </link>
+</item>
+<item>
+<title>UK : STAR JALSHA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10029.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK : STAR JALSHA </link>
+</item>
+<item>
+<title>UK : STAR LIFE OK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10030.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK : STAR LIFE OK </link>
+</item>
+<item>
+<title>UK : STAR PLUS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10031.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK : STAR PLUS </link>
+</item>
+<item>
+<title>UK : ZEE PUNJABI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10032.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK : ZEE PUNJABI </link>
+</item>
+<item>
+<title>UK : ZEE TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10033.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK : ZEE TV </link>
+</item>
+<item>
+<title>UK : ZING</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10034.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK : ZING </link>
+</item>
+<item>
+<title>Baby TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10052.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby TV </link>
+</item>
+<item>
+<title>BBC One Northern Ireland</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10077.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC One Northern Ireland </link>
+</item>
+<item>
+<title>BBC One Scotland</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10076.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC One Scotland </link>
+</item>
+<item>
+<title>BBC One Wales</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10075.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC One Wales </link>
+</item>
+<item>
+<title>BBC World News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10061.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC World News </link>
+</item>
+<item>
+<title>Bloomberg</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10060.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bloomberg </link>
+</item>
+<item>
+<title>CNBC Europe</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10059.ts&amp;streamtype=TSDOWNLOADER&amp;name=CNBC Europe </link>
+</item>
+<item>
+<title>CNN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10058.ts&amp;streamtype=TSDOWNLOADER&amp;name=CNN </link>
+</item>
+<item>
+<title>Disney XD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10051.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD </link>
+</item>
+<item>
+<title>Fox News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10057.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox News </link>
+</item>
+<item>
+<title>ITV HD Backup</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10074.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV HD Backup </link>
+</item>
+<item>
+<title>NHK News HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10056.ts&amp;streamtype=TSDOWNLOADER&amp;name=NHK News HD </link>
+</item>
+<item>
+<title>Russia Today HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10055.ts&amp;streamtype=TSDOWNLOADER&amp;name=Russia Today HD </link>
+</item>
+<item>
+<title>Sky Action Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10071.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Action Movies </link>
+</item>
+<item>
+<title>Sky Comedy Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10070.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Comedy Movies </link>
+</item>
+<item>
+<title>Sky DramaRom Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10069.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky DramaRom Movies </link>
+</item>
+<item>
+<title>Sky Family Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10068.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Family Movies </link>
+</item>
+<item>
+<title>Sky Greats Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10067.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Greats Movies </link>
+</item>
+<item>
+<title>Sky Movies Disney</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10066.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Disney </link>
+</item>
+<item>
+<title>Sky News Arabia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10054.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky News Arabia </link>
+</item>
+<item>
+<title>Sky News UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10053.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky News UK </link>
+</item>
+<item>
+<title>Sky Premiere Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10065.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Premiere Movies </link>
+</item>
+<item>
+<title>Sky ScFiHorror Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10064.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky ScFiHorror Movies </link>
+</item>
+<item>
+<title>Sky Select Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10063.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select Movies </link>
+</item>
+<item>
+<title>Sky sport news hd</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10040.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky sport news hd </link>
+</item>
+<item>
+<title>Sky Sports Box Office</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10044.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports Box Office </link>
+</item>
+<item>
+<title>Sky Thriller Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10062.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Thriller Movies </link>
+</item>
+<item>
+<title>UK : RTE NEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10073.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK : RTE NEWS </link>
+</item>
+<item>
+<title>UK : RTE ONE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10072.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK : RTE ONE </link>
+</item>
+<item>
+<title>VIP : RANGERS FV TV ( LIVE ON MATCHES )</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10041.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP : RANGERS FV TV ( LIVE ON MATCHES ) </link>
+</item>
+<item>
+<title>VIP : TSN HD 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10039.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP : TSN HD 1 </link>
+</item>
+<item>
+<title>VIP : TSN HD 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10038.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP : TSN HD 2 </link>
+</item>
+<item>
+<title>VIP : TSN HD 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10037.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP : TSN HD 3 </link>
+</item>
+<item>
+<title>VIP : TSN HD 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10036.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP : TSN HD 4 </link>
+</item>
+<item>
+<title>VIP : TSN HD 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/adrian/adrian/10035.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP : TSN HD 5 </link>
+</item>
 
 
 
