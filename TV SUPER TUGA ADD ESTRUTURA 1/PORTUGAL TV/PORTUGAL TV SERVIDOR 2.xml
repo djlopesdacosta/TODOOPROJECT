@@ -23,7 +23,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 07-12-16 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 10-12-16 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -31,373 +31,274 @@
 </item>
 
 
+<item>
+<title>PT:TVI Ficcao</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16721.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI Ficcao </link>
+</item>
+<item>
+<title>PT:TVI 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16751.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI 24 </link>
+</item>
+<item>
+<title>PT:Tvi</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16750.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Tvi </link>
+</item>
+<item>
+<title>PT:TV Records</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16725.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV Records </link>
+</item>
+<item>
+<title>PT:Sporting TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16732.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sporting TV </link>
+</item>
+<item>
+<title>PT:Sic Noticias</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16755.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sic Noticias </link>
+</item>
+<item>
+<title>PT:Sic Kids</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16756.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sic Kids </link>
+</item>
+<item>
+<title>PT:Sic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16753.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sic </link>
+</item>
+<item>
+<title>PT:Rtp 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16722.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Rtp 3 </link>
+</item>
+<item>
+<title>PT:Rtp 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16723.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Rtp 2 </link>
+</item>
+<item>
+<title>PT:Rtp 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16724.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Rtp 1 </link>
+</item>
+<item>
+<title>PT:Porto Canal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16733.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Porto Canal </link>
+</item>
+<item>
+<title>PT:Odisseia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16735.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Odisseia </link>
+</item>
+<item>
+<title>PT:National Geographic Wild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16737.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:National Geographic Wild </link>
+</item>
+<item>
+<title>PT:National Geographic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16726.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:National Geographic </link>
+</item>
+<item>
+<title>PT:Historia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16729.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Historia </link>
+</item>
+<item>
+<title>PT:Globo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16730.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Globo </link>
+</item>
+<item>
+<title>PT:Fox movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16731.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Fox movies </link>
+</item>
+<item>
+<title>PT:Fox Life</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16741.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Fox Life </link>
+</item>
+<item>
+<title>PT:Fox HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16742.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Fox HD </link>
+</item>
+<item>
+<title>PT:Eurosport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16744.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Eurosport 1 </link>
+</item>
+<item>
+<title>PT:Disney Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16738.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Disney Junior </link>
+</item>
+<item>
+<title>PT:Cinemundo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16745.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Cinemundo </link>
+</item>
+<item>
+<title>PT:Cine 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16759.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Cine 3 HD </link>
+</item>
+<item>
+<title>PT:Cine 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16760.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Cine 1 HD </link>
+</item>
+<item>
+<title>PT:Benfica Tv 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16746.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Benfica Tv 2 </link>
+</item>
+<item>
+<title>PT:Benfica Tv 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16747.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Benfica Tv 1 </link>
+</item>
+<item>
+<title>PT:Baby TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16739.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Baby TV </link>
+</item>
+<item>
+<title>PT:A&E</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16740.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:A&E </link>
+</item>
+<item>
+<title>PT: SPORT TV 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16761.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 4 </link>
+</item>
+<item>
+<title>PT: SPORT TV 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16762.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 3 </link>
+</item>
+<item>
+<title>PT: SPORT TV 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16763.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 2 </link>
+</item>
+<item>
+<title>PT: SPORT TV 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/16764.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 1 </link>
+</item>
+<item>
+<title>PT_TVI24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/10460.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI24 </link>
+</item>
+<item>
+<title>PT_TVI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/10459.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI </link>
+</item>
+<item>
+<title>PT_SIC-MULHER</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/10458.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC-MULHER </link>
+</item>
+<item>
+<title>PT_SIC-CARAS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/10457.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC-CARAS </link>
+</item>
+<item>
+<title>PT_SIC NOTICIAS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/10456.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC NOTICIAS </link>
+</item>
+<item>
+<title>PT_SIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/10455.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC </link>
+</item>
+<item>
+<title>PT_RTP-2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/10453.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP-2 </link>
+</item>
+<item>
+<title>PT_RTP-1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/10452.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP-1 </link>
+</item>
+<item>
+<title>US: TSB HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/12583.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TSB HD </link>
+</item>
+<item>
+<title>US: Spike HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/12594.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Spike HD </link>
+</item>
+<item>
+<title>US: NBCSN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/12607.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NBCSN </link>
+</item>
+<item>
+<title>US: HSN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/12604.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: HSN </link>
+</item>
+<item>
+<title>US: ESPN 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/12606.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ESPN 2 </link>
+</item>
+<item>
+<title>US: Discovery Science</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/12587.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Discovery Science </link>
+</item>
+<item>
+<title>US: CBSN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/12581.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: CBSN </link>
+</item>
+<item>
+<title>US: ABC News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/12582.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ABC News </link>
+</item>
+<item>
+<title>US-National-Geo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/5811.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-National-Geo </link>
+</item>
+<item>
+<title>US-CNN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/5821.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-CNN HD </link>
+</item>
 
 
 
+
+
+
+
+
 <item>
-<title>RTP 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/927.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1 HD </link>
+<title>Brazil 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/8356.ts&amp;streamtype=TSDOWNLOADER&amp;name=Brazil 7 </link>
 </item>
 <item>
-<title>rtp 1 pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/511.ts&amp;streamtype=TSDOWNLOADER&amp;name=rtp 1 pt </link>
+<title>Brazil 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/8359.ts&amp;streamtype=TSDOWNLOADER&amp;name=Brazil 1 </link>
 </item>
 <item>
-<title>rtp2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/734.ts&amp;streamtype=TSDOWNLOADER&amp;name=rtp2 </link>
+<title>Br-TVCOMSC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/8365.ts&amp;streamtype=TSDOWNLOADER&amp;name=Br-TVCOMSC </link>
 </item>
 <item>
-<title>sic pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/508.ts&amp;streamtype=TSDOWNLOADER&amp;name=sic pt </link>
+<title>BR-TV Urbana Brasil</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/8366.ts&amp;streamtype=TSDOWNLOADER&amp;name=BR-TV Urbana Brasil </link>
 </item>
 <item>
-<title>tvi pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/522.ts&amp;streamtype=TSDOWNLOADER&amp;name=tvi pt </link>
+<title>Br-TV POCOS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/8367.ts&amp;streamtype=TSDOWNLOADER&amp;name=Br-TV POCOS </link>
 </item>
 <item>
-<title>TVI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/213.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI </link>
+<title>BR-TV MAN¨¢ FRANCE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/8368.ts&amp;streamtype=TSDOWNLOADER&amp;name=BR-TV MAN¨¢ FRANCE </link>
 </item>
 <item>
-<title>tvi reality pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/504.ts&amp;streamtype=TSDOWNLOADER&amp;name=tvi reality pt </link>
+<title>Br-TV BRASIL CENTRAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/8369.ts&amp;streamtype=TSDOWNLOADER&amp;name=Br-TV BRASIL CENTRAL </link>
 </item>
 <item>
-<title>tvi ficção</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/456.ts&amp;streamtype=TSDOWNLOADER&amp;name=tvi ficção </link>
+<title>Br-REDE GOSPEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/8374.ts&amp;streamtype=TSDOWNLOADER&amp;name=Br-REDE GOSPEL </link>
 </item>
 <item>
-<title>TVI 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/214.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI 24 </link>
+<title>BR-MANA SAT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/8379.ts&amp;streamtype=TSDOWNLOADER&amp;name=BR-MANA SAT </link>
 </item>
 <item>
-<title>sic radical</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/527.ts&amp;streamtype=TSDOWNLOADER&amp;name=sic radical </link>
+<title>Br-DW Latin</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/8383.ts&amp;streamtype=TSDOWNLOADER&amp;name=Br-DW Latin </link>
 </item>
 <item>
-<title>Sic Mulher</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/872.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sic Mulher </link>
+<title>BR-Conexaobr Tv</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/8385.ts&amp;streamtype=TSDOWNLOADER&amp;name=BR-Conexaobr Tv </link>
 </item>
 <item>
-<title>Sic K</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/452.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sic K </link>
+<title>Br-APARECIDA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/8389.ts&amp;streamtype=TSDOWNLOADER&amp;name=Br-APARECIDA </link>
 </item>
-<item>
-<title>Rtp madeira</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/761.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rtp madeira </link>
-</item>
-<item>
-<title>rtp internacional</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/818.ts&amp;streamtype=TSDOWNLOADER&amp;name=rtp internacional </link>
-</item>
-<item>
-<title>Rtp açores</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/817.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rtp açores </link>
-</item>
-<item>
-<title>Rtp África</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1183.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rtp África </link>
-</item>
-<item>
-<title>rtp 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/483.ts&amp;streamtype=TSDOWNLOADER&amp;name=rtp 3 </link>
-</item>
-<item>
-<title>sic noticias pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/510.ts&amp;streamtype=TSDOWNLOADER&amp;name=sic noticias pt </link>
-</item>
-<item>
-<title>cmtv pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/514.ts&amp;streamtype=TSDOWNLOADER&amp;name=cmtv pt </link>
-</item>
-<item>
-<title>euronews</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/460.ts&amp;streamtype=TSDOWNLOADER&amp;name=euronews </link>
-</item>
-<item>
-<title>a bola pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/515.ts&amp;streamtype=TSDOWNLOADER&amp;name=a bola pt </link>
-</item>
-<item>
-<title>Porto canal</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/267.ts&amp;streamtype=TSDOWNLOADER&amp;name=Porto canal </link>
-</item>
-<item>
-<title>rtp memoria</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/742.ts&amp;streamtype=TSDOWNLOADER&amp;name=rtp memoria </link>
-</item>
-<item>
-<title>disney channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/282.ts&amp;streamtype=TSDOWNLOADER&amp;name=disney channel </link>
-</item>
-<item>
-<title>Panda</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/225.ts&amp;streamtype=TSDOWNLOADER&amp;name=Panda </link>
-</item>
-<item>
-<title>Panda biggs</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/743.ts&amp;streamtype=TSDOWNLOADER&amp;name=Panda biggs </link>
-</item>
-<item>
-<title>Niclelodeon</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/528.ts&amp;streamtype=TSDOWNLOADER&amp;name=Niclelodeon </link>
-</item>
-<item>
-<title>dysney junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/218.ts&amp;streamtype=TSDOWNLOADER&amp;name=dysney junior </link>
-</item>
-<item>
-<title>Cartoon NetWork</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/885.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon NetWork </link>
-</item>
-<item>
-<title>Jim Jam</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/852.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jim Jam </link>
-</item>
-<item>
-<title>BABY TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/873.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV </link>
-</item>
-<item>
-<title>globo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/268.ts&amp;streamtype=TSDOWNLOADER&amp;name=globo </link>
-</item>
-<item>
-<title>Globo tv</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/932.ts&amp;streamtype=TSDOWNLOADER&amp;name=Globo tv </link>
-</item>
-<item>
-<title>tv record</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/535.ts&amp;streamtype=TSDOWNLOADER&amp;name=tv record </link>
-</item>
-<item>
-<title>MCS Lifestyle</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/893.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS Lifestyle </link>
-</item>
-<item>
-<title>24 Kitchen</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 Kitchen </link>
-</item>
-<item>
-<title>Travel Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/875.ts&amp;streamtype=TSDOWNLOADER&amp;name=Travel Channel </link>
-</item>
-<item>
-<title>Sic caras</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/803.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sic caras </link>
-</item>
-<item>
-<title>TLC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/802.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC </link>
-</item>
-<item>
-<title>Canal Q</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/997.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Q </link>
-</item>
-<item>
-<title>E Entertainment</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/576.ts&amp;streamtype=TSDOWNLOADER&amp;name=E Entertainment </link>
-</item>
-<item>
-<title>CBS Reality</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/637.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS Reality </link>
-</item>
-<item>
-<title>MOTORVISION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/816.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORVISION </link>
-</item>
-<item>
-<title>Motors TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/874.ts&amp;streamtype=TSDOWNLOADER&amp;name=Motors TV </link>
-</item>
-<item>
-<title>Nat Geographic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/281.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geographic </link>
-</item>
-<item>
-<title>National Geographic pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/853.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic pt </link>
-</item>
-<item>
-<title>Nat Geo Wild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/934.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo Wild </link>
-</item>
-<item>
-<title>Discovery ShowCase</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/564.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery ShowCase </link>
-</item>
-<item>
-<title>canal Historia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/526.ts&amp;streamtype=TSDOWNLOADER&amp;name=canal Historia </link>
-</item>
-<item>
-<title>Odisseia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/666.ts&amp;streamtype=TSDOWNLOADER&amp;name=Odisseia </link>
-</item>
-<item>
-<title>discovery PT pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=discovery PT pt </link>
-</item>
-<item>
-<title>Canal Toros TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/525.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Toros TV </link>
-</item>
-<item>
-<title>caça e pesca</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/254.ts&amp;streamtype=TSDOWNLOADER&amp;name=caça e pesca </link>
-</item>
-<item>
-<title>cacavision</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/849.ts&amp;streamtype=TSDOWNLOADER&amp;name=cacavision </link>
-</item>
-<item>
-<title>Fuel tv</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1030.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fuel tv </link>
-</item>
-<item>
-<title>MCS Extreme</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/996.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS Extreme </link>
-</item>
-<item>
-<title>Kombat Sport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/995.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kombat Sport </link>
-</item>
-<item>
-<title>Fight network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1167.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fight network </link>
-</item>
-<item>
-<title>FightBox</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1280.ts&amp;streamtype=TSDOWNLOADER&amp;name=FightBox </link>
-</item>
-<item>
-<title>FastnFun Box</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1281.ts&amp;streamtype=TSDOWNLOADER&amp;name=FastnFun Box </link>
-</item>
-<item>
-<title>Deluxe Music</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1196.ts&amp;streamtype=TSDOWNLOADER&amp;name=Deluxe Music </link>
-</item>
-<item>
-<title>Afro Music</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1093.ts&amp;streamtype=TSDOWNLOADER&amp;name=Afro Music </link>
-</item>
-<item>
-<title>Trace Urban</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1361.ts&amp;streamtype=TSDOWNLOADER&amp;name=Trace Urban </link>
-</item>
-<item>
-<title>VH1 Classic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1048.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 Classic </link>
-</item>
-<item>
-<title>VH1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1047.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 </link>
-</item>
-<item>
-<title>MTV Portugal pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1174.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV Portugal pt </link>
-</item>
-<item>
-<title>MTV Rocks</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1049.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV Rocks </link>
-</item>
-<item>
-<title>MTV Hits</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1051.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV Hits </link>
-</item>
-<item>
-<title>MTV Dance</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1052.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV Dance </link>
-</item>
-<item>
-<title>Virgin Radio TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/466.ts&amp;streamtype=TSDOWNLOADER&amp;name=Virgin Radio TV </link>
-</item>
-<item>
-<title>Sport tv + pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1016.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport tv + pt </link>
-</item>
-<item>
-<title>SPORT TV HD 1080P *2 opção*</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV HD 1080P *2 opção* </link>
-</item>
-<item>
-<title>Sport TV1 HD+ pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1090.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport TV1 HD+ pt </link>
-</item>
-<item>
-<title>Sportv HD 1 pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/517.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sportv HD 1 pt </link>
-</item>
-<item>
-<title>Sportv 1 SD pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/523.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sportv 1 SD pt </link>
-</item>
-<item>
-<title>Sportv 1 360p *Internets muito lentas*</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/758.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sportv 1 360p *Internets muito lentas* </link>
-</item>
-<item>
-<title>Sportv 2 HD pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sportv 2 HD pt </link>
-</item>
-<item>
-<title>Sportv 2 SD pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/524.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sportv 2 SD pt </link>
-</item>
-<item>
-<title>Sportv 3 HD pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/563.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sportv 3 HD pt </link>
-</item>
-<item>
-<title>Sportv 3 pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/506.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sportv 3 pt </link>
-</item>
-<item>
-<title>Sportv 4 HD pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/1014.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sportv 4 HD pt </link>
-</item>
-<item>
-<title>Sportv 4 pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/519.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sportv 4 pt </link>
-</item>
-<item>
-<title>Sportv 5 HD pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/577.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sportv 5 HD pt </link>
-</item>
-<item>
-<title>Sportv 5 pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/505.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sportv 5 pt </link>
-</item>
-<item>
-<title>BenficaTV 1 SD pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/502.ts&amp;streamtype=TSDOWNLOADER&amp;name=BenficaTV 1 SD pt </link>
-</item>
-<item>
-<title>BenficaTV 1 HD pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/558.ts&amp;streamtype=TSDOWNLOADER&amp;name=BenficaTV 1 HD pt </link>
-</item>
-<item>
-<title>Sporting HD pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/832.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sporting HD pt </link>
-</item>
-<item>
-<title>sporting pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/513.ts&amp;streamtype=TSDOWNLOADER&amp;name=sporting pt </link>
-</item>
-<item>
-<title>eurosport 1 sd pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/516.ts&amp;streamtype=TSDOWNLOADER&amp;name=eurosport 1 sd pt </link>
-</item>
-<item>
-<title>eurosport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/896.ts&amp;streamtype=TSDOWNLOADER&amp;name=eurosport 2 </link>
-</item>
-<item>
-<title>eurosport 2 HD xtra pt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvdasogra.com:8880/live/trial5/trial97/561.ts&amp;streamtype=TSDOWNLOADER&amp;name=eurosport 2 HD xtra pt </link>
-</item>
+
+
+
+
+
+
+
+
 
 
   
