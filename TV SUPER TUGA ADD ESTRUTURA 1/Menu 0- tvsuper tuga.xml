@@ -3129,16 +3129,20 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 </item>
 
 
-
 <item> 
-<title>[COLOR blue] [I]BENFICA TV [/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
-<sportsdevil>http://cdn2.zuuk.org/benficatv_2.php</sportsdevil>
-<sportsdevil>http://www.desportonline.com/index.php?canal=benficatv</sportsdevil>
-<sportsdevil>http://www.thefeed2all.eu/watch/408917/7/watch-xonetv.html</sportsdevil>
+<title>[COLOR blue] [I]BENFICA TV [/I] [/COLOR]  [COLOR lime](WebTV)[/COLOR] </title>
+<link>rtmp://31.220.0.13/privatestream/ playpath=gwearger?keys=qfiYwizuaN7eAshR7mytWA&keyt=1478383342 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=gwearger&width=599&height=399 swfVfy=1 live=1 timeout=15</link>
 <referer>http://www.sportvdireto.online/</referer>
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv2_ver1.png</thumbnail>
 </item>
 
+
+<item> 
+<title>[COLOR blue] [I]BENFICA TV [/I] [/COLOR]  [COLOR lime](WebTV)[/COLOR] </title>
+<link>rtmp://31.220.2.87/privatestream/gwearger?keys=6F3uNMk2aEzr9FaSDgsMcA&keyt=1481079047 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=gwearger&width=630&height=510 swfVfy=1 live=1 timeout=15</link>
+<referer>http://www.sportvdireto.online/</referer>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv2_ver1.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR=blue][B][I] PORTO CANAL HD [/I][/B][/COLOR]      [COLOR=orange]F4MTESTER[/COLOR]</title>
