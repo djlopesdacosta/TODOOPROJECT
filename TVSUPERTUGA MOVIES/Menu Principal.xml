@@ -73,11 +73,19 @@
 </item>
 
 <item>
+<title>[COLOR white]DUBRADOS[/COLOR]</title>
+<thumbnail>http://static1.squarespace.com/static/54d3ec61e4b07b5cc07c5776/t/5535823be4b0e95dcbc740cb/1429570110762/?format=500w</thumbnail>
+<fanart>http://moonshinekingdom.com/wp-content/uploads/2014/01/movie-home-theater-background.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/S%C3%89RIES/DUBLADOS.xml</externallink>
+</item>
+
+<item>
 <title>[COLOR white]INTERNACIONAIS[/COLOR]</title>
 <thumbnail>http://www.sunnetwork.in/ProgramImages/LargeImage/1_5_Saturday%20Hollywood%20Movie_SunTV-Inner-banner-HM.jpg</thumbnail>
 <fanart>http://fashionschoolguide.net/wp-content/uploads/2016/05/charming-home-movie-theater-rooms-decorating-ideas-scheme-heavenly-in-excerpt-wooden-wall-movie-interior-photo-home-movie-theater-ideas.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/S%C3%89RIES/INTERNACIONAIS.xml</externallink>
+<jsonrpc>plugin://plugin.video.zen/?action=tvshows&amp;url=popular&</jsonrpc>
 </item>
 
 <channel>
