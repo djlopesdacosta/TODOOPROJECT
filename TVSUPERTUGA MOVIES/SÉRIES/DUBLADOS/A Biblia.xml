@@ -4,23 +4,23 @@
  
  <channels>
 <channel>
-<name>[COLOR lime] [COLOR white][B] [COLOR lime]|||[/COLOR] Update 11-12-2016 [COLOR red]|||[/COLOR][/B][/COLOR] </name>
-<externallink>http://tv-super-tuga-add-estrutura.comlu.com/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA/Menu%200-%20tvsuper%20tuga.xml</externallink>
-<fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
-<thumbnail>http://www.esar.edu.pt/portal/images/outros/icon.jpg</thumbnail>
+<name> </name>
+<externallink></externallink>
+<fanart></fanart>
+<thumbnail></thumbnail>
 </subitem>
 <channel>
-<name>[COLOR white][B][COLOR red]||||||||||[/COLOR] TV SUPER TUGA [COLOR red]||||||||||[/COLOR][/B][/COLOR] </name>
-<fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
-<thumbnail>http://www.esar.edu.pt/portal/images/outros/icon.jpg</thumbnail>
-<externallink>http://tv-super-tuga-add-estrutura.comlu.com/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA/Menu%200-%20tvsuper%20tuga.xml</externallink>
+<name></name>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<externallink></externallink>
 </subitem>
 </item>
  <item>
 </subchannel>
 </channel>
 <channel>		
-<name> [COLOR red] BÍBLIA  [/COLOR]  </name>
+<name> [COLOR white] BÍBLIA TEMPORADA 1 [/COLOR]  </name>
 <thumbnail>http://1.bp.blogspot.com/-8SmsVD7tnZg/US-G0djZGwI/AAAAAAAADzQ/mtRudF6I5B8/s1600/RTP,+SIC+e+TVI+logo.png</thumbnail>
 <fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
 </subitem>
@@ -101,7 +101,7 @@
 
 
 <channel>		
-<name> [COLOR lime] BÍBLIA 2 [/COLOR]  </name>
+<name> [COLOR lime] BÍBLIA 2 TEMPORADA 2[/COLOR]  </name>
 <thumbnail>https://vaievem.files.wordpress.com/2012/08/rtp_tv.png</thumbnail>
 <fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
 </subitem>
@@ -110,7 +110,7 @@
 
 <item>
 <title>[COLOR white][B]A BÍBLIA EPISÓDIO 1 [/B][/COLOR]</title>
-<link>http://cdn.ec.cx/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP10.mp4</link>
+<link>https://oqt1oq.oloadcdn.net/dl/l/HvDnVj-SWENqwDGD/iPVOGToRWQ0/AB+041016.mp4</link>
 <thumbnail>http://canalhistoria.pt/microsites/a-biblia/images/serie-logo.png</thumbnail>
 <fanart>http://4.bp.blogspot.com/-HflKMlcXjk0/UneG1tXtRaI/AAAAAAAAEZo/8AIarE-2bXs/s1600/BibleSeries.png</fanart>
 </item>
