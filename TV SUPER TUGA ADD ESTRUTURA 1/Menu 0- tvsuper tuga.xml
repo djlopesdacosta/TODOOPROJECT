@@ -5,7 +5,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime] [COLOR white][B] [COLOR lime]|||[/COLOR] Update 11-12-2016 [COLOR red]|||[/COLOR][/B][/COLOR] </name>
+<name>[COLOR lime] [COLOR white][B] [COLOR lime]|||[/COLOR] Update 12-12-2016 [COLOR red]|||[/COLOR][/B][/COLOR] </name>
 <externallink>http://tv-super-tuga-add-estrutura.comlu.com/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA/Menu%200-%20tvsuper%20tuga.xml</externallink>
 <fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
 <thumbnail>http://www.esar.edu.pt/portal/images/outros/icon.jpg</thumbnail>
@@ -135,7 +135,7 @@
 
 <item> 
 <title>[COLOR=red][B][I] SIC  [/I][/B][/COLOR]   [COLOR=orange](WebTV)[/COLOR]</title>
-<link>http://iptvtt.ddns.net:8000/live/111/111/760.m3u8</link>
+<link>http://live.impresa.pt/live/sic/sic540p.m3u8</link>
 </link>
 <regex>
 <name>get-ip</name>
@@ -163,7 +163,7 @@
 <item>
 <title>[COLOR=red][B][I] SIC HD [/I][/B][/COLOR]   [COLOR=cyan]F4MTESTER[/COLOR]</title>
 
-<link>http://5.189.159.198:8000/live/marcos/marcos/67.m3u8</link>
+<link>http://gochannelstv.dyndns.tv:80/p75sic/index.m3u8</link>
 <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
 <fanart>http://iptv.cline.in:80/live/greg/greg/1166.m3u8</fanart>
 </item>
@@ -1441,7 +1441,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 
 <title>[COLOR=white][B][I] TVI REALITY [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
-<link>http://iptvfree1.com:6969/live/15/www.iptvrestream.net/3974.m3u8</link>
+<link>http://gochannelstv.dyndns.tv:80/p103tvireality/index.m3u8</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
 </item>
 
