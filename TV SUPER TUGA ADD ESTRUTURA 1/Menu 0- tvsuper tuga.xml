@@ -5,7 +5,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime] [COLOR white][B] [COLOR lime]|||[/COLOR] Update 26-12-2016 [COLOR red]|||[/COLOR][/B][/COLOR] </name>
+<name>[COLOR lime] [COLOR white][B] [COLOR lime]|||[/COLOR] Update 28-12-2016 [COLOR red]|||[/COLOR][/B][/COLOR] </name>
 <externallink>http://tv-super-tuga-add-estrutura.comlu.com/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA/Menu%200-%20tvsuper%20tuga.xml</externallink>
 <fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
 <thumbnail>http://www.esar.edu.pt/portal/images/outros/icon.jpg</thumbnail>
@@ -52,7 +52,7 @@
 <item>
 <title>[COLOR=red][B][I] RTP 1 HD [/I][/B][/COLOR][COLOR=cyan]    [/COLOR]</title>
 
-<link>http://94.61.211.124:8010/play/a01i</link>
+<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/9.m3u8</link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 <fanart>http://4.fotos.web.sapo.io/i/oc913ed30/18864727_W0533.png</fanart>
@@ -163,7 +163,7 @@
 <item>
 <title>[COLOR=red][B][I] SIC HD [/I][/B][/COLOR]   [COLOR=cyan]F4MTESTER[/COLOR]</title>
 
-<link>http://gochannelstv.dyndns.tv:80/p75sic/index.m3u8</link>
+<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/18.m3u8</link>
 <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
 <fanart>http://iptv.cline.in:80/live/greg/greg/1166.m3u8</fanart>
 </item>
@@ -202,7 +202,7 @@
 <item>
 <title>[COLOR=red][B][I] TVI [/I][/B][/COLOR]   [COLOR=cyan]SD[/COLOR]</title>
 
-<link>http://94.61.211.124:8010/play/a01f</link>
+<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/8.m3u8</link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
 <fanart>https://lh6.ggpht.com/Rco-3B_gxp2WxcpArRjrp3iT_XKI94B2paXEh86tn-wioNk9EGKYYUaa6NDg1yLmoGqF=h900</fanart>
@@ -215,7 +215,7 @@
 <item>
 <title>[COLOR=red][B][I] TVI HD [/I][/B][/COLOR]   [COLOR=cyan]F4MTESTER[/COLOR]</title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2793.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI </link>
+<link></link>
 
 <link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w103393150_b814000_49365.m3u8</link>
 
@@ -2882,9 +2882,9 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 
 <item>
-<title>[COLOR blue] [I]SPORT TV +[/I] [/COLOR] [COLOR orange]F4MTESTER[/COLOR]</title>
+<title>[COLOR blue] [I]SPORT TV +[/I] [/COLOR] [COLOR orange]     [/COLOR]</title>
 
-<link>http://213.58.181.40:8000/play/sportv+t </link>
+<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/3.m3u8</link>
 
 <thumbnail>http://www.onlinenatv.com/wp-content/uploads/2016/10/sport.tv_.portugal.jpg?x78568</thumbnail>
 <fanart></fanart>
@@ -2900,7 +2900,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 <item>
 <title>[COLOR=blue][B][I] SPORT TV 1 [/I][/B][/COLOR]  [COLOR=lime](SD)[/COLOR]</title>
-<link>http://163.172.63.57:8000/live/brasil/er4fgerv44444/386.m3u8</link>
+<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/4.m3u8</link>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 
@@ -2938,7 +2938,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 <item>
 <title>[COLOR=blue][B][I] SPORT TV 2 [/I][/B][/COLOR]  [COLOR=lime](SD)[/COLOR]</title>
-<link>http://iptvfree1.com:6969/live/15/www.iptvrestream.net/3993.m3u8 </link>
+<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/5.m3u8 </link>
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
 </item>
 
@@ -2991,6 +2991,24 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
 <fanart></fanart>
 </item>
+
+
+
+
+
+
+<item>
+<title>[COLOR=blue][B][I] SPORT TV 3 [/I][/B][/COLOR]  [COLOR=lime](SD)[/COLOR]</title>
+<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/6.m3u8</link>
+<thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
+</item>
+
+
+
+
+
+
+
 
 <item>
 <title>[COLOR blue] [I]SPORT TV 3[/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
@@ -3087,9 +3105,21 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item>
 <title>[COLOR blue] [I]BENFICA TV 1[/I] [/COLOR] [COLOR orange]F4MTESTER[/COLOR]</title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1421.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_BENFICATV_1HD </link>
+<link></link>
 
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/807.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_BTV_1_HD </link>
+<link></link>
+
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR blue] [I]BENFICA TV 1[/I] [/COLOR] [COLOR orange]HD[/COLOR]</title>
+
+<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/1.m3u8</link>
+
+<link></link>
 
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 <fanart></fanart>
