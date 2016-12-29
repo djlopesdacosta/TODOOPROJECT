@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<items>
+	   <item>
+	        <title>[COLOR red][COLOR red][B]>>CLICK AQUI PARA MAS PELICULAS<<[/COLOR][/B]</title>
+			<link>http://blank</link>
+	        <externallink>https://dl.dropbox.com/s/3upf4eohk2f03xq/pelisregexestreno.xml</externallink>	
+	        <thumbnail>http://static2.blastingnews.com/media/photogallery/2015/12/26/290x290/b_290x290/fotografia-estrenos-del-2016_541067.jpg</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR yellow][COLOR yellow][B]>>ESTRENOS GNULA ENTRAR CLICK AQUI<<[/COLOR][/B]</title>
+			<link>http://blank</link>
+	        <externallink>https://dl.dropbox.com/s/v81qgdyii5lhn9c/gnula.xml</externallink>	
+	        <thumbnail>http://st-listas.20minutos.es/images/2014-08/385739/4508264_640px.jpg?1407952466</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Assassins Creed HQTS Castellano[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=uNOnq5YaNxg</link>
+	        <link>https://goo.gl/kCd77P</link>	
+	        <thumbnail>http://s3.foxmovies.com/foxmovies/production/films/111/images/posters/484-film-page-large.jpg</thumbnail>
+			<fanart>http://pre01.deviantart.net/1e5a/th/pre/i/2016/296/5/a/assassins_creed_movie_poster_fan_by_jefri21m-daly7i1.png</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Mastermind 1080P DUAL[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=0U1y3deL9wQ</link>
+	        <link>https://goo.gl/r5ZyVO</link>	
+	        <thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4a/Masterminds_(2016_film).png</thumbnail>
+			<fanart>http://www.indiewire.com/wp-content/uploads/2015/06/masterminds.jpg?w=680</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Passengers HQTS LAT[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=W2dzR6glwvE</link>
+	        <link>https://goo.gl/KQieOm</link>	
+	        <thumbnail>https://kpmovieblog.files.wordpress.com/2016/09/passengers_poster.jpg?w=790</thumbnail>
+			<fanart>https://kpmovieblog.files.wordpress.com/2016/09/passengers_poster.jpg?w=790</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]The Greater 720P SUB[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=v0Ow6lhvPNk</link>
+	        <link>https://goo.gl/TX47ho</link>	
+	        <thumbnail>http://talkbusiness.net/wp-content/uploads/2016/01/greatermovieposter.jpg</thumbnail>
+			<fanart>http://talkbusiness.net/wp-content/uploads/2016/01/greatermovieposter.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]El Contador 720P LAT[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=fMm3zsFOwIk</link>
+	        <link>https://goo.gl/WaJk1k</link>	
+	        <thumbnail>http://4.bp.blogspot.com/-hqUP7_qkzkE/WCQBa7gb4TI/AAAAAAABRzE/Nzafr15pWks-SWgyGYDylevq1JAwt1GXgCLcB/s320/poster-el-contador.jpg</thumbnail>
+			<fanart>https://1.bp.blogspot.com/-cmMfi2e8Tqk/V_ao1ycOJJI/AAAAAAAABx0/45CI2KWucxQ4KgHcIbdI8L84EtJFxsJsQCLcB/s1600/contador%2Bpelicula.JPG</fanart>
+        </item>
+		<item>
+<title>[COLOR white][B]Manos de Piedra 720P LAT[/COLOR][/B]</title>
+<link>$doregex[getUrl]|Accept-Encoding=gzip, deflate, sdch</link>
+<thumbnail>http://www.peliculasmega-vsacaba.net/wp-content/uploads/2016/11/3-4.png</thumbnail>
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests ,json
+def GetLSProData(page_data,Cookie_Jar,m):
+
+ ref = 'http://copiapop.com/rominaaraujo1316/8-10-206-78178' 
+ url='http://copiapop.com/rominaaraujo1316/8-10-206-78178/0011aamanos-de-piedra-hands-of-stone-lat-720,1281278,gallery,1,1.mp4'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
+            'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
+ session = requests.Session()
+ r = session.get(url, headers=headers)
+ rv1 = r.cookies
+
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://copiapop.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
+ nrj=json.loads(nr)
+ nr = nrj['Content']
+ r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
+ data_a ={'__RequestVerificationToken': r2 , 'Username': 'johnyx00' , 'Password' : 'pass1234'}
+ nr1 = requests.post('http://copiapop.com/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
+ print nr1.headers['Set-Cookie']
+ rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
+ rv1['.ASPXAUTH_v2'] = rasp
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr3 = requests.post('http://copiapop.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
+ r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
+ print r3
+ return r3
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+		<item>
+	        <title>[COLOR white][B]Trolls 720P LAT[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=dwSVxLssdVE</link>
+	        <link>https://goo.gl/sLrrij</link>	
+	        <thumbnail>https://i2.wp.com/apkreal.com/wp-content/uploads/2016/10/Trolls-Crazy-Party-Forest-min.png?fit=300%2C300</thumbnail>
+			<fanart>http://static.webshopapp.com/shops/070489/files/082015004/image.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]When The Bough Breaks 720P LAT[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=OJEOP3GwfG8</link>
+	        <link>https://goo.gl/uUce7V</link>	
+	        <thumbnail>http://static.rogerebert.com/uploads/movie/movie_poster/when-the-bough-breaks-2016/large_when_the_bough_breaks.jpg</thumbnail>
+			<fanart>http://swagggirlicious.com/wp-content/uploads/2016/09/0824-rm-wbb-village-voice-745x420-web-71200.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Los 7 Magnificos 1080P LAT[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=ICf5gqAX-yk</link>
+	        <link>https://goo.gl/O8jfZo</link>	
+	        <thumbnail>http://es.web.img3.acsta.net/c_215_290/pictures/16/06/23/16/32/588757.jpg</thumbnail>
+			<fanart>http://www.peliculaszta.com/wp-content/uploads/2016/08/Pelicula-Los-siete-magn%C3%ADficos-2016.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Bad Santa 2 HDTS SUB[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=fgegJL_UZ7c</link>
+	        <link>https://goo.gl/syFq1R</link>	
+	        <thumbnail>https://www.cinemasguzzo.com/DATA/FILM/2319~v~bad-santa-2.jpg</thumbnail>
+			<fanart>https://www.cinemasguzzo.com/DATA/FILM/2319~v~bad-santa-2.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Off Piste 720P SUB[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=WL5VgfqS2i4</link>
+	        <link>https://goo.gl/Sm3aBr</link>	
+	        <thumbnail>http://store.hmv.com/HMVStore/media/product/383179/01-383179.jpg</thumbnail>
+			<fanart>http://store.hmv.com/HMVStore/media/product/383179/01-383179.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Collide 720P SUB[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=DU9HtbDX2Gw</link>
+	        <link>https://goo.gl/J1Ebji</link>	
+	        <thumbnail>https://s24.postimg.org/64i9gwyg5/collide.jpg</thumbnail>
+			<fanart>https://s24.postimg.org/64i9gwyg5/collide.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]La Autopsia de Jane Doe 720P SUB[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=omWuaVxxwOo</link>
+	        <link>https://goo.gl/5zqlmX</link>	
+	        <thumbnail>http://pics.filmaffinity.com/the_autopsy_of_jane_doe-484992894-large.jpg</thumbnail>
+			<fanart>http://pics.filmaffinity.com/the_autopsy_of_jane_doe-484992894-large.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Max Steel 720P SUB[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=jx99bs-6vtQ</link>
+	        <link>https://goo.gl/TSuyGj</link>	
+	        <thumbnail>http://i.imgur.com/ubnyaHu.jpg</thumbnail>
+			<fanart>http://i.imgur.com/ubnyaHu.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Blair Witch 1080P SUB 5.1[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=U7l6u6nqlLQ</link>
+	        <link>https://goo.gl/hkmb3x</link>	
+	        <thumbnail>http://media.aintitcool.com/media/uploads/2016/quint/blairwitch2016pos_huge.jpg</thumbnail>
+			<fanart>http://media.aintitcool.com/media/uploads/2016/quint/blairwitch2016pos_huge.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]DeepWater Horizon 1080P SUB 5.1[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=97UlvMqmYII</link>
+	        <link>https://goo.gl/TXcT0b</link>	
+	        <thumbnail>http://www.newsofbahrain.com/admin/pages/movie/MOV_29-09-2016_1475134027_HtUuJbpwNx_.jpg</thumbnail>
+			<fanart>http://www.newsofbahrain.com/admin/pages/movie/MOV_29-09-2016_1475134027_HtUuJbpwNx_.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]No Manches Frida 720P LAT[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=fTQVpuxeX8Q</link>
+	        <link>https://goo.gl/7dEAxG</link>	
+	        <thumbnail>https://i0.wp.com/cdn.webadictos.com/media/2016/09/no_manches_frida_cartel.jpg?resize=400%2C593&ssl=1</thumbnail>
+			<fanart>https://i0.wp.com/cdn.webadictos.com/media/2016/09/no_manches_frida_cartel.jpg?resize=400%2C593&ssl=1</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Swiss Army Man 1080P DUAL[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=lFdDDt7atvI</link>
+	        <link>https://goo.gl/1Xtz1F</link>	
+	        <thumbnail>https://4.bp.blogspot.com/-gFwzSJrYBNY/VzlH1qqB97I/AAAAAAAA_fU/7ZE3rGF-ABshJAczaa67U-6mfFGf54r6QCLcB/s1600/Swiss-Army-Man-Poster.jpg</thumbnail>
+			<fanart>https://4.bp.blogspot.com/-gFwzSJrYBNY/VzlH1qqB97I/AAAAAAAA_fU/7ZE3rGF-ABshJAczaa67U-6mfFGf54r6QCLcB/s1600/Swiss-Army-Man-Poster.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]SW Rogue One HDCAM LAT[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=wXEQQOxKIaY</link>
+	        <link>https://goo.gl/D2Op7I</link>	
+	        <thumbnail>http://img.lum.dolimg.com/v1/images/rogueone_onesheeta_1000_309ed8f6.jpeg?region=0%2C0%2C1000%2C1481&width=480</thumbnail>
+			<fanart>http://pre15.deviantart.net/a279/th/pre/f/2016/297/7/2/rogue_one_wallpaper__theatrical_poster__by_spirit__of_adventure-dam3ha4.png</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Snowden 1080P SUB[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=udIUorlkN2Y</link>
+	        <link>https://goo.gl/A2IQHD</link>	
+	        <thumbnail>https://i1.wp.com/teaser-trailer.com/wp-content/uploads/Snowden.jpg?ssl=1</thumbnail>
+			<fanart>https://i1.wp.com/teaser-trailer.com/wp-content/uploads/Snowden.jpg?ssl=1</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Meet the Blacks 1080P LAT[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=ivqhlpUCnZY</link>
+	        <link>https://goo.gl/rnQpuu</link>	
+	        <thumbnail>http://hot97svg.com/wp-content/uploads/2016/03/meet-the-blacks-movie-poster-compressed.jpg</thumbnail>
+			<fanart>https://i.ytimg.com/vi/iNayAe3gu-c/hqdefault.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Un Holograma para el Rey 720P LAT[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=xAIWgGFs68g</link>
+	        <link>https://goo.gl/r9GHi0</link>	
+	        <thumbnail>http://pics.filmaffinity.com/Esperando_al_rey-732010907-large.jpg</thumbnail>
+			<fanart>http://www.elseptimoarte.net/imagenes/noticias/84826.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Spectral 720P Latino[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=EUXqtvHg2BQ</link>
+	        <link>https://goo.gl/5OmWvs</link>	
+	        <thumbnail>http://www.heavenofhorror.com/wp-content/uploads/2016/12/wp-1481301475791-224x300.png</thumbnail>
+			<fanart>http://cdn2-www.comingsoon.net/assets/uploads/2016/12/Spectralheader.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Me Estas matando Susana 480P Lat[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=dyYJmRERVpQ</link>
+	        <link>https://goo.gl/xteVRW</link>	
+	        <thumbnail>http://cinepremiere.impresionesaerea.netdna-cdn.com/trailers/2016/08-agosto/.thumb_Me-estas-matando-Susana-poster.jpg</thumbnail>
+			<fanart>http://cinepremiere.impresionesaerea.netdna-cdn.com/trailers/2016/08-agosto/.thumb_Me-estas-matando-Susana-poster.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Ciguenas 1080P LAT[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=88nhQcVJT-8</link>
+	        <link>https://goo.gl/9ppZRC</link>	
+	        <thumbnail>https://pbs.twimg.com/media/Cx5UDjWVIAEjREG.jpg</thumbnail>
+			<fanart>https://pbs.twimg.com/media/Cx5UDjWVIAEjREG.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Sadako vs Kayako 720P LATINO[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=ZxNRUcYS9Rk</link>
+	        <link>https://goo.gl/iU1U32</link>	
+	        <thumbnail>http://i.hungrygowhere.com/cms/a9/37/63/68/159598/242aa75241.jpg</thumbnail>
+			<fanart>http://screenanarchy.com/assets_c/2016/02/SadakovsKayako-thumb-860xauto-59974.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Moana HDTS LAT[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=ZjlxiCDtNhg</link>
+	        <link>https://goo.gl/M3GHjf</link>	
+	        <thumbnail>https://lumiere-a.akamaihd.net/v1/images/uk_moana_mgp_payoff_n_2724685d.jpeg?region=0%2C0%2C300%2C450</thumbnail>
+			<fanart>https://s.aolcdn.com/dims-shared/dims3/GLOB/crop/810x429+0+271/resize/660x350!/format/jpg/quality/85/https://s.aolcdn.com/hss/storage/midas/59553cabaf1139f62fcba203d76db8c9/204317236/moana+poster.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Morgan 720P DUAL AUDIO[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=GL6Vj_oNXTk</link>
+	        <link>https://goo.gl/jX30Xi</link>	
+	        <thumbnail>http://pop-break.com/wp-content/uploads/2016/09/morgan-pic-1.jpg</thumbnail>
+			<fanart>http://pop-break.com/wp-content/uploads/2016/09/morgan-pic-1.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Al Final del Tunel 720P LAT[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=eO0vwfzwuEI</link>
+	        <link>https://goo.gl/7G2ckp</link>	
+	        <thumbnail>http://screenanarchy.com/assets_c/2015/12/Al_Final_Del_Tunel_Teaser_Poster_JPosters-thumb-430xauto-58742.jpg</thumbnail>
+			<fanart>http://s.libertaddigital.com/videos/critica-de-la-pelicula-al-final-del-tunel-6057455-1.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Inferno 720P DUAL[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=FqME7EUoszE</link>
+	        <link>https://goo.gl/B6Ni1u</link>	
+	        <thumbnail>http://hdfilmvagonu.net/wp-content/uploads/2015/08/Inferno-2016-Full-Hd-%C4%B0zle-250x300.jpg</thumbnail>
+			<fanart>http://static.srcdn.com/slir/w437-h273-q90-c437:273/wp-content/uploads/infenro-movie-2016-tom-hanks.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Ben Hur 1080P DUAL AUDIO[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=SLr4bhgo_GY</link>
+	        <link>https://goo.gl/96X3yP</link>	
+	        <thumbnail>http://iasc-culture.org/THR/channels/THR/wp-content/uploads/2016/09/Ben-Hur_2016_poster.png</thumbnail>
+			<fanart>https://hcmoviereviews.files.wordpress.com/2016/09/ben-hur_poster_goldposter_com_80o_0l_800w_80q.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Interrogation 720P SUB[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=2O51FoTtI84</link>
+	        <link>https://goo.gl/mgg2Cx</link>	
+	        <thumbnail>https://upload.wikimedia.org/wikipedia/en/a/a5/Interrogation_poster.jpg</thumbnail>
+			<fanart>http://www.joblo.com/newsimages1/interrogation-banner.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Ratchet and Clank 720P LAT[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=Zy8Nlz17aN4</link>
+	        <link>https://goo.gl/yWQmdv</link>	
+	        <thumbnail>http://www.comicsbeat.com/wp-content/uploads/2016/03/14045_poster2.jpg</thumbnail>
+			<fanart>http://www.comicsbeat.com/wp-content/uploads/2016/03/14045_poster2.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Doctor Strange HDCAM LATINO[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=IBjLlxU6YN4</link>
+	        <link>https://goo.gl/CvO9ll</link>	
+	        <thumbnail>http://vignette3.wikia.nocookie.net/marvelcinematicuniverse/images/8/8a/Dr_Strange_Fuller_Textless_Poster.jpg/revision/latest/scale-to-width-down/335?cb=20160512000840</thumbnail>
+			<fanart>http://media.comicbook.com/2016/04/doctor-strange-city-bending-179855.jpeg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Fantastic Beasts and Where to Find Them HDCAM LAT[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=7FEqRxZ5QWk</link>
+	        <link>https://goo.gl/LPmrH4</link>
+	        <thumbnail>http://static.srcdn.com/slir/w1024-h/wp-content/uploads/2016/10/fantastic-beasts-poster-newt-scamander.jpg</thumbnail>
+			<fanart>http://static.srcdn.com/slir/w1024-h/wp-content/uploads/2016/10/fantastic-beasts-poster-newt-scamander.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Suicide Squad 720 Extendida DUAL[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=TwaBdZT0vfk</link>
+	        <link>https://goo.gl/fdhMNg</link>
+	        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/61l8IQHuEcL._SX940_.jpg</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Suicide Squad 720 Dual Audio[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=TwaBdZT0vfk</link>
+			<link>https://goo.gl/qNtG08</link>
+	        <link>https://goo.gl/IJOu3J</link>
+	        <thumbnail>http://static.rogerebert.com/uploads/movie/movie_poster/suicide-squad-2016/large_e1mjopzAS2KNsvpbpahQ1a6SkSn.jpg</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Assassination Classroom 720P SUB[/COLOR][/B]</title>
+			<link>http://none</link>
+	        <externallink>https://dl.dropbox.com/s/kj0i5v1sk1yxqib/assassins.xml</externallink>	
+	        <thumbnail>http://vignette4.wikia.nocookie.net/assassinationclassroom/images/5/5e/Ansatsu_Live_Movie_Poster.jpg/revision/latest?cb=20150217152147</thumbnail>
+			<fanart>http://pm1.narvii.com/5740/550433dd0d30b88498337505b5371427dbd91db0_hq.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Petes Dragon 1080P DUAL AUDIO[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=S9jwV1g51J4</link>
+	        <link>https://goo.gl/6aY9yF</link>	
+	        <thumbnail>http://jenaroundtheworld.com/wp-content/uploads/2016/08/PetesDragon-featured-400x467.jpg</thumbnail>
+			<fanart>https://i.ytimg.com/vi/fPOamb6d_20/maxresdefault.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Sadako vs Kayako 720P SUB[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=ZxNRUcYS9Rk</link>
+	        <link>https://goo.gl/ZNj3um</link>	
+	        <thumbnail>http://i.hungrygowhere.com/cms/a9/37/63/68/159598/242aa75241.jpg</thumbnail>
+			<fanart>http://screenanarchy.com/assets_c/2016/02/SadakovsKayako-thumb-860xauto-59974.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Come and Find Me 720P SUB [/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=yAPGlsTTzQQ</link>
+	        <link>https://goo.gl/MSRrR8</link>	
+	        <thumbnail>https://s18.postimg.org/7eimd0do9/Come_and_Find_Me_poster_usa.jpg</thumbnail>
+			<fanart>https://s18.postimg.org/7eimd0do9/Come_and_Find_Me_poster_usa.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]La Chica del Tren TSHQ LAT[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=3KU0brsZ76o</link>
+	        <link>https://goo.gl/cTC2cC</link>	
+	        <thumbnail>http://cdn.hoyts.com.au/mediafiles/images/AUposters/HO00004657.jpg</thumbnail>
+			<fanart>http://www.peckhamplex.london/imgs/posters/trailers/the-girl-on-the-train.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]UFC 205 PRE[/COLOR][/B]</title>
+	        <link>https://goo.gl/TiwM7q</link>	
+	        <thumbnail>http://www.thegarden.com/content/dam/msg/eventImg3/UFC205_2016_328x253_v2.jpg/_jcr_content/renditions/UFC205_2016_328x253_v2.328.254.jpg</thumbnail>
+			<fanart>http://media.ufc.tv/205/030580_205_BoutAnn_TWST_1024x512_ENG[2].jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]UFC 205 Alvarez vs McGregor [/COLOR][/B]</title>
+	        <link>https://goo.gl/FxcSKl</link>	
+	        <thumbnail>http://www.thegarden.com/content/dam/msg/eventImg3/UFC205_2016_328x253_v2.jpg/_jcr_content/renditions/UFC205_2016_328x253_v2.328.254.jpg</thumbnail>
+			<fanart>https://d2xpg1khvwxlf1.cloudfront.net/production/images/original/1882-UFC-205-Event-Image-f474e631fd4be9bcfca4fc18d21f3f50.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]La Llegada CAM Latino[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=uWs5lsWXLbo</link>
+	        <link>https://goo.gl/kZbgjX</link>	
+	        <thumbnail>http://gnula.nu/wp-content/uploads/2016/08/Arrival_primer_poster_usa.jpg</thumbnail>
+			<fanart>https://i.ytimg.com/vi/uWs5lsWXLbo/maxresdefault.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Espiando a los Vecinos CAM SUB[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=PCyjzZuEH2w</link>
+	        <link>https://goo.gl/xW7rKF</link>	
+	        <thumbnail>http://paradard.com/images/cinemard/peliculas/2016/keeping_up_with_the_joneses.jpg</thumbnail>
+			<fanart>https://i1.wp.com/confidencialhn.com/wp-content/uploads/2016/10/Espiando-A-Los-Vecinos_20th_century_fox.jpg?fit=1326%2C760&ssl=1</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Sully 720P LAT[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=vF-8lb-sQjY</link>
+	        <link>https://goo.gl/DjQFmL</link>	
+	        <thumbnail>https://2.bp.blogspot.com/-BJl4AlyT69s/V99caW0YKqI/AAAAAAAAErs/PUb_naHqHDogZCQAEV-4e8khYo_MqGaZwCLcB/s1600/sully-711.jpg</thumbnail>
+			<fanart></fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Sully 720P SUB[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=vF-8lb-sQjY</link>
+	        <link>https://goo.gl/sOK49b</link>	
+	        <thumbnail>https://2.bp.blogspot.com/-BJl4AlyT69s/V99caW0YKqI/AAAAAAAAErs/PUb_naHqHDogZCQAEV-4e8khYo_MqGaZwCLcB/s1600/sully-711.jpg</thumbnail>
+			<fanart></fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Doctor Strange 720P TSHD[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=IBjLlxU6YN4</link>
+	        <link>https://goo.gl/FB3y4T</link>	
+	        <thumbnail>http://vignette3.wikia.nocookie.net/marvelcinematicuniverse/images/8/8a/Dr_Strange_Fuller_Textless_Poster.jpg/revision/latest/scale-to-width-down/335?cb=20160512000840</thumbnail>
+			<fanart>http://media.comicbook.com/2016/04/doctor-strange-city-bending-179855.jpeg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Kubo and the Two Strings Dual AUDIO 1080P[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=fPT1xEp2nEI</link>
+	        <link>https://goo.gl/NOiCDF</link>	
+	        <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c4/Kubo_and_the_Two_Strings_poster.png</thumbnail>
+			<fanart>http://cdn.gospelherald.com/data/images/full/19054/kubo-and-the-two-strings-is-a-film-that-will-be-appreciated.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Madea Boo CAM SUB[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=8E2YjN9K3JQ</link>
+	        <link>https://goo.gl/JqgzoQ</link>	
+	        <thumbnail>http://cdn.movieweb.com/img.site/PHoB22ugGPlFru_1_l.jpg</thumbnail>
+			<fanart>http://cdn.movieweb.com/img.site/PHoAYdqbtD1Yrx_1_l.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]War Dogs 720P Latino[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=7EGgvLSSVkY</link>
+	        <link>https://goo.gl/RBNfYt</link>	
+	        <thumbnail>http://static.rogerebert.com/uploads/movie/movie_poster/war-dogs-2016/large_war_dogs_ver2.jpg</thumbnail>
+			<fanart>http://blogs-images.forbes.com/markhughes/files/2016/08/WAR-DOGS-7-1200x630.jpg?width=960</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]The Thinning 720P SUB[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=g-7t0C5meb8</link>
+	        <link>https://goo.gl/A8BjD7</link>	
+	        <thumbnail>http://www.ramascreen.com/wp-content/uploads/2016/09/The-Thinning-e1475277915996.jpg</thumbnail>
+			<fanart>http://25o2zicw5jz372nu42fxtly6.wpengine.netdna-cdn.com/wp-content/uploads/2016/09/The-Thinning-YouTube.jpg</fanart>
+        </item>
+	   <item>
+	        <title>[COLOR white][B]Ouija 720 LAT[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=c71gTHFVfVg</link>
+	        <link>https://goo.gl/DdwcHA</link>	
+	        <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Ouija_two_xxlg.jpeg/220px-Ouija_two_xxlg.jpeg</thumbnail>
+			<fanart>http://releasedateportal.com/wp-content/uploads/2015/10/ouija-2-release-date-portal..jpg</fanart>
+        </item>
+     	<item>
+	        <title>[COLOR white][B]Miss Peregrines Home for Peculiar Children 720P LAT[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=VhJgNv8b_gs</link>
+	        <link>https://goo.gl/KP6N6j</link>	
+	        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/518hBjSgSUL.jpg</thumbnail>
+			<fanart>https://4.bp.blogspot.com/-p8doR22CO4c/V9tRFFnEzWI/AAAAAAAAFGs/ZBDb9ZctHHMgu6X-16WkDUs_hvb-YsAngCLcB/s1600/Miss%2BPeregrine%2527s%2BHome%2BFor%2BPeculiar%2BChildren%2Bposter.jpg</fanart>
+        </item>
+    	<item>
+	        <title>[COLOR white][B]Miss Peregrines Home for Peculiar Children 1080P SUB[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=VhJgNv8b_gs</link>
+	        <link>https://goo.gl/znOQTN</link>	
+	        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/518hBjSgSUL.jpg</thumbnail>
+			<fanart>https://4.bp.blogspot.com/-p8doR22CO4c/V9tRFFnEzWI/AAAAAAAAFGs/ZBDb9ZctHHMgu6X-16WkDUs_hvb-YsAngCLcB/s1600/Miss%2BPeregrine%2527s%2BHome%2BFor%2BPeculiar%2BChildren%2Bposter.jpg</fanart>
+        </item>
+	    <item>
+	        <title>[COLOR white][B]Que Culpa tiene el Nino? 1080P LAT[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=2TqNKMToCkQ</link>
+	        <link>https://goo.gl/HFDKB9</link>	
+	        <thumbnail>http://static.chilango.com/media/2016/04/12/que-culpa-tiene-el-nino-poster-variante.jpg</thumbnail>
+			<fanart>http://static.chilango.com/media/2016/04/12/que-culpa-tiene-el-nino-poster-variante.jpg</fanart>
+        </item>
+	    <item>
+	        <title>[COLOR white][B]El Bosque Siniestro 1080P LAT[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=TKLaJL5-N1M</link>
+			<link>plugin://plugin.video.youtube/play/?video_id=c4A8yWqPfSA</link>
+	        <link>https://goo.gl/aGG581</link>	
+	        <thumbnail>http://cinepremiere.impresionesaerea.netdna-cdn.com/trailers/2016/02-febrero/.thumb_El-bosque-siniestro-poster.jpg</thumbnail>
+        </item>
+	    <item>
+	        <title>[COLOR white][B]Jason Bourne 720P SUB[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=74AwPrS3ps8</link>
+	        <link>https://goo.gl/lbrWrU</link>	
+	        <thumbnail>http://i.imgur.com/O1iOXTe.jpg</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Terra Formars LIVE 720P SUB[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=Vu0ffMU1hKY</link>
+			<link>https://goo.gl/4yvjuL</link>
+	        <thumbnail>http://www.movpins.com/big/MV5BN2JmNjVhNmEtMGZhYy00NjEyLTk2ODgtOGRjYzczNzkyZTk1XkEyXkFqcGdeQXVyNjA2OTcwNzE/terra-formars-(2016).jpg</thumbnail>
+			<fanart>https://i.ytimg.com/vi/iG_LsbZGuTU/maxresdefault.jpg</fanart>
+        </item>
+	    <item>
+	        <title>[COLOR white][B]El Abogado del Mal HD SUB[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=aurMIy0wuu0</link>
+	        <link>https://goo.gl/fwqdHt</link>	
+	        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzI5MjYzNTEyNF5BMl5BanBnXkFtZTgwNjE5NTgwMDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+			<fanart>https://upload.wikimedia.org/wikipedia/en/4/44/The_Whole_Truth_2010_Intertitle.png</fanart>
+        </item>
+	    <item>
+	        <title>[COLOR white][B]AlleyCats HD Latino[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=tuz4jkoVxAM</link>
+			<link>https://goo.gl/RbtKwP</link>	
+	        <thumbnail>https://3.bp.blogspot.com/--hjWe00HUsY/V-OSWI4eYOI/AAAAAAAAAEI/SstJB5AUcDMJk6Qfj6FYzdKUscrDz8gBgCLcB/s1600/FilmAlleycats28201629.jpg</thumbnail>
+			<fanart>http://cineking.net/wp-content/uploads/2016/09/1388-Alleycats-2016-640x360.jpg</fanart>
+        </item>
+	    <item>
+	        <title>[COLOR white][B]King Kobra SUB 480P (LGBT PELI)[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=G6gSkeoRGJs</link>
+	        <link>https://goo.gl/IXHXGF</link>	
+	        <thumbnail>https://upload.wikimedia.org/wikipedia/en/7/79/King_Cobra_film_poster.jpg</thumbnail>
+			<fanart>http://www.movienewsguide.com/wp-content/uploads/2016/04/king-cobra-the-movie.png</fanart>
+        </item>
+	    <item>
+	        <title>[COLOR white][B]Snowden TSHQ SUB[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=KXwDl3ytdoY</link>
+	        <link>https://goo.gl/SOce1g</link>	
+	        <thumbnail>http://static.rogerebert.com/uploads/movie/movie_poster/snowden-2016/large_e5vQ0HztqucuLn2FK80QD2GSkfc.jpg</thumbnail>
+			<fanart>http://static.rogerebert.com/uploads/movie/movie_poster/snowden-2016/large_e5vQ0HztqucuLn2FK80QD2GSkfc.jpg</fanart>
+        </item>
+	    <item>
+	        <title>[COLOR white][B]Mi Amigo el Gigante 720P LAT[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=i_wj9vslRbU</link>
+			<link>https://goo.gl/ZHktAj</link>
+	        <thumbnail>https://2.bp.blogspot.com/-V2hFQ-5Sotg/V3vO_hLOS5I/AAAAAAAAFXM/al8MTK9lZxIwDydyoPerxrq46AORLr0PQCLcB/s640/650_1200.jpg</thumbnail>
+			<fanart>http://hirukide.com/wp-content/uploads/2016/07/mi-amigo-el-gigante.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Buscando a Dory 720P LAT[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=qbuTE_fLIOg</link>
+	        <link>https://goo.gl/IhTEhY</link>	
+	        <thumbnail>https://2.bp.blogspot.com/-4rsuEzgaPIU/V2yhIDkZaCI/AAAAAAAACAs/GIvRPXZ0UXsa2dTeFM1u78MutXwARqndwCKgB/s1600/BUSCANDO_A_DORY_1.jpg</thumbnail>
+			<fanart>http://i1.wp.com/seriesonday.com/wp-content/uploads/2016/05/BuscandoADory.png?resize=750%2C440</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]La Leyenda del Chupacabras TS SCREEN LAT[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=BaBKFgDqoKU</link>
+	        <link>https://goo.gl/bAeGUF</link>	
+	        <thumbnail>http://www.freedownloadmovies.info/wp-content/uploads/2016/10/La-Leyenda-del-Chupacabras.jpg</thumbnail>
+			<fanart></fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Mr Church DVDRIP Sub[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=sLhk0M2MTpo</link>
+	        <link>https://goo.gl/T23eBT</link>	
+	        <thumbnail>https://upload.wikimedia.org/wikipedia/en/8/8c/Mr._Church_poster.jpg</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Fiesta de Salchichas 1080P Espanol[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=DH1gUabvxZA</link>
+			<link>https://goo.gl/b9C0QX</link>	
+	        <thumbnail>http://es.web.img1.acsta.net/newsv7/16/10/04/13/57/450281.jpg</thumbnail>
+        </item>
+	   <item>
+	        <title>[COLOR white][B]XOXO 1080P Latino[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=pPQ2UAj90mc</link>
+			<link>https://goo.gl/XY948u</link>
+	        <thumbnail>https://lh4.ggpht.com/-3QSrv2vKMyg/V8ACM8MXjtI/AAAAAACvQCg/KID5MhiVaKY/w560/socialfeed-its-dropped-xoxo-is-nowonnetflixanz.jpg</thumbnail>
+        </item>
+	    <item>
+	        <title>[COLOR white][B]The Last King Sub[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=GsaiJvreByY</link>
+	        <link>https://goo.gl/mZMIRp</link>	
+	        <thumbnail>http://www.movierulz25.com/wp-content/uploads/2016/05/The_Last_King-105628679-large.jpg</thumbnail>
+        </item>
+	    <item>
+	        <title>[COLOR white][B]Gilda HDCAM Latino[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=DFNc4ppfIWY</link>
+	        <link>https://goo.gl/g3ujJr</link>	
+	        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZWZmZDY1NDMtMTBkMy00MjY0LTlkN2ItZDYyMzhjMzlhMmQ0XkEyXkFqcGdeQXVyMzA5NzYzNw@@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Patient Seven Sub 720P[/COLOR][/B]</title>
+			<link></link>
+	        <link></link>	
+	        <thumbnail>https://horrorpediadotcom.files.wordpress.com/2016/08/patient-seven-2016-horror-anthology-movie-danny-draven.jpg?w=500&h=750</thumbnail>
+        </item>
+     	<item>
+	        <title>[COLOR white][B]Train to Busan 720p sub[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=cvGSL5LowCY</link>
+			<link>https://goo.gl/imXwgV</link>
+	        <link>https://goo.gl/Wp2NpT</link>	
+	        <thumbnail>http://cdn.wegotthiscovered.com/wp-content/uploads/2016/07/2dcf15d772ce8275e4137e9cef7feddc.jpg</thumbnail>
+        </item>
+	     <item>
+	        <title>[COLOR white][B]Dont Breath 720P Subtitulada[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=mvEetUDCKxE</link>
+			<link>https://goo.gl/JsBmCw</link>	
+	        <thumbnail>http://www.utreradigital.com/web/wp-content/uploads/2016/09/No-respires.jpg</thumbnail>
+			<fanart>http://www.utreradigital.com/web/wp-content/uploads/2016/09/No-respires.jpg</fanart>
+        </item>
+	    <item>
+	        <title>[COLOR white][B]Captain Fantastic 720P Latino[/COLOR][/B]</title>
+	        <link>https://goo.gl/U2VpU8</link>	
+	        <thumbnail>https://theartscentregc.com.au/wp-content/uploads/2016/07/captain_fantastic-Cinema_WEB_poster_2.jpg</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Desierto 720P Latino[/COLOR][/B]</title>
+			<link></link>
+	        <link></link>	
+	        <thumbnail>http://veracruzanos.info/wp-content/uploads/2016/03/CcurbgMUcAAO36v.jpg</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Diving Into the Unknown 720P Sub[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=CQx2eosUlXY</link>
+	        <link>https://goo.gl/WTgBhT</link>	
+	        <thumbnail>http://www.newmoviesondvd.co.uk/wp-content/themes/newmoviesondvd/posters/diving-into-the-unknown-384262-poster.jpg</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Nerve 1080P DUAL AUDIO[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=AX1BTiHzq-I</link>
+	        <link>https://goo.gl/7D1Y0h</link>	
+	        <thumbnail>http://www.playnerve.com/assets/img/posters/items/poster05.jpg</thumbnail>
+			<fanart>http://www.playnerve.com/assets/img/posters/items/poster05.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Lights Out 1080P Latino[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=7Am_lQmXpz4</link>
+	        <link>https://goo.gl/ngRBGz</link>	
+	        <thumbnail>https://upload.wikimedia.org/wikipedia/en/d/dc/Lights_Out_2016_poster.jpg</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Momentum 720P SuB[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=0pbsqakNL1c</link>
+	        <link>https://goo.gl/INP7o2</link>	
+	        <thumbnail>http://horrorcultfilms.co.uk/wp-content/uploads/2016/01/momentum.jpg</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Stark Trek Mas Alla 720P Lat[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=3WLd0oC0xoc</link>
+	        <link>https://goo.gl/62GF0d</link>	
+	        <thumbnail>http://peliculaslatinomega.com/wp-content/uploads/2016/08/Star-Trek-Mas-Alla-2016.jpg</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]The Infiltrator Latino[/COLOR][/B]</title>
+			<link></link>
+	        <link></link>	
+	        <thumbnail>http://image.tmdb.org/t/p/w342/tnQ2TLwz82F3KXUCSMePPXviY1i.jpg</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Ice Age 5 El Gran Cataclismo Latino 1080P Dual Audio[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=FrxQro90Rbc</link>
+	        <link>https://goo.gl/X9dHAo</link>	
+	        <thumbnail>http://4.bp.blogspot.com/-DgYG5tsopDY/TV6ygDqSo5I/AAAAAAAAB-o/OzJUx4_Iyig/s275/la-era-de-hielo.jpg</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Alicia A Traves del Espejo 1080P SUB[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=JTR5ze8Wugc</link>
+	        <link>https://goo.gl/T3FCNP</link>	
+	        <thumbnail>http://criticsight.com/wp-content/uploads/2016/05/Alicia-a-Traves-del-Espejo-poster-teaser-mexico-latino-2016-critcsight.jpg</thumbnail>
+       	</item>
+		 <item>
+	        <title>[COLOR white][B]Skiptrace (Una Pareja Dispareja)720P Latino[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=1Hh2KFkXGdw</link>
+	        <link>http://goo.gl/1wunyK</link>	
+	        <thumbnail>https://1.bp.blogspot.com/-_V-EpkG-GxM/V3munTd_pWI/AAAAAAABP3A/6bc-s757ulAetjyn0Tgw-n7fPq3zp7ICACLcB/s1600/skiptrace%2Bnew%2Bposter.jpg</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]FreeState of Jones 720P sub[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=-8JahIwsbSI</link>
+	        <link>https://goo.gl/J0SX4M</link>	
+	        <thumbnail>https://upload.wikimedia.org/wikipedia/en/f/fb/Free_State_of_Jones_poster.png</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]The Shallows 1080P sub[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=-fuPZWfcWlkY</link>
+	        <link>https://goo.gl/rdb6An</link>	
+	        <thumbnail>http://static.rogerebert.com/uploads/movie/movie_poster/the-shallows-2016/large_6vuxwCfBejPfUjMxrPgk0ANmVFq.jpg</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Kickboxer Vengeance 720P SUB[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=Zv-jck__11E</link>
+	        <link>http://goo.gl/mCvlrU</link>	
+	        <thumbnail>http://gnula.nu/wp-content/uploads/2016/07/Kickboxer_Vengeance_poster_usa.jpg</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Mascotas Latino 720P[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=lcrroI4bBf8</link>
+	        <link>http://goo.gl/0uCpJT</link>	
+	        <thumbnail>http://addictedtoeverything.com/wp-content/uploads/2015/07/The_Secret_Life_of_Pets-logo-film-movie-2016-summer-july-8th-images-funny-pics-dogs-birds-pom-pug.jpg</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Batman Unlimited Mech vs Mutant 720P LATINO[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=ZPtGfy5B8uE</link>
+	        <link>http://goo.gl/y0zhGJ</link>	
+	        <thumbnail>http://img.123movies.to/2016/08/30/poster/8037334743df242eaf1b7392f489d48a-batman-unlimited-mech-vs-mutants-1472553113.jpg</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Tortugas Ninjas 2 1080P SUB[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=WO64HB4TJ6Y</link>
+	        <link>http://goo.gl/d8SJjI</link>	
+	        <thumbnail>http://tbsila.cdn.turner.com/tbsila/tntla/images/10192/377035/g/tmnt-2-poster-6-de-mayo-04.jpg</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Final Fantasy XV KingsGlaive 1080P SUB[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=Gl8PNTQRN98</link>
+	        <link>http://goo.gl/MJVfZ4</link>	
+	        <thumbnail>https://upload.wikimedia.org/wikipedia/en/9/93/Kingsglaive_Final_Fantasy_XV_main_key_visual.jpg</thumbnail>
+        </item>
+	    <item>
+	        <title>[COLOR white][B]Now You See Me 2 720P SUB[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=R86B0Ju5jYw</link>
+	        <link>https://goo.gl/pbDvkT</link>	
+	        <thumbnail>http://extraimago.com/images/2016/08/19/Now-You-See-Me-2-Blu-ray.jpg</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Warcraft 1080P SUB[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=ow-6rO-20Ng</link>
+	        <link>https://goo.gl/QmF8vQ</link>	
+	        <thumbnail>https://www.uphe.com/sites/default/files/styles/scale__344w_/public/Warcraft_PosterArt.jpg?itok=WyhZZIv6</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Captain America Civil War 1080P SUB[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=EypVzCe7qGs</link>
+	        <link>http://goo.gl/79ibuC</link>	
+	        <thumbnail>https://upload.wikimedia.org/wikipedia/en/5/53/Captain_America_Civil_War_poster.jpg</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]El Chapo El Escape del Siglo 720P LAT[/COLOR][/B]</title>
+	        <link>http://goo.gl/op524k</link>	
+	        <thumbnail>http://www.milenio.com/hey/cine/Chapo-escape-siglo_MILIMA20160112_0016_11.jpg</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Domiriquenos Calidad Bajita[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=pn2oFnJW3A4</link>
+	        <link>http://goo.gl/JQ9Twc</link>	
+	        <thumbnail>http://www.parking507.com/images/News_Photos/Jan16/Domirriquenos-27x40-poster.jpg</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Friend Request 480P SUB[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=sWArYbB8ing</link>
+	        <link>http://goo.gl/qIn0sY</link>	
+	        <thumbnail>http://www.athinorama.gr/lmnts/events/cinema/10052098/poster.jpg</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]El Conjuro 2 1080P Latino[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=hdwyVF97hgY</link>
+	        <link>http://goo.gl/0nR21r</link>	
+	        <thumbnail>http://www.desdelaplaza.com/wp-content/uploads/2016/07/Enfield-poster.jpg</thumbnail>
+        </item>
+		<item>
+	        <title>[COLOR white][B]I am Wrath 720P Latino[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=e-NUKZIGsm8</link>
+	        <link>https://goo.gl/1jMnyd</link>	
+	        <thumbnail>https://1.bp.blogspot.com/-idhfRkKBNg4/V5gETpDuMvI/AAAAAAAADb0/jutq6eNojjU-dyo8k-RvvClM1O42Q8KYACLcB/s1600/653.jpg</thumbnail>
+			<fanart>https://1.bp.blogspot.com/-idhfRkKBNg4/V5gETpDuMvI/AAAAAAAADb0/jutq6eNojjU-dyo8k-RvvClM1O42Q8KYACLcB/s1600/653.jpg</fanart>
+        </item>
+		<item>
+	        <title>[COLOR white][B]Guatdefoc 720P Latino[/COLOR][/B]</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=6oaKFWcqXDs</link>
+	        <link>https://goo.gl/WTXA94</link>	
+	        <thumbnail>http://images.meteociel.fr/im/9857/sundown_286607853_large_mrf4.jpg</thumbnail>
+			<fanart>http://images.meteociel.fr/im/9857/sundown_286607853_large_mrf4.jpg</fanart>
+        </item>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+	</items>
+</channel>
