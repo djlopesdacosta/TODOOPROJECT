@@ -2922,11 +2922,18 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item> 
 <title>[COLOR blue][B][I] SPORT TV 1 [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=11&amp;name=%5bCOLOR%20FF11b500%5dSport-tv-1-pt%5b%2fCOLOR%5d&amp;url=aGRmcmVlOmh0dHA6Ly9iaWdzcG9ydHMubWUvd2F0Y2gvNzYvc3BvcnQtdHYtMS1wdC1saXZlLXN0cmVhbS5odG1s</jsonrpc>
+
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDpodHRwOi8vNTEuMTUuNTQuMTg0OjgwODEveHl6L3Nwb3J0c3R2MS9wbGF5bGlzdC5tM3U4&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DSports+tv+1%5B%2FCOLOR%5D</jsonrpc>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 
+<item> 
+<title>[COLOR blue][B][I] SPORT TV 1 [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=11&amp;name=%5bCOLOR%20FF11b500%5dSport-tv-1-pt%5b%2fCOLOR%5d&amp;url=aGRmcmVlOmh0dHA6Ly9iaWdzcG9ydHMubWUvd2F0Y2gvNzYvc3BvcnQtdHYtMS1wdC1saXZlLXN0cmVhbS5odG1s</jsonrpc>
+
+<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
+</item>
 
 
 
