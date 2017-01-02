@@ -5,7 +5,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime] [COLOR white][B] [COLOR lime]|||[/COLOR] Update 28-12-2016 [COLOR red]|||[/COLOR][/B][/COLOR] </name>
+<name>[COLOR lime] [COLOR white][B] [COLOR lime]|||[/COLOR] Update 02-01-2017 [COLOR red]|||[/COLOR][/B][/COLOR] </name>
 <externallink>http://tv-super-tuga-add-estrutura.comlu.com/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA/Menu%200-%20tvsuper%20tuga.xml</externallink>
 <fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
 <thumbnail>http://www.esar.edu.pt/portal/images/outros/icon.jpg</thumbnail>
@@ -53,7 +53,7 @@
 <title>[COLOR=red][B][I] RTP 1 HD [/I][/B][/COLOR][COLOR=cyan]    [/COLOR]</title>
 
 <link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/9.m3u8</link>
-
+<link>http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/KodiPortugal.pt.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 <fanart>http://4.fotos.web.sapo.io/i/oc913ed30/18864727_W0533.png</fanart>
 </item>
@@ -81,7 +81,7 @@
 <item>
 <title>[COLOR=red][B][I] RTP 2 HD [/I][/B][/COLOR]  [COLOR=cyan]      [/COLOR]</title>
 
-<link>http://94.61.211.124:8010/play/a01h</link>
+<link>http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/KodiPortugal.pt.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452</link>
 	 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>
 <fanart>http://media.rtp.pt/extra/wp-content/uploads/sites/22/2015/05/RTP2.jpg</fanart>
@@ -161,7 +161,7 @@
 
 
 <item>
-<title>[COLOR=red][B][I] SIC HD [/I][/B][/COLOR]   [COLOR=cyan]F4MTESTER[/COLOR]</title>
+<title>[COLOR=red][B][I] SIC HD [/I][/B][/COLOR]   [COLOR=cyan][/COLOR]</title>
 
 <link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/18.m3u8</link>
 <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
@@ -213,7 +213,7 @@
 
 
 <item>
-<title>[COLOR=red][B][I] TVI HD [/I][/B][/COLOR]   [COLOR=cyan]F4MTESTER[/COLOR]</title>
+<title>[COLOR=red][B][I] TVI HD [/I][/B][/COLOR]   [COLOR=cyan][/COLOR]</title>
 
 <link></link>
 
@@ -452,8 +452,10 @@
 
 <item>
 <title>[COLOR=cyan][B][I] SIC NOTICIAS HD [/I][/B][/COLOR][COLOR=red](Full HD)[/COLOR]</title>
+
+<link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link>
+
 <link>http://94.61.211.124:8010/play/a010</link>
-<link>http://www.q7t1.com:8000/live/maht/maht/1123.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicn.png</thumbnail>
 </item>
 
@@ -508,7 +510,7 @@
 
 <item>
 <title>[COLOR=cyan][B][I] TVI 24 HD [/I][/B][/COLOR]      [COLOR=orange][/COLOR]</title>
-
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/KodiPortugal.pt.m3u8</link>
 <link>http://94.61.211.124:8010/play/a00y</link>
  
 <link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8</link>
@@ -1441,7 +1443,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 
 <title>[COLOR=white][B][I] TVI REALITY [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
-<link>http://gochannelstv.dyndns.tv:80/p103tvireality/index.m3u8</link>
+<link>http://213.188.51.185:9981/play/a007</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
 </item>
 
@@ -1451,7 +1453,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item>
 <title>[COLOR=white][B][I] TVI REALITY SD [/I][/B][/COLOR]</title>
 
-<link>http://gochannelstv.dyndns.tv:80/p103tvireality/index.m3u8</link>
+<link>http://liveitpremium.gleeze.com:8000/live/marco/marco/86.m3u8</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
 </item>
 
@@ -1466,16 +1468,16 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 
 <item>
-<title>[COLOR=white][B][I] CAMARA REALITY [/I][/B][/COLOR]   [COLOR lime]F4MTESTER[/COLOR]</title>
+<title>[COLOR=white][B][I] TVI REALITY CAMARAS [/I][/B][/COLOR]   [COLOR lime][/COLOR]</title>
 
-
+<link>http://liveitpremium.gleeze.com:8000/live/marco/marco/2822.m3u8</link>
 
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR=white][B][I] MOSAICO TVI REALITY  [/I][/B][/COLOR]   [COLOR lime]F4MTESTER[/COLOR]</title> 
+<title>[COLOR=white][B][I] MOSAICO TVI REALITY  [/I][/B][/COLOR]   [COLOR lime][/COLOR]</title> 
 
 
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
@@ -2885,7 +2887,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <title>[COLOR blue] [I]SPORT TV +[/I] [/COLOR] [COLOR orange]     [/COLOR]</title>
 
 <link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/3.m3u8</link>
-
+<link>http://213.188.51.185:9981/play/a00g</link>
 <thumbnail>http://www.onlinenatv.com/wp-content/uploads/2016/10/sport.tv_.portugal.jpg?x78568</thumbnail>
 <fanart></fanart>
 </item>
