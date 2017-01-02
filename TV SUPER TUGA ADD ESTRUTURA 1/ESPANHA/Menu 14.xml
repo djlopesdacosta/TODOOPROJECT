@@ -3141,535 +3141,194 @@ turquoise
 </regex>
 </item>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <item>
-<title>ES 13 TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9101.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES 13 TV </link>
+<title>ES:CANAL_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/479.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_1 </link>
 </item>
 <item>
-<title>ES 40 TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9102.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES 40 TV </link>
+<title>ES:CANAL_TOROS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/385.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_TOROS </link>
 </item>
 <item>
-<title>ES 8TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9103.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES 8TV </link>
+<title>ES:CANAL_LIGA2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2970.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_LIGA2 </link>
 </item>
 <item>
-<title>ES A & E</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9104.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES A & E </link>
+<title>ES:CANAL_GOLF</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/387.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_GOLF </link>
 </item>
 <item>
-<title>ES A3 Series</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9105.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES A3 Series </link>
+<title>ES:CANAL_FUTBOL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/388.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_FUTBOL </link>
 </item>
 <item>
-<title>ES AMC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9106.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES AMC </link>
+<title>ES:CANAL_DEPORTES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2036.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_DEPORTES </link>
 </item>
 <item>
-<title>ES Andalucia TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9107.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Andalucia TV </link>
+<title>ES:CANAL_DEPORTES2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2972.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_DEPORTES2 </link>
 </item>
 <item>
-<title>ES Anime TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9108.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Anime TV </link>
+<title>ES:CANAL_COMEDIA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/389.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_COMEDIA </link>
 </item>
 <item>
-<title>ES Antena 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9109.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Antena 3 HD </link>
+<title>ES:CANAL_ACCION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/481.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_ACCION </link>
 </item>
 <item>
-<title>ES AXN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9110.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES AXN </link>
+<title>ES:CANAL_XTRA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2973.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_XTRA </link>
 </item>
 <item>
-<title>ES AXN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9111.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES AXN HD </link>
+<title>ES:nova</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/480.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:nova </link>
 </item>
 <item>
-<title>ES AXN White</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9112.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES AXN White </link>
+<title>ES:BEIN_LA_LIGA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/3112.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:BEIN_LA_LIGA </link>
 </item>
 <item>
-<title>ES Azteca 7 (Mexico)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9113.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Azteca 7 (Mexico) </link>
+<title>ES:Barca</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/484.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Barca </link>
 </item>
 <item>
-<title>ES Azteca Noticias (Mexico)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9114.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Azteca Noticias (Mexico) </link>
+<title>ES:EUROSPORT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1668.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:EUROSPORT </link>
 </item>
 <item>
-<title>ES Barca TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9115.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Barca TV </link>
+<title>ES:CANAL_ESTRENOS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1853.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_ESTRENOS </link>
 </item>
 <item>
-<title>ES Bein Sport La Liga HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9116.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Bein Sport La Liga HD </link>
+<title>ES:CANAL_DCINE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/482.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_DCINE </link>
 </item>
 <item>
-<title>ES BeIN Sports</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9117.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES BeIN Sports </link>
+<title>ES:ODISEA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1857.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:ODISEA </link>
 </item>
 <item>
-<title>ES Blica Dominicana</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9118.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Blica Dominicana </link>
+<title>ES:CAZA_Y_PESCA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2974.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CAZA_Y_PESCA </link>
 </item>
 <item>
-<title>ES Boing</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9119.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Boing </link>
+<title>ES:A & E</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2975.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:A & E </link>
 </item>
 <item>
-<title>ES Calle 13</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9120.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Calle 13 </link>
+<title>ES:CANAL_DE_LASESTRELLAS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1856.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_DE_LASESTRELLAS </link>
 </item>
 <item>
-<title>ES Canal   Accion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9121.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Canal   Accion </link>
+<title>ES:LA_SEXTA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/382.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:LA_SEXTA </link>
 </item>
 <item>
-<title>ES Canal   Estrenos</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9122.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Canal   Estrenos </link>
+<title>ES:REAL_MADRID</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1662.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:REAL_MADRID </link>
 </item>
 <item>
-<title>ES Canal  Comedia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9123.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Canal  Comedia </link>
+<title>ES:EURONEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1806.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:EURONEWS </link>
 </item>
 <item>
-<title>ES Canal  Series</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9124.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Canal  Series </link>
+<title>ES:DISNEY_JUNIOR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2928.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DISNEY_JUNIOR </link>
 </item>
 <item>
-<title>ES Canal  Series Xtra</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9125.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Canal  Series Xtra </link>
+<title>ES:SYFY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1876.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:SYFY </link>
 </item>
 <item>
-<title>ES Canal #0</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9126.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Canal #0 </link>
+<title>ES:MoviStar_MotoGp</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1877.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:MoviStar_MotoGp </link>
 </item>
 <item>
-<title>ES Canal 24 Horas</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9127.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Canal 24 Horas </link>
+<title>ES:DISNEY_CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1671.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DISNEY_CHANNEL </link>
 </item>
 <item>
-<title>ES Canal Baby</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9128.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Canal Baby </link>
+<title>ES:CUATRO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1673.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CUATRO </link>
 </item>
 <item>
-<title>ES Canal Cocina</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9129.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Canal Cocina </link>
+<title>ES:TELECINCO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1660.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TELECINCO </link>
 </item>
 <item>
-<title>ES Canal Costa</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9130.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Canal Costa </link>
+<title>ES:NATIONAL_GEOGRAPHIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1664.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:NATIONAL_GEOGRAPHIC </link>
 </item>
 <item>
-<title>ES Canal De Las Estrellas</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9131.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Canal De Las Estrellas </link>
+<title>ES:MOVISTAR_F1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1661.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:MOVISTAR_F1 </link>
 </item>
 <item>
-<title>ES Canal Deporte Olampico HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9132.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Canal Deporte Olampico HD </link>
+<title>ES:La2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1666.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:La2 </link>
 </item>
 <item>
-<title>ES Canal Once</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9133.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Canal Once </link>
+<title>ES:La1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1667.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:La1 </link>
 </item>
 <item>
-<title>ES Canal U (Colombia)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9134.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Canal U (Colombia) </link>
+<title>ES:HOLLYWOOD_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/973.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:HOLLYWOOD_HD </link>
 </item>
 <item>
-<title>ES Cartoon Network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9135.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Cartoon Network </link>
+<title>ES:HISTORIA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/381.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:HISTORIA </link>
 </item>
 <item>
-<title>ES Caza y Pesca</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9136.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Caza y Pesca </link>
+<title>ES:GALICIA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1669.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:GALICIA </link>
 </item>
 <item>
-<title>ES Clan TVE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9137.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Clan TVE </link>
+<title>ES:FOX_LIFE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1665.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:FOX_LIFE </link>
 </item>
 <item>
-<title>ES Comedy Central</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9138.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Comedy Central </link>
+<title>ES:FOX1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1670.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:FOX1 </link>
 </item>
 <item>
-<title>ES Condavision</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9139.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Condavision </link>
+<title>ES:CLAN_TVE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1676.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CLAN_TVE </link>
 </item>
 <item>
-<title>ES Cosmopolitan HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9140.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Cosmopolitan HD </link>
+<title>ES:CALLE_13</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/969.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CALLE_13 </link>
 </item>
 <item>
-<title>ES CUATRO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9141.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES CUATRO </link>
+<title>ES:AXN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/487.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:AXN </link>
 </item>
 <item>
-<title>ES Dcine Espanol</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9142.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Dcine Espanol </link>
+<title>ES:ANTENNA3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1675.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:ANTENNA3 </link>
 </item>
 <item>
-<title>ES De Casa</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9143.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES De Casa </link>
-</item>
-<item>
-<title>ES Discovery Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9144.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Discovery Channel </link>
-</item>
-<item>
-<title>ES Discovery Dmax</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9145.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Discovery Dmax </link>
-</item>
-<item>
-<title>ES Disney Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9146.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Disney Channel </link>
-</item>
-<item>
-<title>ES Disney Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9147.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Disney Junior </link>
-</item>
-<item>
-<title>ES Disney XD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9148.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Disney XD </link>
-</item>
-<item>
-<title>ES Distrito Comedia (Mexico)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9149.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Distrito Comedia (Mexico) </link>
-</item>
-<item>
-<title>ES Divinity</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9150.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Divinity </link>
-</item>
-<item>
-<title>ES Dkiss</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9151.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Dkiss </link>
-</item>
-<item>
-<title>ES DW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9152.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES DW </link>
-</item>
-<item>
-<title>ES DXTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9153.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES DXTV </link>
-</item>
-<item>
-<title>ES El Pinguino HD (Chile)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9154.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES El Pinguino HD (Chile) </link>
-</item>
-<item>
-<title>ES El Trece ( Argentina)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9155.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES El Trece ( Argentina) </link>
-</item>
-<item>
-<title>ES Energy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9156.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Energy </link>
-</item>
-<item>
-<title>ES Eurosport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9157.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Eurosport 1 HD </link>
-</item>
-<item>
-<title>ES Eurosport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9158.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Eurosport 2 </link>
-</item>
-<item>
-<title>ES FDF</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9159.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES FDF </link>
-</item>
-<item>
-<title>ES Fox HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9160.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Fox HD </link>
-</item>
-<item>
-<title>ES Fox Life</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9161.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Fox Life </link>
-</item>
-<item>
-<title>ES Gol TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9162.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Gol TV </link>
-</item>
-<item>
-<title>ES Historia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9163.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Historia </link>
-</item>
-<item>
-<title>ES Hollywood HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9164.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Hollywood HD </link>
-</item>
-<item>
-<title>ES Honduras</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9165.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Honduras </link>
-</item>
-<item>
-<title>ES Iberalia TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9166.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Iberalia TV </link>
-</item>
-<item>
-<title>ES La 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9167.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES La 1 </link>
-</item>
-<item>
-<title>ES La 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9168.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES La 1 HD </link>
-</item>
-<item>
-<title>ES La 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9169.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES La 2 </link>
-</item>
-<item>
-<title>ES La Liga</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9170.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES La Liga </link>
-</item>
-<item>
-<title>ES La Sexta HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9171.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES La Sexta HD </link>
-</item>
-<item>
-<title>ES M Cine Ñ</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9172.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES M Cine Ñ </link>
-</item>
-<item>
-<title>ES Mega HD (Chile)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9173.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Mega HD (Chile) </link>
-</item>
-<item>
-<title>ES Mega HD (Spain)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9174.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Mega HD (Spain) </link>
-</item>
-<item>
-<title>ES Mega TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9175.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Mega TV </link>
-</item>
-<item>
-<title>ES Mirame Tv</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9176.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Mirame Tv </link>
-</item>
-<item>
-<title>ES Movistar  Deportes 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9177.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Movistar  Deportes 1 </link>
-</item>
-<item>
-<title>ES Movistar  Deportes 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9178.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Movistar  Deportes 2 </link>
-</item>
-<item>
-<title>ES Movistar  Formula 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9179.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Movistar  Formula 1 </link>
-</item>
-<item>
-<title>ES Movistar  Futbol</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9180.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Movistar  Futbol </link>
-</item>
-<item>
-<title>ES Movistar  Golf</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9181.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Movistar  Golf </link>
-</item>
-<item>
-<title>ES Movistar  Xtra HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9182.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Movistar  Xtra HD </link>
-</item>
-<item>
-<title>ES Movistar Moto GP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9183.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Movistar Moto GP </link>
-</item>
-<item>
-<title>ES MTV Espana</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9184.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES MTV Espana </link>
-</item>
-<item>
-<title>ES National Geographic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9185.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES National Geographic </link>
-</item>
-<item>
-<title>ES National Geographic HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9186.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES National Geographic HD </link>
-</item>
-<item>
-<title>ES National Geographic Wild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9187.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES National Geographic Wild </link>
-</item>
-<item>
-<title>ES Navarra Tv</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9188.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Navarra Tv </link>
-</item>
-<item>
-<title>ES Neox</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9189.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Neox </link>
-</item>
-<item>
-<title>ES Nick Jr.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9190.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Nick Jr. </link>
-</item>
-<item>
-<title>ES Nickelodeon</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9191.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Nickelodeon </link>
-</item>
-<item>
-<title>ES Nova</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9192.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Nova </link>
-</item>
-<item>
-<title>ES Odisea</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9193.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Odisea </link>
-</item>
-<item>
-<title>ES Onda Azul</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9194.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Onda Azul </link>
-</item>
-<item>
-<title>ES Ondaluz Sierra</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9195.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Ondaluz Sierra </link>
-</item>
-<item>
-<title>ES Paramount Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9196.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Paramount Channel </link>
-</item>
-<item>
-<title>ES PDVSA TV (Venezuela)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9197.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES PDVSA TV (Venezuela) </link>
-</item>
-<item>
-<title>ES Proyecto 40</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9198.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Proyecto 40 </link>
-</item>
-<item>
-<title>ES Proyecto 40 - Mexico</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9199.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Proyecto 40 - Mexico </link>
-</item>
-<item>
-<title>ES Real MadridTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9200.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Real MadridTV </link>
-</item>
-<item>
-<title>ES Red Advenir</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9201.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Red Advenir </link>
-</item>
-<item>
-<title>ES RTS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9202.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES RTS </link>
-</item>
-<item>
-<title>ES RTV Canarias</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9203.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES RTV Canarias </link>
-</item>
-<item>
-<title>ES SyFy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9204.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES SyFy </link>
-</item>
-<item>
-<title>ES SyFy HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9205.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES SyFy HD </link>
-</item>
-<item>
-<title>ES Taquilla 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9206.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Taquilla 1 </link>
-</item>
-<item>
-<title>ES Taquilla 10</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9207.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Taquilla 10 </link>
-</item>
-<item>
-<title>ES Taquilla 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9208.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Taquilla 2 </link>
-</item>
-<item>
-<title>ES Taquilla 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9209.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Taquilla 3 </link>
-</item>
-<item>
-<title>ES Taquilla 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9210.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Taquilla 4 </link>
-</item>
-<item>
-<title>ES Taquilla 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9211.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Taquilla 5 </link>
-</item>
-<item>
-<title>ES Taquilla 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9212.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Taquilla 6 </link>
-</item>
-<item>
-<title>ES Taquilla 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9213.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Taquilla 7 </link>
-</item>
-<item>
-<title>ES Taquilla 8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9214.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Taquilla 8 </link>
-</item>
-<item>
-<title>ES Taquilla 9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9215.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Taquilla 9 </link>
-</item>
-<item>
-<title>ES TCM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9216.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES TCM </link>
-</item>
-<item>
-<title>ES Telecinco</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9217.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Telecinco </link>
-</item>
-<item>
-<title>ES Teledeporte</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9218.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Teledeporte </link>
-</item>
-<item>
-<title>ES Telemundo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9219.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Telemundo </link>
-</item>
-<item>
-<title>ES Teleticino</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9220.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Teleticino </link>
-</item>
-<item>
-<title>ES TELEVISA HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9221.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES TELEVISA HD </link>
-</item>
-<item>
-<title>ES Telpin Canal 2 HD Argentina</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9222.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Telpin Canal 2 HD Argentina </link>
-</item>
-<item>
-<title>ES Ten</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9223.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Ten </link>
-</item>
-<item>
-<title>ES TNT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9224.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES TNT </link>
-</item>
-<item>
-<title>ES Toros TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9225.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Toros TV </link>
-</item>
-<item>
-<title>ES Travel TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9226.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Travel TV </link>
-</item>
-<item>
-<title>ES TV Galicia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9227.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES TV Galicia </link>
-</item>
-<item>
-<title>ES TV Mas</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9228.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES TV Mas </link>
-</item>
-<item>
-<title>ES TV5 Monde Amerique Latine</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9229.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES TV5 Monde Amerique Latine </link>
-</item>
-<item>
-<title>ES TVN Chile</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9230.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES TVN Chile </link>
-</item>
-<item>
-<title>ES TVN Cihile HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9231.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES TVN Cihile HD </link>
-</item>
-<item>
-<title>ES Viajar HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9232.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Viajar HD </link>
-</item>
-<item>
-<title>ES Viva Nicaragua Canal 13</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9233.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Viva Nicaragua Canal 13 </link>
+<title>ES:ANDALUCIA_TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1807.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:ANDALUCIA_TV </link>
 </item>

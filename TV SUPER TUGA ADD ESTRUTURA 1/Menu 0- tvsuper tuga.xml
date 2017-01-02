@@ -2337,13 +2337,10 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 
 <item>
-<title>[COLOR magenta] [I] TV CINE 2 HD [/I] [/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
+<title>[COLOR magenta] [I] TV CINE 2 HD [/I] [/COLOR] [COLOR=lime][/COLOR]</title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/712.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 2 HD </link>
+<link>http://voddownload01.video.globo.com/v0/0e/f3/d0/5013949_d0414a4da0b9bacda59f2d182d44fcdff59aa445/5013949-web360.mp4?h=0502461865951845045864874618659638192435244067DwStopMJnKZoiDt4KN4A&k=ads </link>
 
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/742.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 2 </link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2789.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCINE_2_HD </link>
 
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine2.png</thumbnail>
 </regex>
@@ -2357,13 +2354,10 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 
 <item>
-<title>[COLOR magenta] [I] TV CINE 3 [/I] [/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
+<title>[COLOR magenta] [I] TV CINE 3 [/I] [/COLOR] [COLOR=lime][/COLOR]</title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/711.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 3 HD </link>
+<link>https://voddownload01.video.globo.com/v0/f1/9c/b7/5223032_b7f2cdcd00d5b755b0ac47f15a197fb6bf8e8a31/5223032-web360.mp4?h=05024626533251035508092146265333712434894401t0QRCxRgL8nUOXro7cqRSw&k=ads</link>
 
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/741.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 3 </link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2790.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCINE_3_HD </link>
 
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine3.png</thumbnail>
 </regex>
