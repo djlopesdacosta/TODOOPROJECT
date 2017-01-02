@@ -5,7 +5,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime] [COLOR white][B] [COLOR lime]|||[/COLOR] Update 02-01-2017 [COLOR red]|||[/COLOR][/B][/COLOR] </name>
+<name>[COLOR lime] [COLOR white][B] [COLOR lime]|||[/COLOR] Update 03-01-2017 [COLOR red]|||[/COLOR][/B][/COLOR] </name>
 <externallink>http://tv-super-tuga-add-estrutura.comlu.com/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA/Menu%200-%20tvsuper%20tuga.xml</externallink>
 <fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
 <thumbnail>http://www.esar.edu.pt/portal/images/outros/icon.jpg</thumbnail>
@@ -51,7 +51,7 @@
 
 <item>
 <title>[COLOR=red][B][I] RTP 1 HD [/I][/B][/COLOR][COLOR=cyan]    [/COLOR]</title>
-
+<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/9.m3u8</link>
 <link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/9.m3u8</link>
 <link>http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/KodiPortugal.pt.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
@@ -82,7 +82,8 @@
 <title>[COLOR=red][B][I] RTP 2 HD [/I][/B][/COLOR]  [COLOR=cyan]      [/COLOR]</title>
 
 <link>http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/KodiPortugal.pt.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452</link>
-	 
+<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/41.m3u8</link>
+	<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2320.m3u8</link>	 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>
 <fanart>http://media.rtp.pt/extra/wp-content/uploads/sites/22/2015/05/RTP2.jpg</fanart>
 </item>
@@ -319,9 +320,9 @@
 
 
 <item>
-<title>[COLOR=lime][B][I]  RTP MADEIRA HD [/I][/B][/COLOR]   [COLOR=cyan]F4MTESTER[/COLOR]</title>
+<title>[COLOR=lime][B][I]  RTP MADEIRA HD [/I][/B][/COLOR]   [COLOR=cyan][/COLOR]</title>
 
-
+<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2318.m3u8</link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpmadeira.png</thumbnail>
 </item>
@@ -352,9 +353,9 @@
 
 
 <item>
-<title>[COLOR=lime][B][I] RTP MEMORIA HD [/I][/B][/COLOR]    [COLOR=cyan]F4MTESTER[/COLOR]</title>
+<title>[COLOR=lime][B][I] RTP MEMORIA HD [/I][/B][/COLOR]    [COLOR=cyan][/COLOR]</title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1410.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_MEMORIA </link>
+<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2319.m3u8 </link>
  
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpm.png</thumbnail>
@@ -442,16 +443,16 @@
 
 
 <item>
-<title>[COLOR=cyan][B][I] SIC NOTICIAS HD [/I][/B][/COLOR]      [COLOR=orange]F4MTESTER[/COLOR]</title>
+<title>[COLOR=cyan][B][I] SIC NOTICIAS HD [/I][/B][/COLOR]      [COLOR=orange][/COLOR]</title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1123.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_NOTICIAS </link>
+<link>http://213.188.51.185:9981/play/a00k </link>
 
 <thumbnail>http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR=cyan][B][I] SIC NOTICIAS HD [/I][/B][/COLOR][COLOR=red](Full HD)[/COLOR]</title>
+<title>[COLOR=cyan][B][I] SIC NOTICIAS SD [/I][/B][/COLOR][COLOR=red]()[/COLOR]</title>
 
 <link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link>
 
@@ -673,9 +674,9 @@ SIC NOTICIAS
 
 
 <item>
-<title>[COLOR=cyan][B][I] A BOLA TV HD [/I][/B][/COLOR][COLOR=orange]F4MTESTER[/COLOR]</title>
+<title>[COLOR=cyan][B][I] A BOLA TV HD [/I][/B][/COLOR][COLOR=orange][/COLOR]</title>
 
-
+<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/2.m3u8</link>
 
 <thumbnail>http://s20.postimg.org/u3s3bcbb1/a_bola_tv.jpg</thumbnail>
 </item>
@@ -1090,9 +1091,9 @@ SIC NOTICIAS
 </item>
 
 <item>
-<title>[COLOR=grey][B][I] NICKELODEON HD [/I][/B][/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
+<title>[COLOR=grey][B][I] NICKELODEON HD [/I][/B][/COLOR] [COLOR=lime][/COLOR]</title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1394.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_NICKELODEON </link>
+<link>http://213.188.51.185:9981/play/a00b</link>
 
 <thumbnail>http://www.thelogodb.com/images/media/logo/vrsuxp1434268186.png</thumbnail>
 </item>
@@ -1116,9 +1117,9 @@ SIC NOTICIAS
 
 
 <item>
-<title>[COLOR=grey][B][I] DISNEY JUNIOR  [/I][/B][/COLOR]    [COLOR=lime]F4MTESTER[/COLOR]  </title>
+<title>[COLOR=grey][B][I] DISNEY JUNIOR  [/I][/B][/COLOR]    [COLOR=lime][/COLOR]  </title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3083.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_DISNEY_JUNIOR </link>
+<link>http://213.188.51.185:9981/play/a00n</link>
 
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -1132,9 +1133,9 @@ SIC NOTICIAS
 
 
 <item>
-<title>[COLOR=grey][B][I] DISNEY CHANNEL HD[/I][/B][/COLOR]     [COLOR=lime]F4MTESTER[/COLOR]    </title>
+<title>[COLOR=grey][B][I] DISNEY CHANNEL HD[/I][/B][/COLOR]     [COLOR=lime][/COLOR]    </title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1162.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_DISNEY_CHANNEL </link>
+<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2368.m3u8 </link>
 
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -1293,7 +1294,7 @@ SIC NOTICIAS
 <item>   
 <title>[COLOR=white][B][I] A&E [/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR]</title> 
 
-
+<link>http://213.188.51.185:9981/play/a00f</title>
  
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/170px-A%26E_Network_logo.svg.png</thumbnail>
 </item>
@@ -1302,7 +1303,7 @@ SIC NOTICIAS
 <item>   
 <title>[COLOR=white][B][I]TLC [/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR]  </title> 
 
-
+<link>http://213.188.51.185:9981/play/a00m</title>
 
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/a/a0/The_Learning_Channel_HD.png/revision/latest?cb=20110408023649</thumbnail>
 </item>
@@ -1311,7 +1312,7 @@ SIC NOTICIAS
 
 <item>   
 <title>[COLOR=white][B][I] SIC MULHER HD[/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR] </title>
-
+<link>http://213.188.51.185:9981/play/a00e</link>
 <link>http://94.61.211.124:8010/play/a00w</link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicm.png</thumbnail>
@@ -1347,9 +1348,9 @@ SIC NOTICIAS
 
 
 <item>   
-<title>[COLOR=white][B][I] SIC RADICAL HD [/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR]  </title> 
+<title>[COLOR=white][B][I] SIC RADICAL HD [/I][/B][/COLOR] [COLOR yellow]  [/COLOR]  </title> 
 
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1159.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_RADICAL </link>
+<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2370.m3u8 </link>
 
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicr.png</thumbnail>
@@ -1931,9 +1932,9 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 </item>
 
 <item>
-<title>[COLOR white] [I] VH1 [/I] [/COLOR]  [COLOR yellow] F4MTESTER [/COLOR]</title>
+<title>[COLOR white] [I] VH1 CLASSIC[/I] [/COLOR]  [COLOR yellow]  [/COLOR]</title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/499.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_VH1 </link>
+<link>http://213.188.51.185:9981/play/a011 </link>
 
 <thumbnail>http://ib3.huluim.com/company_key_art/370?size=1600x600&region=US</thumbnail>
 </regex>
@@ -1980,11 +1981,10 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 
 <item>
-<title>[COLOR=magenta][B][I] AXN HD [/I][/B][/COLOR]   [COLOR yellow]F4MTESTER[/COLOR]  </title>
+<title>[COLOR=magenta][B][I] AXN HD [/I][/B][/COLOR]   [COLOR yellow][/COLOR]  </title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3065.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - AXN HD </link>
+<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2308.m3u8 </link>
 
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1812.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN_HD </link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/axn.png</thumbnail>
 </item> 
@@ -2019,11 +2019,9 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 
 <item>
-<title>[COLOR=magenta][B][I]  AXN WHITE [/I][/B][/COLOR] [COLOR yellow]F4MTESTER[/COLOR]  </title>
+<title>[COLOR=magenta][B][I]  AXN WHITE [/I][/B][/COLOR] [COLOR yellow][/COLOR]  </title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1155.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN_WHITE_HD </link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3066.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - AXN WHITE HD </link>
+<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2309.m3u8 </link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/axnwhitehd.png</thumbnail>
 </regex>
@@ -2058,11 +2056,9 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 
 <item>
-<title>[COLOR=magenta][B][I]  AXN BLACK HD [/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR]  </title>
+<title>[COLOR=magenta][B][I]  AXN BLACK HD [/I][/B][/COLOR] [COLOR yellow]  [/COLOR]  </title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1156.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN_BLACK_HD </link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3067.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - AXN BLACK HD </link>
+<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2310.m3u8 </link>
 
 <thumbnail>http://www.thelogodb.com/images/media/logo/tstsvx1445114284.png</thumbnail>
 </regex>
@@ -2110,11 +2106,9 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 
 <item>
-<title>[COLOR=magenta][B][I]  FOX MOVIES HD [/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR]  </title>
+<title>[COLOR=magenta][B][I]  FOX MOVIES HD [/I][/B][/COLOR] [COLOR yellow]  [/COLOR]  </title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1148.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FOX_MOVIES </link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3064.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX MOVIES </link>
+<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2312.m3u8 </link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/fox.png</thumbnail>
 </regex>
@@ -2149,11 +2143,9 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 
 <item>
-<title>[COLOR=magenta][B][I]  FOX CRIME HD [/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR]  </title>
+<title>[COLOR=magenta][B][I]  FOX CRIME HD [/I][/B][/COLOR] [COLOR yellow] [/COLOR]  </title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1151.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FOX_CRIME_HD </link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3063.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX CRIME </link>
+<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2314.m3u8</link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxcrime.png</thumbnail>
 </item> 
@@ -2189,9 +2181,9 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item>
 <title>[COLOR=magenta][B][I]   FOX LIFE HD [/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR]  </title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1150.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FOX_LIFE_HD </link>
+<link>http://213.188.51.185:9981/play/a00z </link>
 
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3061.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX LIFE </link>
+<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2313.m3u8 </link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxlife.png</thumbnail>
 </item> 
@@ -2224,9 +2216,9 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 
 <item> 
-<title>[COLOR=magenta][B][I]  FOX COMEDY   [/I][/B][/COLOR] [COLOR yellow] F4MTESTER[/COLOR]  </title>
+<title>[COLOR=magenta][B][I]  FOX COMEDY   [/I][/B][/COLOR] [COLOR yellow] [/COLOR]  </title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3062.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX COMEDY </link>
+<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2311.m3u8 </link>
 
 <thumbnail>http://quinto-canal.com/wp-content/uploads/2015/11/FOX-Comedy-Portugal.jpg</thumbnail>
 </regex>
@@ -2313,14 +2305,9 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 
 <item>
-<title>[COLOR magenta] [I] TV CINE 1 HD [/I] [/COLOR]  [COLOR=lime]F4MTESTER[/COLOR] </title>
+<title>[COLOR magenta] [I] TV CINE 1 HD [/I] [/COLOR]  [COLOR=lime][/COLOR] </title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/743.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 1 HD </link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/744.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 1 </link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2788.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCINE_1_HD </link>
-
+<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2302.m3u8</link>
 
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine1.png</thumbnail>
 </regex>
@@ -2339,7 +2326,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item>
 <title>[COLOR magenta] [I] TV CINE 2 HD [/I] [/COLOR] [COLOR=lime][/COLOR]</title>
 
-<link>http://voddownload01.video.globo.com/v0/0e/f3/d0/5013949_d0414a4da0b9bacda59f2d182d44fcdff59aa445/5013949-web360.mp4?h=0502461865951845045864874618659638192435244067DwStopMJnKZoiDt4KN4A&k=ads </link>
+<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2303.m3u8 </link>
 
 
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine2.png</thumbnail>
@@ -2356,7 +2343,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item>
 <title>[COLOR magenta] [I] TV CINE 3 [/I] [/COLOR] [COLOR=lime][/COLOR]</title>
 
-<link>https://voddownload01.video.globo.com/v0/f1/9c/b7/5223032_b7f2cdcd00d5b755b0ac47f15a197fb6bf8e8a31/5223032-web360.mp4?h=05024626533251035508092146265333712434894401t0QRCxRgL8nUOXro7cqRSw&k=ads</link>
+<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2304.m3u8</link>
 
 
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine3.png</thumbnail>
@@ -2372,14 +2359,9 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 
 <item>
-<title>[COLOR magenta] [I] TV CINE 4 [/I] [/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
+<title>[COLOR magenta] [I] TV CINE 4 [/I] [/COLOR] [COLOR=lime][/COLOR]</title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/841.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 4 HD </link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/740.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 4 </link>
-
-
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2791.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCINE_4_HD </link>
+<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2305.m3u8 </link>
 
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine4.png</thumbnail>
 </regex>
@@ -2394,13 +2376,9 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 
 <item>
-<title>[COLOR magenta] [I] TV SERIES [/I] [/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
+<title>[COLOR magenta] [I] TV SERIES [/I] [/COLOR] [COLOR=lime][/COLOR]</title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/709.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV SERIES HD </link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/736.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV SERIES </link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2805.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_SERIES </link>
+<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2306.m3u8 </link>
 
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvseries.png</thumbnail>
 </regex>
@@ -2889,24 +2867,26 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 
 <item>
-<title>[COLOR=blue][B][I] SPORT TV 1 HD [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
+<title>[COLOR=blue][B][I] SPORT TV 1 SD [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
 <link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=fawergge?keys=6FwFzBwoArVD7GnroNTCwg&keyt=1471185155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 </link>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=blue][B][I] SPORT TV 1 [/I][/B][/COLOR]  [COLOR=lime](SD)[/COLOR]</title>
+<title>[COLOR=blue][B][I] SPORT TV 1 [/I][/B][/COLOR]  [COLOR=lime](HD)[/COLOR]</title>
 <link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/4.m3u8</link>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR blue] [I]SPORT TV 1 HD[/I] [/COLOR] [COLOR orange]F4MTESTER[/COLOR]</title>
+<title>[COLOR blue] [I]SPORT TV 1 HD[/I] [/COLOR] [COLOR orange][/COLOR]</title>
 
 
 
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/ch@Oui!_!72/ch@Oui!_!72/3157.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 HD </link>
+<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2325.m3u8</link>
+
+<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/4.m3u8</link>
 
 
 
@@ -2960,10 +2940,10 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 
 <item>
-<title>[COLOR blue] [I]SPORT TV 2 HD[/I] [/COLOR] [COLOR orange]F4MTESTER[/COLOR]</title>
+<title>[COLOR blue] [I]SPORT TV 2 SD[/I] [/COLOR] [COLOR orange][/COLOR]</title>
 
 
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/ch@Oui!_!72/ch@Oui!_!72/3158.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 HD </link>
+<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/5.m3u8 </link>
 
 
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
@@ -3012,12 +2992,8 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 
 <item>
-<title>[COLOR blue] [I]SPORT TV 3 HD[/I] [/COLOR] [COLOR orange]F4MTESTER[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gochannelstv.dyndns.tv:80/p85sporttv3hd/index.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 HD </link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/751.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 </link>
-
-
+<title>[COLOR blue] [I]SPORT TV 3 HD[/I] [/COLOR] [COLOR orange][/COLOR]</title>
+<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/6.m3u8 </link>
 
 		
 <thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
@@ -3032,6 +3008,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item>
 <title>[COLOR=blue][B][I] SPORT TV 3 [/I][/B][/COLOR]  [COLOR=lime](SD)[/COLOR]</title>
 <link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/6.m3u8</link>
+<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2296.m3u8</link>
 <thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
 </item>
 
@@ -3089,9 +3066,9 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 
 <item>
-<title>[COLOR blue] [I]SPORT TV 4 HD[/I] [/COLOR] [COLOR orange]F4MTESTER[/COLOR]</title>
+<title>[COLOR blue] [I]SPORT TV 4 HD[/I] [/COLOR] [COLOR orange][/COLOR]</title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/ch@Oui!_!72/ch@Oui!_!72/3160.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 HD </link>
+<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2297.m3u8 </link>
 
 
 <thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
@@ -3128,10 +3105,10 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 
 <item>
-<title>[COLOR blue][B][I]SPORT TV 5 HD [/I][/B][/COLOR] [COLOR orange]F4MTESTER[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/717.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 </link>
+<title>[COLOR blue][B][I]SPORT TV 5 HD [/I][/B][/COLOR] [COLOR orange][/COLOR]</title>
+<link> </link>
 
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1137.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORT_TV_5 </link>
+<link></link>
 
 
 
@@ -3143,11 +3120,8 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 <item>
 <title>[COLOR blue][B][I]SPORT TV 5  [/I][/B][/COLOR] [COLOR orange]SD[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/ch@Oui!_!72/ch@Oui!_!72/3161.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 </link>
 
-<link>http://iptvfree1.com:6969/live/15/www.iptvrestream.net/3997.m3u8</link>
-
-
+<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2298.m3u8</link>
 
 <thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
 <fanart></fanart>
@@ -3296,9 +3270,9 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 
 <item>
-<title>[COLOR=blue][B][I] SPORTING TV HD [/I][/B]  [COLOR=orange]F4MTESTER[/COLOR]</title>
+<title>[COLOR=blue][B][I] SPORTING TV HD [/I][/B]  [COLOR=orange][/COLOR]</title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2792.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORTING_TV_HD </link>
+<link>http://213.188.51.185:9981/play/a009 </link>
 
 <thumbnail>http://s20.postimg.org/j0p0j7nst/sporting_tv_pt.png</thumbnail>
 </item>
@@ -3895,9 +3869,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR blue] [I]EUROSPORT 1 HD[/COLOR][/I]  [COLOR orange]F4MTESTER[/COLOR]</title>
+<title>[COLOR blue] [I]EUROSPORT 1 HD[/COLOR][/I]  [COLOR orange][/COLOR]</title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/725.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 HD </link>
+<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2367.m3u8 </link>
 
 <link>http://85.25.43.23:8080/hls/volex_04.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport.png</thumbnail>
@@ -3921,10 +3895,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR blue] [I]EUROSPORT 2 XTRA HD[/COLOR][/I]  [COLOR orange]F4MTESTER[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/792.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 XTRA HD </link>
-
- <link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3091.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSport 2</link> 
+<title>[COLOR blue] [I]EUROSPORT 2 XTRA HD[/COLOR][/I]  [COLOR orange][/COLOR]</title>
+<link>http://213.188.51.185:9981/play/a013</link>
 
 <thumbnail>http://www.vodafone.pt/NR/rdonlyres/B0CCE754-2510-4344-9736-A8F57DCB51D8/0/new_logo_eurosport_932x196.png</thumbnail>
 </item>
@@ -4639,13 +4611,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR=blue][B][I]MOTORVISION HD [/I][/B][/COLOR] [COLOR yellow] F4MTESTER[/COLOR] </title>
+<title>[COLOR=blue][B][I]MOTORVISION HD [/I][/B][/COLOR] [COLOR yellow] [/COLOR] </title>
 
- <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/170216/170216/892.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motor Vision HD</link> 
+ <link>http://213.188.51.185:9981/play/a00j</link> 
 
- <link>plugin://plugin.video.f4mTester/?url=http://tvsbrothers.noip.me:8000/live/po6lhjfTvi/FqGSG8e6ox/820.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MOTORVISION HD</link>
-
-  <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/87.ts&amp;streamtype=TSDOWNLOADER&amp;name=Motorvision HD</link> 
 
 <link>http://84.75.244.87:8000/play/a00b</link>
 <referer>http://ucaster.eu/</referer>
@@ -4654,12 +4623,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR=blue][B][I]PFC [/I][/B][/COLOR] [COLOR yellow] F4MTESTER[/COLOR] </title>
+<title>[COLOR=blue][B][I]PFC [/I][/B][/COLOR] [COLOR yellow] [/COLOR] </title>
 
- <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/170216/170216/911.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PFC</link> 
+ <link>http://213.188.51.185:9981/play/a00s</link> 
 
-<link>plugin://plugin.video.f4mTester/?url=http://tvsbrothers.noip.me:8000/live/po6lhjfTvi/FqGSG8e6ox/816.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:PFC HD</link> 
-     
 <referer>http://ucaster.eu/</referer>
 <thumbnail>http://tvonlinegratis1.com/wp-content/uploads/2015/05/pfc-300x149.jpg</thumbnail>
 </item>
@@ -4736,9 +4703,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR=blue][B][I]FUEL TV [/I][/B][/COLOR] [COLOR yellow] F4MTESTER[/COLOR] </title>
+<title>[COLOR=blue][B][I]FUEL TV [/I][/B][/COLOR] [COLOR yellow][/COLOR] </title>
 
-  <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/75.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fuel TV</link> 
+  <link>http://213.188.51.185:9981/play/a012</link> 
   
   
 <referer>http://ucaster.eu/</referer>
