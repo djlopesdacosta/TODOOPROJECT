@@ -1436,7 +1436,8 @@ SIC NOTICIAS
 http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item>
 <title>[COLOR=white][B][I] TVI REALITY [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
-<link>http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/59.m3u8</link>
+<link>rtmp://31.220.40.59/privatestream/ playpath=ss6?keys=xdZZ9z-XIdPaACPxDM1BKA&keyt=1482182965 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=ss6&width=600&height=450 swfVfy=1 live=1 timeout=15</link>
+
 <referer>http://www.mipsplayer.com/</referer></regex>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
 </item>
