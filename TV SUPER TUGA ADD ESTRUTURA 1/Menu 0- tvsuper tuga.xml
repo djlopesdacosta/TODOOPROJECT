@@ -51,8 +51,7 @@
 
 <item>
 <title>[COLOR=red][B][I] RTP 1 HD [/I][/B][/COLOR][COLOR=cyan]    [/COLOR]</title>
-<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/9.m3u8</link>
-<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/9.m3u8</link>
+<link>http://77.57.189.132:8000/play/a02n</link>
 <link>http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/KodiPortugal.pt.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 <fanart>http://4.fotos.web.sapo.io/i/oc913ed30/18864727_W0533.png</fanart>
@@ -164,7 +163,7 @@
 <item>
 <title>[COLOR=red][B][I] SIC HD [/I][/B][/COLOR]   [COLOR=cyan][/COLOR]</title>
 
-<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/18.m3u8</link>
+<link>http://77.57.189.132:8000/play/a02p</link>
 <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
 <fanart>http://iptv.cline.in:80/live/greg/greg/1166.m3u8</fanart>
 </item>
@@ -203,7 +202,7 @@
 <item>
 <title>[COLOR=red][B][I] TVI [/I][/B][/COLOR]   [COLOR=cyan]SD[/COLOR]</title>
 
-<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/8.m3u8</link>
+<link>http://77.57.189.132:8000/play/a02v</link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
 <fanart>https://lh6.ggpht.com/Rco-3B_gxp2WxcpArRjrp3iT_XKI94B2paXEh86tn-wioNk9EGKYYUaa6NDg1yLmoGqF=h900</fanart>
@@ -445,7 +444,7 @@
 <item>
 <title>[COLOR=cyan][B][I] SIC NOTICIAS HD [/I][/B][/COLOR]      [COLOR=orange][/COLOR]</title>
 
-<link>http://213.188.51.185:9981/play/a00k </link>
+<link>http://77.57.189.132:8000/play/a02m</link>
 
 <thumbnail>http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png</thumbnail>
 </item>
@@ -456,7 +455,6 @@
 
 <link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link>
 
-<link>http://94.61.211.124:8010/play/a010</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicn.png</thumbnail>
 </item>
 
@@ -512,8 +510,7 @@
 <item>
 <title>[COLOR=cyan][B][I] TVI 24 HD [/I][/B][/COLOR]      [COLOR=orange][/COLOR]</title>
 <link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/KodiPortugal.pt.m3u8</link>
-<link>http://94.61.211.124:8010/play/a00y</link>
- 
+<link>http://46.126.71.153:8000/play/a01k</link>
 <link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
 </item>
@@ -522,7 +519,7 @@
 <item>
 <title>[COLOR=lime][B][I]TVI INTERNACIONAL [/I][/B][/COLOR]   [COLOR=cyan]F4MTESTER[/COLOR]</title>
 
-
+<link>http://213.188.51.185:9981/play/a016</link>
 
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/2/2a/TVIi.png/revision/latest?cb=20130328103419</thumbnail>
 </item>
@@ -601,7 +598,6 @@
 </item>
 
 
-SIC NOTICIAS
 
 <item>
 <title>[COLOR cyan] [I]SPORTING TV  [/I] [/COLOR][COLOR=red](WebTV)[/COLOR]</title> 
@@ -676,7 +672,7 @@ SIC NOTICIAS
 <item>
 <title>[COLOR=cyan][B][I] A BOLA TV HD [/I][/B][/COLOR][COLOR=orange][/COLOR]</title>
 
-<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/2.m3u8</link>
+<link>http://77.57.189.132:8000/play/a030</link>
 
 <thumbnail>http://s20.postimg.org/u3s3bcbb1/a_bola_tv.jpg</thumbnail>
 </item>
@@ -702,9 +698,9 @@ SIC NOTICIAS
 
 
 <item>
-<title>[COLOR=cyan][B][I] CM TV HD  [/I][/B][/COLOR][COLOR=orange]F4MTESTER[/COLOR]</title>
+<title>[COLOR=cyan][B][I] CM TV HD  [/I][/B][/COLOR][COLOR=orange][/COLOR]</title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/498.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CM_TV </link>
+<link>http://77.57.189.132:8000/play/a03d </link>
 
 <thumbnail>http://mb.web.sapo.io/1/0/2/8c10cca436228677d10be1cb5d21794e2464a.jpg</thumbnail>
 </item>
@@ -1311,10 +1307,9 @@ SIC NOTICIAS
 
 
 <item>   
-<title>[COLOR=white][B][I] SIC MULHER HD[/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR] </title>
+<title>[COLOR=white][B][I] SIC MULHER HD[/I][/B][/COLOR] [COLOR yellow] [/COLOR] </title>
 <link>http://213.188.51.185:9981/play/a00e</link>
-<link>http://94.61.211.124:8010/play/a00w</link>
-
+<link>http://46.126.71.153:8000/play/a02h</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicm.png</thumbnail>
 </item>
 
@@ -1454,15 +1449,14 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item>
 <title>[COLOR=white][B][I] TVI REALITY SD [/I][/B][/COLOR]</title>
 
-<link>http://liveitpremium.gleeze.com:8000/live/marco/marco/86.m3u8</link>
+<link>http://213.188.51.185:9981/play/a007</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR=white][B][I] TVI REALITY HD [/I][/B][/COLOR]   [COLOR lime]F4MTESTER[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/710.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVI REALITY </link>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2803.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVI REALITY </link>
+<title>[COLOR=white][B][I] TVI REALITY HD [/I][/B][/COLOR]   [COLOR lime][/COLOR]</title>
+<link>http://46.126.71.153:8000/play/a02g </link>
 
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
 </item>
@@ -1471,7 +1465,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item>
 <title>[COLOR=white][B][I] TVI REALITY CAMARAS [/I][/B][/COLOR]   [COLOR lime][/COLOR]</title>
 
-<link>http://liveitpremium.gleeze.com:8000/live/marco/marco/2822.m3u8</link>
+<link></link>
 
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
 </item>
@@ -1521,7 +1515,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item>
 <title>[COLOR=white][B][I] MTV PORTUGAL[/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR] </title>
 
-
+<link>http://46.126.71.153:8000/play/a01s</link>
 
 <referer>http://ucaster.eu/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/mtv.png</thumbnail>
@@ -2307,7 +2301,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item>
 <title>[COLOR magenta] [I] TV CINE 1 HD [/I] [/COLOR]  [COLOR=lime][/COLOR] </title>
 
-<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2302.m3u8</link>
+<link>http://77.57.189.132:8000/play/a02r</link>
 
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine1.png</thumbnail>
 </regex>
@@ -2326,7 +2320,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item>
 <title>[COLOR magenta] [I] TV CINE 2 HD [/I] [/COLOR] [COLOR=lime][/COLOR]</title>
 
-<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2303.m3u8 </link>
+<link>http://77.57.189.132:8000/play/a02t</link>
 
 
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine2.png</thumbnail>
@@ -2343,7 +2337,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item>
 <title>[COLOR magenta] [I] TV CINE 3 [/I] [/COLOR] [COLOR=lime][/COLOR]</title>
 
-<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2304.m3u8</link>
+<link>http://77.57.189.132:8000/play/a02s</link>
 
 
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine3.png</thumbnail>
@@ -2361,7 +2355,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item>
 <title>[COLOR magenta] [I] TV CINE 4 [/I] [/COLOR] [COLOR=lime][/COLOR]</title>
 
-<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2305.m3u8 </link>
+<link>http://77.57.189.132:8000/play/a02u</link>
 
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine4.png</thumbnail>
 </regex>
@@ -2617,15 +2611,21 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 
 <item>
-<title>[COLOR blue] [I]SPORT TV +[/I] [/COLOR] [COLOR orange]     [/COLOR]</title>
+<title>[COLOR blue] [I]SPORT TV + HD[/I] [/COLOR] [COLOR orange]     [/COLOR]</title>
 
-<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/3.m3u8</link>
-<link>http://213.188.51.185:9981/play/a00g</link>
+<link>http://46.126.71.153:8000/play/a02s</link>
+
 <thumbnail>http://www.onlinenatv.com/wp-content/uploads/2016/10/sport.tv_.portugal.jpg?x78568</thumbnail>
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLOR blue] [I]SPORT TV +[/I] [/COLOR] [COLOR orange]     [/COLOR]</title>
 
+<link>http://213.188.51.185:9981/play/a00g</link>
+<thumbnail>http://www.onlinenatv.com/wp-content/uploads/2016/10/sport.tv_.portugal.jpg?x78568</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>[COLOR=blue][B][I] SPORT TV 1 SD [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
@@ -2634,26 +2634,11 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 </item>
 
 <item>
-<title>[COLOR=blue][B][I] SPORT TV 1 [/I][/B][/COLOR]  [COLOR=lime](HD)[/COLOR]</title>
-<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/4.m3u8</link>
+<title>[COLOR=blue][B][I] SPORT TV 1 [/I][/B][/COLOR]  [COLOR=lime]()[/COLOR]</title>
+<link>http://46.126.71.153:8000/play/a01r</link>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 
-
-<item>
-<title>[COLOR blue] [I]SPORT TV 1 HD[/I] [/COLOR] [COLOR orange][/COLOR]</title>
-
-
-
-<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2325.m3u8</link>
-
-<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/4.m3u8</link>
-
-
-
-<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
-<fanart></fanart>
-</item>
 
 
 <item> 
@@ -2693,23 +2678,13 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 <item>
 <title>[COLOR=blue][B][I] SPORT TV 2 [/I][/B][/COLOR]  [COLOR=lime](SD)[/COLOR]</title>
-<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/5.m3u8 </link>
+<link>http://46.126.71.153:8000/play/a01i </link>
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
 </item>
 
 
 
 
-<item>
-<title>[COLOR blue] [I]SPORT TV 2 SD[/I] [/COLOR] [COLOR orange][/COLOR]</title>
-
-
-<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/5.m3u8 </link>
-
-
-<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
-<fanart></fanart>
-</item>
 
 
 
@@ -2754,24 +2729,12 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 <item>
 <title>[COLOR blue] [I]SPORT TV 3 HD[/I] [/COLOR] [COLOR orange][/COLOR]</title>
-<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/6.m3u8 </link>
+<link>http://46.126.71.153:8000/play/a01l </link>
 
-		
 <thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
 <fanart></fanart>
 </item>
 
-
-
-
-
-
-<item>
-<title>[COLOR=blue][B][I] SPORT TV 3 [/I][/B][/COLOR]  [COLOR=lime](SD)[/COLOR]</title>
-<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/6.m3u8</link>
-<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2296.m3u8</link>
-<thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
-</item>
 
 
 
@@ -2816,25 +2779,11 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 <item>
 <title>[COLOR=blue][B][I] SPORT TV 4 [/I][/B][/COLOR]  [COLOR=lime](SD)[/COLOR]</title>
-<link>http://iptvfree1.com:6969/live/15/www.iptvrestream.net/3994.m3u8</link>
+<link>http://46.126.71.153:8000/play/a01m</link>
 <thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
 </item>
 
 
-
-
-
-
-
-<item>
-<title>[COLOR blue] [I]SPORT TV 4 HD[/I] [/COLOR] [COLOR orange][/COLOR]</title>
-
-<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2297.m3u8 </link>
-
-
-<thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
-<fanart></fanart>
-</item>
 
 
 <item> 
@@ -2867,11 +2816,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 
 <item>
 <title>[COLOR blue][B][I]SPORT TV 5 HD [/I][/B][/COLOR] [COLOR orange][/COLOR]</title>
-<link> </link>
-
-<link></link>
-
-
+<link>http://46.126.71.153:8000/play/a02m </link>
 
 <thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
 <fanart></fanart>
@@ -2882,7 +2827,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item>
 <title>[COLOR blue][B][I]SPORT TV 5  [/I][/B][/COLOR] [COLOR orange]SD[/COLOR]</title>
 
-<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2298.m3u8</link>
+<link>http://213.188.51.185:9981/play/a008</link>
 
 <thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
 <fanart></fanart>
@@ -2918,9 +2863,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item>
 <title>[COLOR blue] [I]BENFICA TV 1[/I] [/COLOR] [COLOR orange]F4MTESTER[/COLOR]</title>
 
-<link></link>
-
-<link></link>
+<link>http://77.57.189.132:8000/play/a03l</link>
 
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 <fanart></fanart>
@@ -2930,7 +2873,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item>
 <title>[COLOR blue] [I]BENFICA TV 1[/I] [/COLOR] [COLOR orange]HD[/COLOR]</title>
 
-<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/1.m3u8</link>
+<link>http://77.57.189.132:8000/play/a03m</link>
 
 <link></link>
 
@@ -3028,12 +2971,18 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <thumbnail>http://s20.postimg.org/j0p0j7nst/sporting_tv_pt.png</thumbnail> 
 </item>
 
-
-
 <item>
 <title>[COLOR=blue][B][I] SPORTING TV HD [/I][/B]  [COLOR=orange][/COLOR]</title>
 
-<link>http://213.188.51.185:9981/play/a009 </link>
+<link>http://46.126.71.153:8000/play/a02q</link>
+
+<thumbnail>http://s20.postimg.org/j0p0j7nst/sporting_tv_pt.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=blue][B][I] SPORTING TV [/I][/B]  [COLOR=orange][/COLOR]</title>
+
+<link>http://213.188.51.185:9981/play/a009</link>
 
 <thumbnail>http://s20.postimg.org/j0p0j7nst/sporting_tv_pt.png</thumbnail>
 </item>
@@ -4641,7 +4590,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR=blue][B][I]PFC [/I][/B][/COLOR] [COLOR yellow] [/COLOR] </title>
 
  <link>http://213.188.51.185:9981/play/a00s</link> 
-
+ <link>http://77.57.189.132:8000/play/a03a</link> 
 <referer>http://ucaster.eu/</referer>
 <thumbnail>http://tvonlinegratis1.com/wp-content/uploads/2015/05/pfc-300x149.jpg</thumbnail>
 </item>
