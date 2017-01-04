@@ -3150,185 +3150,407 @@ turquoise
 
 
 
-
-
-
-
-
-
-
-
-
-
 <item>
-<title>ES:CANAL_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/479.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_1 </link>
+<title>(ES) LA 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1802.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) LA 1 </link>
 </item>
 <item>
-<title>ES:CANAL_TOROS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/385.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_TOROS </link>
+<title>(ES) LA 1 HDD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13167.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) LA 1 HDD </link>
 </item>
 <item>
-<title>ES:CANAL_LIGA2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2970.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_LIGA2 </link>
+<title>(ES) LA 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1099.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) LA 2 </link>
 </item>
 <item>
-<title>ES:CANAL_GOLF</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/387.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_GOLF </link>
+<title>(ES) LA 2 HDD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13166.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) LA 2 HDD </link>
 </item>
 <item>
-<title>ES:CANAL_FUTBOL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/388.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_FUTBOL </link>
+<title>(ES) Antena 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/847.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Antena 3 </link>
 </item>
 <item>
-<title>ES:CANAL_DEPORTES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2036.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_DEPORTES </link>
+<title>(ES) Antena 3 HDD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13182.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Antena 3 HDD </link>
 </item>
 <item>
-<title>ES:CANAL_DEPORTES2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2972.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_DEPORTES2 </link>
+<title>(ES) Telecinco</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1101.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Telecinco </link>
 </item>
 <item>
-<title>ES:CANAL_COMEDIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/389.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_COMEDIA </link>
+<title>(ES) Telecinco HDD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13156.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Telecinco HDD </link>
 </item>
 <item>
-<title>ES:CANAL_ACCION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/481.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_ACCION </link>
+<title>(ES) La Sexta</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1803.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) La Sexta </link>
 </item>
 <item>
-<title>ES:CANAL_XTRA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2973.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_XTRA </link>
+<title>(ES) La Sexta HDD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13165.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) La Sexta HDD </link>
 </item>
 <item>
-<title>ES:nova</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/480.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:nova </link>
+<title>(ES) Mega</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1805.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Mega </link>
 </item>
 <item>
-<title>ES:BEIN_LA_LIGA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/3112.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:BEIN_LA_LIGA </link>
+<title>(ES) Mega HDD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13160.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Mega HDD </link>
 </item>
 <item>
-<title>ES:Barca</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/484.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Barca </link>
+<title>☆☆☆☆☆ ES - OTHER ☆☆☆☆☆</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/7128.ts&amp;streamtype=TSDOWNLOADER&amp;name=☆☆☆☆☆ ES - OTHER ☆☆☆☆☆ </link>
 </item>
 <item>
-<title>ES:EUROSPORT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1668.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:EUROSPORT </link>
+<title>(ES) Viajar HDD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13152.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Viajar HDD </link>
 </item>
 <item>
-<title>ES:CANAL_ESTRENOS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1853.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_ESTRENOS </link>
+<title>(ES) Teledeporte HDD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13155.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Teledeporte HDD </link>
 </item>
 <item>
-<title>ES:CANAL_DCINE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/482.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_DCINE </link>
+<title>(ES) Mezzo Live HDD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13159.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Mezzo Live HDD </link>
 </item>
 <item>
-<title>ES:ODISEA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1857.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:ODISEA </link>
+<title>(ES) Canal 2 HDD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13180.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Canal 2 HDD </link>
 </item>
 <item>
-<title>ES:CAZA_Y_PESCA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2974.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CAZA_Y_PESCA </link>
+<title>(ES) AMC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1810.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) AMC </link>
 </item>
 <item>
-<title>ES:A & E</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2975.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:A & E </link>
+<title>(ES) Calle 13</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/851.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Calle 13 </link>
 </item>
 <item>
-<title>ES:CANAL_DE_LASESTRELLAS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1856.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_DE_LASESTRELLAS </link>
+<title>(ES) Calle 13 HDD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13181.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Calle 13 HDD </link>
 </item>
 <item>
-<title>ES:LA_SEXTA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/382.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:LA_SEXTA </link>
+<title>(ES) Canal Iberalia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/7885.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Canal Iberalia </link>
 </item>
 <item>
-<title>ES:REAL_MADRID</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1662.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:REAL_MADRID </link>
+<title>(ES) Clan TVE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1103.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Clan TVE </link>
 </item>
 <item>
-<title>ES:EURONEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1806.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:EURONEWS </link>
+<title>(ES) Cuatro</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1100.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Cuatro </link>
 </item>
 <item>
-<title>ES:DISNEY_JUNIOR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2928.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DISNEY_JUNIOR </link>
+<title>(ES) Cuatro HDD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13177.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Cuatro HDD </link>
 </item>
 <item>
-<title>ES:SYFY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1876.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:SYFY </link>
+<title>(ES) Decasa</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/7887.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Decasa </link>
 </item>
 <item>
-<title>ES:MoviStar_MotoGp</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1877.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:MoviStar_MotoGp </link>
+<title>(ES) FDF</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/3285.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) FDF </link>
 </item>
 <item>
-<title>ES:DISNEY_CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1671.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DISNEY_CHANNEL </link>
+<title>(ES) Fox</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1112.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Fox </link>
 </item>
 <item>
-<title>ES:CUATRO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1673.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CUATRO </link>
+<title>(ES) Fox HDD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13171.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Fox HDD </link>
 </item>
 <item>
-<title>ES:TELECINCO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1660.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TELECINCO </link>
+<title>(ES) Fox Life</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1113.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Fox Life </link>
 </item>
 <item>
-<title>ES:NATIONAL_GEOGRAPHIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1664.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:NATIONAL_GEOGRAPHIC </link>
+<title>(ES) MTV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/3284.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) MTV HD </link>
 </item>
 <item>
-<title>ES:MOVISTAR_F1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1661.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:MOVISTAR_F1 </link>
+<title>(ES) Comedy Central</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/930.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Comedy Central </link>
 </item>
 <item>
-<title>ES:La2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1666.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:La2 </link>
+<title>(ES) Comedy Central HDD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13178.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Comedy Central HDD </link>
 </item>
 <item>
-<title>ES:La1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1667.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:La1 </link>
+<title>(ES) TV 3 Catalunya</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/933.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) TV 3 Catalunya </link>
 </item>
 <item>
-<title>ES:HOLLYWOOD_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/973.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:HOLLYWOOD_HD </link>
+<title>(ES) TV 3 Catalunya HDD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13153.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) TV 3 Catalunya HDD </link>
 </item>
 <item>
-<title>ES:HISTORIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/381.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:HISTORIA </link>
+<title>(ES) Caza y Pesca</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1105.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Caza y Pesca </link>
 </item>
 <item>
-<title>ES:GALICIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1669.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:GALICIA </link>
+<title>(ES) Esperanza TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13175.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Esperanza TV </link>
 </item>
 <item>
-<title>ES:FOX_LIFE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1665.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:FOX_LIFE </link>
+<title>(ES) Energy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13176.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Energy </link>
 </item>
 <item>
-<title>ES:FOX1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1670.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:FOX1 </link>
+<title>(ES) Sol Musica</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/7888.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Sol Musica </link>
 </item>
 <item>
-<title>ES:CLAN_TVE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1676.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CLAN_TVE </link>
+<title>(ES) TCM</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1811.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) TCM </link>
 </item>
 <item>
-<title>ES:CALLE_13</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/969.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CALLE_13 </link>
+<title>(ES) TCM HDD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13157.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) TCM HDD </link>
 </item>
 <item>
-<title>ES:AXN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/487.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:AXN </link>
+<title>(ES) TVE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1098.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) TVE </link>
 </item>
 <item>
-<title>ES:ANTENNA3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1675.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:ANTENNA3 </link>
+<title>(ES) Nova</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1102.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Nova </link>
 </item>
 <item>
-<title>ES:ANDALUCIA_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1807.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:ANDALUCIA_TV </link>
+<title>(ES) Canal Cocina</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1806.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Canal Cocina </link>
+</item>
+<item>
+<title>(ES) TV Galicia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/10719.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) TV Galicia </link>
+</item>
+<item>
+<title>(ES) Neox</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/10715.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Neox </link>
+</item>
+<item>
+<title>(ES) Canal De Las Estrellas</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/10722.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Canal De Las Estrellas </link>
+</item>
+<item>
+<title>(ES) 24 Horas</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/10714.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) 24 Horas </link>
+</item>
+<item>
+<title>(ES) Levante TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13162.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Levante TV </link>
+</item>
+<item>
+<title>(ES) Lancelot TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13164.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Lancelot TV </link>
+</item>
+<item>
+<title>(ES) Intereconomia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13168.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Intereconomia </link>
+</item>
+<item>
+<title>☆☆☆☆☆ ES - KIDS ☆☆☆☆☆</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/7127.ts&amp;streamtype=TSDOWNLOADER&amp;name=☆☆☆☆☆ ES - KIDS ☆☆☆☆☆ </link>
+</item>
+<item>
+<title>(ES) Disney Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/932.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Disney Channel </link>
+</item>
+<item>
+<title>(ES) Disney XD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/835.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Disney XD </link>
+</item>
+<item>
+<title>(ES) Disney Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/3283.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Disney Junior </link>
+</item>
+<item>
+<title>(ES) Nickelodeon HD Spain</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/3281.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Nickelodeon HD Spain </link>
+</item>
+<item>
+<title>(ES) Nick JR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/931.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Nick JR </link>
+</item>
+<item>
+<title>☆☆☆☆☆ ES - DOCU ☆☆☆☆☆</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/7125.ts&amp;streamtype=TSDOWNLOADER&amp;name=☆☆☆☆☆ ES - DOCU ☆☆☆☆☆ </link>
+</item>
+<item>
+<title>(ES) Historia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/3282.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Historia </link>
+</item>
+<item>
+<title>(ES) National Geographic HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/844.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) National Geographic HD </link>
+</item>
+<item>
+<title>(ES) National Geographic Wild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/843.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) National Geographic Wild </link>
+</item>
+<item>
+<title>(ES) Canal Odisea</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/7886.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Canal Odisea </link>
+</item>
+<item>
+<title>☆☆☆☆☆ ES - CINEMA ☆☆☆☆☆</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/7123.ts&amp;streamtype=TSDOWNLOADER&amp;name=☆☆☆☆☆ ES - CINEMA ☆☆☆☆☆ </link>
+</item>
+<item>
+<title>(ES) A & E</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1106.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) A & E </link>
+</item>
+<item>
+<title>(ES) AXN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/849.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) AXN HD </link>
+</item>
+<item>
+<title>(ES) AXN White HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/839.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) AXN White HD </link>
+</item>
+<item>
+<title>(ES) Hollywoord</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1109.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Hollywoord </link>
+</item>
+<item>
+<title>(ES) Hollywood HDD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13169.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Hollywood HDD </link>
+</item>
+<item>
+<title>(ES) Syfy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1812.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Syfy </link>
+</item>
+<item>
+<title>(ES) Syfy HDD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13158.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Syfy HDD </link>
+</item>
+<item>
+<title>(ES) TNT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1110.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) TNT </link>
+</item>
+<item>
+<title>(ES) TNT HDD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13154.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) TNT HDD </link>
+</item>
+<item>
+<title>(ES) Canal+ HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/850.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Canal+ HD </link>
+</item>
+<item>
+<title>(ES) Canal+ Accion HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1108.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Canal+ Accion HD </link>
+</item>
+<item>
+<title>(ES) Canal+ Comedia HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/852.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Canal+ Comedia HD </link>
+</item>
+<item>
+<title>(ES) Canal+ DCine HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/848.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Canal+ DCine HD </link>
+</item>
+<item>
+<title>(ES) Canal+ Estrenos HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1807.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Canal+ Estrenos HD </link>
+</item>
+<item>
+<title>(ES) Canal+ Series</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1808.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Canal+ Series </link>
+</item>
+<item>
+<title>(ES) Canal+ Series Extra HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1809.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Canal+ Series Extra HD </link>
+</item>
+<item>
+<title>(ES) Canal+ Toros</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/853.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Canal+ Toros </link>
+</item>
+<item>
+<title>(ES) Canal+ Xtra</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1111.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Canal+ Xtra </link>
+</item>
+<item>
+<title>(ES) Paramount Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/10720.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Paramount Channel </link>
+</item>
+<item>
+<title>(ES) Divinity</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/10716.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Divinity </link>
+</item>
+<item>
+<title>(ES) DCine Espagnol</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/10718.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) DCine Espagnol </link>
+</item>
+<item>
+<title>(ES) Cosmo HDD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/10721.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Cosmo HDD </link>
+</item>
+<item>
+<title>☆☆☆☆☆ ES - SPORTS ☆☆☆☆☆</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/7124.ts&amp;streamtype=TSDOWNLOADER&amp;name=☆☆☆☆☆ ES - SPORTS ☆☆☆☆☆ </link>
+</item>
+<item>
+<title>(ES) Canal+ Liga HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/558.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Canal+ Liga HD </link>
+</item>
+<item>
+<title>(ES) Canal+ Liga 2 HDD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/10712.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Canal+ Liga 2 HDD </link>
+</item>
+<item>
+<title>(ES) Canal+ Futbol HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/559.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Canal+ Futbol HD </link>
+</item>
+<item>
+<title>(ES) Canal+ Deportes HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/560.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Canal+ Deportes HD </link>
+</item>
+<item>
+<title>(ES) Canal+ Deportes 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1813.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Canal+ Deportes 2 HD </link>
+</item>
+<item>
+<title>(ES) Canal+ Golf HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/842.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Canal+ Golf HD </link>
+</item>
+<item>
+<title>(ES) Formula 1 HDD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13172.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Formula 1 HDD </link>
+</item>
+<item>
+<title>(ES) Eurosport 1 HDD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13173.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Eurosport 1 HDD </link>
+</item>
+<item>
+<title>(ES) Eurosport 2 HDD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13174.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Eurosport 2 HDD </link>
+</item>
+<item>
+<title>(ES) Fox Sports 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/13170.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Fox Sports 2 </link>
+</item>
+<item>
+<title>(ES) Andalucia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/836.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Andalucia </link>
+</item>
+<item>
+<title>(ES) ESPN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/841.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) ESPN HD </link>
+</item>
+<item>
+<title>(ES) Movistar F1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1814.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Movistar F1 </link>
+</item>
+<item>
+<title>(ES) Movistar MotoGP</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/10713.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Movistar MotoGP </link>
+</item>
+<item>
+<title>(ES) Barca TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/846.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Barca TV </link>
+</item>
+<item>
+<title>(ES) Real Madrid HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/845.ts&amp;streamtype=TSDOWNLOADER&amp;name=(ES) Real Madrid HD </link>
 </item>
