@@ -115,7 +115,7 @@
 <name>[COLOR red] USA TV [/COLOR]  [COLOR lime]SERVIDOR 5[/COLOR]</name>
 <thumbnail>http://www.vpnworldwide.com/images-tmp/Img03.png</thumbnail>
 <fanart>http://dearinassociates.com/wp-content/uploads/2013/03/OZ-Flag-Boy.jpg</fanart>
-<externallink>https://simplekore.com/wp-content/uploads/file-manager/BIGANT/LIVE%20TV/USA/USA%20LIVE.txt</externallink>
+<externallink>http://fantazyrepo.uk/addonimages/fido.addon/Livetv/ukandusa.xml</externallink>
 </subitem>
 </item>
 
@@ -124,7 +124,43 @@
 <name>[COLOR red] UK TV [/COLOR]  [COLOR lime]SERVIDOR 6[/COLOR]</name>
 <thumbnail>http://www.vpnworldwide.com/images-tmp/Img03.png</thumbnail>
 <fanart>http://dearinassociates.com/wp-content/uploads/2013/03/OZ-Flag-Boy.jpg</fanart>
-<externallink>https://simplekore.com/wp-content/uploads/file-manager/BIGANT/LIVE%20TV/USA/USA%20HD.txt</externallink>
+<externallink>http://fantazyrepo.uk/addonimages/fido.addon/Livetv/uk.xml</externallink>
 </subitem>
 </item>
 
+<channels>
+<channel>	
+<name>[COLOR red] UK TV [/COLOR]  [COLOR lime]SERVIDOR 7[/COLOR]</name>
+<thumbnail>http://www.vpnworldwide.com/images-tmp/Img03.png</thumbnail>
+<fanart>http://dearinassociates.com/wp-content/uploads/2013/03/OZ-Flag-Boy.jpg</fanart>
+<externallink>http://fantazyrepo.uk/addonimages/fido.addon/Livetv/usa.xml</externallink>
+</subitem>
+</item>
+
+
+<channels>
+<channel>	
+<name>[COLOR red] UK TV [/COLOR]  [COLOR lime]SERVIDOR 8[/COLOR]</name>
+<thumbnail>http://www.vpnworldwide.com/images-tmp/Img03.png</thumbnail>
+<fanart>http://dearinassociates.com/wp-content/uploads/2013/03/OZ-Flag-Boy.jpg</fanart>
+<externallink>http://fantazyrepo.uk/addonimages/fido.addon/Livetv/foriegn.xml</externallink>
+</subitem>
+</item>
+
+<channels>
+<channel>	
+<name>[COLOR red] UK TV [/COLOR]  [COLOR lime]SERVIDOR 9[/COLOR]</name>
+<thumbnail>http://www.vpnworldwide.com/images-tmp/Img03.png</thumbnail>
+<fanart>http://dearinassociates.com/wp-content/uploads/2013/03/OZ-Flag-Boy.jpg</fanart>
+<externallink>http://fantazyrepo.uk/addonimages/fido.addon/Livetv/sport.xml</externallink>
+</subitem>
+</item>
+
+<channels>
+<channel>	
+<name>[COLOR red] UK TV [/COLOR]  [COLOR lime]SERVIDOR 10[/COLOR]</name>
+<thumbnail>http://www.vpnworldwide.com/images-tmp/Img03.png</thumbnail>
+<fanart>http://dearinassociates.com/wp-content/uploads/2013/03/OZ-Flag-Boy.jpg</fanart>
+<externallink>http://fantazyrepo.uk/addonimages/fido.addon/Livetv/iptv.xml</externallink>
+</subitem>
+</item>
