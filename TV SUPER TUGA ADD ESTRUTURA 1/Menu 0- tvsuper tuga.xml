@@ -2301,12 +2301,21 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item>
 <title>[COLOR magenta] [I] TV CINE 1 HD [/I] [/COLOR]  [COLOR=lime][/COLOR] </title>
 
-<link>http://77.57.189.132:8000/play/a02r</link>
+<link>http://htv.iptvpro.biz:5500/live/ss/ss/12.m3u8</link>
 
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine1.png</thumbnail>
 </regex>
 </item>
 
+
+<item>
+<title>[COLOR magenta] [I] TV CINE 1 HD [/I] [/COLOR]  [COLOR=lime][/COLOR] </title>
+
+<link>http://77.57.189.132:8000/play/a02r</link>
+
+<thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine1.png</thumbnail>
+</regex>
+</item>
 
 <item>
 <title>[COLOR magenta] [I] TV CINE 2 [/I] [/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
@@ -2315,6 +2324,17 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine2.png</thumbnail>
 </item>
 
+
+
+<item>
+<title>[COLOR magenta] [I] TV CINE 2 HD [/I] [/COLOR] [COLOR=lime][/COLOR]</title>
+
+<link>http://htv.iptvpro.biz:5500/live/ss/ss/13.m3u8</link>
+
+
+<thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine2.png</thumbnail>
+</regex>
+</item>
 
 
 <item>
@@ -2337,6 +2357,16 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item>
 <title>[COLOR magenta] [I] TV CINE 3 [/I] [/COLOR] [COLOR=lime][/COLOR]</title>
 
+<link>http://htv.iptvpro.biz:5500/live/ss/ss/14.m3u8</link>
+
+
+<thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine3.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR magenta] [I] TV CINE 3 [/I] [/COLOR] [COLOR=lime][/COLOR]</title>
+
 <link>http://77.57.189.132:8000/play/a02s</link>
 
 
@@ -2355,12 +2385,20 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item>
 <title>[COLOR magenta] [I] TV CINE 4 [/I] [/COLOR] [COLOR=lime][/COLOR]</title>
 
-<link>http://77.57.189.132:8000/play/a02u</link>
+<link>http://htv.iptvpro.biz:5500/live/ss/ss/15.m3u8</link>
 
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine4.png</thumbnail>
 </regex>
 </item>
 
+<item>
+<title>[COLOR magenta] [I] TV CINE 4 [/I] [/COLOR] [COLOR=lime][/COLOR]</title>
+
+<link>http://77.57.189.132:8000/play/a02u</link>
+
+<thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine4.png</thumbnail>
+</regex>
+</item>
 
 <item>
 <title>[COLOR magenta] [I] TV SERIES [/I] [/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
@@ -2372,7 +2410,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item>
 <title>[COLOR magenta] [I] TV SERIES [/I] [/COLOR] [COLOR=lime][/COLOR]</title>
 
-<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2306.m3u8 </link>
+<link>http://htv.iptvpro.biz:5500/live/ss/ss/30.m3u8 </link>
 
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvseries.png</thumbnail>
 </regex>
