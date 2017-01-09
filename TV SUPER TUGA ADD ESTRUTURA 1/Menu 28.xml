@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
-</item>
-<channel>
-<name>[COLOR red]AFRICA TV[/COLOR] [COLOR lime]SERVIDOR 1[/COLOR]</name>
+
+<item>	
+<title>[COLOR red]AFRICA TV[/COLOR] [COLOR lime]SERVIDOR 1[/COLOR]</title>
 <thumbnail>https://www.apkgplay.com/img/2016/04/28/51329/mytv.italy.tv.channels.online.jpg</thumbnail>
 <fanart>https://www.takeatravel.in/wp-content/uploads/st_uploadfont/europeitaly-06.jpg</fanart>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA%201/AFRICA%20TV/AFRICA%20TV%20SERVIDOR%201.xml</externallink>
-</subitem>
-
-
 </item>
-<channel>
-<name>                [COLOR yellow] (f4mtester)[/COLOR]</name>
+</Channel>
+<item>
+<title>                [COLOR yellow](f4mtester) [/COLOR]</title>
+<link>http://Movies.me</link>
+<jsonrpc></jsonrpc>
 <thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
-<fanart>https://www.takeatravel.in/wp-content/uploads/st_uploadfont/europeitaly-06.jpg</fanart>
-<link>http://ignorame</link>
-<externallink>http:1.xml</externallink>
-</subitem>
-
+<fanart></fanart>
+</item>
