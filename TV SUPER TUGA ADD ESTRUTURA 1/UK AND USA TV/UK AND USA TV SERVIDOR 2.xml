@@ -23,7 +23,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 02-01-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 09-01-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -34,243 +34,557 @@
 
 
 
-
 <item>
-<item>
-<title>UK:CNN_NEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2383.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:CNN_NEWS </link>
+<title>(UK) BBC 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/332.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) BBC 1 HD </link>
 </item>
 <item>
-<title>UK:ITV1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/447.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ITV1 </link>
+<title>(UK) BBC 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/333.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) BBC 2 HD </link>
 </item>
 <item>
-<title>UK:ITV2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/448.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ITV2 </link>
+<title>(UK) BBC 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/319.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) BBC 3 HD </link>
 </item>
 <item>
-<title>UK:ITV3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/321.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ITV3 </link>
+<title>(UK) BBC 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/334.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) BBC 4 HD </link>
 </item>
 <item>
-<title>UK:ITV4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/320.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ITV4 </link>
+<title>(UK) BBC Entertainment</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/323.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) BBC Entertainment </link>
 </item>
 <item>
-<title>UK:MORE_4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1813.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:MORE_4 </link>
+<title>(UK) Channel 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1560.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Channel 4 </link>
 </item>
 <item>
-<title>UK:BBC1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/318.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC1 </link>
+<title>(UK) Channel 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11471.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Channel 4 HD </link>
 </item>
 <item>
-<title>UK:BBC2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/317.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC2 </link>
+<title>(UK) Channel 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1561.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Channel 5 </link>
 </item>
 <item>
-<title>UK:BBC3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/316.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC3 </link>
+<title>(UK) Channel 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11472.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Channel 5 HD </link>
 </item>
 <item>
-<title>UK:BBC4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/315.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC4 </link>
+<title>(UK) iTV 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/328.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) iTV 1 HD </link>
 </item>
 <item>
-<title>UK:DISNEY_CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/286.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:DISNEY_CHANNEL </link>
+<title>(UK) iTV 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/329.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) iTV 2 HD </link>
 </item>
 <item>
-<title>UK:NICKELODEON</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/288.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:NICKELODEON </link>
+<title>(UK) iTV 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/330.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) iTV 3 HD </link>
 </item>
 <item>
-<title>UK:DISNEY_XD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/950.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:DISNEY_XD </link>
+<title>(UK) ITV 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/464.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) ITV 4 HD </link>
 </item>
 <item>
-<title>UK:RTE_JR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/322.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:RTE_JR </link>
+<title>(UK) iTV Be</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/8153.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) iTV Be </link>
 </item>
 <item>
-<title>UK:RTE1HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/323.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:RTE1HD </link>
+<title>(UK) 3E</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11424.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) 3E </link>
 </item>
 <item>
-<title>UK:SENTANTA_IRELAND</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/276.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SENTANTA_IRELAND </link>
+<title>(UK) 4Seven HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11473.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) 4Seven HD </link>
 </item>
 <item>
-<title>UK:SKY_ONE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/289.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_ONE </link>
+<title>(UK) More 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11428.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) More 4 </link>
 </item>
 <item>
-<title>UK:SKY_TWO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/285.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_TWO </link>
+<title>(UK) E4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1566.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) E4 </link>
 </item>
 <item>
-<title>UK:SKY_MOVIES_THRILLER</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/290.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_MOVIES_THRILLER </link>
+<title>(UK) Five</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/331.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Five </link>
 </item>
 <item>
-<title>UK:SKY_MOVIES_SELECT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/291.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_MOVIES_SELECT </link>
+<title>(UK) 5 Star</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11430.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) 5 Star </link>
 </item>
 <item>
-<title>UK:SKY_MOVIES_PREMIERE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/293.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_MOVIES_PREMIERE </link>
+<title>(UK) Gold</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/191.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Gold </link>
 </item>
 <item>
-<title>UK:SKY_MOVIES_MODERN_GREAT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/295.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_MOVIES_MODERN_GREAT </link>
+<title>(UK) TCM</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11422.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) TCM </link>
 </item>
 <item>
-<title>UK:SKY_MOVIES_FAMILY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/309.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_MOVIES_FAMILY </link>
+<title>(UK) E!</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11411.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) E! </link>
 </item>
 <item>
-<title>UK:SKY_MOVIES_DRAMA_ROMANCE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/299.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_MOVIES_DRAMA_ROMANCE </link>
+<title>(UK) Sky Living UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/327.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky Living UK </link>
 </item>
 <item>
-<title>UK:SKY_MOVIES_COMEDY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/311.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_MOVIES_COMEDY </link>
+<title>(UK) RTE 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1569.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) RTE 1 HD </link>
 </item>
 <item>
-<title>UK:SKY_MOVIES_ACTION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/300.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_MOVIES_ACTION </link>
+<title>(UK) RTE 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11404.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) RTE 2 HD </link>
 </item>
 <item>
-<title>UK:TRUE_MOVIES2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1399.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:TRUE_MOVIES2 </link>
+<title>(UK) RTE Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11416.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) RTE Junior </link>
 </item>
 <item>
-<title>UK:CBS_DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1398.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:CBS_DRAMA </link>
+<title>(UK) Quest</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11414.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Quest </link>
 </item>
 <item>
-<title>UK:CARTOON_NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/1400.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:CARTOON_NETWORK </link>
+<title>(UK) H2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11421.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) H2 </link>
 </item>
 <item>
-<title>UK:SKY_ATLANTIC_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/306.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_ATLANTIC_HD </link>
+<title>(UK) Dave</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11436.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Dave </link>
 </item>
 <item>
-<title>UK:TRUE_MOVIES1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/287.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:TRUE_MOVIES1 </link>
+<title>(UK) Pick TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11426.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Pick TV </link>
 </item>
 <item>
-<title>UK:ANIMAL_PLANETE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/314.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ANIMAL_PLANETE </link>
+<title>(UK) Dmax</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1565.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Dmax </link>
 </item>
 <item>
-<title>UK:NATIONAL_GEOGRAPHY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/312.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:NATIONAL_GEOGRAPHY </link>
+<title>☆☆☆☆☆ UK - NEWS ☆☆☆☆☆</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11447.ts&amp;streamtype=TSDOWNLOADER&amp;name=☆☆☆☆☆ UK - NEWS ☆☆☆☆☆ </link>
 </item>
 <item>
-<title>UK:DISCOVERY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/313.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:DISCOVERY </link>
+<title>(UK) BBC News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11412.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) BBC News </link>
 </item>
 <item>
-<title>UK:HISTORY_CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/284.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:HISTORY_CHANNEL </link>
+<title>(UK) Sky News HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/204.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky News HD </link>
 </item>
 <item>
-<title>UK:LIVING</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/319.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:LIVING </link>
+<title>(UK) CNN News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11443.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) CNN News </link>
 </item>
 <item>
-<title>UK:BT_SPORTS_2HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/281.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BT_SPORTS_2HD </link>
+<title>(UK) Bloomberg</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11440.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Bloomberg </link>
 </item>
 <item>
-<title>UK:BT_SPORTS_1HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/282.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BT_SPORTS_1HD </link>
+<title>(UK) Al Jazeera UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11423.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Al Jazeera UK </link>
 </item>
 <item>
-<title>UK:BOX_NATION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BOX_NATION </link>
+<title>☆☆☆☆☆ UK - DOCUMENTARY ☆☆☆☆☆</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7132.ts&amp;streamtype=TSDOWNLOADER&amp;name=☆☆☆☆☆ UK - DOCUMENTARY ☆☆☆☆☆ </link>
 </item>
 <item>
-<title>UK:ESPN_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/279.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ESPN_HD </link>
+<title>(UK) Discovery Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/195.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Discovery Channel </link>
 </item>
 <item>
-<title>UK:SKY_SPORTS_NEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_SPORTS_NEWS </link>
+<title>(UK) Discovery History</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/193.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Discovery History </link>
 </item>
 <item>
-<title>UK:SKY_SPORTS_F1HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/272.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_SPORTS_F1HD </link>
+<title>(UK) Discovery Science</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1563.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Discovery Science </link>
 </item>
 <item>
-<title>UK:SKY_SPORTS_1HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/275.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_SPORTS_1HD </link>
+<title>(UK) Discovery Turbo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11410.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Discovery Turbo </link>
 </item>
 <item>
-<title>UK:SKY_SPORTS_2HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/274.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_SPORTS_2HD </link>
+<title>(UK) Discovery Shed</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11445.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Discovery Shed </link>
 </item>
 <item>
-<title>UK:SKY_SPORTS_3HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/273.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_SPORTS_3HD </link>
+<title>(UK) Discovery Home&Health</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11420.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Discovery Home&Health </link>
 </item>
 <item>
-<title>UK:SKY_SPORTS_4HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/776.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_SPORTS_4HD </link>
+<title>(UK) Investigation Discovery</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/196.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Investigation Discovery </link>
 </item>
 <item>
-<title>UK:SKY_SPORTS_5HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/777.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_SPORTS_5HD </link>
+<title>(UK) National Geographic Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/194.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) National Geographic Channel </link>
 </item>
 <item>
-<title>US:FOX_NEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2937.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:FOX_NEWS </link>
+<title>(UK) National Geographic Wild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1568.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) National Geographic Wild </link>
 </item>
 <item>
-<title>US:ABC_NEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2494.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:ABC_NEWS </link>
+<title>(UK) History Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11415.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) History Channel </link>
 </item>
 <item>
-<title>US:NASA_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2491.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:NASA_TV </link>
+<title>(UK) Animal Planet</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/192.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Animal Planet </link>
 </item>
 <item>
-<title>US:HISTORY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2484.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:HISTORY </link>
+<title>(UK) Travel Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11425.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Travel Channel </link>
 </item>
 <item>
-<title>US:FX_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2789.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:FX_HD </link>
+<title>☆☆☆☆☆ UK - MUSIC ☆☆☆☆☆</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7133.ts&amp;streamtype=TSDOWNLOADER&amp;name=☆☆☆☆☆ UK - MUSIC ☆☆☆☆☆ </link>
 </item>
 <item>
-<title>US:SPIKE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2490.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:SPIKE </link>
+<title>(UK) Vevo 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11405.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Vevo 1 HD </link>
 </item>
 <item>
-<title>USA:HBO_US</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2753.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:HBO_US </link>
+<title>(UK) Vevo 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11406.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Vevo 2 HD </link>
 </item>
 <item>
-<title>US:HBO_SIGNATURE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2487.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:HBO_SIGNATURE </link>
+<title>(UK) Vevo 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11407.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Vevo 3 HD </link>
 </item>
 <item>
-<title>US:BLOOMBERG</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2488.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:BLOOMBERG </link>
+<title>(UK) MTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/8171.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) MTV </link>
 </item>
 <item>
-<title>US:SYFY_USA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2495.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:SYFY_USA </link>
+<title>(UK) MTV +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11171.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) MTV +1 </link>
 </item>
 <item>
-<title>CAN:TVA_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2785.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAN:TVA_TV </link>
+<title>(UK) MTV Music</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1580.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) MTV Music </link>
 </item>
 <item>
-<title>CAN:RDI_CANADA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2783.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAN:RDI_CANADA </link>
+<title>(UK) MTV Music +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11174.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) MTV Music +1 </link>
+</item>
+<item>
+<title>(UK) MTV Dance</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/349.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) MTV Dance </link>
+</item>
+<item>
+<title>(UK) MTV Hits</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/347.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) MTV Hits </link>
+</item>
+<item>
+<title>(UK) MTV Rocks</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/348.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) MTV Rocks </link>
+</item>
+<item>
+<title>(UK) MTV Base</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11172.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) MTV Base </link>
+</item>
+<item>
+<title>(UK) MTV Classic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11173.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) MTV Classic </link>
+</item>
+<item>
+<title>(UK) VH1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/350.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) VH1 </link>
+</item>
+<item>
+<title>(UK) Viva</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11170.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Viva </link>
+</item>
+<item>
+<title>☆☆☆☆☆ UK - KIDS ☆☆☆☆☆</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7134.ts&amp;streamtype=TSDOWNLOADER&amp;name=☆☆☆☆☆ UK - KIDS ☆☆☆☆☆ </link>
+</item>
+<item>
+<title>(UK) Comedy Central</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11408.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Comedy Central </link>
+</item>
+<item>
+<title>(UK) Comedy Xtra</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11409.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Comedy Xtra </link>
+</item>
+<item>
+<title>(UK) Disney Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/2522.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Disney Channel </link>
+</item>
+<item>
+<title>(UK) Disney Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1564.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Disney Junior </link>
+</item>
+<item>
+<title>(UK) Cartoon Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/359.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Cartoon Network </link>
+</item>
+<item>
+<title>(UK) Nickelodeon</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11434.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Nickelodeon </link>
+</item>
+<item>
+<title>(UK) Nick Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1581.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Nick Junior </link>
+</item>
+<item>
+<title>(UK) NickToons</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11433.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) NickToons </link>
+</item>
+<item>
+<title>(UK) Boomerang</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11439.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Boomerang </link>
+</item>
+<item>
+<title>(UK) Baby TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11441.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Baby TV </link>
+</item>
+<item>
+<title>☆☆☆☆☆ UK - CINEMA ☆☆☆☆☆</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7130.ts&amp;streamtype=TSDOWNLOADER&amp;name=☆☆☆☆☆ UK - CINEMA ☆☆☆☆☆ </link>
+</item>
+<item>
+<title>(UK) SyFy HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/17.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) SyFy HD </link>
+</item>
+<item>
+<title>(UK) Sky One HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1582.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky One HD </link>
+</item>
+<item>
+<title>(UK) Sky Two</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/2519.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky Two </link>
+</item>
+<item>
+<title>(UK) Sky Arts</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1570.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky Arts </link>
+</item>
+<item>
+<title>(UK) Sky Atlantic HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1575.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky Atlantic HD </link>
+</item>
+<item>
+<title>(UK) Sky Movies Drama & Romance HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/565.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky Movies Drama & Romance HD </link>
+</item>
+<item>
+<title>(UK) Sky Movies Action & Adventure</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/199.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky Movies Action & Adventure </link>
+</item>
+<item>
+<title>(UK) Sky Movies Comedy HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/201.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky Movies Comedy HD </link>
+</item>
+<item>
+<title>(UK) Sky Movies Crime & Thriller HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/200.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky Movies Crime & Thriller HD </link>
+</item>
+<item>
+<title>(UK) Sky Movies Disney</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1577.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky Movies Disney </link>
+</item>
+<item>
+<title>(UK) Sky Movies Family HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/202.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky Movies Family HD </link>
+</item>
+<item>
+<title>(UK) Sky Movies Select HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/569.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky Movies Select HD </link>
+</item>
+<item>
+<title>(UK) Sky Movies Premiere HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/198.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky Movies Premiere HD </link>
+</item>
+<item>
+<title>(UK) Sky Movies Sci-Fi & Horror</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/203.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky Movies Sci-Fi & Horror </link>
+</item>
+<item>
+<title>(UK) Sky Movies Showcase</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11431.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky Movies Showcase </link>
+</item>
+<item>
+<title>(UK) Sky Movies Greats HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11432.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky Movies Greats HD </link>
+</item>
+<item>
+<title>(UK) True Movies 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11418.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) True Movies 1 </link>
+</item>
+<item>
+<title>(UK) True Movies 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11419.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) True Movies 2 </link>
+</item>
+<item>
+<title>(UK) Movies 4 Men</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11427.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Movies 4 Men </link>
+</item>
+<item>
+<title>(UK) Horror Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11438.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Horror Channel </link>
+</item>
+<item>
+<title>(UK) Film 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11437.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Film 4 </link>
+</item>
+<item>
+<title>(UK) Drama UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11429.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Drama UK </link>
+</item>
+<item>
+<title>☆☆☆☆☆ UK - SPORTS ☆☆☆☆☆</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7131.ts&amp;streamtype=TSDOWNLOADER&amp;name=☆☆☆☆☆ UK - SPORTS ☆☆☆☆☆ </link>
+</item>
+<item>
+<title>(UK) Sky Sport News HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1571.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky Sport News HD </link>
+</item>
+<item>
+<title>(UK) Sky Sports 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7641.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky Sports 1 </link>
+</item>
+<item>
+<title>(UK) Sky Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/209.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky Sports 1 HD </link>
+</item>
+<item>
+<title>(UK) Sky Sports 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11399.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky Sports 2 </link>
+</item>
+<item>
+<title>(UK) Sky Sports 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/210.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky Sports 2 HD </link>
+</item>
+<item>
+<title>(UK) Sky Sports 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/211.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky Sports 3 </link>
+</item>
+<item>
+<title>(UK) Sky Sports 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11400.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky Sports 3 HD </link>
+</item>
+<item>
+<title>(UK) Sky Sports 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/212.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky Sports 4 </link>
+</item>
+<item>
+<title>(UK) Sky Sports 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11401.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky Sports 4 HD </link>
+</item>
+<item>
+<title>(UK) Sky Sports 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/213.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky Sports 5 </link>
+</item>
+<item>
+<title>(UK) Sky Sports 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11402.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky Sports 5 HD </link>
+</item>
+<item>
+<title>(UK) Sky Sports F1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/214.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Sky Sports F1 HD </link>
+</item>
+<item>
+<title>(UK) BT Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/206.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) BT Sport 1 </link>
+</item>
+<item>
+<title>(UK) BT Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11484.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) BT Sport 1 HD </link>
+</item>
+<item>
+<title>(UK) BT Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/207.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) BT Sport 2 </link>
+</item>
+<item>
+<title>(UK) BT Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11485.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) BT Sport 2 HD </link>
+</item>
+<item>
+<title>(UK) BT Sport Europe</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/988.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) BT Sport Europe </link>
+</item>
+<item>
+<title>(UK) BT Sport Europe HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11486.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) BT Sport Europe HD </link>
+</item>
+<item>
+<title>(UK) BT ESPN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/316.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) BT ESPN HD </link>
+</item>
+<item>
+<title>(UK) BT Sport Extra</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7640.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) BT Sport Extra </link>
+</item>
+<item>
+<title>(UK) CTH Stadium X</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/5345.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) CTH Stadium X </link>
+</item>
+<item>
+<title>(UK) CTH Stadium 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1948.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) CTH Stadium 1 HD </link>
+</item>
+<item>
+<title>(UK) CTH Stadium 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1949.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) CTH Stadium 2 HD </link>
+</item>
+<item>
+<title>(UK) CTH Stadium 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1950.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) CTH Stadium 3 HD </link>
+</item>
+<item>
+<title>(UK) CTH Stadium 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1951.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) CTH Stadium 4 HD </link>
+</item>
+<item>
+<title>(UK) CTH Stadium 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1952.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) CTH Stadium 5 HD </link>
+</item>
+<item>
+<title>(UK) CTH Stadium 6 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1953.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) CTH Stadium 6 HD </link>
+</item>
+<item>
+<title>(UK) Eurosport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/985.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Eurosport 1 </link>
+</item>
+<item>
+<title>(UK) MUTV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11435.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) MUTV HD </link>
+</item>
+<item>
+<title>(UK) Chelsea TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1576.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Chelsea TV </link>
+</item>
+<item>
+<title>(UK) Liverpool TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1785.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Liverpool TV </link>
+</item>
+<item>
+<title>(UK) Box Nation</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/458.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Box Nation </link>
+</item>
+<item>
+<title>(UK) Motors TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1579.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Motors TV </link>
+</item>
+<item>
+<title>(UK) Premier Sports HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/313.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Premier Sports HD </link>
+</item>
+<item>
+<title>(UK) Setanta Sports</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1594.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Setanta Sports </link>
+</item>
+<item>
+<title>(UK) Racing UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11403.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) Racing UK </link>
+</item>
+<item>
+<title>(UK) At the Races</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11442.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK) At the Races </link>
 </item>
 
 
