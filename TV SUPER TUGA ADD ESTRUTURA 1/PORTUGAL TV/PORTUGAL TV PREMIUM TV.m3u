@@ -1,69 +1,809 @@
 #EXTM3U
  
-
-
-
-
-
-#EXTINF:-1,PT:EUROSPORT1
-http://mediaipro.com:8000/live/3w2xp/ure3d/2367.m3u8
-#EXTINF:-1,PT:DISNEY_CHANNEL
-http://mediaipro.com:8000/live/3w2xp/ure3d/2368.m3u8
-#EXTINF:-1,PT:SIC_RADICAL
-http://mediaipro.com:8000/live/3w2xp/ure3d/2370.m3u8
-#EXTINF:-1,PT:TVCine1
-http://mediaipro.com:8000/live/3w2xp/ure3d/2302.m3u8
-#EXTINF:-1,PT:TVCine2
-http://mediaipro.com:8000/live/3w2xp/ure3d/2303.m3u8
-#EXTINF:-1,PT:TVCine3
-http://mediaipro.com:8000/live/3w2xp/ure3d/2304.m3u8
-#EXTINF:-1,PT:TVCine4
-http://mediaipro.com:8000/live/3w2xp/ure3d/2305.m3u8
-#EXTINF:-1,PT:TVCseries
-http://mediaipro.com:8000/live/3w2xp/ure3d/2306.m3u8
-#EXTINF:-1,PT:RTP_Madeira
-http://mediaipro.com:8000/live/3w2xp/ure3d/2318.m3u8
-#EXTINF:-1,PT:RTP_MEMORIA
-http://mediaipro.com:8000/live/3w2xp/ure3d/2319.m3u8
-#EXTINF:-1,PT:RTP2
-http://mediaipro.com:8000/live/3w2xp/ure3d/2320.m3u8
-#EXTINF:-1,PT:RTP1
-http://mediaipro.com:8000/live/3w2xp/ure3d/2321.m3u8
-#EXTINF:-1,PT:Fox_Life
-http://mediaipro.com:8000/live/3w2xp/ure3d/2313.m3u8
-#EXTINF:-1,PT:Fox_Crime
-http://mediaipro.com:8000/live/3w2xp/ure3d/2314.m3u8
-#EXTINF:-1,PT:Fox_Comedy
-http://mediaipro.com:8000/live/3w2xp/ure3d/2311.m3u8
-#EXTINF:-1,PT:FoxHD
-http://mediaipro.com:8000/live/3w2xp/ure3d/2312.m3u8
-#EXTINF:-1,PT:Axn_White
-http://mediaipro.com:8000/live/3w2xp/ure3d/2309.m3u8
-#EXTINF:-1,PT:Axn_Black
-http://mediaipro.com:8000/live/3w2xp/ure3d/2310.m3u8
-#EXTINF:-1,PT:AXN
-http://mediaipro.com:8000/live/3w2xp/ure3d/2308.m3u8
-#EXTINF:-1,PT:SporTV5
-http://mediaipro.com:8000/live/3w2xp/ure3d/2298.m3u8
-#EXTINF:-1,PT:SporTV1
-http://mediaipro.com:8000/live/3w2xp/ure3d/2325.m3u8
-#EXTINF:-1,PT:SporTV2
-http://mediaipro.com:8000/live/3w2xp/ure3d/2295.m3u8
-#EXTINF:-1,PT:SporTV3
-http://mediaipro.com:8000/live/3w2xp/ure3d/2296.m3u8
-#EXTINF:-1,PT:SporTV4
-http://mediaipro.com:8000/live/3w2xp/ure3d/2297.m3u8
-#EXTINF:-1,PT:Canal_Porto
-http://mediaipro.com:8000/live/3w2xp/ure3d/2315.m3u8
-#EXTINF:-1,PT:Benfica2
-http://mediaipro.com:8000/live/3w2xp/ure3d/2300.m3u8
-#EXTINF:-1,PT:Benfica1
-http://mediaipro.com:8000/live/3w2xp/ure3d/2301.m3u8
-#EXTINF:-1,PT:TVI
-http://mediaipro.com:8000/live/3w2xp/ure3d/2317.m3u8
-#EXTINF:-1,PT:SyFy
-http://mediaipro.com:8000/live/3w2xp/ure3d/2322.m3u8
-#EXTINF:-1,PT:Disney_Junior
-http://mediaipro.com:8000/live/3w2xp/ure3d/2324.m3u8
-#EXTINF:-1,PT:CartoonNetWork
-http://mediaipro.com:8000/live/3w2xp/ure3d/2323.m3u8
+ 
+ 
+ 
+#EXTINF:-1 tvg-ID="rtp1.pt" tvg-name="RTP 1" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png" group-title="NOS",RTP 1
+http://dgimedia.ddns.net:9898/live/silva/silva/1.m3u8
+#EXTINF:-1 tvg-ID="rtp2.pt" tvg-name="RTP 2" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png" group-title="NOS",RTP 2
+http://dgimedia.ddns.net:9898/live/silva/silva/2.m3u8
+#EXTINF:-1 tvg-ID="sic.pt" tvg-name="SIC" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sic.png" group-title="NOS",SIC
+http://dgimedia.ddns.net:9898/live/silva/silva/3.m3u8
+#EXTINF:-1 tvg-ID="TVI.pt" tvg-name="TVI" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png" group-title="NOS",TVI
+http://dgimedia.ddns.net:9898/live/silva/silva/4.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="---------- NOTICIAS ----------" tvg-logo="http://www.glow-momenm3u8.com/images/cubo-3d-string-art.jpg" group-title="NOS",---------- NOTICIAS ----------
+http://dgimedia.ddns.net:9898/live/silva/silva/67.m3u8
+#EXTINF:-1 tvg-ID="rtpn.pt" tvg-name="RTP 3" tvg-logo="https://www.mobile2morrow.com/images/57bc209fb2985.png" group-title="NOS",RTP 3
+http://dgimedia.ddns.net:9898/live/silva/silva/5.m3u8
+#EXTINF:-1 tvg-ID="TVI24.pt" tvg-name="TVI  24" tvg-logo="http://www.tvi24.iol.pt/images/default.jpg" group-title="NOS",TVI  24
+http://dgimedia.ddns.net:9898/live/silva/silva/7.m3u8
+#EXTINF:-1 tvg-ID="sicnoticias.pt" tvg-name="SIC NOTICIAS" tvg-logo="http://diariodigital.sapo.pt/images_content/2013/sicnoticias.jpg" group-title="NOS",SIC NOTICIAS
+http://dgimedia.ddns.net:9898/live/silva/silva/6.m3u8
+#EXTINF:-1 tvg-ID="CMTV.pt" tvg-name="CMTV" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/cmtv.png" group-title="NOS",CMTV
+http://dgimedia.ddns.net:9898/live/silva/silva/8.m3u8
+#EXTINF:-1 tvg-ID="ABolaTV.pt" tvg-name="A BOLA" tvg-logo="http://3.bp.blogspot.com/-d4jHjVvWtQk/UENVf6WgxLI/AAAAAAAAALo/87wgGCO8Hs0/s1600/a+bola+tv.png" group-title="NOS",A BOLA
+http://dgimedia.ddns.net:9898/live/silva/silva/30.m3u8
+#EXTINF:-1 tvg-ID="PortoCanal.pt" tvg-name="PORTO CANAL" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/portocanal.png" group-title="NOS",PORTO CANAL
+http://dgimedia.ddns.net:9898/live/silva/silva/51.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="---------- ANIMAÇAO ----------" tvg-logo="http://www.glow-momenm3u8.com/images/cubo-3d-string-art.jpg" group-title="NOS",---------- ANIMAÇAO ----------
+http://dgimedia.ddns.net:9898/live/silva/silva/68.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SIC RADICAL" tvg-logo="http://www.theeeviltones.co.uk/images/news/sic-radical.jpg" group-title="NOS",SIC RADICAL
+http://dgimedia.ddns.net:9898/live/silva/silva/12.m3u8
+#EXTINF:-1 tvg-ID="SICK.pt" tvg-name="SIC K" tvg-logo="http://www.stereoaddiction.com/wp-content/uploads/2010/02/sic_k.jpg" group-title="NOS",SIC K
+http://dgimedia.ddns.net:9898/live/silva/silva/10.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON" tvg-logo="http://www.mobygames.com/images/i/35/46/822696.png" group-title="NOS",NICKELODEON
+http://dgimedia.ddns.net:9898/live/silva/silva/14.m3u8
+#EXTINF:-1 tvg-ID="JJAM" tvg-name="JIM JAM" tvg-logo="https://a1-images.myspacecdn.com/images03/2/1d56140a9e014f0bab6571e474a9fee7/300x300.jpg" group-title="NOS",JIM JAM
+http://dgimedia.ddns.net:9898/live/silva/silva/11.m3u8
+#EXTINF:-1 tvg-ID="disneyjunior.pt" tvg-name="DISNEY JUNIOR" tvg-logo="http://s3.amazonaws.com/files.disneyjuniorchannel.ca/shows/carousel/mickymouseclubhouse_pad.png" group-title="NOS",DISNEY JUNIOR
+http://dgimedia.ddns.net:9898/live/silva/silva/15.m3u8
+#EXTINF:-1 tvg-ID="disneychannel.pt" tvg-name="DISNEY CHANNEL" tvg-logo="http://hollywoodmomblog.com/wp-content/uploads/2014/01/Disney-Channel-Logo-350x270.jpg" group-title="NOS",DISNEY CHANNEL
+http://dgimedia.ddns.net:9898/live/silva/silva/16.m3u8
+#EXTINF:-1 tvg-ID="CART" tvg-name="CARTOON NETWORK" tvg-logo="https://static-s.aa-cdn.net/img/ios/700390966/abf2f66790eeb8013b34455b4adfebb2" group-title="NOS",CARTOON NETWORK
+http://dgimedia.ddns.net:9898/live/silva/silva/17.m3u8
+#EXTINF:-1 tvg-ID="canalpanda.pt" tvg-name="CANAL PANDA" tvg-logo="http://www.nos.pt/particulares/televisao/kids/PublishingImages/canais/logos/televisao114_WPB168.png" group-title="NOS",CANAL PANDA
+http://dgimedia.ddns.net:9898/live/silva/silva/13.m3u8
+#EXTINF:-1 tvg-ID="PandaBiggs.pt" tvg-name="BIGGS" tvg-logo="https://yt3.ggpht.com/-3oED40AhqAA/AAAAAAAAAAI/AAAAAAAAAAA/DZkfPIr56pg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="NOS",BIGGS
+http://dgimedia.ddns.net:9898/live/silva/silva/9.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="---------- FILMES & SERIES ----------" tvg-logo="http://www.glow-momenm3u8.com/images/string-art-estrela-1.jpg" group-title="NOS",---------- FILMES & SERIES ----------
+http://dgimedia.ddns.net:9898/live/silva/silva/69.m3u8
+#EXTINF:-1 tvg-ID="axn.pt" tvg-name="AXN HD" tvg-logo="https://www.google.pt/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjG7NvD04bRAhVJQBoKHU3MDDcQjRwIBw&url=http%3A%2F%2Ftv.burrp.com%2Fchannel%2Faxn-hd%2F672%2F&psig=AFQjCNHwLq9xym61wNfm31VrX6Q45YCYlA&ust=1482456646791311" group-title="NOS",AXN HD
+http://dgimedia.ddns.net:9898/live/silva/silva/18.m3u8
+#EXTINF:-1 tvg-ID="AXNWhite.pt" tvg-name="AXN WHITE" tvg-logo="http://www.atelevisao.com/wp-content/uploads/2012/04/AXN-White-470x313.jpg" group-title="NOS",AXN WHITE
+http://dgimedia.ddns.net:9898/live/silva/silva/20.m3u8
+#EXTINF:-1 tvg-ID="AXNBlack.pt" tvg-name="AXN BLACK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlI8rUtJDEYwGbXhO13Uajz9M6v0N_CKLr8jSUf4Ec8oMtfBbCw" group-title="NOS",AXN BLACK
+http://dgimedia.ddns.net:9898/live/silva/silva/19.m3u8
+#EXTINF:-1 tvg-ID="AMC" tvg-name="AMC" tvg-logo="http://static1.squarespace.com/static/55dcef2ce4b0cc60a12cef3d/55dd0598e4b09a5c0644c26a/55dd081be4b0f0c3127ca550/1440548891444/amc_logo.png" group-title="NOS",AMC
+http://dgimedia.ddns.net:9898/live/silva/silva/21.m3u8
+#EXTINF:-1 tvg-ID="FOXM" tvg-name="FOX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/Fox_Movies_Premium_logo.png" group-title="NOS",FOX MOVIES
+http://dgimedia.ddns.net:9898/live/silva/silva/22.m3u8
+#EXTINF:-1 tvg-ID="CINEMUNDO" tvg-name="CINEMUNDO" tvg-logo="http://www.cinemundo.pt/wp-content/uploads/2014/11/CINEMUNDO-AZUL3.png" group-title="NOS",CINEMUNDO
+http://dgimedia.ddns.net:9898/live/silva/silva/23.m3u8
+#EXTINF:-1 tvg-ID="hollywood.pt" tvg-name="HOLLYWOOD" tvg-logo="http://4.bp.blogspot.com/-SRdf6OBwhCo/VmcRKA0C-JI/AAAAAAAAHw4/Yq52WOntHj0/s200/canal%2Bhollywood.png" group-title="NOS",HOLLYWOOD
+http://dgimedia.ddns.net:9898/live/silva/silva/24.m3u8
+#EXTINF:-1 tvg-ID="TVCine1.pt" tvg-name="TVCINE 1 HD" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvc1.png" group-title="NOS",TVCINE 1 HD
+http://dgimedia.ddns.net:9898/live/silva/silva/25.m3u8
+#EXTINF:-1 tvg-ID="TVCine2.pt" tvg-name="TVCINE 2 HD" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvc2.png" group-title="NOS",TVCINE 2 HD
+http://dgimedia.ddns.net:9898/live/silva/silva/26.m3u8
+#EXTINF:-1 tvg-ID="TVCine3.pt" tvg-name="TVCINE 3 HD" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvc3.png" group-title="NOS",TVCINE 3 HD
+http://dgimedia.ddns.net:9898/live/silva/silva/27.m3u8
+#EXTINF:-1 tvg-ID="TVCine4.pt" tvg-name="TVCINE 4 HD" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvc4.png" group-title="NOS",TVCINE 4 HD
+http://dgimedia.ddns.net:9898/live/silva/silva/28.m3u8
+#EXTINF:-1 tvg-ID="TVSeries.pt" tvg-name="TVSERIES HD" tvg-logo="https://static-s.aa-cdn.net/img/ios/533867467/a28e461d2a6613324446ab68d52411d1?v=1" group-title="NOS",TVSERIES HD
+http://dgimedia.ddns.net:9898/live/silva/silva/29.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BLOQUEIOS NET USAR (1 MEGA)" tvg-logo="" group-title="NOS",BLOQUEIOS NET USAR (1 MEGA)
+http://dgimedia.ddns.net:9898/live/silva/silva/188.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="---------- DESPORTO ----------" tvg-logo="http://www.glow-momenm3u8.com/images/painel-string-art-1.jpg" group-title="NOS",---------- DESPORTO ----------
+http://dgimedia.ddns.net:9898/live/silva/silva/70.m3u8
+#EXTINF:-1 tvg-ID="eurosport.pt" tvg-name="EUROSPORT 1" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/022013/eurosport_hd_live_new_0.png?itok=1N7L2WXi" group-title="NOS",EUROSPORT 1
+http://dgimedia.ddns.net:9898/live/silva/silva/31.m3u8
+#EXTINF:-1 tvg-ID="eurosport2.pt" tvg-name="EUROSPORT 2 XTRA" tvg-logo="data:image/png;base64,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" group-title="NOS",EUROSPORT 2 XTRA
+http://dgimedia.ddns.net:9898/live/silva/silva/32.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT TV +" tvg-logo="https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0005/9553/brand.gif?itok=Hehw6H-C" group-title="NOS",SPORT TV +
+http://dgimedia.ddns.net:9898/live/silva/silva/33.m3u8
+#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv1.png" group-title="NOS",SPORT TV 1
+http://dgimedia.ddns.net:9898/live/silva/silva/34.m3u8
+#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="SPORT TV 1 HD" tvg-logo="http://www.365center.me/assem3u8/uploadscenter365/SPORTtvHD1.png" group-title="NOS",SPORT TV 1 HD
+http://dgimedia.ddns.net:9898/live/silva/silva/35.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 1 (1 MEGA)" tvg-logo="" group-title="NOS",SPORTV 1 (1 MEGA)
+http://dgimedia.ddns.net:9898/live/silva/silva/182.m3u8
+#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="SPORT TV 1 HD *EXTRA*" tvg-logo="http://payload.cargocollective.com/1/1/32833/390087/24_sporttvpositive_v2.jpg" group-title="NOS",SPORT TV 1 HD *EXTRA*
+http://dgimedia.ddns.net:9898/live/silva/silva/36.m3u8
+#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="SPORT TV 2 HD" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv2.png" group-title="NOS",SPORT TV 2 HD
+http://dgimedia.ddns.net:9898/live/silva/silva/37.m3u8
+#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="SPORT TV 3 HD" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv3.png" group-title="NOS",SPORT TV 3 HD
+http://dgimedia.ddns.net:9898/live/silva/silva/38.m3u8
+#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="SPORT TV 4" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv4.png" group-title="NOS",SPORT TV 4
+http://dgimedia.ddns.net:9898/live/silva/silva/39.m3u8
+#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="SPORT TV 5" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv5.png" group-title="NOS",SPORT TV 5
+http://dgimedia.ddns.net:9898/live/silva/silva/40.m3u8
+#EXTINF:-1 tvg-ID="BenficaTV.pt" tvg-name="BENFICA TV 1" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/btv1.png" group-title="NOS",BENFICA TV 1
+http://dgimedia.ddns.net:9898/live/silva/silva/41.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BTV 1 (1 MEGA)" tvg-logo="" group-title="NOS",BTV 1 (1 MEGA)
+http://dgimedia.ddns.net:9898/live/silva/silva/187.m3u8
+#EXTINF:-1 tvg-ID="BenficaTV.pt" tvg-name="BENFICA TV 1 HD" tvg-logo="http://www.365center.me/assem3u8/uploadscenter365/BenficaTV1.png" group-title="NOS",BENFICA TV 1 HD
+http://dgimedia.ddns.net:9898/live/silva/silva/42.m3u8
+#EXTINF:-1 tvg-ID="BenficaTV.pt" tvg-name="BTV 1 HD (1 MEGA)" tvg-logo="http://tudotv.tv/fotos/a84eb9f4cc3b26a803502286aad764b5.png" group-title="NOS",BTV 1 HD (1 MEGA)
+http://dgimedia.ddns.net:9898/live/silva/silva/189.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CAÇAVISION" tvg-logo="http://a4.mzstatic.com/eu/r30/Purple5/v4/ca/8d/11/ca8d116e-2ddd-7c15-eba4-7da58ccdd063/icon175x175.png" group-title="NOS",CAÇAVISION
+http://dgimedia.ddns.net:9898/live/silva/silva/43.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CAZA y PESCA" tvg-logo="http://www.contalentotv.com/wp-content/uploads/2013/08/l_caza_y_pesca.png" group-title="NOS",CAZA y PESCA
+http://dgimedia.ddns.net:9898/live/silva/silva/44.m3u8
+#EXTINF:-1 tvg-ID="MOTOR" tvg-name="MOTOVISION" tvg-logo="" group-title="NOS",MOTOVISION
+http://dgimedia.ddns.net:9898/live/silva/silva/190.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="KOMBAT SPORm3u8 -(EM TESTE)-" tvg-logo="" group-title="NOS",KOMBAT SPORm3u8 -(EM TESTE)-
+http://dgimedia.ddns.net:9898/live/silva/silva/191.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="---------- ENTERTIMENTO ----------" tvg-logo="" group-title="NOS",---------- ENTERTIMENTO ----------
+http://dgimedia.ddns.net:9898/live/silva/silva/71.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TVI  REALITY" tvg-logo="http://www.sat-address.com/f/pics/logotipi/TVI-Reality_o.jpg" group-title="NOS",TVI  REALITY
+http://dgimedia.ddns.net:9898/live/silva/silva/45.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TVI REALITY MOSAICO (OFF-LINE)" tvg-logo="http://tvi-mcd.comercial.iol.pt/wp-content/uploads/2015/10/TVI_reality2.jpg" group-title="NOS",TVI REALITY MOSAICO (OFF-LINE)
+http://dgimedia.ddns.net:9898/live/silva/silva/46.m3u8
+#EXTINF:-1 tvg-ID="TVIFiccao.pt" tvg-name="TVI FICCAO" tvg-logo="http://suite7.iol.pt/wp-content/uploads/2014/01/slidea.png" group-title="NOS",TVI FICCAO
+http://dgimedia.ddns.net:9898/live/silva/silva/50.m3u8
+#EXTINF:-1 tvg-ID="TVRECORD" tvg-name="TV RECORD" tvg-logo="http://3.bp.blogspot.com/-q33uY1pmZq8/Urtd9JdyE_I/AAAAAAAAAmE/xYoOFGQ4DTQ/s1600/Logo-TV-Record.png" group-title="NOS",TV RECORD
+http://dgimedia.ddns.net:9898/live/silva/silva/47.m3u8
+#EXTINF:-1 tvg-ID="GLOBO" tvg-name="TV GLOBO" tvg-logo="http://www.vilaboadegoias.com.br/rede%20globo/fotos/logo%20marca%20do%20programa%20tv%20globo%20internacional.jpg" group-title="NOS",TV GLOBO
+http://dgimedia.ddns.net:9898/live/silva/silva/48.m3u8
+#EXTINF:-1 tvg-ID="GLOBO" tvg-name="TV GLOBO PREMIUM" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/b6/2014_Globo_Premium.png/revision/latest?cb=20141221050850" group-title="NOS",TV GLOBO PREMIUM
+http://dgimedia.ddns.net:9898/live/silva/silva/49.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FOX COMEDY" tvg-logo="http://portaldosprogramas.com/wp-content/uploads/2015/11/FOX-Comedy-249x120.jpg" group-title="NOS",FOX COMEDY
+http://dgimedia.ddns.net:9898/live/silva/silva/52.m3u8
+#EXTINF:-1 tvg-ID="odisseia.pt" tvg-name="ODISSEIA" tvg-logo="http://infocul.pt/wp-content/uploads/2016/11/Odisseia.jpg" group-title="NOS",ODISSEIA
+http://dgimedia.ddns.net:9898/live/silva/silva/53.m3u8
+#EXTINF:-1 tvg-ID="HistoryChannel.pt" tvg-name="CANAL DE HISTORIA" tvg-logo="http://4.bp.blogspot.com/-wjCsk9ABEnU/VBQSesarpGI/AAAAAAAAIX4/XnQcO3YXX9w/s1600/canal%2Bde%2Bhistoria.png" group-title="NOS",CANAL DE HISTORIA
+http://dgimedia.ddns.net:9898/live/silva/silva/54.m3u8
+#EXTINF:-1 tvg-ID="discoverychannel.pt" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://images.bwwstatic.com/columnpic7/E9ABDFF6-0CF8-B932-13C5A1B2D6A90019.jpg" group-title="NOS",DISCOVERY CHANNEL
+http://dgimedia.ddns.net:9898/live/silva/silva/55.m3u8
+#EXTINF:-1 tvg-ID="nationalgeographic.pt" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="data:image/png;base64,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" group-title="NOS",NATIONAL GEOGRAPHIC
+http://dgimedia.ddns.net:9898/live/silva/silva/56.m3u8
+#EXTINF:-1 tvg-ID="NGWIL" tvg-name="NAT GEO WILL" tvg-logo="https://static1.squarespace.com/static/53699e01e4b0e162ad57cc35/t/54d2440ce4b08d5997c6456f/1423066124935/natgeo.jpg?format=500w" group-title="NOS",NAT GEO WILL
+http://dgimedia.ddns.net:9898/live/silva/silva/57.m3u8
+#EXTINF:-1 tvg-ID="FOOD" tvg-name="FOOD NETWORK" tvg-logo="http://carolebeves.com/wp-content/uploads/2014/10/food-network-canada-logo-partner-page-WHITE-BG.jpg" group-title="NOS",FOOD NETWORK
+http://dgimedia.ddns.net:9898/live/silva/silva/58.m3u8
+#EXTINF:-1 tvg-ID="mtvportugal.pt" tvg-name="MTV PORTUGAL" tvg-logo="https://www.rokuchannels.tv/wp-content/uploads/2013/10/vevo1.jpg" group-title="NOS",MTV PORTUGAL
+http://dgimedia.ddns.net:9898/live/silva/silva/59.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="---------- ADULTOS ----------" tvg-logo="http://images.8tracks.com/cover/i/000/041/270/Hardcore-3746.jpg?rect=0,0,400,400&q=98&fm=jpg&fit=max" group-title="NOS",---------- ADULTOS ----------
+http://dgimedia.ddns.net:9898/live/silva/silva/72.m3u8
+#EXTINF:-1 tvg-ID="HOT" tvg-name="HOT" tvg-logo="http://www.wtvision.com/files/img/news/hotgold.jpg" group-title="NOS",HOT
+http://dgimedia.ddns.net:9898/live/silva/silva/62.m3u8
+#EXTINF:-1 tvg-ID="VENUS" tvg-name="VENUS" tvg-logo="http://www.vcfaz.tv/userpix/209_venus_2.jpg" group-title="NOS",VENUS
+http://dgimedia.ddns.net:9898/live/silva/silva/63.m3u8
+#EXTINF:-1 tvg-ID="PLAY" tvg-name="PLAYBOY" tvg-logo="http://rocketdock.com/images/screenshom3u8/Playboy-Icon.png" group-title="NOS",PLAYBOY
+http://dgimedia.ddns.net:9898/live/silva/silva/64.m3u8
+#EXTINF:-1 tvg-ID="DOGTV" tvg-name="HUSTLER HD" tvg-logo="http://cdn.shopify.com/s/files/1/0404/5549/producm3u8/hustler1_large.jpg?v=1395444927" group-title="NOS",HUSTLER HD
+http://dgimedia.ddns.net:9898/live/silva/silva/65.m3u8
+#EXTINF:-1 tvg-ID="HOT" tvg-name="EROTIC" tvg-logo="https://thumbs.dreamstime.com/x/neon-erotic-vector-symbols-sign-sex-electric-illuminated-sexy-glowing-illustration-69315440.jpg" group-title="NOS",EROTIC
+http://dgimedia.ddns.net:9898/live/silva/silva/66.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="==== VIDEO  CLUBE ====" tvg-logo="http://www.davidbordwell.net/blog/wp-content/uploads/Art-Theater-500.jpg" group-title="VIDEO CLUBE",==== VIDEO  CLUBE ====
+http://dgimedia.ddns.net:9898/movie/silva/silva/590.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A Vida Secreta dos Nossos Bichos" tvg-logo="http://5.135.140.141:9898/images/2709768.jpg" group-title="VIDEO CLUBE",A Vida Secreta dos Nossos Bichos
+http://dgimedia.ddns.net:9898/movie/silva/silva/592.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Miss Peregrines Home For Peculiar Children" tvg-logo="http://5.135.140.141:9898/images/1935859.jpg" group-title="VIDEO CLUBE",Miss Peregrines Home For Peculiar Children
+http://dgimedia.ddns.net:9898/movie/silva/silva/594.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Zootopia" tvg-logo="http://5.135.140.141:9898/images/2948356.jpg" group-title="VIDEO CLUBE",Zootopia
+http://dgimedia.ddns.net:9898/movie/silva/silva/517.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Ben Hur" tvg-logo="http://5.135.140.141:9898/images/2638144.jpg" group-title="VIDEO CLUBE",Ben Hur
+http://dgimedia.ddns.net:9898/movie/silva/silva/376.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Winnie The Pooh   O Espirito de Natal" tvg-logo="" group-title="VIDEO CLUBE",Winnie The Pooh   O Espirito de Natal
+http://dgimedia.ddns.net:9898/movie/silva/silva/612.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Um Conto de Natal" tvg-logo="http://5.135.140.141:9898/images/1067106.jpg" group-title="VIDEO CLUBE",Um Conto de Natal
+http://dgimedia.ddns.net:9898/movie/silva/silva/611.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Prep Aterragem" tvg-logo="http://5.135.140.141:9898/images/1474311.jpg" group-title="VIDEO CLUBE",Prep Aterragem
+http://dgimedia.ddns.net:9898/movie/silva/silva/610.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Prep  Aterragem   Travessos Contra Bonzinhos" tvg-logo="http://5.135.140.141:9898/images/2069885.jpg" group-title="VIDEO CLUBE",Prep  Aterragem   Travessos Contra Bonzinhos
+http://dgimedia.ddns.net:9898/movie/silva/silva/609.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Polar Express" tvg-logo="http://5.135.140.141:9898/images/0338348.jpg" group-title="VIDEO CLUBE",Polar Express
+http://dgimedia.ddns.net:9898/movie/silva/silva/608.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="O Natal do Grilo Falante" tvg-logo="" group-title="VIDEO CLUBE",O Natal do Grilo Falante
+http://dgimedia.ddns.net:9898/movie/silva/silva/607.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="O Feriado do Kung Fu Panda" tvg-logo="" group-title="VIDEO CLUBE",O Feriado do Kung Fu Panda
+http://dgimedia.ddns.net:9898/movie/silva/silva/606.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="O Amigo Gigante" tvg-logo="http://5.135.140.141:9898/images/3691740.jpg" group-title="VIDEO CLUBE",O Amigo Gigante
+http://dgimedia.ddns.net:9898/movie/silva/silva/605.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Mickey Um Natal Magico" tvg-logo="http://5.135.140.141:9898/images/0238414.jpg" group-title="VIDEO CLUBE",Mickey Um Natal Magico
+http://dgimedia.ddns.net:9898/movie/silva/silva/604.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Looney Tunes e o Espirito de Natal" tvg-logo="http://5.135.140.141:9898/images/0896522.jpg" group-title="VIDEO CLUBE",Looney Tunes e o Espirito de Natal
+http://dgimedia.ddns.net:9898/movie/silva/silva/603.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="House of Mouse   Nevou em Casa do Mickey" tvg-logo="" group-title="VIDEO CLUBE",House of Mouse   Nevou em Casa do Mickey
+http://dgimedia.ddns.net:9898/movie/silva/silva/602.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Festeja o Natal com o Mickey" tvg-logo="http://5.135.140.141:9898/images/0424279.jpg" group-title="VIDEO CLUBE",Festeja o Natal com o Mickey
+http://dgimedia.ddns.net:9898/movie/silva/silva/601.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Curious George   A Very Monkey Christmas" tvg-logo="http://5.135.140.141:9898/images/1570964.jpg" group-title="VIDEO CLUBE",Curious George   A Very Monkey Christmas
+http://dgimedia.ddns.net:9898/movie/silva/silva/600.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Como Salvar O Pai Natal" tvg-logo="http://5.135.140.141:9898/images/2204315.jpg" group-title="VIDEO CLUBE",Como Salvar O Pai Natal
+http://dgimedia.ddns.net:9898/movie/silva/silva/599.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Arthur Christmas" tvg-logo="http://5.135.140.141:9898/images/1430607.jpg" group-title="VIDEO CLUBE",Arthur Christmas
+http://dgimedia.ddns.net:9898/movie/silva/silva/598.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Alpha e omega 2   Uma Aventura de Natal" tvg-logo="" group-title="VIDEO CLUBE",Alpha e omega 2   Uma Aventura de Natal
+http://dgimedia.ddns.net:9898/movie/silva/silva/597.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A Procura do Patas Natal" tvg-logo="http://5.135.140.141:9898/images/1544572.jpg" group-title="VIDEO CLUBE",A Procura do Patas Natal
+http://dgimedia.ddns.net:9898/movie/silva/silva/596.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A Procura do Patas Natal 2   Os Cachorros de Natal" tvg-logo="http://5.135.140.141:9898/images/2414212.jpg" group-title="VIDEO CLUBE",A Procura do Patas Natal 2   Os Cachorros de Natal
+http://dgimedia.ddns.net:9898/movie/silva/silva/595.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Gods of Egypt" tvg-logo="http://5.135.140.141:9898/images/2404233.jpg" group-title="VIDEO CLUBE",Gods of Egypt
+http://dgimedia.ddns.net:9898/movie/silva/silva/463.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Night at the Museum Secret of the Tomb" tvg-logo="http://5.135.140.141:9898/images/5126700.jpg" group-title="VIDEO CLUBE",Night at the Museum Secret of the Tomb
+http://dgimedia.ddns.net:9898/movie/silva/silva/584.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Gladiator" tvg-logo="http://5.135.140.141:9898/images/0172495.jpg" group-title="VIDEO CLUBE",Gladiator
+http://dgimedia.ddns.net:9898/movie/silva/silva/575.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Ride Along" tvg-logo="http://5.135.140.141:9898/images/1408253.jpg" group-title="VIDEO CLUBE",Ride Along
+http://dgimedia.ddns.net:9898/movie/silva/silva/589.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Riddick" tvg-logo="http://5.135.140.141:9898/images/0296572.jpg" group-title="VIDEO CLUBE",Riddick
+http://dgimedia.ddns.net:9898/movie/silva/silva/588.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="R.I.P.D." tvg-logo="http://5.135.140.141:9898/images/0790736.jpg" group-title="VIDEO CLUBE",R.I.P.D.
+http://dgimedia.ddns.net:9898/movie/silva/silva/587.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Pirates of the Caribbean Curse of the Black Pearl" tvg-logo="http://5.135.140.141:9898/images/0325980.jpg" group-title="VIDEO CLUBE",Pirates of the Caribbean Curse of the Black Pearl
+http://dgimedia.ddns.net:9898/movie/silva/silva/586.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Out of the Furnace" tvg-logo="http://5.135.140.141:9898/images/1206543.jpg" group-title="VIDEO CLUBE",Out of the Furnace
+http://dgimedia.ddns.net:9898/movie/silva/silva/585.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Jack Ryan Shadow Recruit" tvg-logo="http://5.135.140.141:9898/images/1205537.jpg" group-title="VIDEO CLUBE",Jack Ryan Shadow Recruit
+http://dgimedia.ddns.net:9898/movie/silva/silva/583.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Into the Woods" tvg-logo="http://5.135.140.141:9898/images/2180411.jpg" group-title="VIDEO CLUBE",Into the Woods
+http://dgimedia.ddns.net:9898/movie/silva/silva/582.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Into the Storm" tvg-logo="http://5.135.140.141:9898/images/2106361.jpg" group-title="VIDEO CLUBE",Into the Storm
+http://dgimedia.ddns.net:9898/movie/silva/silva/581.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="If I Stay" tvg-logo="http://5.135.140.141:9898/images/1355630.jpg" group-title="VIDEO CLUBE",If I Stay
+http://dgimedia.ddns.net:9898/movie/silva/silva/580.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="I Frankenstein" tvg-logo="http://5.135.140.141:9898/images/0050894.jpg" group-title="VIDEO CLUBE",I Frankenstein
+http://dgimedia.ddns.net:9898/movie/silva/silva/579.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Horrible Bosses 2" tvg-logo="http://5.135.140.141:9898/images/2170439.jpg" group-title="VIDEO CLUBE",Horrible Bosses 2
+http://dgimedia.ddns.net:9898/movie/silva/silva/578.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Her" tvg-logo="http://5.135.140.141:9898/images/1798709.jpg" group-title="VIDEO CLUBE",Her
+http://dgimedia.ddns.net:9898/movie/silva/silva/577.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Grown Ups" tvg-logo="http://5.135.140.141:9898/images/1375670.jpg" group-title="VIDEO CLUBE",Grown Ups
+http://dgimedia.ddns.net:9898/movie/silva/silva/576.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Gangster Squad" tvg-logo="http://5.135.140.141:9898/images/1321870.jpg" group-title="VIDEO CLUBE",Gangster Squad
+http://dgimedia.ddns.net:9898/movie/silva/silva/574.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Focus" tvg-logo="http://5.135.140.141:9898/images/2381941.jpg" group-title="VIDEO CLUBE",Focus
+http://dgimedia.ddns.net:9898/movie/silva/silva/573.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Dumb and Dumber To" tvg-logo="http://5.135.140.141:9898/images/2096672.jpg" group-title="VIDEO CLUBE",Dumb and Dumber To
+http://dgimedia.ddns.net:9898/movie/silva/silva/572.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="District 9" tvg-logo="http://5.135.140.141:9898/images/1136608.jpg" group-title="VIDEO CLUBE",District 9
+http://dgimedia.ddns.net:9898/movie/silva/silva/571.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Abattoir" tvg-logo="http://5.135.140.141:9898/images/1480285.jpg" group-title="VIDEO CLUBE",Abattoir
+http://dgimedia.ddns.net:9898/movie/silva/silva/593.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A Lenda Do Dragão" tvg-logo="http://5.135.140.141:9898/images/2788732.jpg" group-title="VIDEO CLUBE",A Lenda Do Dragão
+http://dgimedia.ddns.net:9898/movie/silva/silva/591.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Zoolander 2" tvg-logo="http://5.135.140.141:9898/images/1608290.jpg" group-title="VIDEO CLUBE",Zoolander 2
+http://dgimedia.ddns.net:9898/movie/silva/silva/516.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="X-Men Apocalypse 2016" tvg-logo="http://5.135.140.141:9898/images/3385516.jpg" group-title="VIDEO CLUBE",X-Men Apocalypse 2016
+http://dgimedia.ddns.net:9898/movie/silva/silva/515.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="World War Z.mkv" tvg-logo="http://5.135.140.141:9898/images/0816711.jpg" group-title="VIDEO CLUBE",World War Z.mkv
+http://dgimedia.ddns.net:9898/movie/silva/silva/514.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="White House Down" tvg-logo="http://5.135.140.141:9898/images/2334879.jpg" group-title="VIDEO CLUBE",White House Down
+http://dgimedia.ddns.net:9898/movie/silva/silva/570.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Whiplash" tvg-logo="http://5.135.140.141:9898/images/2582802.jpg" group-title="VIDEO CLUBE",Whiplash
+http://dgimedia.ddns.net:9898/movie/silva/silva/513.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="We're the Millers" tvg-logo="http://5.135.140.141:9898/images/1723121.jpg" group-title="VIDEO CLUBE",We're the Millers
+http://dgimedia.ddns.net:9898/movie/silva/silva/569.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Warcraft 2016" tvg-logo="http://5.135.140.141:9898/images/0803096.jpg" group-title="VIDEO CLUBE",Warcraft 2016
+http://dgimedia.ddns.net:9898/movie/silva/silva/512.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Unstoppable" tvg-logo="http://5.135.140.141:9898/images/0477080.jpg" group-title="VIDEO CLUBE",Unstoppable
+http://dgimedia.ddns.net:9898/movie/silva/silva/511.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Turbo" tvg-logo="http://5.135.140.141:9898/images/1860353.jpg" group-title="VIDEO CLUBE",Turbo
+http://dgimedia.ddns.net:9898/movie/silva/silva/568.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Tranformers" tvg-logo="http://5.135.140.141:9898/images/3371366.jpg" group-title="VIDEO CLUBE",Tranformers
+http://dgimedia.ddns.net:9898/movie/silva/silva/427.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Transformers Age of Extinction" tvg-logo="http://5.135.140.141:9898/images/2109248.jpg" group-title="VIDEO CLUBE",Transformers Age of Extinction
+http://dgimedia.ddns.net:9898/movie/silva/silva/428.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Transformers Revenge of the Fallen" tvg-logo="http://5.135.140.141:9898/images/1055369.jpg" group-title="VIDEO CLUBE",Transformers Revenge of the Fallen
+http://dgimedia.ddns.net:9898/movie/silva/silva/510.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Transformers Dark of the Moon" tvg-logo="http://5.135.140.141:9898/images/1399103.jpg" group-title="VIDEO CLUBE",Transformers Dark of the Moon
+http://dgimedia.ddns.net:9898/movie/silva/silva/509.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Transcendence" tvg-logo="http://5.135.140.141:9898/images/2209764.jpg" group-title="VIDEO CLUBE",Transcendence
+http://dgimedia.ddns.net:9898/movie/silva/silva/567.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Tomorrowland" tvg-logo="http://5.135.140.141:9898/images/1964418.jpg" group-title="VIDEO CLUBE",Tomorrowland
+http://dgimedia.ddns.net:9898/movie/silva/silva/508.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The.Finest.Hours.2016" tvg-logo="http://5.135.140.141:9898/images/2025690.jpg" group-title="VIDEO CLUBE",The.Finest.Hours.2016
+http://dgimedia.ddns.net:9898/movie/silva/silva/507.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Watch" tvg-logo="http://5.135.140.141:9898/images/1298649.jpg" group-title="VIDEO CLUBE",The Watch
+http://dgimedia.ddns.net:9898/movie/silva/silva/506.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Transformers The Movie" tvg-logo="http://5.135.140.141:9898/images/0092106.jpg" group-title="VIDEO CLUBE",The Transformers The Movie
+http://dgimedia.ddns.net:9898/movie/silva/silva/566.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Theory of Everything" tvg-logo="http://5.135.140.141:9898/images/2980516.jpg" group-title="VIDEO CLUBE",The Theory of Everything
+http://dgimedia.ddns.net:9898/movie/silva/silva/565.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Secret Life of Walter Mitty" tvg-logo="http://5.135.140.141:9898/images/0359950.jpg" group-title="VIDEO CLUBE",The Secret Life of Walter Mitty
+http://dgimedia.ddns.net:9898/movie/silva/silva/564.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Secret Life of Pem3u8" tvg-logo="http://5.135.140.141:9898/images/2709768.jpg" group-title="VIDEO CLUBE",The Secret Life of Pem3u8
+http://dgimedia.ddns.net:9898/movie/silva/silva/505.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Purge Election Year" tvg-logo="http://5.135.140.141:9898/images/5850616.jpg" group-title="VIDEO CLUBE",The Purge Election Year
+http://dgimedia.ddns.net:9898/movie/silva/silva/504.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Nice Guys" tvg-logo="http://5.135.140.141:9898/images/3799694.jpg" group-title="VIDEO CLUBE",The Nice Guys
+http://dgimedia.ddns.net:9898/movie/silva/silva/426.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Matrix" tvg-logo="http://5.135.140.141:9898/images/0133093.jpg" group-title="VIDEO CLUBE",The Matrix
+http://dgimedia.ddns.net:9898/movie/silva/silva/503.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Last Witch Hunter" tvg-logo="http://5.135.140.141:9898/images/1618442.jpg" group-title="VIDEO CLUBE",The Last Witch Hunter
+http://dgimedia.ddns.net:9898/movie/silva/silva/502.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Last Stand" tvg-logo="http://5.135.140.141:9898/images/1549920.jpg" group-title="VIDEO CLUBE",The Last Stand
+http://dgimedia.ddns.net:9898/movie/silva/silva/563.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Judge" tvg-logo="http://5.135.140.141:9898/images/1872194.jpg" group-title="VIDEO CLUBE",The Judge
+http://dgimedia.ddns.net:9898/movie/silva/silva/562.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Hunger Games" tvg-logo="http://5.135.140.141:9898/images/1392170.jpg" group-title="VIDEO CLUBE",The Hunger Games
+http://dgimedia.ddns.net:9898/movie/silva/silva/561.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Great Gam3u8by" tvg-logo="http://5.135.140.141:9898/images/1343092.jpg" group-title="VIDEO CLUBE",The Great Gam3u8by
+http://dgimedia.ddns.net:9898/movie/silva/silva/560.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Good Dinosaur 2015" tvg-logo="http://5.135.140.141:9898/images/1979388.jpg" group-title="VIDEO CLUBE",The Good Dinosaur 2015
+http://dgimedia.ddns.net:9898/movie/silva/silva/425.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Danish Girl" tvg-logo="http://5.135.140.141:9898/images/0810819.jpg" group-title="VIDEO CLUBE",The Danish Girl
+http://dgimedia.ddns.net:9898/movie/silva/silva/501.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Croods" tvg-logo="http://5.135.140.141:9898/images/0481499.jpg" group-title="VIDEO CLUBE",The Croods
+http://dgimedia.ddns.net:9898/movie/silva/silva/559.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Boss 2016" tvg-logo="http://5.135.140.141:9898/images/1355631.jpg" group-title="VIDEO CLUBE",The Boss 2016
+http://dgimedia.ddns.net:9898/movie/silva/silva/500.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Avengers 2012" tvg-logo="http://5.135.140.141:9898/images/not-found.jpg" group-title="VIDEO CLUBE",The Avengers 2012
+http://dgimedia.ddns.net:9898/movie/silva/silva/499.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Amazing Spider-Man 2" tvg-logo="http://5.135.140.141:9898/images/1872181.jpg" group-title="VIDEO CLUBE",The Amazing Spider-Man 2
+http://dgimedia.ddns.net:9898/movie/silva/silva/498.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Amazing Spider Man" tvg-logo="http://5.135.140.141:9898/images/0948470.jpg" group-title="VIDEO CLUBE",The Amazing Spider Man
+http://dgimedia.ddns.net:9898/movie/silva/silva/424.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Adjustment Bureau" tvg-logo="http://5.135.140.141:9898/images/1385826.jpg" group-title="VIDEO CLUBE",The Adjustment Bureau
+http://dgimedia.ddns.net:9898/movie/silva/silva/497.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The 5th Wave 2016" tvg-logo="http://5.135.140.141:9898/images/2304933.jpg" group-title="VIDEO CLUBE",The 5th Wave 2016
+http://dgimedia.ddns.net:9898/movie/silva/silva/496.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The 33 2015" tvg-logo="http://5.135.140.141:9898/images/5543344.jpg" group-title="VIDEO CLUBE",The 33 2015
+http://dgimedia.ddns.net:9898/movie/silva/silva/495.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Th Big Short" tvg-logo="http://5.135.140.141:9898/images/1596363.jpg" group-title="VIDEO CLUBE",Th Big Short
+http://dgimedia.ddns.net:9898/movie/silva/silva/494.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Sherlock Holmes A Game of Shadows" tvg-logo="http://5.135.140.141:9898/images/1515091.jpg" group-title="VIDEO CLUBE",Sherlock Holmes A Game of Shadows
+http://dgimedia.ddns.net:9898/movie/silva/silva/493.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Ronaldo (2015)" tvg-logo="http://5.135.140.141:9898/images/5065822.jpg" group-title="VIDEO CLUBE",Ronaldo (2015)
+http://dgimedia.ddns.net:9898/movie/silva/silva/423.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="RoboCop (2014)" tvg-logo="http://5.135.140.141:9898/images/1234721.jpg" group-title="VIDEO CLUBE",RoboCop (2014)
+http://dgimedia.ddns.net:9898/movie/silva/silva/492.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Risen" tvg-logo="http://5.135.140.141:9898/images/3231054.jpg" group-title="VIDEO CLUBE",Risen
+http://dgimedia.ddns.net:9898/movie/silva/silva/491.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Ride Along 2" tvg-logo="http://5.135.140.141:9898/images/2869728.jpg" group-title="VIDEO CLUBE",Ride Along 2
+http://dgimedia.ddns.net:9898/movie/silva/silva/490.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Resident Evil Retribution" tvg-logo="http://5.135.140.141:9898/images/2937966.jpg" group-title="VIDEO CLUBE",Resident Evil Retribution
+http://dgimedia.ddns.net:9898/movie/silva/silva/558.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="REGRESSO AO FUTURO" tvg-logo="http://5.135.140.141:9898/images/0088763.jpg" group-title="VIDEO CLUBE",REGRESSO AO FUTURO
+http://dgimedia.ddns.net:9898/movie/silva/silva/520.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Regression 2015" tvg-logo="http://5.135.140.141:9898/images/3319920.jpg" group-title="VIDEO CLUBE",Regression 2015
+http://dgimedia.ddns.net:9898/movie/silva/silva/489.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Percy Jackson Sea of Monsters" tvg-logo="http://5.135.140.141:9898/images/not-found.jpg" group-title="VIDEO CLUBE",Percy Jackson Sea of Monsters
+http://dgimedia.ddns.net:9898/movie/silva/silva/557.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Pele Birth Of A Legend" tvg-logo="http://5.135.140.141:9898/images/0995868.jpg" group-title="VIDEO CLUBE",Pele Birth Of A Legend
+http://dgimedia.ddns.net:9898/movie/silva/silva/488.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Parker" tvg-logo="http://5.135.140.141:9898/images/1904996.jpg" group-title="VIDEO CLUBE",Parker
+http://dgimedia.ddns.net:9898/movie/silva/silva/556.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Pain & Gain" tvg-logo="http://5.135.140.141:9898/images/1711018.jpg" group-title="VIDEO CLUBE",Pain & Gain
+http://dgimedia.ddns.net:9898/movie/silva/silva/555.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Oz the Great and Powerful" tvg-logo="http://5.135.140.141:9898/images/1623205.jpg" group-title="VIDEO CLUBE",Oz the Great and Powerful
+http://dgimedia.ddns.net:9898/movie/silva/silva/554.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="O Rei LeÃ£o 2" tvg-logo="" group-title="VIDEO CLUBE",O Rei LeÃ£o 2
+http://dgimedia.ddns.net:9898/movie/silva/silva/487.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="O Cavaleiro das Trevas" tvg-logo="http://5.135.140.141:9898/images/0468569.jpg" group-title="VIDEO CLUBE",O Cavaleiro das Trevas
+http://dgimedia.ddns.net:9898/movie/silva/silva/486.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Now You See Me" tvg-logo="http://5.135.140.141:9898/images/1670345.jpg" group-title="VIDEO CLUBE",Now You See Me
+http://dgimedia.ddns.net:9898/movie/silva/silva/485.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="No Escape 2015" tvg-logo="http://5.135.140.141:9898/images/1781922.jpg" group-title="VIDEO CLUBE",No Escape 2015
+http://dgimedia.ddns.net:9898/movie/silva/silva/422.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Never Back Down 2" tvg-logo="http://5.135.140.141:9898/images/1754264.jpg" group-title="VIDEO CLUBE",Never Back Down 2
+http://dgimedia.ddns.net:9898/movie/silva/silva/484.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Mr.Church" tvg-logo="http://5.135.140.141:9898/images/4196848.jpg" group-title="VIDEO CLUBE",Mr.Church
+http://dgimedia.ddns.net:9898/movie/silva/silva/553.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Money Monster" tvg-logo="http://5.135.140.141:9898/images/2241351.jpg" group-title="VIDEO CLUBE",Money Monster
+http://dgimedia.ddns.net:9898/movie/silva/silva/421.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Misconduct 2016" tvg-logo="http://5.135.140.141:9898/images/3658772.jpg" group-title="VIDEO CLUBE",Misconduct 2016
+http://dgimedia.ddns.net:9898/movie/silva/silva/483.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Minions 2015" tvg-logo="http://5.135.140.141:9898/images/5543326.jpg" group-title="VIDEO CLUBE",Minions 2015
+http://dgimedia.ddns.net:9898/movie/silva/silva/420.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Men In Black 3" tvg-logo="http://5.135.140.141:9898/images/1409024.jpg" group-title="VIDEO CLUBE",Men In Black 3
+http://dgimedia.ddns.net:9898/movie/silva/silva/482.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Man Of Steel" tvg-logo="http://5.135.140.141:9898/images/0770828.jpg" group-title="VIDEO CLUBE",Man Of Steel
+http://dgimedia.ddns.net:9898/movie/silva/silva/481.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Madagascar 3" tvg-logo="http://5.135.140.141:9898/images/1277953.jpg" group-title="VIDEO CLUBE",Madagascar 3
+http://dgimedia.ddns.net:9898/movie/silva/silva/479.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Madagascar 2" tvg-logo="http://5.135.140.141:9898/images/0479952.jpg" group-title="VIDEO CLUBE",Madagascar 2
+http://dgimedia.ddns.net:9898/movie/silva/silva/478.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Madagascar" tvg-logo="http://5.135.140.141:9898/images/0351283.jpg" group-title="VIDEO CLUBE",Madagascar
+http://dgimedia.ddns.net:9898/movie/silva/silva/480.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Lucy (2014)" tvg-logo="http://5.135.140.141:9898/images/2872732.jpg" group-title="VIDEO CLUBE",Lucy (2014)
+http://dgimedia.ddns.net:9898/movie/silva/silva/477.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Louder Than Bombs" tvg-logo="http://5.135.140.141:9898/images/2217859.jpg" group-title="VIDEO CLUBE",Louder Than Bombs
+http://dgimedia.ddns.net:9898/movie/silva/silva/476.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="London Has Fallen 2016" tvg-logo="http://5.135.140.141:9898/images/3300542.jpg" group-title="VIDEO CLUBE",London Has Fallen 2016
+http://dgimedia.ddns.net:9898/movie/silva/silva/419.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Lem3u8 Be Cops" tvg-logo="http://5.135.140.141:9898/images/1924435.jpg" group-title="VIDEO CLUBE",Lem3u8 Be Cops
+http://dgimedia.ddns.net:9898/movie/silva/silva/552.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Les Misérables" tvg-logo="http://5.135.140.141:9898/images/1707386.jpg" group-title="VIDEO CLUBE",Les Misérables
+http://dgimedia.ddns.net:9898/movie/silva/silva/551.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Last Vegas" tvg-logo="http://5.135.140.141:9898/images/1204975.jpg" group-title="VIDEO CLUBE",Last Vegas
+http://dgimedia.ddns.net:9898/movie/silva/silva/550.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Kung Fu Panda 3" tvg-logo="http://5.135.140.141:9898/images/2267968.jpg" group-title="VIDEO CLUBE",Kung Fu Panda 3
+http://dgimedia.ddns.net:9898/movie/silva/silva/475.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Kindergarten Cop 2" tvg-logo="http://5.135.140.141:9898/images/4763168.jpg" group-title="VIDEO CLUBE",Kindergarten Cop 2
+http://dgimedia.ddns.net:9898/movie/silva/silva/418.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Kick-Ass 2" tvg-logo="http://5.135.140.141:9898/images/1650554.jpg" group-title="VIDEO CLUBE",Kick-Ass 2
+http://dgimedia.ddns.net:9898/movie/silva/silva/549.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Jurassic World 2015" tvg-logo="http://5.135.140.141:9898/images/0369610.jpg" group-title="VIDEO CLUBE",Jurassic World 2015
+http://dgimedia.ddns.net:9898/movie/silva/silva/417.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Joy 2015" tvg-logo="http://5.135.140.141:9898/images/2446980.jpg" group-title="VIDEO CLUBE",Joy 2015
+http://dgimedia.ddns.net:9898/movie/silva/silva/474.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="John Carter" tvg-logo="http://5.135.140.141:9898/images/0401729.jpg" group-title="VIDEO CLUBE",John Carter
+http://dgimedia.ddns.net:9898/movie/silva/silva/473.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Jackass Presenm3u8 Bad Grandpa" tvg-logo="http://5.135.140.141:9898/images/not-found.jpg" group-title="VIDEO CLUBE",Jackass Presenm3u8 Bad Grandpa
+http://dgimedia.ddns.net:9898/movie/silva/silva/548.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Isto é o Fim!" tvg-logo="http://5.135.140.141:9898/images/1245492.jpg" group-title="VIDEO CLUBE",Isto é o Fim!
+http://dgimedia.ddns.net:9898/movie/silva/silva/472.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Interstellar 2014" tvg-logo="http://5.135.140.141:9898/images/0816692.jpg" group-title="VIDEO CLUBE",Interstellar 2014
+http://dgimedia.ddns.net:9898/movie/silva/silva/471.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Independence Day Resurgence 2016" tvg-logo="http://5.135.140.141:9898/images/1628841.jpg" group-title="VIDEO CLUBE",Independence Day Resurgence 2016
+http://dgimedia.ddns.net:9898/movie/silva/silva/470.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Immortals" tvg-logo="http://5.135.140.141:9898/images/1253864.jpg" group-title="VIDEO CLUBE",Immortals
+http://dgimedia.ddns.net:9898/movie/silva/silva/469.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="How to be Single" tvg-logo="http://5.135.140.141:9898/images/1292566.jpg" group-title="VIDEO CLUBE",How to be Single
+http://dgimedia.ddns.net:9898/movie/silva/silva/468.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Homefront" tvg-logo="http://5.135.140.141:9898/images/2312718.jpg" group-title="VIDEO CLUBE",Homefront
+http://dgimedia.ddns.net:9898/movie/silva/silva/547.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Home Alone" tvg-logo="http://5.135.140.141:9898/images/0099785.jpg" group-title="VIDEO CLUBE",Home Alone
+http://dgimedia.ddns.net:9898/movie/silva/silva/519.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="High-Rise" tvg-logo="http://5.135.140.141:9898/images/0462335.jpg" group-title="VIDEO CLUBE",High-Rise
+http://dgimedia.ddns.net:9898/movie/silva/silva/467.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="He Never Died" tvg-logo="http://5.135.140.141:9898/images/2386404.jpg" group-title="VIDEO CLUBE",He Never Died
+http://dgimedia.ddns.net:9898/movie/silva/silva/466.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter And The Sorcerer  Stone 2001.mkv" tvg-logo="http://5.135.140.141:9898/images/0241527.jpg" group-title="VIDEO CLUBE",Harry Potter And The Sorcerer  Stone 2001.mkv
+http://dgimedia.ddns.net:9898/movie/silva/silva/465.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter And The Prisoner Of Azkaban 2004" tvg-logo="http://5.135.140.141:9898/images/0304141.jpg" group-title="VIDEO CLUBE",Harry Potter And The Prisoner Of Azkaban 2004
+http://dgimedia.ddns.net:9898/movie/silva/silva/416.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter And The Goblet Of Fire 2005" tvg-logo="http://5.135.140.141:9898/images/0330373.jpg" group-title="VIDEO CLUBE",Harry Potter And The Goblet Of Fire 2005
+http://dgimedia.ddns.net:9898/movie/silva/silva/415.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter And The Chamber Of Secrem3u8 2002" tvg-logo="http://5.135.140.141:9898/images/0295297.jpg" group-title="VIDEO CLUBE",Harry Potter And The Chamber Of Secrem3u8 2002
+http://dgimedia.ddns.net:9898/movie/silva/silva/464.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Hansel And Gretel Witch Hunters" tvg-logo="http://5.135.140.141:9898/images/1428538.jpg" group-title="VIDEO CLUBE",Hansel And Gretel Witch Hunters
+http://dgimedia.ddns.net:9898/movie/silva/silva/546.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Gato Fedorento - MEO - Videoclube - Ratatouille" tvg-logo="" group-title="VIDEO CLUBE",Gato Fedorento - MEO - Videoclube - Ratatouille
+http://dgimedia.ddns.net:9898/movie/silva/silva/462.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Furious Seven 2015" tvg-logo="http://5.135.140.141:9898/images/2820852.jpg" group-title="VIDEO CLUBE",Furious Seven 2015
+http://dgimedia.ddns.net:9898/movie/silva/silva/414.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Fifty Shades of Grey" tvg-logo="http://5.135.140.141:9898/images/2322441.jpg" group-title="VIDEO CLUBE",Fifty Shades of Grey
+http://dgimedia.ddns.net:9898/movie/silva/silva/461.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="fernando rocha" tvg-logo="http://5.135.140.141:9898/images/not-found.jpg" group-title="VIDEO CLUBE",fernando rocha
+http://dgimedia.ddns.net:9898/movie/silva/silva/518.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Face Off" tvg-logo="http://5.135.140.141:9898/images/0119094.jpg" group-title="VIDEO CLUBE",Face Off
+http://dgimedia.ddns.net:9898/movie/silva/silva/413.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Exodus Gods and Kings" tvg-logo="http://5.135.140.141:9898/images/1528100.jpg" group-title="VIDEO CLUBE",Exodus Gods and Kings
+http://dgimedia.ddns.net:9898/movie/silva/silva/545.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Evil Dead" tvg-logo="http://5.135.140.141:9898/images/0083907.jpg" group-title="VIDEO CLUBE",Evil Dead
+http://dgimedia.ddns.net:9898/movie/silva/silva/544.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Epic" tvg-logo="http://5.135.140.141:9898/images/0848537.jpg" group-title="VIDEO CLUBE",Epic
+http://dgimedia.ddns.net:9898/movie/silva/silva/543.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="End of Watch" tvg-logo="http://5.135.140.141:9898/images/1855199.jpg" group-title="VIDEO CLUBE",End of Watch
+http://dgimedia.ddns.net:9898/movie/silva/silva/542.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Eddie the Eagle" tvg-logo="http://5.135.140.141:9898/images/1083452.jpg" group-title="VIDEO CLUBE",Eddie the Eagle
+http://dgimedia.ddns.net:9898/movie/silva/silva/460.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Dredd" tvg-logo="http://5.135.140.141:9898/images/1343727.jpg" group-title="VIDEO CLUBE",Dredd
+http://dgimedia.ddns.net:9898/movie/silva/silva/541.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Dracula Untold" tvg-logo="http://5.135.140.141:9898/images/0829150.jpg" group-title="VIDEO CLUBE",Dracula Untold
+http://dgimedia.ddns.net:9898/movie/silva/silva/540.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Dont Breathe" tvg-logo="http://5.135.140.141:9898/images/4160708.jpg" group-title="VIDEO CLUBE",Dont Breathe
+http://dgimedia.ddns.net:9898/movie/silva/silva/539.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Don Jon" tvg-logo="http://5.135.140.141:9898/images/2229499.jpg" group-title="VIDEO CLUBE",Don Jon
+http://dgimedia.ddns.net:9898/movie/silva/silva/538.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Django Unchained" tvg-logo="http://5.135.140.141:9898/images/1853728.jpg" group-title="VIDEO CLUBE",Django Unchained
+http://dgimedia.ddns.net:9898/movie/silva/silva/459.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Dirty Grandpa" tvg-logo="http://5.135.140.141:9898/images/1860213.jpg" group-title="VIDEO CLUBE",Dirty Grandpa
+http://dgimedia.ddns.net:9898/movie/silva/silva/412.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Die Hard 2" tvg-logo="http://5.135.140.141:9898/images/0099423.jpg" group-title="VIDEO CLUBE",Die Hard 2
+http://dgimedia.ddns.net:9898/movie/silva/silva/458.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Die Hard 1988" tvg-logo="http://5.135.140.141:9898/images/0095016.jpg" group-title="VIDEO CLUBE",Die Hard 1988
+http://dgimedia.ddns.net:9898/movie/silva/silva/411.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Demolition" tvg-logo="http://5.135.140.141:9898/images/1172049.jpg" group-title="VIDEO CLUBE",Demolition
+http://dgimedia.ddns.net:9898/movie/silva/silva/457.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Deadpool" tvg-logo="http://5.135.140.141:9898/images/1431045.jpg" group-title="VIDEO CLUBE",Deadpool
+http://dgimedia.ddns.net:9898/movie/silva/silva/456.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Dallas Buyers" tvg-logo="http://5.135.140.141:9898/images/0790636.jpg" group-title="VIDEO CLUBE",Dallas Buyers
+http://dgimedia.ddns.net:9898/movie/silva/silva/537.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Crazy Stupid Love" tvg-logo="http://5.135.140.141:9898/images/not-found.jpg" group-title="VIDEO CLUBE",Crazy Stupid Love
+http://dgimedia.ddns.net:9898/movie/silva/silva/455.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Contagion" tvg-logo="http://5.135.140.141:9898/images/1598778.jpg" group-title="VIDEO CLUBE",Contagion
+http://dgimedia.ddns.net:9898/movie/silva/silva/454.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Coisa Ruim" tvg-logo="http://5.135.140.141:9898/images/0489461.jpg" group-title="VIDEO CLUBE",Coisa Ruim
+http://dgimedia.ddns.net:9898/movie/silva/silva/410.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Cloudy with a Chance of Meatballs 2" tvg-logo="http://5.135.140.141:9898/images/1985966.jpg" group-title="VIDEO CLUBE",Cloudy with a Chance of Meatballs 2
+http://dgimedia.ddns.net:9898/movie/silva/silva/536.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Chef" tvg-logo="http://5.135.140.141:9898/images/2503944.jpg" group-title="VIDEO CLUBE",Chef
+http://dgimedia.ddns.net:9898/movie/silva/silva/535.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Chappie 2015" tvg-logo="http://5.135.140.141:9898/images/1823672.jpg" group-title="VIDEO CLUBE",Chappie 2015
+http://dgimedia.ddns.net:9898/movie/silva/silva/453.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Central.Intelligence" tvg-logo="http://5.135.140.141:9898/images/1489889.jpg" group-title="VIDEO CLUBE",Central.Intelligence
+http://dgimedia.ddns.net:9898/movie/silva/silva/452.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Cell 2016" tvg-logo="http://5.135.140.141:9898/images/0775440.jpg" group-title="VIDEO CLUBE",Cell 2016
+http://dgimedia.ddns.net:9898/movie/silva/silva/451.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Carrie" tvg-logo="http://5.135.140.141:9898/images/0074285.jpg" group-title="VIDEO CLUBE",Carrie
+http://dgimedia.ddns.net:9898/movie/silva/silva/534.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Captain Fantastic" tvg-logo="http://5.135.140.141:9898/images/3553976.jpg" group-title="VIDEO CLUBE",Captain Fantastic
+http://dgimedia.ddns.net:9898/movie/silva/silva/533.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Captain America Civil War 2016" tvg-logo="http://5.135.140.141:9898/images/3498820.jpg" group-title="VIDEO CLUBE",Captain America Civil War 2016
+http://dgimedia.ddns.net:9898/movie/silva/silva/450.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Caesar!" tvg-logo="http://5.135.140.141:9898/images/5866108.jpg" group-title="VIDEO CLUBE",Caesar!
+http://dgimedia.ddns.net:9898/movie/silva/silva/449.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Boyhood" tvg-logo="http://5.135.140.141:9898/images/1065073.jpg" group-title="VIDEO CLUBE",Boyhood
+http://dgimedia.ddns.net:9898/movie/silva/silva/532.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Black Hawk Down" tvg-logo="http://5.135.140.141:9898/images/0265086.jpg" group-title="VIDEO CLUBE",Black Hawk Down
+http://dgimedia.ddns.net:9898/movie/silva/silva/448.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Birdman" tvg-logo="http://5.135.140.141:9898/images/2562232.jpg" group-title="VIDEO CLUBE",Birdman
+http://dgimedia.ddns.net:9898/movie/silva/silva/447.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Battleship" tvg-logo="http://5.135.140.141:9898/images/1440129.jpg" group-title="VIDEO CLUBE",Battleship
+http://dgimedia.ddns.net:9898/movie/silva/silva/446.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Batman V Superman Dawn of Justice 2016" tvg-logo="http://5.135.140.141:9898/images/2975590.jpg" group-title="VIDEO CLUBE",Batman V Superman Dawn of Justice 2016
+http://dgimedia.ddns.net:9898/movie/silva/silva/445.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Batman Begins" tvg-logo="http://5.135.140.141:9898/images/0372784.jpg" group-title="VIDEO CLUBE",Batman Begins
+http://dgimedia.ddns.net:9898/movie/silva/silva/444.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Batalha do Pacífico" tvg-logo="http://5.135.140.141:9898/images/1663662.jpg" group-title="VIDEO CLUBE",Batalha do Pacífico
+http://dgimedia.ddns.net:9898/movie/silva/silva/443.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Bartok  o Magnífico" tvg-logo="http://5.135.140.141:9898/images/0197273.jpg" group-title="VIDEO CLUBE",Bartok  o Magnífico
+http://dgimedia.ddns.net:9898/movie/silva/silva/531.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Balas e Bolinhos II - O Regresso" tvg-logo="" group-title="VIDEO CLUBE",Balas e Bolinhos II - O Regresso
+http://dgimedia.ddns.net:9898/movie/silva/silva/442.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Balas & Bolinhos - O Último Capítulo" tvg-logo="" group-title="VIDEO CLUBE",Balas & Bolinhos - O Último Capítulo
+http://dgimedia.ddns.net:9898/movie/silva/silva/440.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Balas & Bolinhos" tvg-logo="http://5.135.140.141:9898/images/not-found.jpg" group-title="VIDEO CLUBE",Balas & Bolinhos
+http://dgimedia.ddns.net:9898/movie/silva/silva/441.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Bad Neighbors" tvg-logo="http://5.135.140.141:9898/images/2004420.jpg" group-title="VIDEO CLUBE",Bad Neighbors
+http://dgimedia.ddns.net:9898/movie/silva/silva/439.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Bad Moms" tvg-logo="http://5.135.140.141:9898/images/4651520.jpg" group-title="VIDEO CLUBE",Bad Moms
+http://dgimedia.ddns.net:9898/movie/silva/silva/530.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Back to the Future Part 3" tvg-logo="http://5.135.140.141:9898/images/not-found.jpg" group-title="VIDEO CLUBE",Back to the Future Part 3
+http://dgimedia.ddns.net:9898/movie/silva/silva/438.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Avatar" tvg-logo="http://5.135.140.141:9898/images/0499549.jpg" group-title="VIDEO CLUBE",Avatar
+http://dgimedia.ddns.net:9898/movie/silva/silva/437.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Argo" tvg-logo="http://5.135.140.141:9898/images/1024648.jpg" group-title="VIDEO CLUBE",Argo
+http://dgimedia.ddns.net:9898/movie/silva/silva/436.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Anthropoid" tvg-logo="http://5.135.140.141:9898/images/4190530.jpg" group-title="VIDEO CLUBE",Anthropoid
+http://dgimedia.ddns.net:9898/movie/silva/silva/529.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Ant-Man 2015" tvg-logo="http://5.135.140.141:9898/images/0478970.jpg" group-title="VIDEO CLUBE",Ant-Man 2015
+http://dgimedia.ddns.net:9898/movie/silva/silva/409.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Angry Birds Movie 2016" tvg-logo="http://5.135.140.141:9898/images/1985949.jpg" group-title="VIDEO CLUBE",Angry Birds Movie 2016
+http://dgimedia.ddns.net:9898/movie/silva/silva/435.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="American Hustle" tvg-logo="http://5.135.140.141:9898/images/1800241.jpg" group-title="VIDEO CLUBE",American Hustle
+http://dgimedia.ddns.net:9898/movie/silva/silva/528.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="American Gangster" tvg-logo="http://5.135.140.141:9898/images/0765429.jpg" group-title="VIDEO CLUBE",American Gangster
+http://dgimedia.ddns.net:9898/movie/silva/silva/434.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Allegiant" tvg-logo="http://5.135.140.141:9898/images/3410834.jpg" group-title="VIDEO CLUBE",Allegiant
+http://dgimedia.ddns.net:9898/movie/silva/silva/433.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="After Earth" tvg-logo="http://5.135.140.141:9898/images/1815862.jpg" group-title="VIDEO CLUBE",After Earth
+http://dgimedia.ddns.net:9898/movie/silva/silva/527.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="About Time" tvg-logo="http://5.135.140.141:9898/images/2194499.jpg" group-title="VIDEO CLUBE",About Time
+http://dgimedia.ddns.net:9898/movie/silva/silva/526.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A Walk Among the Tombstones" tvg-logo="http://5.135.140.141:9898/images/0365907.jpg" group-title="VIDEO CLUBE",A Walk Among the Tombstones
+http://dgimedia.ddns.net:9898/movie/silva/silva/525.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A Origem" tvg-logo="http://5.135.140.141:9898/images/1375666.jpg" group-title="VIDEO CLUBE",A Origem
+http://dgimedia.ddns.net:9898/movie/silva/silva/432.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A Million Ways to Die in the West" tvg-logo="http://5.135.140.141:9898/images/2557490.jpg" group-title="VIDEO CLUBE",A Million Ways to Die in the West
+http://dgimedia.ddns.net:9898/movie/silva/silva/524.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="47 Ronin" tvg-logo="http://5.135.140.141:9898/images/1335975.jpg" group-title="VIDEO CLUBE",47 Ronin
+http://dgimedia.ddns.net:9898/movie/silva/silva/523.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="300" tvg-logo="http://5.135.140.141:9898/images/0416449.jpg" group-title="VIDEO CLUBE",300
+http://dgimedia.ddns.net:9898/movie/silva/silva/522.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="3 Days to Kill" tvg-logo="http://5.135.140.141:9898/images/2172934.jpg" group-title="VIDEO CLUBE",3 Days to Kill
+http://dgimedia.ddns.net:9898/movie/silva/silva/521.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="12 Years a Slave" tvg-logo="http://5.135.140.141:9898/images/2024544.jpg" group-title="VIDEO CLUBE",12 Years a Slave
+http://dgimedia.ddns.net:9898/movie/silva/silva/431.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Warm Bodies" tvg-logo="http://5.135.140.141:9898/images/1588173.jpg" group-title="VIDEO CLUBE",Warm Bodies
+http://dgimedia.ddns.net:9898/movie/silva/silva/408.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Interview" tvg-logo="http://5.135.140.141:9898/images/2788710.jpg" group-title="VIDEO CLUBE",The Interview
+http://dgimedia.ddns.net:9898/movie/silva/silva/407.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Infiltrator" tvg-logo="http://5.135.140.141:9898/images/1355631.jpg" group-title="VIDEO CLUBE",The Infiltrator
+http://dgimedia.ddns.net:9898/movie/silva/silva/406.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Imitation Game" tvg-logo="http://5.135.140.141:9898/images/2084970.jpg" group-title="VIDEO CLUBE",The Imitation Game
+http://dgimedia.ddns.net:9898/movie/silva/silva/405.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Conjuring" tvg-logo="http://5.135.140.141:9898/images/1457767.jpg" group-title="VIDEO CLUBE",The Conjuring
+http://dgimedia.ddns.net:9898/movie/silva/silva/404.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Bourne Legacy" tvg-logo="http://5.135.140.141:9898/images/1194173.jpg" group-title="VIDEO CLUBE",The Bourne Legacy
+http://dgimedia.ddns.net:9898/movie/silva/silva/403.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Teenage Mutant Ninja Turtles" tvg-logo="http://5.135.140.141:9898/images/1291150.jpg" group-title="VIDEO CLUBE",Teenage Mutant Ninja Turtles
+http://dgimedia.ddns.net:9898/movie/silva/silva/402.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Taken 3" tvg-logo="http://5.135.140.141:9898/images/2446042.jpg" group-title="VIDEO CLUBE",Taken 3
+http://dgimedia.ddns.net:9898/movie/silva/silva/401.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Taken 2" tvg-logo="http://5.135.140.141:9898/images/1397280.jpg" group-title="VIDEO CLUBE",Taken 2
+http://dgimedia.ddns.net:9898/movie/silva/silva/400.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Star Trek Into Darkness" tvg-logo="http://5.135.140.141:9898/images/1408101.jpg" group-title="VIDEO CLUBE",Star Trek Into Darkness
+http://dgimedia.ddns.net:9898/movie/silva/silva/399.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Skiptrace" tvg-logo="http://5.135.140.141:9898/images/2238032.jpg" group-title="VIDEO CLUBE",Skiptrace
+http://dgimedia.ddns.net:9898/movie/silva/silva/398.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Side Effecm3u8" tvg-logo="http://5.135.140.141:9898/images/2053463.jpg" group-title="VIDEO CLUBE",Side Effecm3u8
+http://dgimedia.ddns.net:9898/movie/silva/silva/397.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Rush" tvg-logo="http://5.135.140.141:9898/images/1979320.jpg" group-title="VIDEO CLUBE",Rush
+http://dgimedia.ddns.net:9898/movie/silva/silva/396.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Prisoners" tvg-logo="http://5.135.140.141:9898/images/1392214.jpg" group-title="VIDEO CLUBE",Prisoners
+http://dgimedia.ddns.net:9898/movie/silva/silva/395.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Olympus Has Fallen" tvg-logo="http://5.135.140.141:9898/images/2302755.jpg" group-title="VIDEO CLUBE",Olympus Has Fallen
+http://dgimedia.ddns.net:9898/movie/silva/silva/394.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Nightcrawler" tvg-logo="http://5.135.140.141:9898/images/2872718.jpg" group-title="VIDEO CLUBE",Nightcrawler
+http://dgimedia.ddns.net:9898/movie/silva/silva/393.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Nerve" tvg-logo="http://5.135.140.141:9898/images/3531824.jpg" group-title="VIDEO CLUBE",Nerve
+http://dgimedia.ddns.net:9898/movie/silva/silva/392.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Mascom3u8" tvg-logo="http://5.135.140.141:9898/images/4936176.jpg" group-title="VIDEO CLUBE",Mascom3u8
+http://dgimedia.ddns.net:9898/movie/silva/silva/391.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Maleficent" tvg-logo="http://5.135.140.141:9898/images/1587310.jpg" group-title="VIDEO CLUBE",Maleficent
+http://dgimedia.ddns.net:9898/movie/silva/silva/390.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Looper" tvg-logo="http://5.135.140.141:9898/images/1276104.jpg" group-title="VIDEO CLUBE",Looper
+http://dgimedia.ddns.net:9898/movie/silva/silva/389.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Kingsman The Secret Service" tvg-logo="http://5.135.140.141:9898/images/2802144.jpg" group-title="VIDEO CLUBE",Kingsman The Secret Service
+http://dgimedia.ddns.net:9898/movie/silva/silva/388.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Jason Bourne" tvg-logo="http://5.135.140.141:9898/images/4196776.jpg" group-title="VIDEO CLUBE",Jason Bourne
+http://dgimedia.ddns.net:9898/movie/silva/silva/387.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Jack Reacher" tvg-logo="http://5.135.140.141:9898/images/0790724.jpg" group-title="VIDEO CLUBE",Jack Reacher
+http://dgimedia.ddns.net:9898/movie/silva/silva/386.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Insurgent" tvg-logo="http://5.135.140.141:9898/images/2908446.jpg" group-title="VIDEO CLUBE",Insurgent
+http://dgimedia.ddns.net:9898/movie/silva/silva/385.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Hillarys America The Secret History of the Democratic Party" tvg-logo="http://5.135.140.141:9898/images/5646136.jpg" group-title="VIDEO CLUBE",Hillarys America The Secret History of the Democratic Party
+http://dgimedia.ddns.net:9898/movie/silva/silva/384.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="G.I Joe Retaliation" tvg-logo="http://5.135.140.141:9898/images/1583421.jpg" group-title="VIDEO CLUBE",G.I Joe Retaliation
+http://dgimedia.ddns.net:9898/movie/silva/silva/383.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Ex Machina" tvg-logo="http://5.135.140.141:9898/images/0470752.jpg" group-title="VIDEO CLUBE",Ex Machina
+http://dgimedia.ddns.net:9898/movie/silva/silva/382.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Escape Plan" tvg-logo="http://5.135.140.141:9898/images/1211956.jpg" group-title="VIDEO CLUBE",Escape Plan
+http://dgimedia.ddns.net:9898/movie/silva/silva/381.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Ender's Game" tvg-logo="http://5.135.140.141:9898/images/1731141.jpg" group-title="VIDEO CLUBE",Ender's Game
+http://dgimedia.ddns.net:9898/movie/silva/silva/380.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Elle" tvg-logo="http://5.135.140.141:9898/images/3716530.jpg" group-title="VIDEO CLUBE",Elle
+http://dgimedia.ddns.net:9898/movie/silva/silva/379.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Dawn of the Planet of the Apes" tvg-logo="http://5.135.140.141:9898/images/2103281.jpg" group-title="VIDEO CLUBE",Dawn of the Planet of the Apes
+http://dgimedia.ddns.net:9898/movie/silva/silva/378.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Cloud Atlas" tvg-logo="http://5.135.140.141:9898/images/1371111.jpg" group-title="VIDEO CLUBE",Cloud Atlas
+http://dgimedia.ddns.net:9898/movie/silva/silva/377.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Alleycam3u8" tvg-logo="http://5.135.140.141:9898/images/3917318.jpg" group-title="VIDEO CLUBE",Alleycam3u8
+http://dgimedia.ddns.net:9898/movie/silva/silva/375.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Zathura A Space Adventure" tvg-logo="http://5.135.140.141:9898/images/0406375.jpg" group-title="VIDEO CLUBE",Zathura A Space Adventure
+http://dgimedia.ddns.net:9898/movie/silva/silva/371.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Visions" tvg-logo="http://5.135.140.141:9898/images/2954474.jpg" group-title="VIDEO CLUBE",Visions
+http://dgimedia.ddns.net:9898/movie/silva/silva/370.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Up 2009 PT" tvg-logo="http://5.135.140.141:9898/images/2324689.jpg" group-title="VIDEO CLUBE",Up 2009 PT
+http://dgimedia.ddns.net:9898/movie/silva/silva/369.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="ToyStory 3 PT" tvg-logo="http://5.135.140.141:9898/images/0435761.jpg" group-title="VIDEO CLUBE",ToyStory 3 PT
+http://dgimedia.ddns.net:9898/movie/silva/silva/368.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="ToyStory 2 PT" tvg-logo="http://5.135.140.141:9898/images/0120363.jpg" group-title="VIDEO CLUBE",ToyStory 2 PT
+http://dgimedia.ddns.net:9898/movie/silva/silva/367.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Toy Story PT" tvg-logo="http://5.135.140.141:9898/images/0114709.jpg" group-title="VIDEO CLUBE",Toy Story PT
+http://dgimedia.ddns.net:9898/movie/silva/silva/366.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The twilight Saga Breaking Dawn Part.2" tvg-logo="http://5.135.140.141:9898/images/1673434.jpg" group-title="VIDEO CLUBE",The twilight Saga Breaking Dawn Part.2
+http://dgimedia.ddns.net:9898/movie/silva/silva/365.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Twilight Saga Breaking Dawn Part 1" tvg-logo="http://5.135.140.141:9898/images/1673434.jpg" group-title="VIDEO CLUBE",The Twilight Saga Breaking Dawn Part 1
+http://dgimedia.ddns.net:9898/movie/silva/silva/364.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Siege of Jadotville" tvg-logo="http://5.135.140.141:9898/images/3922798.jpg" group-title="VIDEO CLUBE",The Siege of Jadotville
+http://dgimedia.ddns.net:9898/movie/silva/silva/363.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Shallows" tvg-logo="http://5.135.140.141:9898/images/4052882.jpg" group-title="VIDEO CLUBE",The Shallows
+http://dgimedia.ddns.net:9898/movie/silva/silva/362.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Sea Of Trees" tvg-logo="http://5.135.140.141:9898/images/3450900.jpg" group-title="VIDEO CLUBE",The Sea Of Trees
+http://dgimedia.ddns.net:9898/movie/silva/silva/361.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Program" tvg-logo="http://5.135.140.141:9898/images/3083008.jpg" group-title="VIDEO CLUBE",The Program
+http://dgimedia.ddns.net:9898/movie/silva/silva/360.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Neon Demon" tvg-logo="http://5.135.140.141:9898/images/1974419.jpg" group-title="VIDEO CLUBE",The Neon Demon
+http://dgimedia.ddns.net:9898/movie/silva/silva/359.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Meddler" tvg-logo="http://5.135.140.141:9898/images/4501454.jpg" group-title="VIDEO CLUBE",The Meddler
+http://dgimedia.ddns.net:9898/movie/silva/silva/358.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Man Who Knew Infinity" tvg-logo="http://5.135.140.141:9898/images/0787524.jpg" group-title="VIDEO CLUBE",The Man Who Knew Infinity
+http://dgimedia.ddns.net:9898/movie/silva/silva/357.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Legend of Tarzan 2016" tvg-logo="http://5.135.140.141:9898/images/0918940.jpg" group-title="VIDEO CLUBE",The Legend of Tarzan 2016
+http://dgimedia.ddns.net:9898/movie/silva/silva/356.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Gunman" tvg-logo="http://5.135.140.141:9898/images/2515034.jpg" group-title="VIDEO CLUBE",The Gunman
+http://dgimedia.ddns.net:9898/movie/silva/silva/355.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Expendables 3" tvg-logo="http://5.135.140.141:9898/images/2333784.jpg" group-title="VIDEO CLUBE",The Expendables 3
+http://dgimedia.ddns.net:9898/movie/silva/silva/354.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Duel" tvg-logo="http://5.135.140.141:9898/images/2436682.jpg" group-title="VIDEO CLUBE",The Duel
+http://dgimedia.ddns.net:9898/movie/silva/silva/353.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Dressmaker" tvg-logo="http://5.135.140.141:9898/images/2910904.jpg" group-title="VIDEO CLUBE",The Dressmaker
+http://dgimedia.ddns.net:9898/movie/silva/silva/352.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Conjuring 2" tvg-logo="http://5.135.140.141:9898/images/3065204.jpg" group-title="VIDEO CLUBE",The Conjuring 2
+http://dgimedia.ddns.net:9898/movie/silva/silva/351.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Teenage Mutant Ninja Turtles Out of the Shadows" tvg-logo="http://5.135.140.141:9898/images/5777714.jpg" group-title="VIDEO CLUBE",Teenage Mutant Ninja Turtles Out of the Shadows
+http://dgimedia.ddns.net:9898/movie/silva/silva/350.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Swiss Army Man" tvg-logo="http://5.135.140.141:9898/images/4034354.jpg" group-title="VIDEO CLUBE",Swiss Army Man
+http://dgimedia.ddns.net:9898/movie/silva/silva/349.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Suicide Squad" tvg-logo="http://5.135.140.141:9898/images/1386697.jpg" group-title="VIDEO CLUBE",Suicide Squad
+http://dgimedia.ddns.net:9898/movie/silva/silva/348.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Space Jam" tvg-logo="http://5.135.140.141:9898/images/0117705.jpg" group-title="VIDEO CLUBE",Space Jam
+http://dgimedia.ddns.net:9898/movie/silva/silva/347.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Southpaw" tvg-logo="http://5.135.140.141:9898/images/1798684.jpg" group-title="VIDEO CLUBE",Southpaw
+http://dgimedia.ddns.net:9898/movie/silva/silva/346.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Shame" tvg-logo="http://5.135.140.141:9898/images/5288312.jpg" group-title="VIDEO CLUBE",Shame
+http://dgimedia.ddns.net:9898/movie/silva/silva/345.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Room" tvg-logo="http://5.135.140.141:9898/images/3170832.jpg" group-title="VIDEO CLUBE",Room
+http://dgimedia.ddns.net:9898/movie/silva/silva/344.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Popstar Never Stop Never Stopping" tvg-logo="http://5.135.140.141:9898/images/3960412.jpg" group-title="VIDEO CLUBE",Popstar Never Stop Never Stopping
+http://dgimedia.ddns.net:9898/movie/silva/silva/343.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Phantasm Ravager" tvg-logo="http://5.135.140.141:9898/images/3627704.jpg" group-title="VIDEO CLUBE",Phantasm Ravager
+http://dgimedia.ddns.net:9898/movie/silva/silva/342.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Our Kind of Traitor" tvg-logo="http://5.135.140.141:9898/images/1995390.jpg" group-title="VIDEO CLUBE",Our Kind of Traitor
+http://dgimedia.ddns.net:9898/movie/silva/silva/341.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Our Brand Is Crisis" tvg-logo="http://5.135.140.141:9898/images/1018765.jpg" group-title="VIDEO CLUBE",Our Brand Is Crisis
+http://dgimedia.ddns.net:9898/movie/silva/silva/340.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="O Rei Dos Sonhos" tvg-logo="http://5.135.140.141:9898/images/not-found.jpg" group-title="VIDEO CLUBE",O Rei Dos Sonhos
+http://dgimedia.ddns.net:9898/movie/silva/silva/339.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="O Panda do Kung Fu 3" tvg-logo="http://5.135.140.141:9898/images/2267968.jpg" group-title="VIDEO CLUBE",O Panda do Kung Fu 3
+http://dgimedia.ddns.net:9898/movie/silva/silva/338.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="O Livro Da Selva PT-PT" tvg-logo="" group-title="VIDEO CLUBE",O Livro Da Selva PT-PT
+http://dgimedia.ddns.net:9898/movie/silva/silva/337.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="O Fazedor de Milagres" tvg-logo="http://5.135.140.141:9898/images/2370650.jpg" group-title="VIDEO CLUBE",O Fazedor de Milagres
+http://dgimedia.ddns.net:9898/movie/silva/silva/336.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="O Domínio dos Deuses" tvg-logo="http://5.135.140.141:9898/images/3759416.jpg" group-title="VIDEO CLUBE",O Domínio dos Deuses
+http://dgimedia.ddns.net:9898/movie/silva/silva/335.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Now You See Me 2" tvg-logo="http://5.135.140.141:9898/images/3110958.jpg" group-title="VIDEO CLUBE",Now You See Me 2
+http://dgimedia.ddns.net:9898/movie/silva/silva/334.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Neighbors 2" tvg-logo="http://5.135.140.141:9898/images/4438848.jpg" group-title="VIDEO CLUBE",Neighbors 2
+http://dgimedia.ddns.net:9898/movie/silva/silva/333.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Mune O Guardião da Lua" tvg-logo="http://5.135.140.141:9898/images/3858372.jpg" group-title="VIDEO CLUBE",Mune O Guardião da Lua
+http://dgimedia.ddns.net:9898/movie/silva/silva/332.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Mission Impossible II" tvg-logo="http://5.135.140.141:9898/images/0120755.jpg" group-title="VIDEO CLUBE",Mission Impossible II
+http://dgimedia.ddns.net:9898/movie/silva/silva/330.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Mission Impossible Ghost Protocol" tvg-logo="http://5.135.140.141:9898/images/3006366.jpg" group-title="VIDEO CLUBE",Mission Impossible Ghost Protocol
+http://dgimedia.ddns.net:9898/movie/silva/silva/329.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Mission Impossible" tvg-logo="http://5.135.140.141:9898/images/0117060.jpg" group-title="VIDEO CLUBE",Mission Impossible
+http://dgimedia.ddns.net:9898/movie/silva/silva/331.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Miracles from Heaven" tvg-logo="http://5.135.140.141:9898/images/4257926.jpg" group-title="VIDEO CLUBE",Miracles from Heaven
+http://dgimedia.ddns.net:9898/movie/silva/silva/328.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Minions" tvg-logo="http://5.135.140.141:9898/images/2293640.jpg" group-title="VIDEO CLUBE",Minions
+http://dgimedia.ddns.net:9898/movie/silva/silva/327.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Minimos 2015" tvg-logo="http://5.135.140.141:9898/images/2293640.jpg" group-title="VIDEO CLUBE",Minimos 2015
+http://dgimedia.ddns.net:9898/movie/silva/silva/326.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Mechanic Resurrection" tvg-logo="http://5.135.140.141:9898/images/6004262.jpg" group-title="VIDEO CLUBE",Mechanic Resurrection
+http://dgimedia.ddns.net:9898/movie/silva/silva/325.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Malcolm X" tvg-logo="http://5.135.140.141:9898/images/0104797.jpg" group-title="VIDEO CLUBE",Malcolm X
+http://dgimedia.ddns.net:9898/movie/silva/silva/324.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Major Payne" tvg-logo="http://5.135.140.141:9898/images/0110443.jpg" group-title="VIDEO CLUBE",Major Payne
+http://dgimedia.ddns.net:9898/movie/silva/silva/323.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Love and Friendship" tvg-logo="http://5.135.140.141:9898/images/3068194.jpg" group-title="VIDEO CLUBE",Love and Friendship
+http://dgimedia.ddns.net:9898/movie/silva/silva/322.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Kingsglaive Final Fantasy XV" tvg-logo="http://5.135.140.141:9898/images/5595168.jpg" group-title="VIDEO CLUBE",Kingsglaive Final Fantasy XV
+http://dgimedia.ddns.net:9898/movie/silva/silva/321.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Kickboxer Vengeance" tvg-logo="http://5.135.140.141:9898/images/3082898.jpg" group-title="VIDEO CLUBE",Kickboxer Vengeance
+http://dgimedia.ddns.net:9898/movie/silva/silva/320.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Keanu" tvg-logo="http://5.135.140.141:9898/images/4139124.jpg" group-title="VIDEO CLUBE",Keanu
+http://dgimedia.ddns.net:9898/movie/silva/silva/319.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Julieta" tvg-logo="http://5.135.140.141:9898/images/4326444.jpg" group-title="VIDEO CLUBE",Julieta
+http://dgimedia.ddns.net:9898/movie/silva/silva/318.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Imperium" tvg-logo="http://5.135.140.141:9898/images/3228904.jpg" group-title="VIDEO CLUBE",Imperium
+http://dgimedia.ddns.net:9898/movie/silva/silva/317.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Igor 2008 PT" tvg-logo="" group-title="VIDEO CLUBE",Igor 2008 PT
+http://dgimedia.ddns.net:9898/movie/silva/silva/316.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="I Am Wrath" tvg-logo="http://5.135.140.141:9898/images/3212232.jpg" group-title="VIDEO CLUBE",I Am Wrath
+http://dgimedia.ddns.net:9898/movie/silva/silva/315.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Hunt for the Wilderpeople" tvg-logo="http://5.135.140.141:9898/images/4698684.jpg" group-title="VIDEO CLUBE",Hunt for the Wilderpeople
+http://dgimedia.ddns.net:9898/movie/silva/silva/314.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Hercules" tvg-logo="http://5.135.140.141:9898/images/1267297.jpg" group-title="VIDEO CLUBE",Hercules
+http://dgimedia.ddns.net:9898/movie/silva/silva/313.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Hard Target 2" tvg-logo="http://5.135.140.141:9898/images/5241578.jpg" group-title="VIDEO CLUBE",Hard Target 2
+http://dgimedia.ddns.net:9898/movie/silva/silva/312.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Guardians of the Galaxy" tvg-logo="http://5.135.140.141:9898/images/2015381.jpg" group-title="VIDEO CLUBE",Guardians of the Galaxy
+http://dgimedia.ddns.net:9898/movie/silva/silva/311.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Goosebumps" tvg-logo="http://5.135.140.141:9898/images/1051904.jpg" group-title="VIDEO CLUBE",Goosebumps
+http://dgimedia.ddns.net:9898/movie/silva/silva/310.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Ghostbusters.2016" tvg-logo="http://5.135.140.141:9898/images/1289401.jpg" group-title="VIDEO CLUBE",Ghostbusters.2016
+http://dgimedia.ddns.net:9898/movie/silva/silva/309.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Get Hard" tvg-logo="http://5.135.140.141:9898/images/2561572.jpg" group-title="VIDEO CLUBE",Get Hard
+http://dgimedia.ddns.net:9898/movie/silva/silva/308.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Genius" tvg-logo="http://5.135.140.141:9898/images/1703957.jpg" group-title="VIDEO CLUBE",Genius
+http://dgimedia.ddns.net:9898/movie/silva/silva/307.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Fantastic Four" tvg-logo="http://5.135.140.141:9898/images/1502712.jpg" group-title="VIDEO CLUBE",Fantastic Four
+http://dgimedia.ddns.net:9898/movie/silva/silva/306.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Desierto" tvg-logo="http://5.135.140.141:9898/images/3147312.jpg" group-title="VIDEO CLUBE",Desierto
+http://dgimedia.ddns.net:9898/movie/silva/silva/305.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Crimson Peak" tvg-logo="http://5.135.140.141:9898/images/2554274.jpg" group-title="VIDEO CLUBE",Crimson Peak
+http://dgimedia.ddns.net:9898/movie/silva/silva/304.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Concussion 2015" tvg-logo="http://5.135.140.141:9898/images/3322364.jpg" group-title="VIDEO CLUBE",Concussion 2015
+http://dgimedia.ddns.net:9898/movie/silva/silva/303.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Charlie Schmidt's Keyboard Cat! - THE ORIGINAL!" tvg-logo="" group-title="VIDEO CLUBE",Charlie Schmidt's Keyboard Cat! - THE ORIGINAL!
+http://dgimedia.ddns.net:9898/movie/silva/silva/302.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Certain Women" tvg-logo="http://5.135.140.141:9898/images/4468634.jpg" group-title="VIDEO CLUBE",Certain Women
+http://dgimedia.ddns.net:9898/movie/silva/silva/301.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Captain America The Winter Soldier" tvg-logo="http://5.135.140.141:9898/images/1843866.jpg" group-title="VIDEO CLUBE",Captain America The Winter Soldier
+http://dgimedia.ddns.net:9898/movie/silva/silva/300.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Captain America The First Avenger" tvg-logo="http://5.135.140.141:9898/images/0458339.jpg" group-title="VIDEO CLUBE",Captain America The First Avenger
+http://dgimedia.ddns.net:9898/movie/silva/silva/299.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Brave PT" tvg-logo="http://5.135.140.141:9898/images/1217209.jpg" group-title="VIDEO CLUBE",Brave PT
+http://dgimedia.ddns.net:9898/movie/silva/silva/298.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Angry Birds O Filme" tvg-logo="http://5.135.140.141:9898/images/1985949.jpg" group-title="VIDEO CLUBE",Angry Birds O Filme
+http://dgimedia.ddns.net:9898/movie/silva/silva/297.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="amo-te teresa 2000" tvg-logo="http://5.135.140.141:9898/images/0229984.jpg" group-title="VIDEO CLUBE",amo-te teresa 2000
+http://dgimedia.ddns.net:9898/movie/silva/silva/373.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="All The Way" tvg-logo="http://5.135.140.141:9898/images/3791216.jpg" group-title="VIDEO CLUBE",All The Way
+http://dgimedia.ddns.net:9898/movie/silva/silva/296.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Alice In Wonderland" tvg-logo="http://5.135.140.141:9898/images/1014759.jpg" group-title="VIDEO CLUBE",Alice In Wonderland
+http://dgimedia.ddns.net:9898/movie/silva/silva/294.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Alice do Outro Lado do Espelho" tvg-logo="http://5.135.140.141:9898/images/2567026.jpg" group-title="VIDEO CLUBE",Alice do Outro Lado do Espelho
+http://dgimedia.ddns.net:9898/movie/silva/silva/295.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Aladdin PT" tvg-logo="http://5.135.140.141:9898/images/0103639.jpg" group-title="VIDEO CLUBE",Aladdin PT
+http://dgimedia.ddns.net:9898/movie/silva/silva/293.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A Volta Do Mundo Com Timon e Pumba PT" tvg-logo="" group-title="VIDEO CLUBE",A Volta Do Mundo Com Timon e Pumba PT
+http://dgimedia.ddns.net:9898/movie/silva/silva/291.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="a Procura de Nemo PT" tvg-logo="http://5.135.140.141:9898/images/not-found.jpg" group-title="VIDEO CLUBE",a Procura de Nemo PT
+http://dgimedia.ddns.net:9898/movie/silva/silva/372.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A Perfect Day" tvg-logo="http://5.135.140.141:9898/images/3577624.jpg" group-title="VIDEO CLUBE",A Perfect Day
+http://dgimedia.ddns.net:9898/movie/silva/silva/290.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A Hologram for the King" tvg-logo="http://5.135.140.141:9898/images/2980210.jpg" group-title="VIDEO CLUBE",A Hologram for the King
+http://dgimedia.ddns.net:9898/movie/silva/silva/289.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A Girl Like Her" tvg-logo="http://5.135.140.141:9898/images/2523832.jpg" group-title="VIDEO CLUBE",A Girl Like Her
+http://dgimedia.ddns.net:9898/movie/silva/silva/288.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A fuga das galinhas PT" tvg-logo="" group-title="VIDEO CLUBE",A fuga das galinhas PT
+http://dgimedia.ddns.net:9898/movie/silva/silva/292.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A Corcunda de Notre Dame" tvg-logo="http://5.135.140.141:9898/images/not-found.jpg" group-title="VIDEO CLUBE",A Corcunda de Notre Dame
+http://dgimedia.ddns.net:9898/movie/silva/silva/287.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A Bugs Life PT" tvg-logo="http://5.135.140.141:9898/images/0120623.jpg" group-title="VIDEO CLUBE",A Bugs Life PT
+http://dgimedia.ddns.net:9898/movie/silva/silva/286.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A Bela e o Monstro 1991 PT" tvg-logo="" group-title="VIDEO CLUBE",A Bela e o Monstro 1991 PT
+http://dgimedia.ddns.net:9898/movie/silva/silva/285.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="31" tvg-logo="http://5.135.140.141:9898/images/3835080.jpg" group-title="VIDEO CLUBE",31
+http://dgimedia.ddns.net:9898/movie/silva/silva/284.mkv
