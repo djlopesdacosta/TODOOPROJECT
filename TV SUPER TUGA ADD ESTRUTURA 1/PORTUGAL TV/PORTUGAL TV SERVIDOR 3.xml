@@ -42,134 +42,309 @@
 
 
 
+      <item> 
+            <title>(PT) RTP 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1215.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP 1</link> 
+        </item> 
+          <item> 
+            <title>(PT) RTP 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1216.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP 2</link> 
+        </item> 
+          <item> 
+            <title>(PT) RTP 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9416.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP 3</link> 
+        </item> 
+          <item> 
+            <title>(PT) RTP Madeira</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/2713.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP Madeira</link> 
+        </item> 
+          <item> 
+            <title>(PT) RTP Memoria</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/2712.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP Memoria</link> 
+        </item> 
+          <item> 
+            <title>(PT) RTP Acores</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/2715.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP Acores</link> 
+        </item> 
+          <item> 
+            <title>(PT) RTP Africa</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9625.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP Africa</link> 
+        </item> 
+          <item> 
+            <title>(PT) TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1218.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVI</link> 
+        </item> 
+          <item> 
+            <title>(PT) SIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1217.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SIC</link> 
+        </item> 
+          <item> 
+            <title>(PT) SIC Noticias</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/2703.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SIC Noticias</link> 
+        </item> 
+          <item> 
+            <title>(PT) SIC Radical</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9392.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SIC Radical</link> 
+        </item> 
+          <item> 
+            <title>(PT) SIC Mulher</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/2716.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SIC Mulher</link> 
+        </item> 
+          <item> 
+            <title>(PT) SIC Caras</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9393.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SIC Caras</link> 
+        </item> 
+          <item> 
+            <title>(PT) Porto Canal</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/2704.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Porto Canal</link> 
+        </item> 
+          <item> 
+            <title>(PT) Globo Premium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/2731.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Globo Premium</link> 
+        </item> 
+          <item> 
+            <title>(PT) TV Globo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9390.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TV Globo</link> 
+        </item> 
+          <item> 
+            <title>☆☆☆☆☆ PT - KIDS ☆☆☆☆☆</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7120.ts&amp;streamtype=TSDOWNLOADER&amp;name=☆☆☆☆☆ PT - KIDS ☆☆☆☆☆</link> 
+        </item> 
+          <item> 
+            <title>(PT) Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9410.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Disney Channel</link> 
+        </item> 
+          <item> 
+            <title>(PT) Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/2717.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Disney Junior</link> 
+        </item> 
+          <item> 
+            <title>(PT) Cartoon Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9412.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Cartoon Network</link> 
+        </item> 
+          <item> 
+            <title>(PT) Canal Panda</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/2710.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Canal Panda</link> 
+        </item> 
+          <item> 
+            <title>(PT) Nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9417.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Nickelodeon</link> 
+        </item> 
+          <item> 
+            <title>(PT) JimJam</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9400.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) JimJam</link> 
+        </item> 
+          <item> 
+            <title>(PT) SIC Kids</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/2720.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SIC Kids</link> 
+        </item> 
+          <item> 
+            <title>☆☆☆☆☆ PT - DOCU ☆☆☆☆☆</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7118.ts&amp;streamtype=TSDOWNLOADER&amp;name=☆☆☆☆☆ PT - DOCU ☆☆☆☆☆</link> 
+        </item> 
+          <item> 
+            <title>(PT) National Geographic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9422.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) National Geographic</link> 
+        </item> 
+          <item> 
+            <title>(PT) Nat Geo Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/2705.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Nat Geo Wild</link> 
+        </item> 
+          <item> 
+            <title>(PT) Travel Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9420.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Travel Channel</link> 
+        </item> 
+          <item> 
+            <title>(PT) Canal Historia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9413.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Canal Historia</link> 
+        </item> 
+          <item> 
+            <title>(PT) 24 Kitchen HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1236.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) 24 Kitchen HD</link> 
+        </item> 
+          <item> 
+            <title>(PT) E! Entertainment</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/2725.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) E! Entertainment</link> 
+        </item> 
+          <item> 
+            <title>☆☆☆☆☆ PT - OTHER ☆☆☆☆☆</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7121.ts&amp;streamtype=TSDOWNLOADER&amp;name=☆☆☆☆☆ PT - OTHER ☆☆☆☆☆</link> 
+        </item> 
+          <item> 
+            <title>(PT) CMTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/2709.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) CMTV</link> 
+        </item> 
+          <item> 
+            <title>(PT) Odisseia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9399.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Odisseia</link> 
+        </item> 
+          <item> 
+            <title>(PT) CBS Reality</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9411.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) CBS Reality</link> 
+        </item> 
+          <item> 
+            <title>(PT) Canal Q</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9418.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Canal Q</link> 
+        </item> 
+          <item> 
+            <title>(PT) A Bola TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9415.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) A Bola TV</link> 
+        </item> 
+          <item> 
+            <title>☆☆☆☆☆ PT - NEWS ☆☆☆☆☆</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7119.ts&amp;streamtype=TSDOWNLOADER&amp;name=☆☆☆☆☆ PT - NEWS ☆☆☆☆☆</link> 
+        </item> 
+          <item> 
+            <title>(PT) TVI 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/2734.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVI 24</link> 
+        </item> 
+          <item> 
+            <title>(PT) Economica</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9409.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Economica</link> 
+        </item> 
+          <item> 
+            <title>☆☆☆☆☆ PT - Cinema ☆☆☆☆☆</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7115.ts&amp;streamtype=TSDOWNLOADER&amp;name=☆☆☆☆☆ PT - Cinema ☆☆☆☆☆</link> 
+        </item> 
+          <item> 
+            <title>(PT) FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1232.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) FOX HD</link> 
+        </item> 
+          <item> 
+            <title>(PT) Fox Life HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1234.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Fox Life HD</link> 
+        </item> 
+          <item> 
+            <title>(PT) Fox Crime HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1230.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Fox Crime HD</link> 
+        </item> 
+          <item> 
+            <title>(PT) Fox Movies</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1235.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Fox Movies</link> 
+        </item> 
+          <item> 
+            <title>(PT) Fox Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9403.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Fox Comedy</link> 
+        </item> 
+          <item> 
+            <title>(PT) AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9423.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) AMC</link> 
+        </item> 
+          <item> 
+            <title>(PT) AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1227.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) AXN HD</link> 
+        </item> 
+          <item> 
+            <title>(PT) AXN White HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/2708.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) AXN White HD</link> 
+        </item> 
+          <item> 
+            <title>(PT) AXN Black HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9414.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) AXN Black HD</link> 
+        </item> 
+          <item> 
+            <title>(PT) SyFy HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9391.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SyFy HD</link> 
+        </item> 
+          <item> 
+            <title>(PT) TVC 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1220.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVC 1 HD</link> 
+        </item> 
+          <item> 
+            <title>(PT) TVC 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1221.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVC 2 HD</link> 
+        </item> 
+          <item> 
+            <title>(PT) TVC 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1222.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVC 3 HD</link> 
+        </item> 
+          <item> 
+            <title>(PT) TVC 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1223.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVC 4 HD</link> 
+        </item> 
+          <item> 
+            <title>(PT) TVC Series</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1224.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVC Series</link> 
+        </item> 
+          <item> 
+            <title>(PT) MOV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/2706.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) MOV HD</link> 
+        </item> 
+          <item> 
+            <title>(PT) Hollywood</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9402.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Hollywood</link> 
+        </item> 
+          <item> 
+            <title>(PT) Cine Mundo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9419.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Cine Mundo</link> 
+        </item> 
+          <item> 
+            <title>☆☆☆☆☆ PT - Sports ☆☆☆☆☆</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,☆☆☆☆☆ PT - Sports&amp;streamtype=TSDOWNLOADER&amp;name=☆☆☆☆☆ PT - Sports ☆☆☆☆☆</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7116.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>(PT) Sport TV 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/864.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Sport TV 1 HD</link> 
+        </item> 
+          <item> 
+            <title>(PT) Sport TV 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/863.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Sport TV 2</link> 
+        </item> 
+          <item> 
+            <title>(PT) Sport TV 2 HDD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/13184.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Sport TV 2 HDD</link> 
+        </item> 
+          <item> 
+            <title>(PT) Sport TV 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/862.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Sport TV 3 HD</link> 
+        </item> 
+          <item> 
+            <title>(PT) Sport TV 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1021.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Sport TV 4 HD</link> 
+        </item> 
+          <item> 
+            <title>(PT) Sport TV 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1022.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Sport TV 5</link> 
+        </item> 
+          <item> 
+            <title>(PT) Sport TV 5 HDD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/13183.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Sport TV 5 HDD</link> 
+        </item> 
+          <item> 
+            <title>(PT) Eurosport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/2739.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Eurosport 1 HD</link> 
+        </item> 
+          <item> 
+            <title>(PT) Eurosport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9407.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Eurosport 2</link> 
+        </item> 
+          <item> 
+            <title>(PT) Benfica 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1171.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Benfica 1</link> 
+        </item> 
+          <item> 
+            <title>(PT) Benfica 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1170.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Benfica 2</link> 
+        </item> 
+          <item> 
+            <title>(PT) Sporting TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/2732.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Sporting TV HD</link> 
+        </item> 
+          <item> 
+            <title>(PT) Toros TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/2729.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Toros TV</link> 
+        </item> 
+          <item> 
+            <title>(PT) PFC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9421.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) PFC</link> 
+        </item> 
+  
 
 
-
-
-<item>
-<title>PT:EUROSPORT1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2367.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:EUROSPORT1 </link>
-</item>
-<item>
-<title>PT:DISNEY_CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2368.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:DISNEY_CHANNEL </link>
-</item>
-<item>
-<title>PT:SIC_RADICAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2370.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC_RADICAL </link>
-</item>
-<item>
-<title>PT:TVCine1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2302.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCine1 </link>
-</item>
-<item>
-<title>PT:TVCine2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2303.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCine2 </link>
-</item>
-<item>
-<title>PT:TVCine3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2304.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCine3 </link>
-</item>
-<item>
-<title>PT:TVCine4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2305.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCine4 </link>
-</item>
-<item>
-<title>PT:TVCseries</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2306.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVCseries </link>
-</item>
-<item>
-<title>PT:RTP_Madeira</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2318.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP_Madeira </link>
-</item>
-<item>
-<title>PT:RTP_MEMORIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2319.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP_MEMORIA </link>
-</item>
-<item>
-<title>PT:RTP2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2320.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP2 </link>
-</item>
-<item>
-<title>PT:RTP1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2321.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP1 </link>
-</item>
-<item>
-<title>PT:Fox_Life</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2313.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Fox_Life </link>
-</item>
-<item>
-<title>PT:Fox_Crime</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2314.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Fox_Crime </link>
-</item>
-<item>
-<title>PT:Fox_Comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2311.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Fox_Comedy </link>
-</item>
-<item>
-<title>PT:FoxHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2312.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FoxHD </link>
-</item>
-<item>
-<title>PT:Axn_White</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2309.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Axn_White </link>
-</item>
-<item>
-<title>PT:Axn_Black</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2310.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Axn_Black </link>
-</item>
-<item>
-<title>PT:AXN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2308.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AXN </link>
-</item>
-<item>
-<title>PT:SporTV5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2298.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SporTV5 </link>
-</item>
-<item>
-<title>PT:SporTV1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2325.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SporTV1 </link>
-</item>
-<item>
-<title>PT:SporTV2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2295.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SporTV2 </link>
-</item>
-<item>
-<title>PT:SporTV3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2296.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SporTV3 </link>
-</item>
-<item>
-<title>PT:SporTV4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2297.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SporTV4 </link>
-</item>
-<item>
-<title>PT:Canal_Porto</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2315.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Canal_Porto </link>
-</item>
-<item>
-<title>PT:Benfica2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2300.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Benfica2 </link>
-</item>
-<item>
-<title>PT:Benfica1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2301.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Benfica1 </link>
-</item>
-<item>
-<title>PT:TVI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2317.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI </link>
-</item>
-<item>
-<title>PT:SyFy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2322.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SyFy </link>
-</item>
-<item>
-<title>PT:Disney_Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2324.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Disney_Junior </link>
-</item>
-<item>
-<title>PT:CartoonNetWork</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/3w2xp/ure3d/2323.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CartoonNetWork </link>
-</item>
 
 
 
