@@ -17,7 +17,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 15-01-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 17-01-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -35,219 +35,342 @@
 
 
 
-<item>
-<title>UK True.Movie.1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/89.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK True.Movie.1 </link>
-</item>
-<item>
-<title>UK_True_Movies_2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/74.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_True_Movies_2 </link>
-</item>
-<item>
-<title>UK_Syfy_UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Syfy_UK </link>
-</item>
-<item>
-<title>UK_SKY.Art.1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/106.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY.Art.1 </link>
-</item>
-<item>
-<title>UK_Sky_Two</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/76.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Two </link>
-</item>
-<item>
-<title>UK_Sky.Sport.News.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/107.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky.Sport.News.HD </link>
-</item>
-<item>
-<title>UK_Sky.Sport.1.UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/112.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky.Sport.1.UK </link>
-</item>
-<item>
-<title>UK_Sky.Sport.2.UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/111.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky.Sport.2.UK </link>
-</item>
-<item>
-<title>UK_Sky.Sport.3.UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/110.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky.Sport.3.UK </link>
-</item>
-<item>
-<title>UK:_CBS_Reality</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2638.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:_CBS_Reality </link>
-</item>
-<item>
-<title>UK_sky.sport.4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/109.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_sky.sport.4 </link>
-</item>
-<item>
-<title>UK Sky Sport 5 UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/108.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK Sky Sport 5 UK </link>
-</item>
-<item>
-<title>UK_Sky_Sports_F1_UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sports_F1_UK </link>
-</item>
-<item>
-<title>UK Setantasport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/915.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK Setantasport </link>
-</item>
-<item>
-<title>UK ESPN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/914.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK ESPN </link>
-</item>
-<item>
-<title>UK BT Sport Europe</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/913.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK BT Sport Europe </link>
-</item>
-<item>
-<title>UK BT Sport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/911.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK BT Sport 1 </link>
-</item>
-<item>
-<title>UK BT Sport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/912.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK BT Sport 2 </link>
-</item>
-<item>
-<title>UK British Muslim</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/916.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK British Muslim </link>
-</item>
-<item>
-<title>UK_Sky_One</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_One </link>
-</item>
-<item>
-<title>UK_Sky.Movies.Thriller</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky.Movies.Thriller </link>
-</item>
-<item>
-<title>UK_Sky.Movies.Sci-Fi.&.Horror</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/114.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky.Movies.Sci-Fi.&.Horror </link>
-</item>
-<item>
-<title>UK_Sky.Movies.Premiere.UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/115.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky.Movies.Premiere.UK </link>
-</item>
-<item>
-<title>UK_Sky.Movies.Modern.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/116.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky.Movies.Modern.HD </link>
-</item>
-<item>
-<title>UK_Sky.Movies.Family.UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/79.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky.Movies.Family.UK </link>
-</item>
-<item>
-<title>UK_Sky.Movies.Comedy.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/118.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky.Movies.Comedy.HD </link>
-</item>
-<item>
-<title>UK_Sky.Movies.Action.&.Adventure</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/119.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky.Movies.Action.&.Adventure </link>
-</item>
-<item>
-<title>UK_Sky_Family_UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/121.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Family_UK </link>
-</item>
-<item>
-<title>UK_Sky_Atlantic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Atlantic </link>
-</item>
-<item>
-<title>UK Rte One UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/88.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK Rte One UK </link>
-</item>
-<item>
-<title>UK_National.Geographic.UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/102.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_National.Geographic.UK </link>
-</item>
-<item>
-<title>UK Movies-4men Uk</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK Movies-4men Uk </link>
-</item>
-<item>
-<title>UK_ITV_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV_1 </link>
-</item>
-<item>
-<title>UK_ITV_2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV_2 </link>
-</item>
-<item>
-<title>UK_ITV_3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/82.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV_3 </link>
-</item>
-<item>
-<title>UK_ITV_4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/81.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV_4 </link>
-</item>
-<item>
-<title>UK Five</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/99.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK Five </link>
-</item>
-<item>
-<title>UK_CBS_Reality_UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/78.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CBS_Reality_UK </link>
-</item>
-<item>
-<title>UK_Film4_UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/100.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Film4_UK </link>
-</item>
-<item>
-<title>UK Eurosport 1 UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK Eurosport 1 UK </link>
-</item>
-<item>
-<title>UK Eurosport 2 UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/91.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK Eurosport 2 UK </link>
-</item>
-<item>
-<title>UK_Discovery.Science.UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/104.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Discovery.Science.UK </link>
-</item>
-<item>
-<title>UK_DISCOVERY.HOME.&.HEALTH</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/123.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_DISCOVERY.HOME.&.HEALTH </link>
-</item>
-<item>
-<title>UK_Discovery_History_UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/124.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Discovery_History_UK </link>
-</item>
-<item>
-<title>UK_Discovery_Channel_UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/125.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Discovery_Channel_UK </link>
-</item>
-<item>
-<title>UK_cbs_reality</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/75.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_cbs_reality </link>
-</item>
-<item>
-<title>UK Box Nation UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK Box Nation UK </link>
-</item>
-<item>
-<title>UK_BBC.One</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/130.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC.One </link>
-</item>
-<item>
-<title>UK_BBC.Two</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC.Two </link>
-</item>
-<item>
-<title>UK_BBC_Three</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/85.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC_Three </link>
-</item>
-<item>
-<title>UK_BBC_Four</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/101.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC_Four </link>
-</item>
-<item>
-<title>UK_B4U_Movies</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_B4U_Movies </link>
-</item>
-<item>
-<title>UK_Animal.Planet.UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/105.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Animal.Planet.UK </link>
-</item>
 
+
+
+
+
+
+
+
+<item>
+<title>---------------Generale---------------</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/664.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------------Generale--------------- </link>
+</item>
+<item>
+<title>uk: gold</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/1442.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk: gold </link>
+</item>
+<item>
+<title>RTÉ One</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/665.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTÉ One </link>
+</item>
+<item>
+<title>RTÉ Two</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/666.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTÉ Two </link>
+</item>
+<item>
+<title>Tlc</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/667.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tlc </link>
+</item>
+<item>
+<title>BBC News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/668.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC News </link>
+</item>
+<item>
+<title>BBC One HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/669.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC One HD </link>
+</item>
+<item>
+<title>BBC Two HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/670.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC Two HD </link>
+</item>
+<item>
+<title>BBC Three HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/671.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC Three HD </link>
+</item>
+<item>
+<title>BBC Four</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/672.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC Four </link>
+</item>
+<item>
+<title>TG4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=TG4 </link>
+</item>
+<item>
+<title>ITV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/674.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV HD </link>
+</item>
+<item>
+<title>ITV2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/675.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV2 HD </link>
+</item>
+<item>
+<title>ITV4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/677.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV4 HD </link>
+</item>
+<item>
+<title>ITV3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/676.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV3 HD </link>
+</item>
+<item>
+<title>Cbs Reality</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/678.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cbs Reality </link>
+</item>
+<item>
+<title>Cbs Drama</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/679.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cbs Drama </link>
+</item>
+<item>
+<title>Cbs Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/680.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cbs Action </link>
+</item>
+<item>
+<title>London Live</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/681.ts&amp;streamtype=TSDOWNLOADER&amp;name=London Live </link>
+</item>
+<item>
+<title>Channel 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/682.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 4 HD </link>
+</item>
+<item>
+<title>Channel 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/683.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 5 HD </link>
+</item>
+<item>
+<title>Home</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/684.ts&amp;streamtype=TSDOWNLOADER&amp;name=Home </link>
+</item>
+<item>
+<title>Sky News HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/685.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky News HD </link>
+</item>
+<item>
+<title>-----------------Sports-----------------</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/586.ts&amp;streamtype=TSDOWNLOADER&amp;name=-----------------Sports----------------- </link>
+</item>
+<item>
+<title>BT Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/687.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport 1 HD </link>
+</item>
+<item>
+<title>BT Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/688.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport 2 HD </link>
+</item>
+<item>
+<title>BT Sport // ESPN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/689.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport // ESPN </link>
+</item>
+<item>
+<title>BT Sport EuroHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/690.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport EuroHD </link>
+</item>
+<item>
+<title>Sky Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/691.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 1 HD </link>
+</item>
+<item>
+<title>Sky Sports 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/692.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 2 HD </link>
+</item>
+<item>
+<title>Sky Sports 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/693.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 3 HD </link>
+</item>
+<item>
+<title>Sky Sports 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/694.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 4 HD </link>
+</item>
+<item>
+<title>Sky Sports 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/695.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 5 HD </link>
+</item>
+<item>
+<title>Sky Sports F1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/696.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports F1 HD </link>
+</item>
+<item>
+<title>Box Nation</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/697.ts&amp;streamtype=TSDOWNLOADER&amp;name=Box Nation </link>
+</item>
+<item>
+<title>Setanta Ireland</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/698.ts&amp;streamtype=TSDOWNLOADER&amp;name=Setanta Ireland </link>
+</item>
+<item>
+<title>Racing UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/699.ts&amp;streamtype=TSDOWNLOADER&amp;name=Racing UK </link>
+</item>
+<item>
+<title>MOTORS TV UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/700.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORS TV UK </link>
+</item>
+<item>
+<title>---------------------Cinema---------------------</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/316.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------------------Cinema--------------------- </link>
+</item>
+<item>
+<title>Sky1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/702.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky1 HD </link>
+</item>
+<item>
+<title>Sky2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/703.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky2 </link>
+</item>
+<item>
+<title>Film4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/704.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film4 HD </link>
+</item>
+<item>
+<title>Sky Arts 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/705.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Arts 1 </link>
+</item>
+<item>
+<title>Sky Select HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/706.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select HD </link>
+</item>
+<item>
+<title>Sky Movies Premiere</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/707.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Premiere </link>
+</item>
+<item>
+<title>UK:SkyMoviesGreat&Modern</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/708.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SkyMoviesGreat&Modern </link>
+</item>
+<item>
+<title>Sky Movies Disney HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/709.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Disney HD </link>
+</item>
+<item>
+<title>Sky Moveis Drama</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/710.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Moveis Drama </link>
+</item>
+<item>
+<title>UK:DinsenyChannelUK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/711.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:DinsenyChannelUK </link>
+</item>
+<item>
+<title>Sky Disney HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/712.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Disney HD </link>
+</item>
+<item>
+<title>Sky Movies Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/713.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Comedy </link>
+</item>
+<item>
+<title>Sky Atlantic HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/714.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Atlantic HD </link>
+</item>
+<item>
+<title>Sky ScFi/HorHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/715.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky ScFi/HorHD </link>
+</item>
+<item>
+<title>Sky Movies Showcase</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/716.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Showcase </link>
+</item>
+<item>
+<title>Sky Movies Family</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/717.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Family </link>
+</item>
+<item>
+<title>Sky Movies Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/718.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Action </link>
+</item>
+<item>
+<title>Sky Living</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/719.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Living </link>
+</item>
+<item>
+<title>Sky Movies Thriller</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/720.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Thriller </link>
+</item>
+<item>
+<title>Sky True Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/721.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky True Movies </link>
+</item>
+<item>
+<title>Sky True Movies 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/722.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky True Movies 2 </link>
+</item>
+<item>
+<title>Dave</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/723.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dave </link>
+</item>
+<item>
+<title>UK:Fox</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/724.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Fox </link>
+</item>
+<item>
+<title>uk:Syfy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/725.ts&amp;streamtype=TSDOWNLOADER&amp;name=uk:Syfy </link>
+</item>
+<item>
+<title>Good Food</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/726.ts&amp;streamtype=TSDOWNLOADER&amp;name=Good Food </link>
+</item>
+<item>
+<title>Food Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/727.ts&amp;streamtype=TSDOWNLOADER&amp;name=Food Network </link>
+</item>
+<item>
+<title>----------------Culture----------------</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/728.ts&amp;streamtype=TSDOWNLOADER&amp;name=----------------Culture---------------- </link>
+</item>
+<item>
+<title>Uk:NatGeoGraphic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/729.ts&amp;streamtype=TSDOWNLOADER&amp;name=Uk:NatGeoGraphic </link>
+</item>
+<item>
+<title>UK:NationalGeography-Wild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/730.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:NationalGeography-Wild </link>
+</item>
+<item>
+<title>Uk:DiscoverySc</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/731.ts&amp;streamtype=TSDOWNLOADER&amp;name=Uk:DiscoverySc </link>
+</item>
+<item>
+<title>Uk:DiscoveryHistory</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/732.ts&amp;streamtype=TSDOWNLOADER&amp;name=Uk:DiscoveryHistory </link>
+</item>
+<item>
+<title>Disc. Turbo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/733.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disc. Turbo </link>
+</item>
+<item>
+<title>Uk:DiscoveryCI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/734.ts&amp;streamtype=TSDOWNLOADER&amp;name=Uk:DiscoveryCI </link>
+</item>
+<item>
+<title>Discovery HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/735.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery HD </link>
+</item>
+<item>
+<title>Uk:DiscoveryWorld</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/736.ts&amp;streamtype=TSDOWNLOADER&amp;name=Uk:DiscoveryWorld </link>
+</item>
+<item>
+<title>Uk:AnimalPlanet</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/737.ts&amp;streamtype=TSDOWNLOADER&amp;name=Uk:AnimalPlanet </link>
+</item>
+<item>
+<title>---------------Enfants---------------</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/738.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------------Enfants--------------- </link>
+</item>
+<item>
+<title>Nick Jr.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/739.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Jr. </link>
+</item>
+<item>
+<title>Nicktoons</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/740.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nicktoons </link>
+</item>
+<item>
+<title>nickelodeon</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/741.ts&amp;streamtype=TSDOWNLOADER&amp;name=nickelodeon </link>
+</item>
+<item>
+<title>Disney Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/742.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior </link>
+</item>
+<item>
+<title>Cartoon Netwrk</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/743.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon Netwrk </link>
+</item>
+<item>
+<title>-------------sky italia--------------</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ndaiptv.com:5999/live/hassan/hassan/744.ts&amp;streamtype=TSDOWNLOADER&amp;name=-------------sky italia-------------- </link>
+</item>
 
 
 
