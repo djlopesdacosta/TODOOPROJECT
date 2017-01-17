@@ -133,22 +133,11 @@
 <fanart>http://iptv.cline.in:80/live/greg/greg/1166.m3u8</fanart>
 </item>
 
-<item> 
-<title>[COLOR=red][B][I] SIC  [/I][/B][/COLOR]   [COLOR=orange](WebTV)[/COLOR]</title>
+<item>
+<title>[COLOR=red][B][I] SIC SD [/I][/B][/COLOR]    [COLOR=orange](WebTV)[/COLOR]</title>
 <link>rtmp://94.176.148.234/live?token=D1ajQEDW8rv4MrlL6ALrQwExpired=1484693621<playpath>vera76f9de3c310cf2ad86811 <swfUrl>http://abcast.net/ob.swf <pageUrl>http://abcast.net/app.php?file=siciio&width=600&height=450</link>
-</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.liveflashplayer.net/embedplayer/SIC813747234/1/565/440</page>
-<referer>http://www.liveflashplayer.net/</referer>
 <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
-</regex>
+<fanart>http://iptv.cline.in:80/live/greg/greg/1166.m3u8</fanart>
 </item>
 
 <item>
