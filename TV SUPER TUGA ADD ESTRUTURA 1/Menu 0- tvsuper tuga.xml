@@ -5,7 +5,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime] [COLOR white][B] [COLOR lime]|||[/COLOR] Update 17-01-2017 [COLOR red]|||[/COLOR][/B][/COLOR] </name>
+<name>[COLOR lime] [COLOR white][B] [COLOR lime]|||[/COLOR] Update 23-01-2017 [COLOR red]|||[/COLOR][/B][/COLOR] </name>
 <externallink>http://tv-super-tuga-add-estrutura.comlu.com/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA/Menu%200-%20tvsuper%20tuga.xml</externallink>
 <fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
 <thumbnail>http://www.esar.edu.pt/portal/images/outros/icon.jpg</thumbnail>
@@ -49,13 +49,19 @@
 
 <item>
 <title>[COLOR=red][B][I] RTP 1 HD [/I][/B][/COLOR][COLOR=cyan]    [/COLOR]</title>
-<link>http://77.57.189.132:8000/play/a02n</link>
+<link></link>
 <link>http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/KodiPortugal.pt.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 <fanart>http://4.fotos.web.sapo.io/i/oc913ed30/18864727_W0533.png</fanart>
 </item>
 
-
+<item>
+<title>[COLOR=red][B][I] RTP 1 HD [/I][/B][/COLOR][COLOR=cyan]    [/COLOR]</title>
+<link></link>
+<link>http://masteriptv.dnsfor.me:8000/live/Albino/Albino/1405.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
+<fanart>http://4.fotos.web.sapo.io/i/oc913ed30/18864727_W0533.png</fanart>
+</item>
 
 <item>
 <title>[COLOR=red][B][I] RTP 2 [/I][/B][/COLOR] [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
@@ -79,12 +85,19 @@
 <title>[COLOR=red][B][I] RTP 2 HD [/I][/B][/COLOR]  [COLOR=cyan]      [/COLOR]</title>
 
 <link>http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/KodiPortugal.pt.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452</link>
-<link>http://173.212.205.197:8888/live/freeiptv/freedareiptv/41.m3u8</link>
-	<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2320.m3u8</link>	 
+
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>
 <fanart>http://media.rtp.pt/extra/wp-content/uploads/sites/22/2015/05/RTP2.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR=red][B][I] RTP 2 HD [/I][/B][/COLOR]  [COLOR=cyan]      [/COLOR]</title>
+
+<link>http://masteriptv.dnsfor.me:8000/live/Albino/Albino/1406.m3u8</link>
+
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>
+<fanart>http://media.rtp.pt/extra/wp-content/uploads/sites/22/2015/05/RTP2.jpg</fanart>
+</item>
 
 
 <item>
@@ -139,9 +152,9 @@
 </item>
 
 <item>
-<title>[COLOR=red][B][I] SIC HD [/I][/B][/COLOR]   [COLOR=cyan]F4MTESTER[/COLOR]</title>
+<title>[COLOR=red][B][I] SIC HD [/I][/B][/COLOR] </title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://50.7.149.26:6969/live/App0039/1ye2nsjnRN/3998.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC </link>
+<link>http://masteriptv.dnsfor.me:8000/live/Albino/Albino/1409.m3u8</link>
 <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
 <fanart>http://iptv.cline.in:80/live/greg/greg/1166.m3u8</fanart>
 </item>
@@ -150,7 +163,7 @@
 <item>
 <title>[COLOR=red][B][I] SIC HD [/I][/B][/COLOR]   [COLOR=cyan][/COLOR]</title>
 
-<link>http://77.57.189.132:8000/play/a02p</link>
+<link>http://masteriptv.dnsfor.me:8000/live/Albino/Albino/1410.m3u8</link>
 <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
 <fanart>http://iptv.cline.in:80/live/greg/greg/1166.m3u8</fanart>
 </item>
@@ -189,7 +202,7 @@
 <item>
 <title>[COLOR=red][B][I] TVI [/I][/B][/COLOR]   [COLOR=cyan]SD[/COLOR]</title>
 
-<link>http://77.57.189.132:8000/play/a02v</link>
+<link>http://masteriptv.dnsfor.me:8000/live/Albino/Albino/1416.m3u8</link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
 <fanart>https://lh6.ggpht.com/Rco-3B_gxp2WxcpArRjrp3iT_XKI94B2paXEh86tn-wioNk9EGKYYUaa6NDg1yLmoGqF=h900</fanart>
@@ -197,7 +210,15 @@
 <item> 
 
 
+<item>
+<title>[COLOR=red][B][I] TVI [/I][/B][/COLOR]   [COLOR=cyan]HD[/COLOR]</title>
 
+<link>http://masteriptv.dnsfor.me:8000/live/Albino/Albino/1413.m3u8</link>
+
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
+<fanart>https://lh6.ggpht.com/Rco-3B_gxp2WxcpArRjrp3iT_XKI94B2paXEh86tn-wioNk9EGKYYUaa6NDg1yLmoGqF=h900</fanart>
+</item>
+<item> 
 
 <item>
 <title>[COLOR=red][B][I] TVI HD [/I][/B][/COLOR]   [COLOR=cyan][/COLOR]</title>
@@ -208,7 +229,7 @@
 
 <link>http://api.iptv.ink/pl.m3u8?ch=77600478</link>
 
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1125.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
 <fanart>https://lh6.ggpht.com/Rco-3B_gxp2WxcpArRjrp3iT_XKI94B2paXEh86tn-wioNk9EGKYYUaa6NDg1yLmoGqF=h900</fanart>
 </item>
