@@ -24,7 +24,7 @@
 </channel>
 <channel>		
 <name>[COLOR white][B]FILMES[/B][/COLOR]</name></name>
-<thumbnail>http://i97.servimg.com/u/f97/19/44/91/43/arrow_12.png</thumbnail>
+<thumbnail>https://i37.servimg.com/u/f37/19/44/91/43/icon-b10.jpg</thumbnail>
 <fanart>http://i97.servimg.com/u/f97/19/44/91/43/69183010.jpg</fanart>
 </subitem>
 </item>
@@ -32,7 +32,7 @@
 
 <item>
 <title>[COLOR white]NACIONAIS[/COLOR]</title>
-<thumbnail>http://i97.servimg.com/u/f97/19/44/91/43/cinema11.png</thumbnail>
+<thumbnail>https://i37.servimg.com/u/f37/19/44/91/43/filmes12.jpg</thumbnail>
 <fanart>http://i97.servimg.com/u/f97/19/44/91/43/tumblr10.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/FILMES/NACIONAIS.xml</externallink>
@@ -40,7 +40,7 @@
 
 <item>
 <title>[COLOR white]DUBRADOS[/COLOR]</title>
-<thumbnail>http://i97.servimg.com/u/f97/19/44/91/43/ads_oh11.png</thumbnail>
+<thumbnail>https://i37.servimg.com/u/f37/19/44/91/43/filmes10.jpg</thumbnail>
 <fanart>http://i97.servimg.com/u/f97/19/44/91/43/transf10.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/FILMES/filmes%20Dublado.m3u</externallink>
@@ -52,8 +52,8 @@
 <title>[COLOR white]INTERNACIONAIS[/COLOR]</title>
 <link>http://Movies.me</link>
 <jsonrpc>plugin://plugin.video.zen/?action=movies&amp;url=popular</jsonrpc>
-<thumbnail>http://orig04.deviantart.net/4e6c/f/2015/052/6/f/movies_general_folder_icon_by_zsotti60-d8ix5rx.png</thumbnail>
-<fanart>https://goo.gl/9oQCFk</fanart>
+<thumbnail>https://i37.servimg.com/u/f37/19/44/91/43/filmes11.jpg</thumbnail>
+<fanart>http://i97.servimg.com/u/f97/19/44/91/43/transf10.jpg</fanart>
 </item>
 
 
