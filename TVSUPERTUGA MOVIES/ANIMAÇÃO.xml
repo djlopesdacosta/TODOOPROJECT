@@ -38,15 +38,21 @@
 
 
 <item>
-<title>[COLOR white]INTERNACIONAIS[/COLOR]</title>
+<title>[COLOR white]FILMES[/COLOR]</title>
 <thumbnail>https://www.dropbox.com/s/u995mxb8mzhwu44/S%C3%89RIES-INTERNACIONAIS.png?dl=1</thumbnail>
 <fanart>http://i97.servimg.com/u/f97/19/44/91/43/transf10.jpg</fanart>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.zen/?action=tvshows&amp;url=popular&</jsonrpc>
+<jsonrpc>plugin://plugin.video.zen/?action=movies&amp;url=http%3a%2f%2fapi.themoviedb.org%2f3%2fdiscover%2fmovie%3fapi_key%3d%25s%26with_genres%3d16%26primary_release_date.gte%3ddate%5b365%5d%26primary_release_date.lte%3ddate%5b0%5d%26page%3d1</jsonrpc>
 </item>
 
 
-
+<item>
+<title>[COLOR white]SERIES[/COLOR]</title>
+<thumbnail>https://www.dropbox.com/s/u995mxb8mzhwu44/S%C3%89RIES-INTERNACIONAIS.png?dl=1</thumbnail>
+<fanart>http://i97.servimg.com/u/f97/19/44/91/43/transf10.jpg</fanart>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.zen/?action=tvshows&amp;url=http%3a%2f%2fapi.themoviedb.org%2f3%2fdiscover%2ftv%3fapi_key%3df7f51775877e0bb6703520952b3c7840%26with_genres%3d16%26primary_release_date.gte%3ddate%26page%3d1</jsonrpc>
+</item>
 
 
 
