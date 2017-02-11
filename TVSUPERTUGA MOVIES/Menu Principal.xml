@@ -24,7 +24,7 @@
 </channel>
 <channel>		
 <name>[COLOR white][B]FILMES[/B][/COLOR]</name></name>
-<thumbnail>https://i37.servimg.com/u/f37/19/44/91/43/icon-b10.jpg</thumbnail>
+<thumbnail>https://www.dropbox.com/s/cm28ifokl5x0k3p/ICON-BASE.png?dl=1</thumbnail>
 <fanart>http://i97.servimg.com/u/f97/19/44/91/43/69183010.jpg</fanart>
 </subitem>
 </item>
@@ -32,15 +32,15 @@
 
 <item>
 <title>[COLOR white]NACIONAIS[/COLOR]</title>
-<thumbnail>https://i37.servimg.com/u/f37/19/44/91/43/filmes12.jpg</thumbnail>
+<thumbnail>https://www.dropbox.com/s/v9ekjyspoqlmd5o/FILMES-NACIONAIS-.png?dl=1</thumbnail>
 <fanart>http://i97.servimg.com/u/f97/19/44/91/43/tumblr10.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/FILMES/NACIONAIS.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR white]DUBRADOS[/COLOR]</title>
-<thumbnail>https://i37.servimg.com/u/f37/19/44/91/43/filmes10.jpg</thumbnail>
+<title>[COLOR white]DUBLADOS[/COLOR]</title>
+<thumbnail>https://www.dropbox.com/s/q4frmyda0jli9ix/FILMES-DUBRADOS.png?dl=1</thumbnail>
 <fanart>http://i97.servimg.com/u/f97/19/44/91/43/transf10.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/FILMES/filmes%20Dublado.m3u</externallink>
@@ -52,111 +52,63 @@
 <title>[COLOR white]INTERNACIONAIS[/COLOR]</title>
 <link>http://Movies.me</link>
 <jsonrpc>plugin://plugin.video.zen/?action=movies&amp;url=popular</jsonrpc>
-<thumbnail>https://i37.servimg.com/u/f37/19/44/91/43/filmes11.jpg</thumbnail>
+<thumbnail>https://www.dropbox.com/s/bqoz6dx31wu7tyc/FILMES-INTERNACIONAIS.png?dl=1</thumbnail>
 <fanart>http://i97.servimg.com/u/f97/19/44/91/43/transf10.jpg</fanart>
 </item>
 
 
 <channel>		
 <name>[COLOR white][B]SÉRIES[/B][/COLOR] </name>
-<thumbnail>https://lh4.googleusercontent.com/-4O0mEh77I4Y/AAAAAAAAAAI/AAAAAAAAAAc/pHluVjQt0PY/photo.jpg</thumbnail>
-<fanart>http://img15.deviantart.net/c2f2/i/2010/251/b/a/sons_of_anarchy_jax_fist_by_shamefhc-d2yaozt.jpg</fanart>
+<thumbnail>https://www.dropbox.com/s/vyuq1bik2gbi63x/S%C3%89RIES.png?dl=1</thumbnail>
+<fanart>http://i97.servimg.com/u/f97/19/44/91/43/transf10.jpg</fanart>
 </subitem>
 </item>
 
 <item>
 <title>[COLOR white]NACIONAIS[/COLOR]</title>
-<thumbnail>http://static1.squarespace.com/static/54d3ec61e4b07b5cc07c5776/t/5535823be4b0e95dcbc740cb/1429570110762/?format=500w</thumbnail>
-<fanart>http://moonshinekingdom.com/wp-content/uploads/2014/01/movie-home-theater-background.jpg</fanart>
+<thumbnail>https://www.dropbox.com/s/rin8gug69gcl9nn/S%C3%89RIES-NACIONAIS.png?dl=1</thumbnail>
+<fanart>http://i97.servimg.com/u/f97/19/44/91/43/transf10.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/S%C3%89RIES/NACIONAIS.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR white]DUBRADOS[/COLOR]</title>
-<thumbnail>http://static1.squarespace.com/static/54d3ec61e4b07b5cc07c5776/t/5535823be4b0e95dcbc740cb/1429570110762/?format=500w</thumbnail>
-<fanart>http://moonshinekingdom.com/wp-content/uploads/2014/01/movie-home-theater-background.jpg</fanart>
+<title>[COLOR white]DUBLADOS[/COLOR]</title>
+<thumbnail>https://www.dropbox.com/s/quvc8vbctdyq0lr/S%C3%89RIES-DUBLADOS.png?dl=1</thumbnail>
+<fanart>http://i97.servimg.com/u/f97/19/44/91/43/transf10.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/S%C3%89RIES/DUBLADOS.xml</externallink>
 </item>
 
 <item>
 <title>[COLOR white]INTERNACIONAIS[/COLOR]</title>
-<thumbnail>http://www.sunnetwork.in/ProgramImages/LargeImage/1_5_Saturday%20Hollywood%20Movie_SunTV-Inner-banner-HM.jpg</thumbnail>
-<fanart>http://fashionschoolguide.net/wp-content/uploads/2016/05/charming-home-movie-theater-rooms-decorating-ideas-scheme-heavenly-in-excerpt-wooden-wall-movie-interior-photo-home-movie-theater-ideas.jpg</fanart>
+<thumbnail>https://www.dropbox.com/s/u995mxb8mzhwu44/S%C3%89RIES-INTERNACIONAIS.png?dl=1</thumbnail>
+<fanart>http://i97.servimg.com/u/f97/19/44/91/43/transf10.jpg</fanart>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.zen/?action=tvshows&amp;url=popular&</jsonrpc>
 </item>
 
-<channel>
-<name>[COLOR white][B]DOCUMENTÁRIOS[/B][/COLOR]</name>
-<thumbnail>http://www.hyperraumumgehungsstrasse.de/wp-content/gallery/genre-icons/documentary_folder.png</thumbnail>
-<fanart>http://img15.deviantart.net/c2f2/i/2010/251/b/a/sons_of_anarchy_jax_fist_by_shamefhc-d2yaozt.jpg</fanart>
-<link>ignorme</link>
-<externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/DOCUMENT%C3%81RIOS.xml</externallink>
-</channel>
+
 
 <channel>
 <name>[COLOR white][B]ANIMAÇÃO[/B][/COLOR]</name>
 <thumbnail>http://www.hyperraumumgehungsstrasse.de/wp-content/gallery/genre-icons/animation_folder.png</thumbnail>
-<fanart>http://img15.deviantart.net/c2f2/i/2010/251/b/a/sons_of_anarchy_jax_fist_by_shamefhc-d2yaozt.jpg</fanart>
+<fanart>http://i97.servimg.com/u/f97/19/44/91/43/transf10.jpg</fanart>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/ANIMA%C3%87%C3%83O.xml</externallink>
 </channel>
 
-<channel>
-<name>[COLOR white][B]COMEDY TV[/B][/COLOR]</name>
-<thumbnail>http://centrumfilmow.eu/images/ikony/5.png</thumbnail>
-<fanart>http://zingerzcomedyclub.com/wp-content/uploads/2014/11/o-STAGE-MICROPHONE-facebook.jpg</fanart>
-</subitem>
-
-<item>       
-<title>[COLOR green] [I]ENGLISH UP[/I] [/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/COMEDY%20TV/ENGLISH%20STAND%20UP.xml</externallink>
-<thumbnail>http://hookedoneverything.com/wp-content/uploads/2015/08/Kevin-Hart-standup.jpg</thumbnail>
-</item>
-
-<item>       
-<title>[COLOR green] [I]COMEDY CENTRAL ROASTS[/I] [/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/COMEDY%20TV/COMEDY%20CENTRAL%20ROASTS.xml</externallink>
-<thumbnail>http://4.bp.blogspot.com/_NZf4ROyiFBQ/TKqktQuvisI/AAAAAAAAA0Q/4Ohq3GkRzXo/s1600/Comedy.jpg</thumbnail>
-</item>
-
-<item>       
-<title>[COLOR green] [I]PORTUGUESE UP[/I] [/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/COMEDY%20TV/PORTUGUESE%20STAND%20UP.xml</externallink>
-<thumbnail>https://i.ytimg.com/vi/u3YlRbb1Zi4/maxresdefault.jpg</thumbnail>
-</item>
-
-<channel>
-<name>[COLOR white][B]3D MOVIES[/B][/COLOR]</name>
-<thumbnail>http://orig00.deviantart.net/f636/f/2013/080/f/2/3d_movies_by_musicopath-d5ysn6n.png</thumbnail>
-<fanart>http://img15.deviantart.net/c2f2/i/2010/251/b/a/sons_of_anarchy_jax_fist_by_shamefhc-d2yaozt.jpg</fanart>
-<link>ignorme</link>
-<externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/3D%20MOVIES.xml</externallink>
-</channel>
-
-<channel>
-<name>[COLOR white][B]4K MOVIES[/B][/COLOR]</name>
-<thumbnail>http://pre12.deviantart.net/2582/th/pre/i/2014/241/7/e/4k_videos___folder_by_janosch500-d7x5o68.png</thumbnail>
-<fanart>http://img15.deviantart.net/c2f2/i/2010/251/b/a/sons_of_anarchy_jax_fist_by_shamefhc-d2yaozt.jpg</fanart>
-<link>ignorme</link>
-<externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/4K%20MOVIES.xml</externallink>
-</channel>
 
 <channel>
 <name>[COLOR white][B]YOUTUBE[/B][/COLOR]</name>
-<thumbnail>http://icons.iconarchive.com/icons/icontexto/social-inside/256/social-inside-youtube-icon.png</thumbnail>
-<fanart>http://scd.mashable.france24.com/sites/default/files/thumbnails/image/190116-youtube-pakistan-m_0.jpg</fanart>
+<thumbnail>https://www.dropbox.com/s/hbjbaevp2hc3pkx/YOU-TUBE-.png?dl=1</thumbnail>
+<fanart>http://i97.servimg.com/u/f97/19/44/91/43/transf10.jpg</fanart>
 </subitem>
 
 <item>
 <title>[COLOR white][B]YOU[/COLOR][COLOR red]TUBE[/COLOR][/B]</title>
-<thumbnail>http://static1.squarespace.com/static/5326d6e5e4b0616e49db2885/t/536bfc28e4b00b5a4b67f79c/1399585833473/</thumbnail>
-<fanart>http://scd.mashable.france24.com/sites/default/files/thumbnails/image/190116-youtube-pakistan-m_0.jpg</fanart>
+<thumbnail>https://www.dropbox.com/s/hbjbaevp2hc3pkx/YOU-TUBE-.png?dl=1</thumbnail>
+<fanart>http://i97.servimg.com/u/f97/19/44/91/43/transf10.jpg</fanart>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.youtube/</jsonrpc>
 </item>

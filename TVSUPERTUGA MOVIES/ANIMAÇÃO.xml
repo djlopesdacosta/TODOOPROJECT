@@ -10,13 +10,7 @@
 <externallink>http://pastebin.com/raw/9t5Gv0D9</externallink>
 </channel>
 
-<channel>
-<name>[COLOR white]DISNEY CLASSICOS[/COLOR]</name>
-<link>http://ignoreme</link>
-<fanart>https://tricae-a.akamaihd.net/p/DCL-Maleta-Disney-Grandes-ClC3A1ssicos-DCL-7847-08662-1.jpg</fanart>
-<thumbnail>http://vignette2.wikia.nocookie.net/disney/images/2/26/Walt_Disney_Classics_(DVD_Quality).png/revision/latest?cb=20110729111811</thumbnail>
-<externallink>http://pastebin.com/raw/7Tu5hgr3</externallink>
-</channel>
+
 
 <channel>
 <name>[COLOR white]SERIES[/COLOR]</name>
@@ -27,12 +21,29 @@
 </channel>
 
 
+<channel>
+<name>[COLOR white]DUBLADOS[/COLOR]</name>
+<fanart>https://simkl.net/fanart/64/649046d5d8140839_0.jpg</fanart>
+<thumbnail>http://orig07.deviantart.net/68f5/f/2015/161/4/e/the_scooby_doo_show_folder_icon_by_gterritory-d8wsytm.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/KTsDprmG</externallink>
+</channel>
+
+<channel>		
+<name>[COLOR white][B]INTERNACIONAIS[/B][/COLOR] </name>
+<thumbnail>https://www.dropbox.com/s/vyuq1bik2gbi63x/S%C3%89RIES.png?dl=1</thumbnail>
+<fanart>http://i97.servimg.com/u/f97/19/44/91/43/transf10.jpg</fanart>
+</subitem>
+</item>
 
 
-
-
-
-
+<item>
+<title>[COLOR white]INTERNACIONAIS[/COLOR]</title>
+<thumbnail>https://www.dropbox.com/s/u995mxb8mzhwu44/S%C3%89RIES-INTERNACIONAIS.png?dl=1</thumbnail>
+<fanart>http://i97.servimg.com/u/f97/19/44/91/43/transf10.jpg</fanart>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.zen/?action=tvshows&amp;url=popular&</jsonrpc>
+</item>
 
 
 
@@ -44,12 +55,28 @@
 
 
 <channel>
-<name>[COLOR white]DUBLADOS[/COLOR]</name>
-<fanart>https://simkl.net/fanart/64/649046d5d8140839_0.jpg</fanart>
-<thumbnail>http://orig07.deviantart.net/68f5/f/2015/161/4/e/the_scooby_doo_show_folder_icon_by_gterritory-d8wsytm.png</thumbnail>
+<name>[COLOR white]DISNEY CLASSICOS[/COLOR]</name>
 <link>http://ignoreme</link>
-<externallink>http://pastebin.com/raw/KTsDprmG</externallink>
+<fanart>https://tricae-a.akamaihd.net/p/DCL-Maleta-Disney-Grandes-ClC3A1ssicos-DCL-7847-08662-1.jpg</fanart>
+<thumbnail>http://vignette2.wikia.nocookie.net/disney/images/2/26/Walt_Disney_Classics_(DVD_Quality).png/revision/latest?cb=20110729111811</thumbnail>
+<externallink>http://pastebin.com/raw/7Tu5hgr3</externallink>
 </channel>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <channel>
