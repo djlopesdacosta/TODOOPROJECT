@@ -5,8 +5,8 @@
 <channel>
 <name>[COLOR white]FILMES[/COLOR]</name>
 <link>http://ignoreme</link>
-<fanart>https://cld.pt/dl/download/6bb7358e-84f6-4e3a-867a-c3be53e031d8/FILMES.jpg</fanart>
-<thumbnail>http://orig15.deviantart.net/3747/f/2015/050/e/0/frozen__2013__movie_folder_icon_by_zsotti60-d8iozez.png</thumbnail>
+<fanart>https://img02.olx.co.ke/images_olxke/1000117755_1_1000x700_hd-movies-series-softcopy-south-c_rev001.jpg</fanart>
+<thumbnail>https://www.dropbox.com/s/y9wmdpb9g7nlxh0/FILMES-ANIMA%C3%87%C3%83O.png?dl=1</thumbnail>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/ANIMA%C3%87%C3%83O/FILMES.xml</externallink>
 </channel>
 
@@ -14,8 +14,8 @@
 
 <channel>
 <name>[COLOR white]SERIES[/COLOR]</name>
-<fanart>https://simkl.net/fanart/64/649046d5d8140839_0.jpg</fanart>
-<thumbnail>http://orig07.deviantart.net/68f5/f/2015/161/4/e/the_scooby_doo_show_folder_icon_by_gterritory-d8wsytm.png</thumbnail>
+<fanart>https://img02.olx.co.ke/images_olxke/1000117755_1_1000x700_hd-movies-series-softcopy-south-c_rev001.jpg</fanart>
+<thumbnail>https://www.dropbox.com/s/5y2o1pr2k711myd/SERIES-ANIMA%C3%87%C3%83O.png?dl=1</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/ANIMA%C3%87%C3%83O/SERIES.xml</externallink>
 </channel>
@@ -23,24 +23,24 @@
 
 <channel>
 <name>[COLOR white]DUBLADOS[/COLOR]</name>
-<fanart>https://simkl.net/fanart/64/649046d5d8140839_0.jpg</fanart>
-<thumbnail>http://orig07.deviantart.net/68f5/f/2015/161/4/e/the_scooby_doo_show_folder_icon_by_gterritory-d8wsytm.png</thumbnail>
+<fanart>https://img02.olx.co.ke/images_olxke/1000117755_1_1000x700_hd-movies-series-softcopy-south-c_rev001.jpg</fanart>
+<thumbnail>https://www.dropbox.com/s/yle7f9bhk1ra0c9/FILMES-ANIMA%C3%87%C3%83O-DUBLADOS.png?dl=1</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/ANIMA%C3%87%C3%83O/DUBLADOS.xml</externallink>
 </channel>
 
 <channel>		
 <name>[COLOR white]INTERNACIONAIS[/COLOR]</name>
-<thumbnail>https://www.dropbox.com/s/vyuq1bik2gbi63x/S%C3%89RIES.png?dl=1</thumbnail>
-<fanart>http://i97.servimg.com/u/f97/19/44/91/43/transf10.jpg</fanart>
+<thumbnail>https://www.dropbox.com/s/7swhysxigc2gm77/FILMES-ANIMA%C3%87%C3%83O-INTERNACIONAIS.png?dl=1</thumbnail>
+<fanart>https://img02.olx.co.ke/images_olxke/1000117755_1_1000x700_hd-movies-series-softcopy-south-c_rev001.jpg</fanart>
 </subitem>
 </item>
 
 
 <item>
 <title>[COLOR white]FILMES[/COLOR]</title>
-<thumbnail>https://www.dropbox.com/s/u995mxb8mzhwu44/S%C3%89RIES-INTERNACIONAIS.png?dl=1</thumbnail>
-<fanart>http://i97.servimg.com/u/f97/19/44/91/43/transf10.jpg</fanart>
+<thumbnail>https://www.dropbox.com/s/y8mzbptu33l4wkk/ANIMA%C3%87%C3%83O-FILMES-INTERNACIONAIS.png?dl=1</thumbnail>
+<fanart>https://img02.olx.co.ke/images_olxke/1000117755_1_1000x700_hd-movies-series-softcopy-south-c_rev001.jpg</fanart>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.zen/?action=movies&amp;url=http%3a%2f%2fapi.themoviedb.org%2f3%2fdiscover%2fmovie%3fapi_key%3d%25s%26with_genres%3d16%26primary_release_date.gte%3ddate%5b365%5d%26primary_release_date.lte%3ddate%5b0%5d%26page%3d1</jsonrpc>
 </item>
@@ -48,8 +48,8 @@
 
 <item>
 <title>[COLOR white]SERIES[/COLOR]</title>
-<thumbnail>https://www.dropbox.com/s/u995mxb8mzhwu44/S%C3%89RIES-INTERNACIONAIS.png?dl=1</thumbnail>
-<fanart>http://i97.servimg.com/u/f97/19/44/91/43/transf10.jpg</fanart>
+<thumbnail>https://www.dropbox.com/s/hnfp0qdy6rortsr/ANIMA%C3%87%C3%83O-S%C3%89RIES-INTERNACIONAIS.png?dl=1</thumbnail>
+<fanart>https://img02.olx.co.ke/images_olxke/1000117755_1_1000x700_hd-movies-series-softcopy-south-c_rev001.jpg</fanart>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.zen/?action=tvshows&amp;url=http%3a%2f%2fapi.themoviedb.org%2f3%2fdiscover%2ftv%3fapi_key%3df7f51775877e0bb6703520952b3c7840%26with_genres%3d16%26primary_release_date.gte%3ddate%26page%3d1</jsonrpc>
 </item>
@@ -61,10 +61,10 @@
 
 
 <channel>
-<name>[COLOR white]DISNEY CLASSICOS[/COLOR]</name>
+<name>[COLOR white]DISNEY CLASICOS[/COLOR]</name>
 <link>http://ignoreme</link>
-<fanart>https://tricae-a.akamaihd.net/p/DCL-Maleta-Disney-Grandes-ClC3A1ssicos-DCL-7847-08662-1.jpg</fanart>
-<thumbnail>http://vignette2.wikia.nocookie.net/disney/images/2/26/Walt_Disney_Classics_(DVD_Quality).png/revision/latest?cb=20110729111811</thumbnail>
+<fanart>https://img02.olx.co.ke/images_olxke/1000117755_1_1000x700_hd-movies-series-softcopy-south-c_rev001.jpg</fanart>
+<thumbnail>https://www.dropbox.com/s/uekzjmbobkjvc3j/DISNEY-CLASICOS.png?dl=1</thumbnail>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/ANIMA%C3%87%C3%83O/DISNEY%20CLASSICOS.xml</externallink>
 </channel>
 
@@ -87,8 +87,8 @@
 
 <channel>
 <name>[COLOR white]TOKUSATSU-ANIME[/COLOR]</name>
-<fanart>https://simkl.net/fanart/64/649046d5d8140839_0.jpg</fanart>
-<thumbnail>http://orig07.deviantart.net/68f5/f/2015/161/4/e/the_scooby_doo_show_folder_icon_by_gterritory-d8wsytm.png</thumbnail>
+<fanart>https://img02.olx.co.ke/images_olxke/1000117755_1_1000x700_hd-movies-series-softcopy-south-c_rev001.jpg</fanart>
+<thumbnail>https://www.dropbox.com/s/7nau99pwn7tdkhc/TOKUSATSU-ANIME.png?dl=1</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/ANIMA%C3%87%C3%83O/Tokusatsu-Anime.xml</externallink>
 </channel>
@@ -96,8 +96,8 @@
 
 <channel>
 <name>[COLOR white]FILME DE ANIMES[/COLOR]</name>
-<fanart>https://simkl.net/fanart/64/649046d5d8140839_0.jpg</fanart>
-<thumbnail>http://orig07.deviantart.net/68f5/f/2015/161/4/e/the_scooby_doo_show_folder_icon_by_gterritory-d8wsytm.png</thumbnail>
+<fanart>https://img02.olx.co.ke/images_olxke/1000117755_1_1000x700_hd-movies-series-softcopy-south-c_rev001.jpg</fanart>
+<thumbnail>https://www.dropbox.com/s/idifee82m9cz0nz/FILME-DE-ANIMES.png?dl=1</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/ANIMA%C3%87%C3%83O/Filme%20de%20Animes.xml</externallink>
 </channel>
@@ -109,8 +109,8 @@
 
 <channel>
 <name>[COLOR white]SERIES E DESENHOS 24 HORAS[/COLOR]</name>
-<thumbnail>https://s26.postimg.org/8nfj8kq7t/24h.png</thumbnail>
+<thumbnail>https://www.dropbox.com/s/900a6w1hrkkyir5/DESENHOS-24-HORAS.png?dl=1</thumbnail>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/ANIMA%C3%87%C3%83O/Series%20e%20Desenhos%2024%20horas.xml</externallink>
-<fanart>http://www.putsgrilo.com.br/wp-content/uploads/2009/09/24horasseriedownload-1.jpg</fanart>
+<fanart>https://img02.olx.co.ke/images_olxke/1000117755_1_1000x700_hd-movies-series-softcopy-south-c_rev001.jpg</fanart>
 <info></info>
 </channel>
