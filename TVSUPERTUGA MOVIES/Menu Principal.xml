@@ -106,12 +106,65 @@
 </subitem>
 
 <item>
-<title>[COLOR white][B]YOU [/COLOR][COLOR red]TUBE[/COLOR][/B]</title>
+<title>[COLOR white]INICIAR SESSÃO [/COLOR]</title>
 <thumbnail>https://www.dropbox.com/s/hbjbaevp2hc3pkx/YOU-TUBE-.png?dl=1</thumbnail>
 <fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Youtube-HD-Wallpapers-3.jpg</fanart>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.youtube/</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/sign/in/</jsonrpc>
 </item>
+
+<item>
+<title>[COLOR white]POPULAR AGORA [/COLOR]</title>
+<thumbnail>https://www.dropbox.com/s/hbjbaevp2hc3pkx/YOU-TUBE-.png?dl=1</thumbnail>
+<fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Youtube-HD-Wallpapers-3.jpg</fanart>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.youtube/special/popular_right_now/</jsonrpc>
+</item>
+
+
+<item>
+<title>[COLOR white]PROCURAR[/COLOR]</title>
+<thumbnail>https://www.dropbox.com/s/hbjbaevp2hc3pkx/YOU-TUBE-.png?dl=1</thumbnail>
+<fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Youtube-HD-Wallpapers-3.jpg</fanart>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/input/</jsonrpc>
+</item>
+
+
+<item>
+<title>[COLOR white]NAVEGAR NOS CANAIS[/COLOR]</title>
+<thumbnail>https://www.dropbox.com/s/hbjbaevp2hc3pkx/YOU-TUBE-.png?dl=1</thumbnail>
+<fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Youtube-HD-Wallpapers-3.jpg</fanart>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.youtube/special/browse_channels/</jsonrpc>
+</item>
+
+
+<item>
+<title>[COLOR white]LIVE[/COLOR]</title>
+<thumbnail>https://www.dropbox.com/s/hbjbaevp2hc3pkx/YOU-TUBE-.png?dl=1</thumbnail>
+<fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Youtube-HD-Wallpapers-3.jpg</fanart>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.youtube/special/live/</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR white]DEFINIÇÕES[/COLOR]</title>
+<thumbnail>https://www.dropbox.com/s/hbjbaevp2hc3pkx/YOU-TUBE-.png?dl=1</thumbnail>
+<fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Youtube-HD-Wallpapers-3.jpg</fanart>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.youtube/config/youtube/</jsonrpc>
+</item>
+
+
+
+
+
+
+
+
+
+
 
 
 
