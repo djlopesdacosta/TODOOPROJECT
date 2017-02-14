@@ -25,7 +25,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 28-01-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 14-02-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
@@ -33,115 +33,127 @@
 </item>
 
 
+<item>
+<title>AF_ORTM-Mali</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/938.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_ORTM-Mali </link>
+</item>
+<item>
+<title>AF_RTS1-Senegal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/947.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_RTS1-Senegal </link>
+</item>
+<item>
+<title>AF_RTS2-Senegal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/948.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_RTS2-Senegal </link>
+</item>
+<item>
+<title>AF_ZTV-Ghana</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/946.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_ZTV-Ghana </link>
+</item>
+<item>
+<title>AF_TVS-News-Nigeria</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/943.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_TVS-News-Nigeria </link>
+</item>
+<item>
+<title>AF_TVJ-Jamaica</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/941.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_TVJ-Jamaica </link>
+</item>
+<item>
+<title>AF_TFM-Senegal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/950.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_TFM-Senegal </link>
+</item>
+<item>
+<title>AF_Tele50-Congo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/931.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_Tele50-Congo </link>
+</item>
+<item>
+<title>AF_STV-Nigeria</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/944.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_STV-Nigeria </link>
+</item>
+<item>
+<title>AF_RwandaTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/942.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_RwandaTV </link>
+</item>
+<item>
+<title>AF_RTP-Africa</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/932.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_RTP-Africa </link>
+</item>
+<item>
+<title>AF_RTNC-Kinshasa</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/930.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_RTNC-Kinshasa </link>
+</item>
+<item>
+<title>AF_RTI2-Cote d'ivoire</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/933.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_RTI2-Cote d'ivoire </link>
+</item>
+<item>
+<title>AF_RTB-Burkina Faso</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/937.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_RTB-Burkina Faso </link>
+</item>
+<item>
+<title>AF_ONEWO-congo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/928.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_ONEWO-congo </link>
+</item>
+<item>
+<title>AF_NBS-Ouganda</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/953.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_NBS-Ouganda </link>
+</item>
+<item>
+<title>AF_MusicTV-Senegal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/949.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_MusicTV-Senegal </link>
+</item>
+<item>
+<title>AF_K24-Kenya</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/952.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_K24-Kenya </link>
+</item>
+<item>
+<title>AF_GBC-24-Ghana</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/945.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_GBC-24-Ghana </link>
+</item>
+<item>
+<title>AF_Gabon24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/936.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_Gabon24 </link>
+</item>
+<item>
+<title>AF_DescoTV-congo-Kinshasa</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/929.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_DescoTV-congo-Kinshasa </link>
+</item>
+<item>
+<title>AF_CRTV-Cameroun</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/934.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_CRTV-Cameroun </link>
+</item>
+<item>
+<title>AF_Congo-WebTv</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/927.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_Congo-WebTv </link>
+</item>
+<item>
+<title>AF_Canal2Intern-Cameroun</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/935.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_Canal2Intern-Cameroun </link>
+</item>
+<item>
+<title>AF_Canal225-Music</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/939.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_Canal225-Music </link>
+</item>
+<item>
+<title>AF_ANN7-Sud-Africa</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/940.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_ANN7-Sud-Africa </link>
+</item>
+<item>
+<title>AF_AFRO-MusicHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/954.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_AFRO-MusicHD </link>
+</item>
+<item>
+<title>AF_Afrique-Media</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/925.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_Afrique-Media </link>
+</item>
+<item>
+<title>AF_Africable</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/926.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_Africable </link>
+</item>
+<item>
+<title>AF_2STV-Senegal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://abraiptv.no-ip.org:5475/live/mahrez/mahrez/951.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF_2STV-Senegal </link>
+</item>
 
-<item>
-<title>AF ES TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3273.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF ES TV </link>
-</item>
-<item>
-<title>AF: HC TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3276.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: HC TV </link>
-</item>
-<item>
-<title>AF: Kalsan TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3272.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: Kalsan TV </link>
-</item>
-<item>
-<title>AF: RTD Djbouti</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3278.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: RTD Djbouti </link>
-</item>
-<item>
-<title>AF: SNTV HB</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3277.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: SNTV HB </link>
-</item>
-<item>
-<title>AF: Somali Land National TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3275.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: Somali Land National TV </link>
-</item>
-<item>
-<title>AF: Universal Somali TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3274.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: Universal Somali TV </link>
-</item>
-<item>
-<title>AF: VOX AFRICA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3421.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: VOX AFRICA </link>
-</item>
-<item>
-<title>AF: TVC NEWS 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3420.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: TVC NEWS 1 </link>
-</item>
-<item>
-<title>AF: TVC NEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3419.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: TVC NEWS </link>
-</item>
-<item>
-<title>AF: TFM SOMALI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3429.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: TFM SOMALI </link>
-</item>
-<item>
-<title>AF: Somali Cable</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3435.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: Somali Cable </link>
-</item>
-<item>
-<title>AF: RTS 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3430.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: RTS 1 </link>
-</item>
-<item>
-<title>AF: Royal Somali TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3438.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: Royal Somali TV </link>
-</item>
-<item>
-<title>AF: ORTM SOMALI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3428.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: ORTM SOMALI </link>
-</item>
-<item>
-<title>AF: Nollywood</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3437.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: Nollywood </link>
-</item>
-<item>
-<title>AF: ETV 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3432.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: ETV 3 </link>
-</item>
-<item>
-<title>AF: ETV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3431.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: ETV </link>
-</item>
-<item>
-<title>AF: ERI TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3433.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: ERI TV </link>
-</item>
-<item>
-<title>AF: El Moritanya</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3434.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: El Moritanya </link>
-</item>
-<item>
-<title>AF: BEN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3422.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: BEN </link>
-</item>
-<item>
-<title>AF: AIT International</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3436.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: AIT International </link>
-</item>
-<item>
-<title>AF: AFRICA TV4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3426.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: AFRICA TV4 </link>
-</item>
-<item>
-<title>AF: AFRICA TV3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3425.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: AFRICA TV3 </link>
-</item>
-<item>
-<title>AF: AFRICA TV2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3424.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: AFRICA TV2 </link>
-</item>
-<item>
-<title>AF: AFRICA TV1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3423.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: AFRICA TV1 </link>
-</item>
-<item>
-<title>AF: AFRICA 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3427.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF: AFRICA 24 </link>
-</item>
 
 
   

@@ -23,7 +23,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 26-01-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 14-02-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -37,424 +37,722 @@
 
 
 
+<item>
+<title>US: |VIP| AFN SPECTRUM HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/9548.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: |VIP| AFN SPECTRUM HD </link>
+</item>
+<item>
+<title>US: |VIP| Bein Sports USA HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/9546.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: |VIP| Bein Sports USA HD </link>
+</item>
+<item>
+<title>US: |VIP| CNN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/9544.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: |VIP| CNN HD </link>
+</item>
+<item>
+<title>US: |VIP| HBO HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/9540.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: |VIP| HBO HD </link>
+</item>
+<item>
+<title>US: |VIP| Investigation Discovery HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/9526.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: |VIP| Investigation Discovery HD </link>
+</item>
+<item>
+<title>US: |VIP| National Geographic HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/9533.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: |VIP| National Geographic HD </link>
+</item>
+<item>
+<title>US: |VIP| NICK HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/9529.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: |VIP| NICK HD </link>
+</item>
+<item>
+<title>US: |VIP| Sportsnet Ontario</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/9549.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: |VIP| Sportsnet Ontario </link>
+</item>
+<item>
+<title>US: |VIP| Starz Cinema HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/9535.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: |VIP| Starz Cinema HD </link>
+</item>
+<item>
+<title>US: |VIP| STARZ EDGE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/9534.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: |VIP| STARZ EDGE HD </link>
+</item>
+<item>
+<title>US: |VIP| UTV IE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/9530.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: |VIP| UTV IE HD </link>
+</item>
+<item>
+<title>US: |VIP| WWE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/9531.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: |VIP| WWE HD </link>
+</item>
+<item>
+<title>US: Bloomberg TV  1080p HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/9195.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Bloomberg TV  1080p HD </link>
+</item>
+<item>
+<title>USA: C-Span 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8809.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: C-Span 3 </link>
+</item>
+<item>
+<title>USA: C-Span 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8810.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: C-Span 2 </link>
+</item>
+<item>
+<title>USA: C-Span 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8811.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: C-Span 1 </link>
+</item>
+<item>
+<title>US: FOX NC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5957.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: FOX NC </link>
+</item>
+<item>
+<title>US: CNN NEWS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5962.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: CNN NEWS HD </link>
+</item>
+<item>
+<title>US: TSN 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TSN 1 HD </link>
+</item>
+<item>
+<title>US: TSN 2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/150.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TSN 2HD </link>
+</item>
+<item>
+<title>US: NBC GOLF HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5942.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NBC GOLF HD </link>
+</item>
+<item>
+<title>US: FALTAN CHANNEL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5946.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: FALTAN CHANNEL HD </link>
+</item>
+<item>
+<title>US: FOOD CHANNEL.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5935.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: FOOD CHANNEL. </link>
+</item>
+<item>
+<title>US: TVO KIDS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5936.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TVO KIDS HD </link>
+</item>
+<item>
+<title>US: YTV CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5930.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: YTV CHANNEL </link>
+</item>
+<item>
+<title>US: USA CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5931.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: USA CHANNEL </link>
+</item>
+<item>
+<title>US: TNT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5938.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TNT </link>
+</item>
+<item>
+<title>US: TLC CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5933.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TLC CHANNEL </link>
+</item>
+<item>
+<title>US: TMN ACTION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5948.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TMN ACTION </link>
+</item>
+<item>
+<title>US: TVO KIDS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7258.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TVO KIDS </link>
+</item>
+<item>
+<title>US: AMC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7259.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: AMC </link>
+</item>
+<item>
+<title>US: ID</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7261.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ID </link>
+</item>
+<item>
+<title>US: SyFy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7273.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: SyFy </link>
+</item>
+<item>
+<title>US: SN 360HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7257.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: SN 360HD </link>
+</item>
+<item>
+<title>US: SLICE CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7267.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: SLICE CHANNEL </link>
+</item>
+<item>
+<title>US: OMNI TORONTO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7268.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: OMNI TORONTO </link>
+</item>
+<item>
+<title>US: NBC TORONTO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7270.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NBC TORONTO </link>
+</item>
+<item>
+<title>US: NBA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7284.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NBA </link>
+</item>
+<item>
+<title>US: MAX WEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7271.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: MAX WEST </link>
+</item>
+<item>
+<title>US: MAX ESAT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7272.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: MAX ESAT </link>
+</item>
+<item>
+<title>US: LMN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7260.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: LMN </link>
+</item>
+<item>
+<title>US: ABC News HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4408.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ABC News HD </link>
+</item>
+<item>
+<title>US: Nasa Tv</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4410.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Nasa Tv </link>
+</item>
+<item>
+<title>US: Bloomberg</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4406.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Bloomberg </link>
+</item>
+<item>
+<title>US: FOOD CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7256.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: FOOD CHANNEL </link>
+</item>
+<item>
+<title>US: FMLY CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7277.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: FMLY CHANNEL </link>
+</item>
+<item>
+<title>US: DIY NETWORK.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7278.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: DIY NETWORK. </link>
+</item>
+<item>
+<title>US: DISCOVERY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7274.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: DISCOVERY </link>
+</item>
+<item>
+<title>US: CRCOL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7280.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: CRCOL HD </link>
+</item>
+<item>
+<title>US: CNN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7281.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: CNN </link>
+</item>
+<item>
+<title>US: CITY TORANTO TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7282.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: CITY TORANTO TV </link>
+</item>
+<item>
+<title>US: HSNtv</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/9201.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: HSNtv </link>
+</item>
+<item>
+<title>US: BNN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7283.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: BNN </link>
+</item>
+<item>
+<title>MAX ESAT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5954.ts&amp;streamtype=TSDOWNLOADER&amp;name=MAX ESAT </link>
+</item>
+<item>
+<title>CITY TV TORONTO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5961.ts&amp;streamtype=TSDOWNLOADER&amp;name=CITY TV TORONTO </link>
+</item>
+<item>
+<title>DIY NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5959.ts&amp;streamtype=TSDOWNLOADER&amp;name=DIY NETWORK </link>
+</item>
+<item>
+<title>US: A&E CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7265.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: A&E CHANNEL </link>
+</item>
+
+
+
+
+
+
+
+
 
 
 <item>
-<title>SKYUK:SKY SPORTS 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1338.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY SPORTS 1 </link>
+<title>UK: SKY NEWS 1080P HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/9168.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY NEWS 1080P HD </link>
 </item>
 <item>
-<title>SKYUK:SKY SPORTS 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1339.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY SPORTS 2 </link>
+<title>UK: SKY NEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8587.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY NEWS </link>
 </item>
 <item>
-<title>SKYUK:SKY SPORTS 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/687.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY SPORTS 3 </link>
+<title>UK: CNN NEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4407.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CNN NEWS </link>
 </item>
 <item>
-<title>SKYUK:SKY SPORTS 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/686.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY SPORTS 4 </link>
+<title>UK: BBC NEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/3856.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC NEWS </link>
 </item>
 <item>
-<title>SKYUK:SKY SPORTS 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/699.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY SPORTS 5 </link>
+<title>UK: BLOMBERG</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8856.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BLOMBERG </link>
 </item>
 <item>
-<title>SKYUK:SKY SPORTS 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/694.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY SPORTS 1 HD </link>
+<title>UK: ITV1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7915.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV1 </link>
 </item>
 <item>
-<title>SKYUK:SKY SPORTS 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/695.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY SPORTS 2 HD </link>
+<title>UK: ITV2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7917.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV2 </link>
 </item>
 <item>
-<title>SKYUK:SKY SPORT 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/696.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY SPORT 3 HD </link>
+<title>UK: ITV3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7918.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV3 </link>
 </item>
 <item>
-<title>SKYUK:SKY SPORT 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/697.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY SPORT 4 HD </link>
+<title>UK: ITV4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7916.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV4 </link>
 </item>
 <item>
-<title>SKYUK:SKY SPORT 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/698.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY SPORT 5 HD </link>
+<title>UK: ITV BE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8855.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV BE </link>
 </item>
 <item>
-<title>SKYUK:SKY SPORTS F1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/700.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY SPORTS F1 HD </link>
+<title>UK: E!</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5136.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: E! </link>
 </item>
 <item>
-<title>SKYUK:SKY SPORTS NEWS HQ</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/701.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY SPORTS NEWS HQ </link>
+<title>UK: 3E</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5147.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 3E </link>
 </item>
 <item>
-<title>SKYUK:SKY MODERN GREATS HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/674.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY MODERN GREATS HD </link>
+<title>UK: Alibi</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5145.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Alibi </link>
 </item>
 <item>
-<title>SKYUK:SKY MOVIES ACTION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/672.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY MOVIES ACTION </link>
+<title>UK: TLC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4994.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TLC </link>
 </item>
 <item>
-<title>SKYUK:SKY MOVIES COMEDY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/670.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY MOVIES COMEDY </link>
+<title>UK: FOX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8463.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: FOX </link>
 </item>
 <item>
-<title>SKYUK:SKY MOVIES DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/671.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY MOVIES DRAMA </link>
+<title>UK: Sy-Fy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4997.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sy-Fy </link>
 </item>
 <item>
-<title>SKYUK:SKY MOVIES FAMILY HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/669.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY MOVIES FAMILY HD </link>
+<title>UK: Dmax</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/3861.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Dmax </link>
 </item>
 <item>
-<title>SKYUK:SKY MOVIES SCIFI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1384.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY MOVIES SCIFI </link>
+<title>UK: Home</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4422.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Home </link>
 </item>
 <item>
-<title>SKYUK:SKY MOVIES ACTION & ADVENTURE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1383.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY MOVIES ACTION & ADVENTURE </link>
+<title>UK: Watch</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4409.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Watch </link>
 </item>
 <item>
-<title>SKYUK:SKY MOVIES PREMIERE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/668.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY MOVIES PREMIERE HD </link>
+<title>UK: Quest</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5131.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Quest </link>
 </item>
 <item>
-<title>SKYUK:SKY ATLANTIC HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY ATLANTIC HD </link>
+<title>UK: Dave HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8508.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Dave HD </link>
 </item>
 <item>
-<title>SKYUK:SKY ACTION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/666.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY ACTION </link>
+<title>UK: Real Lives</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4416.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Real Lives </link>
 </item>
 <item>
-<title>SKYUK:SKY MOVIES SCI-FI & HORROR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/676.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY MOVIES SCI-FI & HORROR </link>
+<title>UK: ComedyCentral</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4958.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ComedyCentral </link>
 </item>
 <item>
-<title>SKYUK:SKY MOVIES SCIFI HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/667.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY MOVIES SCIFI HD </link>
+<title>UK: Rte one HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4404.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Rte one HD </link>
 </item>
 <item>
-<title>SKYUK:SKY MOVIES THRILLER</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/675.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY MOVIES THRILLER </link>
+<title>UK: Rte two HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4405.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Rte two HD </link>
 </item>
 <item>
-<title>SKYUK:ZING</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/724.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:ZING </link>
+<title>UK: 5 USA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5146.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 5 USA </link>
 </item>
 <item>
-<title>SKYUK:TRAVEL CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/732.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:TRAVEL CHANNEL </link>
+<title>UK: E4 UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5150.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: E4 UK </link>
 </item>
 <item>
-<title>SKYUK:TLC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/731.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:TLC </link>
+<title>UK: More4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4412.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: More4 </link>
 </item>
 <item>
-<title>SKYUK:SKY TWO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/651.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY TWO </link>
+<title>UK: Really</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4413.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Really </link>
 </item>
 <item>
-<title>SKYUK:SKY ONE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/649.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY ONE HD </link>
+<title>UK: LiverPool TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4417.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: LiverPool TV </link>
 </item>
 <item>
-<title>SKYUK:SKY ONE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/650.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY ONE </link>
+<title>UK: DRAMA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8462.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DRAMA </link>
 </item>
 <item>
-<title>SKYUK:SKY NEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/684.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY NEWS </link>
+<title>UK: TRAVEL 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8469.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TRAVEL 1 </link>
 </item>
 <item>
-<title>SKYUK:SKY LIVING</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/677.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY LIVING </link>
+<title>UK: UTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4962.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: UTV </link>
 </item>
 <item>
-<title>SKYUK:SKY  ARTS 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/663.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY  ARTS 1 </link>
+<title>UK: LONDON_LIVE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5135.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: LONDON_LIVE </link>
 </item>
 <item>
-<title>SKYUK:SKY  ARTS  2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/664.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY  ARTS  2 </link>
+<title>UK: BBC 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/3860.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 1 HD </link>
 </item>
 <item>
-<title>SKYUK:SETANTA IRELAND</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/702.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SETANTA IRELAND </link>
+<title>UK: BBC 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/3859.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 2 HD </link>
 </item>
 <item>
-<title>SKYUK:UK MOTORS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1569.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:UK MOTORS </link>
+<title>UK: BBC 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/3858.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 3 HD </link>
 </item>
 <item>
-<title>SKYUK:UK MORE 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1515.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:UK MORE 4 </link>
+<title>UK: BBC 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/3857.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 4 HD </link>
 </item>
 <item>
-<title>SKYUK:UK LIFETIME</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1519.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:UK LIFETIME </link>
+<title>UK: SKY 1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8289.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY 1HD </link>
 </item>
 <item>
-<title>SKYUK:UK GOLD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1521.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:UK GOLD </link>
+<title>UK: SKY 2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8503.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY 2HD </link>
 </item>
 <item>
-<title>SKYUK:UK DMAX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1522.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:UK DMAX </link>
+<title>UK: SKY LIVING</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/6895.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY LIVING </link>
 </item>
 <item>
-<title>SKYUK:UK DISCOVERY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1553.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:UK DISCOVERY </link>
+<title>UK: SKY ARTS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8458.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY ARTS </link>
 </item>
 <item>
-<title>SKYUK:TG 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1514.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:TG 4 </link>
+<title>UK: SKY ATLANTIC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/6896.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY ATLANTIC HD </link>
 </item>
 <item>
-<title>SKYUK:SKY UK MOVIES SHOWCASE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1534.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY UK MOVIES SHOWCASE HD </link>
+<title>UK: SKY GOOD FOOD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8857.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY GOOD FOOD </link>
 </item>
 <item>
-<title>SKYUK:SKY SELECT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1517.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY SELECT </link>
+<title>UK: FOOD NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8598.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: FOOD NETWORK </link>
 </item>
 <item>
-<title>SKYUK:SKY MOVIES THRILLER HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1535.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY MOVIES THRILLER HD </link>
+<title>UK: SKY SPORT NEWS HQ</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4963.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORT NEWS HQ </link>
 </item>
 <item>
-<title>SKYUK:SKY MOVIES SELECT HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1537.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY MOVIES SELECT HD </link>
+<title>UK: SKY SPORTS 1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4972.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS 1HD </link>
 </item>
 <item>
-<title>SKYUK:SKY MOVIES PREMIER HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1530.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY MOVIES PREMIER HD </link>
+<title>UK: SKY SPORTS 1SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4973.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS 1SD </link>
 </item>
 <item>
-<title>SKYUK:SKY MOVIES MODERN GREAT HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1536.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY MOVIES MODERN GREAT HD </link>
+<title>UK: |VIP| SKY SPORTS 2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/9559.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: |VIP| SKY SPORTS 2HD </link>
 </item>
 <item>
-<title>SKYUK:SKY MOVIES DRAMA HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1533.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY MOVIES DRAMA HD </link>
+<title>UK: SKY SPORTS 2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4970.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS 2HD </link>
 </item>
 <item>
-<title>SKYUK:SKY MOVIES DISNEY HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1542.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY MOVIES DISNEY HD </link>
+<title>UK: SKY SPORTS 2SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4971.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS 2SD </link>
 </item>
 <item>
-<title>SKYUK:SKY MOVIES COMEDY HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1532.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY MOVIES COMEDY HD </link>
+<title>UK: SKY SPORTS 3HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4968.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS 3HD </link>
 </item>
 <item>
-<title>SKYUK:SKY ARTS 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1516.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY ARTS 1 </link>
+<title>UK: |VIP| SKY SPORTS 3HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/9560.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: |VIP| SKY SPORTS 3HD </link>
 </item>
 <item>
-<title>SKYUK:NICKELODEON</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1546.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:NICKELODEON </link>
+<title>UK: SKY SPORTS 3SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4969.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS 3SD </link>
 </item>
 <item>
-<title>SKYUK:NICK TOONS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1548.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:NICK TOONS </link>
+<title>UK: |VIP| SKY SPORTS 4HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/9561.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: |VIP| SKY SPORTS 4HD </link>
 </item>
 <item>
-<title>SKYUK:NICK JUNIOR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1550.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:NICK JUNIOR </link>
+<title>UK: SKY SPORTS 4HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4967.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS 4HD </link>
 </item>
 <item>
-<title>SKYUK:NATIONAL GEO WILD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1552.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:NATIONAL GEO WILD </link>
+<title>UK: |VIP| SKY SPORTS 5HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/9562.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: |VIP| SKY SPORTS 5HD </link>
 </item>
 <item>
-<title>SKYUK:NATIONAL GEO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1551.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:NATIONAL GEO </link>
+<title>UK: SKY SPORTS 5HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4965.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS 5HD </link>
 </item>
 <item>
-<title>SKYUK:MOVIES 4 MEN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1538.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:MOVIES 4 MEN </link>
+<title>UK: SKY SPORTS F1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8755.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS F1 HD </link>
 </item>
 <item>
-<title>SKYUK:LIVERPOOL FC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1565.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:LIVERPOOL FC </link>
+<title>UK: SKY SPORTS MIX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/9021.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS MIX </link>
 </item>
 <item>
-<title>SKYUK:ITV  1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1512.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:ITV  1 </link>
+<title>UK: |VIP| BT SPORT 1HD 1080P</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/9522.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: |VIP| BT SPORT 1HD 1080P </link>
 </item>
 <item>
-<title>SKYUK:FOOD NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1568.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:FOOD NETWORK </link>
+<title>UK: BT Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4991.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport 1 HD </link>
 </item>
 <item>
-<title>SKYUK:FOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1540.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:FOX </link>
+<title>UK: |VIP| BT SPORT 2HD 1080P</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/9523.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: |VIP| BT SPORT 2HD 1080P </link>
 </item>
 <item>
-<title>SKYUK:EUROSPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1563.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:EUROSPORT 1 </link>
+<title>UK: BT Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4990.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport 2 HD </link>
 </item>
 <item>
-<title>SKYUK:ESPN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1567.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:ESPN </link>
+<title>UK: |VIP| BT SPORT 3HD 1080P</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/9524.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: |VIP| BT SPORT 3HD 1080P </link>
 </item>
 <item>
-<title>SKYUK:DISNEY CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1543.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:DISNEY CHANNEL </link>
+<title>UK: BT Sport 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8459.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport 3 HD </link>
 </item>
 <item>
-<title>SKYUK:DISCOVERY TURBO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1555.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:DISCOVERY TURBO </link>
+<title>UK: SETANTA SPORTS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8286.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SETANTA SPORTS </link>
 </item>
 <item>
-<title>SKYUK:DISCOVERY SCIENCE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1554.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:DISCOVERY SCIENCE </link>
+<title>UK: Premier Sport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4957.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Premier Sport </link>
 </item>
 <item>
-<title>SKYUK:DISCOVERY HISTORY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1561.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:DISCOVERY HISTORY </link>
+<title>UK: MUTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7129.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MUTV </link>
 </item>
 <item>
-<title>SKYUK:BT SPORTS EUROPE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1564.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:BT SPORTS EUROPE HD </link>
+<title>UK: RACING</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7128.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RACING </link>
 </item>
 <item>
-<title>SKYUK:BBC 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1511.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:BBC 3 HD </link>
+<title>UK: At The Races UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8505.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: At The Races UK </link>
 </item>
 <item>
-<title>SKYUK:CTH STADIUM 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1445.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:CTH STADIUM 1 HD </link>
+<title>UK: Motors TV UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8279.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Motors TV UK </link>
 </item>
 <item>
-<title>SKYUK:CTH STADIUM 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1446.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:CTH STADIUM 2 HD </link>
+<title>UK: BOXNATION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/6901.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BOXNATION </link>
 </item>
 <item>
-<title>SKYUK:CTH STADIUM 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1450.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:CTH STADIUM 3 HD </link>
+<title>UK: Chelsea TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4988.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Chelsea TV </link>
 </item>
 <item>
-<title>SKYUK:CTH STADIUM 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1447.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:CTH STADIUM 4 HD </link>
+<title>UK: ID</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8859.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ID </link>
 </item>
 <item>
-<title>SKYUK:CTH STADIUM 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1448.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:CTH STADIUM 5 HD </link>
+<title>UK: Discovery Investigation</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5151.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Investigation </link>
 </item>
 <item>
-<title>SKYUK:CTH STADIUM 6 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/1449.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:CTH STADIUM 6 HD </link>
+<title>UK: Discovery</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8067.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery </link>
 </item>
 <item>
-<title>SKYUK:RTE ONE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/661.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:RTE ONE </link>
+<title>UK: Discovery Turbo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4986.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Turbo </link>
 </item>
 <item>
-<title>SKYUK:RTE 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/662.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:RTE 2 HD </link>
+<title>UK: Discovery history</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4987.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery history </link>
 </item>
 <item>
-<title>SKYUK:RTE 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/730.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:RTE 2 </link>
+<title>UK: National_Geographic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/6900.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: National_Geographic </link>
 </item>
 <item>
-<title>SKYUK:RACING UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/706.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:RACING UK </link>
+<title>UK: NATGEO WILD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7143.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: NATGEO WILD </link>
 </item>
 <item>
-<title>SKYUK:MUTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/704.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:MUTV </link>
+<title>UK: Animal Planet</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8284.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Animal Planet </link>
 </item>
 <item>
-<title>SKYUK:MTV HITS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/713.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:MTV HITS </link>
+<title>UK: Sky Sci-Fi</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8065.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sci-Fi </link>
 </item>
 <item>
-<title>SKYUK:ITV 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/657.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:ITV 1 HD </link>
+<title>UK: TRUE MOVIES 01</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5141.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TRUE MOVIES 01 </link>
 </item>
 <item>
-<title>SKYUK:ITV 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/658.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:ITV 2 </link>
+<title>UK: TRUE MOVIES 02</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5142.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TRUE MOVIES 02 </link>
 </item>
 <item>
-<title>SKYUK:ITV 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/659.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:ITV 3 </link>
+<title>UK: Sky_Movies_Premiere</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/6891.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky_Movies_Premiere </link>
 </item>
 <item>
-<title>SKYUK:ITV 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/660.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:ITV 4 </link>
+<title>UK: Sky_Movies_Select</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/6889.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky_Movies_Select </link>
 </item>
 <item>
-<title>SKYUK:HISTORY CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/688.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:HISTORY CHANNEL </link>
+<title>UK: Sky-movies-Thriller</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4956.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky-movies-Thriller </link>
 </item>
 <item>
-<title>SKYUK:EUROSPORT 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/690.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:EUROSPORT 2 </link>
+<title>UK: Sky_Movies_Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/6893.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky_Movies_Comedy </link>
 </item>
 <item>
-<title>SKYUK:EUROSPORT 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/689.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:EUROSPORT 1 HD </link>
+<title>UK: Sky_Movies_Showcase</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/6888.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky_Movies_Showcase </link>
 </item>
 <item>
-<title>SKYUK:ESPN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/679.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:ESPN HD </link>
+<title>UK: Sky_Movies_ScFi-Horror</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/6890.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky_Movies_ScFi-Horror </link>
 </item>
 <item>
-<title>SKYUK:DISNEY MOVIE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/682.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:DISNEY MOVIE </link>
+<title>UK: Sky_Movies_Modern_Greats</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/6892.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky_Movies_Modern_Greats </link>
 </item>
 <item>
-<title>SKYUK:DISNEY JUNIOR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/683.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:DISNEY JUNIOR </link>
+<title>UK: Sky_Movies_Action&Adventure</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/6894.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky_Movies_Action&Adventure </link>
 </item>
 <item>
-<title>SKYUK:COMEDY CENTRAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/665.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:COMEDY CENTRAL </link>
+<title>UK: Sky Movies Drama and Romance HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8281.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Drama and Romance HD </link>
 </item>
 <item>
-<title>SKYUK:COLORS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/725.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:COLORS </link>
+<title>UK: CBS Reality UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5137.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS Reality UK </link>
 </item>
 <item>
-<title>SKYUK:CHELSEA TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/703.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:CHELSEA TV </link>
+<title>UK: CBS_Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8473.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS_Action </link>
 </item>
 <item>
-<title>SKYUK:BT SPORTS 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/693.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:BT SPORTS 2 HD </link>
+<title>UK: CBS DRAMA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8472.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS DRAMA </link>
 </item>
 <item>
-<title>SKYUK:BT SPORT 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/691.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:BT SPORT 1 HD </link>
+<title>UK: Movies4Men</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8599.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Movies4Men </link>
 </item>
 <item>
-<title>SKYUK:BOX NATION  HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/707.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:BOX NATION  HD </link>
+<title>UK: Film 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4411.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Film 4 HD </link>
 </item>
 <item>
-<title>SKYUK:BBC 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/656.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:BBC 4 HD </link>
+<title>UK: B4U Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5143.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: B4U Movies </link>
 </item>
 <item>
-<title>SKYUK:BBC 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/655.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:BBC 3 </link>
+<title>UK: BABY TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5138.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BABY TV </link>
 </item>
 <item>
-<title>SKYUK:BBC 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/654.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:BBC 2 HD </link>
+<title>UK: Nickelodeon</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4975.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nickelodeon </link>
 </item>
 <item>
-<title>SKYUK:BBC 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/653.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:BBC 1 HD </link>
+<title>UK: CARTOON_NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7312.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CARTOON_NETWORK </link>
 </item>
 <item>
-<title>SKYUK:B4U MOVIES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3063316.ip-37-187-135.eu:8000/live/6grandiptv419/03332325/718.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:B4U MOVIES </link>
+<title>UK: Disney XD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/3862.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney XD </link>
 </item>
+<item>
+<title>UK: Disney Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/3863.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney Junior </link>
+</item>
+<item>
+<title>UK: Disney Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/3864.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney Channel </link>
+</item>
+<item>
+<title>UK: Nicktoons</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/6899.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nicktoons </link>
+</item>
+<item>
+<title>UK: BOOMERANG</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5130.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BOOMERANG </link>
+</item>
+<item>
+<title>UK: Disnep Channel UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/8283.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disnep Channel UK </link>
+</item>
+<item>
+<title>UK: TG 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4421.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TG 4 </link>
+</item>
+<item>
+<title>UK: Eden</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/4418.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Eden </link>
+</item>
+<item>
+<title>UK: MTV_ROCKS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5133.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV_ROCKS </link>
+</item>
+<item>
+<title>UK: MTV_HITS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5134.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV_HITS </link>
+</item>
+<item>
+<title>UK: VH1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5129.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: VH1 </link>
+</item>
+<item>
+<title>UK: Vevo 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/5140.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Vevo 1 </link>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
