@@ -25,7 +25,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 28-01-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 16-02-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
@@ -36,326 +36,481 @@
 
 
 
-
 <item>
-<title>FR: TF1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/703.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TF1 HD </link>
+<title>FR-TF1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3341.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TF1 </link>
 </item>
 <item>
-<title>FR: FRANCE 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/718.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 2 HD </link>
+<title>FR-M6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3310.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-M6 </link>
 </item>
 <item>
-<title>FR: FRANCE 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/717.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 3 HD </link>
+<title>FR-France2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3300.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-France2 </link>
 </item>
 <item>
-<title>FR: FRANCE 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/716.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 4 HD </link>
+<title>FR-France3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3301.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-France3 </link>
 </item>
 <item>
-<title>FR: FRANCE 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/715.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 5 HD </link>
+<title>FR-FRANCE-4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/1951.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-FRANCE-4 </link>
 </item>
 <item>
-<title>FR: ACTION HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/747.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: ACTION HD </link>
+<title>FR-France5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3302.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-France5 </link>
 </item>
 <item>
-<title>FR: W9 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/700.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: W9 HD </link>
+<title>FR-FranceO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3304.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-FranceO </link>
 </item>
 <item>
-<title>FR: M6 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/711.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6 HD </link>
+<title>FR-France_24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3303.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-France_24 </link>
 </item>
 <item>
-<title>FR: ARTE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/745.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: ARTE HD </link>
+<title>FR-W9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3347.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-W9 </link>
 </item>
 <item>
-<title>FR: 6TER HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/1935.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 6TER HD </link>
+<title>FR-6TER</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3262.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-6TER </link>
 </item>
 <item>
-<title>FR: D8 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/728.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: D8 HD </link>
+<title>FR-D8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3286.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-D8 </link>
 </item>
 <item>
-<title>FR: Paris Premiere</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/752.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Paris Premiere </link>
+<title>FR-HD1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3306.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-HD1 </link>
 </item>
 <item>
-<title>FR: LCP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/4090.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: LCP </link>
+<title>FR-D17</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3285.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-D17 </link>
 </item>
 <item>
-<title>FR: FRANCE 0 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/719.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 0 HD </link>
+<title>FR-Canal+</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3271.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Canal+ </link>
 </item>
 <item>
-<title>FR: Comedie +</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3992.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Comedie + </link>
+<title>FR-Canal+_cinema</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3272.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Canal+_cinema </link>
 </item>
 <item>
-<title>FR: Cine Polar</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3991.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine Polar </link>
+<title>FR-Canal+_Decale</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3273.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Canal+_Decale </link>
 </item>
 <item>
-<title>FR: Cine FX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3990.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine FX </link>
+<title>FR-Canal+Family</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/4570.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Canal+Family </link>
 </item>
 <item>
-<title>FR: AB1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3988.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: AB1 </link>
+<title>FR-Cine+_Famiz</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3274.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Cine+_Famiz </link>
 </item>
 <item>
-<title>FR: RTL 9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/1932.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RTL 9 </link>
+<title>FR-Canal+_Series</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3275.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Canal+_Series </link>
 </item>
 <item>
-<title>FR: M6 Music</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/4088.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6 Music </link>
+<title>FR-Cine+_Frisson</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3282.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Cine+_Frisson </link>
 </item>
 <item>
-<title>FR: NT1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/1936.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NT1 HD </link>
+<title>FR-Cine+_Emotion</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3281.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Cine+_Emotion </link>
 </item>
 <item>
-<title>FR: Science Et Vie</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/814.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Science Et Vie </link>
+<title>FR-Cine+_Premier</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3283.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Cine+_Premier </link>
 </item>
 <item>
-<title>FR: Voyage</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/1933.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Voyage </link>
+<title>FR-Ciné+_Classic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5353.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Ciné+_Classic </link>
 </item>
 <item>
-<title>FR: RMC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/2730.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RMC </link>
+<title>FR-Cine_FX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3280.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Cine_FX </link>
 </item>
 <item>
-<title>FR: TMC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/816.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TMC </link>
+<title>FR-OCS_MAX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3326.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-OCS_MAX </link>
 </item>
 <item>
-<title>FR: Serie Club HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/765.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Serie Club HD </link>
+<title>FR-OCS_Geants</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3325.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-OCS_Geants </link>
 </item>
 <item>
-<title>FR: GAME ONE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/1939.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: GAME ONE HD </link>
+<title>FR-OCS_City</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3324.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-OCS_City </link>
 </item>
 <item>
-<title>FR: EURONEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/1940.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EURONEWS </link>
+<title>FR-OCS_CHOC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3323.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-OCS_CHOC </link>
 </item>
 <item>
-<title>FR: Disney XD HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/724.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney XD HD </link>
+<title>FR-TCM</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3338.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TCM </link>
 </item>
 <item>
-<title>FR: Numero23</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/1949.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Numero23 </link>
+<title>FR-Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3355.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Action </link>
 </item>
 <item>
-<title>FR: L Equipe 21</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3710.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: L Equipe 21 </link>
+<title>FR-Paris_premiere</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3327.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Paris_premiere </link>
 </item>
 <item>
-<title>FR: DISNEY CINEMA HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3128.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISNEY CINEMA HD </link>
+<title>FR-13eme_Rue</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3261.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-13eme_Rue </link>
 </item>
 <item>
-<title>FR: Téva</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/754.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Téva </link>
+<title>FR-TV_Breizh</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3349.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TV_Breizh </link>
 </item>
 <item>
-<title>FR: INFOSPORT FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/757.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: INFOSPORT FR </link>
+<title>FR-Serie_Club</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3336.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Serie_Club </link>
 </item>
 <item>
-<title>FR: NRJ12 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/706.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NRJ12 HD </link>
+<title>FR-TMC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3343.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TMC </link>
 </item>
 <item>
-<title>FR: Discovery HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/1934.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Discovery HD </link>
+<title>FR-Syfy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3337.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Syfy </link>
 </item>
 <item>
-<title>FR: PLANET+ HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/760.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PLANET+ HD </link>
+<title>FR-NT_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3322.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-NT_1 </link>
 </item>
 <item>
-<title>FR: PLANETE  A+E HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3127.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PLANETE  A+E HD </link>
+<title>FR-TEVA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3340.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TEVA </link>
 </item>
 <item>
-<title>FR: PLANETE CI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/801.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PLANETE CI </link>
+<title>FR-Cherie_25</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3279.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Cherie_25 </link>
 </item>
 <item>
-<title>FR: Discovery Science HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/823.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Discovery Science HD </link>
+<title>FR-NRJ_12</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3321.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-NRJ_12 </link>
 </item>
 <item>
-<title>FR: NatGeoWild HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/822.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NatGeoWild HD </link>
+<title>FR-RTL9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3332.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-RTL9 </link>
 </item>
 <item>
-<title>FR: animaux HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/746.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: animaux HD </link>
+<title>FR-Weo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3348.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Weo </link>
 </item>
 <item>
-<title>FR: Ushuaia HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/749.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Ushuaia HD </link>
+<title>FR-Arte</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3264.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Arte </link>
 </item>
 <item>
-<title>FR: OCS MAX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3130.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS MAX HD </link>
+<title>FR-TV5_Monde</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3344.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TV5_Monde </link>
 </item>
 <item>
-<title>FR: OCS GEANTS HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/1937.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS GEANTS HD </link>
+<title>FR-June_TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3308.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-June_TV </link>
 </item>
 <item>
-<title>FR: OCS CITY HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/3129.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS CITY HD </link>
+<title>FR-Ushuaïa_TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3345.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Ushuaïa_TV </link>
 </item>
 <item>
-<title>FR: OCS CHOC HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/1938.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS CHOC HD </link>
+<title>FR-Animaux</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3263.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Animaux </link>
 </item>
 <item>
-<title>FR: Canal J HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/818.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal J HD </link>
+<title>FR-Chasse-et-Peche</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3278.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Chasse-et-Peche </link>
 </item>
 <item>
-<title>FR: Canal+ HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/743.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal+ HD </link>
+<title>FR-PLANETE+</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3328.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-PLANETE+ </link>
 </item>
 <item>
-<title>FR: Canal+ Series HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/740.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal+ Series HD </link>
+<title>FR-PLANETE+_CI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3330.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-PLANETE+_CI </link>
 </item>
 <item>
-<title>FR: Canal+ Family HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/741.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal+ Family HD </link>
+<title>FR-Planete+_AE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3329.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Planete+_AE </link>
 </item>
 <item>
-<title>FR: Canal+ Cinema HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/742.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal+ Cinema HD </link>
+<title>FR-Science_Vie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3335.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Science_Vie </link>
 </item>
 <item>
-<title>FR: Canal  Sport HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/739.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal  Sport HD </link>
+<title>FR-Toute_l'histoire</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3350.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Toute_l'histoire </link>
 </item>
 <item>
-<title>FR: CINE PREMIER HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/731.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE PREMIER HD </link>
+<title>FR-NatGeo_Wild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3319.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-NatGeo_Wild </link>
 </item>
 <item>
-<title>FR: CINE FRISSON HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/732.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE FRISSON HD </link>
+<title>FR-National_Geographic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3320.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-National_Geographic </link>
 </item>
 <item>
-<title>FR: CINE CLASSIC HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/730.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE CLASSIC HD </link>
+<title>FR-Discovery_Science</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3288.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Discovery_Science </link>
 </item>
 <item>
-<title>FR: CINE EMOTION HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/734.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE EMOTION HD </link>
+<title>FR-Discovery</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3287.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Discovery </link>
 </item>
 <item>
-<title>FR: 13EME RUE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/748.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 13EME RUE HD </link>
+<title>FR-Canal_J</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3270.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Canal_J </link>
 </item>
 <item>
-<title>FR: SYFY HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/779.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SYFY HD </link>
+<title>FR-Tiji</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3342.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Tiji </link>
 </item>
 <item>
-<title>FR: BFMTV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/744.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BFMTV HD </link>
+<title>FR-Piwi</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3354.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Piwi </link>
 </item>
 <item>
-<title>FR: BFM Business</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/729.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BFM Business </link>
+<title>FR-Gulli</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3305.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Gulli </link>
 </item>
 <item>
-<title>FR: Chasse et Peche</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/736.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Chasse et Peche </link>
+<title>FR-TeleToonPlus</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3339.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TeleToonPlus </link>
 </item>
 <item>
-<title>FR: CARTOON NETWORK HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/789.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CARTOON NETWORK HD </link>
+<title>FR-Disney_Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3291.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Disney_Junior </link>
 </item>
 <item>
-<title>FR: Mangas</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/819.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Mangas </link>
+<title>FR-Disney_Cinemagic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3290.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Disney_Cinemagic </link>
 </item>
 <item>
-<title>FR: GULLI HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/713.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: GULLI HD </link>
+<title>FR-Disney_Cinema</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3352.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Disney_Cinema </link>
 </item>
 <item>
-<title>FR: PIWI  HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/804.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PIWI  HD </link>
+<title>FR-Cartoon_Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3277.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Cartoon_Network </link>
 </item>
 <item>
-<title>FR: TELETOON  +1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/802.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TELETOON  +1 </link>
+<title>FR-Disney_Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3289.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Disney_Channel </link>
 </item>
 <item>
-<title>FR: TIJI TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/2790.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TIJI TV </link>
+<title>FR-Comedie+</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3284.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Comedie+ </link>
 </item>
 <item>
-<title>FR: DISNEY CHANNEL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/772.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISNEY CHANNEL HD </link>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3353.ts&amp;streamtype=TSDOWNLOADER&amp;name= </link>
 </item>
 <item>
-<title>FR: BOOMERANG HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/788.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BOOMERANG HD </link>
+<title>FR-Mangas</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3311.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Mangas </link>
 </item>
 <item>
-<title>FR: Canal Play 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/2400.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal Play 1 </link>
+<title>FR-Boing</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3292.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Boing </link>
 </item>
 <item>
-<title>FR: Canal Play 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/2401.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal Play 2 </link>
+<title>FR-Canal+_sport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3276.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Canal+_sport </link>
 </item>
 <item>
-<title>FR: Canal Play 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/2402.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal Play 3 </link>
+<title>FR-SFR-SPORT1_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/4295.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-SFR-SPORT1_HD </link>
 </item>
 <item>
-<title>FR: Canal Play 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/2403.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal Play 4 </link>
+<title>FR-SFR-SPORT2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/4296.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-SFR-SPORT2_HD </link>
 </item>
 <item>
-<title>FR: Canal Play 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/2404.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal Play 5 </link>
+<title>FR-SFR-SPORT3_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/4297.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-SFR-SPORT3_HD </link>
 </item>
 <item>
-<title>FR: A La Carte 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/2231.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A La Carte 1 </link>
+<title>FR-Bein-Sports-1_FR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/2268.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Bein-Sports-1_FR </link>
 </item>
 <item>
-<title>FR: A La Carte 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/2232.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A La Carte 2 </link>
+<title>FR-Bein-Sports-2_FR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/2267.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Bein-Sports-2_FR </link>
 </item>
 <item>
-<title>FR: A La Carte 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/2233.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A La Carte 3 </link>
+<title>FR-Bein-Sports-3_FR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/2266.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Bein-Sports-3_FR </link>
 </item>
 <item>
-<title>FR: A La Carte 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/2234.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A La Carte 4 </link>
+<title>beIN_SPORTS1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3265.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS1 </link>
 </item>
 <item>
-<title>FR: A La Carte 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/beppe/beppe2/1950.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A La Carte 5 </link>
+<title>BeIN-Sport2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3266.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeIN-Sport2 </link>
+</item>
+<item>
+<title>FR-BeinSport3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3267.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-BeinSport3 </link>
+</item>
+<item>
+<title>FR-Foot+</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3299.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Foot+ </link>
+</item>
+<item>
+<title>FR-Foot24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5354.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Foot24 </link>
+</item>
+<item>
+<title>FR-Eurosport_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3297.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Eurosport_1 </link>
+</item>
+<item>
+<title>FR-Eurosport_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3298.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Eurosport_2 </link>
+</item>
+<item>
+<title>FR-L'Equipe_21</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3295.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-L'Equipe_21 </link>
+</item>
+<item>
+<title>FR-Equidia_Live</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3294.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Equidia_Live </link>
+</item>
+<item>
+<title>FR-Equidia_Life</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3293.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Equidia_Life </link>
+</item>
+<item>
+<title>FR-Euronews</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3296.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Euronews </link>
+</item>
+<item>
+<title>FR-BFM-TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3269.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-BFM-TV </link>
+</item>
+<item>
+<title>FR-AB_Moteurs</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3268.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-AB_Moteurs </link>
+</item>
+<item>
+<title>FR-RMC_Decouverte</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3331.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-RMC_Decouverte </link>
+</item>
+<item>
+<title>FR-Paramount_Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3351.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Paramount_Channel </link>
+</item>
+<item>
+<title>FR-iTELE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3307.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-iTELE </link>
+</item>
+<item>
+<title>FR-LaUne</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3309.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-LaUne </link>
+</item>
+<item>
+<title>FR-RTS_Un</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3334.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-RTS_Un </link>
+</item>
+<item>
+<title>FR-RTS_Deux</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3333.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-RTS_Deux </link>
+</item>
+<item>
+<title>FR-C-STAR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-C-STAR </link>
+</item>
+<item>
+<title>FR-rfm</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/1943.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-rfm </link>
+</item>
+<item>
+<title>FR-Movies1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3312.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Movies1 </link>
+</item>
+<item>
+<title>FR-Movies2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3313.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Movies2 </link>
+</item>
+<item>
+<title>FR-Movies3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3314.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Movies3 </link>
+</item>
+<item>
+<title>FR-Movies4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3315.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Movies4 </link>
+</item>
+<item>
+<title>FR-Movies5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3316.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Movies5 </link>
+</item>
+<item>
+<title>FR-Movies6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3317.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Movies6 </link>
+</item>
+<item>
+<title>FR-Movies7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3318.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Movies7 </link>
+</item>
+<item>
+<title>FR-beinmax4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6279.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-beinmax4 </link>
+</item>
+<item>
+<title>FR-beinmax5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6280.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-beinmax5 </link>
+</item>
+<item>
+<title>FR-E!</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6274.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-E! </link>
+</item>
+<item>
+<title>FR-Golf+</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6273.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Golf+ </link>
+</item>
+<item>
+<title>FR-cstar</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6276.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-cstar </link>
+</item>
+<item>
+<title>FR-CH-RSI-La1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5998.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-CH-RSI-La1 </link>
+</item>
+<item>
+<title>FR-CH-RSI-La2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5999.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-CH-RSI-La2 </link>
+</item>
+<item>
+<title>FR-CH-RTS-Deux</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5997.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-CH-RTS-Deux </link>
+</item>
+<item>
+<title>FR-CH-RTS-Un</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5995.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-CH-RTS-Un </link>
+</item>
+<item>
+<title>FR-CH-SRF-1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5994.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-CH-SRF-1 </link>
+</item>
+<item>
+<title>FR-CH-SRF-2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5996.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-CH-SRF-2 </link>
+</item>
+<item>
+<title>FR-DISNEY_XD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6272.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-DISNEY_XD </link>
+</item>
+<item>
+<title>FR-elle-girl</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6278.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-elle-girl </link>
 </item>
 
 
