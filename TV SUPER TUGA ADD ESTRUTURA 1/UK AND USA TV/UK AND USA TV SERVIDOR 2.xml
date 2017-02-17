@@ -23,7 +23,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 16-02-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 17-02-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -34,342 +34,394 @@
 
 
 
-
-
 <item>
-<title>UK-MUtv</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5802.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-MUtv </link>
+<title>UK_BBC1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1972.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC1 </link>
 </item>
 <item>
-<title>UK-Baby-TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6261.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Baby-TV </link>
+<title>UK_BBC2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2368.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC2 </link>
 </item>
 <item>
-<title>UK-BBC-1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6258.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BBC-1 </link>
+<title>UK_BBC3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1974.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC3 </link>
 </item>
 <item>
-<title>UK-BBC-2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6259.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BBC-2 </link>
+<title>UK_BBC4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1982.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC4 </link>
 </item>
 <item>
-<title>UK-BBC-World-News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6260.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BBC-World-News </link>
+<title>UK_BBCNEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1981.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBCNEWS </link>
 </item>
 <item>
-<title>UK-Boomerang</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6262.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Boomerang </link>
+<title>UK_ITV1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1998.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV1 </link>
 </item>
 <item>
-<title>UK-BT-Sport-1-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6238.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BT-Sport-1-HD </link>
+<title>UK_ITV2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1999.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV2 </link>
 </item>
 <item>
-<title>UK-BT-Sport-2-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6239.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BT-Sport-2-HD </link>
+<title>UK_ITV3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2006.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV3 </link>
 </item>
 <item>
-<title>UK-BT-Sport-Europe</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6240.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BT-Sport-Europe </link>
+<title>UK_ITV_One</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2752.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV_One </link>
 </item>
 <item>
-<title>UK-Animal-Planet</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6252.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Animal-Planet </link>
+<title>UK_ITV_Encore</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2751.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV_Encore </link>
 </item>
 <item>
-<title>UK-Cartoonito</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6263.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Cartoonito </link>
+<title>UK_SKYone</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2326.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKYone </link>
 </item>
 <item>
-<title>UK-CBS-Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6236.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-CBS-Action </link>
+<title>UK_skytwo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2651.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_skytwo </link>
 </item>
 <item>
-<title>UK-Comedy-Central</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6232.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Comedy-Central </link>
+<title>UK_Sky_Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1983.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Action </link>
 </item>
 <item>
-<title>UK-Crime-and-Investigation</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6233.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Crime-and-Investigation </link>
+<title>UK_Sky_Alantic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1975.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Alantic </link>
 </item>
 <item>
-<title>UK-Discovery-Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6253.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Discovery-Channel </link>
+<title>UK_Sky_Movies_Select</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2000.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Select </link>
 </item>
 <item>
-<title>UK-Discovery-History</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6254.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Discovery-History </link>
+<title>UK_Sky_Movie_Family</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2001.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movie_Family </link>
 </item>
 <item>
-<title>UK-Discovery-Investigation</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6255.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Discovery-Investigation </link>
+<title>UK_Sky_Movies_Disney</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2002.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Disney </link>
 </item>
 <item>
-<title>UK-Discovery-Science</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6256.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Discovery-Science </link>
+<title>UK_Sky_Movies_Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2003.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Comedy </link>
 </item>
 <item>
-<title>UK-Discovery-Turbo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6257.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Discovery-Turbo </link>
+<title>UK_Sky_Movies_Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2004.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Action </link>
 </item>
 <item>
-<title>UK-Disney-Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6264.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Disney-Channel </link>
+<title>UK_Sky_Movies_Premiere</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2005.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Premiere </link>
 </item>
 <item>
-<title>UK-Disney-Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6266.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Disney-Junior </link>
+<title>UK_nick</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2765.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_nick </link>
 </item>
 <item>
-<title>UK-Disney-ovies</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6267.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Disney-ovies </link>
+<title>UK_Nick_Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1979.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Nick_Junior </link>
 </item>
 <item>
-<title>UK-Disney-XD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6265.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Disney-XD </link>
+<title>UK_Nick_Toons</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2251.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Nick_Toons </link>
 </item>
 <item>
-<title>UK-Eurosport-1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6241.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Eurosport-1 </link>
+<title>UK_Nickelodeon</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2250.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Nickelodeon </link>
 </item>
 <item>
-<title>UK-Eurosport-2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6242.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Eurosport-2 </link>
+<title>UK_Disney_Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1989.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Disney_Channel </link>
 </item>
 <item>
-<title>UK-FOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6234.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-FOX </link>
+<title>UK_Cartoon_NetWork</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2366.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Cartoon_NetWork </link>
 </item>
 <item>
-<title>UK-FOX-Crime</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6235.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-FOX-Crime </link>
+<title>UK_Animal_Planet_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2766.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Animal_Planet_HD </link>
 </item>
 <item>
-<title>UK-Manchester-United-FC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6250.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Manchester-United-FC </link>
+<title>UK_National_Geo_WILD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1986.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_National_Geo_WILD </link>
 </item>
 <item>
-<title>UK-Motors-TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6251.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Motors-TV </link>
+<title>UK_National_Geography_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1985.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_National_Geography_HD </link>
 </item>
 <item>
-<title>UK-Movies-4-Men</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6237.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Movies-4-Men </link>
+<title>UK_Discovery</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2009.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Discovery </link>
 </item>
 <item>
-<title>UK-MTV-Hits</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6271.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-MTV-Hits </link>
+<title>UK_Discovery_Science</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2367.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Discovery_Science </link>
 </item>
 <item>
-<title>UK-MTV-Music</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6270.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-MTV-Music </link>
+<title>UK_SKY_SPORT1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2242.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORT1 </link>
 </item>
 <item>
-<title>UK-Nickelodeon</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6268.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Nickelodeon </link>
+<title>UK_SKY_SPORT2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2241.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORT2 </link>
 </item>
 <item>
-<title>UK-Nicktoons</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6269.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Nicktoons </link>
+<title>UK_SKY_SPORT3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2243.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORT3 </link>
 </item>
 <item>
-<title>UK-Sky-Atlantic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6231.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Atlantic </link>
+<title>UK_SKY_SPORT4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2244.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORT4 </link>
 </item>
 <item>
-<title>UK-Sky-Movies-Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6222.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Movies-Action </link>
+<title>UK_SKY_SPORT5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2245.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORT5 </link>
 </item>
 <item>
-<title>UK-Sky-Movies-Comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6223.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Movies-Comedy </link>
+<title>UK_SKYSportsF1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2349.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKYSportsF1 </link>
 </item>
 <item>
-<title>UK-Sky-Movies-Drama</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6224.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Movies-Drama </link>
+<title>UK_Eurosport_1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2747.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Eurosport_1HD </link>
 </item>
 <item>
-<title>UK-Sky-Movies-Family</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6225.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Movies-Family </link>
+<title>UK_Eurosport_2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2748.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Eurosport_2HD </link>
 </item>
 <item>
-<title>UK-Sky-Movies-Premiere</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6226.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Movies-Premiere </link>
+<title>UK_Mio_STADIUM_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2773.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Mio_STADIUM_1 </link>
 </item>
 <item>
-<title>UK-Sky-Movies-Scifi---Horror</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6227.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Movies-Scifi---Horror </link>
+<title>UK_Mio_STADIUM_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2774.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Mio_STADIUM_2 </link>
 </item>
 <item>
-<title>UK-Sky-Movies-Select</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6228.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Movies-Select </link>
+<title>UK_Mio_STADIUM_3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2775.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Mio_STADIUM_3 </link>
 </item>
 <item>
-<title>UK-Sky-Movies-Showcase</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6229.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Movies-Showcase </link>
+<title>UK_Mio_STADIUM_4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2776.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Mio_STADIUM_4 </link>
 </item>
 <item>
-<title>UK-Sky-Movies-Thriller</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6230.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Movies-Thriller </link>
+<title>UK_Mio_STADIUM_5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2777.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Mio_STADIUM_5 </link>
 </item>
 <item>
-<title>UK-Sky-Sports-1-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6243.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Sports-1-HD </link>
+<title>UK_MTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2249.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_MTV </link>
 </item>
 <item>
-<title>UK-Sky-Sports-2-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6244.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Sports-2-HD </link>
+<title>UK_MTV_Rocks</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2252.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_MTV_Rocks </link>
 </item>
 <item>
-<title>UK-Sky-Sports-3-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6245.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Sports-3-HD </link>
+<title>UK_MTV_Music</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2253.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_MTV_Music </link>
 </item>
 <item>
-<title>UK-Sky-Sports-4-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6246.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Sports-4-HD </link>
+<title>UK_MTV_HITS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2254.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_MTV_HITS </link>
 </item>
 <item>
-<title>UK-Sky-Sports-5-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6247.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Sports-5-HD </link>
+<title>UK_MTV_CLASSIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2256.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_MTV_CLASSIC </link>
 </item>
 <item>
-<title>UK-Sky-Sports-F1-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6248.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Sports-F1-HD </link>
+<title>UK_CBS_Reality</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2347.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CBS_Reality </link>
 </item>
 <item>
-<title>UK-Sky-Sports-News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6249.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Sports-News </link>
+<title>UK_CBS_Drama</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2346.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CBS_Drama </link>
 </item>
 <item>
-<title>UK-Premiere_Sport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5803.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Premiere_Sport </link>
+<title>UK_CBS_Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2345.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CBS_Action </link>
 </item>
 <item>
-<title>UK-Setanta-Sport _Irland1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5804.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Setanta-Sport _Irland1 </link>
+<title>OSN_YahalaShabab</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2202.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_YahalaShabab </link>
 </item>
 <item>
-<title>UK-Movies_Sci-Fi_Horror</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5806.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Movies_Sci-Fi_Horror </link>
+<title>OSN_YahallDrama</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2203.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_YahallDrama </link>
 </item>
 <item>
-<title>UK-Movies-Modern</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5805.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Movies-Modern </link>
+<title>OSN_Yahala_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2201.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_Yahala_HD </link>
 </item>
 <item>
-<title>UK-B4U-Movies</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5807.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-B4U-Movies </link>
+<title>OSN_AnimalPlanet</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2220.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_AnimalPlanet </link>
 </item>
 <item>
-<title>UK-Sky-One</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5808.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-One </link>
+<title>OSN_OnDemand</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2219.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_OnDemand </link>
 </item>
 <item>
-<title>UK-ITV1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5801.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-ITV1 </link>
+<title>OSN_Movie_Premiere</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2210.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_Movie_Premiere </link>
 </item>
 <item>
-<title>UK-Sky_Greats</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/51.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky_Greats </link>
+<title>OSN_Movie_kids_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2211.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_Movie_kids_HD </link>
 </item>
 <item>
-<title>USA-WWE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3531.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-WWE </link>
+<title>OSN_MOVIE_FESTIVAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2208.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_MOVIE_FESTIVAL </link>
 </item>
 <item>
-<title>USA-TSN1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3526.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-TSN1 </link>
+<title>OSN_Movie_Drama</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2207.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_Movie_Drama </link>
 </item>
 <item>
-<title>USA-TSN2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3527.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-TSN2 </link>
+<title>OSN_MOVIE_COMEDY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2209.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_MOVIE_COMEDY </link>
 </item>
 <item>
-<title>USA-TSN3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3528.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-TSN3 </link>
+<title>OSN_MovieAction2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2206.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_MovieAction2 </link>
 </item>
 <item>
-<title>USA-TSN4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3529.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-TSN4 </link>
+<title>OSN_MovieAction</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2205.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_MovieAction </link>
 </item>
 <item>
-<title>USA-TSN5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3530.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-TSN5 </link>
+<title>OSN_MOVIE-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2204.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_MOVIE-HD </link>
 </item>
 <item>
-<title>USA-Sport1US</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3535.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-Sport1US </link>
+<title>OSN_MBC_DRAMA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2198.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_MBC_DRAMA </link>
 </item>
 <item>
-<title>USA-BeinUSA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3519.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-BeinUSA </link>
+<title>OSN_First_Hbo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2214.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_First_Hbo </link>
 </item>
 <item>
-<title>USA-AMC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3518.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-AMC </link>
+<title>OSN_FirstComedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2213.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_FirstComedy </link>
 </item>
 <item>
-<title>USA-ABNNews</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3517.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-ABNNews </link>
+<title>OSN_First</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2212.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_First </link>
 </item>
 <item>
-<title>UK-CNN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/2895.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-CNN </link>
+<title>OSN_DiscoveryScience</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2217.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_DiscoveryScience </link>
 </item>
 <item>
-<title>USA-PokerCentral</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3537.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-PokerCentral </link>
+<title>OSN_DISCOVERY_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2218.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_DISCOVERY_HD </link>
 </item>
 <item>
-<title>USA-PAG</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3534.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-PAG </link>
+<title>OSN_CINEMA2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2200.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_CINEMA2 </link>
 </item>
 <item>
-<title>USA-NFL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3533.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-NFL </link>
+<title>OSN_CINEMA1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2199.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_CINEMA1 </link>
 </item>
 <item>
-<title>USA-NDTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3532.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-NDTV </link>
+<title>OSN_BoxOffice3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2223.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_BoxOffice3 </link>
 </item>
 <item>
-<title>USA-NBCSN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3525.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-NBCSN </link>
+<title>OSN_BoxOffice2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2222.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_BoxOffice2 </link>
 </item>
 <item>
-<title>USA-NBATV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3524.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-NBATV </link>
+<title>OSN_BoxOffice1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2221.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_BoxOffice1 </link>
 </item>
 <item>
-<title>USA-H2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3538.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-H2 </link>
+<title>OSN_NatGeoPeople</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2491.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_NatGeoPeople </link>
 </item>
 <item>
-<title>USA-Golf</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3539.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-Golf </link>
+<title>OSN_History_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2492.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_History_HD </link>
 </item>
 <item>
-<title>USA-FoxSports1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3523.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-FoxSports1 </link>
+<title>OSN_Discovery_Channel_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2494.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_Discovery_Channel_HD </link>
 </item>
 <item>
-<title>UK-ESPN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3522.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-ESPN </link>
+<title>OSN_Nat_Geo_Wild_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2490.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_Nat_Geo_Wild_HD </link>
 </item>
 <item>
-<title>USA-CNBC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3521.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-CNBC </link>
+<title>OSN_Fight_Network_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2495.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_Fight_Network_HD </link>
 </item>
 <item>
-<title>USA-CBSN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3536.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-CBSN </link>
+<title>OSN_WWE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2500.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_WWE </link>
 </item>
 <item>
-<title>USA-Bloomberg</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3520.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-Bloomberg </link>
+<title>OSN_Sports_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2499.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_Sports_1 </link>
 </item>
-
-
+<item>
+<title>OSN_Sports_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2498.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_Sports_2 </link>
+</item>
+<item>
+<title>OSN_Sports_3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2496.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_Sports_3 </link>
+</item>
+<item>
+<title>OSN_Sports_4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2497.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_Sports_4 </link>
+</item>
+<item>
+<title>XXX_VENUS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1941.ts&amp;streamtype=TSDOWNLOADER&amp;name=XXX_VENUS </link>
+</item>
+<item>
+<title>XXX_PENTHOUSE_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1943.ts&amp;streamtype=TSDOWNLOADER&amp;name=XXX_PENTHOUSE_HD </link>
+</item>
+<item>
+<title>XXX_JASMIN_TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1944.ts&amp;streamtype=TSDOWNLOADER&amp;name=XXX_JASMIN_TV </link>
+</item>
+<item>
+<title>XXX_HOT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1945.ts&amp;streamtype=TSDOWNLOADER&amp;name=XXX_HOT </link>
+</item>
+<item>
+<title>ADULT_Sct_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2153.ts&amp;streamtype=TSDOWNLOADER&amp;name=ADULT_Sct_HD </link>
+</item>
+<item>
+<title>ADULT_Sct</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2154.ts&amp;streamtype=TSDOWNLOADER&amp;name=ADULT_Sct </link>
+</item>
+<item>
+<title>ADULT_RedLight_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2155.ts&amp;streamtype=TSDOWNLOADER&amp;name=ADULT_RedLight_HD </link>
+</item>
+<item>
+<title>ADULT_Hustler_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2156.ts&amp;streamtype=TSDOWNLOADER&amp;name=ADULT_Hustler_HD </link>
+</item>
+<item>
+<title>ADULT_Exotica_Tv</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2157.ts&amp;streamtype=TSDOWNLOADER&amp;name=ADULT_Exotica_Tv </link>
+</item>
+<item>
+<title>ADULT_CentoxCento_Tv</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2158.ts&amp;streamtype=TSDOWNLOADER&amp;name=ADULT_CentoxCento_Tv </link>
+</item>
+<item>
+<title>ADULT_Brazzers</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2159.ts&amp;streamtype=TSDOWNLOADER&amp;name=ADULT_Brazzers </link>
+</item>
 
 
 

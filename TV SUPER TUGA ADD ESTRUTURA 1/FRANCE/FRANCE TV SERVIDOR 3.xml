@@ -25,7 +25,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 16-02-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 17-02-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
@@ -35,486 +35,618 @@
 
 
 
-
 <item>
-<title>FR-TF1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3341.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TF1 </link>
+<title>FR_TF1_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1283.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TF1_HD </link>
 </item>
 <item>
-<title>FR-M6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3310.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-M6 </link>
+<title>FR_M6_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1288.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_M6_HD </link>
 </item>
 <item>
-<title>FR-France2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3300.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-France2 </link>
+<title>FR_Nrj12_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1298.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Nrj12_HD </link>
 </item>
 <item>
-<title>FR-France3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3301.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-France3 </link>
+<title>FR_France_2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1284.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_France_2HD </link>
 </item>
 <item>
-<title>FR-FRANCE-4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/1951.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-FRANCE-4 </link>
+<title>FR_France_3HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1285.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_France_3HD </link>
 </item>
 <item>
-<title>FR-France5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3302.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-France5 </link>
+<title>FR_France_4HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1286.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_France_4HD </link>
 </item>
 <item>
-<title>FR-FranceO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3304.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-FranceO </link>
+<title>FR_France_5HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1287.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_France_5HD </link>
 </item>
 <item>
-<title>FR-France_24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3303.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-France_24 </link>
+<title>FR_France_O</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1393.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_France_O </link>
 </item>
 <item>
-<title>FR-W9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3347.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-W9 </link>
+<title>FR_RTL9_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1292.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_RTL9_HD </link>
 </item>
 <item>
-<title>FR-6TER</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3262.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-6TER </link>
+<title>FR_C8_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1295.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_C8_HD </link>
 </item>
 <item>
-<title>FR-D8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3286.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-D8 </link>
+<title>FR_W9_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1297.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_W9_HD </link>
 </item>
 <item>
-<title>FR-HD1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3306.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-HD1 </link>
+<title>FR_D17</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2324.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_D17 </link>
 </item>
 <item>
-<title>FR-D17</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3285.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-D17 </link>
+<title>FR_Syfy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2419.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Syfy </link>
 </item>
 <item>
-<title>FR-Canal+</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3271.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Canal+ </link>
+<title>FR_NT1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2230.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NT1 </link>
 </item>
 <item>
-<title>FR-Canal+_cinema</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3272.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Canal+_cinema </link>
+<title>FR_HD1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2237.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_HD1 </link>
 </item>
 <item>
-<title>FR-Canal+_Decale</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3273.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Canal+_Decale </link>
+<title>FR_6ter_hd</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1299.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_6ter_hd </link>
 </item>
 <item>
-<title>FR-Canal+Family</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/4570.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Canal+Family </link>
+<title>FR_TvBreizh</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2698.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TvBreizh </link>
 </item>
 <item>
-<title>FR-Cine+_Famiz</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3274.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Cine+_Famiz </link>
+<title>FR_Arte_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1289.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Arte_HD </link>
 </item>
 <item>
-<title>FR-Canal+_Series</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3275.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Canal+_Series </link>
+<title>FR_Teva_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1294.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Teva_HD </link>
 </item>
 <item>
-<title>FR-Cine+_Frisson</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3282.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Cine+_Frisson </link>
+<title>FR_Cherie25</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2444.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cherie25 </link>
 </item>
 <item>
-<title>FR-Cine+_Emotion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3281.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Cine+_Emotion </link>
+<title>FR_Numero_23</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2715.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Numero_23 </link>
 </item>
 <item>
-<title>FR-Cine+_Premier</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3283.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Cine+_Premier </link>
+<title>FR_NrjTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2695.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NrjTV </link>
 </item>
 <item>
-<title>FR-Ciné+_Classic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5353.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Ciné+_Classic </link>
+<title>FR_M6_Music</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2160.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_M6_Music </link>
 </item>
 <item>
-<title>FR-Cine_FX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3280.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Cine_FX </link>
+<title>FR_Mtv_Hits</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1394.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Mtv_Hits </link>
 </item>
 <item>
-<title>FR-OCS_MAX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3326.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-OCS_MAX </link>
+<title>FR_Cstar</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2717.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cstar </link>
 </item>
 <item>
-<title>FR-OCS_Geants</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3325.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-OCS_Geants </link>
+<title>FR_NrjHits</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2694.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NrjHits </link>
 </item>
 <item>
-<title>FR-OCS_City</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3324.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-OCS_City </link>
+<title>FR_Virgine</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2408.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Virgine </link>
 </item>
 <item>
-<title>FR-OCS_CHOC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3323.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-OCS_CHOC </link>
+<title>ooooCINEMAoooo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1300.ts&amp;streamtype=TSDOWNLOADER&amp;name=ooooCINEMAoooo </link>
 </item>
 <item>
-<title>FR-TCM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3338.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TCM </link>
+<title>FR_Canal_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1301.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_HD </link>
 </item>
 <item>
-<title>FR-Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3355.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Action </link>
+<title>FR_Canal_Cinema_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1302.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Cinema_HD </link>
 </item>
 <item>
-<title>FR-Paris_premiere</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3327.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Paris_premiere </link>
+<title>FR_Canal_Decale_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1304.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Decale_HD </link>
 </item>
 <item>
-<title>FR-13eme_Rue</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3261.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-13eme_Rue </link>
+<title>FR_Canal_Series_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1305.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Series_HD </link>
 </item>
 <item>
-<title>FR-TV_Breizh</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3349.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TV_Breizh </link>
+<title>FR_Canal_Family_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1303.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Family_HD </link>
 </item>
 <item>
-<title>FR-Serie_Club</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3336.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Serie_Club </link>
+<title>FR_Cine_Premier_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1307.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cine_Premier_HD </link>
 </item>
 <item>
-<title>FR-TMC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3343.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TMC </link>
+<title>FR_Cine_Frisson_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1306.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cine_Frisson_HD </link>
 </item>
 <item>
-<title>FR-Syfy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3337.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Syfy </link>
+<title>FR_Cine_Classic_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1310.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cine_Classic_HD </link>
 </item>
 <item>
-<title>FR-NT_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3322.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-NT_1 </link>
+<title>FR_Cine_Emotion_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1308.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cine_Emotion_HD </link>
 </item>
 <item>
-<title>FR-TEVA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3340.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TEVA </link>
+<title>FR_Cine_Famiz_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1309.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cine_Famiz_HD </link>
 </item>
 <item>
-<title>FR-Cherie_25</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3279.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Cherie_25 </link>
+<title>FR_CINE_Polar</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2350.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CINE_Polar </link>
 </item>
 <item>
-<title>FR-NRJ_12</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3321.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-NRJ_12 </link>
+<title>FR_Cine_Fx</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1319.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cine_Fx </link>
 </item>
 <item>
-<title>FR-RTL9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3332.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-RTL9 </link>
+<title>FR_Ocs_Max</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1317.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Ocs_Max </link>
 </item>
 <item>
-<title>FR-Weo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3348.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Weo </link>
+<title>FR_Ocs_City</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1314.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Ocs_City </link>
 </item>
 <item>
-<title>FR-Arte</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3264.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Arte </link>
+<title>FR_Ocs_Geants</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1316.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Ocs_Geants </link>
 </item>
 <item>
-<title>FR-TV5_Monde</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3344.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TV5_Monde </link>
+<title>FR_Ocs_Choc</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1315.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Ocs_Choc </link>
 </item>
 <item>
-<title>FR-June_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3308.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-June_TV </link>
+<title>FR_Orange</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2678.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Orange </link>
 </item>
 <item>
-<title>FR-Ushuaïa_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3345.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Ushuaïa_TV </link>
+<title>FR_Orange_horreur</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2682.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Orange_horreur </link>
 </item>
 <item>
-<title>FR-Animaux</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3263.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Animaux </link>
+<title>FR_Orange_Aventure</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2681.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Orange_Aventure </link>
 </item>
 <item>
-<title>FR-Chasse-et-Peche</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3278.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Chasse-et-Peche </link>
+<title>FR_Orange_Comedie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2683.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Orange_Comedie </link>
 </item>
 <item>
-<title>FR-PLANETE+</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3328.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-PLANETE+ </link>
+<title>FR_Orange_Documentaire</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2679.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Orange_Documentaire </link>
 </item>
 <item>
-<title>FR-PLANETE+_CI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3330.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-PLANETE+_CI </link>
+<title>FR_Canal_Savoir</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2768.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Savoir </link>
 </item>
 <item>
-<title>FR-Planete+_AE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3329.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Planete+_AE </link>
+<title>FR_Tmc_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1291.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Tmc_HD </link>
 </item>
 <item>
-<title>FR-Science_Vie</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3335.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Science_Vie </link>
+<title>FR_AB_1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2769.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_AB_1HD </link>
 </item>
 <item>
-<title>FR-Toute_l'histoire</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3350.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Toute_l'histoire </link>
+<title>FR_Action_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1318.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Action_HD </link>
 </item>
 <item>
-<title>FR-NatGeo_Wild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3319.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-NatGeo_Wild </link>
+<title>FR_Entertainment</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2764.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Entertainment </link>
 </item>
 <item>
-<title>FR-National_Geographic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3320.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-National_Geographic </link>
+<title>FR_13emeRueHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1322.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_13emeRueHD </link>
 </item>
 <item>
-<title>FR-Discovery_Science</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3288.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Discovery_Science </link>
+<title>FR_Serie_Club_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1328.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Serie_Club_HD </link>
 </item>
 <item>
-<title>FR-Discovery</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3287.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Discovery </link>
+<title>FR_Paris_Premiere_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1324.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Paris_Premiere_HD </link>
 </item>
 <item>
-<title>FR-Canal_J</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3270.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Canal_J </link>
+<title>oooo_CSAT_SPORT_oooo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1360.ts&amp;streamtype=TSDOWNLOADER&amp;name=oooo_CSAT_SPORT_oooo </link>
 </item>
 <item>
-<title>FR-Tiji</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3342.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Tiji </link>
+<title>FR_Canal_Sport_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1361.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Sport_HD </link>
 </item>
 <item>
-<title>FR-Piwi</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3354.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Piwi </link>
+<title>FR_Bein_Sports_1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1154.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Bein_Sports_1HD </link>
 </item>
 <item>
-<title>FR-Gulli</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3305.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Gulli </link>
+<title>FR_Bein_Sports_2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1155.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Bein_Sports_2HD </link>
 </item>
 <item>
-<title>FR-TeleToonPlus</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3339.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TeleToonPlus </link>
+<title>FR_Bein_Sports_3HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1156.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Bein_Sports_3HD </link>
 </item>
 <item>
-<title>FR-Disney_Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3291.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Disney_Junior </link>
+<title>FR_Sfr_Sport_1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2675.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Sfr_Sport_1HD </link>
 </item>
 <item>
-<title>FR-Disney_Cinemagic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3290.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Disney_Cinemagic </link>
+<title>FR_Sfr_Sport_2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2676.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Sfr_Sport_2HD </link>
 </item>
 <item>
-<title>FR-Disney_Cinema</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3352.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Disney_Cinema </link>
+<title>FR_Sfr_Sport_3HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2677.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Sfr_Sport_3HD </link>
 </item>
 <item>
-<title>FR-Cartoon_Network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3277.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Cartoon_Network </link>
+<title>FR_Bein_Max4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2409.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Bein_Max4 </link>
 </item>
 <item>
-<title>FR-Disney_Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3289.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Disney_Channel </link>
+<title>FR_Bein_Max5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2410.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Bein_Max5 </link>
 </item>
 <item>
-<title>FR-Comedie+</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3284.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Comedie+ </link>
+<title>FR_Bein_Max6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2411.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Bein_Max6 </link>
 </item>
 <item>
-<title></title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3353.ts&amp;streamtype=TSDOWNLOADER&amp;name= </link>
+<title>FR_Bein_Max7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2412.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Bein_Max7 </link>
 </item>
 <item>
-<title>FR-Mangas</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3311.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Mangas </link>
+<title>FR_Bein_Max8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2413.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Bein_Max8 </link>
 </item>
 <item>
-<title>FR-Boing</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3292.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Boing </link>
+<title>FR_Infosport_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1364.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Infosport_HD </link>
 </item>
 <item>
-<title>FR-Canal+_sport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3276.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Canal+_sport </link>
+<title>FR_Kombat-Sport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2414.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Kombat-Sport </link>
 </item>
 <item>
-<title>FR-SFR-SPORT1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/4295.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-SFR-SPORT1_HD </link>
+<title>FR_AB_Moteurs</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2719.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_AB_Moteurs </link>
 </item>
 <item>
-<title>FR-SFR-SPORT2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/4296.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-SFR-SPORT2_HD </link>
+<title>FR_Eurosport_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2147.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Eurosport_HD </link>
 </item>
 <item>
-<title>FR-SFR-SPORT3_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/4297.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-SFR-SPORT3_HD </link>
+<title>FR_Eurosport_1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1365.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Eurosport_1HD </link>
 </item>
 <item>
-<title>FR-Bein-Sports-1_FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/2268.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Bein-Sports-1_FR </link>
+<title>FR_Eurosport_2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2146.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Eurosport_2HD </link>
 </item>
 <item>
-<title>FR-Bein-Sports-2_FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/2267.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Bein-Sports-2_FR </link>
+<title>FR_Foot_24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2168.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Foot_24 </link>
 </item>
 <item>
-<title>FR-Bein-Sports-3_FR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/2266.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Bein-Sports-3_FR </link>
+<title>FR_Equidia_Live</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1236.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Equidia_Live </link>
 </item>
 <item>
-<title>beIN_SPORTS1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3265.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS1 </link>
+<title>FR_L_Equipe_21</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1372.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_L_Equipe_21 </link>
 </item>
 <item>
-<title>BeIN-Sport2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3266.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeIN-Sport2 </link>
+<title>FR_MaChaine_Sport_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2415.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_MaChaine_Sport_HD </link>
 </item>
 <item>
-<title>FR-BeinSport3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3267.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-BeinSport3 </link>
+<title>FR_GameOne_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2729.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_GameOne_HD </link>
 </item>
 <item>
-<title>FR-Foot+</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3299.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Foot+ </link>
+<title>ooooCultureoooo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1373.ts&amp;streamtype=TSDOWNLOADER&amp;name=ooooCultureoooo </link>
 </item>
 <item>
-<title>FR-Foot24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5354.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Foot24 </link>
+<title>FR_Voyage_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1383.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Voyage_HD </link>
 </item>
 <item>
-<title>FR-Eurosport_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3297.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Eurosport_1 </link>
+<title>FR_Ushuaia_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1380.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Ushuaia_HD </link>
 </item>
 <item>
-<title>FR-Eurosport_2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3298.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Eurosport_2 </link>
+<title>FR_Planete_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1374.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Planete_HD </link>
 </item>
 <item>
-<title>FR-L'Equipe_21</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3295.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-L'Equipe_21 </link>
+<title>FR_Planete-CI_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1375.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Planete-CI_HD </link>
 </item>
 <item>
-<title>FR-Equidia_Live</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3294.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Equidia_Live </link>
+<title>FR_Planete-AE_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1376.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Planete-AE_HD </link>
 </item>
 <item>
-<title>FR-Equidia_Life</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3293.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Equidia_Life </link>
+<title>FR_Animaux_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1384.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Animaux_HD </link>
 </item>
 <item>
-<title>FR-Euronews</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3296.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Euronews </link>
+<title>FR_Chasse-et-Peche</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1385.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Chasse-et-Peche </link>
 </item>
 <item>
-<title>FR-BFM-TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3269.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-BFM-TV </link>
+<title>FR_Sciences-et-Vie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1386.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Sciences-et-Vie </link>
 </item>
 <item>
-<title>FR-AB_Moteurs</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3268.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-AB_Moteurs </link>
+<title>FR_NatGeo_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1378.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NatGeo_HD </link>
 </item>
 <item>
-<title>FR-RMC_Decouverte</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3331.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-RMC_Decouverte </link>
+<title>FR_NatGeoWild_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1379.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NatGeoWild_HD </link>
 </item>
 <item>
-<title>FR-Paramount_Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3351.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Paramount_Channel </link>
+<title>FR_Discovery_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1924.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Discovery_HD </link>
 </item>
 <item>
-<title>FR-iTELE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3307.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-iTELE </link>
+<title>FR_DiscoverySciences</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1382.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_DiscoverySciences </link>
 </item>
 <item>
-<title>FR-LaUne</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3309.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-LaUne </link>
+<title>FR_RmcDecouverte</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1387.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_RmcDecouverte </link>
 </item>
 <item>
-<title>FR-RTS_Un</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3334.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-RTS_Un </link>
+<title>FR_TouteHistoire</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2238.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TouteHistoire </link>
 </item>
 <item>
-<title>FR-RTS_Deux</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3333.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-RTS_Deux </link>
+<title>oooo_CSAT_INFOS_oooo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1331.ts&amp;streamtype=TSDOWNLOADER&amp;name=oooo_CSAT_INFOS_oooo </link>
 </item>
 <item>
-<title>FR-C-STAR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-C-STAR </link>
+<title>FR_ITele</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1334.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_ITele </link>
 </item>
 <item>
-<title>FR-rfm</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/1943.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-rfm </link>
+<title>FR_Bfm_TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1335.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Bfm_TV </link>
 </item>
 <item>
-<title>FR-Movies1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3312.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Movies1 </link>
+<title>FR_EuroNews</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1923.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_EuroNews </link>
 </item>
 <item>
-<title>FR-Movies2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3313.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Movies2 </link>
+<title>FR_France24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2323.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_France24 </link>
 </item>
 <item>
-<title>FR-Movies3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3314.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Movies3 </link>
+<title>FR_TV5_Monde</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2343.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TV5_Monde </link>
 </item>
 <item>
-<title>FR-Movies4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3315.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Movies4 </link>
+<title>FR_Bfm_Business</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2438.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Bfm_Business </link>
 </item>
 <item>
-<title>FR-Movies5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3316.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Movies5 </link>
+<title>oooo_CSAT_JEUNESSE_oooo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1338.ts&amp;streamtype=TSDOWNLOADER&amp;name=oooo_CSAT_JEUNESSE_oooo </link>
 </item>
 <item>
-<title>FR-Movies6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3317.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Movies6 </link>
+<title>FR_Boomerang</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2652.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Boomerang </link>
 </item>
 <item>
-<title>FR-Movies7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3318.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Movies7 </link>
+<title>FR_Nickelodeon_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1332.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Nickelodeon_HD </link>
 </item>
 <item>
-<title>FR-beinmax4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6279.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-beinmax4 </link>
+<title>FR_Disney_XD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1346.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Disney_XD </link>
 </item>
 <item>
-<title>FR-beinmax5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6280.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-beinmax5 </link>
+<title>FR_Disney_Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1348.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Disney_Junior </link>
 </item>
 <item>
-<title>FR-E!</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6274.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-E! </link>
+<title>FR_Disney_Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1347.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Disney_Channel </link>
 </item>
 <item>
-<title>FR-Golf+</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6273.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Golf+ </link>
+<title>FR_Disney_Channel+1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2718.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Disney_Channel+1HD </link>
 </item>
 <item>
-<title>FR-cstar</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6276.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-cstar </link>
+<title>FR_Disney_Cinema_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2699.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Disney_Cinema_HD </link>
 </item>
 <item>
-<title>FR-CH-RSI-La1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5998.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-CH-RSI-La1 </link>
+<title>FR_CartoonNetwork_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1353.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CartoonNetwork_HD </link>
 </item>
 <item>
-<title>FR-CH-RSI-La2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5999.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-CH-RSI-La2 </link>
+<title>FR_Gulli</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1341.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Gulli </link>
 </item>
 <item>
-<title>FR-CH-RTS-Deux</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5997.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-CH-RTS-Deux </link>
+<title>FR_CanalJ</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1337.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CanalJ </link>
 </item>
 <item>
-<title>FR-CH-RTS-Un</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5995.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-CH-RTS-Un </link>
+<title>FR_Piwi</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1340.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Piwi </link>
 </item>
 <item>
-<title>FR-CH-SRF-1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5994.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-CH-SRF-1 </link>
+<title>FR_Teletoon</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1343.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Teletoon </link>
 </item>
 <item>
-<title>FR-CH-SRF-2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5996.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-CH-SRF-2 </link>
+<title>FR_Mangas</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2177.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Mangas </link>
 </item>
 <item>
-<title>FR-DISNEY_XD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6272.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-DISNEY_XD </link>
+<title>FR_Tiji</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2369.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Tiji </link>
 </item>
 <item>
-<title>FR-elle-girl</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6278.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-elle-girl </link>
+<title>FR_A-la_Carte_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2270.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A-la_Carte_1 </link>
 </item>
-
-
-
+<item>
+<title>FR_A-la_Carte_10</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2279.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A-la_Carte_10 </link>
+</item>
+<item>
+<title>FR_A-la_Carte_11</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2280.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A-la_Carte_11 </link>
+</item>
+<item>
+<title>FR_A-la_Carte_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2271.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A-la_Carte_2 </link>
+</item>
+<item>
+<title>FR_A-la_Carte_3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2272.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A-la_Carte_3 </link>
+</item>
+<item>
+<title>FR_A-la_Carte_4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2273.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A-la_Carte_4 </link>
+</item>
+<item>
+<title>FR_A-la_Carte_5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2274.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A-la_Carte_5 </link>
+</item>
+<item>
+<title>FR_A-la_Carte_6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2275.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A-la_Carte_6 </link>
+</item>
+<item>
+<title>FR_A-la_Carte_7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2276.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A-la_Carte_7 </link>
+</item>
+<item>
+<title>FR_A-la_Carte_8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2277.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A-la_Carte_8 </link>
+</item>
+<item>
+<title>FR_A-la_Carte_9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2278.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A-la_Carte_9 </link>
+</item>
+<item>
+<title>FR_Canal_Play_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2637.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Play_1 </link>
+</item>
+<item>
+<title>FR_Canal_Play_10</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2650.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Play_10 </link>
+</item>
+<item>
+<title>FR_Canal_Play_11</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2649.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Play_11 </link>
+</item>
+<item>
+<title>FR_Canal_Play_12</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2648.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Play_12 </link>
+</item>
+<item>
+<title>FR_Canal_Play_13</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2647.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Play_13 </link>
+</item>
+<item>
+<title>FR_Canal_Play_14</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2646.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Play_14 </link>
+</item>
+<item>
+<title>FR_Canal_Play_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2638.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Play_2 </link>
+</item>
+<item>
+<title>FR_Canal_Play_3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2639.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Play_3 </link>
+</item>
+<item>
+<title>FR_Canal_Play_4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2640.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Play_4 </link>
+</item>
+<item>
+<title>FR_Canal_Play_5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2641.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Play_5 </link>
+</item>
+<item>
+<title>FR_Canal_Play_6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2642.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Play_6 </link>
+</item>
+<item>
+<title>FR_Canal_Play_7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2643.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Play_7 </link>
+</item>
+<item>
+<title>FR_Canal_Play_8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2644.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Play_8 </link>
+</item>
+<item>
+<title>FR_Canal_Play_9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2645.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Play_9 </link>
+</item>
+<item>
+<title>ooooRadio_Franceooo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2396.ts&amp;streamtype=TSDOWNLOADER&amp;name=ooooRadio_Franceooo </link>
+</item>
+<item>
+<title>FR_SKYROCK_RADIO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2261.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_SKYROCK_RADIO </link>
+</item>
+<item>
+<title>FR_RTL_RADIO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2262.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_RTL_RADIO </link>
+</item>
+<item>
+<title>FR_RMC_RADIO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2259.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_RMC_RADIO </link>
+</item>
+<item>
+<title>FR_NRJ_HITS_RADIO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2260.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NRJ_HITS_RADIO </link>
+</item>
+<item>
+<title>FR_NOSTALGIE_RADIO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2267.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NOSTALGIE_RADIO </link>
+</item>
+<item>
+<title>FR_NICE_RADIO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2269.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NICE_RADIO </link>
+</item>
+<item>
+<title>FR_INFOFRANCE_RADIO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2268.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_INFOFRANCE_RADIO </link>
+</item>
+<item>
+<title>FR_CherieFM_RADIO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2263.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CherieFM_RADIO </link>
+</item>
+<item>
+<title>FR_ABC_Lounge_RADIO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2266.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_ABC_Lounge_RADIO </link>
+</item>
 
 
 <item>       

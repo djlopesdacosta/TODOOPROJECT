@@ -25,264 +25,399 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 16-02-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 17-02-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
+
+
+
+
+
 <item>
-<title>DE-Das_Erste</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3011.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Das_Erste </link>
+<title>DE_ZDF_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2164.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_ZDF_HD </link>
 </item>
 <item>
-<title>DE-ZDF</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3098.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-ZDF </link>
+<title>DE_ZDF_Info</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2756.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_ZDF_Info </link>
 </item>
 <item>
-<title>DE-RTL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3056.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-RTL </link>
+<title>DE_24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2762.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_24 </link>
 </item>
 <item>
-<title>DE-RTL_2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3057.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-RTL_2 </link>
+<title>DE_DW</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2761.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_DW </link>
 </item>
 <item>
-<title>DE-RTL_Nitro</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3058.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-RTL_Nitro </link>
+<title>DE_Das_Erste_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2232.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Das_Erste_HD </link>
 </item>
 <item>
-<title>DE-VOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3096.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-VOX </link>
+<title>DE_ORF_1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2049.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_ORF_1HD </link>
 </item>
 <item>
-<title>DE-Pro-7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3053.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Pro-7 </link>
+<title>DE_ORF_2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2758.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_ORF_2HD </link>
 </item>
 <item>
-<title>DE-Kabel_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3031.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Kabel_1 </link>
+<title>DE_ORF_Eins</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2759.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_ORF_Eins </link>
 </item>
 <item>
-<title>DE-Sat_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3059.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Sat_1 </link>
+<title>DE_Sat</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2050.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sat </link>
 </item>
 <item>
-<title>DE-N24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3045.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-N24 </link>
+<title>DE_Arte</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2754.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Arte </link>
 </item>
 <item>
-<title>DE-N-TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3044.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-N-TV </link>
+<title>DE_Syfy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2711.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Syfy </link>
 </item>
 <item>
-<title>DE-3sat</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3009.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-3sat </link>
+<title>DE_Vox_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2163.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Vox_HD </link>
 </item>
 <item>
-<title>DE-SKY_Cinema</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3068.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SKY_Cinema </link>
+<title>DE_Fox_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2165.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Fox_HD </link>
 </item>
 <item>
-<title>DE-Sky_cinema+1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/6590.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Sky_cinema+1 </link>
+<title>DE_Wdr_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2757.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Wdr_HD </link>
 </item>
 <item>
-<title>DE-Sky_cinema+24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3070.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Sky_cinema+24 </link>
+<title>DE_Tnt_Film</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2327.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Tnt_Film </link>
 </item>
 <item>
-<title>DE-Sky_Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3064.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Sky_Action </link>
+<title>DE_RTL_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1893.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_RTL_HD </link>
 </item>
 <item>
-<title>DE-Sky_Comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3071.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Sky_Comedy </link>
+<title>DE_RTL_2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2162.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_RTL_2HD </link>
 </item>
 <item>
-<title>DE-SKY_HITS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3073.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SKY_HITS </link>
+<title>DE_RTL_Crime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2620.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_RTL_Crime </link>
 </item>
 <item>
-<title>DE-Sky_Atlantic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3065.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Sky_Atlantic </link>
+<title>DE_RTL_Passion</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2716.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_RTL_Passion </link>
 </item>
 <item>
-<title>DE-Sky-Fan_Zone-DE_Hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5710.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Sky-Fan_Zone-DE_Hd </link>
+<title>DE_Sky_Planet</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2329.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Planet </link>
 </item>
 <item>
-<title>DE-Sky_Emotion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3072.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Sky_Emotion </link>
+<title>DE_Discovery_Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1885.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Discovery_Channel </link>
 </item>
 <item>
-<title>DE-Sky_Krimi</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3075.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Sky_Krimi </link>
+<title>DE_NationalGeograpic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1881.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_NationalGeograpic </link>
 </item>
 <item>
-<title>DE-SyFy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3087.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SyFy </link>
+<title>De_NatlGeo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2167.ts&amp;streamtype=TSDOWNLOADER&amp;name=De_NatlGeo </link>
 </item>
 <item>
-<title>DE-MGM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3034.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-MGM </link>
+<title>DE_Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2619.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Junior </link>
 </item>
 <item>
-<title>DE-FOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3027.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-FOX </link>
+<title>DE_DisneyJunior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2618.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_DisneyJunior </link>
 </item>
 <item>
-<title>DE-AXN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3014.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-AXN </link>
+<title>DE_DisneyChannel_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2169.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_DisneyChannel_HD </link>
 </item>
 <item>
-<title>DE-TNT_Film</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3093.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-TNT_Film </link>
+<title>DE_DisneyCinemagic_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1894.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_DisneyCinemagic_HD </link>
 </item>
 <item>
-<title>DE-Sport1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3080.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Sport1 </link>
+<title>DE_Boomerang</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2709.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Boomerang </link>
 </item>
 <item>
-<title>DE-Sky_Sport1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3076.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Sky_Sport1 </link>
+<title>DE_Nickelodeon_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2231.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Nickelodeon_HD </link>
 </item>
 <item>
-<title>DE-Sky_Sport2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3077.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Sky_Sport2 </link>
+<title>ooooSKY_DEUTSHoooo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2745.ts&amp;streamtype=TSDOWNLOADER&amp;name=ooooSKY_DEUTSHoooo </link>
 </item>
 <item>
-<title>DE-SKY-Bundesliga-1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3066.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SKY-Bundesliga-1 </link>
+<title>DE_Sky_Axn_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1898.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Axn_HD </link>
 </item>
 <item>
-<title>DE-SKY-Bundesliga-2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3067.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SKY-Bundesliga-2 </link>
+<title>DE_Sky_Action_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1891.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Action_HD </link>
 </item>
 <item>
-<title>DE-Sky_Bundesliga3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5711.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Sky_Bundesliga3 </link>
+<title>DE_Sky_Cinema_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1887.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Cinema_HD </link>
 </item>
 <item>
-<title>DE-Sky_Bundesliga4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5712.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Sky_Bundesliga4 </link>
+<title>DE_Sky_Cinema_1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1940.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Cinema_1HD </link>
 </item>
 <item>
-<title>DE-Sky_Bundesliga5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5713.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Sky_Bundesliga5 </link>
+<title>DE_Sky_Cinema_24HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1888.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Cinema_24HD </link>
 </item>
 <item>
-<title>DE-Sky_Bundesliga6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5714.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Sky_Bundesliga6 </link>
+<title>DE_Sky_Emotion_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1883.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Emotion_HD </link>
 </item>
 <item>
-<title>DE-Sky_Bundesliga7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5715.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Sky_Bundesliga7 </link>
+<title>DE_Sky_Comedy_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1886.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Comedy_HD </link>
 </item>
 <item>
-<title>DE-Nat-Geo_wild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3046.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Nat-Geo_wild </link>
+<title>DE_Sky_Romance_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2714.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Romance_HD </link>
 </item>
 <item>
-<title>DE-National_Geographic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3047.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-National_Geographic </link>
+<title>DE_Sky_Atlantic_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2328.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Atlantic_HD </link>
 </item>
 <item>
-<title>DE-Discovery_Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3018.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Discovery_Channel </link>
+<title>DE_Sky_13Th_Street</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1892.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_13Th_Street </link>
 </item>
 <item>
-<title>DE-Movies_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3035.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Movies_1 </link>
+<title>DE_Sky_Select_1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1937.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Select_1HD </link>
 </item>
 <item>
-<title>DE-Movies_2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3036.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Movies_2 </link>
+<title>DE_Sky_Select_2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2506.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Select_2HD </link>
 </item>
 <item>
-<title>DE-Movies_3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3037.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Movies_3 </link>
+<title>DE_Sky_Select_3HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1936.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Select_3HD </link>
 </item>
 <item>
-<title>DE-Movies_4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3038.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Movies_4 </link>
+<title>DE_Sky_Select_4HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1935.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Select_4HD </link>
 </item>
 <item>
-<title>DE-Movies_5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3039.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Movies_5 </link>
+<title>DE_Sky_Select_5HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1934.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Select_5HD </link>
 </item>
 <item>
-<title>DE-Movies_6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3040.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Movies_6 </link>
+<title>DE_Sky_Select_6HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1933.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Select_6HD </link>
 </item>
 <item>
-<title>DE-Movies_7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3041.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Movies_7 </link>
+<title>DE_Sky_Select_7HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1932.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Select_7HD </link>
 </item>
 <item>
-<title>DE-Movies_8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3042.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Movies_8 </link>
+<title>DE_Sky_Select_8HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1931.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Select_8HD </link>
 </item>
 <item>
-<title>DE-TNT_Serie</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3094.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-TNT_Serie </link>
+<title>DE_Sky_Select_9HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1930.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Select_9HD </link>
 </item>
 <item>
-<title>DE-Sky-Sp_Austria</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3079.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Sky-Sp_Austria </link>
+<title>ooooDEUTSH_SPORToooo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2746.ts&amp;streamtype=TSDOWNLOADER&amp;name=ooooDEUTSH_SPORToooo </link>
 </item>
 <item>
-<title>DE-Sky_Nostalgie</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3074.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Sky_Nostalgie </link>
+<title>DE_SkySportNewsHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2703.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SkySportNewsHD </link>
 </item>
 <item>
-<title>DE-Pro7_Max</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3054.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Pro7_Max </link>
+<title>DE_Arena_Sport_1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2704.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Arena_Sport_1HD </link>
 </item>
 <item>
-<title>DE-13th_Street</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5938.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-13th_Street </link>
+<title>DE_Arena_Sport_2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2705.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Arena_Sport_2HD </link>
 </item>
 <item>
-<title>DE-A_E</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5940.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-A_E </link>
+<title>DE_Arena_Sport_3HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2708.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Arena_Sport_3HD </link>
 </item>
 <item>
-<title>DE-Anixe</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5939.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Anixe </link>
+<title>DE_Arena_Sport_4HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2706.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Arena_Sport_4HD </link>
 </item>
 <item>
-<title>DE-Boomerang</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5941.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Boomerang </link>
+<title>DE_Arena_Sport_5HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2707.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Arena_Sport_5HD </link>
 </item>
 <item>
-<title>DE-Disney_Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5942.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Disney_Channel </link>
+<title>DE_Sky_sport_1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2700.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_sport_1HD </link>
 </item>
 <item>
-<title>DE-Disney_Cinemagic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5943.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Disney_Cinemagic </link>
+<title>DE_Sky_sport_2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2701.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_sport_2HD </link>
 </item>
 <item>
-<title>DE-Disney_Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5944.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Disney_Junior </link>
+<title>DE_Sky_Sport_Austria</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2712.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Sport_Austria </link>
 </item>
 <item>
-<title>DE-Disney_XD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5945.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Disney_XD </link>
+<title>DE_Sky_Bundesliga_1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1897.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Bundesliga_1HD </link>
 </item>
 <item>
-<title>DE-History_Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5946.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-History_Channel </link>
+<title>DE_Sky_Bundesliga_2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1896.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Bundesliga_2HD </link>
 </item>
 <item>
-<title>DE-Kika</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/5947.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Kika </link>
+<title>DE_Eurosport_1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2710.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Eurosport_1HD </link>
 </item>
 <item>
-<title>DE-ORF1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/canada/canada/3051.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-ORF1 </link>
+<title>DE_Sporttime_1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2702.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sporttime_1HD </link>
+</item>
+
+
+
+
+
+
+<item>
+<title>DE=Syfy-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/780.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Syfy-HD </link>
+</item>
+<item>
+<title>DE=RTL-Super-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/603.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=RTL-Super-HD </link>
+</item>
+<item>
+<title>DE=Sky-Dmax-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/595.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Sky-Dmax-HD </link>
+</item>
+<item>
+<title>DE=Sky-Comedy-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/589.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Sky-Comedy-HD </link>
+</item>
+<item>
+<title>DE=Sky-Bundesliga-1-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/785.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Sky-Bundesliga-1-HD </link>
+</item>
+<item>
+<title>DE=Sat-1-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/778.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Sat-1-HD </link>
+</item>
+<item>
+<title>DE=RTL-Passion-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/777.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=RTL-Passion-HD </link>
+</item>
+<item>
+<title>DE=RTL-Nitro-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/776.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=RTL-Nitro-HD </link>
+</item>
+<item>
+<title>DE=RTL-2-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/783.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=RTL-2-HD </link>
+</item>
+<item>
+<title>DE=Nat-Geo-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/784.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Nat-Geo-HD </link>
+</item>
+<item>
+<title>DE=Kika-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/782.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Kika-HD </link>
+</item>
+<item>
+<title>DE=History-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/590.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=History-HD </link>
+</item>
+<item>
+<title>DE=Arena-Sport-5-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/596.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Arena-Sport-5-HD </link>
+</item>
+<item>
+<title>DE=Arena-Sport-4-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/597.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Arena-Sport-4-HD </link>
+</item>
+<item>
+<title>DE=Arena-Sport-3-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/598.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Arena-Sport-3-HD </link>
+</item>
+<item>
+<title>DE=Arena-Sport-2-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/599.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Arena-Sport-2-HD </link>
+</item>
+<item>
+<title>DE=Arena-Sport-1-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/600.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Arena-Sport-1-HD </link>
+</item>
+<item>
+<title>DE=RTL-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/288.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=RTL-HD </link>
+</item>
+<item>
+<title>DE=WDR-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/290.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=WDR-HD </link>
+</item>
+<item>
+<title>DE=Sky-Sport-News-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/291.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Sky-Sport-News-HD </link>
+</item>
+<item>
+<title>DE=PRO-7-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/293.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=PRO-7-HD </link>
+</item>
+<item>
+<title>DE=Nat-Geo-Wild-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/289.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Nat-Geo-Wild-HD </link>
+</item>
+<item>
+<title>DE=Sky-Sport-1-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/285.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Sky-Sport-1-HD </link>
+</item>
+<item>
+<title>DE=Sky-Sport-2-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/286.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Sky-Sport-2-HD </link>
+</item>
+<item>
+<title>DE=ZDF-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/1134.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=ZDF-HD </link>
+</item>
+<item>
+<title>DE=VOX-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/1135.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=VOX-HD </link>
+</item>
+<item>
+<title>DE=TNT-Serie-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/1138.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=TNT-Serie-HD </link>
+</item>
+<item>
+<title>DE=Sky-Sport-Austria-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/1140.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Sky-Sport-Austria-HD </link>
+</item>
+<item>
+<title>DE=Phoenix-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/1136.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Phoenix-HD </link>
+</item>
+<item>
+<title>DE=ORF-2-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/1132.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=ORF-2-HD </link>
+</item>
+<item>
+<title>DE=RTL-Crime-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/1133.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=RTL-Crime-HD </link>
 </item>
 
 

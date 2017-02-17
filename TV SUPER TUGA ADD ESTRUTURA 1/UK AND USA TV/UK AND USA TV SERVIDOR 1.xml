@@ -17,7 +17,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 16-02-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 17-02-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -37,259 +37,281 @@
 
 
 
+<item>
+<title>UK=Disney-Junior-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/273.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=Disney-Junior-HD </link>
+</item>
+<item>
+<title>UK=Sky-Movies-Family-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/275.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=Sky-Movies-Family-HD </link>
+</item>
+<item>
+<title>UK=Sky-Movies-Drama-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/276.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=Sky-Movies-Drama-HD </link>
+</item>
+<item>
+<title>UK=Sky-Movies-Comedy-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/274.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=Sky-Movies-Comedy-HD </link>
+</item>
+<item>
+<title>UK=Sky-Sport-1-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/268.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=Sky-Sport-1-HD </link>
+</item>
+<item>
+<title>UK=Sky-Sport-2-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/269.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=Sky-Sport-2-HD </link>
+</item>
+<item>
+<title>UK=Sky-Sport-3-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/270.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=Sky-Sport-3-HD </link>
+</item>
+<item>
+<title>UK=Sky-Sport-5-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=Sky-Sport-5-HD </link>
+</item>
+<item>
+<title>UK=RTE-1-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=RTE-1-HD </link>
+</item>
+<item>
+<title>UK=Sky-Movies-Select-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/272.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=Sky-Movies-Select-HD </link>
+</item>
+<item>
+<title>UK=BBC-3-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/839.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=BBC-3-HD </link>
+</item>
+<item>
+<title>UK=BBC-2-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/853.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=BBC-2-HD </link>
+</item>
+<item>
+<title>UK=BBC-1-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/854.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=BBC-1-HD </link>
+</item>
+<item>
+<title>UK=Animal-Planet-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/841.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=Animal-Planet-HD </link>
+</item>
+<item>
+<title>UK=True-Movies-2-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/679.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=True-Movies-2-HD </link>
+</item>
+<item>
+<title>UK=True-Movies-1-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/680.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=True-Movies-1-HD </link>
+</item>
+<item>
+<title>UK=Sky-Sport-News-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/802.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=Sky-Sport-News-HD </link>
+</item>
+<item>
+<title>UK=Sky-Sport-F1-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/422.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=Sky-Sport-F1-HD </link>
+</item>
+<item>
+<title>UK=Sky-Sport-4-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/425.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=Sky-Sport-4-HD </link>
+</item>
+<item>
+<title>UK=Sky-Movies-Premiere-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/612.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=Sky-Movies-Premiere-HD </link>
+</item>
+<item>
+<title>UK=Sky-Movies-Action-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/627.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=Sky-Movies-Action-HD </link>
+</item>
+<item>
+<title>UK=RTE-2-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/804.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=RTE-2-HD </link>
+</item>
+<item>
+<title>UK=National-Geo-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/842.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=National-Geo-HD </link>
+</item>
+<item>
+<title>UK=Racing-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/720.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=Racing-HD </link>
+</item>
+<item>
+<title>UK=QVC-4-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/724.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=QVC-4-HD </link>
+</item>
+<item>
+<title>UK=ITV-4-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/845.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=ITV-4-HD </link>
+</item>
+<item>
+<title>UK=ITV-3-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/846.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=ITV-3-HD </link>
+</item>
+<item>
+<title>UK=ITV-2-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/847.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=ITV-2-HD </link>
+</item>
+<item>
+<title>UK=ITV-1-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/848.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=ITV-1-HD </link>
+</item>
+<item>
+<title>UK=Food-Network-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/849.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=Food-Network-HD </link>
+</item>
+<item>
+<title>UK=Disney-Channel-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/610.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=Disney-Channel-HD </link>
+</item>
+<item>
+<title>UK=Discovery-Science-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/850.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=Discovery-Science-HD </link>
+</item>
+<item>
+<title>UK=Discovery-Investigation-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/851.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=Discovery-Investigation-HD </link>
+</item>
+<item>
+<title>UK=Discovery-History-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/852.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=Discovery-History-HD </link>
+</item>
+<item>
+<title>UK=CBS-Reality-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/626.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=CBS-Reality-HD </link>
+</item>
+<item>
+<title>UK=CBS-Drama-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/629.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=CBS-Drama-HD </link>
+</item>
+<item>
+<title>UK=CBS-Action-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/624.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=CBS-Action-HD </link>
+</item>
+<item>
+<title>UK=BT-Sport-Extra-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/803.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=BT-Sport-Extra-HD </link>
+</item>
+<item>
+<title>UK=BT-Sport-2-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/421.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=BT-Sport-2-HD </link>
+</item>
+<item>
+<title>UK=BT-Sport-1-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/424.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=BT-Sport-1-HD </link>
+</item>
+<item>
+<title>UK=BBC-4-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/840.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=BBC-4-HD </link>
+</item>
+<item>
+<title>UK=Fox-News-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/874.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=Fox-News-HD </link>
+</item>
+<item>
+<title>UK=BBC-News-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/872.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=BBC-News-HD </link>
+</item>
+<item>
+<title>UK=ABC-News-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/873.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=ABC-News-HD </link>
+</item>
+<item>
+<title>UK=Sky-News-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/871.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=Sky-News-HD </link>
+</item>
+<item>
+<title>UK=QVC-3-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/723.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=QVC-3-HD </link>
+</item>
+<item>
+<title>UK=QVC-2-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/722.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=QVC-2-HD </link>
+</item>
+<item>
+<title>UK=QVC-1-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/721.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK=QVC-1-HD </link>
+</item>
 
 <item>
-<title>UK:SKY SPORT 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/685.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY SPORT 1 HD </link>
+<title>US=Tsn-Sport-5-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/639.ts&amp;streamtype=TSDOWNLOADER&amp;name=US=Tsn-Sport-5-HD </link>
 </item>
 <item>
-<title>UK:SKY SPORT 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/686.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY SPORT 2 HD </link>
+<title>US=Tsn-Sport-4-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/638.ts&amp;streamtype=TSDOWNLOADER&amp;name=US=Tsn-Sport-4-HD </link>
 </item>
 <item>
-<title>UK:SKY SPORT 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/687.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY SPORT 3 HD </link>
+<title>US=Tsn-Sport-3-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/637.ts&amp;streamtype=TSDOWNLOADER&amp;name=US=Tsn-Sport-3-HD </link>
 </item>
 <item>
-<title>UK:SKY SPORT 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/688.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY SPORT 4 HD </link>
+<title>US=Tsn-Sport-2-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/636.ts&amp;streamtype=TSDOWNLOADER&amp;name=US=Tsn-Sport-2-HD </link>
 </item>
 <item>
-<title>UK:SKY SPORT 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/689.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY SPORT 5 HD </link>
+<title>US=Tsn-Sport-1-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/635.ts&amp;streamtype=TSDOWNLOADER&amp;name=US=Tsn-Sport-1-HD </link>
 </item>
 <item>
-<title>UK:BT SPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/690.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BT SPORT 1 </link>
+<title>US=Travel-Channel-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/1292.ts&amp;streamtype=TSDOWNLOADER&amp;name=US=Travel-Channel-HD </link>
 </item>
 <item>
-<title>UK:BT SPORT 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/691.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BT SPORT 2 </link>
+<title>US=SportsNet-One-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/1281.ts&amp;streamtype=TSDOWNLOADER&amp;name=US=SportsNet-One-HD </link>
 </item>
 <item>
-<title>UK: BT Sports Europe</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1332.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sports Europe </link>
+<title>US=NBC-Golf-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/1325.ts&amp;streamtype=TSDOWNLOADER&amp;name=US=NBC-Golf-HD </link>
 </item>
 <item>
-<title>UK: BT Sports Europe HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1384.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sports Europe HD </link>
+<title>US=Nat-Geo-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/1286.ts&amp;streamtype=TSDOWNLOADER&amp;name=US=Nat-Geo-HD </link>
 </item>
 <item>
-<title>UK:SKY SPORT F1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/693.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY SPORT F1 HD </link>
+<title>US=FS1-Fox-Sports-2-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/1323.ts&amp;streamtype=TSDOWNLOADER&amp;name=US=FS1-Fox-Sports-2-HD </link>
 </item>
 <item>
-<title>BBC1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1319.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC1 </link>
+<title>US=FS1-Fox-Sports-1-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/1288.ts&amp;streamtype=TSDOWNLOADER&amp;name=US=FS1-Fox-Sports-1-HD </link>
 </item>
 <item>
-<title>BBC2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1320.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC2 </link>
+<title>US=ESPN-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/1297.ts&amp;streamtype=TSDOWNLOADER&amp;name=US=ESPN-HD </link>
 </item>
 <item>
-<title>UK:SKY SHOWCASE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/694.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY SHOWCASE HD </link>
+<title>US=ESPN-2-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/1298.ts&amp;streamtype=TSDOWNLOADER&amp;name=US=ESPN-2-HD </link>
 </item>
 <item>
-<title>UK:SKY SELECT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/695.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY SELECT </link>
+<title>US=Discovery-Science-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/1290.ts&amp;streamtype=TSDOWNLOADER&amp;name=US=Discovery-Science-HD </link>
 </item>
 <item>
-<title>UK:Sky Sci Fi & Hor HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/696.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky Sci Fi & Hor HD </link>
+<title>US=CNN-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/1291.ts&amp;streamtype=TSDOWNLOADER&amp;name=US=CNN-HD </link>
 </item>
 <item>
-<title>UK: UTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1235.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: UTV </link>
+<title>US=WGN-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/1296.ts&amp;streamtype=TSDOWNLOADER&amp;name=US=WGN-HD </link>
 </item>
 <item>
-<title>UK: TrueEnt</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1236.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TrueEnt </link>
+<title>US=ABC-News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/1326.ts&amp;streamtype=TSDOWNLOADER&amp;name=US=ABC-News </link>
 </item>
-<item>
-<title>UK: True Movies</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1237.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Movies </link>
-</item>
-<item>
-<title>UK: Sky Movies Crime Thriller</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1238.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Crime Thriller </link>
-</item>
-<item>
-<title>UK: The Vault</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1239.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: The Vault </link>
-</item>
-<item>
-<title>UK: Star TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1240.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Star TV </link>
-</item>
-<item>
-<title>UK: Spike</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1241.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Spike </link>
-</item>
-<item>
-<title>UK: Sky Two HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1233.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Two HD </link>
-</item>
-<item>
-<title>UK: Sky SpNewsHQ</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1231.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky SpNewsHQ </link>
-</item>
-<item>
-<title>UK: Sky Sci-Fi</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1344.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sci-Fi </link>
-</item>
-<item>
-<title>UK: Sky One</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1330.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky One </link>
-</item>
-<item>
-<title>UK: Sky Movies Select HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1388.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Select HD </link>
-</item>
-<item>
-<title>UK: Sky Movies Sci-Fi HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1391.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Sci-Fi HD </link>
-</item>
-<item>
-<title>UK: Sky Movies Premiere HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1387.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Premiere HD </link>
-</item>
-<item>
-<title>UK: Sky Movies Comedy HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1390.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Comedy HD </link>
-</item>
-<item>
-<title>UK: Sky Movies Action HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1389.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Action HD </link>
-</item>
-<item>
-<title>UK: Sky Greats</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1243.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Greats </link>
-</item>
-<item>
-<title>UK: Sky Comedy HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1334.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Comedy HD </link>
-</item>
-<item>
-<title>UK: Sky Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1244.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Action </link>
-</item>
-<item>
-<title>UK: Racing UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1385.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Racing UK </link>
-</item>
-<item>
-<title>UK: Premier Sports HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1229.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Premier Sports HD </link>
-</item>
-<item>
-<title>UK: Nickelodeon</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1335.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nickelodeon </link>
-</item>
-<item>
-<title>UK: Nick JR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1336.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nick JR </link>
-</item>
-<item>
-<title>UK: MUTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1248.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MUTV </link>
-</item>
-<item>
-<title>UK: Motors TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1343.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Motors TV </link>
-</item>
-<item>
-<title>UK: More4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1252.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: More4 </link>
-</item>
-<item>
-<title>UK: ITV3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1255.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV3 </link>
-</item>
-<item>
-<title>UK: Itv 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1396.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Itv 4 </link>
-</item>
-<item>
-<title>UK: ITV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1256.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV </link>
-</item>
-<item>
-<title>UK: Eurosport1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1230.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Eurosport1 </link>
-</item>
-<item>
-<title>UK: E4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1260.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: E4 </link>
-</item>
-<item>
-<title>UK: DMAX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1261.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DMAX </link>
-</item>
-<item>
-<title>UK: DisneyChnl</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1262.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DisneyChnl </link>
-</item>
-<item>
-<title>UK: DiscScience</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1263.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DiscScience </link>
-</item>
-<item>
-<title>UK: Discovery Turbo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1339.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Turbo </link>
-</item>
-<item>
-<title>UK: Discovery Home & Health</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1340.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Home & Health </link>
-</item>
-<item>
-<title>UK: Discovery History</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1341.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery History </link>
-</item>
-<item>
-<title>UK: Discovery</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1338.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery </link>
-</item>
-<item>
-<title>UK: Channel 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1329.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 5 </link>
-</item>
-<item>
-<title>UK: Channel 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1328.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 4 </link>
-</item>
-<item>
-<title>UK: Boxnation</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1333.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Boxnation </link>
-</item>
-<item>
-<title>UK: Baby TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1337.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Baby TV </link>
-</item>
-<item>
-<title>UK: AtTheRaces</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1232.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: AtTheRaces </link>
-</item>
-<item>
-<title>UK:  Crime & Investigiation</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/1342.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:  Crime & Investigiation </link>
-</item>
-<item>
-<title>SKYUK:SKY MOVIES FAMILY HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/753.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:SKY MOVIES FAMILY HD </link>
-</item>
-<item>
-<title>SKYUK:NATIONAL GEO WILD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/763.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:NATIONAL GEO WILD </link>
-</item>
-<item>
-<title>sky-TAG24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/368.ts&amp;streamtype=TSDOWNLOADER&amp;name=sky-TAG24 </link>
-</item>
-<item>
-<title>Sky Movies Thriller</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/13/13/692.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Thriller </link>
-</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
