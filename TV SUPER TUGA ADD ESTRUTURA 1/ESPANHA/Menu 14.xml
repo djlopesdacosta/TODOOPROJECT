@@ -3155,190 +3155,122 @@ turquoise
 
 
 
-
 <item>
-<title>ES_LA1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2383.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_LA1 </link>
+<title>ES:LA_1_HD\</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/524.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:LA_1_HD\ </link>
 </item>
 <item>
-<title>ES_LA2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2727.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_LA2 </link>
+<title>ES:LA_2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/525.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:LA_2_HD </link>
 </item>
 <item>
-<title>ES_Ribera</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2771.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Ribera </link>
+<title>ES:ANTENA3_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/526.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:ANTENA3_HD </link>
 </item>
 <item>
-<title>ES_Tele_Uno</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2770.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Tele_Uno </link>
+<title>ES:CUATRO_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/527.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CUATRO_HD </link>
 </item>
 <item>
-<title>ES_CanalHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2584.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_CanalHD </link>
+<title>ES:LA_SEXTA_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/529.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:LA_SEXTA_HD </link>
 </item>
 <item>
-<title>ES_Canal2HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2599.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Canal2HD </link>
+<title>ES:HOLLYWOOD_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/530.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:HOLLYWOOD_HD </link>
 </item>
 <item>
-<title>ES_Canal-Accion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2299.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Canal-Accion </link>
+<title>ES:TELECINCO_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/528.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TELECINCO_HD </link>
 </item>
 <item>
-<title>ES_Canal-Comedea</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2297.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Canal-Comedea </link>
+<title>ES:HISTORIA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/531.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:HISTORIA </link>
 </item>
 <item>
-<title>ES_Canal-Dcin</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2296.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Canal-Dcin </link>
+<title>ES:FOX_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/533.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:FOX_HD </link>
 </item>
 <item>
-<title>ES_Canal-Xtra</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2301.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Canal-Xtra </link>
+<title>ES:FOX_LIFE_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/532.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:FOX_LIFE_HD </link>
 </item>
 <item>
-<title>ES_Canal-Golf</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2300.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Canal-Golf </link>
+<title>ES:DISNEY_XD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DISNEY_XD </link>
 </item>
 <item>
-<title>ES_CanalFutbal</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2247.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_CanalFutbal </link>
+<title>ES:DISNEY_JUNIOR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/535.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DISNEY_JUNIOR </link>
 </item>
 <item>
-<title>ES_Canal-TOROS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1243.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Canal-TOROS </link>
+<title>ES:DISNE_CHANNEL_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/536.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DISNE_CHANNEL_HD </link>
 </item>
 <item>
-<title>ES_Canal_Deportes</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2248.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Canal_Deportes </link>
+<title>ES:DISCOVERY_CI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/537.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DISCOVERY_CI </link>
 </item>
 <item>
-<title>ES_Canal-ESTRENO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2352.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Canal-ESTRENO </link>
+<title>ES:DISCOVERY_CHANNEL_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/538.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DISCOVERY_CHANNEL_HD </link>
 </item>
 <item>
-<title>ES_Canal_LIGA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2246.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Canal_LIGA </link>
+<title>ES:Canal_FUTBOL_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/546.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Canal_FUTBOL_HD </link>
 </item>
 <item>
-<title>ES_BeinLaLiga</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2585.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_BeinLaLiga </link>
+<title>ES:Canal_ESTRENOS_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/547.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Canal_ESTRENOS_HD </link>
 </item>
 <item>
-<title>ES_BeinLaLiga1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2767.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_BeinLaLiga1 </link>
+<title>ES:Canal_DEPORTES_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/548.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Canal_DEPORTES_HD </link>
 </item>
 <item>
-<title>ES_BarcaTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2724.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_BarcaTV </link>
+<title>ES:Canal_DEPORTES 2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/549.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Canal_DEPORTES 2_HD </link>
 </item>
 <item>
-<title>ES_Real_Madrid</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2382.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Real_Madrid </link>
+<title>ES:Canal_DCINE_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/550.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Canal_DCINE_HD </link>
 </item>
 <item>
-<title>ES_TVE1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2597.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_TVE1_HD </link>
+<title>ES:Canal_COMEDIA_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/551.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Canal_COMEDIA_HD </link>
 </item>
 <item>
-<title>ES_NOVA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2579.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_NOVA </link>
+<title>ES:CANAL_ACTION_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/552.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_ACTION_HD </link>
 </item>
 <item>
-<title>ES_Antena3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2298.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Antena3 </link>
+<title>ES:Canal_XTRA_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/540.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Canal_XTRA_HD </link>
 </item>
 <item>
-<title>ES_LaSextaHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2598.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_LaSextaHD </link>
+<title>ES:Canal_TOROS_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/541.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Canal_TOROS_HD </link>
 </item>
 <item>
-<title>ES_Calle13HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2600.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Calle13HD </link>
+<title>ES:Canal_SERIES_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/542.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Canal_SERIES_HD </link>
 </item>
 <item>
-<title>ES_TELECINCO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2351.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_TELECINCO </link>
+<title>ES:Canal_LIGA_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/543.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Canal_LIGA_HD </link>
 </item>
 <item>
-<title>ES_Hollywood_Spain</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2384.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Hollywood_Spain </link>
+<title>ES:Canal_LIGA_2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Canal_LIGA_2_HD </link>
 </item>
 <item>
-<title>ES_FoxLifeHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2582.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_FoxLifeHD </link>
+<title>ES:Canal_GOLF_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/545.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Canal_GOLF_HD </link>
 </item>
 <item>
-<title>ES_Fox_Movie_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2381.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Fox_Movie_HD </link>
+<title>ES:AXN_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/553.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:AXN_HD </link>
 </item>
-<item>
-<title>ES_Taquilla1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2358.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Taquilla1 </link>
-</item>
-<item>
-<title>ES_Taquilla2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2359.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Taquilla2 </link>
-</item>
-<item>
-<title>ES_Taquilla3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2360.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Taquilla3 </link>
-</item>
-<item>
-<title>ES_Taquilla4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2361.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Taquilla4 </link>
-</item>
-<item>
-<title>ES_Taquilla5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2362.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Taquilla5 </link>
-</item>
-<item>
-<title>ES_Taquilla6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2357.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Taquilla6 </link>
-</item>
-<item>
-<title>ES_Taquilla7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2356.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Taquilla7 </link>
-</item>
-<item>
-<title>ES_Taquilla8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2355.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Taquilla8 </link>
-</item>
-<item>
-<title>ES_Taquilla9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2354.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Taquilla9 </link>
-</item>
-<item>
-<title>ES_Taquilla10</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2353.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Taquilla10 </link>
-</item>
-<item>
-<title>ES_National-Geo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2302.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_National-Geo </link>
-</item>
-<item>
-<title>ES_NatGeoWild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2581.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_NatGeoWild </link>
-</item>
-<item>
-<title>ES_Nickelodeon</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2580.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Nickelodeon </link>
-</item>
-<item>
-<title>ES_DisneyXD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2583.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_DisneyXD </link>
-</item>
-<item>
-<title>ES_Disney_Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2721.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Disney_Junior </link>
-</item>
-<item>
-<title>ES_Disney_Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2722.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Disney_Channel </link>
-</item>
-
-
-
 
 
 

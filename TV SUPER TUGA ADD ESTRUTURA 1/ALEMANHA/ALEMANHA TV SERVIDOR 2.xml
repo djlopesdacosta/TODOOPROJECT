@@ -25,7 +25,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 17-02-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 19-02-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
@@ -36,390 +36,162 @@
 
 
 
-
 <item>
-<title>DE_ZDF_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2164.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_ZDF_HD </link>
+<title>GER:SKY.ACTION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/126.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:SKY.ACTION </link>
 </item>
 <item>
-<title>DE_ZDF_Info</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2756.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_ZDF_Info </link>
+<title>GER:SKY.CINEMA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/128.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:SKY.CINEMA </link>
 </item>
 <item>
-<title>DE_24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2762.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_24 </link>
+<title>GER:SKY.CINEMA.24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/129.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:SKY.CINEMA.24 </link>
 </item>
 <item>
-<title>DE_DW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2761.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_DW </link>
+<title>GER:SKY.CINEMA.PLUS.24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/120.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:SKY.CINEMA.PLUS.24 </link>
 </item>
 <item>
-<title>DE_Das_Erste_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2232.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Das_Erste_HD </link>
+<title>GER:SKY.COMEDY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/130.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:SKY.COMEDY </link>
 </item>
 <item>
-<title>DE_ORF_1HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2049.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_ORF_1HD </link>
+<title>GER:SKY.EMOTION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/131.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:SKY.EMOTION </link>
 </item>
 <item>
-<title>DE_ORF_2HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2758.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_ORF_2HD </link>
+<title>GER:AXN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/105.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:AXN </link>
 </item>
 <item>
-<title>DE_ORF_Eins</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2759.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_ORF_Eins </link>
+<title>GER:SKY.HITS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/132.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:SKY.HITS </link>
 </item>
 <item>
-<title>DE_Sat</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2050.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sat </link>
+<title>GER:SKY.NOSTALGIE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/133.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:SKY.NOSTALGIE </link>
 </item>
 <item>
-<title>DE_Arte</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2754.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Arte </link>
+<title>GER:SKY.SPORT.BUNDESLIGA1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/135.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:SKY.SPORT.BUNDESLIGA1 </link>
 </item>
 <item>
-<title>DE_Syfy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2711.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Syfy </link>
+<title>GER:SKY.SPORT.HD1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/136.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:SKY.SPORT.HD1 </link>
 </item>
 <item>
-<title>DE_Vox_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2163.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Vox_HD </link>
+<title>GER:SKY.SPORT.HD2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:SKY.SPORT.HD2 </link>
 </item>
 <item>
-<title>DE_Fox_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2165.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Fox_HD </link>
+<title>GER:TNT.SERIE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/154.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:TNT.SERIE </link>
 </item>
 <item>
-<title>DE_Wdr_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2757.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Wdr_HD </link>
+<title>GER:TNT.FILM</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/153.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:TNT.FILM </link>
 </item>
 <item>
-<title>DE_Tnt_Film</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2327.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Tnt_Film </link>
+<title>GER:TELECLUB.SPORT.1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/107.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:TELECLUB.SPORT.1 </link>
 </item>
 <item>
-<title>DE_RTL_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1893.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_RTL_HD </link>
+<title>GER:SYFY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:SYFY </link>
 </item>
 <item>
-<title>DE_RTL_2HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2162.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_RTL_2HD </link>
+<title>GER:SWR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:SWR </link>
 </item>
 <item>
-<title>DE_RTL_Crime</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2620.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_RTL_Crime </link>
+<title>GER:SUPER.RTL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/150.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:SUPER.RTL </link>
 </item>
 <item>
-<title>DE_RTL_Passion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2716.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_RTL_Passion </link>
+<title>GER:SKY.ATLANTIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/127.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:SKY.ATLANTIC </link>
 </item>
 <item>
-<title>DE_Sky_Planet</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2329.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Planet </link>
+<title>GER:SKY.3D</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/125.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:SKY.3D </link>
 </item>
 <item>
-<title>DE_Discovery_Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1885.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Discovery_Channel </link>
+<title>GER:SAT.1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/124.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:SAT.1 </link>
 </item>
 <item>
-<title>DE_NationalGeograpic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1881.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_NationalGeograpic </link>
+<title>GER:RTL.II</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/123.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:RTL.II </link>
 </item>
 <item>
-<title>De_NatlGeo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2167.ts&amp;streamtype=TSDOWNLOADER&amp;name=De_NatlGeo </link>
+<title>GER:RTL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/122.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:RTL </link>
 </item>
 <item>
-<title>DE_Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2619.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Junior </link>
+<title>GER:PROSIEBEN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/121.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:PROSIEBEN </link>
 </item>
 <item>
-<title>DE_DisneyJunior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2618.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_DisneyJunior </link>
+<title>GER:PRO.7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/119.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:PRO.7 </link>
 </item>
 <item>
-<title>DE_DisneyChannel_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2169.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_DisneyChannel_HD </link>
+<title>GER:ORF.2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/118.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:ORF.2 </link>
 </item>
 <item>
-<title>DE_DisneyCinemagic_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1894.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_DisneyCinemagic_HD </link>
+<title>GER:NDR.HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/117.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:NDR.HD </link>
 </item>
 <item>
-<title>DE_Boomerang</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2709.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Boomerang </link>
+<title>GER:NATIONAL.GEOGRAPHIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/116.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:NATIONAL.GEOGRAPHIC </link>
 </item>
 <item>
-<title>DE_Nickelodeon_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2231.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Nickelodeon_HD </link>
+<title>GER:NATIONAL.GEO.WILD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/115.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:NATIONAL.GEO.WILD </link>
 </item>
 <item>
-<title>ooooSKY_DEUTSHoooo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2745.ts&amp;streamtype=TSDOWNLOADER&amp;name=ooooSKY_DEUTSHoooo </link>
+<title>GER:N24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/114.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:N24 </link>
 </item>
 <item>
-<title>DE_Sky_Axn_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1898.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Axn_HD </link>
+<title>GER:KIKA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/113.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:KIKA </link>
 </item>
 <item>
-<title>DE_Sky_Action_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1891.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Action_HD </link>
+<title>GER:KABEL.1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/112.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:KABEL.1 </link>
 </item>
 <item>
-<title>DE_Sky_Cinema_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1887.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Cinema_HD </link>
+<title>GER:FOX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/110.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:FOX </link>
 </item>
 <item>
-<title>DE_Sky_Cinema_1HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1940.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Cinema_1HD </link>
+<title>GER:DMAX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/109.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:DMAX </link>
 </item>
 <item>
-<title>DE_Sky_Cinema_24HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1888.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Cinema_24HD </link>
+<title>GER:DISCOVERY.CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/106.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:DISCOVERY.CHANNEL </link>
 </item>
 <item>
-<title>DE_Sky_Emotion_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1883.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Emotion_HD </link>
+<title>GER:ARD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/104.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:ARD </link>
 </item>
 <item>
-<title>DE_Sky_Comedy_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1886.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Comedy_HD </link>
+<title>GER:ANIXE.HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/111.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:ANIXE.HD </link>
 </item>
 <item>
-<title>DE_Sky_Romance_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2714.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Romance_HD </link>
+<title>GER:3SAT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/103.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:3SAT </link>
 </item>
 <item>
-<title>DE_Sky_Atlantic_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2328.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Atlantic_HD </link>
+<title>GER:13th.STREET</title>
+<link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/102.ts&amp;streamtype=TSDOWNLOADER&amp;name=GER:13th.STREET </link>
 </item>
-<item>
-<title>DE_Sky_13Th_Street</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1892.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_13Th_Street </link>
-</item>
-<item>
-<title>DE_Sky_Select_1HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1937.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Select_1HD </link>
-</item>
-<item>
-<title>DE_Sky_Select_2HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2506.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Select_2HD </link>
-</item>
-<item>
-<title>DE_Sky_Select_3HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1936.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Select_3HD </link>
-</item>
-<item>
-<title>DE_Sky_Select_4HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1935.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Select_4HD </link>
-</item>
-<item>
-<title>DE_Sky_Select_5HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1934.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Select_5HD </link>
-</item>
-<item>
-<title>DE_Sky_Select_6HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1933.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Select_6HD </link>
-</item>
-<item>
-<title>DE_Sky_Select_7HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1932.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Select_7HD </link>
-</item>
-<item>
-<title>DE_Sky_Select_8HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1931.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Select_8HD </link>
-</item>
-<item>
-<title>DE_Sky_Select_9HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1930.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Select_9HD </link>
-</item>
-<item>
-<title>ooooDEUTSH_SPORToooo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2746.ts&amp;streamtype=TSDOWNLOADER&amp;name=ooooDEUTSH_SPORToooo </link>
-</item>
-<item>
-<title>DE_SkySportNewsHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2703.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SkySportNewsHD </link>
-</item>
-<item>
-<title>DE_Arena_Sport_1HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2704.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Arena_Sport_1HD </link>
-</item>
-<item>
-<title>DE_Arena_Sport_2HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2705.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Arena_Sport_2HD </link>
-</item>
-<item>
-<title>DE_Arena_Sport_3HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2708.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Arena_Sport_3HD </link>
-</item>
-<item>
-<title>DE_Arena_Sport_4HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2706.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Arena_Sport_4HD </link>
-</item>
-<item>
-<title>DE_Arena_Sport_5HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2707.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Arena_Sport_5HD </link>
-</item>
-<item>
-<title>DE_Sky_sport_1HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2700.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_sport_1HD </link>
-</item>
-<item>
-<title>DE_Sky_sport_2HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2701.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_sport_2HD </link>
-</item>
-<item>
-<title>DE_Sky_Sport_Austria</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2712.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Sport_Austria </link>
-</item>
-<item>
-<title>DE_Sky_Bundesliga_1HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1897.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Bundesliga_1HD </link>
-</item>
-<item>
-<title>DE_Sky_Bundesliga_2HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1896.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Bundesliga_2HD </link>
-</item>
-<item>
-<title>DE_Eurosport_1HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2710.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Eurosport_1HD </link>
-</item>
-<item>
-<title>DE_Sporttime_1HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2702.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sporttime_1HD </link>
-</item>
-
-
-
-
-
-
-<item>
-<title>DE=Syfy-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/780.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Syfy-HD </link>
-</item>
-<item>
-<title>DE=RTL-Super-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/603.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=RTL-Super-HD </link>
-</item>
-<item>
-<title>DE=Sky-Dmax-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/595.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Sky-Dmax-HD </link>
-</item>
-<item>
-<title>DE=Sky-Comedy-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/589.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Sky-Comedy-HD </link>
-</item>
-<item>
-<title>DE=Sky-Bundesliga-1-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/785.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Sky-Bundesliga-1-HD </link>
-</item>
-<item>
-<title>DE=Sat-1-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/778.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Sat-1-HD </link>
-</item>
-<item>
-<title>DE=RTL-Passion-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/777.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=RTL-Passion-HD </link>
-</item>
-<item>
-<title>DE=RTL-Nitro-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/776.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=RTL-Nitro-HD </link>
-</item>
-<item>
-<title>DE=RTL-2-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/783.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=RTL-2-HD </link>
-</item>
-<item>
-<title>DE=Nat-Geo-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/784.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Nat-Geo-HD </link>
-</item>
-<item>
-<title>DE=Kika-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/782.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Kika-HD </link>
-</item>
-<item>
-<title>DE=History-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/590.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=History-HD </link>
-</item>
-<item>
-<title>DE=Arena-Sport-5-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/596.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Arena-Sport-5-HD </link>
-</item>
-<item>
-<title>DE=Arena-Sport-4-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/597.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Arena-Sport-4-HD </link>
-</item>
-<item>
-<title>DE=Arena-Sport-3-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/598.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Arena-Sport-3-HD </link>
-</item>
-<item>
-<title>DE=Arena-Sport-2-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/599.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Arena-Sport-2-HD </link>
-</item>
-<item>
-<title>DE=Arena-Sport-1-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/600.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Arena-Sport-1-HD </link>
-</item>
-<item>
-<title>DE=RTL-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/288.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=RTL-HD </link>
-</item>
-<item>
-<title>DE=WDR-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/290.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=WDR-HD </link>
-</item>
-<item>
-<title>DE=Sky-Sport-News-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/291.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Sky-Sport-News-HD </link>
-</item>
-<item>
-<title>DE=PRO-7-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/293.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=PRO-7-HD </link>
-</item>
-<item>
-<title>DE=Nat-Geo-Wild-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/289.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Nat-Geo-Wild-HD </link>
-</item>
-<item>
-<title>DE=Sky-Sport-1-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/285.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Sky-Sport-1-HD </link>
-</item>
-<item>
-<title>DE=Sky-Sport-2-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/286.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Sky-Sport-2-HD </link>
-</item>
-<item>
-<title>DE=ZDF-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/1134.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=ZDF-HD </link>
-</item>
-<item>
-<title>DE=VOX-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/1135.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=VOX-HD </link>
-</item>
-<item>
-<title>DE=TNT-Serie-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/1138.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=TNT-Serie-HD </link>
-</item>
-<item>
-<title>DE=Sky-Sport-Austria-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/1140.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Sky-Sport-Austria-HD </link>
-</item>
-<item>
-<title>DE=Phoenix-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/1136.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=Phoenix-HD </link>
-</item>
-<item>
-<title>DE=ORF-2-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/1132.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=ORF-2-HD </link>
-</item>
-<item>
-<title>DE=RTL-Crime-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.198.186:50100/live/syrie/syrie/1133.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE=RTL-Crime-HD </link>
-</item>
-
 
 
 <item>       
