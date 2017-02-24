@@ -17,7 +17,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 16-02-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 24-02-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -33,142 +33,98 @@
 </item>
 
 
-
 <item>
-<title>NL:-HBO-1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/337.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-HBO-1 </link>
+<title>Film 1 Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2109.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film 1 Action </link>
 </item>
 <item>
-<title>NL:-HBO-2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/338.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-HBO-2 </link>
+<title>Film 1 Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2113.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film 1 Comedy </link>
 </item>
 <item>
-<title>NL:-HBO-3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1512.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-HBO-3 </link>
+<title>Film 1 Premiere</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2110.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film 1 Premiere </link>
 </item>
 <item>
-<title>NL:-NPO-1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/340.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-NPO-1 </link>
+<title>Film 1 Spotlight</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2111.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film 1 Spotlight </link>
 </item>
 <item>
-<title>NL:-NPO-2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/341.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-NPO-2 </link>
+<title>Film 1 Sundance</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2112.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film 1 Sundance </link>
 </item>
 <item>
-<title>NL:-NPO-3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/342.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-NPO-3 </link>
+<title>Fox Sports 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2129.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports 1 </link>
 </item>
 <item>
-<title>NL:-NPO-DOC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1513.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-NPO-DOC </link>
+<title>Fox Sports 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2130.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports 2 </link>
 </item>
 <item>
-<title>NL:-RTL-4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/343.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-RTL-4 </link>
+<title>Fox Sports 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2131.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports 3 </link>
 </item>
 <item>
-<title>NL:-RTL-5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/344.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-RTL-5 </link>
+<title>HBO 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2114.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO 1 </link>
 </item>
 <item>
-<title>NL:-SBS-6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/347.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-SBS-6 </link>
+<title>HBO 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2115.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO 2 </link>
 </item>
 <item>
-<title>NL:-RTL-7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/345.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-RTL-7 </link>
+<title>HBO 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2116.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO 3 </link>
 </item>
 <item>
-<title>NL:-RTL-8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/346.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-RTL-8 </link>
+<title>NPO 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2117.ts&amp;streamtype=TSDOWNLOADER&amp;name=NPO 1 </link>
 </item>
 <item>
-<title>NL:-SBS9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/348.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-SBS9 </link>
+<title>NPO 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2118.ts&amp;streamtype=TSDOWNLOADER&amp;name=NPO 2 </link>
 </item>
 <item>
-<title>NL:-FOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/381.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-FOX </link>
+<title>NPO 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2119.ts&amp;streamtype=TSDOWNLOADER&amp;name=NPO 3 </link>
 </item>
 <item>
-<title>NL:-FILM-1-ACTION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/353.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-FILM-1-ACTION </link>
+<title>RTL 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2120.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL 4 </link>
 </item>
 <item>
-<title>NL:-FILM-1-PREMIER-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/351.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-FILM-1-PREMIER-HD </link>
+<title>SBS 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2122.ts&amp;streamtype=TSDOWNLOADER&amp;name=SBS 6 </link>
 </item>
 <item>
-<title>NL:-Film-1-Comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1511.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-Film-1-Comedy </link>
+<title>RTL 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2121.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL 5 </link>
 </item>
 <item>
-<title>NL:-FILM-1-SUNDANCE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/350.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-FILM-1-SUNDANCE </link>
+<title>RTL 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2124.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL 7 </link>
 </item>
 <item>
-<title>NL:-FILM-1-SPORTLIGHT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/390.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-FILM-1-SPORTLIGHT </link>
+<title>RTL 8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2123.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL 8 </link>
 </item>
 <item>
-<title>NL:-FILM-1-COMEDY-KIDS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/352.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-FILM-1-COMEDY-KIDS </link>
+<title>SBS 9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2125.ts&amp;streamtype=TSDOWNLOADER&amp;name=SBS 9 </link>
 </item>
 <item>
-<title>۩۩۩۩۩۩۩۩۩۩۩-NEDERLAND-SPORTS-۩۩۩۩۩۩۩۩۩۩۩</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/410.ts&amp;streamtype=TSDOWNLOADER&amp;name=۩۩۩۩۩۩۩۩۩۩۩-NEDERLAND-SPORTS-۩۩۩۩۩۩۩۩۩۩۩ </link>
+<title>Veronica</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2126.ts&amp;streamtype=TSDOWNLOADER&amp;name=Veronica </link>
 </item>
 <item>
-<title>NL:-Ziggo-Sport-Select-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1524.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-Ziggo-Sport-Select-HD </link>
+<title>Ziggo Sport Select</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2128.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ziggo Sport Select </link>
 </item>
 <item>
-<title>NL:-Ziggo-Sport-Extra1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1520.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-Ziggo-Sport-Extra1 </link>
+<title>Ziggo Sport Voetbal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2127.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ziggo Sport Voetbal </link>
 </item>
-<item>
-<title>NL:-Ziggo-Sport-Extra2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1521.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-Ziggo-Sport-Extra2 </link>
-</item>
-<item>
-<title>NL:-Ziggo-Sport-Racing</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1523.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-Ziggo-Sport-Racing </link>
-</item>
-<item>
-<title>NL:-Ziggo-Sport-Golf</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1522.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-Ziggo-Sport-Golf </link>
-</item>
-<item>
-<title>NL:-FOX-SPORTS-1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/382.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-FOX-SPORTS-1 </link>
-</item>
-<item>
-<title>NL:-FOX-SPORTS-2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/383.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-FOX-SPORTS-2 </link>
-</item>
-<item>
-<title>NL:-FOX-SPORTS-3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/384.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-FOX-SPORTS-3 </link>
-</item>
-<item>
-<title>NL:-Fox-Sports-4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1517.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-Fox-Sports-4 </link>
-</item>
-<item>
-<title>NL:-Fox-Sports-5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1518.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-Fox-Sports-5 </link>
-</item>
-<item>
-<title>NL:-Fox-Sports-6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1519.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-Fox-Sports-6 </link>
-</item>
-<item>
-<title>NL:-Veronica-DisneyXD-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1516.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:-Veronica-DisneyXD-HD </link>
-</item>
-
-
-
 
 
 

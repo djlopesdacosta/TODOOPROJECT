@@ -25,7 +25,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 16-02-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 24-02-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
@@ -35,330 +35,1225 @@
 
 
 
-
 <item>
-<title>FR:-TF1-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/334.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-TF1-HD </link>
+<title>TF1_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/312.ts&amp;streamtype=TSDOWNLOADER&amp;name=TF1_HD </link>
 </item>
 <item>
-<title>FR:-M6-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/127.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-M6-HD </link>
+<title>FRANCE_2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/659.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_2_HD </link>
 </item>
 <item>
-<title>FR:-W9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/128.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-W9 </link>
+<title>FRANCE_3_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/658.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_3_HD </link>
 </item>
 <item>
-<title>FR:-D8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/129.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-D8 </link>
+<title>FRANCE_4_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/944.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_4_HD </link>
 </item>
 <item>
-<title>FR:-D17</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/130.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-D17 </link>
+<title>FRANCE_5_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/663.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_5_HD </link>
 </item>
 <item>
-<title>FR:-HD1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/131.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-HD1 </link>
+<title>FRANCE_O_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/661.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_O_HD </link>
 </item>
 <item>
-<title>FR:-6TER</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/132.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-6TER </link>
+<title>M6_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1292.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6_HD </link>
 </item>
 <item>
-<title>FR:-FRANCE2-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/135.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-FRANCE2-HD </link>
+<title>*-*-*-*-*CANAL+_CINEMA*-*-*-*-*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1553.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*CANAL+_CINEMA*-*-*-*-* </link>
 </item>
 <item>
-<title>FR:-FRANCE3-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/136.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-FRANCE3-HD </link>
+<title>CANAL+_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/262.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+_HD </link>
 </item>
 <item>
-<title>FR:-FRANCE4-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-FRANCE4-HD </link>
+<title>CANAL+_CINEMA_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+_CINEMA_HD </link>
 </item>
 <item>
-<title>FR:-FRANCE5-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/138.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-FRANCE5-HD </link>
+<title>CANAL+_DECALE_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+_DECALE_HD </link>
 </item>
 <item>
-<title>FR:-FRANCE-O</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/139.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-FRANCE-O </link>
+<title>CANAL+_SERIES_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/265.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+_SERIES_HD </link>
 </item>
 <item>
-<title>FR:-TCM-FRANCE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/145.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-TCM-FRANCE </link>
+<title>SERIE_CLUB_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/945.ts&amp;streamtype=TSDOWNLOADER&amp;name=SERIE_CLUB_HD </link>
 </item>
 <item>
-<title>FR:-Arte</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-Arte </link>
+<title>CANAL+_FAMILY_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/264.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+_FAMILY_HD </link>
 </item>
 <item>
-<title>FR:-RTL9-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/133.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-RTL9-HD </link>
+<title>CINE+_PREMIER_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/270.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+_PREMIER_HD </link>
 </item>
 <item>
-<title>FR:-RMC-DECOVERTE-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/328.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-RMC-DECOVERTE-HD </link>
+<title>CINE+_FRISSON_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/269.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+_FRISSON_HD </link>
 </item>
 <item>
-<title>FR:-NUMERO-23</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/142.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-NUMERO-23 </link>
+<title>CINE+_FAMIZ_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/450.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+_FAMIZ_HD </link>
 </item>
 <item>
-<title>FR:-NT1-FRANCE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/146.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-NT1-FRANCE </link>
+<title>CINE+_EMOTION_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/268.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+_EMOTION_HD </link>
 </item>
 <item>
-<title>FR:-NRJ-12HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1525.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-NRJ-12HD </link>
+<title>CINE_POLAR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1512.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE_POLAR </link>
 </item>
 <item>
-<title>FR:-13-Eme-Rue</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/143.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-13-Eme-Rue </link>
+<title>CINE_FX_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1521.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE_FX_HD </link>
 </item>
 <item>
-<title>FR:-SyFy-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/144.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-SyFy-HD </link>
+<title>CINE+_CLASSIC_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1415.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+_CLASSIC_HD </link>
 </item>
 <item>
-<title>FR:-ACTION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/166.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-ACTION </link>
+<title>COMEDIE+</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/555.ts&amp;streamtype=TSDOWNLOADER&amp;name=COMEDIE+ </link>
 </item>
 <item>
-<title>FR:-CHERIE-25</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/141.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-CHERIE-25 </link>
+<title>*-*-*-*-*ORANGE_CINEMA*-*-*-*-*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2133.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*ORANGE_CINEMA*-*-*-*-* </link>
 </item>
 <item>
-<title>FR:-TV5-Monde-Orient</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/140.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-TV5-Monde-Orient </link>
+<title>ORANGE_CINE_ACTION_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1868.ts&amp;streamtype=TSDOWNLOADER&amp;name=ORANGE_CINE_ACTION_HD </link>
 </item>
 <item>
-<title>۩۩۩۩۩۩۩۩۩۩۩-CANALSAT-CANAL+-۩۩۩۩۩۩۩۩۩۩۩</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1023.ts&amp;streamtype=TSDOWNLOADER&amp;name=۩۩۩۩۩۩۩۩۩۩۩-CANALSAT-CANAL+-۩۩۩۩۩۩۩۩۩۩۩ </link>
+<title>ORANGE_CINE_AVENTURE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1867.ts&amp;streamtype=TSDOWNLOADER&amp;name=ORANGE_CINE_AVENTURE </link>
 </item>
 <item>
-<title>FR:-CANAL+HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/147.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-CANAL+HD </link>
+<title>ORANGE_CINE_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1866.ts&amp;streamtype=TSDOWNLOADER&amp;name=ORANGE_CINE_HD </link>
 </item>
 <item>
-<title>FR:-Canal+DECALE-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/148.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-Canal+DECALE-HD </link>
+<title>ORANGE_CINE_HORREUR_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1865.ts&amp;streamtype=TSDOWNLOADER&amp;name=ORANGE_CINE_HORREUR_HD </link>
 </item>
 <item>
-<title>FR:-Canal+FAMILY-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-Canal+FAMILY-HD </link>
+<title>ORANGE_DUCUMENTAIRE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1869.ts&amp;streamtype=TSDOWNLOADER&amp;name=ORANGE_DUCUMENTAIRE </link>
 </item>
 <item>
-<title>FR:-Canal+CINEMA-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/149.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-Canal+CINEMA-HD </link>
+<title>OCS_CHOC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/672.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_CHOC </link>
 </item>
 <item>
-<title>FR:-CANAL+SERIES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/329.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-CANAL+SERIES </link>
+<title>OCS_CITY_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1291.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_CITY_HD </link>
 </item>
 <item>
-<title>۩۩۩۩۩۩۩۩۩۩۩-CANALSAT-CINEMA-۩۩۩۩۩۩۩۩۩۩۩</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1024.ts&amp;streamtype=TSDOWNLOADER&amp;name=۩۩۩۩۩۩۩۩۩۩۩-CANALSAT-CINEMA-۩۩۩۩۩۩۩۩۩۩۩ </link>
+<title>OCS_GEANT_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/947.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_GEANT_HD </link>
 </item>
 <item>
-<title>FR:-CINE-PREMIER-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/155.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-CINE-PREMIER-HD </link>
+<title>OCS_MAX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1014.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_MAX </link>
 </item>
 <item>
-<title>FR:-CINE-FRISSON-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-CINE-FRISSON-HD </link>
+<title>*-*-*-*-*CSAT_ENTERTAINMENT*-*-*-*-*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1908.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*CSAT_ENTERTAINMENT*-*-*-*-* </link>
 </item>
 <item>
-<title>FR:-CINE-FAMIZ-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/154.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-CINE-FAMIZ-HD </link>
+<title>PARAMOUNT_CHNANNEL_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1417.ts&amp;streamtype=TSDOWNLOADER&amp;name=PARAMOUNT_CHNANNEL_HD </link>
 </item>
 <item>
-<title>FR:-Cine-EMOTION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-Cine-EMOTION </link>
+<title>ACTION_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/948.ts&amp;streamtype=TSDOWNLOADER&amp;name=ACTION_HD </link>
 </item>
 <item>
-<title>FR:-CINE-CLASIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/153.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-CINE-CLASIC </link>
+<title>ARTE_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/953.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARTE_HD </link>
 </item>
 <item>
-<title>FR:-OCS-MAX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-OCS-MAX </link>
+<title>13EME_RUE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/255.ts&amp;streamtype=TSDOWNLOADER&amp;name=13EME_RUE </link>
 </item>
 <item>
-<title>FR:-OCS-GEANT-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-OCS-GEANT-HD </link>
+<title>TCM_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/567.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM_HD </link>
 </item>
 <item>
-<title>FR:-OCS-City</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/162.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-OCS-City </link>
+<title>SyFy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/958.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy </link>
 </item>
 <item>
-<title>FR:-OCS-CHOC-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-OCS-CHOC-HD </link>
+<title>NRJ_12</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1265.ts&amp;streamtype=TSDOWNLOADER&amp;name=NRJ_12 </link>
 </item>
 <item>
-<title>FR:-SERIE-CLUB-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-SERIE-CLUB-HD </link>
+<title>HD1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1285.ts&amp;streamtype=TSDOWNLOADER&amp;name=HD1 </link>
 </item>
 <item>
-<title>FR:-Paris-Premiere</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/163.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-Paris-Premiere </link>
+<title>NT1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/570.ts&amp;streamtype=TSDOWNLOADER&amp;name=NT1 </link>
 </item>
 <item>
-<title>FR:-PARAMOUNT-CHNANNEL-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/165.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-PARAMOUNT-CHNANNEL-HD </link>
+<title>W9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/647.ts&amp;streamtype=TSDOWNLOADER&amp;name=W9 </link>
 </item>
 <item>
-<title>FR:-Comedie-Plus</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/164.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-Comedie-Plus </link>
+<title>TEVA_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/311.ts&amp;streamtype=TSDOWNLOADER&amp;name=TEVA_HD </link>
 </item>
 <item>
-<title>۩۩۩۩۩۩۩۩۩۩۩-CANALSAT-SPORT-۩۩۩۩۩۩۩۩۩۩۩</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1019.ts&amp;streamtype=TSDOWNLOADER&amp;name=۩۩۩۩۩۩۩۩۩۩۩-CANALSAT-SPORT-۩۩۩۩۩۩۩۩۩۩۩ </link>
+<title>C8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/273.ts&amp;streamtype=TSDOWNLOADER&amp;name=C8 </link>
 </item>
 <item>
-<title>FR:-BEINSPORT-1HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/330.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-BEINSPORT-1HD </link>
+<title>D8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2040.ts&amp;streamtype=TSDOWNLOADER&amp;name=D8 </link>
 </item>
 <item>
-<title>FR:-BEINSPORT-2HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/331.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-BEINSPORT-2HD </link>
+<title>CSTAR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/272.ts&amp;streamtype=TSDOWNLOADER&amp;name=CSTAR </link>
 </item>
 <item>
-<title>FR:-BEINSPORT-3HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/332.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-BEINSPORT-3HD </link>
+<title>6TER_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1276.ts&amp;streamtype=TSDOWNLOADER&amp;name=6TER_HD </link>
 </item>
 <item>
-<title>FR:-INFOSPORT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1021.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-INFOSPORT </link>
+<title>RTL9_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1408.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL9_HD </link>
 </item>
 <item>
-<title>FR:-Sfr-Sport-2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1136.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-Sfr-Sport-2 </link>
+<title>TREK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1515.ts&amp;streamtype=TSDOWNLOADER&amp;name=TREK </link>
 </item>
 <item>
-<title>FR:-Sfr-Sport-3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1137.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-Sfr-Sport-3 </link>
+<title>AB3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1513.ts&amp;streamtype=TSDOWNLOADER&amp;name=AB3 </link>
 </item>
 <item>
-<title>FR:-FOOT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1022.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-FOOT </link>
+<title>TV_BREIZH</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1414.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV_BREIZH </link>
 </item>
 <item>
-<title>FR:-L'EQUIPE21</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1020.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-L'EQUIPE21 </link>
+<title>AB1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1222.ts&amp;streamtype=TSDOWNLOADER&amp;name=AB1 </link>
 </item>
 <item>
-<title>FR:-EQUIDIA-LIVE-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1001.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-EQUIDIA-LIVE-HD </link>
+<title>TMC_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1288.ts&amp;streamtype=TSDOWNLOADER&amp;name=TMC_HD </link>
 </item>
 <item>
-<title>۩۩۩۩۩۩۩۩۩۩۩-CANALSAT-ENFANTS-۩۩۩۩۩۩۩۩۩۩۩</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/998.ts&amp;streamtype=TSDOWNLOADER&amp;name=۩۩۩۩۩۩۩۩۩۩۩-CANALSAT-ENFANTS-۩۩۩۩۩۩۩۩۩۩۩ </link>
+<title>NUMERO_23</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1444.ts&amp;streamtype=TSDOWNLOADER&amp;name=NUMERO_23 </link>
 </item>
 <item>
-<title>FR:-DISNEY-XD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/996.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-DISNEY-XD </link>
+<title>PARIS_PREMIERE_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1286.ts&amp;streamtype=TSDOWNLOADER&amp;name=PARIS_PREMIERE_HD </link>
 </item>
 <item>
-<title>FR:-Disney-Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/176.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-Disney-Junior </link>
+<title>cherie_25</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1416.ts&amp;streamtype=TSDOWNLOADER&amp;name=cherie_25 </link>
 </item>
 <item>
-<title>FR:-Disney-cinemagic-F</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/179.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-Disney-cinemagic-F </link>
+<title>WEO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1436.ts&amp;streamtype=TSDOWNLOADER&amp;name=WEO </link>
 </item>
 <item>
-<title>FR:-DISNEY-CHANEL- 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/995.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-DISNEY-CHANEL- 1 </link>
+<title>*-*-*-*-*CSAT_INFO*-*-*-*-*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2154.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*CSAT_INFO*-*-*-*-* </link>
 </item>
 <item>
-<title>FR:-DISNEY-CHANEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/994.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-DISNEY-CHANEL </link>
+<title>EURONEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1613.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURONEWS </link>
 </item>
 <item>
-<title>FR:-Cartoon-network-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/175.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-Cartoon-network-HD </link>
+<title>FRANCE_24_FR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1485.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_24_FR </link>
 </item>
 <item>
-<title>FR:-Boomerang</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/494.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-Boomerang </link>
+<title>BFM_TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM_TV </link>
 </item>
 <item>
-<title>FR:-PIWI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/169.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-PIWI </link>
+<title>LCP</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1588.ts&amp;streamtype=TSDOWNLOADER&amp;name=LCP </link>
 </item>
 <item>
-<title>FR:-Gulli</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/172.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-Gulli </link>
+<title>TV5_MONDE_ORIENT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1220.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV5_MONDE_ORIENT </link>
 </item>
 <item>
-<title>FR:-Tiji</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/180.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-Tiji </link>
+<title>LCI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1587.ts&amp;streamtype=TSDOWNLOADER&amp;name=LCI </link>
 </item>
 <item>
-<title>FR:-TeleToon</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/168.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-TeleToon </link>
+<title>iTELE_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/957.ts&amp;streamtype=TSDOWNLOADER&amp;name=iTELE_HD </link>
 </item>
 <item>
-<title>FR:-GAME-ONE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/997.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-GAME-ONE </link>
+<title>BFM_BUSINESS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1277.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM_BUSINESS </link>
 </item>
 <item>
-<title>FR:-June</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/170.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-June </link>
+<title>*-*-*-*-*CSAT_DECOUVERTES*-*-*-*-*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1552.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*CSAT_DECOUVERTES*-*-*-*-* </link>
 </item>
 <item>
-<title>FR:-Mangas</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/173.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-Mangas </link>
+<title>NATIONAL_GEO_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/300.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL_GEO_HD </link>
 </item>
 <item>
-<title>FR:-NICKELODEON</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/178.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-NICKELODEON </link>
+<title>NAT_GEO_WILD_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1264.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT_GEO_WILD_HD </link>
 </item>
 <item>
-<title>۩۩۩۩۩۩۩۩۩۩۩-CANALSAT-CULTURE-۩۩۩۩۩۩۩۩۩۩۩</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/999.ts&amp;streamtype=TSDOWNLOADER&amp;name=۩۩۩۩۩۩۩۩۩۩۩-CANALSAT-CULTURE-۩۩۩۩۩۩۩۩۩۩۩ </link>
+<title>Discovery_Science_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/274.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery_Science_HD </link>
 </item>
 <item>
-<title>FR:-PLANETE+</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/325.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-PLANETE+ </link>
+<title>Discovery</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1437.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery </link>
 </item>
 <item>
-<title>FR:-PLANETE-AE-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/326.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-PLANETE-AE-HD </link>
+<title>SCIENCE&VIE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2039.ts&amp;streamtype=TSDOWNLOADER&amp;name=SCIENCE&VIE HD </link>
 </item>
 <item>
-<title>FR:-SCIENCE-et-VIE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/333.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-SCIENCE-et-VIE </link>
+<title>USHUAIA_TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/974.ts&amp;streamtype=TSDOWNLOADER&amp;name=USHUAIA_TV </link>
 </item>
 <item>
-<title>FR:-USHUAIA-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/183.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-USHUAIA-HD </link>
+<title>VOYAGE_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1289.ts&amp;streamtype=TSDOWNLOADER&amp;name=VOYAGE_HD </link>
 </item>
 <item>
-<title>FR:-Nat-Geo-Wild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/327.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-Nat-Geo-Wild </link>
+<title>ANIMAUX_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/978.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANIMAUX_HD </link>
 </item>
 <item>
-<title>FR:-NAT-GEO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1000.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-NAT-GEO </link>
+<title>PLANETE+_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/569.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLANETE+_HD </link>
 </item>
 <item>
-<title>FR:-ANIMEAUX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/184.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-ANIMEAUX </link>
+<title>PLANETE_Ci</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/451.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLANETE_Ci </link>
 </item>
 <item>
-<title>FR:-Chasse-et-peche</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/185.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-Chasse-et-peche </link>
+<title>PLANETE_A&E_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/955.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLANETE_A&E_HD </link>
 </item>
 <item>
-<title>FR:-Discovery-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/323.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-Discovery-HD </link>
+<title>CHASSE_ET_PECHE_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/364.ts&amp;streamtype=TSDOWNLOADER&amp;name=CHASSE_ET_PECHE_HD </link>
 </item>
 <item>
-<title>FR:-Discovery-Science-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/324.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-Discovery-Science-HD </link>
+<title>SEASONS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2038.ts&amp;streamtype=TSDOWNLOADER&amp;name=SEASONS </link>
+</item>
+<item>
+<title>Histoire_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2041.ts&amp;streamtype=TSDOWNLOADER&amp;name=Histoire_HD </link>
+</item>
+<item>
+<title>Toute_Histoire</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/943.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toute_Histoire </link>
+</item>
+<item>
+<title>RMC_Decouverte_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1263.ts&amp;streamtype=TSDOWNLOADER&amp;name=RMC_Decouverte_HD </link>
+</item>
+<item>
+<title>ANIMAL_PLANET_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1290.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANIMAL_PLANET_HD </link>
+</item>
+<item>
+<title>*-*-*-*-*CSAT_JEUNESSE*-*-*-*-*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1551.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*CSAT_JEUNESSE*-*-*-*-* </link>
+</item>
+<item>
+<title>DISNEY__CINEMA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/554.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY__CINEMA </link>
+</item>
+<item>
+<title>DISNEY_CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1413.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY_CHANNEL </link>
+</item>
+<item>
+<title>DISNEY_JUNIOR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY_JUNIOR </link>
+</item>
+<item>
+<title>DISNEY_XD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1280.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY_XD </link>
+</item>
+<item>
+<title>BOOMERANG_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1402.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOOMERANG_HD </link>
+</item>
+<item>
+<title>BOING</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/559.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOING </link>
+</item>
+<item>
+<title>PIWI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/941.ts&amp;streamtype=TSDOWNLOADER&amp;name=PIWI </link>
+</item>
+<item>
+<title>GULLI_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1284.ts&amp;streamtype=TSDOWNLOADER&amp;name=GULLI_HD </link>
+</item>
+<item>
+<title>Tiji</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1440.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tiji </link>
+</item>
+<item>
+<title>CARTOON_NETWORK_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/267.ts&amp;streamtype=TSDOWNLOADER&amp;name=CARTOON_NETWORK_HD </link>
+</item>
+<item>
+<title>NICKELODEON_JUNIOR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1514.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON_JUNIOR </link>
+</item>
+<item>
+<title>TELETOON+_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1287.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELETOON+_HD </link>
+</item>
+<item>
+<title>JUNE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/942.ts&amp;streamtype=TSDOWNLOADER&amp;name=JUNE </link>
+</item>
+<item>
+<title>CANAL_J</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1278.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL_J </link>
+</item>
+<item>
+<title>MANGAS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/386.ts&amp;streamtype=TSDOWNLOADER&amp;name=MANGAS </link>
+</item>
+<item>
+<title>Zouzou_TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1441.ts&amp;streamtype=TSDOWNLOADER&amp;name=Zouzou_TV </link>
+</item>
+<item>
+<title>*-*-*-*-*CSAT_MUSIQUE*-*-*-*-*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1742.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*CSAT_MUSIQUE*-*-*-*-* </link>
+</item>
+<item>
+<title>M6_MUSIC_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/656.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6_MUSIC_HD </link>
+</item>
+<item>
+<title>MTV_PULSE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1259.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV_PULSE </link>
+</item>
+<item>
+<title>MTV_BASE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1261.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV_BASE </link>
+</item>
+<item>
+<title>*-*-*-*-*BELGIQUE*-*-*-*-*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1982.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*BELGIQUE*-*-*-*-* </link>
+</item>
+<item>
+<title>LA_UNE_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1410.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA_UNE_HD </link>
+</item>
+<item>
+<title>LA_DEUX_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1411.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA_DEUX_HD </link>
+</item>
+<item>
+<title>LA_TROIS_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1412.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA_TROIS_HD </link>
+</item>
+<item>
+<title>BE_CINE_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1780.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_CINE_1 </link>
+</item>
+<item>
+<title>BE_CINE_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2042.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_CINE_2 </link>
+</item>
+<item>
+<title>BE_SERIE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1779.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_SERIE </link>
+</item>
+<item>
+<title>CINEMA_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1520.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMA_2 </link>
+</item>
+<item>
+<title>BE_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1778.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_1 </link>
+</item>
+<item>
+<title>PLUG_RTL_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1439.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLUG_RTL_HD </link>
+</item>
+<item>
+<title>CLUB_RTL_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1522.ts&amp;streamtype=TSDOWNLOADER&amp;name=CLUB_RTL_HD </link>
+</item>
+<item>
+<title>RTL_TVI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1438.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL_TVI </link>
+</item>
+<item>
+<title>*-*-*-*-*SWISS*-*-*-*-*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1902.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*SWISS*-*-*-*-* </link>
+</item>
+<item>
+<title>RTS_Un_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1267.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTS_Un_HD </link>
+</item>
+<item>
+<title>RTS_Deux_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1266.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTS_Deux_HD </link>
+</item>
+<item>
+<title>•??-BEIN_SPORTS-??•</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1548.ts&amp;streamtype=TSDOWNLOADER&amp;name=•??-BEIN_SPORTS-??• </link>
+</item>
+<item>
+<title>beIN_NEWS_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1269.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_NEWS_HD </link>
+</item>
+<item>
+<title>beIN_SPORTeS_HD1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2132.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTeS_HD1 </link>
+</item>
+<item>
+<title>beIN_SPORTS_HD2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/536.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD2 </link>
+</item>
+<item>
+<title>beIN_SPORTS_HD3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/535.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD3 </link>
+</item>
+<item>
+<title>beIN_SPORTS_HD4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD4 </link>
+</item>
+<item>
+<title>beIN_SPORTS_HD5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/533.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD5 </link>
+</item>
+<item>
+<title>beIN_SPORTS_HD6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/532.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD6 </link>
+</item>
+<item>
+<title>beIN_SPORTS_HD7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/531.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD7 </link>
+</item>
+<item>
+<title>beIN_SPORTS_HD8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/530.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD8 </link>
+</item>
+<item>
+<title>beIN_SPORTS_HD9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/949.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD9 </link>
+</item>
+<item>
+<title>beIN_SPORTS_HD10</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/542.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD10 </link>
+</item>
+<item>
+<title>beIN_SPORTS_HD11</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1297.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD11 </link>
+</item>
+<item>
+<title>beIN_SPORTS_HD12</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1298.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD12 </link>
+</item>
+<item>
+<title>beIN_SPORTS_HD13</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1271.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD13 </link>
+</item>
+<item>
+<title>beIN_SPORTS_HD14</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1272.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD14 </link>
+</item>
+<item>
+<title>beIN_SPORTS_HD15</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1273.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD15 </link>
+</item>
+<item>
+<title>beIN_SPORTS_HD16</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1274.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD16 </link>
+</item>
+<item>
+<title>beIN_SPORTS_HD17</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1270.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD17 </link>
+</item>
+<item>
+<title>*-*-*-*-*beIN_SECOURS*-*-*-*-*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2101.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*beIN_SECOURS*-*-*-*-* </link>
+</item>
+<item>
+<title>beIN_SPORTS_1_secours</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2176.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_1_secours </link>
+</item>
+<item>
+<title>beIN_SPORTS_2_secours</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2175.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_2_secours </link>
+</item>
+<item>
+<title>beIN_SPORTS_3_secours</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2174.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_3_secours </link>
+</item>
+<item>
+<title>beIN_SPORTS_4_secours</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2173.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_4_secours </link>
+</item>
+<item>
+<title>beIN_SPORTS_5_secours</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2172.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_5_secours </link>
+</item>
+<item>
+<title>beIN_SPORTS_6_secours</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2171.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_6_secours </link>
+</item>
+<item>
+<title>beIN_SPORTS_7secours</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2170.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_7secours </link>
+</item>
+<item>
+<title>beIN_SPORTS_8secours</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2169.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_8secours </link>
+</item>
+<item>
+<title>beIN_SPORTS_9secours</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2168.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_9secours </link>
+</item>
+<item>
+<title>beIN_SPORTS_10secours</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2167.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_10secours </link>
+</item>
+<item>
+<title>*-*-*-*-*beIN_INTERNATIONAL*-*-*-*-*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1903.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*beIN_INTERNATIONAL*-*-*-*-* </link>
+</item>
+<item>
+<title>BEIN_SPORTS_1_MAX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2142.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN_SPORTS_1_MAX </link>
+</item>
+<item>
+<title>BEIN_SPORTS_2_MAX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2143.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN_SPORTS_2_MAX </link>
+</item>
+<item>
+<title>beIN_SPORTS_3_MAX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1248.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_3_MAX </link>
+</item>
+<item>
+<title>*-*-*-*-*BEIN_MOVIES*-*-*-*-*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2187.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*BEIN_MOVIES*-*-*-*-* </link>
+</item>
+<item>
+<title>beIN_MOVIES_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1382.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_MOVIES_1 </link>
+</item>
+<item>
+<title>beIN_MOVIES_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1383.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_MOVIES_2 </link>
+</item>
+<item>
+<title>beIN_MOVIES_3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1556.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_MOVIES_3 </link>
+</item>
+<item>
+<title>BeIN_MOVIES_4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2144.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeIN_MOVIES_4 </link>
+</item>
+<item>
+<title>beIN_STAR_WORLD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2181.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_STAR_WORLD </link>
+</item>
+<item>
+<title>beIN_AMC_MOVIES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2185.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_AMC_MOVIES </link>
+</item>
+<item>
+<title>beIN_DISCOVERY_LIFE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2183.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_DISCOVERY_LIFE </link>
+</item>
+<item>
+<title>beIN_FOX_FAMILY_MOVIES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2186.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_FOX_FAMILY_MOVIES </link>
+</item>
+<item>
+<title>beIN_SERIE_ONE_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2184.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SERIE_ONE_HD </link>
+</item>
+<item>
+<title>*-*-*-*-*BEIN_KIDS*-*-*-*-*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2180.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*BEIN_KIDS*-*-*-*-* </link>
+</item>
+<item>
+<title>beIN_BARRAEM_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2177.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_BARRAEM_HD </link>
+</item>
+<item>
+<title>beIN_DREAM_WORKS_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2179.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_DREAM_WORKS_HD </link>
+</item>
+<item>
+<title>beIN_FATAFEAT_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2182.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_FATAFEAT_HD </link>
+</item>
+<item>
+<title>beIN_JEEM_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2178.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_JEEM_HD </link>
+</item>
+<item>
+<title>beIN_BARAEM</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1098.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_BARAEM </link>
+</item>
+<item>
+<title>*-*-*-*-*beIN_SFR_Csat*-*-*-*-*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2135.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*beIN_SFR_Csat*-*-*-*-* </link>
+</item>
+<item>
+<title>beIN_SPORTS_ES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1504.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_ES </link>
+</item>
+<item>
+<title>beIN_SPORTS_1_HD_FR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/211.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_1_HD_FR </link>
+</item>
+<item>
+<title>beIN_SPORTS_2_HD_FR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/212.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_2_HD_FR </link>
+</item>
+<item>
+<title>beIN_SPORTS_3_HD_FR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/952.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_3_HD_FR </link>
+</item>
+<item>
+<title>SFR_SPORT_1_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2043.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR_SPORT_1_HD </link>
+</item>
+<item>
+<title>SFR_SPORT_2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2044.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR_SPORT_2_HD </link>
+</item>
+<item>
+<title>SFR_SPORT_3_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2045.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR_SPORT_3_HD </link>
+</item>
+<item>
+<title>EUROSPORT_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/977.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT_1 </link>
+</item>
+<item>
+<title>EUROSPORT_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1282.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT_2 </link>
+</item>
+<item>
+<title>INFOSPORT+_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/975.ts&amp;streamtype=TSDOWNLOADER&amp;name=INFOSPORT+_HD </link>
+</item>
+<item>
+<title>L'EQUIPE_21_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/976.ts&amp;streamtype=TSDOWNLOADER&amp;name=L'EQUIPE_21_HD </link>
+</item>
+<item>
+<title>CANAL+_SPORT_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/266.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+_SPORT_HD </link>
+</item>
+<item>
+<title>MA_CHAINE_SPORT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/546.ts&amp;streamtype=TSDOWNLOADER&amp;name=MA_CHAINE_SPORT </link>
+</item>
+<item>
+<title>GOLF+_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1283.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOLF+_HD </link>
+</item>
+<item>
+<title>Foot+_24/24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/980.ts&amp;streamtype=TSDOWNLOADER&amp;name=Foot+_24/24 </link>
+</item>
+<item>
+<title>EQUIDIA_LIVE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1281.ts&amp;streamtype=TSDOWNLOADER&amp;name=EQUIDIA_LIVE </link>
+</item>
+<item>
+<title>*-*-*-*-*ABU_DHABI_SPORTS*-*-*-*-*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1745.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*ABU_DHABI_SPORTS*-*-*-*-* </link>
+</item>
+<item>
+<title>AR_ADSport1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2061.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR_ADSport1HD </link>
+</item>
+<item>
+<title>AR_ADSport2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2062.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR_ADSport2HD </link>
+</item>
+<item>
+<title>AR_ADSport3HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2063.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR_ADSport3HD </link>
+</item>
+<item>
+<title>AR_ADSport4HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2064.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR_ADSport4HD </link>
+</item>
+<item>
+<title>AR_ADSport5HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2065.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR_ADSport5HD </link>
+</item>
+<item>
+<title>MBC_PRO_SPORT_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1898.ts&amp;streamtype=TSDOWNLOADER&amp;name=MBC_PRO_SPORT_1 </link>
+</item>
+<item>
+<title>MBC_PRO_SPORT_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1899.ts&amp;streamtype=TSDOWNLOADER&amp;name=MBC_PRO_SPORT_2 </link>
+</item>
+<item>
+<title>MBC_PRO_SPORT_3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1900.ts&amp;streamtype=TSDOWNLOADER&amp;name=MBC_PRO_SPORT_3 </link>
+</item>
+<item>
+<title>*-*-*-*-*OSN_HD*-*-*-*-*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2134.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*OSN_HD*-*-*-*-* </link>
+</item>
+<item>
+<title>OSN_ACTION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1642.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_ACTION </link>
+</item>
+<item>
+<title>OSN_ACTION_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1740.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_ACTION_2 </link>
+</item>
+<item>
+<title>OSN_CINEMA_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1734.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_CINEMA_1 </link>
+</item>
+<item>
+<title>OSN_CINEMA_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1735.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_CINEMA_2 </link>
+</item>
+<item>
+<title>OSN_MOVIES_PREMIERE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1739.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_MOVIES_PREMIERE </link>
+</item>
+<item>
+<title>OSN_MOVIES_DRAMA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1640.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_MOVIES_DRAMA </link>
+</item>
+<item>
+<title>OSN-Movie-kids-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1636.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN-Movie-kids-HD </link>
+</item>
+<item>
+<title>OSN-Star-Movies-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1633.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN-Star-Movies-HD </link>
+</item>
+<item>
+<title>OSN-Star-World-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1632.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN-Star-World-HD </link>
+</item>
+<item>
+<title>OSN_Premier2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1733.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_Premier2_HD </link>
+</item>
+<item>
+<title>OSN_ON_DEMAND_EXTRA_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1793.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_ON_DEMAND_EXTRA_HD </link>
+</item>
+<item>
+<title>OSN_ON_DEMANDE_2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1792.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_ON_DEMANDE_2_HD </link>
+</item>
+<item>
+<title>OSN_BOX_OFFICE_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1644.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_BOX_OFFICE_1 </link>
+</item>
+<item>
+<title>OSN_BOX_OFFICE_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1643.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_BOX_OFFICE_2 </link>
+</item>
+<item>
+<title>OSN_BOX_Office_03</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1730.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_BOX_Office_03 </link>
+</item>
+<item>
+<title>OSN_Yahala_Shabab</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1737.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_Yahala_Shabab </link>
+</item>
+<item>
+<title>OSN_Yahala_Drama</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1736.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_Yahala_Drama </link>
+</item>
+<item>
+<title>OSN_ON_DEMANDE_1_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1641.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_ON_DEMANDE_1_HD </link>
+</item>
+<item>
+<title>OSN-Yahala-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1631.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN-Yahala-HD </link>
+</item>
+<item>
+<title>OSN-MBC_Drama-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1637.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN-MBC_Drama-HD </link>
+</item>
+<item>
+<title>OSN-ALYOUM</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1638.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN-ALYOUM </link>
+</item>
+<item>
+<title>OSN PPV_1_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2141.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN PPV_1_HD </link>
+</item>
+<item>
+<title>OSN_PPV 2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2137.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_PPV 2_HD </link>
+</item>
+<item>
+<title>OSN_PPV 3_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2138.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_PPV 3_HD </link>
+</item>
+<item>
+<title>OSN PPV_4_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2139.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN PPV_4_HD </link>
+</item>
+<item>
+<title>OSN PPV_WWE_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2140.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN PPV_WWE_HD </link>
+</item>
+<item>
+<title>OSN-Nat-Geo-Wild-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1634.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN-Nat-Geo-Wild-HD </link>
+</item>
+<item>
+<title>OSN-Discovery-Science-HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1639.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN-Discovery-Science-HD </link>
+</item>
+<item>
+<title>OSN PPV 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1731.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN PPV 1 HD </link>
+</item>
+<item>
+<title>OSN_MOVIES_FESTIVAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1732.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN_MOVIES_FESTIVAL </link>
+</item>
+<item>
+<title>Star_Cinema</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1094.ts&amp;streamtype=TSDOWNLOADER&amp;name=Star_Cinema </link>
+</item>
+<item>
+<title>ART_AFLAM_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/715.ts&amp;streamtype=TSDOWNLOADER&amp;name=ART_AFLAM_1 </link>
+</item>
+<item>
+<title>ART_AFLAM_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/713.ts&amp;streamtype=TSDOWNLOADER&amp;name=ART_AFLAM_2 </link>
+</item>
+<item>
+<title>ART_CINEMA_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1519.ts&amp;streamtype=TSDOWNLOADER&amp;name=ART_CINEMA_1 </link>
+</item>
+<item>
+<title>ART_HEKAYAT_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/710.ts&amp;streamtype=TSDOWNLOADER&amp;name=ART_HEKAYAT_2 </link>
+</item>
+<item>
+<title>ART_HEKAYAT_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1095.ts&amp;streamtype=TSDOWNLOADER&amp;name=ART_HEKAYAT_1 </link>
+</item>
+<item>
+<title>*-*-*-*-*PPV_VOD_FRANCE*-*-*-*-*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2099.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*PPV_VOD_FRANCE*-*-*-*-* </link>
+</item>
+<item>
+<title>BOX_OFFICE_1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1797.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOX_OFFICE_1HD </link>
+</item>
+<item>
+<title>BOX_OFFICE_2HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1798.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOX_OFFICE_2HD </link>
+</item>
+<item>
+<title>BOX_OFFICE_3HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1799.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOX_OFFICE_3HD </link>
+</item>
+<item>
+<title>BOX_OFFICE_4HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1800.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOX_OFFICE_4HD </link>
+</item>
+<item>
+<title>BOX_OFFICE_5HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1801.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOX_OFFICE_5HD </link>
+</item>
+<item>
+<title>BOX_OFFICE_6HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1802.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOX_OFFICE_6HD </link>
+</item>
+<item>
+<title>FR: BOX OFFICE 7 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2100.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BOX OFFICE 7 HD </link>
+</item>
+<item>
+<title>A_LA_CARTE_01</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1669.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_01 </link>
+</item>
+<item>
+<title>A_LA_CARTE_02</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1670.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_02 </link>
+</item>
+<item>
+<title>A_LA_CARTE_03</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1671.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_03 </link>
+</item>
+<item>
+<title>A_LA_CARTE_04</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1672.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_04 </link>
+</item>
+<item>
+<title>A_LA_CARTE_05</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1673.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_05 </link>
+</item>
+<item>
+<title>A_LA_CARTE_06</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1674.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_06 </link>
+</item>
+<item>
+<title>A_LA_CARTE_07</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1675.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_07 </link>
+</item>
+<item>
+<title>A_LA_CARTE_08</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1676.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_08 </link>
+</item>
+<item>
+<title>CANALPLAY-1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1653.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-1 </link>
+</item>
+<item>
+<title>CANALPLAY-2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1654.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-2 </link>
+</item>
+<item>
+<title>CANALPLAY-3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1655.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-3 </link>
+</item>
+<item>
+<title>CANALPLAY-4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1656.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-4 </link>
+</item>
+<item>
+<title>CANALPLAY-5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1657.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-5 </link>
+</item>
+<item>
+<title>CANALPLAY-6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1658.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-6 </link>
+</item>
+<item>
+<title>CANALPLAY-7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1659.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-7 </link>
+</item>
+<item>
+<title>CANALPLAY-8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1660.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-8 </link>
+</item>
+<item>
+<title>CANALPLAY-9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1661.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-9 </link>
+</item>
+<item>
+<title>CANALPLAY-10</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1662.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-10 </link>
+</item>
+<item>
+<title>CANALPLAY-11</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1663.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-11 </link>
+</item>
+<item>
+<title>CANALPLAY-12</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1664.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-12 </link>
+</item>
+<item>
+<title>CANALPLAY-13</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1665.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-13 </link>
+</item>
+<item>
+<title>CANALPLAY-14</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1666.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-14 </link>
+</item>
+<item>
+<title>CANALPLAY-15</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1667.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-15 </link>
+</item>
+<item>
+<title>FR: CANALPLAY JUNIOR HD 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2094.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANALPLAY JUNIOR HD 1 </link>
+</item>
+<item>
+<title>FR: CANALPLAY JUNIOR HD 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2095.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANALPLAY JUNIOR HD 2 </link>
+</item>
+<item>
+<title>FR: CANALPLAY JUNIOR HD 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2096.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANALPLAY JUNIOR HD 3 </link>
+</item>
+<item>
+<title>FR: CANALPLAY JUNIOR HD 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2097.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANALPLAY JUNIOR HD 4 </link>
+</item>
+<item>
+<title>FR: CANALPLAY JUNIOR HD 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2098.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANALPLAY JUNIOR HD 5 </link>
+</item>
+<item>
+<title>FR_Orange_Cine 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2087.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Orange_Cine 2 </link>
+</item>
+<item>
+<title>FR_Orange_Cine 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2088.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Orange_Cine 3 </link>
+</item>
+<item>
+<title>FR_Orange_Cine 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2089.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Orange_Cine 4 </link>
+</item>
+<item>
+<title>FR_Orange_Cine 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2090.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Orange_Cine 5 </link>
+</item>
+<item>
+<title>FR_Orange_Cine 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2092.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Orange_Cine 6 </link>
+</item>
+<item>
+<title>FR_Orange_Cine 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2093.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Orange_Cine 7 </link>
+</item>
+<item>
+<title>FR_Orange_Cine 8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2091.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Orange_Cine 8 </link>
+</item>
+<item>
+<title>*-*-*-*-*PPV_ISPANIA*-*-*-*-*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1743.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*PPV_ISPANIA*-*-*-*-* </link>
+</item>
+<item>
+<title>TAQUILLA_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1645.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA_1 </link>
+</item>
+<item>
+<title>TAQUILLA_2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1646.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA_2_HD </link>
+</item>
+<item>
+<title>TAQUILLA_3_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1647.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA_3_HD </link>
+</item>
+<item>
+<title>TAQUILLA_4_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1648.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA_4_HD </link>
+</item>
+<item>
+<title>TAQUILLA_5_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1649.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA_5_HD </link>
+</item>
+<item>
+<title>TAQUILLA_6_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1650.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA_6_HD </link>
+</item>
+<item>
+<title>TAQUILLA_7_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1651.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA_7_HD </link>
+</item>
+<item>
+<title>TAQUILLA_8_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1652.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA_8_HD </link>
+</item>
+<item>
+<title>? ? ? ? ?ITALIE? ? ? ? ?</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1744.ts&amp;streamtype=TSDOWNLOADER&amp;name=? ? ? ? ?ITALIE? ? ? ? ? </link>
+</item>
+<item>
+<title>PRIMAFILA_1HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1299.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIMAFILA_1HD </link>
+</item>
+<item>
+<title>PRIMAFILA_2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1497.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIMAFILA_2_HD </link>
+</item>
+<item>
+<title>PRIMAFILA_3_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1496.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIMAFILA_3_HD </link>
+</item>
+<item>
+<title>PRIMAFILA_4_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1495.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIMAFILA_4_HD </link>
+</item>
+<item>
+<title>PRIMAFILA_5_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1494.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIMAFILA_5_HD </link>
+</item>
+<item>
+<title>PRIMAFILA_6_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1493.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIMAFILA_6_HD </link>
+</item>
+<item>
+<title>PRIMAFILA_7_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1677.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIMAFILA_7_HD </link>
+</item>
+<item>
+<title>PRIMAFILA_8_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1789.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIMAFILA_8_HD </link>
+</item>
+<item>
+<title>PRIMAFILA_9_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1788.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIMAFILA_9_HD </link>
+</item>
+<item>
+<title>Prima_Fila_10_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/2050.ts&amp;streamtype=TSDOWNLOADER&amp;name=Prima_Fila_10_HD </link>
+</item>
+<item>
+<title>*-*-*-*-*MOVIES_STAR*-*-*-*-*</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1554.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*MOVIES_STAR*-*-*-*-* </link>
+</item>
+<item>
+<title>C+_ACCION_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1453.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+_ACCION_HD </link>
+</item>
+<item>
+<title>C+_DCINE_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1592.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+_DCINE_HD </link>
+</item>
+<item>
+<title>D_Cine_Español</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1418.ts&amp;streamtype=TSDOWNLOADER&amp;name=D_Cine_Español </link>
+</item>
+<item>
+<title>C+_COMEDIA_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1505.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+_COMEDIA_HD </link>
+</item>
+<item>
+<title>C+_SERIES_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1452.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+_SERIES_HD </link>
+</item>
+<item>
+<title>C+_SERIES_XTRA_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1426.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+_SERIES_XTRA_HD </link>
+</item>
+<item>
+<title>C+_XTRA_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/sony/sony/1424.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+_XTRA_HD </link>
 </item>
 
 
