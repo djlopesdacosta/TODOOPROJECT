@@ -24,7 +24,7 @@
 </channel>
 <channel>		
 <name>[COLOR white][B]FILMES[/B][/COLOR]</name></name>
-<thumbnail>https://i37.servimg.com/u/f37/19/44/91/43/icon-b10.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/ICONS/ICON-BASE.png</thumbnail>
 <fanart>http://i97.servimg.com/u/f97/19/44/91/43/69183010.jpg</fanart>
 </subitem>
 </item>
@@ -32,7 +32,7 @@
 
 <item>
 <title>[COLOR white]NACIONAIS[/COLOR]</title>
-<thumbnail>https://doc-0o-80-docs.googleusercontent.com/docs/securesc/vuhmaglm55r4a6itus5tt3fmqd4c8lfa/8bvvbel63gbbq9ihajlki9cs7nt3neu9/1488146400000/11145022629381831080/11145022629381831080/0B0rYI9oLLfVVaUd1S3BoeE9vYjg?e=download</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/ICONS/FILMES-NACIONAIS-.png</thumbnail>
 <fanart>http://i97.servimg.com/u/f97/19/44/91/43/tumblr10.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/FILMES/NACIONAIS.xml</externallink>
@@ -40,7 +40,7 @@
 
 <item>
 <title>[COLOR white]DUBLADOS[/COLOR]</title>
-<thumbnail>https://www.dropbox.com/s/q4frmyda0jli9ix/FILMES-DUBRADOS.png?dl=1</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/ICONS/FILMES-DUBRADOS.png</thumbnail>
 <fanart>http://i97.servimg.com/u/f97/19/44/91/43/transf10.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/FILMES/filmes%20Dublado.m3u</externallink>
@@ -52,21 +52,21 @@
 <title>[COLOR white]INTERNACIONAIS[/COLOR]</title>
 <link>http://Movies.me</link>
 <jsonrpc>plugin://plugin.video.zen/?action=movies&amp;url=popular</jsonrpc>
-<thumbnail>https://www.dropbox.com/s/bqoz6dx31wu7tyc/FILMES-INTERNACIONAIS.png?dl=1</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/ICONS/FILMES-INTERNACIONAIS.png</thumbnail>
 <fanart>http://i97.servimg.com/u/f97/19/44/91/43/transf10.jpg</fanart>
 </item>
 
 
 <channel>		
 <name>[COLOR white][B]SÉRIES[/B][/COLOR] </name>
-<thumbnail>https://www.dropbox.com/s/vyuq1bik2gbi63x/S%C3%89RIES.png?dl=1</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/ICONS/S%C3%89RIES.png</thumbnail>
 <fanart>http://img01.deviantart.net/19da/i/2013/118/d/a/vikings_wallpaper_by_iamsointense-d62xwvb.jpg</fanart>
 </subitem>
 </item>
 
 <item>
 <title>[COLOR white]NACIONAIS[/COLOR]</title>
-<thumbnail>https://www.dropbox.com/s/rin8gug69gcl9nn/S%C3%89RIES-NACIONAIS.png?dl=1</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/ICONS/S%C3%89RIES-NACIONAIS.png</thumbnail>
 <fanart>http://img01.deviantart.net/19da/i/2013/118/d/a/vikings_wallpaper_by_iamsointense-d62xwvb.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/S%C3%89RIES/NACIONAIS.xml</externallink>
@@ -74,7 +74,7 @@
 
 <item>
 <title>[COLOR white]DUBLADOS[/COLOR]</title>
-<thumbnail>https://www.dropbox.com/s/jyt3zovnmvwot1h/S%C3%89RIES-DUBLADOS.png?dl=1</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/ICONS/S%C3%89RIES-DUBLADOS.png</thumbnail>
 <fanart>http://img01.deviantart.net/19da/i/2013/118/d/a/vikings_wallpaper_by_iamsointense-d62xwvb.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/S%C3%89RIES/DUBLADOS.xml</externallink>
@@ -82,7 +82,7 @@
 
 <item>
 <title>[COLOR white]INTERNACIONAIS[/COLOR]</title>
-<thumbnail>https://www.dropbox.com/s/u995mxb8mzhwu44/S%C3%89RIES-INTERNACIONAIS.png?dl=1</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/ICONS/S%C3%89RIES-INTERNACIONAIS.png</thumbnail>
 <fanart>http://img01.deviantart.net/19da/i/2013/118/d/a/vikings_wallpaper_by_iamsointense-d62xwvb.jpg</fanart>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.zen/?action=tvshows&amp;url=popular&</jsonrpc>
@@ -92,7 +92,7 @@
 
 <channel>
 <name>[COLOR white][B]ANIMACAO[/B][/COLOR]</name>
-<thumbnail>https://www.dropbox.com/s/aykow3vqnmcxfwz/ANIMA%C3%87%C3%83O.png?dl=1</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/ICONS/ANIMA%C3%87%C3%83O.png</thumbnail>
 <fanart>https://img02.olx.co.ke/images_olxke/1000117755_1_1000x700_hd-movies-series-softcopy-south-c_rev001.jpg</fanart>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/ANIMA%C3%87%C3%83O.xml</externallink>
@@ -101,13 +101,13 @@
 
 <channel>
 <name>[COLOR white][B]YOUTUBE[/B][/COLOR]</name>
-<thumbnail>https://www.dropbox.com/s/hbjbaevp2hc3pkx/YOU-TUBE-.png?dl=1</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/ICONS/YOU-TUBE-.png</thumbnail>
 <fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Youtube-HD-Wallpapers-3.jpg</fanart>
 </subitem>
 
 <item>
 <title>[COLOR white]INICIAR SESSÃO [/COLOR]</title>
-<thumbnail>https://www.dropbox.com/s/hbjbaevp2hc3pkx/YOU-TUBE-.png?dl=1</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/ICONS/YOU-TUBE-.png</thumbnail>
 <fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Youtube-HD-Wallpapers-3.jpg</fanart>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.youtube/sign/in/</jsonrpc>
@@ -115,7 +115,7 @@
 
 <item>
 <title>[COLOR white]POPULAR AGORA [/COLOR]</title>
-<thumbnail>https://www.dropbox.com/s/hbjbaevp2hc3pkx/YOU-TUBE-.png?dl=1</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/ICONS/YOU-TUBE-.png</thumbnail>
 <fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Youtube-HD-Wallpapers-3.jpg</fanart>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.youtube/special/popular_right_now/</jsonrpc>
@@ -124,7 +124,7 @@
 
 <item>
 <title>[COLOR white]PROCURAR[/COLOR]</title>
-<thumbnail>https://www.dropbox.com/s/hbjbaevp2hc3pkx/YOU-TUBE-.png?dl=1</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/ICONS/YOU-TUBE-.png</thumbnail>
 <fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Youtube-HD-Wallpapers-3.jpg</fanart>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/input/</jsonrpc>
@@ -133,7 +133,7 @@
 
 <item>
 <title>[COLOR white]NAVEGAR NOS CANAIS[/COLOR]</title>
-<thumbnail>https://www.dropbox.com/s/hbjbaevp2hc3pkx/YOU-TUBE-.png?dl=1</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/ICONS/YOU-TUBE-.png</thumbnail>
 <fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Youtube-HD-Wallpapers-3.jpg</fanart>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.youtube/special/browse_channels/</jsonrpc>
@@ -142,7 +142,7 @@
 
 <item>
 <title>[COLOR white]LIVE[/COLOR]</title>
-<thumbnail>https://www.dropbox.com/s/hbjbaevp2hc3pkx/YOU-TUBE-.png?dl=1</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/ICONS/YOU-TUBE-.png</thumbnail>
 <fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Youtube-HD-Wallpapers-3.jpg</fanart>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.youtube/special/live/</jsonrpc>
@@ -150,7 +150,7 @@
 
 <item>
 <title>[COLOR white]DEFINIÇÕES[/COLOR]</title>
-<thumbnail>https://www.dropbox.com/s/hbjbaevp2hc3pkx/YOU-TUBE-.png?dl=1</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/ICONS/YOU-TUBE-.png</thumbnail>
 <fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Youtube-HD-Wallpapers-3.jpg</fanart>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.youtube/config/youtube/</jsonrpc>
