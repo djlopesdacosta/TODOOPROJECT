@@ -57,8 +57,8 @@
 
 <item>
 <title>[COLOR=red][B][I] RTP 1 HD [/I][/B][/COLOR][COLOR=cyan]    [/COLOR]</title>
-<link></link>
-<link>http://masteriptv.dnsfor.me:8000/live/Albino/Albino/1405.m3u8</link>
+
+<link>http://163.172.42.47:8000/live/antonioSAT/diasSAT/118.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 <fanart>http://4.fotos.web.sapo.io/i/oc913ed30/18864727_W0533.png</fanart>
 </item>
@@ -154,19 +154,11 @@
 <item>
 <title>[COLOR=red][B][I] SIC HD [/I][/B][/COLOR] </title>
 
-<link>http://masteriptv.dnsfor.me:8000/live/Albino/Albino/1409.m3u8</link>
+<link>http://163.172.42.47:8000/live/antonioSAT/diasSAT/3.m3u8</link>
 <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
 <fanart>http://iptv.cline.in:80/live/greg/greg/1166.m3u8</fanart>
 </item>
 
-
-<item>
-<title>[COLOR=red][B][I] SIC HD [/I][/B][/COLOR]   [COLOR=cyan][/COLOR]</title>
-
-<link>http://masteriptv.dnsfor.me:8000/live/Albino/Albino/1410.m3u8</link>
-<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
-<fanart>http://iptv.cline.in:80/live/greg/greg/1166.m3u8</fanart>
-</item>
 
 
 
@@ -213,7 +205,7 @@
 <item>
 <title>[COLOR=red][B][I] TVI [/I][/B][/COLOR]   [COLOR=cyan]HD[/COLOR]</title>
 
-<link>http://masteriptv.dnsfor.me:8000/live/Albino/Albino/1413.m3u8</link>
+<link>http://163.172.42.47:8000/live/antonioSAT/diasSAT/4.m3u8</link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
 <fanart>https://lh6.ggpht.com/Rco-3B_gxp2WxcpArRjrp3iT_XKI94B2paXEh86tn-wioNk9EGKYYUaa6NDg1yLmoGqF=h900</fanart>
@@ -1123,7 +1115,7 @@
 <item>
 <title>[COLOR=grey][B][I] DISNEY JUNIOR  [/I][/B][/COLOR]    [COLOR=lime][/COLOR]  </title>
 
-<link>http://213.188.51.185:9981/play/a00n</link>
+<link>http://163.172.42.47:8000/live/antonioSAT/diasSAT/55.m3u8</link>
 
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -2332,7 +2324,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item>
 <title>[COLOR magenta] [I] TV CINE 1 HD [/I] [/COLOR]  [COLOR=lime][/COLOR] </title>
 
-<link>http://htv.iptvpro.biz:5500/live/ss/ss/12.m3u8</link>
+<link>http://163.172.42.47:8000/live/antonioSAT/diasSAT/30.m3u8</link>
 
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine1.png</thumbnail>
 </regex>
@@ -2342,7 +2334,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item>
 <title>[COLOR magenta] [I] TV CINE 1 HD [/I] [/COLOR]  [COLOR=lime][/COLOR] </title>
 
-<link>http://77.57.189.132:8000/play/a02r</link>
+<link></link>
 
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine1.png</thumbnail>
 </regex>
@@ -2682,7 +2674,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item>
 <title>[COLOR blue] [I]SPORT TV + HD[/I] [/COLOR] [COLOR orange]     [/COLOR]</title>
 
-<link>http://46.126.71.153:8000/play/a02s</link>
+<link></link>
 
 <thumbnail>http://www.onlinenatv.com/wp-content/uploads/2016/10/sport.tv_.portugal.jpg?x78568</thumbnail>
 <fanart></fanart>
@@ -2691,7 +2683,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <item>
 <title>[COLOR blue] [I]SPORT TV +[/I] [/COLOR] [COLOR orange]     [/COLOR]</title>
 
-<link>http://213.188.51.185:9981/play/a00g</link>
+<link></link>
 <thumbnail>http://www.onlinenatv.com/wp-content/uploads/2016/10/sport.tv_.portugal.jpg?x78568</thumbnail>
 <fanart></fanart>
 </item>
@@ -2704,8 +2696,8 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 </item>
 
 <item>
-<title>[COLOR=blue][B][I] SPORT TV 1 [/I][/B][/COLOR]  [COLOR=lime]()[/COLOR]</title>
-<link>http://testes:testes@testefree.sytes.net:9981/play/stream/channel/626a60a7d9b07f15366ffe850a3670b0?title=80%20%3A%20SPORT%20TV%201</link>
+<title>[COLOR=blue][B][I] SPORT TV 1 [/I][/B][/COLOR]  </title>
+<link>http://163.172.42.47:8000/live/antonioSAT/diasSAT/146.m3u8</link>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 
