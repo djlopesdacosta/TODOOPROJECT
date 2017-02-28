@@ -33,8 +33,8 @@
 <item>
 <title>[COLOR=red][B][I] RTP 1 [/I][/B][/COLOR][COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
 
-<sportsdevil>http://www.tvtuga.com/rtp-1/</sportsdevil>
-
+<sportsdevil>https://www.rtp.pt/play/direto/rtp1</sportsdevil>
+<sportsdevil>http://www.sporttvonlinehd.com/index.php?canal=rtp</sportsdevil>
 <referer>http://www.rtp.pt/</referer>file:///C:/Users/ANTONI~1/AppData/Local/Temp/TV-TUGA-LISTA-PREMIUM.M3U
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 </item>
@@ -67,7 +67,7 @@
 <title>[COLOR=red][B][I] RTP 2 [/I][/B][/COLOR] [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.rtp.pt/play/direto/rtp2</sportsdevil>
 <sportsdevil>http://mytvfree2.me/rtp-2-online-em-direto</sportsdevil>
-<sportsdevil>http://www.estadiofutebol.com/gratis/rtp2</sportsdevil>
+<sportsdevil>http://www.sporttvonlinehd.com/index.php?canal=rtp2</sportsdevil>
 <sportsdevil>http://www.desportonline.net/index.php?canal=rtp2</sportsdevil>
 <sportsdevil></sportsdevil>
 <referer>http://www.rtp.pt/</referer>
@@ -1244,6 +1244,28 @@
 
 <thumbnail>http://www.atelevisao.com/wp-content/uploads/2012/10/Logo24kitchenHD_pantone.jpg</thumbnail>
 </item>
+
+
+
+
+
+
+<item>
+<title>[COLOR white][B][I]  ZIGZAG [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>https://www.rtp.pt/play/zigzag/direto/tv</sportsdevil>
+
+<referer>http://ucaster.eu/</referer>
+<thumbnail>http://www.freeiconspng.com/uploads/zig-zag-icon-11.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
 
 <item>   
 <title>[COLOR=grey][B][I]  BOOMERANG BR [/I][/B][/COLOR] </title> 
