@@ -23,7 +23,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 26-01-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 21-03-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -31,625 +31,326 @@
 </item>
 
 
-
 <item>
-<title>RTP 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/1.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1 </link>
+<title>PT: RTP 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7762.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1 </link>
 </item>
 <item>
-<title>RTP 1 LOW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1 LOW </link>
+<title>PT: RTP 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7761.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2 </link>
 </item>
 <item>
-<title>RTP1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/547.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP1 HD </link>
+<title>PT: RTP 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7803.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 3 </link>
 </item>
 <item>
-<title>RTP2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/1089.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP2 </link>
+<title>PT: RTP Acores</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7804.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Acores </link>
 </item>
 <item>
-<title>RTP 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/783.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2 HD </link>
+<title>PT: RTP Madeira</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7806.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Madeira </link>
 </item>
 <item>
-<title>RTP 2 LOW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/805.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2 LOW </link>
+<title>PT: RTP Memoria</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7807.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Memoria </link>
 </item>
 <item>
-<title>SIC HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/548.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC HD </link>
+<title>PT: RTP Ãfrica</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7805.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Ãfrica </link>
 </item>
 <item>
-<title>SIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/3.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC </link>
+<title>PT: SIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/15376.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC </link>
 </item>
 <item>
-<title>SIC LOW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/138.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC LOW </link>
+<title>PT: SIC Caras</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/15377.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Caras </link>
 </item>
 <item>
-<title>TVI HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/549.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI HD </link>
+<title>PT: SIC K</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/15378.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC K </link>
 </item>
 <item>
-<title>TVI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/4.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI </link>
+<title>PT: SIC Mulher</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/15379.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Mulher </link>
 </item>
 <item>
-<title>TVI LOW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/139.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI LOW </link>
+<title>PT: SIC Radical</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/15380.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Radical </link>
 </item>
 <item>
-<title>TVI REALITY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/1090.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALITY </link>
+<title>PT: Tvi 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7752.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Tvi 24 </link>
 </item>
 <item>
-<title>TVI REALITY MOSAICO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/1087.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALITY MOSAICO </link>
+<title>PT: TVI FICCAO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7751.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI FICCAO </link>
 </item>
 <item>
-<title>TVI REALITY EXCLUSIVA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/769.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALITY EXCLUSIVA </link>
+<title>PT: Porto Canal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7763.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Porto Canal </link>
 </item>
 <item>
-<title>TVI FICÇAO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/31.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI FICÇAO </link>
+<title>PT: TPA Angola</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7808.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TPA Angola </link>
 </item>
 <item>
-<title>SIC RADICAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/8.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL </link>
+<title>PT: TV Globo Premium</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7818.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo Premium </link>
 </item>
 <item>
-<title>SIC MULHER</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/7.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC MULHER </link>
+<title>PT: Canal Q</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/15371.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Q </link>
 </item>
 <item>
-<title>SIC CARAS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/1091.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC CARAS </link>
+<title>PT: Cancao Nova</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/15381.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cancao Nova </link>
 </item>
 <item>
-<title>RTP MEMORIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/122.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA </link>
+<title>PT: FTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/15372.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FTV </link>
 </item>
 <item>
-<title>RTP MADEIRA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/182.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MADEIRA </link>
+<title>PT: Fuel TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/15373.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fuel TV </link>
 </item>
 <item>
-<title>RTP AFRICA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/183.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA </link>
+<title>PT: Globo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/15362.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Globo </link>
 </item>
 <item>
-<title>RTP AÇORES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/184.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP AÇORES </link>
+<title>PT: Globo Premium</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/15374.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Globo Premium </link>
 </item>
 <item>
-<title>CANAL Q</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/1092.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL Q </link>
+<title>PT: TVE Internacional</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/15382.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVE Internacional </link>
 </item>
 <item>
-<title>►►► Noticias ◄◄◄</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/533.ts&amp;streamtype=TSDOWNLOADER&amp;name=►►► Noticias ◄◄◄ </link>
+<title>PT: MOV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7766.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV </link>
 </item>
 <item>
-<title>CMTV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/551.ts&amp;streamtype=TSDOWNLOADER&amp;name=CMTV HD </link>
+<title>=====  Desporto =====</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/13830.ts&amp;streamtype=TSDOWNLOADER&amp;name======  Desporto ===== </link>
 </item>
 <item>
-<title>ARTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/561.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARTV </link>
+<title>PT: SPORT TV +</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/15368.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV + </link>
 </item>
 <item>
-<title>SIC NOTICIAS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/5.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS </link>
+<title>PT: SPORTTV 1 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/8469.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTTV 1 SD </link>
 </item>
 <item>
-<title>FRANCE 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/868.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 24 </link>
+<title>PT: SPORTTV 2 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/8470.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTTV 2 SD </link>
 </item>
 <item>
-<title>TVI 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI 24 </link>
+<title>PT: SPORTTV 3 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/8471.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTTV 3 SD </link>
 </item>
 <item>
-<title>RTP 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/76.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 3 </link>
+<title>PT: EUROSPORT NEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7769.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUROSPORT NEWS </link>
 </item>
 <item>
-<title>TVE 24H</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/866.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVE 24H </link>
+<title>PT: EUROSPORT 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7743.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUROSPORT 1 </link>
 </item>
 <item>
-<title>BBC World News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/870.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC World News </link>
+<title>PT: EUROSPORT 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7739.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUROSPORT 2 </link>
 </item>
 <item>
-<title>A BOLA TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/50.ts&amp;streamtype=TSDOWNLOADER&amp;name=A BOLA TV </link>
+<title>PT: BTV 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7742.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BTV 1 HD </link>
 </item>
 <item>
-<title>EURONEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/202.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURONEWS </link>
+<title>PT: SPORTING TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7759.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTING TV </link>
 </item>
 <item>
-<title>►►► Desporto ◄◄◄</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=►►► Desporto ◄◄◄ </link>
+<title>PT: Motors TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7822.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motors TV </link>
 </item>
 <item>
-<title>SPORTV +</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/863.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV + </link>
+<title>PT: PFC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7764.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PFC </link>
 </item>
 <item>
-<title>SPORTV 1 LOW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/123.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 1 LOW </link>
+<title>PT: Caca & Pesca</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7833.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Caca & Pesca </link>
 </item>
 <item>
-<title>SPORTV 2 LOW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/124.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 2 LOW </link>
+<title>PT: ABOLA TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7771.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ABOLA TV </link>
 </item>
 <item>
-<title>SPORTV 3 LOW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/814.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 3 LOW </link>
+<title>====== Documentários ======</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/13828.ts&amp;streamtype=TSDOWNLOADER&amp;name======= Documentários ====== </link>
 </item>
 <item>
-<title>SPORTV 4 LOW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/815.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 4 LOW </link>
+<title>PT: Nat Geo Wild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7821.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nat Geo Wild </link>
 </item>
 <item>
-<title>SPORTV 5 LOW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/813.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 5 LOW </link>
+<title>PT: Discovery Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/13858.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery Channel </link>
 </item>
 <item>
-<title>SPORTV 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/119.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 1 </link>
+<title>PT: Odisseia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7765.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Odisseia </link>
 </item>
 <item>
-<title>SPORTV 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 2 </link>
+<title>PT: Historia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/15363.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Historia </link>
 </item>
 <item>
-<title>SPORTV 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/776.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 3 </link>
+<title>PT: Canal Historia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7832.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Historia </link>
 </item>
 <item>
-<title>SPORTV 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/774.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 4 </link>
+<title>===== Infantil =====</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/13832.ts&amp;streamtype=TSDOWNLOADER&amp;name====== Infantil ===== </link>
 </item>
 <item>
-<title>SPORTV 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/261.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 5 </link>
+<title>PT: CANAL PANDA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7815.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL PANDA </link>
 </item>
 <item>
-<title>SPORTV 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 1 HD </link>
+<title>PT: Nickelodeon</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7812.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nickelodeon </link>
 </item>
 <item>
-<title>SPORTV 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 2 HD </link>
+<title>PT: Baby First</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/15358.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Baby First </link>
 </item>
 <item>
-<title>SPORTV 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 3 HD </link>
+<title>PT: Baby Tv</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/15359.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Baby Tv </link>
 </item>
 <item>
-<title>SPORTV 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/36.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 4 HD </link>
+<title>PT: Biggs</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/15370.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Biggs </link>
 </item>
 <item>
-<title>SPORTV 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/37.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 5 HD </link>
+<title>PT: Panda Biggs</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7811.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Panda Biggs </link>
 </item>
 <item>
-<title>SPORTV 1 FULL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/1388.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 1 FULL HD </link>
+<title>PT: Cartoon NetWork</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7814.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cartoon NetWork </link>
 </item>
 <item>
-<title>SPORTV 2 FULL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/878.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 2 FULL HD </link>
+<title>PT: Disney Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7813.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel </link>
 </item>
 <item>
-<title>SPORTV 3 FULL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/565.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 3 FULL HD </link>
+<title>PT: Disney Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7747.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Junior </link>
 </item>
 <item>
-<title>SPORTV 4 FULL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/879.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 4 FULL HD </link>
+<title>=====  Filmes e Séries =====</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/13836.ts&amp;streamtype=TSDOWNLOADER&amp;name======  Filmes e Séries ===== </link>
 </item>
 <item>
-<title>SPORTV 5 FULL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/880.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 5 FULL HD </link>
+<title>PT: AMC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/15357.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AMC </link>
 </item>
 <item>
-<title>SPORT TV - 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/929.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV - 1 HD </link>
+<title>PT: FOX Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7824.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX Movies </link>
 </item>
 <item>
-<title>BENFICA TV 1 LOW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/113.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV 1 LOW </link>
+<title>PT: AXN WHITE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7748.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN WHITE </link>
 </item>
 <item>
-<title>BENFICA TV 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV 1 </link>
+<title>PT: CINEMUNDO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7740.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CINEMUNDO </link>
 </item>
 <item>
-<title>BENFICA TV 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV 1 HD </link>
+<title>PT: FOX COMEDY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/8473.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX COMEDY </link>
 </item>
 <item>
-<title>EUROSPORT 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 HD </link>
+<title>PT: FX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7823.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FX </link>
 </item>
 <item>
-<title>EUROSPORT 1 LOW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/811.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 LOW </link>
+<title>PT: SyFy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7819.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SyFy </link>
 </item>
 <item>
-<title>EUROSPORT 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/114.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 </link>
+<title>===== Entretenimento =====</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/13831.ts&amp;streamtype=TSDOWNLOADER&amp;name====== Entretenimento ===== </link>
 </item>
 <item>
-<title>EUROSPORT 2 XTRA HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/791.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 XTRA HD </link>
+<title>PT: A&E</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7837.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A&E </link>
 </item>
 <item>
-<title>EUROSPORT NEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/780.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT NEWS </link>
+<title>PT: E! Entertaunment</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7828.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: E! Entertaunment </link>
 </item>
 <item>
-<title>SPORTING TV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING TV HD </link>
+<title>PT: TVI REALITY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/8494.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI REALITY </link>
 </item>
 <item>
-<title>SPORTING TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/812.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING TV </link>
+<title>PT: TLC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/15369.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TLC </link>
 </item>
 <item>
-<title>PORTO CANAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL </link>
+<title>PT: CBS Reality</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7831.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CBS Reality </link>
 </item>
 <item>
-<title>KOMBAT SPORT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/881.ts&amp;streamtype=TSDOWNLOADER&amp;name=KOMBAT SPORT </link>
+<title>PT: MCM Pop</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/15365.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MCM Pop </link>
 </item>
 <item>
-<title>REAL MADRID TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=REAL MADRID TV </link>
+<title>PT: MCM Top</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/15366.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MCM Top </link>
 </item>
 <item>
-<title>MOTORVISION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/218.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORVISION </link>
+<title>PT: Motorvision</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/15364.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motorvision </link>
 </item>
 <item>
-<title>MOTORS TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORS TV </link>
+<title>PT: MTV Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/15367.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MTV Portugal </link>
 </item>
 <item>
-<title>FIGHT NETWORK HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/874.ts&amp;streamtype=TSDOWNLOADER&amp;name=FIGHT NETWORK HD </link>
+<title>PT: Afro Music</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7750.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Afro Music </link>
 </item>
 <item>
-<title>TOROS TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/53.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS TV </link>
+<title>===== Informação =====</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/13833.ts&amp;streamtype=TSDOWNLOADER&amp;name====== Informação ===== </link>
 </item>
 <item>
-<title>FUEL TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/49.ts&amp;streamtype=TSDOWNLOADER&amp;name=FUEL TV </link>
+<title>PT: Record News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/15375.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Record News </link>
 </item>
 <item>
-<title>OUTDOOR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/795.ts&amp;streamtype=TSDOWNLOADER&amp;name=OUTDOOR HD </link>
+<title>PT: SIC Noticias</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7820.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Noticias </link>
 </item>
 <item>
-<title>MCS EXTREME</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/867.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS EXTREME </link>
+<title>PT: CMTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/7829.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CMTV </link>
 </item>
 <item>
-<title>MCS Lifestyle</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/885.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS Lifestyle </link>
+<title>PT: EUroNews</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/15361.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUroNews </link>
 </item>
 <item>
-<title>►►► Kids ◄◄◄</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/536.ts&amp;streamtype=TSDOWNLOADER&amp;name=►►► Kids ◄◄◄ </link>
+<title>Latino: DW</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/bulkygifts/211sxasZp5eFvwq/11719.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: DW </link>
 </item>
-<item>
-<title>CANAL PANDA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA </link>
-</item>
-<item>
-<title>BIGGS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/48.ts&amp;streamtype=TSDOWNLOADER&amp;name=BIGGS </link>
-</item>
-<item>
-<title>DISNEY JUNIOR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR </link>
-</item>
-<item>
-<title>DISNEY CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/66.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL </link>
-</item>
-<item>
-<title>JIM JAM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/210.ts&amp;streamtype=TSDOWNLOADER&amp;name=JIM JAM </link>
-</item>
-<item>
-<title>BABY FIRST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/799.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY FIRST </link>
-</item>
-<item>
-<title>SIC K</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/64.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC K </link>
-</item>
-<item>
-<title>BABY TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/239.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV </link>
-</item>
-<item>
-<title>NICKELODEON</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/115.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON </link>
-</item>
-<item>
-<title>CARTOON NETWORK PT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/117.ts&amp;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK PT </link>
-</item>
-<item>
-<title>►►► Series & Movies ◄◄◄</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/535.ts&amp;streamtype=TSDOWNLOADER&amp;name=►►► Series & Movies ◄◄◄ </link>
-</item>
-<item>
-<title>TVC1 LOW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/126.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVC1 LOW </link>
-</item>
-<item>
-<title>TVC2 LOW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/785.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVC2 LOW </link>
-</item>
-<item>
-<title>TVC3 LOW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/786.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVC3 LOW </link>
-</item>
-<item>
-<title>TVC4 LOW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/808.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVC4 LOW </link>
-</item>
-<item>
-<title>TVSERIES LOW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/809.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVSERIES LOW </link>
-</item>
-<item>
-<title>TVC 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/803.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVC 1 </link>
-</item>
-<item>
-<title>TVC 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/804.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVC 2 </link>
-</item>
-<item>
-<title>TVC 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/800.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVC 3 </link>
-</item>
-<item>
-<title>TVC 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/797.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVC 4 </link>
-</item>
-<item>
-<title>TVSERIES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/798.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVSERIES </link>
-</item>
-<item>
-<title>TVC 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/12.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVC 1 HD </link>
-</item>
-<item>
-<title>TVC2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/13.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVC2 HD </link>
-</item>
-<item>
-<title>TVC3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVC3 HD </link>
-</item>
-<item>
-<title>TVC4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/15.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVC4 HD </link>
-</item>
-<item>
-<title>TVSERIES HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVSERIES HD </link>
-</item>
-<item>
-<title>HOLLYWOOD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/775.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD </link>
-</item>
-<item>
-<title>HOLLYWOOD HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/16.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD HD </link>
-</item>
-<item>
-<title>AXN HD LOW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/140.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD LOW </link>
-</item>
-<item>
-<title>AXN BLACK LOW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/806.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN BLACK LOW </link>
-</item>
-<item>
-<title>AXN WHITE LOW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/807.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE LOW </link>
-</item>
-<item>
-<title>AXN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/20.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD </link>
-</item>
-<item>
-<title>AXN BLACK HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/22.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN BLACK HD </link>
-</item>
-<item>
-<title>AXN WHITE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/21.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE HD </link>
-</item>
-<item>
-<title>FOX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/23.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD </link>
-</item>
-<item>
-<title>FOX LIFE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE HD </link>
-</item>
-<item>
-<title>FOX MOVIES HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/17.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES HD </link>
-</item>
-<item>
-<title>FOX CRIME HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/25.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX CRIME HD </link>
-</item>
-<item>
-<title>FOX COMEDY HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/27.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY HD </link>
-</item>
-<item>
-<title>SYFY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY </link>
-</item>
-<item>
-<title>CINEMUNDO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/18.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO </link>
-</item>
-<item>
-<title>MOV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/19.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOV HD </link>
-</item>
-<item>
-<title>A&E</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/116.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&E </link>
-</item>
-<item>
-<title>AMC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/178.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC </link>
-</item>
-<item>
-<title>►►► Documentarios ◄◄◄</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/537.ts&amp;streamtype=TSDOWNLOADER&amp;name=►►► Documentarios ◄◄◄ </link>
-</item>
-<item>
-<title>NAT GEO WILD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/55.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD </link>
-</item>
-<item>
-<title>NATIONAL GEOGRAPHIC HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/54.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC HD </link>
-</item>
-<item>
-<title>DISCOVERY SHOWCASE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/56.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SHOWCASE HD </link>
-</item>
-<item>
-<title>DISCOVERY CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL </link>
-</item>
-<item>
-<title>BBC ENTERTAINMENT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC ENTERTAINMENT </link>
-</item>
-<item>
-<title>E! ENTERTAINMENT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=E! ENTERTAINMENT </link>
-</item>
-<item>
-<title>24 KITCHEN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/250.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 KITCHEN HD </link>
-</item>
-<item>
-<title>CANAL HISTORIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL HISTORIA </link>
-</item>
-<item>
-<title>ODISSEIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/58.ts&amp;streamtype=TSDOWNLOADER&amp;name=ODISSEIA </link>
-</item>
-<item>
-<title>CBS REALITY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS REALITY </link>
-</item>
-<item>
-<title>CACAVISION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/51.ts&amp;streamtype=TSDOWNLOADER&amp;name=CACAVISION </link>
-</item>
-<item>
-<title>CAÇA E PESCA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/52.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAÇA E PESCA </link>
-</item>
-<item>
-<title>TLC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/229.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC </link>
-</item>
-<item>
-<title>FOOD NETWORK HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/876.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOOD NETWORK HD </link>
-</item>
-<item>
-<title>FINE LIVING NETWORK HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/875.ts&amp;streamtype=TSDOWNLOADER&amp;name=FINE LIVING NETWORK HD </link>
-</item>
-<item>
-<title>BLOOMBERG</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/871.ts&amp;streamtype=TSDOWNLOADER&amp;name=BLOOMBERG </link>
-</item>
-<item>
-<title>FASHION TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/864.ts&amp;streamtype=TSDOWNLOADER&amp;name=FASHION TV </link>
-</item>
-<item>
-<title>TCV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/823.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCV </link>
-</item>
-<item>
-<title>►►► Music ◄◄◄</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/538.ts&amp;streamtype=TSDOWNLOADER&amp;name=►►► Music ◄◄◄ </link>
-</item>
-<item>
-<title>MTV PORTUGAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV PORTUGAL </link>
-</item>
-<item>
-<title>TRACE URBAN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/562.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRACE URBAN HD </link>
-</item>
-<item>
-<title>AFRO MUSIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/232.ts&amp;streamtype=TSDOWNLOADER&amp;name=AFRO MUSIC </link>
-</item>
-<item>
-<title>VH1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 </link>
-</item>
-<item>
-<title>VH1 CLASSIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/176.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 CLASSIC </link>
-</item>
-<item>
-<title>MCM POP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/72.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCM POP </link>
-</item>
-<item>
-<title>C- MUSIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/118.ts&amp;streamtype=TSDOWNLOADER&amp;name=C- MUSIC </link>
-</item>
-<item>
-<title>CANCAO NOVA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/872.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANCAO NOVA </link>
-</item>
-<item>
-<title>MEZZO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/884.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEZZO </link>
-</item>
-<item>
-<title>iCONCERTS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://server.iptvpro.biz:5500/live/roger/roger/882.ts&amp;streamtype=TSDOWNLOADER&amp;name=iCONCERTS </link>
-</item>
-
-
 
 
 

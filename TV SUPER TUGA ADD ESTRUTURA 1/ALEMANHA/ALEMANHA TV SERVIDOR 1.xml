@@ -25,6 +25,44 @@
 <fanart></fanart>
 </item>
 <item>       
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 21-03-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title>[COLOR] [COLOR red][/COLOR][B][COLOR red][B]P[/B][/COLOR][COLOR green][B]L[/B][/COLOR][COLOR orange][B]A[/B][/COLOR][COLOR red][B]Y[/B][/COLOR] [COLOR cyan]TV NEEDED [/COLOR][COLOR magenta]EXTRA ADDON [/COLOR][COLOR yellow]F4MTESTER [/COLOR]</title>
+<link>http://Movies.me</link>
+<jsonrpc>plugin://plugin.video.f4mTester/</jsonrpc>
+<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
+</item>
+
+<item>       
+<title>[COLOR red] [/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>       
+<title>            [COLOR red] ALEMANHA TV [/COLOR]  [COLOR lime]SERVIDOR 1[/COLOR]  </title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>       
 <title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 04-03-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
@@ -46,350 +84,6 @@
 <item>
 <title>ARD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/590.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARD </link>
-</item>
-<item>
-<title>ZDF</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/468.ts&amp;streamtype=TSDOWNLOADER&amp;name=ZDF </link>
-</item>
-<item>
-<title>ProSieben</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/471.ts&amp;streamtype=TSDOWNLOADER&amp;name=ProSieben </link>
-</item>
-<item>
-<title>SAT_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/472.ts&amp;streamtype=TSDOWNLOADER&amp;name=SAT_1 </link>
-</item>
-<item>
-<title>RTL.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/469.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL.HD </link>
-</item>
-<item>
-<title>RTL2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/470.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL2 </link>
-</item>
-<item>
-<title>Kabel_eins</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/474.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kabel_eins </link>
-</item>
-<item>
-<title>VOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/473.ts&amp;streamtype=TSDOWNLOADER&amp;name=VOX </link>
-</item>
-<item>
-<title>Das_Erst_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/467.ts&amp;streamtype=TSDOWNLOADER&amp;name=Das_Erst_HD </link>
-</item>
-<item>
-<title>Virgin_Radio-TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/599.ts&amp;streamtype=TSDOWNLOADER&amp;name=Virgin_Radio-TV </link>
-</item>
-<item>
-<title>MUNCHEN-TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/594.ts&amp;streamtype=TSDOWNLOADER&amp;name=MUNCHEN-TV </link>
-</item>
-<item>
-<title>AXN.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN.HD </link>
-</item>
-<item>
-<title>FOX_DE_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/550.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX_DE_HD </link>
-</item>
-<item>
-<title>ANIXE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/592.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANIXE </link>
-</item>
-<item>
-<title>DE_NTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/684.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_NTV </link>
-</item>
-<item>
-<title>DE_N24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/685.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_N24 </link>
-</item>
-<item>
-<title>=====KINO=====</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/475.ts&amp;streamtype=TSDOWNLOADER&amp;name======KINO===== </link>
-</item>
-<item>
-<title>SKY_CINEMA.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/745.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_CINEMA.HD </link>
-</item>
-<item>
-<title>Sky_Cinema</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/476.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky_Cinema </link>
-</item>
-<item>
-<title>Sky-Cinema+24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/477.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky-Cinema+24 </link>
-</item>
-<item>
-<title>Sky_Cinema+1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/773.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky_Cinema+1 </link>
-</item>
-<item>
-<title>SKY_ACTION.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/747.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_ACTION.HD </link>
-</item>
-<item>
-<title>Sky-Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/478.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky-Action </link>
-</item>
-<item>
-<title>AXN_ACTION.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/746.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN_ACTION.HD </link>
-</item>
-<item>
-<title>Sky_Comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/708.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky_Comedy </link>
-</item>
-<item>
-<title>MGM_DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/710.ts&amp;streamtype=TSDOWNLOADER&amp;name=MGM_DE </link>
-</item>
-<item>
-<title>Sky_Emotion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/547.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky_Emotion </link>
-</item>
-<item>
-<title>Sky_Hits_de</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/709.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky_Hits_de </link>
-</item>
-<item>
-<title>Sky_Hits</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/536.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky_Hits </link>
-</item>
-<item>
-<title>TNT_Film</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/548.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT_Film </link>
-</item>
-<item>
-<title>----------PPV-----------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/563.ts&amp;streamtype=TSDOWNLOADER&amp;name=----------PPV----------- </link>
-</item>
-<item>
-<title>Sky-Select.HD1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/554.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky-Select.HD1 </link>
-</item>
-<item>
-<title>Sky-Select.HD2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/556.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky-Select.HD2 </link>
-</item>
-<item>
-<title>Sky-Select.HD3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/557.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky-Select.HD3 </link>
-</item>
-<item>
-<title>Sky-Select.HD4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/558.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky-Select.HD4 </link>
-</item>
-<item>
-<title>Sky-Select.HD5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/560.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky-Select.HD5 </link>
-</item>
-<item>
-<title>Sky-Select.HD6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/561.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky-Select.HD6 </link>
-</item>
-<item>
-<title>Sky-Select.HD7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/562.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky-Select.HD7 </link>
-</item>
-<item>
-<title>Sky-Select.HD8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/564.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky-Select.HD8 </link>
-</item>
-<item>
-<title>Sky-Select.9HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/759.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky-Select.9HD </link>
-</item>
-<item>
-<title>Sky-Select.10HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/760.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky-Select.10HD </link>
-</item>
-<item>
-<title>----------Unterhaltung-----------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/559.ts&amp;streamtype=TSDOWNLOADER&amp;name=----------Unterhaltung----------- </link>
-</item>
-<item>
-<title>SYFY-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/742.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY-HD </link>
-</item>
-<item>
-<title>Sky_ATLANTIC_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/537.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky_ATLANTIC_HD </link>
-</item>
-<item>
-<title>SKY_ATLANTIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_ATLANTIC </link>
-</item>
-<item>
-<title>AXN_DE_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/553.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN_DE_HD </link>
-</item>
-<item>
-<title>13th_Street.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/542.ts&amp;streamtype=TSDOWNLOADER&amp;name=13th_Street.HD </link>
-</item>
-<item>
-<title>13th_Street_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/549.ts&amp;streamtype=TSDOWNLOADER&amp;name=13th_Street_HD </link>
-</item>
-<item>
-<title>TNT_Serie</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/711.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT_Serie </link>
-</item>
-<item>
-<title>RTL_Passion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/713.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL_Passion </link>
-</item>
-<item>
-<title>RTL_LIVING</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/714.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL_LIVING </link>
-</item>
-<item>
-<title>RTL_Crime</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/715.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL_Crime </link>
-</item>
-<item>
-<title>RomanceTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/712.ts&amp;streamtype=TSDOWNLOADER&amp;name=RomanceTV </link>
-</item>
-<item>
-<title>RUSSIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1100.ts&amp;streamtype=TSDOWNLOADER&amp;name=RUSSIA </link>
-</item>
-<item>
-<title>++++Sport++++</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/504.ts&amp;streamtype=TSDOWNLOADER&amp;name=++++Sport++++ </link>
-</item>
-<item>
-<title>DE_Sky_SportNews_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/570.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_SportNews_HD </link>
-</item>
-<item>
-<title>SKY_SPORT1.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/733.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_SPORT1.HD </link>
-</item>
-<item>
-<title>SKY_SPORT2.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/734.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_SPORT2.HD </link>
-</item>
-<item>
-<title>Sky-Sport-1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/505.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky-Sport-1 </link>
-</item>
-<item>
-<title>Sky-Sport-2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/506.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky-Sport-2 </link>
-</item>
-<item>
-<title>SKY_BUNDESLIGA-1-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/432.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_BUNDESLIGA-1-HD </link>
-</item>
-<item>
-<title>SKY_BUNDESLIGA-2-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/431.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_BUNDESLIGA-2-HD </link>
-</item>
-<item>
-<title>SKY_BUNDESLIGA-3-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/430.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_BUNDESLIGA-3-HD </link>
-</item>
-<item>
-<title>EUROSPORT_DE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/546.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT_DE </link>
-</item>
-<item>
-<title>Motorvision_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/717.ts&amp;streamtype=TSDOWNLOADER&amp;name=Motorvision_TV </link>
-</item>
-<item>
-<title>----------Kultur-----------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/540.ts&amp;streamtype=TSDOWNLOADER&amp;name=----------Kultur----------- </link>
-</item>
-<item>
-<title>Discovery-Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/552.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery-Channel </link>
-</item>
-<item>
-<title>NAT_GEO.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/743.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT_GEO.HD </link>
-</item>
-<item>
-<title>Nat_GEO_DE_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/538.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat_GEO_DE_HD </link>
-</item>
-<item>
-<title>NAT_GEO_WILD-DE_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/543.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT_GEO_WILD-DE_HD </link>
-</item>
-<item>
-<title>SKY_DISCOVERY.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/744.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_DISCOVERY.HD </link>
-</item>
-<item>
-<title>Sky_Descovery_de_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/539.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky_Descovery_de_HD </link>
-</item>
-<item>
-<title>DMAX_DE_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/555.ts&amp;streamtype=TSDOWNLOADER&amp;name=DMAX_DE_HD </link>
-</item>
-<item>
-<title>History-DE_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/545.ts&amp;streamtype=TSDOWNLOADER&amp;name=History-DE_HD </link>
-</item>
-<item>
-<title>TLC_Crime</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/569.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC_Crime </link>
-</item>
-<item>
-<title>DE_A&E</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/568.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_A&E </link>
-</item>
-<item>
-<title>----------News_DE-----------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/572.ts&amp;streamtype=TSDOWNLOADER&amp;name=----------News_DE----------- </link>
-</item>
-<item>
-<title>HSE24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/595.ts&amp;streamtype=TSDOWNLOADER&amp;name=HSE24 </link>
-</item>
-<item>
-<title>DE_DW</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/573.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_DW </link>
-</item>
-<item>
-<title>DE_24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/574.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_24 </link>
-</item>
-<item>
-<title>AUSTRIA-24.TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/593.ts&amp;streamtype=TSDOWNLOADER&amp;name=AUSTRIA-24.TV </link>
-</item>
-<item>
-<title>----------Kinder----------</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/565.ts&amp;streamtype=TSDOWNLOADER&amp;name=----------Kinder---------- </link>
-</item>
-<item>
-<title>Disney_Cinemagic_de</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/720.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney_Cinemagic_de </link>
-</item>
-<item>
-<title>Disney_XD _de</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/719.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney_XD _de </link>
-</item>
-<item>
-<title>Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/718.ts&amp;streamtype=TSDOWNLOADER&amp;name=Junior </link>
-</item>
-<item>
-<title>DE_Nickelodeon</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/566.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Nickelodeon </link>
-</item>
-<item>
-<title>Kika_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/567.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kika_HD </link>
 </item>
 
   
