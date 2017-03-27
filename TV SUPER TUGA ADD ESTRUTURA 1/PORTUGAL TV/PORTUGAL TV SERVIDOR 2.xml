@@ -23,7 +23,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 21-03-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 28-03-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -36,451 +36,234 @@
 
 
 
-
-
-
-
 <item>
-<title>PT: TVI Reality HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3561.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI Reality HD </link>
+<title>PT: Spor tv 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/880.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Spor tv 1 </link>
 </item>
 <item>
-<title>PT: TVI HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3575.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI HD </link>
+<title>PT: SporTV 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/881.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SporTV 2 </link>
 </item>
 <item>
-<title>PT: TV Diario Brasil</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3559.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Diario Brasil </link>
+<title>PT: SporTV 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/882.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SporTV 3 </link>
 </item>
 <item>
-<title>PT: TV Brasil</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3558.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Brasil </link>
+<title>PT: SporTV 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/883.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SporTV 4 </link>
 </item>
 <item>
-<title>PT: RTP Internacional</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3560.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Internacional </link>
-</item>
-<item>
-<title>PT: RTP Africa</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3564.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Africa </link>
-</item>
-<item>
-<title>PT: RTP Acores</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3563.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Acores </link>
-</item>
-<item>
-<title>PT: RTP 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3566.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2 HD </link>
-</item>
-<item>
-<title>PT: RTP 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3565.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1 HD </link>
-</item>
-<item>
-<title>PT: Real Madrid TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3562.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Real Madrid TV </link>
-</item>
-<item>
-<title>PT: Porto Canal</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3544.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Porto Canal </link>
-</item>
-<item>
-<title>PT: PFC HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3572.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PFC HD </link>
-</item>
-<item>
-<title>PT: National Geographic Wild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3577.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: National Geographic Wild </link>
-</item>
-<item>
-<title>PT: Motorvision HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3568.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motorvision HD </link>
-</item>
-<item>
-<title>PT: Fight Network HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3570.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fight Network HD </link>
-</item>
-<item>
-<title>PT: Discovery Showcase</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3578.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery Showcase </link>
-</item>
-<item>
-<title>PT: CMTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3555.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CMTV </link>
-</item>
-<item>
-<title>PT: Cinemundo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3574.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cinemundo </link>
-</item>
-<item>
-<title>PT: Cartoon Network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3576.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cartoon Network </link>
-</item>
-<item>
-<title>PT: Benfica TV 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3571.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica TV 2 </link>
-</item>
-<item>
-<title>PT:TVE/TV_Cultura(PARANÃ)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1939.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVE/TV_Cultura(PARANÃ) </link>
-</item>
-<item>
-<title>PT:TV_Urbana</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1940.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV_Urbana </link>
-</item>
-<item>
-<title>PT:TV_MAS_Veracruz</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1941.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV_MAS_Veracruz </link>
-</item>
-<item>
-<title>PT:TV_GALICIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1958.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV_GALICIA </link>
-</item>
-<item>
-<title>PT:TV_CINE_SERIES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1919.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV_CINE_SERIES </link>
-</item>
-<item>
-<title>PT:TV_CINE_HD_4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1922.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV_CINE_HD_4 </link>
-</item>
-<item>
-<title>PT:TV_CINE_HD_3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1921.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV_CINE_HD_3 </link>
-</item>
-<item>
-<title>PT:TV_CINE_2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1920.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV_CINE_2_HD </link>
-</item>
-<item>
-<title>PT:Travel_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1942.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Travel_TV </link>
-</item>
-<item>
-<title>PT: Sport TV 4 SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3986.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV 4 SD </link>
-</item>
-<item>
-<title>PT: Sport TV 3 sd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3985.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV 3 sd </link>
-</item>
-<item>
-<title>PT: Sport TV 2 SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3984.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV 2 SD </link>
-</item>
-<item>
-<title>PT: SPORT TV 1 sd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3983.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 1 sd </link>
-</item>
-<item>
-<title>PT:SPORT_TV_5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1927.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SPORT_TV_5 </link>
-</item>
-<item>
-<title>PT:SPORT_TV_4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1926.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SPORT_TV_4 </link>
-</item>
-<item>
-<title>PT:SPORT_TV_3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1925.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SPORT_TV_3 </link>
-</item>
-<item>
-<title>PT:SPORT_TV_2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1924.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SPORT_TV_2 </link>
-</item>
-<item>
-<title>PT:SPORT_TV_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1923.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SPORT_TV_1 </link>
-</item>
-<item>
-<title>PT:REDE_TV2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1944.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:REDE_TV2 </link>
-</item>
-<item>
-<title>PT:REDE_GOSPEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1945.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:REDE_GOSPEL </link>
-</item>
-<item>
-<title>PT:PFC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1956.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:PFC </link>
-</item>
-<item>
-<title>PT:PANDA_BIGGS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1955.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:PANDA_BIGGS </link>
-</item>
-<item>
-<title>PT:NATIONAL_GEO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1929.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:NATIONAL_GEO </link>
-</item>
-<item>
-<title>PT:MTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1930.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MTV </link>
-</item>
-<item>
-<title>PT:Motorvision</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1954.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Motorvision </link>
-</item>
-<item>
-<title>PT:JIM_JAM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1953.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:JIM_JAM </link>
-</item>
-<item>
-<title>PT:Fuel_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1932.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Fuel_TV </link>
-</item>
-<item>
-<title>PT:Extra_TV_Canal_42</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1947.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Extra_TV_Canal_42 </link>
-</item>
-<item>
-<title>PT:EUROSPORT_NEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1952.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:EUROSPORT_NEWS </link>
-</item>
-<item>
-<title>PT:El_Trece</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1948.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:El_Trece </link>
-</item>
-<item>
-<title>PT:Colosal_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1949.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Colosal_TV </link>
-</item>
-<item>
-<title>PT:Cartoon</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1934.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Cartoon </link>
-</item>
-<item>
-<title>PT:Canal Sports</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1957.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Canal Sports </link>
-</item>
-<item>
-<title>PT:BENFICA_TV_2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1936.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BENFICA_TV_2 </link>
-</item>
-<item>
-<title>PT:BENFICA_TV_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1935.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BENFICA_TV_1 </link>
-</item>
-<item>
-<title>PT:Afro Music</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1938.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Afro Music </link>
-</item>
-<item>
-<title>PT:24KITCHEN_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1937.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:24KITCHEN_HD </link>
-</item>
-<item>
-<title>PT: TVI REALITY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1868.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI REALITY </link>
-</item>
-<item>
-<title>PT: TVI Ficcao</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1880.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI Ficcao </link>
-</item>
-<item>
-<title>PT: TVI 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1867.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24 </link>
-</item>
-<item>
-<title>PT: TVI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1869.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI </link>
-</item>
-<item>
-<title>PT: TVCine 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1881.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 5 </link>
-</item>
-<item>
-<title>PT: TVCine 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1883.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 3 </link>
-</item>
-<item>
-<title>PT: TVCine 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1884.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 2 </link>
-</item>
-<item>
-<title>PT: TVCine 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1885.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 1 </link>
-</item>
-<item>
-<title>PT: TV SERIES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1870.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV SERIES </link>
-</item>
-<item>
-<title>PT: TV RECORD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1871.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV RECORD </link>
-</item>
-<item>
-<title>PT: TV GLOBO PREMIUM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1872.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO PREMIUM </link>
-</item>
-<item>
-<title>PT: TV Globo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1873.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo </link>
-</item>
-<item>
-<title>PT: TV CINE 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1882.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 4 </link>
-</item>
-<item>
-<title>PT: Toros tv</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1864.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Toros tv </link>
-</item>
-<item>
-<title>PT: TLC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1899.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TLC </link>
-</item>
-<item>
-<title>PT: SYFY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1874.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SYFY </link>
+<title>PT: SporTV 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/884.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SporTV 5 </link>
 </item>
 <item>
 <title>PT: Sporting TV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1865.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sporting TV HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/885.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sporting TV HD </link>
 </item>
 <item>
-<title>PT: Sic Radical</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1890.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Radical </link>
+<title>PT: Benfica TV 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/899.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica TV 2 </link>
 </item>
 <item>
-<title>PT: SIC NOTICIAS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1886.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC NOTICIAS </link>
+<title>PT: Benfica TV 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/900.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica TV 1 </link>
 </item>
 <item>
-<title>PT: Sic Mulher</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1887.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Mulher </link>
+<title>PT: TVCine 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/936.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 1 </link>
 </item>
 <item>
-<title>PT: SIC KIDS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1888.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC KIDS </link>
+<title>PT: TVCine 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/935.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 2 </link>
 </item>
 <item>
-<title>PT: SIC Caras</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1866.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Caras </link>
+<title>PT: TVCine 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/934.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 3 </link>
 </item>
 <item>
-<title>PT: SIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1889.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC </link>
+<title>PT: TVCine 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/933.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 4 </link>
 </item>
 <item>
-<title>PT: RTP3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1894.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP3 </link>
+<title>PT: TVCseries</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/930.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCseries </link>
 </item>
 <item>
-<title>PT: RTP Memoria</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1891.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Memoria </link>
+<title>PT: VeVo 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/898.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VeVo 1 HD </link>
 </item>
 <item>
-<title>PT: RTP Madeira</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1892.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Madeira </link>
+<title>PT: VeVo 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/897.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VeVo 2 HD </link>
 </item>
 <item>
-<title>PT: RTP 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1895.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2 </link>
-</item>
-<item>
-<title>PT: RTP 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1896.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1 </link>
-</item>
-<item>
-<title>PT: Record</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1897.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Record </link>
-</item>
-<item>
-<title>PT: ODISSEIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1900.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ODISSEIA </link>
-</item>
-<item>
-<title>PT: NICKELODEON</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1901.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NICKELODEON </link>
-</item>
-<item>
-<title>PT: NAT GEO HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1902.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NAT GEO HD </link>
-</item>
-<item>
-<title>PT: Motors TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1898.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motors TV </link>
-</item>
-<item>
-<title>PT: Hollywood</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1875.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Hollywood </link>
-</item>
-<item>
-<title>PT: HISTORIA HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1903.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: HISTORIA HD </link>
-</item>
-<item>
-<title>PT: FOX MOVIES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1909.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX MOVIES </link>
-</item>
-<item>
-<title>PT: FOX LIFE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1910.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX LIFE </link>
-</item>
-<item>
-<title>PT: FOX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1912.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX HD </link>
-</item>
-<item>
-<title>PT: Fox Crime</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1908.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Crime </link>
-</item>
-<item>
-<title>PT: Fox Comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1911.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Comedy </link>
-</item>
-<item>
-<title>PT: E! ENTERTAINMENT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1904.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: E! ENTERTAINMENT </link>
-</item>
-<item>
-<title>PT: Disney Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1906.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Junior </link>
-</item>
-<item>
-<title>PT: Disney Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1876.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel </link>
-</item>
-<item>
-<title>PT: Discovery HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1907.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery HD </link>
-</item>
-<item>
-<title>PT: CM TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1877.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CM TV </link>
-</item>
-<item>
-<title>PT: Canal Porto</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1905.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Porto </link>
-</item>
-<item>
-<title>PT: CANAL PANDA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1878.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL PANDA </link>
-</item>
-<item>
-<title>PT: AXN WHITE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1913.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN WHITE </link>
+<title>PT: VeVo 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/896.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VeVo 3 HD </link>
 </item>
 <item>
 <title>PT: AXN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1915.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/915.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD </link>
 </item>
 <item>
-<title>PT: AXN BLACK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1914.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN BLACK </link>
+<title>PT: Axn White HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/916.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Axn White HD </link>
+</item>
+<item>
+<title>PT: Axn Black HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/932.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Axn Black HD </link>
+</item>
+<item>
+<title>PT: Fox Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/923.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Comedy </link>
+</item>
+<item>
+<title>PT: Fox HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/926.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox HD </link>
+</item>
+<item>
+<title>PT: Fox Life HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/925.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Life HD </link>
+</item>
+<item>
+<title>PT: Fox Crime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/901.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Crime </link>
+</item>
+<item>
+<title>PT: Toros tv</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/909.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Toros tv </link>
+</item>
+<item>
+<title>PT: TVI Ficcao</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/886.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI Ficcao </link>
+</item>
+<item>
+<title>PT: TVI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/889.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI </link>
+</item>
+<item>
+<title>PT: TVI 24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/887.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24 </link>
+</item>
+<item>
+<title>PT: TV Globo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/888.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo </link>
+</item>
+<item>
+<title>PT: SIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/924.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC </link>
+</item>
+<item>
+<title>PT: SIC K</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/919.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC K </link>
+</item>
+<item>
+<title>PT: SIC Noticias</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/903.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Noticias </link>
+</item>
+<item>
+<title>PT: Sic Radical</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/914.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Radical </link>
+</item>
+<item>
+<title>PT: SIC Caras</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/912.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Caras </link>
+</item>
+<item>
+<title>PT: Sic Mulher</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/913.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Mulher </link>
+</item>
+<item>
+<title>PT: RTP Memoria</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/890.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Memoria </link>
+</item>
+<item>
+<title>PT: RTP Madeira</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/891.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Madeira </link>
+</item>
+<item>
+<title>PT: RTP Acores</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/893.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Acores </link>
+</item>
+<item>
+<title>PT: RTP 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/894.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2 </link>
+</item>
+<item>
+<title>PT: RTP 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/895.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1 </link>
+</item>
+<item>
+<title>PT: CM TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/908.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CM TV </link>
+</item>
+<item>
+<title>PT: TV Globo Premium</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/931.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo Premium </link>
+</item>
+<item>
+<title>PT: Record</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/917.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Record </link>
+</item>
+<item>
+<title>PT: PFC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/911.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PFC </link>
+</item>
+<item>
+<title>PT: Jim Jim</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/918.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Jim Jim </link>
+</item>
+<item>
+<title>PT: SyFy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/902.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SyFy </link>
+</item>
+<item>
+<title>PT: MOV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/929.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD </link>
+</item>
+<item>
+<title>PT: CartoonNet Work</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/920.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CartoonNet Work </link>
+</item>
+<item>
+<title>PT: Motors TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/921.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motors TV </link>
+</item>
+<item>
+<title>PT: Cine Mundo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/892.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cine Mundo </link>
+</item>
+<item>
+<title>PT: EuroSpor News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/922.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSpor News </link>
+</item>
+<item>
+<title>PT: Hollywood</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/907.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Hollywood </link>
+</item>
+<item>
+<title>PT: EuroSport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/927.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSport 2 </link>
+</item>
+<item>
+<title>PT: EuroSport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/928.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSport </link>
+</item>
+<item>
+<title>PT: Disney Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/905.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Junior </link>
+</item>
+<item>
+<title>PT: Disney Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/904.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel </link>
+</item>
+<item>
+<title>PT: Discovery HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/906.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery HD </link>
 </item>
 <item>
 <title>PT: Abola tv</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1916.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Abola tv </link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/910.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Abola tv </link>
 </item>
-<item>
-<title>PT: A BOLA TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/1879.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A BOLA TV </link>
-</item>
-
-
-
-
-
 
 
 

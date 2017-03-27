@@ -25,7 +25,7 @@
 <fanart></fanart>
 </item>
 <item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 21-03-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
+<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 28-03-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
@@ -33,189 +33,336 @@
 </item>
 
 
-<item>
-<title>DE: ZDF HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3327.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF HD </link>
-</item>
-<item>
-<title>DE: WDR HD Aachen</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3342.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: WDR HD Aachen </link>
-</item>
-<item>
-<title>DE: VOX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3337.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VOX HD </link>
-</item>
-<item>
-<title>DE: VIVA/Comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3338.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VIVA/Comedy </link>
-</item>
-<item>
-<title>DE: TNT Serie HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3339.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Serie HD </link>
-</item>
-<item>
-<title>DE: TNT Film</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3340.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Film </link>
-</item>
-<item>
-<title>DE: Super RTL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3341.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Super RTL HD </link>
-</item>
-<item>
-<title>DE: Sport1   HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3363.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sport1   HD </link>
-</item>
-<item>
-<title>DE: Sport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3364.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sport 1 HD </link>
-</item>
+
+
+
+
+
+
+
 <item>
 <title>DE: Sky Sport News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3333.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport News </link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/759.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport News </link>
 </item>
 <item>
-<title>DE: Sky Sport 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3334.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 2 HD </link>
+<title>DE: Sky Sport +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/761.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport +1 </link>
 </item>
 <item>
 <title>DE: Sky Sport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3335.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 1 HD </link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/829.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 1 HD </link>
 </item>
 <item>
-<title>DE: Sky Hits HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3329.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Hits HD </link>
+<title>DE: Sky Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/826.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 2 HD </link>
+</item>
+<item>
+<title>DE: Sky Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/827.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 1 </link>
+</item>
+<item>
+<title>DE: Sky Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/828.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 2 </link>
+</item>
+<item>
+<title>DE: Sky Eurosport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/809.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Eurosport </link>
+</item>
+<item>
+<title>DE: Sky Bundesliga HD 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/810.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga HD 1 </link>
+</item>
+<item>
+<title>DE: Sky Sport Austria</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/807.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport Austria </link>
+</item>
+<item>
+<title>DE: Sky Select 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/825.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 1 </link>
+</item>
+<item>
+<title>DE: Sky Select 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/824.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 2 </link>
+</item>
+<item>
+<title>DE: Sky Select 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/823.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 3 </link>
+</item>
+<item>
+<title>DE: Sky Select 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/822.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 4 </link>
+</item>
+<item>
+<title>DE: Sky Select 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/821.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 5 </link>
+</item>
+<item>
+<title>DE: Sky Select 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/820.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 6 </link>
+</item>
+<item>
+<title>DE: Sky Select 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/819.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 7 </link>
+</item>
+<item>
+<title>DE: Sky Select 8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/818.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 8 </link>
+</item>
+<item>
+<title>DE: Sky Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/804.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Action </link>
+</item>
+<item>
+<title>DE: Sky Cinema</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/808.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema </link>
+</item>
+<item>
+<title>DE: Sky Cinema +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/806.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema +1 </link>
+</item>
+<item>
+<title>DE: Sky Cinema +24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/805.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema +24 </link>
 </item>
 <item>
 <title>DE: Sky Emotion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3330.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Emotion </link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/801.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Emotion </link>
 </item>
 <item>
 <title>DE: Sky Comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3331.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Comedy </link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/799.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Comedy </link>
 </item>
 <item>
-<title>DE: Sky Cinema HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3332.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema HD </link>
+<title>DE: Sky HITS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/802.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky HITS </link>
 </item>
 <item>
-<title>DE: Sky Bundesliga 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3336.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 1 HD </link>
+<title>DE: Sky Comedy Central</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/786.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Comedy Central </link>
 </item>
 <item>
-<title>DE: Sky Action HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3328.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Action HD </link>
+<title>DE: Sky Teleclub Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/751.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Teleclub Sport 1 </link>
 </item>
 <item>
-<title>DE: SIXX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3343.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SIXX HD </link>
+<title>DE: Sky Teleclub Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/750.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Teleclub Sport 2 </link>
 </item>
 <item>
-<title>DE: Sat.1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3344.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sat.1 HD </link>
+<title>DE: Sky Teleclub Sport 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/749.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Teleclub Sport 3 </link>
 </item>
 <item>
-<title>DE: RTL Passion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3345.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Passion </link>
+<title>DE: Sky Teleclub Crime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/748.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Teleclub Crime </link>
 </item>
 <item>
-<title>DE: RTL Nitro HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3346.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Nitro HD </link>
+<title>DE: Sky Teleclub Cinema</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/747.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Teleclub Cinema </link>
 </item>
 <item>
-<title>DE: RTL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3347.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL HD </link>
+<title>DE: Sky Teleclub Star</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/746.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Teleclub Star </link>
 </item>
 <item>
-<title>DE: RTL Crime</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3348.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Crime </link>
+<title>DE: Sky RTL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/779.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky RTL </link>
 </item>
 <item>
-<title>DE: RTL 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3349.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL 2 HD </link>
+<title>DE: Sky RTL 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/778.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky RTL 2 </link>
 </item>
 <item>
-<title>DE: ProSieben Maxx HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3350.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ProSieben Maxx HD </link>
+<title>DE: Sky RTL Crime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/752.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky RTL Crime </link>
 </item>
 <item>
-<title>DE: ProSieben HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3351.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ProSieben HD </link>
+<title>DE: Sky RTL Passion</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/774.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky RTL Passion </link>
 </item>
 <item>
-<title>DE: ProSieben FUN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3352.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ProSieben FUN HD </link>
+<title>DE: Sky RTL Super</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/800.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky RTL Super </link>
 </item>
 <item>
-<title>DE: ORF 2N HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3353.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF 2N HD </link>
+<title>DE: Sky RTL Nitro</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/776.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky RTL Nitro </link>
 </item>
 <item>
-<title>DE: ORF 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3354.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF 1 HD </link>
+<title>DE: Sky RTL Plus</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/812.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky RTL Plus </link>
 </item>
 <item>
-<title>DE: NDR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3355.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NDR HD </link>
+<title>DE: Sky RTL Regional</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/813.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky RTL Regional </link>
 </item>
 <item>
-<title>DE: NatGeo HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3356.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NatGeo HD </link>
+<title>DE: Sky Nostalgie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/784.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Nostalgie </link>
 </item>
 <item>
-<title>DE: N24 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3357.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: N24 HD </link>
+<title>DE: Sky Sat1 Gold</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/777.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sat1 Gold </link>
 </item>
 <item>
-<title>DE: n-tv HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3358.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: n-tv HD </link>
+<title>DE: Sky Austria 24 TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/796.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Austria 24 TV </link>
 </item>
 <item>
-<title>DE: Motorvision TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3359.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Motorvision TV </link>
+<title>DE: Sky Kino Welt tv</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/791.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Kino Welt tv </link>
 </item>
 <item>
-<title>DE: KIKA HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3360.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: KIKA HD </link>
+<title>DE: Sky ZDF Info</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/790.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky ZDF Info </link>
 </item>
 <item>
-<title>DE: Kabel Eins HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3361.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kabel Eins HD </link>
+<title>DE: Sky SRF 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/783.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky SRF 1 </link>
 </item>
 <item>
-<title>DE: HR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3362.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: HR HD </link>
+<title>DE: Sky SRF 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/782.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky SRF 2 </link>
 </item>
 <item>
-<title>DE: Eurosport HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3365.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Eurosport HD </link>
+<title>DE: Sky ORF 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/772.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky ORF 2 </link>
 </item>
 <item>
-<title>DE: Disney HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3366.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney HD </link>
+<title>DE: Sky ORF Enis</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/771.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky ORF Enis </link>
 </item>
 <item>
-<title>DE: Disney Cinemagic HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3367.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Cinemagic HD </link>
+<title>DE: Sky VOX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/788.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky VOX </link>
 </item>
 <item>
-<title>DE: Das Erste HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3368.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Das Erste HD </link>
+<title>DE: Sky FOX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/787.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky FOX </link>
 </item>
 <item>
-<title>DE: AXN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3369.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: AXN HD </link>
+<title>DE: Sky Sony HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/754.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sony HD </link>
 </item>
 <item>
-<title>DE: ATV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3370.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ATV </link>
+<title>DE: Sky One</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/753.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky One </link>
 </item>
 <item>
-<title>DE: arte HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3371.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: arte HD </link>
+<title>DE: Sky TNT Comedy HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/811.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky TNT Comedy HD </link>
 </item>
 <item>
-<title>DE: Anixe HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/promotryp/ID43089219/3372.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Anixe HD </link>
+<title>DE: Sky TNT Serie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/794.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky TNT Serie </link>
+</item>
+<item>
+<title>DE: Sky TNT Film</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/758.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky TNT Film </link>
+</item>
+<item>
+<title>DE: Sky Disney Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/795.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Disney Channel </link>
+</item>
+<item>
+<title>DE: Sky  ZEE ONE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/814.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky  ZEE ONE </link>
+</item>
+<item>
+<title>DE: Sky Nickelodeon</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/797.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Nickelodeon </link>
+</item>
+<item>
+<title>DE: Sky National Geographic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/792.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky National Geographic </link>
+</item>
+<item>
+<title>DE: Sky Nat Geo wild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/793.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Nat Geo wild </link>
+</item>
+<item>
+<title>DE: Sky History</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/762.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky History </link>
+</item>
+<item>
+<title>DE: Sky AXN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/760.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky AXN HD </link>
+</item>
+<item>
+<title>DE: Sky 13th Street</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/780.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky 13th Street </link>
+</item>
+<item>
+<title>DE: Sky RBB Berlin</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/775.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky RBB Berlin </link>
+</item>
+<item>
+<title>DE: Sky Phoenix</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/769.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Phoenix </link>
+</item>
+<item>
+<title>DE: Sky Atlantic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/798.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Atlantic </link>
+</item>
+<item>
+<title>DE: Sky Wdr</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/789.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Wdr </link>
+</item>
+<item>
+<title>DE: Sky Sixx</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/785.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sixx </link>
+</item>
+<item>
+<title>DE: Sky Pro 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/773.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Pro 7 </link>
+</item>
+<item>
+<title>DE: Sky NDR HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/768.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky NDR HD </link>
+</item>
+<item>
+<title>DE: Sky N24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/767.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky N24 </link>
+</item>
+<item>
+<title>DE: Sky N-TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/766.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky N-TV </link>
+</item>
+<item>
+<title>DE: Sky Romance</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/765.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Romance </link>
+</item>
+<item>
+<title>DE: Sky Krimi HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/803.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Krimi HD </link>
+</item>
+<item>
+<title>DE: Sky Kika</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/764.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Kika </link>
+</item>
+<item>
+<title>DE: Sky Kabel 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/763.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Kabel 1 </link>
+</item>
+<item>
+<title>DE: Sky Dmax</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/770.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Dmax </link>
+</item>
+<item>
+<title>DE: Sky Pro 7 Max</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/757.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Pro 7 Max </link>
+</item>
+<item>
+<title>DE: Sky Arte</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/756.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Arte </link>
+</item>
+<item>
+<title>DE: Sky ARD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/755.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky ARD </link>
+</item>
+<item>
+<title>DE: Sky 3sat</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/781.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky 3sat </link>
 </item>
 
 
