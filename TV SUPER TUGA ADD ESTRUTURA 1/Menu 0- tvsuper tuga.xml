@@ -4770,7 +4770,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </subitem>
 </item>
 
-
+<plugin>
+<name>[COLOR yellow]• [/COLOR] [COLOR lavenderblush]CLEAR CACHE[/COLOR]</name>
+<link>plugin://plugin.video.TVsupertuga/?action=clearCache</link>
+<thumbnail>https://lh4.ggpht.com/Ssuv0CPnQkYAx1RjrYwX1BiK6t44_6kIddRWIKqzRqkb26sGrIgUzr1VOHqxpsoD4g=w300</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
+</plugin>
 <channel>
 <name>                                                                                                        [COLOR] [COLOR red][/COLOR][B]Total[COLOR red][B]p[/B][/COLOR][COLOR green][B]l[/B][/COLOR][COLOR orange][B]a[/B][/COLOR][COLOR red][B]y[/B][/COLOR]</name>
 <link>http://ignorame</link><thumbnail>http://www.esar.edu.pt/portal/images/outros/icon.jpg</thumbnail><fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
